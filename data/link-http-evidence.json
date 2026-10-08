@@ -1,0 +1,1256 @@
+{
+  "https://files.queensown.org/Blackbird.pdf": {
+    "checked_at": "2026-10-08T12:29:52.619336+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Blackbird.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Blackbird.pdf"
+  },
+  "https://files.queensown.org/Bonds.pdf": {
+    "checked_at": "2026-10-08T12:29:52.619916+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Bonds.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Bonds.pdf"
+  },
+  "https://files.queensown.org/Companions.pdf": {
+    "checked_at": "2026-10-08T12:29:52.620248+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Companions.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Companions.pdf"
+  },
+  "https://files.queensown.org/Dance.pdf": {
+    "checked_at": "2026-10-08T12:29:52.620596+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Dance.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Dance.pdf"
+  },
+  "https://files.queensown.org/Danya.pdf": {
+    "checked_at": "2026-10-08T12:29:52.620915+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Danya.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Danya.pdf"
+  },
+  "https://files.queensown.org/Fox.pdf": {
+    "checked_at": "2026-10-08T12:29:52.621510+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Fox.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Fox.pdf"
+  },
+  "https://files.queensown.org/Havenbound.pdf": {
+    "checked_at": "2026-10-08T12:29:52.621821+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Havenbound.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Havenbound.pdf"
+  },
+  "https://files.queensown.org/Hour.pdf": {
+    "checked_at": "2026-10-08T12:29:52.622201+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Hour.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Hour.pdf"
+  },
+  "https://files.queensown.org/Kaylan.pdf": {
+    "checked_at": "2026-10-08T12:29:52.963460+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Kaylan.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Kaylan.pdf"
+  },
+  "https://files.queensown.org/Misty.pdf": {
+    "checked_at": "2026-10-08T12:29:52.965319+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Misty.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Misty.pdf"
+  },
+  "https://files.queensown.org/Pirate.pdf": {
+    "checked_at": "2026-10-08T12:29:52.965411+00:00",
+    "final_url": "https://files.queensown.org/Pirate.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/Pirate.pdf"
+  },
+  "https://files.queensown.org/Potter.pdf": {
+    "checked_at": "2026-10-08T12:29:52.975361+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Potter.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Potter.pdf"
+  },
+  "https://files.queensown.org/They.pdf": {
+    "checked_at": "2026-10-08T12:29:52.980514+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/They.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/They.pdf"
+  },
+  "https://files.queensown.org/Triptych.pdf": {
+    "checked_at": "2026-10-08T12:29:53.047251+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/Triptych.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/Triptych.pdf"
+  },
+  "https://files.queensown.org/qoApr-May2019.pdf": {
+    "checked_at": "2026-10-08T12:29:53.084670+00:00",
+    "final_url": "https://files.queensown.org/qoApr-May2019.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qoApr-May2019.pdf"
+  },
+  "https://files.queensown.org/qoApr2021.pdf": {
+    "checked_at": "2026-10-08T12:29:53.110519+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoApr2021.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoApr2021.pdf"
+  },
+  "https://files.queensown.org/qoApril2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.167909+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoApril2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoApril2020.pdf"
+  },
+  "https://files.queensown.org/qoAug-Sep2019.pdf": {
+    "checked_at": "2026-10-08T12:29:53.197761+00:00",
+    "final_url": "https://files.queensown.org/qoAug-Sep2019.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qoAug-Sep2019.pdf"
+  },
+  "https://files.queensown.org/qoAug2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.207417+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoAug2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoAug2020.pdf"
+  },
+  "https://files.queensown.org/qoAugust2021.pdf": {
+    "checked_at": "2026-10-08T12:29:53.208581+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoAugust2021.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoAugust2021.pdf"
+  },
+  "https://files.queensown.org/qoDec2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.211094+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoDec2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoDec2020.pdf"
+  },
+  "https://files.queensown.org/qoFall2022.pdf": {
+    "checked_at": "2026-10-08T12:29:53.275015+00:00",
+    "final_url": "https://files.queensown.org/qoFall2022.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qoFall2022.pdf"
+  },
+  "https://files.queensown.org/qoFall2023.pdf": {
+    "checked_at": "2026-10-08T12:29:53.307699+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoFall2023.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoFall2023.pdf"
+  },
+  "https://files.queensown.org/qoFeb2016.pdf": {
+    "checked_at": "2026-10-08T12:29:53.366960+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoFeb2016.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoFeb2016.pdf"
+  },
+  "https://files.queensown.org/qoFeb2019.pdf": {
+    "checked_at": "2026-10-08T12:29:53.423120+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoFeb2019.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoFeb2019.pdf"
+  },
+  "https://files.queensown.org/qoFeb2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.435324+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoFeb2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoFeb2020.pdf"
+  },
+  "https://files.queensown.org/qoFeb2021.pdf": {
+    "checked_at": "2026-10-08T12:29:53.437662+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoFeb2021.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoFeb2021.pdf"
+  },
+  "https://files.queensown.org/qoFeb2022.pdf": {
+    "checked_at": "2026-10-08T12:29:53.445910+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoFeb2022.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoFeb2022.pdf"
+  },
+  "https://files.queensown.org/qoJan2019.pdf": {
+    "checked_at": "2026-10-08T12:29:53.513475+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoJan2019.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoJan2019.pdf"
+  },
+  "https://files.queensown.org/qoJan2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.518369+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoJan2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoJan2020.pdf"
+  },
+  "https://files.queensown.org/qoJan2021.pdf": {
+    "checked_at": "2026-10-08T12:29:53.528950+00:00",
+    "final_url": "https://files.queensown.org/qoJan2021.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qoJan2021.pdf"
+  },
+  "https://files.queensown.org/qoJuly2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.570920+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoJuly2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoJuly2020.pdf"
+  },
+  "https://files.queensown.org/qoJun-Jul2019.pdf": {
+    "checked_at": "2026-10-08T12:29:53.634303+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoJun-Jul2019.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoJun-Jul2019.pdf"
+  },
+  "https://files.queensown.org/qoJune-July2021.pdf": {
+    "checked_at": "2026-10-08T12:29:53.647612+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoJune-July2021.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoJune-July2021.pdf"
+  },
+  "https://files.queensown.org/qoJune2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.651788+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoJune2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoJune2020.pdf"
+  },
+  "https://files.queensown.org/qoMar2019.pdf": {
+    "checked_at": "2026-10-08T12:29:53.665601+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoMar2019.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoMar2019.pdf"
+  },
+  "https://files.queensown.org/qoMar2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.732504+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoMar2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoMar2020.pdf"
+  },
+  "https://files.queensown.org/qoMar2021.pdf": {
+    "checked_at": "2026-10-08T12:29:53.742722+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoMar2021.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoMar2021.pdf"
+  },
+  "https://files.queensown.org/qoMarApr2022.pdf": {
+    "checked_at": "2026-10-08T12:29:53.747724+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoMarApr2022.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoMarApr2022.pdf"
+  },
+  "https://files.queensown.org/qoMay2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.817831+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoMay2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoMay2020.pdf"
+  },
+  "https://files.queensown.org/qoMay2021.pdf": {
+    "checked_at": "2026-10-08T12:29:53.862466+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoMay2021.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoMay2021.pdf"
+  },
+  "https://files.queensown.org/qoNov2019.pdf": {
+    "checked_at": "2026-10-08T12:29:53.935536+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoNov2019.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoNov2019.pdf"
+  },
+  "https://files.queensown.org/qoNov2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.935683+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoNov2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoNov2020.pdf"
+  },
+  "https://files.queensown.org/qoNov2021.pdf": {
+    "checked_at": "2026-10-08T12:29:53.937578+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoNov2021.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoNov2021.pdf"
+  },
+  "https://files.queensown.org/qoOct2020.pdf": {
+    "checked_at": "2026-10-08T12:29:53.952071+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoOct2020.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoOct2020.pdf"
+  },
+  "https://files.queensown.org/qoSep2021.pdf": {
+    "checked_at": "2026-10-08T12:29:53.952338+00:00",
+    "final_url": "https://files.queensown.org/qoSep2021.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qoSep2021.pdf"
+  },
+  "https://files.queensown.org/qoSpring2022.pdf": {
+    "checked_at": "2026-10-08T12:29:54.032387+00:00",
+    "final_url": "https://files.queensown.org/qoSpring2022.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qoSpring2022.pdf"
+  },
+  "https://files.queensown.org/qoSpring2023.pdf": {
+    "checked_at": "2026-10-08T12:29:54.048859+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoSpring2023.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoSpring2023.pdf"
+  },
+  "https://files.queensown.org/qoSummer2023.pdf": {
+    "checked_at": "2026-10-08T12:29:54.118011+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoSummer2023.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoSummer2023.pdf"
+  },
+  "https://files.queensown.org/qoWinter2024.pdf": {
+    "checked_at": "2026-10-08T12:29:54.152371+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoWinter2024.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoWinter2024.pdf"
+  },
+  "https://files.queensown.org/qoapr2006.pdf": {
+    "checked_at": "2026-10-08T12:29:54.164117+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoapr2006.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoapr2006.pdf"
+  },
+  "https://files.queensown.org/qoapr2007.pdf": {
+    "checked_at": "2026-10-08T12:29:54.164356+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoapr2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoapr2007.pdf"
+  },
+  "https://files.queensown.org/qoapr2008.pdf": {
+    "checked_at": "2026-10-08T12:29:54.167873+00:00",
+    "final_url": "https://files.queensown.org/qoapr2008.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qoapr2008.pdf"
+  },
+  "https://files.queensown.org/qoapr2009.pdf": {
+    "checked_at": "2026-10-08T12:29:54.183570+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoapr2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoapr2009.pdf"
+  },
+  "https://files.queensown.org/qoapr2010.pdf": {
+    "checked_at": "2026-10-08T12:29:54.260282+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoapr2010.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoapr2010.pdf"
+  },
+  "https://files.queensown.org/qoapr2016.pdf": {
+    "checked_at": "2026-10-08T12:29:54.270492+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoapr2016.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoapr2016.pdf"
+  },
+  "https://files.queensown.org/qoapr2018.pdf": {
+    "checked_at": "2026-10-08T12:29:54.336240+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoapr2018.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoapr2018.pdf"
+  },
+  "https://files.queensown.org/qoapraug2011.pdf": {
+    "checked_at": "2026-10-08T12:29:54.363832+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoapraug2011.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoapraug2011.pdf"
+  },
+  "https://files.queensown.org/qoaug2007.pdf": {
+    "checked_at": "2026-10-08T12:29:54.373211+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoaug2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoaug2007.pdf"
+  },
+  "https://files.queensown.org/qoaug2008.pdf": {
+    "checked_at": "2026-10-08T12:29:54.391999+00:00",
+    "final_url": "https://files.queensown.org/qoaug2008.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qoaug2008.pdf"
+  },
+  "https://files.queensown.org/qoaug2009.pdf": {
+    "checked_at": "2026-10-08T12:29:54.405157+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoaug2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoaug2009.pdf"
+  },
+  "https://files.queensown.org/qoaug2010.pdf": {
+    "checked_at": "2026-10-08T12:29:54.430613+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoaug2010.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoaug2010.pdf"
+  },
+  "https://files.queensown.org/qoaug2015.pdf": {
+    "checked_at": "2026-10-08T12:29:54.492745+00:00",
+    "final_url": "https://files.queensown.org/qoaug2015.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qoaug2015.pdf"
+  },
+  "https://files.queensown.org/qoaug2016.pdf": {
+    "checked_at": "2026-10-08T12:29:54.497505+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoaug2016.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoaug2016.pdf"
+  },
+  "https://files.queensown.org/qoaug2018.pdf": {
+    "checked_at": "2026-10-08T12:29:54.563720+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qoaug2018.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qoaug2018.pdf"
+  },
+  "https://files.queensown.org/qodec2005.pdf": {
+    "checked_at": "2026-10-08T12:29:54.585410+00:00",
+    "final_url": "https://files.queensown.org/qodec2005.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qodec2005.pdf"
+  },
+  "https://files.queensown.org/qodec2006.pdf": {
+    "checked_at": "2026-10-08T12:29:54.608525+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qodec2006.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qodec2006.pdf"
+  },
+  "https://files.queensown.org/qodec2007.pdf": {
+    "checked_at": "2026-10-08T12:29:54.613070+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qodec2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qodec2007.pdf"
+  },
+  "https://files.queensown.org/qodec2008.pdf": {
+    "checked_at": "2026-10-08T12:29:54.638419+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qodec2008.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qodec2008.pdf"
+  },
+  "https://files.queensown.org/qodec2009.pdf": {
+    "checked_at": "2026-10-08T12:29:54.642709+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qodec2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qodec2009.pdf"
+  },
+  "https://files.queensown.org/qodec2015.pdf": {
+    "checked_at": "2026-10-08T12:29:54.711238+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qodec2015.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qodec2015.pdf"
+  },
+  "https://files.queensown.org/qodec2016.pdf": {
+    "checked_at": "2026-10-08T12:29:54.716841+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qodec2016.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qodec2016.pdf"
+  },
+  "https://files.queensown.org/qodec2017.pdf": {
+    "checked_at": "2026-10-08T12:29:54.791882+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qodec2017.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qodec2017.pdf"
+  },
+  "https://files.queensown.org/qofeb2006.pdf": {
+    "checked_at": "2026-10-08T12:29:54.792164+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qofeb2006.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qofeb2006.pdf"
+  },
+  "https://files.queensown.org/qofeb2007.pdf": {
+    "checked_at": "2026-10-08T12:29:54.849065+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qofeb2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qofeb2007.pdf"
+  },
+  "https://files.queensown.org/qofeb2008.pdf": {
+    "checked_at": "2026-10-08T12:29:54.851471+00:00",
+    "final_url": "https://files.queensown.org/qofeb2008.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qofeb2008.pdf"
+  },
+  "https://files.queensown.org/qofeb2009.pdf": {
+    "checked_at": "2026-10-08T12:29:54.857713+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qofeb2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qofeb2009.pdf"
+  },
+  "https://files.queensown.org/qofeb2010.pdf": {
+    "checked_at": "2026-10-08T12:29:54.859776+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qofeb2010.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qofeb2010.pdf"
+  },
+  "https://files.queensown.org/qofeb2011.pdf": {
+    "checked_at": "2026-10-08T12:29:54.928079+00:00",
+    "final_url": "https://files.queensown.org/qofeb2011.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qofeb2011.pdf"
+  },
+  "https://files.queensown.org/qohac.pdf": {
+    "checked_at": "2026-10-08T12:29:54.938549+00:00",
+    "final_url": "https://files.queensown.org/qohac.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qohac.pdf"
+  },
+  "https://files.queensown.org/qojan2006.pdf": {
+    "checked_at": "2026-10-08T12:29:55.005659+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojan2006.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojan2006.pdf"
+  },
+  "https://files.queensown.org/qojan2007.pdf": {
+    "checked_at": "2026-10-08T12:29:55.024368+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojan2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojan2007.pdf"
+  },
+  "https://files.queensown.org/qojan2008.pdf": {
+    "checked_at": "2026-10-08T12:29:55.072392+00:00",
+    "final_url": "https://files.queensown.org/qojan2008.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qojan2008.pdf"
+  },
+  "https://files.queensown.org/qojan2009.pdf": {
+    "checked_at": "2026-10-08T12:29:55.072990+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojan2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojan2009.pdf"
+  },
+  "https://files.queensown.org/qojan2010.pdf": {
+    "checked_at": "2026-10-08T12:29:55.073252+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojan2010.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojan2010.pdf"
+  },
+  "https://files.queensown.org/qojan2016.pdf": {
+    "checked_at": "2026-10-08T12:29:55.084399+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojan2016.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojan2016.pdf"
+  },
+  "https://files.queensown.org/qojan2017.pdf": {
+    "checked_at": "2026-10-08T12:29:55.152479+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojan2017.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojan2017.pdf"
+  },
+  "https://files.queensown.org/qojan2018.pdf": {
+    "checked_at": "2026-10-08T12:29:55.165314+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojan2018.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojan2018.pdf"
+  },
+  "https://files.queensown.org/qojan2022.pdf": {
+    "checked_at": "2026-10-08T12:29:55.229597+00:00",
+    "final_url": "https://files.queensown.org/qojan2022.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qojan2022.pdf"
+  },
+  "https://files.queensown.org/qojul2006.pdf": {
+    "checked_at": "2026-10-08T12:29:55.265626+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojul2006.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojul2006.pdf"
+  },
+  "https://files.queensown.org/qojul2007.pdf": {
+    "checked_at": "2026-10-08T12:29:55.284978+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojul2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojul2007.pdf"
+  },
+  "https://files.queensown.org/qojul2008.pdf": {
+    "checked_at": "2026-10-08T12:29:55.298478+00:00",
+    "final_url": "https://files.queensown.org/qojul2008.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qojul2008.pdf"
+  },
+  "https://files.queensown.org/qojul2009.pdf": {
+    "checked_at": "2026-10-08T12:29:55.325363+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojul2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojul2009.pdf"
+  },
+  "https://files.queensown.org/qojul2010.pdf": {
+    "checked_at": "2026-10-08T12:29:55.347502+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojul2010.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojul2010.pdf"
+  },
+  "https://files.queensown.org/qojul2015.pdf": {
+    "checked_at": "2026-10-08T12:29:55.376721+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojul2015.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojul2015.pdf"
+  },
+  "https://files.queensown.org/qojul2016.pdf": {
+    "checked_at": "2026-10-08T12:29:55.385076+00:00",
+    "final_url": "https://files.queensown.org/qojul2016.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qojul2016.pdf"
+  },
+  "https://files.queensown.org/qojul2017.pdf": {
+    "checked_at": "2026-10-08T12:29:55.457684+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojul2017.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojul2017.pdf"
+  },
+  "https://files.queensown.org/qojul2018.pdf": {
+    "checked_at": "2026-10-08T12:29:55.504559+00:00",
+    "final_url": "https://files.queensown.org/qojul2018.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qojul2018.pdf"
+  },
+  "https://files.queensown.org/qojun2007.pdf": {
+    "checked_at": "2026-10-08T12:29:55.509539+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojun2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojun2007.pdf"
+  },
+  "https://files.queensown.org/qojun2008.pdf": {
+    "checked_at": "2026-10-08T12:29:55.515209+00:00",
+    "final_url": "https://files.queensown.org/qojun2008.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qojun2008.pdf"
+  },
+  "https://files.queensown.org/qojun2009.pdf": {
+    "checked_at": "2026-10-08T12:29:55.550101+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojun2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojun2009.pdf"
+  },
+  "https://files.queensown.org/qojun2010.pdf": {
+    "checked_at": "2026-10-08T12:29:55.568588+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojun2010.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojun2010.pdf"
+  },
+  "https://files.queensown.org/qojun2015.pdf": {
+    "checked_at": "2026-10-08T12:29:55.578963+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qojun2015.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qojun2015.pdf"
+  },
+  "https://files.queensown.org/qojun2016.pdf": {
+    "checked_at": "2026-10-08T12:29:55.615005+00:00",
+    "final_url": "https://files.queensown.org/qojun2016.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qojun2016.pdf"
+  },
+  "https://files.queensown.org/qomar2006.pdf": {
+    "checked_at": "2026-10-08T12:29:55.683034+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomar2006.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomar2006.pdf"
+  },
+  "https://files.queensown.org/qomar2007.pdf": {
+    "checked_at": "2026-10-08T12:29:55.713862+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomar2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomar2007.pdf"
+  },
+  "https://files.queensown.org/qomar2008.pdf": {
+    "checked_at": "2026-10-08T12:29:55.737540+00:00",
+    "final_url": "https://files.queensown.org/qomar2008.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qomar2008.pdf"
+  },
+  "https://files.queensown.org/qomar2009.pdf": {
+    "checked_at": "2026-10-08T12:29:55.750038+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomar2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomar2009.pdf"
+  },
+  "https://files.queensown.org/qomar2010.pdf": {
+    "checked_at": "2026-10-08T12:29:55.784486+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomar2010.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomar2010.pdf"
+  },
+  "https://files.queensown.org/qomar2011.pdf": {
+    "checked_at": "2026-10-08T12:29:55.786162+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomar2011.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomar2011.pdf"
+  },
+  "https://files.queensown.org/qomar2016.pdf": {
+    "checked_at": "2026-10-08T12:29:55.814095+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomar2016.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomar2016.pdf"
+  },
+  "https://files.queensown.org/qomar2017.pdf": {
+    "checked_at": "2026-10-08T12:29:55.823310+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomar2017.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomar2017.pdf"
+  },
+  "https://files.queensown.org/qomay2006.pdf": {
+    "checked_at": "2026-10-08T12:29:55.893599+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomay2006.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomay2006.pdf"
+  },
+  "https://files.queensown.org/qomay2007.pdf": {
+    "checked_at": "2026-10-08T12:29:55.933587+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomay2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomay2007.pdf"
+  },
+  "https://files.queensown.org/qomay2008.pdf": {
+    "checked_at": "2026-10-08T12:29:55.957631+00:00",
+    "final_url": "https://files.queensown.org/qomay2008.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qomay2008.pdf"
+  },
+  "https://files.queensown.org/qomay2009.pdf": {
+    "checked_at": "2026-10-08T12:29:55.966830+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomay2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomay2009.pdf"
+  },
+  "https://files.queensown.org/qomay2010.pdf": {
+    "checked_at": "2026-10-08T12:29:55.979105+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomay2010.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomay2010.pdf"
+  },
+  "https://files.queensown.org/qomay2015.pdf": {
+    "checked_at": "2026-10-08T12:29:56.002588+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomay2015.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomay2015.pdf"
+  },
+  "https://files.queensown.org/qomay2016.pdf": {
+    "checked_at": "2026-10-08T12:29:56.035830+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomay2016.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomay2016.pdf"
+  },
+  "https://files.queensown.org/qomay2017.pdf": {
+    "checked_at": "2026-10-08T12:29:56.038017+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qomay2017.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qomay2017.pdf"
+  },
+  "https://files.queensown.org/qonov2005.pdf": {
+    "checked_at": "2026-10-08T12:29:56.098398+00:00",
+    "final_url": "https://files.queensown.org/qonov2005.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qonov2005.pdf"
+  },
+  "https://files.queensown.org/qonov2006.pdf": {
+    "checked_at": "2026-10-08T12:29:56.166485+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qonov2006.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qonov2006.pdf"
+  },
+  "https://files.queensown.org/qonov2007.pdf": {
+    "checked_at": "2026-10-08T12:29:56.175531+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qonov2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qonov2007.pdf"
+  },
+  "https://files.queensown.org/qonov2008.pdf": {
+    "checked_at": "2026-10-08T12:29:56.181520+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qonov2008.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qonov2008.pdf"
+  },
+  "https://files.queensown.org/qonov2009.pdf": {
+    "checked_at": "2026-10-08T12:29:56.194064+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qonov2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qonov2009.pdf"
+  },
+  "https://files.queensown.org/qonov2015.pdf": {
+    "checked_at": "2026-10-08T12:29:56.226598+00:00",
+    "final_url": "https://files.queensown.org/qonov2015.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qonov2015.pdf"
+  },
+  "https://files.queensown.org/qonovdec2018.pdf": {
+    "checked_at": "2026-10-08T12:29:56.278750+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qonovdec2018.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qonovdec2018.pdf"
+  },
+  "https://files.queensown.org/qooct2005.pdf": {
+    "checked_at": "2026-10-08T12:29:56.301510+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooct2005.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooct2005.pdf"
+  },
+  "https://files.queensown.org/qooct2006.pdf": {
+    "checked_at": "2026-10-08T12:29:56.325681+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooct2006.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooct2006.pdf"
+  },
+  "https://files.queensown.org/qooct2007.pdf": {
+    "checked_at": "2026-10-08T12:29:56.375813+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooct2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooct2007.pdf"
+  },
+  "https://files.queensown.org/qooct2008.pdf": {
+    "checked_at": "2026-10-08T12:29:56.397141+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooct2008.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooct2008.pdf"
+  },
+  "https://files.queensown.org/qooct2009.pdf": {
+    "checked_at": "2026-10-08T12:29:56.417513+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooct2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooct2009.pdf"
+  },
+  "https://files.queensown.org/qooct2010.pdf": {
+    "checked_at": "2026-10-08T12:29:56.417655+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooct2010.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooct2010.pdf"
+  },
+  "https://files.queensown.org/qooct2011.pdf": {
+    "checked_at": "2026-10-08T12:29:56.442627+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooct2011.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooct2011.pdf"
+  },
+  "https://files.queensown.org/qooct2012.pdf": {
+    "checked_at": "2026-10-08T12:29:56.517185+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooct2012.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooct2012.pdf"
+  },
+  "https://files.queensown.org/qooct2015.pdf": {
+    "checked_at": "2026-10-08T12:29:56.527386+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooct2015.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooct2015.pdf"
+  },
+  "https://files.queensown.org/qooct2017.pdf": {
+    "checked_at": "2026-10-08T12:29:56.559330+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooct2017.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooct2017.pdf"
+  },
+  "https://files.queensown.org/qooct2018.pdf": {
+    "checked_at": "2026-10-08T12:29:56.597691+00:00",
+    "final_url": "https://files.queensown.org/qooct2018.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qooct2018.pdf"
+  },
+  "https://files.queensown.org/qooctnov2016.pdf": {
+    "checked_at": "2026-10-08T12:29:56.621643+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qooctnov2016.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qooctnov2016.pdf"
+  },
+  "https://files.queensown.org/qosep2006.pdf": {
+    "checked_at": "2026-10-08T12:29:56.635202+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qosep2006.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qosep2006.pdf"
+  },
+  "https://files.queensown.org/qosep2007.pdf": {
+    "checked_at": "2026-10-08T12:29:56.638543+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qosep2007.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qosep2007.pdf"
+  },
+  "https://files.queensown.org/qosep2008.pdf": {
+    "checked_at": "2026-10-08T12:29:56.644063+00:00",
+    "final_url": "https://files.queensown.org/qosep2008.pdf",
+    "status": 404,
+    "url": "https://files.queensown.org/qosep2008.pdf"
+  },
+  "https://files.queensown.org/qosep2009.pdf": {
+    "checked_at": "2026-10-08T12:29:56.744044+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qosep2009.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qosep2009.pdf"
+  },
+  "https://files.queensown.org/qosep2010.pdf": {
+    "checked_at": "2026-10-08T12:29:56.790499+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qosep2010.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qosep2010.pdf"
+  },
+  "https://files.queensown.org/qosep2015.pdf": {
+    "checked_at": "2026-10-08T12:29:56.815909+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qosep2015.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qosep2015.pdf"
+  },
+  "https://files.queensown.org/qosep2016.pdf": {
+    "checked_at": "2026-10-08T12:29:56.826662+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qosep2016.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qosep2016.pdf"
+  },
+  "https://files.queensown.org/qosep2018.pdf": {
+    "checked_at": "2026-10-08T12:29:56.833605+00:00",
+    "content_type": "application/pdf",
+    "final_url": "https://files.queensown.org/qosep2018.pdf",
+    "status": 200,
+    "url": "https://files.queensown.org/qosep2018.pdf"
+  },
+  "https://queensown.org/%2A%2A%2A.jpg": {
+    "checked_at": "2026-10-08T12:29:56.861249+00:00",
+    "final_url": "https://queensown.org/%2A%2A%2A.jpg",
+    "status": 404,
+    "url": "https://queensown.org/%2A%2A%2A.jpg"
+  },
+  "https://queensown.org/%3Amailto%3Ainfo%40hollywoodexpo.com%22": {
+    "checked_at": "2026-10-08T12:26:37.635617+00:00",
+    "final_url": "https://queensown.org/%3Amailto%3Ainfo%40hollywoodexpo.com%22",
+    "status": 404,
+    "url": "https://queensown.org/%3Amailto%3Ainfo%40hollywoodexpo.com%22"
+  },
+  "https://queensown.org/F%3A/Docs2/club/WEBSITE/qo.htm": {
+    "checked_at": "2026-10-08T12:26:37.647188+00:00",
+    "final_url": "https://queensown.org/F%3A/Docs2/club/WEBSITE/qo.htm",
+    "status": 404,
+    "url": "https://queensown.org/F%3A/Docs2/club/WEBSITE/qo.htm"
+  },
+  "https://queensown.org/F%3A/Docs2/club/WEBSITE/vfcnews.htm": {
+    "checked_at": "2026-10-08T12:26:37.650737+00:00",
+    "final_url": "https://queensown.org/F%3A/Docs2/club/WEBSITE/vfcnews.htm",
+    "status": 404,
+    "url": "https://queensown.org/F%3A/Docs2/club/WEBSITE/vfcnews.htm"
+  },
+  "https://queensown.org/Pirate.pdf": {
+    "checked_at": "2026-10-08T12:29:56.863051+00:00",
+    "final_url": "https://queensown.org/Pirate.pdf",
+    "status": 404,
+    "url": "https://queensown.org/Pirate.pdf"
+  },
+  "https://queensown.org/mailto": {
+    "checked_at": "2026-10-08T12:29:56.954651+00:00",
+    "final_url": "https://queensown.org/mailto",
+    "status": 404,
+    "url": "https://queensown.org/mailto"
+  },
+  "https://queensown.org/mlrel2.htm": {
+    "checked_at": "2026-10-08T12:26:37.797111+00:00",
+    "final_url": "https://queensown.org/mlrel2.htm",
+    "status": 404,
+    "url": "https://queensown.org/mlrel2.htm"
+  },
+  "https://queensown.org/qo231.jpg": {
+    "checked_at": "2026-10-08T12:29:57.016888+00:00",
+    "final_url": "https://queensown.org/qo231.jpg",
+    "status": 404,
+    "url": "https://queensown.org/qo231.jpg"
+  },
+  "https://queensown.org/qo267.htm": {
+    "checked_at": "2026-10-08T12:29:57.035654+00:00",
+    "final_url": "https://queensown.org/qo267.htm",
+    "status": 404,
+    "url": "https://queensown.org/qo267.htm"
+  },
+  "https://queensown.org/qoApr-May2019": {
+    "checked_at": "2026-10-08T12:26:37.910160+00:00",
+    "final_url": "https://queensown.org/qoApr-May2019",
+    "status": 404,
+    "url": "https://queensown.org/qoApr-May2019"
+  },
+  "https://queensown.org/qoApr-May2019.pdf": {
+    "checked_at": "2026-10-08T12:29:57.048905+00:00",
+    "final_url": "https://queensown.org/qoApr-May2019.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qoApr-May2019.pdf"
+  },
+  "https://queensown.org/qoAug-Sep2019.pdf": {
+    "checked_at": "2026-10-08T12:29:57.055683+00:00",
+    "final_url": "https://queensown.org/qoAug-Sep2019.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qoAug-Sep2019.pdf"
+  },
+  "https://queensown.org/qoFall2022.pdf": {
+    "checked_at": "2026-10-08T12:29:57.205818+00:00",
+    "final_url": "https://queensown.org/qoFall2022.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qoFall2022.pdf"
+  },
+  "https://queensown.org/qoJan2021.pdf": {
+    "checked_at": "2026-10-08T12:29:57.209242+00:00",
+    "final_url": "https://queensown.org/qoJan2021.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qoJan2021.pdf"
+  },
+  "https://queensown.org/qoSep2021.pdf": {
+    "checked_at": "2026-10-08T12:29:57.209354+00:00",
+    "final_url": "https://queensown.org/qoSep2021.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qoSep2021.pdf"
+  },
+  "https://queensown.org/qoSpring2022.pdf": {
+    "checked_at": "2026-10-08T12:29:57.260457+00:00",
+    "final_url": "https://queensown.org/qoSpring2022.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qoSpring2022.pdf"
+  },
+  "https://queensown.org/qoapr2008.pdf": {
+    "checked_at": "2026-10-08T12:29:57.276861+00:00",
+    "final_url": "https://queensown.org/qoapr2008.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qoapr2008.pdf"
+  },
+  "https://queensown.org/qoaug2008.pdf": {
+    "checked_at": "2026-10-08T12:29:57.290631+00:00",
+    "final_url": "https://queensown.org/qoaug2008.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qoaug2008.pdf"
+  },
+  "https://queensown.org/qoaug2015.pdf": {
+    "checked_at": "2026-10-08T12:29:57.306962+00:00",
+    "final_url": "https://queensown.org/qoaug2015.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qoaug2015.pdf"
+  },
+  "https://queensown.org/qodec2005.pdf": {
+    "checked_at": "2026-10-08T12:29:57.307108+00:00",
+    "final_url": "https://queensown.org/qodec2005.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qodec2005.pdf"
+  },
+  "https://queensown.org/qodec98.htm": {
+    "checked_at": "2026-10-08T12:29:57.461337+00:00",
+    "final_url": "https://queensown.org/qodec98.htm",
+    "status": 404,
+    "url": "https://queensown.org/qodec98.htm"
+  },
+  "https://queensown.org/qofeb.htm": {
+    "checked_at": "2026-10-08T12:26:37.956897+00:00",
+    "final_url": "https://queensown.org/qofeb.htm",
+    "status": 404,
+    "url": "https://queensown.org/qofeb.htm"
+  },
+  "https://queensown.org/qofeb2008.pdf": {
+    "checked_at": "2026-10-08T12:29:57.466896+00:00",
+    "final_url": "https://queensown.org/qofeb2008.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qofeb2008.pdf"
+  },
+  "https://queensown.org/qofeb2011.pdf": {
+    "checked_at": "2026-10-08T12:29:57.499700+00:00",
+    "final_url": "https://queensown.org/qofeb2011.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qofeb2011.pdf"
+  },
+  "https://queensown.org/qogg.htm": {
+    "checked_at": "2026-10-08T12:29:57.503286+00:00",
+    "final_url": "https://queensown.org/qogg.htm",
+    "status": 404,
+    "url": "https://queensown.org/qogg.htm"
+  },
+  "https://queensown.org/qohac.pdf": {
+    "checked_at": "2026-10-08T12:29:57.541846+00:00",
+    "final_url": "https://queensown.org/qohac.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qohac.pdf"
+  },
+  "https://queensown.org/qojan2008.pdf": {
+    "checked_at": "2026-10-08T12:29:57.557056+00:00",
+    "final_url": "https://queensown.org/qojan2008.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qojan2008.pdf"
+  },
+  "https://queensown.org/qojan2022.pdf": {
+    "checked_at": "2026-10-08T12:29:57.567815+00:00",
+    "final_url": "https://queensown.org/qojan2022.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qojan2022.pdf"
+  },
+  "https://queensown.org/qojournal.htm%22": {
+    "checked_at": "2026-10-08T12:26:38.044990+00:00",
+    "final_url": "https://queensown.org/qojournal.htm%22",
+    "status": 404,
+    "url": "https://queensown.org/qojournal.htm%22"
+  },
+  "https://queensown.org/qojul2008.pdf": {
+    "checked_at": "2026-10-08T12:29:57.587557+00:00",
+    "final_url": "https://queensown.org/qojul2008.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qojul2008.pdf"
+  },
+  "https://queensown.org/qojul2016.pdf": {
+    "checked_at": "2026-10-08T12:29:57.721595+00:00",
+    "final_url": "https://queensown.org/qojul2016.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qojul2016.pdf"
+  },
+  "https://queensown.org/qojul2018.pdf": {
+    "checked_at": "2026-10-08T12:29:57.734476+00:00",
+    "final_url": "https://queensown.org/qojul2018.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qojul2018.pdf"
+  },
+  "https://queensown.org/qojun2008.pdf": {
+    "checked_at": "2026-10-08T12:29:57.757715+00:00",
+    "final_url": "https://queensown.org/qojun2008.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qojun2008.pdf"
+  },
+  "https://queensown.org/qojun2016.pdf": {
+    "checked_at": "2026-10-08T12:29:57.765895+00:00",
+    "final_url": "https://queensown.org/qojun2016.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qojun2016.pdf"
+  },
+  "https://queensown.org/qomar.htm": {
+    "checked_at": "2026-10-08T12:26:38.107054+00:00",
+    "final_url": "https://queensown.org/qomar.htm",
+    "status": 404,
+    "url": "https://queensown.org/qomar.htm"
+  },
+  "https://queensown.org/qomar2008.pdf": {
+    "checked_at": "2026-10-08T12:29:57.770388+00:00",
+    "final_url": "https://queensown.org/qomar2008.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qomar2008.pdf"
+  },
+  "https://queensown.org/qomay2008.pdf": {
+    "checked_at": "2026-10-08T12:29:57.803730+00:00",
+    "final_url": "https://queensown.org/qomay2008.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qomay2008.pdf"
+  },
+  "https://queensown.org/qonov2005.pdf": {
+    "checked_at": "2026-10-08T12:29:57.848789+00:00",
+    "final_url": "https://queensown.org/qonov2005.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qonov2005.pdf"
+  },
+  "https://queensown.org/qonov2015.pdf": {
+    "checked_at": "2026-10-08T12:29:57.863071+00:00",
+    "final_url": "https://queensown.org/qonov2015.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qonov2015.pdf"
+  },
+  "https://queensown.org/qonov98.htm": {
+    "checked_at": "2026-10-08T12:29:57.962116+00:00",
+    "final_url": "https://queensown.org/qonov98.htm",
+    "status": 404,
+    "url": "https://queensown.org/qonov98.htm"
+  },
+  "https://queensown.org/qooct2018.pdf": {
+    "checked_at": "2026-10-08T12:29:57.993612+00:00",
+    "final_url": "https://queensown.org/qooct2018.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qooct2018.pdf"
+  },
+  "https://queensown.org/qosep2008.pdf": {
+    "checked_at": "2026-10-08T12:29:58.038631+00:00",
+    "final_url": "https://queensown.org/qosep2008.pdf",
+    "status": 404,
+    "url": "https://queensown.org/qosep2008.pdf"
+  }
+}

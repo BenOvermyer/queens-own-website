@@ -1,0 +1,25 @@
+{
+  "global": {
+    "mlrel2.htm": "qomlrel2.htm",
+    "qojournal.htm\"": "qojournal.htm",
+    ":mailto:info@hollywoodexpo.com\"": "mailto:info@hollywoodexpo.com",
+    "file:///F:/Docs2/club/WEBSITE/qo.htm": "index.html",
+    "file:///F:/Docs2/club/WEBSITE/vfcnews.htm": "https://dragonlords.fans/vfcnews.htm"
+  },
+  "pages": {
+    "qolist.htm": {
+      "qomar.htm": "qomar90.htm",
+      "qofeb.htm": "qofeb91.htm"
+    },
+    "qonews.htm": {
+      "qoApr-May2019": "qoApr-May2019.pdf"
+    }
+  },
+  "anchors": {
+    "qob.htm": {"teach": "teacher"},
+    "qohe.htm": {"low": "Low Strength Healing Specialties", "high": "Normal and High Strength Healing Specialties"},
+    "qorel.htm": {"formal": "Advanced Rank"},
+    "qoww.htm": {"formal": "Formal Training"},
+    "qom.htm": {"advance": "Advanced Rank"}
+  }
+}

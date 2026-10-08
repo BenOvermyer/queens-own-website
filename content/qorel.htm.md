@@ -11,7 +11,6 @@ vlink = "navy"
 +++
 
 <div class="original-page">
-
 <font size="4">
 </font><center><h1>The Helpful Handout of How to Become a Priest/Priestess</h1></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
@@ -91,7 +90,7 @@ If you have additional questions, check out the <a href="/qofaqrel.htm">Religion
 </p><p>
 </p><center><img alt="" loading="lazy" src="/sun2.gif"/></center>
 <p>
-</p><h2>Advanced Rank</h2>
+</p><a id="formal"></a><h2>Advanced Rank</h2>
 <p>
 Hedge Priests have no formal training.  There are, however, several ways you can advance in rank as a priest/priestess.
 </p><p>

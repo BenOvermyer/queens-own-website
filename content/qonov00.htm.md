@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -216,7 +215,7 @@ MID-OHIO-CON 2000. <a href="mailto:MidOhioCon@wfcomics.com">E-mail: MidOhioCon@w
 <p>
 AMBERCON NORTHWEST.  E-mail: <a href="mailto:simone@wyrdrune.com">simone@wyrdrune.com</a>. Website: <a href="http://www.wyrdrune.com/acnw">http://www.wyrdrune.com/acnw</a>. Address: McMenamins Edgefield Bed &amp; Breakfast Resort, Portland, Oregon USA. Dates: 11/200 - 11/5/00. 
 </p><p>
-ORYCON 22. E-mail: <a href="mailto:mailto:kristyb@eloft.net">kristyb@eloft.net</a>. Website: <a href="http://www.orycon.org">http://www.orycon.org</a>.  Site Address: Doubletree Hotel Portland Columbia River, Portland, Oregon. Dates: 11/17/00 - 11/19/00.
+ORYCON 22. E-mail: <a href="mailto:kristyb@eloft.net">kristyb@eloft.net</a>. Website: <a href="http://www.orycon.org">http://www.orycon.org</a>.  Site Address: Doubletree Hotel Portland Columbia River, Portland, Oregon. Dates: 11/17/00 - 11/19/00.
 </p><p>
 </p><h3>Pennsylvania</h3>
 <p>
@@ -232,11 +231,11 @@ CONCAT 12. E-mail: <a href="mailto:chloiea@mailexcite.com">chloiea@mailexcite.co
 </p><p>
 </p><h3>Texas</h3>
 <p>
-CONUNDRUM 2000. E-mail: <a href="mailto:mailto:ScottP@Skyeenterprises.com">ScottP@Skyeenterprises.com</a>. Website: <a href="http://www.conundrumconvention.com'&gt;http://www.conundrumconvention.com&lt;/a&gt;.  Site Address: Ramada Inn I-35 &amp; Weidner, San Antonio, Texas. Dates: 11/10/00 - 11/12/00.
+CONUNDRUM 2000. E-mail: <a href="mailto:ScottP@Skyeenterprises.com">ScottP@Skyeenterprises.com</a>. Website: <a href="http://www.conundrumconvention.com'&gt;http://www.conundrumconvention.com&lt;/a&gt;.  Site Address: Ramada Inn I-35 &amp; Weidner, San Antonio, Texas. Dates: 11/10/00 - 11/12/00.
 &lt;p&gt;
 PROTOCON. E-mail: &lt;a href=">taihen@tamu.edu</a>. Website: <a href="http://gaming.tamu.edu/protocon">http://gaming.tamu.edu/protocon</a>.  Site Address: Memorial Student Center at Texas A&amp;M University, College Station, Texas. Dates: 11/3/00 - 11/5/00.
 </p><p>
-SCI-FI EXPO. E-mail: <a href="https://queensown.org/%3Amailto%3Ainfo%40hollywoodexpo.com%22">nfo@hollywoodexpo.com</a>. Website: <a href="http://www.scifiexpo.com">http://www.scifiexpo.com</a>.  Site Address: Convention Center, Austin, Texas. Dates:  11/11/00 - 11/12/00.
+SCI-FI EXPO. E-mail: <a href="mailto:info@hollywoodexpo.com">nfo@hollywoodexpo.com</a>. Website: <a href="http://www.scifiexpo.com">http://www.scifiexpo.com</a>.  Site Address: Convention Center, Austin, Texas. Dates:  11/11/00 - 11/12/00.
 </p><p>
 UNCOMMONCON. E-mail: <a href="mailto:uncommoncon@uncommoncon.com">uncommoncon@uncommoncon.com</a>. Website: http://uncommoncon.com.  Site Address: Hyatt Regency DFW, Dallas/Ft. Worth, Texas. Dates: 11/24/00 - 11/26/00.
 </p><p>

@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 from bs4 import BeautifulSoup
+from audit_links import audit
 
 ROOT = Path(__file__).resolve().parents[1]
 output = ROOT / 'public'
@@ -38,3 +39,4 @@ if errors:
     raise SystemExit('\n'.join(errors))
 print(f'Checked {len(documents)} HTML files: all local files resolve, PDF host substituted, no bundled PDFs.')
 print(f'{len(anchor_warnings)} unresolved original anchor references listed in data/anchor-report.json.')
+audit()

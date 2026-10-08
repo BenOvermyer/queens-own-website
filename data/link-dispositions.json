@@ -1,0 +1,555 @@
+{
+  "/***.jpg": {
+    "action": "Preserve the historical text; no image filename or email address can be inferred reliably from this reference.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "placeholder_image",
+    "referring_pages": [
+      "qoaug89.htm",
+      "qojan89.htm",
+      "qojun89.htm",
+      "qojun90.htm",
+      "qomay89.htm",
+      "qonov88.htm",
+      "qooct89.htm"
+    ],
+    "resolution": "historical_gap",
+    "source_archive_present": false
+  },
+  "/mailto": {
+    "action": "Preserve the historical text; no image filename or email address can be inferred reliably from this reference.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "malformed_email",
+    "referring_pages": [
+      "qolist.htm"
+    ],
+    "resolution": "historical_gap",
+    "source_archive_present": false
+  },
+  "/qo231.jpg": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "asset",
+    "referring_pages": [
+      "qodec04.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "/qo267.htm": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "incorrect_resource_type",
+    "referring_pages": [
+      "qosep96.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "/qodec98.htm": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "page",
+    "referring_pages": [
+      "qolist.htm",
+      "qonews.htm",
+      "qonpc.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "/qogg.htm": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "page",
+    "referring_pages": [
+      "qochap.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "/qonov98.htm": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "page",
+    "referring_pages": [
+      "qolist.htm",
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/Pirate.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qofanfic.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qoApr-May2019.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qoAug-Sep2019.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qoFall2022.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qoJan2021.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qoSep2021.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qoSpring2022.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qoapr2008.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qoaug2008.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qoaug2015.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qodec2005.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qofeb2008.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qofeb2011.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qohac.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qofun.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qojan2008.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qojan2022.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qojul2008.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qojul2016.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qojul2018.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qojun2008.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qojun2016.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qomar2008.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qomay2008.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qonov2005.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qonov2015.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qooct2018.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "https://files.queensown.org/qosep2008.pdf": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "pdf",
+    "referring_pages": [
+      "qonews.htm"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  }
+}

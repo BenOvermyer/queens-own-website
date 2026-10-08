@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -30,7 +29,7 @@ Judith has decided [Editor's gasp!] that we should offer you the opportunity to 
 </p><p>
 Misty has given us Jody Lee's address, and we've sent her a letter asking for all the details for ordering prints of her cover art.  We hope to have everything you've always wanted to know . . . for our January fanletter.
 </p><p>
-<img align="left" alt="Companion Sketch Pending" border="0" loading="lazy" src="https://queensown.org/%2A%2A%2A.jpg"/>How do you like the Companion sketch below?  Julie Bowman sent it to us and included samples of the silver braid bridle, silger cord used as accents and two of the tiny silver bells.  As the reduction makes reading the description difficult, the body is white velour, mane and tail are long white fur, and the saddle pad is blue velvet, while the hooves are silver.  The cost is $22.50 plus $2.00 to cover shipping and handling.  Make your check or money order out to "Mythical Creations" and send it to [Ed. note 2002: address withheld.  See the <a href="/qooct88.htm">October 1988</a> newsletter for the current website link.  We have queried whether or not Julie Bowman still makes the Companions.].  
+<img align="left" alt="Companion Sketch Pending (image unavailable in archive)" border="0" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>How do you like the Companion sketch below?  Julie Bowman sent it to us and included samples of the silver braid bridle, silger cord used as accents and two of the tiny silver bells.  As the reduction makes reading the description difficult, the body is white velour, mane and tail are long white fur, and the saddle pad is blue velvet, while the hooves are silver.  The cost is $22.50 plus $2.00 to cover shipping and handling.  Make your check or money order out to "Mythical Creations" and send it to [Ed. note 2002: address withheld.  See the <a href="/qooct88.htm">October 1988</a> newsletter for the current website link.  We have queried whether or not Julie Bowman still makes the Companions.].
 </p><p>
 Julie also sent us a wee brochure showing her "Purrnese Cats", male or female, black, brown and gray, which are poseable, with varying clothes, and 18" tall; her Fairy, with blue green or brown eyes (and huge gorgeous looking wings), 18" tall; Istari Major, large fire lizard, either of velour and lamai, or lamai, or leather, with a 32" wing span; Istari, small fire lizard, of either velour and lanai (metalic fabric) or lamai, 4" tall.
 </p><p>

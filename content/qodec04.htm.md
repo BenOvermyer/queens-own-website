@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -121,7 +120,7 @@ For additional Ren. Faire information, visit the Renaissance Faire Homepage at <
  </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://www.geocities.com/jengacons/"> http://www.geocities.com/jengacons/</a>.
 </p><p>
-<img align="right" alt="Changling by Cassandra Vuksa" border="5" loading="lazy" src="https://queensown.org/qo231.jpg"/>
+<img align="right" alt="Changling by Cassandra Vuksa (image unavailable in archive)" border="5" data-unavailable-target="https://queensown.org/qo231.jpg" loading="lazy"/>
 </p><p>
 </p><h2>Member News:</h2>
 <p>

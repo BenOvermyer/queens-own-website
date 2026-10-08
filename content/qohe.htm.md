@@ -11,7 +11,6 @@ vlink = "navy"
 +++
 
 <div class="original-page">
-
 <font size="4">
 </font><center><h1>The Helpful Handout of How to Become a Healer</h1></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
@@ -124,7 +123,7 @@ You can earn a specialty by creating an approved Healer persona, and then
 </li><li>After you have written your paper, roll on the appropriate chart below.
 <p>
 </p><ul>
-<li><a id="special" name="special"></a><h3>Low Strength Healing Specialties</h3>
+<li><a id="special" name="special"></a><a id="low"></a><h3>Low Strength Healing Specialties</h3>
 <p>
 If you have a Low Strength Healing Gift, roll on this chart:
 </p><p>
@@ -152,7 +151,7 @@ If you have a Low Strength Healing Gift, roll on this chart:
 </tr>
 </table></center>
 <p>
-</p></li><li><h3>Normal and High Strength Healing Specialties</h3>
+</p></li><li><a id="high"></a><h3>Normal and High Strength Healing Specialties</h3>
 <p>
 If you have a Normal or High Strength Healing Gift, roll on this chart:
 </p><p>

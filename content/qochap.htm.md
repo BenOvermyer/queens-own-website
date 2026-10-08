@@ -11,7 +11,6 @@ vlink = "navy"
 +++
 
 <div class="original-page">
-
 <font size="4">
 </font><center><h1>Queen's Own</h1></center>
 <center><h1>Chapters</h1></center>
@@ -27,7 +26,7 @@ Looking for folks involved in Misty's fandom in your region?  Check out the chap
 Editor: Sacre Noir
 <br/>
 E-mail: <a href="mailto:Sacree Noir &lt;sn.keeper@yahoo.com&gt;">Sacree Noir <sn.keeper@yahoo.com></sn.keeper@yahoo.com></a><br/>
-Website: <a href="https://queensown.org/qogg.htm">http://www.dragonlordsnet.com/qogg.htm</a><br/>
+Website: <a data-unavailable-target="https://queensown.org/qogg.htm" href="https://queensown.org/qogg.htm" title="Unavailable in the preserved archive">http://www.dragonlordsnet.com/qogg.htm</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 Note:  <i>Golden Grove</i> was formerly called <i>The Herald's Hall of California</i>, and it's publication was previously entitled <i>The California Arrow</i>.
 </p><p>
 </p><center><h1>Online Chapters</h1></center>

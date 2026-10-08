@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -36,7 +35,7 @@ Misty also wrote, "Well the holidays are over and I'm still behind.  Sigh.  I am
 </p><p>
 And didn't you love OATHBREAKERS!?!  We've asked Misty where she got her equine education.  It seemed more knowledgeable than one could get just from a library.  We'll pass on what we learn.  Herewith we're also passing on inquiries Judith has received from many of you asking when we can expect to read again about our friends in Valdemar.  We'd like to know, too, and hope our favorite author will offer some encouragement.  [How 'bout it, Misty?]
 </p><p>
-<img align="left" alt="The Hunt Thwarted by Lucy Synk" border="2" loading="lazy" src="https://queensown.org/%2A%2A%2A.jpg"/>Lucy Synk, whose "The Hunt Thwarted" [based on Misty's song "The Bait", wherein a sorceress turns three hunters into rabbits to protect her golden unicorn] is reproduced here, is offering it and the print "Golden Eyes" [based on the filk song of the same name by Misty] at a discount to members of QO.
+<img align="left" alt="The Hunt Thwarted by Lucy Synk (image unavailable in archive)" border="2" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>Lucy Synk, whose "The Hunt Thwarted" [based on Misty's song "The Bait", wherein a sorceress turns three hunters into rabbits to protect her golden unicorn] is reproduced here, is offering it and the print "Golden Eyes" [based on the filk song of the same name by Misty] at a discount to members of QO.
 </p><p>
 Judith has three of Lucy's prints and they are beautiful.
 </p><p>

@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -99,8 +98,8 @@ The gorgeous gryphon and regal lion depicted below are explained in Misty's lett
 </p><center>
 <table border="0" cellpadding="2" cellspacing="2">
 <tr>
-<td align="center" valign="middle"><img alt="Gryphon" border="0" loading="lazy" src="https://queensown.org/%2A%2A%2A.jpg"/></td>
-<td align="center" valign="middle"><img alt="Lion" border="0" loading="lazy" src="https://queensown.org/%2A%2A%2A.jpg"/></td>
+<td align="center" valign="middle"><img alt="Gryphon (image unavailable in archive)" border="0" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/></td>
+<td align="center" valign="middle"><img alt="Lion (image unavailable in archive)" border="0" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/></td>
 </tr>
 </table>
 </center>

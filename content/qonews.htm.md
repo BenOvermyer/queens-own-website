@@ -11,7 +11,6 @@ vlink = "silver"
 +++
 
 <div class="original-page">
-
 <font size="4">
 </font><center><h1>Queen's Own</h1></center>
 <center><h1>Newsletters</h1></center>
@@ -249,8 +248,8 @@ July (no newsletter)<br/>
 <a href="/qoaug98.htm">August</a><br/>
 <a href="/qosep98.htm">September</a><br/>
 October (no newsletter)<br/>
-<a href="https://queensown.org/qonov98.htm">November</a><br/>
-<a href="https://queensown.org/qodec98.htm">December</a>
+<a data-unavailable-target="https://queensown.org/qonov98.htm" href="https://queensown.org/qonov98.htm" title="Unavailable in the preserved archive">November</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="https://queensown.org/qodec98.htm" href="https://queensown.org/qodec98.htm" title="Unavailable in the preserved archive">December</a><span class="unavailable-note"> (unavailable in archive)</span>
 </font></td>
 <td align="center" valign="top" width="25%"><font size="4"><h3>1999</h3>
 <a href="/qojan99.htm">January</a><br/>
@@ -351,8 +350,8 @@ April (no newsletter)<br/>
 <a href="/qoaug05.htm">August</a><br/>
 <a href="/qosep05.htm">September</a><br/>
 <a href="__PDF_BASE_URL__/qooct2005.pdf">October</a><br/>
-<a href="__PDF_BASE_URL__/qonov2005.pdf">November</a><br/>
-<a href="__PDF_BASE_URL__/qodec2005.pdf">December</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qonov2005.pdf" href="__PDF_BASE_URL__/qonov2005.pdf" title="Unavailable in the preserved archive">November</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qodec2005.pdf" href="__PDF_BASE_URL__/qodec2005.pdf" title="Unavailable in the preserved archive">December</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 </font></td>
 <td align="center" valign="top" width="25%"><font size="4"><h3>2006</h3>
 <a href="__PDF_BASE_URL__/qojan2006.pdf">January</a><br/>
@@ -385,15 +384,15 @@ August (no newsletter)<br/>
 </tr>
 <tr>
 <td align="center" valign="top" width="25%"><font size="4"><h3>2008</h3>
-<a href="__PDF_BASE_URL__/qojan2008.pdf">January</a><br/>
-<a href="__PDF_BASE_URL__/qofeb2008.pdf">February</a><br/>
-<a href="__PDF_BASE_URL__/qomar2008.pdf">March</a><br/>
-<a href="__PDF_BASE_URL__/qoapr2008.pdf">April</a><br/>
-<a href="__PDF_BASE_URL__/qomay2008.pdf">May</a><br/>
-<a href="__PDF_BASE_URL__/qojun2008.pdf">June</a><br/>
-<a href="__PDF_BASE_URL__/qojul2008.pdf">July</a><br/>
-<a href="__PDF_BASE_URL__/qoaug2008.pdf">August</a><br/>
-<a href="__PDF_BASE_URL__/qosep2008.pdf">September</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qojan2008.pdf" href="__PDF_BASE_URL__/qojan2008.pdf" title="Unavailable in the preserved archive">January</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qofeb2008.pdf" href="__PDF_BASE_URL__/qofeb2008.pdf" title="Unavailable in the preserved archive">February</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qomar2008.pdf" href="__PDF_BASE_URL__/qomar2008.pdf" title="Unavailable in the preserved archive">March</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qoapr2008.pdf" href="__PDF_BASE_URL__/qoapr2008.pdf" title="Unavailable in the preserved archive">April</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qomay2008.pdf" href="__PDF_BASE_URL__/qomay2008.pdf" title="Unavailable in the preserved archive">May</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qojun2008.pdf" href="__PDF_BASE_URL__/qojun2008.pdf" title="Unavailable in the preserved archive">June</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qojul2008.pdf" href="__PDF_BASE_URL__/qojul2008.pdf" title="Unavailable in the preserved archive">July</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qoaug2008.pdf" href="__PDF_BASE_URL__/qoaug2008.pdf" title="Unavailable in the preserved archive">August</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qosep2008.pdf" href="__PDF_BASE_URL__/qosep2008.pdf" title="Unavailable in the preserved archive">September</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 <a href="__PDF_BASE_URL__/qooct2008.pdf">October</a><br/>
 <a href="__PDF_BASE_URL__/qonov2008.pdf">November</a><br/>
 <a href="__PDF_BASE_URL__/qodec2008.pdf">December</a>
@@ -427,7 +426,7 @@ November (no newsletter)<br/>
 December (no newsletter)</font></td>
 <td align="center" valign="top" width="25%"><font size="4"><h3>2011</h3>
 January (no newsletter)<br/>
-<a href="__PDF_BASE_URL__/qofeb2011.pdf">February</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qofeb2011.pdf" href="__PDF_BASE_URL__/qofeb2011.pdf" title="Unavailable in the preserved archive">February</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 <a href="__PDF_BASE_URL__/qomar2011.pdf">March</a><br/>
 <a href="__PDF_BASE_URL__/qoapraug2011.pdf">April</a><br/>
 May (no newsletter)<br/>
@@ -466,10 +465,10 @@ April (no newlsetter)<br/>
 <a href="__PDF_BASE_URL__/qomay2015.pdf">May</a><br/>
 <a href="__PDF_BASE_URL__/qojun2015.pdf">June</a><br/>
 <a href="__PDF_BASE_URL__/qojul2015.pdf">July</a><br/>
-<a href="__PDF_BASE_URL__/qoaug2015.pdf">August</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qoaug2015.pdf" href="__PDF_BASE_URL__/qoaug2015.pdf" title="Unavailable in the preserved archive">August</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 <a href="__PDF_BASE_URL__/qosep2015.pdf">September</a><br/>
 <a href="__PDF_BASE_URL__/qooct2015.pdf">October</a><br/>
-<a href="__PDF_BASE_URL__/qonov2015.pdf">November</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qonov2015.pdf" href="__PDF_BASE_URL__/qonov2015.pdf" title="Unavailable in the preserved archive">November</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 <a href="__PDF_BASE_URL__/qodec2015.pdf">December</a></font></td>
 </tr>
 <tr>
@@ -479,8 +478,8 @@ April (no newlsetter)<br/>
 <a href="__PDF_BASE_URL__/qomar2016.pdf">March</a><br/>
 <a href="__PDF_BASE_URL__/qoapr2016.pdf">April</a><br/>
 <a href="__PDF_BASE_URL__/qomay2016.pdf">May</a><br/>
-<a href="__PDF_BASE_URL__/qojun2016.pdf">June</a><br/>
-<a href="__PDF_BASE_URL__/qojul2016.pdf">July</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qojun2016.pdf" href="__PDF_BASE_URL__/qojun2016.pdf" title="Unavailable in the preserved archive">June</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qojul2016.pdf" href="__PDF_BASE_URL__/qojul2016.pdf" title="Unavailable in the preserved archive">July</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 <a href="__PDF_BASE_URL__/qoaug2016.pdf">August</a><br/>
 <a href="__PDF_BASE_URL__/qosep2016.pdf">September</a><br/>
 <a href="__PDF_BASE_URL__/qooctnov2016.pdf">October/November</a><br/>
@@ -505,18 +504,18 @@ March (no newsletter)<br/>
 <a href="__PDF_BASE_URL__/qoapr2018.pdf">April</a><br/>
 May (no newsletter)<br/>
 June (no newsletter)<br/>
-<a href="__PDF_BASE_URL__/qojul2018.pdf">July</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qojul2018.pdf" href="__PDF_BASE_URL__/qojul2018.pdf" title="Unavailable in the preserved archive">July</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 <a href="__PDF_BASE_URL__/qoaug2018.pdf">August</a><br/>
 <a href="__PDF_BASE_URL__/qosep2018.pdf">September</a><br/>
-<a href="__PDF_BASE_URL__/qooct2018.pdf">October</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qooct2018.pdf" href="__PDF_BASE_URL__/qooct2018.pdf" title="Unavailable in the preserved archive">October</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 <a href="__PDF_BASE_URL__/qonovdec2018.pdf">November/December</a></font></td>
 <td align="center" valign="top" width="25%"><font size="4"><h3>2019</h3>
 <a href="__PDF_BASE_URL__/qoJan2019.pdf">January</a><br/>
 <a href="__PDF_BASE_URL__/qoFeb2019.pdf">February</a><br/>
 <a href="__PDF_BASE_URL__/qoMar2019.pdf">March</a><br/>
-<a href="https://queensown.org/qoApr-May2019">April/May</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qoApr-May2019.pdf" href="__PDF_BASE_URL__/qoApr-May2019.pdf" title="Unavailable in the preserved archive">April/May</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 <a href="__PDF_BASE_URL__/qoJun-Jul2019.pdf">June/July</a><br/>
-<a href="__PDF_BASE_URL__/qoAug-Sep2019.pdf">August/September</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qoAug-Sep2019.pdf" href="__PDF_BASE_URL__/qoAug-Sep2019.pdf" title="Unavailable in the preserved archive">August/September</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 October (no newsletter)<br/>
 <a href="__PDF_BASE_URL__/qoNov2019.pdf">November</a><br/>
 December (no newsletter)</font></td>
@@ -536,24 +535,24 @@ September (no newsletter)<br/>
 <a href="__PDF_BASE_URL__/qoNov2020.pdf">November</a><br/>
 <a href="__PDF_BASE_URL__/qoDec2020.pdf">December</a></font></td>
 <td align="center" valign="top" width="25%"><font size="4"><h3>2021</h3>
-<a href="__PDF_BASE_URL__/qoJan2021.pdf">January</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qoJan2021.pdf" href="__PDF_BASE_URL__/qoJan2021.pdf" title="Unavailable in the preserved archive">January</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 <a href="__PDF_BASE_URL__/qoFeb2021.pdf">February</a><br/>
 <a href="__PDF_BASE_URL__/qoMar2021.pdf">March</a><br/>
 <a href="__PDF_BASE_URL__/qoApr2021.pdf">April</a><br/>
 <a href="__PDF_BASE_URL__/qoMay2021.pdf">May</a><br/>
 <a href="__PDF_BASE_URL__/qoJune-July2021.pdf">June-July</a><br/>
 <a href="__PDF_BASE_URL__/qoAugust2021.pdf">August</a><br/>
-<a href="__PDF_BASE_URL__/qoSep2021.pdf">September</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qoSep2021.pdf" href="__PDF_BASE_URL__/qoSep2021.pdf" title="Unavailable in the preserved archive">September</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 October (no newsletter)<br/>
 <a href="__PDF_BASE_URL__/qoNov2021.pdf">November</a><br/>
 December (no newsletter)</font></td>
 <td align="center" valign="top" width="25%"><font size="4"><h3>2022</h3>
-<a href="__PDF_BASE_URL__/qojan2022.pdf">January</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qojan2022.pdf" href="__PDF_BASE_URL__/qojan2022.pdf" title="Unavailable in the preserved archive">January</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 <a href="__PDF_BASE_URL__/qoFeb2022.pdf">February</a><br/>
 <a href="__PDF_BASE_URL__/qoMarApr2022.pdf">March-April</a><br/>
-<a href="__PDF_BASE_URL__/qoSpring2022.pdf">Spring</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qoSpring2022.pdf" href="__PDF_BASE_URL__/qoSpring2022.pdf" title="Unavailable in the preserved archive">Spring</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 Summer (no newsletter)<br/>
-<a href="__PDF_BASE_URL__/qoFall2022.pdf">Fall</a><br/>
+<a data-unavailable-target="__PDF_BASE_URL__/qoFall2022.pdf" href="__PDF_BASE_URL__/qoFall2022.pdf" title="Unavailable in the preserved archive">Fall</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
 </font></td>
 <td align="center" valign="top" width="25%"><font size="4"><h3>2023</h3>
 Winter (no newsletter)<br/>

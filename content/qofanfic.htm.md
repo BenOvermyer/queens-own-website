@@ -11,7 +11,6 @@ vlink = "silver"
 +++
 
 <div class="original-page">
-
 <font size="4">
 </font><center><h1>Queen's Own</h1></center>
 <center><h1>Fan Fiction</h1></center>
@@ -54,7 +53,7 @@ Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a hr
 		Co-editor/Advisor: Herald Mage Danya<br/>
 		President/Advisor: Seeking Herald Bastian <br/>
 		E-mail: <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a><br/>
-		Website: <a href="https://queensown.org/F%3A/Docs2/club/WEBSITE/vfcnews.htm">http://www.dragonlordsnet.com/vfcnews.htm</a></p><p>
+		Website: <a href="https://dragonlords.fans/vfcnews.htm">http://www.dragonlordsnet.com/vfcnews.htm</a></p><p>
 </p>
 </td>
 </tr>
@@ -67,7 +66,7 @@ Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a hr
 <p>
 <a href="__PDF_BASE_URL__/Misty.pdf">Misty Vale</a>
 </p><p>
-<a href="__PDF_BASE_URL__/Pirate.pdf">Little Pirate</a>
+<a data-unavailable-target="__PDF_BASE_URL__/Pirate.pdf" href="__PDF_BASE_URL__/Pirate.pdf" title="Unavailable in the preserved archive">Little Pirate</a><span class="unavailable-note"> (unavailable in archive)</span>
 </p><p>
 <a href="__PDF_BASE_URL__/Fox.pdf">Snow Fox</a>
 </p><p>
@@ -96,6 +95,5 @@ Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a hr
 <p>
 </p><center><img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/></center>
 <br/>
-<a href="https://queensown.org/F%3A/Docs2/club/WEBSITE/qo.htm"><img align="center" alt="" border="0" loading="lazy" src="/qofanfic_files/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-
+<a href="/index.html"><img align="center" alt="" border="0" loading="lazy" src="/qofanfic_files/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </div>

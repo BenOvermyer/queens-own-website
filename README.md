@@ -45,9 +45,25 @@ for repeatable changes, or edit generated content directly and avoid reimporting
 those changes. The original source directory is never modified.
 
 `data/migration-report.json` lists repaired references and missing source files.
-Missing non-PDF files remain linked to the original domain pending recovery; their
-availability has not been verified. `data/anchor-report.json` lists unresolved internal anchors.
+It is the original migration snapshot, rather than the current resolution status.
+The current inventory and recovery dispositions are documented in
+[`docs/content-inventory.md`](docs/content-inventory.md).
+Missing non-PDF files retain their original-domain targets and unavailable notices
+pending recovery. `data/anchor-report.json` lists unresolved internal anchors.
 The archive retains historical dates, contact details, copyright notices, and privacy text.
+
+To check for new internal link failures using saved HTTP evidence, run
+`python3 scripts/verify.py` after building. To refresh live PDF and original-host
+availability, run `python3 scripts/audit_links.py --online` (requires network access).
+Known historical gaps remain explicitly unresolved; a new missing target or new
+page referring to an acknowledged gap fails validation. Online availability can
+change, so an offline check does not establish that downloads are currently live.
+
+`data/link-corrections.json` and `scripts/link_repairs.py` keep link fixes and anchor
+aliases reproducible on reimport. `python3 scripts/repair_links.py` applies those fixes
+and unavailable-content notices to existing pages without reimporting the archive.
+After recovering a resource, remove its entry from `data/link-dispositions.json`
+and its unavailable notice from the page, then rebuild and refresh the inventory.
 
 ## PDF storage
 

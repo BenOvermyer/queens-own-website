@@ -11,7 +11,6 @@ vlink = "navy"
 +++
 
 <div class="original-page">
-
 <font size="4">
 </font><center><h1>The Helpful Handout of How to Become a Bard</h1></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
@@ -141,7 +140,7 @@ To attain a specialty as a Bard:
 <li>Earn the points necessary to become a Bard. 
 </li><li>Choose your specialty and complete the requirement associated with it: 
 <ul>
-<li><a id="teacher" name="teacher"></a>Teacher
+<li><a id="teach"></a><a id="teacher" name="teacher"></a>Teacher
      <ul>
 <li>History:  Write a 20-page paper on the real Historical event of your choice.
      </li><li>Literature:  Write a 20-page paper on the real Literary work of your choice.
