@@ -23,9 +23,15 @@ on object-storage hosting too. `zola serve` uses directories during preview.
 The verification script requires the migration Python dependencies below.
 
 Netlify uses `netlify.toml` to run the same deployment build and publish `public/`.
+It passes Netlify's `DEPLOY_PRIME_URL` to Zola so site links use the current
+Netlify site, branch, or preview URL. The default URL in `config.toml` is localhost;
+PDF downloads continue to use `files.queensown.org`.
 The configuration pins Zola to 0.23.6, matching the locally tested version.
 The deployment build uses Python's standard library and does not need the migration
 dependencies or original archive directory.
+
+For a manual deployment, specify its URL with
+`python3 scripts/build.py --base-url https://YOUR-SITE.netlify.app`.
 
 ## Reimport the archive
 

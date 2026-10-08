@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Build Zola and emit legacy .htm URLs as files instead of directories."""
 import subprocess
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-subprocess.run(['zola', 'build'], cwd=ROOT, check=True)
+subprocess.run(['zola', 'build', *sys.argv[1:]], cwd=ROOT, check=True)
 output = ROOT / 'public'
 for directory in sorted(output.rglob('*'), reverse=True):
     if directory.is_dir() and directory.suffix.lower() in ('.htm', '.html'):

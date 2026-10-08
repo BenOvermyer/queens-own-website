@@ -1,5 +1,5 @@
 [build]
-  command = "python3 scripts/build.py"
+  command = 'python3 scripts/build.py --base-url "$DEPLOY_PRIME_URL"'
   publish = "public"
 
 [build.environment]

@@ -1,4 +1,5 @@
-base_url = "https://queensown.org"
+# Local default; Netlify overrides this with the current deployment URL.
+base_url = "http://127.0.0.1:1111"
 title = "Queen's Own"
 description = "The official Mercedes Lackey fan club — community, personas, stories, and an archive of newsletters."
 compile_sass = false
