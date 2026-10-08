@@ -1,0 +1,6 @@
+[build]
+  command = "python3 scripts/build.py"
+  publish = "public"
+
+[build.environment]
+  ZOLA_VERSION = "0.23.6"

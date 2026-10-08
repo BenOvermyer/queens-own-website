@@ -22,6 +22,11 @@ Publish `public/`. Use the build script for deployment: it converts Zola's
 on object-storage hosting too. `zola serve` uses directories during preview.
 The verification script requires the migration Python dependencies below.
 
+Netlify uses `netlify.toml` to run the same deployment build and publish `public/`.
+The configuration pins Zola to 0.23.6, matching the locally tested version.
+The deployment build uses Python's standard library and does not need the migration
+dependencies or original archive directory.
+
 ## Reimport the archive
 
 ```sh
