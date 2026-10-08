@@ -11,7 +11,6 @@ vlink = "navy"
 +++
 
 <div class="original-page">
-
 <font size="4">
 </font><center><h1>The Helpful Handout of How to Become a Military Figure</h1></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
@@ -144,7 +143,7 @@ If you have additional questions, check out the <a href="/qofaqm.htm">Military</
 </p><p>
 </p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
 <p>
-</p><h2>Advanced Rank</h2>
+</p><a id="advance"></a><h2>Advanced Rank</h2>
 <p>
 There are several advanced ranks available for military-type personae.
 </p><p>

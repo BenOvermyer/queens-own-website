@@ -12,3 +12,4 @@ nav { display: flex; justify-content: center; flex-wrap: wrap; gap: .4rem 1rem; 
 main { overflow-x: auto; }
 .skip { position: absolute; left: -10000px; }
 .skip:focus { left: 1rem; top: 1rem; background: var(--background); padding: .5rem; }
+.unavailable-note { font-size: .85em; font-style: italic; }

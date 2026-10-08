@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -117,7 +116,7 @@ Anyone interested in joining the Mercenaries Guild and working on a mercenary pe
 </p><p>
 We have individual handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald.  Guidelines for Tayledras and Shin'a'in are incomplete but are enough to get you started.  Send a SASE to [Ed. note 2005:  Out-of-Date info withheld.] or to QO and specify which handout you are requesting.  No SASE, no answer!
 </p><p>
-You need a release form (send the Guardian or me a SASE) if you write a story set in Misty's worlds or using any of her characters.  You do not need a release for a character sketch, poem or filk.  All Misty wants to do is protect her characters and worlds.  Send the <a href="https://queensown.org/mlrel2.htm">release form</a> to Misty at Highflight [Ed. note 2005:  Out-of-Date info withheld.].  Do NOT include the release form with your persona material; send it to Misty.
+You need a release form (send the Guardian or me a SASE) if you write a story set in Misty's worlds or using any of her characters.  You do not need a release for a character sketch, poem or filk.  All Misty wants to do is protect her characters and worlds.  Send the <a href="/qomlrel2.htm">release form</a> to Misty at Highflight [Ed. note 2005:  Out-of-Date info withheld.].  Do NOT include the release form with your persona material; send it to Misty.
 </p><p>
 Herald material should be sent ot the QO address; only Herald-Mage personas to the Guardian of the Web.
 </p><p>

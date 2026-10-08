@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -40,7 +39,7 @@ For you <i>Blake's 7</i> fans, Amy Manring is again making crystal beaded Libera
 </p><p>
 Last, but not least, thanks to all who sent stamps, and a reminder that if you want a sample fanletter sent to a friend you should send me a stamped envelope addressed with the friend's name.
 </p><p>
-<img align="left." alt="Misty with Coacoochee, a Southern Bald Eagle, a member of Doris Mager's 'family' in Florida." border="2" loading="lazy" src="https://queensown.org/%2A%2A%2A.jpg"/><b>WE ALSO GET REQUESTS, AND OFFERS OF HELP . . . </b> Some of you have asked for pictures of Misty and a brief biography.  Denise Park has been both generous and gracious enough to offer to send a copy of same from the August GenCon [Portland, OR] program for a SASE.  Write her at [Ed. Note 2002:  Address withheld.]  Thanks, Denise!
+<img align="left." alt="Misty with Coacoochee, a Southern Bald Eagle, a member of Doris Mager's 'family' in Florida. (image unavailable in archive)" border="2" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/><b>WE ALSO GET REQUESTS, AND OFFERS OF HELP . . . </b> Some of you have asked for pictures of Misty and a brief biography.  Denise Park has been both generous and gracious enough to offer to send a copy of same from the August GenCon [Portland, OR] program for a SASE.  Write her at [Ed. Note 2002:  Address withheld.]  Thanks, Denise!
 </p><p>
 <b>A REMINDER FROM SALLY,</b> to send requests for The Queen's Own--Mercedes Lackey buttons to our Post Office Box.  And please make the check/money order out to Sally Paduch, <i>not</i> to QO.  [We don't have a checking account.]  [Ed. Note 2002: Out-of-date pricing information omitted.]
 </p><p>

@@ -11,7 +11,6 @@ vlink = "silver"
 +++
 
 <div class="original-page">
-
 <font size="4">
 </font><center><h1>Queen's Own</h1></center>
 <center><h1>NPC List</h1></center>
@@ -91,7 +90,7 @@ the date they earned each of their Herald-Mage ranks.
 </p><ol>
 <li> <a href="mailto:garou@netspeed.com.au">Healer Cinnamon Ava</a> (<a href="/qodec97.htm">December 1997</a>) (Very Strong Empathy)
 </li><li> Healer Obesty Banff (March 1995) (Very Strong Empathy)
-</li><li> Healer Tearanna Wilder (<a href="https://queensown.org/qodec98.htm">December 1998</a>) (Physical Healing)
+</li><li> Healer Tearanna Wilder (<a data-unavailable-target="https://queensown.org/qodec98.htm" href="https://queensown.org/qodec98.htm" title="Unavailable in the preserved archive">December 1998</a><span class="unavailable-note"> (unavailable in archive)</span>) (Physical Healing)
 </li><li> Healer Vanni Taltos (<a href="/qojan95.htm">January 1995</a>) (Physical Healing)
 </li></ol>
 <p>

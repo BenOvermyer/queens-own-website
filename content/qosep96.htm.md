@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -28,7 +27,7 @@ September 1996</h2></center>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="Border Art" border="0" loading="lazy" src="https://queensown.org/qo267.htm"/>
+<img align="right" alt="Border Art (image unavailable in archive)" border="0" data-unavailable-target="https://queensown.org/qo267.htm" loading="lazy"/>
 WOW! A new Misty book to read--<i>Storm Breaking</i>--and unexpected good news. Misty and Larry will attend Dragon*Con in Atlanta next June. We'll tell you more about it in future newsletters; this is just advance notice so you can start planning to attend too.  <i>Storm Breaking</i> is a hardback, with interior illustrations by Larry, and more than a few surprises. (That's what's on the other side of the Iftel border? I never guessed!)
 </p><p>
 News flash from Firebird Arts &amp; Music: Mark Shepherd is doing an instrumental album to go along with his newest book. The working title of both is <i>Spirit Ride</i> and the story is set in the same universe as <i>Elvendude</i>. The release dates for book and album are unscheduled. Misty and Paul Espinoza of Golden Bough

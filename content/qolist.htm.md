@@ -11,7 +11,6 @@ vlink = "silver"
 +++
 
 <div class="original-page">
-
 <font size="4">
 </font><center><h1>Queen's Own</h1></center>
 <center><h1>Persona List</h1></center>
@@ -165,13 +164,13 @@ Note: Some of the Gift details do not match the current handout because the hand
 </li><li> <a href="mailto:sjupiterdebi@home.com">Herald Deborah of Aardanel</a> (Yasmin) (<a href="/qomar91.htm">March 1991</a>?) (Mindspeech)
 </li><li> Herald Deborah of Aardanel (Yasmin) (<a href="/qomar91.htm">March 1991</a>) (Mindspeech)
 </li><li> Herald Debra Valcoeur (Kandar) (<a href="/qonov91.htm">November 1991</a>) (Mindspeech, Empathy, Mindhealing)
-</li><li> Herald Dela (Atreyu) (<a href="https://queensown.org/qodec98.htm">December 1998</a>) (Mindspeech)
+</li><li> Herald Dela (Atreyu) (<a data-unavailable-target="https://queensown.org/qodec98.htm" href="https://queensown.org/qodec98.htm" title="Unavailable in the preserved archive">December 1998</a><span class="unavailable-note"> (unavailable in archive)</span>) (Mindspeech)
 </li><li> Herald Derai Jekanah shena Vyusher'edras (Riyla) (<a href="/qofeb91.htm">February 1991</a>) (Mindspeech) (Also a Shin'a'in)
 </li><li> Herald Deriya L'Shawnea (Knisper) (September 1995) (Mindspeech, strong Empathy)
 </li><li> <a href="mailto:silver_serenity_2000@yahoo.com">Herald Desari Silverrain</a> (Rayya) (<a href="/qooct02.htm">October 2002</a>) (Strong Mindspeech, Fetching, Empathy)
 </li><li> Herald Destre (Morgan) (<a href="/qomay91.htm">May 1991</a>) (strong Mindspeech)
 </li><li> Herald Dealina (Kandar) (<a href="/qojul90.htm">July 1990</a>) (Mindspeech)
-</li><li> Herald Dela (Atreyu) (<a href="https://queensown.org/qodec98.htm">December 1998</a>) (Mindspeech)
+</li><li> Herald Dela (Atreyu) (<a data-unavailable-target="https://queensown.org/qodec98.htm" href="https://queensown.org/qodec98.htm" title="Unavailable in the preserved archive">December 1998</a><span class="unavailable-note"> (unavailable in archive)</span>) (Mindspeech)
 </li><li> Herald Diedre Nightsong (Lloriana) (<a href="/qosep92.htm">September 1992</a>) (Double-strength Mindspeech)
 </li><li> Herald Dugal Andersonn (Nita) (<a href="/qosep92.htm">September 1992</a>) (Mindspeech, Empathy)
 </li><li> Herald Eanaree shena Pretora (Neiya) (<a href="/qosep91.htm">September 1991</a>) (Mindspeech, Firestarting) (Also a Shin'a'in)
@@ -235,7 +234,7 @@ Note: Some of the Gift details do not match the current handout because the hand
 </li><li> Herald Jonas (Tashlin) (<a href="/qojan93.htm">January 1993</a>) (Mindspeech, Fetching, Animal Mindspeech)
 </li><li> *Herald Josan Dragonshadow (Astii) (<a href="/qoaug97.htm">August 1997</a>) (Double-strength Mindspeech, Fetching)
 </li><li> <a href="mailto:jreeavanos@gmail.com">Herald Jreea Vanos</a> (Jerevan) (<a href="/qosep92.htm">September 1992</a>) (Mindspeech, Fetching, Mindhealing)
-</li><li> <a href="https://queensown.org/mailto">Herald Kaeril Alinstair</a> (Rekis) (<a href="/qosep91.htm">September 1991</a>) (Mindspeech, slight Foresight)
+</li><li> <a data-unavailable-target="https://queensown.org/mailto" title="Unavailable in the preserved archive">Herald Kaeril Alinstair</a><span class="unavailable-note"> (unavailable in archive)</span> (Rekis) (<a href="/qosep91.htm">September 1991</a>) (Mindspeech, slight Foresight)
 </li><li> Herald Kaireigh (Cara) (<a href="/qofeb95.htm">February 1995</a>) (Mindspeech, Fetching)
 </li><li> Herald Kaitlyn Windrift (Felshe) (<a href="/qooct92.htm">October/November 1992</a>) (Mindspeech, Empathy, touch of Bardic)
 </li><li> Herald Kaitren McClenahana (Riqui) (<a href="/qofeb93.htm">February 1993</a>) (strong Mindspeech, little Empathy)
@@ -254,7 +253,7 @@ Note: Some of the Gift details do not match the current handout because the hand
 </li><li> Herald Kata Skyhawk (Xanthe) (<a href="/qomay97.htm">May 1997</a>) (Mindspeech)
 </li><li> Herald Katerynne Lionsmane (Alyshondra) (<a href="/qojul90.htm">July 1990</a>) (Mindspeech, Animal Mindspeech)
 </li><li> Herald Katha Destryn (Cedric) (March/April 1993) (Mindspeech)
-</li><li> Herald Kathyrine (Sync) (<a href="https://queensown.org/qomar.htm">March 1990</a>) (Mindspeech, Animal Mindspeech)
+</li><li> Herald Kathyrine (Sync) (<a href="/qomar90.htm">March 1990</a>) (Mindspeech, Animal Mindspeech)
 </li><li> Herald Katia (Alassir) (May 1993) (Fetching, Mindspeech)
 </li><li> Herald Katia Lawless (Ciardyn) (<a href="/qofeb95.htm">February 1995</a>) (Mindspeech, Fetching, Animal Mindspeech)
 </li><li> <a href="mailto:shealynn88@hotmail.com">Herald Katira shena Vuysher'edras</a> (Miram) (<a href="/qodec92.htm">December 1992</a>) (Fetching, Mindspeech)(Also a Shin'a'in)
@@ -462,7 +461,7 @@ Note: Some of the Gift details do not match the current handout because the hand
 </li><li> †Herald Talah shena Vyusher'edras (Isha) (July 1995) (Mindspeech, Animal Mindspeech)
 </li><li> Herald Talavis de Elevim (Ardatha) (<a href="/qomay91.htm">May 1991</a>) (Mindspeech, Firestarting, Fetching)
 </li><li> Herald Talina Searial (Chez) (<a href="/qoapr92.htm">April 1992</a>) (strong Mindspeech, Fetching)
-</li><li> <a href="mailto:Talira@aol.com">Herald Talira</a> (Shilo) (<a href="https://queensown.org/qonov98.htm">November 1998</a>) (Animal Mindspeech, Foresight)
+</li><li> <a href="mailto:Talira@aol.com">Herald Talira</a> (Shilo) (<a data-unavailable-target="https://queensown.org/qonov98.htm" href="https://queensown.org/qonov98.htm" title="Unavailable in the preserved archive">November 1998</a><span class="unavailable-note"> (unavailable in archive)</span>) (Animal Mindspeech, Foresight)
 </li><li> Herald Talis Larkspur (Sheena) (May 1993) (Mindspeech, Healing)
 </li><li> Herald Talore Kieanth (Karatin) (<a href="/qomar91.htm">March 1991</a>) (Mindspeech, Foresight)
 </li><li> Herald Tamino (Slayna) (<a href="/qomay91.htm">May 1991</a>) (Mindspeech, Foresight, touch of Healing)
@@ -532,7 +531,7 @@ Note: Some of the Gift details do not match the current handout because the hand
 Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, even though they do not maintain personae in Queen's Own.
 </p><p>
 </p><ol>
-<li> <a href="mailto:Legend@malcor.com">Herald-Mage Adept Danya Winterborn</a> (Terrill) (<a href="/qomar96.htm">March 1996</a>; <a href="/qojul96.htm">July 1996</a>; <a href="https://queensown.org/qonov98.htm">November 1998</a>; <a href="/qojun00.htm">June 2000</a>; <a href="/qoapr02.htm">April 2002</a>) (Mindspeech, Fetching, Empathy, Mage Gift)
+<li> <a href="mailto:Legend@malcor.com">Herald-Mage Adept Danya Winterborn</a> (Terrill) (<a href="/qomar96.htm">March 1996</a>; <a href="/qojul96.htm">July 1996</a>; <a data-unavailable-target="https://queensown.org/qonov98.htm" href="https://queensown.org/qonov98.htm" title="Unavailable in the preserved archive">November 1998</a><span class="unavailable-note"> (unavailable in archive)</span>; <a href="/qojun00.htm">June 2000</a>; <a href="/qoapr02.htm">April 2002</a>) (Mindspeech, Fetching, Empathy, Mage Gift)
 </li><li> <a href="mailto:dragonfodder@gmail.com">Herald-Mage Hedge Wizard Jensen Redstart</a> (Shetan) (June 1995; <a href="/qojun00.htm">June 2000</a>) (Mindspeech, Double-strength Fetching, Mage Gift)
 </li><li> <a href="mailto:Kadia@aol.com">Herald-Mage Apprentice Kadia Linder</a> (Damis) (November/December 1995) (Mindspeech, Fetching, Firestarting, Mage Gift)
 </li><li> Herald-Mage Journeyman Kayla Riordan (Narafis) (<a href="/qodec90.htm">December 1990</a>; <a href="/qofeb93.htm">February 1993</a>; September 1993) (Mindspeech, Farsight, Mage Gift)
@@ -662,8 +661,8 @@ Note:  Some details do not match the current handout because the characters were
 </li><li> <a href="mailto:shealynn88@hotmail.com">Shin'a'in Herald Katira shena Vuysher'edras</a> (Miram) (<a href="/qodec92.htm">December 1992</a>) (Fetching, Mindspeech)(Also a Herald)
 </li><li> Shin'a'in Kendric shena Petera'sedrin (<a href="/qodec90.htm">December 1990</a>)
 </li><li> <a href="mailto:pegapup@gmail.com">Shin'a'in Herald Kori shena Nohara'ten</a> (Hanashi) (<a href="/qosep90.htm">September 1990</a>) (Mindspeech, Animal Mindspeech) (Also a Herald)
-</li><li> Shin'a'in Herald Kyriah Vallainevvas Mstorven shena Liha'irden (Taerlan) (<a href="https://queensown.org/qofeb.htm">February 1991</a>) (Mindspeech, Farsight)
-</li><li> <a href="mailto:mailto:qo@fligor.net">Shin'a'in Jelenda</a> (Jel'enedra) (August 2008) (Shaman of the Cat Clan)
+</li><li> Shin'a'in Herald Kyriah Vallainevvas Mstorven shena Liha'irden (Taerlan) (<a href="/qofeb91.htm">February 1991</a>) (Mindspeech, Farsight)
+</li><li> <a href="mailto:qo@fligor.net">Shin'a'in Jelenda</a> (Jel'enedra) (August 2008) (Shaman of the Cat Clan)
 </li><li> <a href="mailto:gwenaelle_98@yahoo.com">Shin'a'in Leshya'edrin shena Pretera'sedrin</a> (<a href="/qofeb02.htm">February 2002</a>) (Chief of Grasscat Clan)
 </li><li> Shin'a'in Warrior Raven shena Rotale'sedrin (<a href="/qonov91.htm">November 1991</a>)
 </li><li> Shin'a'in Scout/Captain Stephania shena Pretera'sedrin (Clan of the Shadow Cats) (<a href="/qosep90.htm">September 1990</a>; <a href="/qonov91.htm">November 1991</a>) (also Mercenary)

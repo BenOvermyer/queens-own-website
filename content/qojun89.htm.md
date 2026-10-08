@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -34,7 +33,7 @@ SPRINGFEST '89 was a kick and a half!  Dale Jewel arranged for Judith, Sally, an
 </p><p>
 We won't go into detail about all that went on, ['cause we don't have the time, energy, or space,] but we will tell you that we met Marion Zimmer Bradley, Misty's mentor and a truly grand lady; Lisa [Elizabeth] Walters, Mrs. Bradley's aide-de-camp, [secretary just doesn't say enough,] and author in her own right; the one and only Larry Dixon, artist extraordinaire and Misty co-conspirator/collaborator; Grace Lee Whithey, of original Star Trek fame, [and <i>much</i> more attractive in person than she appears on the screen]; gamers Steve Jackson and Michael "Scotty" Scott; and--sound of trumpets--our own, very special MISTY!]
 </p><p>
-<img align='left"' alt="Misty by ***" border="0" loading="lazy" src="https://queensown.org/%2A%2A%2A.jpg"/>The delightful cartoon to the left appeared in the program, and we were given permission to reproduce it here.  [There was also a photograph of the lady, but there's no way it came even close to capturing the multi-faceted personality of our favorite author.]  She is a 5'5" bundle of perpetual motion and energy, [which we found a bit unnerving,] with auburn hair, hazel eyes which sometimes seem green and sometimes golden, and a smile that wins everyone within its reach.
+<img align='left"' alt="Misty by *** (image unavailable in archive)" border="0" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>The delightful cartoon to the left appeared in the program, and we were given permission to reproduce it here.  [There was also a photograph of the lady, but there's no way it came even close to capturing the multi-faceted personality of our favorite author.]  She is a 5'5" bundle of perpetual motion and energy, [which we found a bit unnerving,] with auburn hair, hazel eyes which sometimes seem green and sometimes golden, and a smile that wins everyone within its reach.
 </p><p>
 On the fan side, we met Christa Miller, who flew in from Glendale, CA.  Misty was very complimented and we were delighted to meet her.  Christa's enthusiasm and sparkling personality were contagious, and a welcome contribution to all the festivities she attended.
 </p><p>
@@ -42,7 +41,7 @@ MAGIC'S PAWN got a nice play from the local Waldenbooks at SPRINGFEST.  For thos
 </p><p>
 To whet the appetites of readers-to-be, DAW wrote, "Here is a fantasy tour de force that ties in with the most popular realm Mercedes Lackey has created, a novel that combines a top-notch blend of war and rebellion, vast magics both dark and bright, love and tragedy . . .  and most importantly, a young hero who becomes a power the like of which his world has never known."
 </p><p>
-<img align='right"' alt="Queen's Own button by ***" border="0" loading="lazy" src="https://queensown.org/%2A%2A%2A.jpg"/>YIPPEE!  HURRAY!! WE GOT' EM!!! [Ed. Note 2002:  No, <i>we</i> don't!  If someone wants to revive this, please contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.]  The Queen's Own, Mercedes Lackey Fan Club buttons are finally here.  They are the size pictured at the right, with black lettering and drawing on a blue background.  If you'd like one, [Ed. Note 2002:  Purchase information withheld.].  [We sent one to Misty this way and she reports that it arrived safely.]
+<img align='right"' alt="Queen's Own button by *** (image unavailable in archive)" border="0" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>YIPPEE!  HURRAY!! WE GOT' EM!!! [Ed. Note 2002:  No, <i>we</i> don't!  If someone wants to revive this, please contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.]  The Queen's Own, Mercedes Lackey Fan Club buttons are finally here.  They are the size pictured at the right, with black lettering and drawing on a blue background.  If you'd like one, [Ed. Note 2002:  Purchase information withheld.].  [We sent one to Misty this way and she reports that it arrived safely.]
 </p><p>
 Many thanks to Chantal Gaudiano, David Himmelreich, and Shari Prestwood for their response to our plea for information about the Society for Creative Anachronism.  This organization seems tailor-made for those of us who'd enjoy having the opportunity to express ourselves <i>outside</i> our imaginations.  We'll excerpt from their letters for those of you who, like ourselves, were unaware that these marvelous kingdoms actually exist.  
 </p><p>

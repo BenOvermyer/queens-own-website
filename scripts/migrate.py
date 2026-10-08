@@ -10,6 +10,7 @@ from pathlib import Path
 from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
+from link_repairs import annotate_gaps, corrected_link, repair_anchors
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -66,6 +67,7 @@ def migrate(source):
         soup = BeautifulSoup(files[name].read_bytes(), 'lxml')
         title = soup.title.get_text(' ', strip=True) if soup.title else Path(name).stem
         body = soup.body or soup
+        repair_anchors(soup, name)
         for node in list(body.find_all(['script', 'style', 'iframe', 'object', 'embed'])):
             node.decompose()
         for node in list(body.find_all(True)):
@@ -73,13 +75,15 @@ def migrate(source):
                 node['id'] = node['name']
             for attr in list(node.attrs):
                 if attr in ('href', 'src'):
-                    node[attr] = rewrite(node[attr], name)
+                    node[attr] = rewrite(corrected_link(node[attr], name, node.get_text(' ', strip=True)), name)
                 elif attr not in ('id', 'name', 'alt', 'title', 'colspan', 'rowspan', 'align', 'valign', 'width', 'height', 'border', 'cellspacing', 'cellpadding', 'size', 'color', 'face', 'style'):
                     del node[attr]
             if node.name == 'img':
                 node['loading'] = 'lazy'
                 if not node.has_attr('alt'):
                     node['alt'] = ''
+        dispositions = json.loads((ROOT / 'data/link-dispositions.json').read_text()) if (ROOT / 'data/link-dispositions.json').exists() else {}
+        annotate_gaps(soup, dispositions)
         html = body.decode_contents()
         # Raw HTML inside Zola Markdown preserves the hand-authored archive layout.
         converted = '<div class="original-page">\n' + html + '\n</div>\n'

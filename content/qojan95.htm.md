@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -147,7 +146,7 @@ We have individual handouts for aspiring Heralds, Healers, and Bards, and instru
 </p><p>
 Creativity in achieving extra credit points is admired but please follow the. basic rules for your persona.
 </p><p>
-You need a <a href="https://queensown.org/mlrel2.htm">release form</a> (send the Guardian or me a SASE) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem, or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty at Highflight [Ed. note 2005:  Out-of-date info withheld.]. Do NOT include the release form with your persona material, send it to Misty.
+You need a <a href="/qomlrel2.htm">release form</a> (send the Guardian or me a SASE) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem, or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty at Highflight [Ed. note 2005:  Out-of-date info withheld.]. Do NOT include the release form with your persona material, send it to Misty.
 </p><p>
 Herald material should be sent to the QO address, only Herald-Mage personas to the Guardian of the Web.
 </p><p>

@@ -11,7 +11,6 @@ vlink = "silver"
 +++
 
 <div class="original-page">
-
 <font size="9">
 <a href="http://www.animfactory.com/"><img align="left" alt="Click to Visit Animfactory, the source of this image" border="0" loading="lazy" src="/qoq.gif"/></a><a href="http://www.animfactory.com/"><img align="right" alt="Click to Visit Animfactory, the source of this image" border="0" loading="lazy" src="/qoo.gif"/></a></font><center>Queen's Own</center>
 <font size="6">
@@ -71,7 +70,7 @@ vlink = "silver"
 <dl>
 <dt><a href="https://dragonlords.fans/danc.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://dragonlords.fans/danc.htm">Companions' Choices</a></dt>
 <dd>Why Companions choose the Heralds they do.</dd>
-<dt><a href="__PDF_BASE_URL__/qohac.pdf"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="__PDF_BASE_URL__/qohac.pdf">Herald Arrow Code</a></dt>
+<dt><a data-unavailable-target="__PDF_BASE_URL__/qohac.pdf" href="__PDF_BASE_URL__/qohac.pdf" title="Unavailable in the preserved archive"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a><span class="unavailable-note"> (unavailable in archive)</span> <a data-unavailable-target="__PDF_BASE_URL__/qohac.pdf" href="__PDF_BASE_URL__/qohac.pdf" title="Unavailable in the preserved archive">Herald Arrow Code</a><span class="unavailable-note"> (unavailable in archive)</span></dt>
 <dd>Details of the Herald Arrow Code.</dd>
 <dt><a href="/qojust.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="/qojust.htm">Just the FAQs</a></dt>
 <dd>Velgarth information and trivia.</dd>

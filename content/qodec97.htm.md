@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -122,7 +121,7 @@ Now, create your family and friends.  Describe their likes and dislikes, your re
 </p><p>
 Extra point requirements vary depending on what role you've chosen for yourself. Each category has requirements that will add to the growth of your character. All of us can be a~volunteer and learn CPR, and many of us can be a regular blood donor.
 </p><p>
-Send a SASE to the QO address for specific handouts--Herald, Healer, Bard, Mercenary, Shin'a'in. Tayledras, White Winds Sorcerer/ess--with more information and a <a href="https://queensown.org/mlrel2.htm">release form</a> so you can write a story set in Misty's world. (Biographical information, even in the form of a story, does not need a release form.)
+Send a SASE to the QO address for specific handouts--Herald, Healer, Bard, Mercenary, Shin'a'in. Tayledras, White Winds Sorcerer/ess--with more information and a <a href="/qomlrel2.htm">release form</a> so you can write a story set in Misty's world. (Biographical information, even in the form of a story, does not need a release form.)
 </p><p>
 Come, enroll in the Collegium!
 </p><p>

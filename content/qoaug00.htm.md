@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -250,7 +249,7 @@ Things continue to grow.  This month's newsletter will be going out to almost si
 </p><p>
 In this issue of the newsletter we are announcing the inaugural issue of <i>Children of Velgarth</i>, the QO fanzine.  Look in the fanzine section for specific details.  If you still have copies of your original persona submission floating around, you can find submission instructions at <a href="/qozine.htm">http://www.dragonlordsnet.com/qozine.htm</a>.  We'd eventually love to publish all of the QO personae who have been approved.
 </p><p>
-We are also getting close to having enough material to put out the first issue of <i>The Compass Rose</i>, the QO nonfiction journal.  There's still time to contribute.  You can find submission instructions at <a href="https://queensown.org/qojournal.htm%22">http://www.dragonlordsnet.com/qojournal.htm</a>.
+We are also getting close to having enough material to put out the first issue of <i>The Compass Rose</i>, the QO nonfiction journal.  There's still time to contribute.  You can find submission instructions at <a href="/qojournal.htm">http://www.dragonlordsnet.com/qojournal.htm</a>.
 </p><p>
 Remember, you are all entitled to submit personals and fan messages.  We are also chronically in need of art for the online version of this newsletter.  Keep those submissions coming!  This is your club, and all of you are responsible for helping to make it a success!  
 </p><p>

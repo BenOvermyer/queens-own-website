@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -24,7 +23,7 @@ June 1990</h2></center>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="right" alt="Queen's Own" border="0" loading="lazy" src="https://queensown.org/%2A%2A%2A.jpg"/>Dear Misty fans:
+<img align="right" alt="Queen's Own (image unavailable in archive)" border="0" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>Dear Misty fans:
 </p><p>
 Wonderful news!  JODY LEE, the illustrator who does the beautiful covers for Misty's Valdemar series, has made available to us limited edition preints of the covers of <i>Oathbound</i> and <i>Oathbreakers</i>.  And she says "When time and finances allow, I hope to continue with the Vanyel series"!!!  The prints are double matted, ready for a 14 x 18 inch frame.  (The image size is 11 x 14 inches.) [Ed. note 2002: Out-of-date pricing and order info withheld.]  I've already ordered and received my print of <i>Oathbound</i>, and it is magnificent.  (The prints are identical to the covers but without any printing.)
 </p><p>

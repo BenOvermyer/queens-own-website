@@ -11,7 +11,6 @@ vlink = "red"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -135,7 +134,7 @@ magical place populated by fantastic beings and governed by mystical forces. Fou
 </p></li><li><b>Anne McCafffrey/Pern</b> - Contact Weyrleader R�nier at <a href="mailto:dragonfodder@gmail.com">dragonfodder@gmail.com</a> for current information.<p>
 </p></li><li>Adrian Paul of <b>Highlander</b> - Peace APFC PO Box 4593 North Hollywood, CA 91617 or Peace APFC PO Box
 519 Bromley Kent BR2 9WX ENGLAND.<p>
-</p></li><li><b>Lois Bujold</b> can be reached at <a href="https://queensown.org/mailto">lois@dendarii.com</a>. "The Bujold Nexus" is at <a href="http://www.dendarii.com">http://www.dendarii.com</a>. For a sample issue of the Dendarii Dispatch and information of Lois�s fan club, send a SASE to Dendarii Dispatch C/O Kaye Carrasco PO Box 1414 Roswell NM 88202-1414 USA.<p>
+</p></li><li><b>Lois Bujold</b> can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>. "The Bujold Nexus" is at <a href="http://www.dendarii.com">http://www.dendarii.com</a>. For a sample issue of the Dendarii Dispatch and information of Lois�s fan club, send a SASE to Dendarii Dispatch C/O Kaye Carrasco PO Box 1414 Roswell NM 88202-1414 USA.<p>
 </p></li><li><b>Pandemonium</b> - The official Melanie Rawn club invites you to join their ranks. SASE for more information:
 Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
 </p></li><li><b>Dragonlords of Dumnonia</b> - Contact L.A. Malcor at legend@oxy.edu or visit the website at <a href="http://wwww.dragonlordsnet.com">http://wwww.dragonlordsnet.com</a> for more information.

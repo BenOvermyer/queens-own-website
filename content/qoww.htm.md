@@ -11,7 +11,6 @@ vlink = "navy"
 +++
 
 <div class="original-page">
-
 <font size="4">
 </font><center><h1>The Helpful Handout of How to Become a Sorcerer/Sorceress</h1></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
@@ -105,7 +104,7 @@ To earn one of these specialties, first create an approved Sorcerer/Sorceress pe
 </li><li>Weatherwitch: Write a 20-page paper on the uses of Weather Magic on Velgarth.
 </li></ul>
 <p>
-</p><h3>Formal Training</h3>
+</p><a id="formal"></a><h3>Formal Training</h3>
 <p>
 If you want your character to receive formal training in the magical arts, there are three schools that I know about.  Choose which school you want to join.  Complete the requirements in that column for each rank.  Do not switch columns.  If you start in the White Winds column, you need to stay there.
 </p><p>
