@@ -34,18 +34,19 @@ for repeatable changes, or edit generated content directly and avoid reimporting
 those changes. The original source directory is never modified.
 
 `data/migration-report.json` lists repaired references and missing source files.
-Missing files remain linked to the original domain pending recovery; their availability
-has not been verified. `data/anchor-report.json` lists unresolved internal anchors.
+Missing non-PDF files remain linked to the original domain pending recovery; their
+availability has not been verified. `data/anchor-report.json` lists unresolved internal anchors.
 The archive retains historical dates, contact details, copyright notices, and privacy text.
 
-## PDF storage (provision separately)
+## PDF storage
 
 The 120 PDFs (about 57 MiB) are intentionally excluded from the repository and build.
 `data/pdf-manifest.json` records their original keys, sizes, and SHA-256 checksums.
-Until storage is available, PDF links use the original `https://queensown.org` host;
-this does not guarantee that host still serves every file.
+PDF links use `https://files.queensown.org`, configured through `extra.pdf_base_url`
+in `config.toml`. Filenames and their case are preserved, including links to PDFs
+that were missing from the local source archive.
 
-Once the bucket and public read access/CDN are configured, preview the upload:
+To preview future uploads to the backing bucket:
 
 ```sh
 bash scripts/upload-pdfs.sh ../queens-own/queensown.org s3://YOUR-BUCKET \

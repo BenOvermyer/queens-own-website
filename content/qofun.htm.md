@@ -71,7 +71,7 @@ vlink = "silver"
 <dl>
 <dt><a href="https://dragonlords.fans/danc.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://dragonlords.fans/danc.htm">Companions' Choices</a></dt>
 <dd>Why Companions choose the Heralds they do.</dd>
-<dt><a href="https://queensown.org/qohac.pdf"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://queensown.org/qohac.pdf">Herald Arrow Code</a></dt>
+<dt><a href="__PDF_BASE_URL__/qohac.pdf"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="__PDF_BASE_URL__/qohac.pdf">Herald Arrow Code</a></dt>
 <dd>Details of the Herald Arrow Code.</dd>
 <dt><a href="/qojust.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="/qojust.htm">Just the FAQs</a></dt>
 <dd>Velgarth information and trivia.</dd>

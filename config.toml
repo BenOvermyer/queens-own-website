@@ -5,6 +5,5 @@ compile_sass = false
 build_search_index = false
 
 [extra]
-# Change to the public bucket/CDN URL after uploading the PDF archive.
-# The original host remains the fallback until storage is configured.
-pdf_base_url = "https://queensown.org"
+# Public download host for the PDF archive.
+pdf_base_url = "https://files.queensown.org"

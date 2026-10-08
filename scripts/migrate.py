@@ -54,6 +54,8 @@ def migrate(source):
                     repairs.append({'page': origin, 'original': value, 'resolved': local})
         if local not in files:
             missing.append({'page': origin, 'target': value})
+            if Path(local).suffix.lower() == '.pdf':
+                return '__PDF_BASE_URL__/' + quote(local, safe='/') + ('?' + parsed.query if parsed.query else '') + ('#' + parsed.fragment if parsed.fragment else '')
             # Point missing archive files at the original host rather than a new broken local URL.
             return urlunsplit(('https', 'queensown.org', '/' + quote(local, safe='/'), parsed.query, parsed.fragment))
         prefix = '__PDF_BASE_URL__/' if Path(local).suffix.lower() == '.pdf' else '/'

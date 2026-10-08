@@ -67,7 +67,7 @@ Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a hr
 <p>
 <a href="__PDF_BASE_URL__/Misty.pdf">Misty Vale</a>
 </p><p>
-<a href="https://queensown.org/Pirate.pdf">Little Pirate</a>
+<a href="__PDF_BASE_URL__/Pirate.pdf">Little Pirate</a>
 </p><p>
 <a href="__PDF_BASE_URL__/Fox.pdf">Snow Fox</a>
 </p><p>
