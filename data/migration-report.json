@@ -1,0 +1,973 @@
+{
+  "html_pages": 206,
+  "pdf_count": 120,
+  "pdf_bytes": 59483765,
+  "repaired_links": [
+    {
+      "page": "qoapr01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoapr01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qoapr02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoapr02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qoapr03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoapr03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoapr03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qoapr04.htm",
+      "original": "tickets@creationent.com",
+      "resolved": "mailto:tickets@creationent.com"
+    },
+    {
+      "page": "qoapr04.htm",
+      "original": "d.currell@ugrad.unimelb.edu.au",
+      "resolved": "mailto:d.currell@ugrad.unimelb.edu.au"
+    },
+    {
+      "page": "qoapr04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoapr04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoapr04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qoapr05.htm",
+      "original": "medfest@drew.edu",
+      "resolved": "mailto:medfest@drew.edu"
+    },
+    {
+      "page": "qoaug01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoaug01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qoaug02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoaug02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qoaug03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoaug03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoaug03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qoaug04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoaug04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qoaug04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qodec00.htm",
+      "original": "jsiclari@bellsouth.net",
+      "resolved": "mailto:jsiclari@bellsouth.net"
+    },
+    {
+      "page": "qodec01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qodec01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qodec02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qodec02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qodec03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qodec03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qodec03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qofanfic.htm",
+      "original": "file:///F:/Docs2/club/WEBSITE/qozine.htm",
+      "resolved": "qozine.htm"
+    },
+    {
+      "page": "qofanfic.htm",
+      "original": "file:///F:/Docs2/club/WEBSITE/qohandouts.htm",
+      "resolved": "qohandouts.htm"
+    },
+    {
+      "page": "qofeb01.htm",
+      "original": "tenth.planet@virgin.net",
+      "resolved": "mailto:tenth.planet@virgin.net"
+    },
+    {
+      "page": "qofeb01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qofeb01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qofeb02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qofeb02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qofeb03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qofeb03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qofeb04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qofeb04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qofeb04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojan02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojan02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojan03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojan03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojan04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojan04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojan04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojul01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojul01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojul02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojul02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojul03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojul03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojul03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojul04.htm",
+      "original": "hisrev@community.net",
+      "resolved": "mailto:hisrev@community.net"
+    },
+    {
+      "page": "qojul04.htm",
+      "original": "thehappyguy@ConnectiCon.org",
+      "resolved": "mailto:thehappyguy@ConnectiCon.org"
+    },
+    {
+      "page": "qojul04.htm",
+      "original": "galacticon@gwfwrestling.com",
+      "resolved": "mailto:galacticon@gwfwrestling.com"
+    },
+    {
+      "page": "qojul04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojul04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojul04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojul05.htm",
+      "original": "info@midsummersrenfaire.us",
+      "resolved": "mailto:info@midsummersrenfaire.us"
+    },
+    {
+      "page": "qojun01.htm",
+      "original": "eotlf@mindspring.com",
+      "resolved": "mailto:eotlf@mindspring.com"
+    },
+    {
+      "page": "qojun01.htm",
+      "original": "skrog@oz.net",
+      "resolved": "mailto:skrog@oz.net"
+    },
+    {
+      "page": "qojun01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojun01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojun02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojun02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojun03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojun03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojun03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qojun04.htm",
+      "original": "fairchair@staffordshire-events.com",
+      "resolved": "mailto:fairchair@staffordshire-events.com"
+    },
+    {
+      "page": "qojun04.htm",
+      "original": "portangelesfaire@yahoo.com",
+      "resolved": "mailto:portangelesfaire@yahoo.com"
+    },
+    {
+      "page": "qojun04.htm",
+      "original": "sfcd@geocities.com",
+      "resolved": "mailto:sfcd@geocities.com"
+    },
+    {
+      "page": "qojun04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojun04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qojun04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qomar01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomar01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qomar02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomar02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qomar03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomar03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomar03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "Legend@malcor.com",
+      "resolved": "mailto:Legend@malcor.com"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "Legend@malcor.com",
+      "resolved": "mailto:Legend@malcor.com"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "Legend@malcor.com",
+      "resolved": "mailto:Legend@malcor.com"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "Legend@malcor.com",
+      "resolved": "mailto:Legend@malcor.com"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "gloria.webber@dechert.com",
+      "resolved": "mailto:gloria.webber@dechert.com"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "galacticon@vei.net",
+      "resolved": "mailto:galacticon@vei.net"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "bislereson@yahoo.com",
+      "resolved": "mailto:bislereson@yahoo.com"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "morgoth@valinor.freeserve.co.uk",
+      "resolved": "mailto:morgoth@valinor.freeserve.co.uk"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "enquires@earth-iv.co.uk",
+      "resolved": "mailto:enquires@earth-iv.co.uk"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomar04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qomay01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomay01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qomay02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomay02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qomay03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomay03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomay03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qomay04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomay04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qomay04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qonov00.htm",
+      "original": "loscon27@lasfs.org",
+      "resolved": "mailto:loscon27@lasfs.org"
+    },
+    {
+      "page": "qonov01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qonov01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qonov02.htm",
+      "original": "highhallack@mindspring.com",
+      "resolved": "mailto:highhallack@mindspring.com"
+    },
+    {
+      "page": "qonov02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qonov02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qonov03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qonov03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qonov03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qonov04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qonov04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qooct00.htm",
+      "original": "info@RenOfKings.org",
+      "resolved": "mailto:info@RenOfKings.org"
+    },
+    {
+      "page": "qooct01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qooct01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qooct02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qooct02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qooct03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qooct03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qooct03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qooct04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qooct04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qosep00.htm",
+      "original": "info@RenOfKings.org",
+      "resolved": "mailto:info@RenOfKings.org"
+    },
+    {
+      "page": "qosep01.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qosep01.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qosep02.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qosep02.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qosep03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qosep03.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qosep03.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    },
+    {
+      "page": "qosep04.htm",
+      "original": "Michael@norcalrenfaire.org",
+      "resolved": "mailto:Michael@norcalrenfaire.org"
+    },
+    {
+      "page": "qosep04.htm",
+      "original": "heraldauralynn@hotmail.net",
+      "resolved": "mailto:heraldauralynn@hotmail.net"
+    },
+    {
+      "page": "qosep04.htm",
+      "original": "HeraldEnyo@gmail.com",
+      "resolved": "mailto:HeraldEnyo@gmail.com"
+    }
+  ],
+  "missing_local_links": [
+    {
+      "page": "qoaug00.htm",
+      "target": "qojournal.htm\""
+    },
+    {
+      "page": "qoaug89.htm",
+      "target": "***.jpg"
+    },
+    {
+      "page": "qoaug89.htm",
+      "target": "***.jpg"
+    },
+    {
+      "page": "qochap.htm",
+      "target": "qogg.htm"
+    },
+    {
+      "page": "qodec04.htm",
+      "target": "qo231.jpg"
+    },
+    {
+      "page": "qodec97.htm",
+      "target": "mlrel2.htm"
+    },
+    {
+      "page": "qodec99.htm",
+      "target": "mailto"
+    },
+    {
+      "page": "qofanfic.htm",
+      "target": "file:///F:/Docs2/club/WEBSITE/vfcnews.htm"
+    },
+    {
+      "page": "qofanfic.htm",
+      "target": "Pirate.pdf"
+    },
+    {
+      "page": "qofanfic.htm",
+      "target": "file:///F:/Docs2/club/WEBSITE/qo.htm"
+    },
+    {
+      "page": "qofun.htm",
+      "target": "qohac.pdf"
+    },
+    {
+      "page": "qofun.htm",
+      "target": "qohac.pdf"
+    },
+    {
+      "page": "qojan89.htm",
+      "target": "***.jpg"
+    },
+    {
+      "page": "qojan95.htm",
+      "target": "mlrel2.htm"
+    },
+    {
+      "page": "qojul99.htm",
+      "target": "mailto"
+    },
+    {
+      "page": "qojun89.htm",
+      "target": "***.jpg"
+    },
+    {
+      "page": "qojun89.htm",
+      "target": "***.jpg"
+    },
+    {
+      "page": "qojun90.htm",
+      "target": "***.jpg"
+    },
+    {
+      "page": "qojun99.htm",
+      "target": "mailto"
+    },
+    {
+      "page": "qolist.htm",
+      "target": "qodec98.htm"
+    },
+    {
+      "page": "qolist.htm",
+      "target": "qodec98.htm"
+    },
+    {
+      "page": "qolist.htm",
+      "target": "mailto"
+    },
+    {
+      "page": "qolist.htm",
+      "target": "qomar.htm"
+    },
+    {
+      "page": "qolist.htm",
+      "target": "qonov98.htm"
+    },
+    {
+      "page": "qolist.htm",
+      "target": "qonov98.htm"
+    },
+    {
+      "page": "qolist.htm",
+      "target": "qofeb.htm"
+    },
+    {
+      "page": "qomar95.htm",
+      "target": "mlrel2.htm"
+    },
+    {
+      "page": "qomar99.htm",
+      "target": "mailto"
+    },
+    {
+      "page": "qomay89.htm",
+      "target": "***.jpg"
+    },
+    {
+      "page": "qomay89.htm",
+      "target": "***.jpg"
+    },
+    {
+      "page": "qomay95.htm",
+      "target": "mlrel2.htm"
+    },
+    {
+      "page": "qomay98.htm",
+      "target": "mlrel2.htm"
+    },
+    {
+      "page": "qomay99.htm",
+      "target": "mailto"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qonov98.htm"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qodec98.htm"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qonov2005.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qodec2005.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qojan2008.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qofeb2008.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qomar2008.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qoapr2008.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qomay2008.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qojun2008.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qojul2008.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qoaug2008.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qosep2008.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qofeb2011.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qoaug2015.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qonov2015.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qojun2016.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qojul2016.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qojul2018.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qooct2018.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qoApr-May2019"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qoAug-Sep2019.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qoJan2021.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qoSep2021.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qojan2022.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qoSpring2022.pdf"
+    },
+    {
+      "page": "qonews.htm",
+      "target": "qoFall2022.pdf"
+    },
+    {
+      "page": "qonov00.htm",
+      "target": ":mailto:info@hollywoodexpo.com\""
+    },
+    {
+      "page": "qonov88.htm",
+      "target": "***.jpg"
+    },
+    {
+      "page": "qonpc.htm",
+      "target": "qodec98.htm"
+    },
+    {
+      "page": "qooct89.htm",
+      "target": "***.jpg"
+    },
+    {
+      "page": "qosep96.htm",
+      "target": "qo267.htm"
+    },
+    {
+      "page": "qosep99.htm",
+      "target": "mailto"
+    }
+  ]
+}

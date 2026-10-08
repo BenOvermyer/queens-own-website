@@ -1,0 +1,14 @@
+/* Keep the original blue/aqua presentation and per-page color choices. */
+:root { --background: blue; --text: white; --link: aqua; --visited: silver; }
+body { margin: 8px; background: var(--background); color: var(--text); font-family: "Times New Roman", Times, serif; }
+a { color: var(--link); }
+a:visited { color: var(--visited); }
+.site-header { text-align: center; padding: .5rem; border-bottom: 1px solid currentColor; margin-bottom: 1rem; }
+.brand { font-size: 1.5rem; }
+.brand span { display: block; font-size: 1rem; }
+nav { display: flex; justify-content: center; flex-wrap: wrap; gap: .4rem 1rem; margin-top: .5rem; }
+.legacy-content img { max-width: 100%; height: auto; }
+.legacy-content { overflow-wrap: anywhere; }
+main { overflow-x: auto; }
+.skip { position: absolute; left: -10000px; }
+.skip:focus { left: 1rem; top: 1rem; background: var(--background); padding: .5rem; }

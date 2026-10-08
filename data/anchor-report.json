@@ -1,0 +1,26 @@
+[
+  {
+    "page": "qohandouts.htm",
+    "target": "/qob.htm#teach"
+  },
+  {
+    "page": "qohandouts.htm",
+    "target": "/qohe.htm#low"
+  },
+  {
+    "page": "qohandouts.htm",
+    "target": "/qohe.htm#high"
+  },
+  {
+    "page": "qohandouts.htm",
+    "target": "/qorel.htm#formal"
+  },
+  {
+    "page": "qohandouts.htm",
+    "target": "/qoww.htm#formal"
+  },
+  {
+    "page": "qobl.htm",
+    "target": "/qom.htm#advance"
+  }
+]

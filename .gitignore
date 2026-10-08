@@ -1,0 +1,4 @@
+/public/
+/.zola-build.*
+__pycache__/
+*.pyc

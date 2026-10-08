@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
+{% block appearance %}{% if page.extra.bgcolor %}style="--background: {{ page.extra.bgcolor }}; --text: {{ page.extra.text }}; --link: {{ page.extra.link }}; --visited: {{ page.extra.vlink }}"{% endif %}{% endblock appearance %}
+{% block content %}
+
+<article class="legacy-content">{{ page.content | replace(from="__PDF_BASE_URL__", to=config.extra.pdf_base_url) | safe }}</article>
+{% endblock content %}

@@ -1,0 +1,10 @@
+base_url = "https://queensown.org"
+title = "Queen's Own"
+description = "The official Mercedes Lackey fan club — community, personas, stories, and an archive of newsletters."
+compile_sass = false
+build_search_index = false
+
+[extra]
+# Change to the public bucket/CDN URL after uploading the PDF archive.
+# The original host remains the fallback until storage is configured.
+pdf_base_url = "https://queensown.org"

@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+{% block appearance %}style="--background: {{ section.extra.bgcolor }}; --text: {{ section.extra.text }}; --link: {{ section.extra.link }}; --visited: {{ section.extra.vlink }}"{% endblock appearance %}
+{% block content %}
+<article class="legacy-content">{{ section.content | replace(from="__PDF_BASE_URL__", to=config.extra.pdf_base_url) | safe }}</article>
+{% endblock content %}
