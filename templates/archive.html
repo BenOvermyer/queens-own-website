@@ -1,0 +1,9 @@
+{% extends "section.html" %}
+{% block content %}
+{% include "breadcrumbs.html" %}
+<h1>{{ section.title }}</h1>
+{{ section.content | safe }}
+<p><a href="{{ get_url(path='newsletters/') }}">Browse newsletters chronologically</a> · <a href="{{ get_url(path='compass-rose/') }}">Browse Compass Rose issues</a> · <a href="{{ get_url(path='fan-fiction/') }}">Browse fan fiction</a></p>
+{% set navigation = load_data(path="data/navigation-index.json") %}
+{% for topic in navigation.topics %}<h2>{{ topic.title }}</h2><ul class="page-list">{% for entry in topic.entries %}<li><a href="{{ get_url(path=entry.canonical_path) }}">{{ entry.title }}</a>{% if not entry.source_present %} <span class="unavailable-note">(content unavailable)</span>{% endif %}</li>{% endfor %}</ul>{% endfor %}
+{% endblock content %}

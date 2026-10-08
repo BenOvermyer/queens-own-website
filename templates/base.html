@@ -12,14 +12,15 @@
   <header class="site-header">
     <a class="brand" href="{{ get_url(path='/') }}">Queen’s Own<span>The official Mercedes Lackey fan club</span></a>
     <nav aria-label="Main navigation">
-      <a href="{{ get_url(path='qojoin.htm') }}">Join</a>
-      <a href="{{ get_url(path='qohandouts.htm') }}">Personas</a>
-      <a href="{{ get_url(path='qonews.htm') }}">Newsletters</a>
-      <a href="{{ get_url(path='qofanfic.htm') }}">Fan fiction</a>
+      <a href="{{ get_url(path='membership/') }}">Membership</a>
+      <a href="{{ get_url(path='personas/') }}">Personas</a>
+      <a href="{{ get_url(path='world/') }}">World reference</a>
+      <a href="{{ get_url(path='community/') }}">Community</a>
+      <a href="{{ get_url(path='publications/') }}">Publications</a>
       <a href="{{ get_url(path='archive/') }}">Archive</a>
     </nav>
   </header>
   <main id="main">{% block content %}{% endblock content %}</main>
-
+  <footer><a href="{{ get_url(path='legal-notices/') }}">Legal notices</a> · <a href="{{ get_url(path='privacy-policy/') }}">Privacy policy</a></footer>
 </body>
 </html>

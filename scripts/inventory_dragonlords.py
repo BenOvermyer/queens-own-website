@@ -10,6 +10,7 @@ import posixpath
 import re
 import shutil
 import subprocess
+import tomllib
 from urllib.parse import quote, unquote, urlsplit
 
 from bs4 import BeautifulSoup
@@ -60,7 +61,10 @@ def inventory(source):
     routes = json.loads(routes_path.read_text()) if routes_path.exists() else {}
     by_route = {route.strip('/'): name for name, route in routes.items()}
     for p in (ROOT / 'content').rglob('*.md'):
-        soup = BeautifulSoup(p.read_text().split('+++', 2)[-1], 'lxml')
+        pieces = p.read_text().split('+++', 2)
+        meta = tomllib.loads(pieces[1])
+        legacy_source = meta.get('extra', {}).get('legacy_source')
+        soup = BeautifulSoup(pieces[-1], 'lxml')
         for node in soup.select('[href], [src]'):
             value = node.get('href', node.get('src', ''))
             url = urlsplit(value)
@@ -68,7 +72,7 @@ def inventory(source):
             if url.hostname in INTERNAL_HOSTS or local_source:
                 target = local_source or unquote(url.path).lstrip('/')
                 incoming[target].add(p.relative_to(ROOT / 'content').as_posix())
-                if p.name == 'qofun.htm.md':
+                if legacy_source == 'qofun.htm':
                     fun_targets.add(target)
     pages = []
     for name, path in sorted(files.items()):

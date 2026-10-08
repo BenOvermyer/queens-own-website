@@ -1,0 +1,12 @@
++++
+title = "2009 newsletters"
+template = "newsletter-year.html"
+sort_by = "date"
+weight = 7991
+[extra]
+navigation_hub = true
+year = 2009
+topic = "publications"
++++
+
+Issues are listed in calendar order. PDF files are hosted in the separate files archive; unavailable editions remain explicitly marked.

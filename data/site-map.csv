@@ -1,0 +1,251 @@
+source,title,topic,section,canonical_path,content_file,kind,source_present,redirect_target
+qochap.htm,Chapter directory,community,community,/chapters/,community/chapters.md,page,True,/chapters/
+qochat.htm,Club chat guidance,community,community,/club-chat/,community/club-chat.md,page,True,/club-chat/
+qoring.htm,Club webring,community,community,/club-webring/,community/club-webring.md,page,True,/club-webring/
+danya.htm,Danya Winterborn,community,community,/danya-winterborn/,community/danya-winterborn.md,page,True,/danya-winterborn/
+recipes.htm,Herald Danya's Cookbook,community,community,/danyas-cookbook/,community/danyas-cookbook.md,page,True,/danyas-cookbook/
+qodelphi.htm,Delphi forum,community,community,/delphi-forum/,community/delphi-forum.md,page,True,/delphi-forum/
+dcpawn.htm,Magic's Pawn,community,dream-casts,/dream-casts/magics-pawn/,dream-casts/magics-pawn.md,page,True,/dream-casts/magics-pawn/
+dcprice.htm,Magic's Price,community,dream-casts,/dream-casts/magics-price/,dream-casts/magics-price.md,page,True,/dream-casts/magics-price/
+dcprom.htm,Magic's Promise,community,dream-casts,/dream-casts/magics-promise/,dream-casts/magics-promise.md,page,True,/dream-casts/magics-promise/
+qofun.htm,Fun stuff,community,community,/fun-stuff/,community/fun-stuff.md,page,True,/fun-stuff/
+danyagg.htm,Golden Grove,community,community,/golden-grove/,community/golden-grove.md,page,True,/golden-grove/
+qolinks.htm,Mercedes Lackey links,community,community,/mercedes-lackey-links/,community/mercedes-lackey-links.md,page,True,/mercedes-lackey-links/
+danyacc.htm,Collegium Chronicles,community,community,/pacific-northwest-collegium/,community/pacific-northwest-collegium.md,page,True,/pacific-northwest-collegium/
+qorpg.htm,Role-playing instructions,community,community,/role-playing/,community/role-playing.md,page,True,/role-playing/
+danspell.htm,Magic Spells,community,community,/science-and-magic-tricks/,community/science-and-magic-tricks.md,page,True,/science-and-magic-tricks/
+danyasc.htm,Sonoran Collegium,community,community,/sonoran-collegium/,community/sonoran-collegium.md,page,True,/sonoran-collegium/
+vfcindex.htm,Vanyel Fan Club,community,vanyel-fan-club,/vanyel-fan-club/,vanyel-fan-club/_index.md,section,True,/vanyel-fan-club/
+vfcchat.htm,Vanyel Fan Club--Chat List,community,vanyel-fan-club,/vanyel-fan-club/chat/,vanyel-fan-club/chat.md,page,True,/vanyel-fan-club/chat/
+vfcqa.htm,Vanyel Fan Club Q&A,community,vanyel-fan-club,/vanyel-fan-club/faq/,vanyel-fan-club/faq.md,page,True,/vanyel-fan-club/faq/
+vfcgate.htm,Gate to Heralds' Haven,community,vanyel-fan-club,/vanyel-fan-club/heralds-haven-gate/,vanyel-fan-club/heralds-haven-gate.md,page,True,/vanyel-fan-club/heralds-haven-gate/
+vfcgates.htm,Heralds' Haven,community,vanyel-fan-club,/vanyel-fan-club/heralds-haven/,vanyel-fan-club/heralds-haven.md,page,True,/vanyel-fan-club/heralds-haven/
+vfcjoin.htm,Join the Vanyel Fan Club!,community,vanyel-fan-club,/vanyel-fan-club/join/,vanyel-fan-club/join.md,page,True,/vanyel-fan-club/join/
+vfcnews.htm,The Valdemaran Herald,community,vanyel-fan-club,/vanyel-fan-club/newsletter/,vanyel-fan-club/newsletter.md,page,True,/vanyel-fan-club/newsletter/
+vfcpres.htm,About the Vanyel Fan Club President,community,vanyel-fan-club,/vanyel-fan-club/president/,vanyel-fan-club/president.md,page,True,/vanyel-fan-club/president/
+qoring1.htm,Webring code,community,community,/webring-code/,community/webring-code.md,page,True,/webring-code/
+qofaqqo.htm,Queen’s Own FAQ,membership,membership,/club-faq/,membership/club-faq.md,page,True,/club-faq/
+qoseal.htm,Queen’s Own seal,membership,membership,/club-seal/,membership/club-seal.md,page,True,/club-seal/
+qojoin.htm,How to join,membership,membership,/how-to-join/,membership/how-to-join.md,page,True,/how-to-join/
+qomentor.htm,Mentors,membership,membership,/mentors/,membership/mentors.md,page,True,/mentors/
+qob.htm,Bard handout,personas,personas,/bard-handout/,personas/bard-handout.md,page,True,/bard-handout/
+qobl.htm,Blues handout,personas,personas,/blues-handout/,personas/blues-handout.md,page,True,/blues-handout/
+qog.htm,Guild handout,personas,personas,/guild-handout/,personas/guild-handout.md,page,True,/guild-handout/
+qohe.htm,Healer handout,personas,personas,/healer-handout/,personas/healer-handout.md,page,True,/healer-handout/
+qohh.htm,Herald handout,personas,personas,/herald-handout/,personas/herald-handout.md,page,True,/herald-handout/
+qohm.htm,Herald-Mage handout,personas,personas,/herald-mage-handout/,personas/herald-mage-handout.md,page,True,/herald-mage-handout/
+qok.htm,Kal’enedral handout,personas,personas,/kalen-edral-handout/,personas/kalen-edral-handout.md,page,True,/kalen-edral-handout/
+qom.htm,Military handout,personas,personas,/military-handout/,personas/military-handout.md,page,True,/military-handout/
+qoba.htm,Northern Barbarian handout,personas,personas,/northern-barbarian-handout/,personas/northern-barbarian-handout.md,page,True,/northern-barbarian-handout/
+qonpc.htm,Non-player character directory,personas,personas,/npc-directory/,personas/npc-directory.md,page,True,/npc-directory/
+qolist.htm,Persona directory,personas,personas,/persona-directory/,personas/persona-directory.md,page,True,/persona-directory/
+qohandouts.htm,Persona handouts and submission instructions,personas,personas,/persona-handouts/,personas/persona-handouts.md,page,True,/persona-handouts/
+qorel.htm,Priest and priestess handout,personas,personas,/priest-and-priestess-handout/,personas/priest-and-priestess-handout.md,page,True,/priest-and-priestess-handout/
+qos.htm,Shin’a’in handout,personas,personas,/shina-in-handout/,personas/shina-in-handout.md,page,True,/shina-in-handout/
+qoww.htm,Sorcerer and sorceress handout,personas,personas,/sorcerer-handout/,personas/sorcerer-handout.md,page,True,/sorcerer-handout/
+qot.htm,Tayledras handout,personas,personas,/tayledras-handout/,personas/tayledras-handout.md,page,True,/tayledras-handout/
+qozine.htm,Children of Velgarth,publications,fan-fiction,/children-of-velgarth/,fan-fiction/children-of-velgarth.md,page,True,/children-of-velgarth/
+qojournal.htm,About The Compass Rose,publications,compass-rose,/compass-rose/about/,compass-rose/about.md,page,True,/compass-rose/about/
+cr2toc.htm,Spring 2002,publications,compass-rose,/compass-rose/spring-2002/,compass-rose/spring-2002/_index.md,section,True,/compass-rose/spring-2002/
+cr2tat.htm,The Arthurian Tales,publications,compass-rose,/compass-rose/spring-2002/arthurian-tales/,compass-rose/spring-2002/arthurian-tales.md,page,True,/compass-rose/spring-2002/arthurian-tales/
+cr2tat1.htm,The Arthurian Tales,publications,compass-rose,/compass-rose/spring-2002/arthurian-tales/references/,compass-rose/spring-2002/arthurian-tales--references.md,page,True,/compass-rose/spring-2002/arthurian-tales/references/
+cr2ddl.htm,The Death of Diversity in our Nation's Libraries,publications,compass-rose,/compass-rose/spring-2002/diversity-in-libraries/,compass-rose/spring-2002/diversity-in-libraries.md,page,True,/compass-rose/spring-2002/diversity-in-libraries/
+cr2ddl1.htm,The Death of Diversity in our Nation's Libraries,publications,compass-rose,/compass-rose/spring-2002/diversity-in-libraries/references/,compass-rose/spring-2002/diversity-in-libraries--references.md,page,True,/compass-rose/spring-2002/diversity-in-libraries/references/
+cr2le.htm,Letter from the Editor,publications,compass-rose,/compass-rose/spring-2002/editorial/,compass-rose/spring-2002/editorial.md,page,True,/compass-rose/spring-2002/editorial/
+cr2sim.htm,Sources of Information on Music in Medieval Ireland,publications,compass-rose,/compass-rose/spring-2002/music-in-medieval-ireland/,compass-rose/spring-2002/music-in-medieval-ireland.md,page,True,/compass-rose/spring-2002/music-in-medieval-ireland/
+cr2sim1.htm,Sources of Information on Music in Medieval Ireland--Notes and References,publications,compass-rose,/compass-rose/spring-2002/music-in-medieval-ireland/references/,compass-rose/spring-2002/music-in-medieval-ireland--references.md,page,True,/compass-rose/spring-2002/music-in-medieval-ireland/references/
+cr2rev.htm,Reviews,publications,compass-rose,/compass-rose/spring-2002/reviews/,compass-rose/spring-2002/reviews.md,page,True,/compass-rose/spring-2002/reviews/
+crtoc.htm,Summer 2000,publications,compass-rose,/compass-rose/summer-2000/,compass-rose/summer-2000/_index.md,section,True,/compass-rose/summer-2000/
+crle.htm,Letter from the Editor,publications,compass-rose,/compass-rose/summer-2000/editorial/,compass-rose/summer-2000/editorial.md,page,True,/compass-rose/summer-2000/editorial/
+crbi.htm,Either Or,publications,compass-rose,/compass-rose/summer-2000/either-or/,compass-rose/summer-2000/either-or.md,page,True,/compass-rose/summer-2000/either-or/
+crbi1.htm,Either Or--References,publications,compass-rose,/compass-rose/summer-2000/either-or/references/,compass-rose/summer-2000/either-or--references.md,page,True,/compass-rose/summer-2000/either-or/references/
+crfrm.htm,From Reptile to Mammal,publications,compass-rose,/compass-rose/summer-2000/from-reptile-to-mammal/,compass-rose/summer-2000/from-reptile-to-mammal.md,page,True,/compass-rose/summer-2000/from-reptile-to-mammal/
+crfrm1.htm,From Reptile to Mammal--References,publications,compass-rose,/compass-rose/summer-2000/from-reptile-to-mammal/references/,compass-rose/summer-2000/from-reptile-to-mammal--references.md,page,True,/compass-rose/summer-2000/from-reptile-to-mammal/references/
+crc.htm,In the Name of God,publications,compass-rose,/compass-rose/summer-2000/in-the-name-of-god/,compass-rose/summer-2000/in-the-name-of-god.md,page,True,/compass-rose/summer-2000/in-the-name-of-god/
+crc1.htm,In the Name of God--Notes and References,publications,compass-rose,/compass-rose/summer-2000/in-the-name-of-god/references/,compass-rose/summer-2000/in-the-name-of-god--references.md,page,True,/compass-rose/summer-2000/in-the-name-of-god/references/
+crrev.htm,Reviews,publications,compass-rose,/compass-rose/summer-2000/reviews/,compass-rose/summer-2000/reviews.md,page,True,/compass-rose/summer-2000/reviews/
+crsos.htm,Excerpts from Sink or Swim,publications,compass-rose,/compass-rose/summer-2000/sink-or-swim/,compass-rose/summer-2000/sink-or-swim.md,page,True,/compass-rose/summer-2000/sink-or-swim/
+qofanfic.htm,Fan fiction archive,publications,fan-fiction,/fan-fiction/,fan-fiction/_index.md,section,True,/fan-fiction/
+mlrelease.htm,Release Form for Mercedes Lackey,publications,fan-fiction,/mercedes-lackey-release-form/,fan-fiction/mercedes-lackey-release-form.md,page,True,/mercedes-lackey-release-form/
+qonews.htm,Newsletter publication and submission guidance,publications,newsletters,/newsletter-guidance/,newsletters/newsletter-guidance.md,page,True,/newsletter-guidance/
+qoapr88.htm,Queen’s Own newsletter — April 1988,publications,newsletters,/newsletters/1988/april/,newsletters/1988/april.md,page,True,/newsletters/1988/april/
+qojul88.htm,Queen’s Own newsletter — July 1988,publications,newsletters,/newsletters/1988/july/,newsletters/1988/july.md,page,True,/newsletters/1988/july/
+qojun88.htm,Queen’s Own newsletter — June 1988,publications,newsletters,/newsletters/1988/june/,newsletters/1988/june.md,page,True,/newsletters/1988/june/
+qomay88.htm,Queen’s Own newsletter — May 1988,publications,newsletters,/newsletters/1988/may/,newsletters/1988/may.md,page,True,/newsletters/1988/may/
+qonov88.htm,Queen’s Own newsletter — November 1988,publications,newsletters,/newsletters/1988/november/,newsletters/1988/november.md,page,True,/newsletters/1988/november/
+qooct88.htm,Queen’s Own newsletter — October 1988,publications,newsletters,/newsletters/1988/october/,newsletters/1988/october.md,page,True,/newsletters/1988/october/
+qosep88.htm,Queen’s Own newsletter — September 1988,publications,newsletters,/newsletters/1988/september/,newsletters/1988/september.md,page,True,/newsletters/1988/september/
+qoapr89.htm,Queen’s Own newsletter — April 1989,publications,newsletters,/newsletters/1989/april/,newsletters/1989/april.md,page,True,/newsletters/1989/april/
+qoaug89.htm,Queen’s Own newsletter — August 1989,publications,newsletters,/newsletters/1989/august/,newsletters/1989/august.md,page,True,/newsletters/1989/august/
+qofeb89.htm,Queen’s Own newsletter — February 1989,publications,newsletters,/newsletters/1989/february/,newsletters/1989/february.md,page,True,/newsletters/1989/february/
+qojan89.htm,Queen’s Own newsletter — January 1989,publications,newsletters,/newsletters/1989/january/,newsletters/1989/january.md,page,True,/newsletters/1989/january/
+qojun89.htm,Queen’s Own newsletter — June 1989,publications,newsletters,/newsletters/1989/june/,newsletters/1989/june.md,page,True,/newsletters/1989/june/
+qomar89.htm,Queen’s Own newsletter — March 1989,publications,newsletters,/newsletters/1989/march/,newsletters/1989/march.md,page,True,/newsletters/1989/march/
+qomay89.htm,Queen’s Own newsletter — May 1989,publications,newsletters,/newsletters/1989/may/,newsletters/1989/may.md,page,True,/newsletters/1989/may/
+qonov89.htm,Queen’s Own newsletter — November 1989,publications,newsletters,/newsletters/1989/november/,newsletters/1989/november.md,page,True,/newsletters/1989/november/
+qooct89.htm,Queen’s Own newsletter — October 1989,publications,newsletters,/newsletters/1989/october/,newsletters/1989/october.md,page,True,/newsletters/1989/october/
+qoapr90.htm,Queen’s Own newsletter — April 1990,publications,newsletters,/newsletters/1990/april/,newsletters/1990/april.md,page,True,/newsletters/1990/april/
+qodec90.htm,Queen’s Own newsletter — December 1990,publications,newsletters,/newsletters/1990/december/,newsletters/1990/december.md,page,True,/newsletters/1990/december/
+qofeb90.htm,Queen’s Own newsletter — February 1990,publications,newsletters,/newsletters/1990/february/,newsletters/1990/february.md,page,True,/newsletters/1990/february/
+qojan90.htm,Queen’s Own newsletter — January 1990,publications,newsletters,/newsletters/1990/january/,newsletters/1990/january.md,page,True,/newsletters/1990/january/
+qojul90.htm,Queen’s Own newsletter — July 1990,publications,newsletters,/newsletters/1990/july/,newsletters/1990/july.md,page,True,/newsletters/1990/july/
+qojun90.htm,Queen’s Own newsletter — June 1990,publications,newsletters,/newsletters/1990/june/,newsletters/1990/june.md,page,True,/newsletters/1990/june/
+qomar90.htm,Queen’s Own newsletter — March 1990,publications,newsletters,/newsletters/1990/march/,newsletters/1990/march.md,page,True,/newsletters/1990/march/
+qooct90.htm,Queen’s Own newsletter — October 1990,publications,newsletters,/newsletters/1990/october/,newsletters/1990/october.md,page,True,/newsletters/1990/october/
+qosep90.htm,Queen’s Own newsletter — September 1990,publications,newsletters,/newsletters/1990/september/,newsletters/1990/september.md,page,True,/newsletters/1990/september/
+qoapr91.htm,Queen’s Own newsletter — April 1991,publications,newsletters,/newsletters/1991/april/,newsletters/1991/april.md,page,True,/newsletters/1991/april/
+qodec91.htm,Queen’s Own newsletter — December 1991,publications,newsletters,/newsletters/1991/december/,newsletters/1991/december.md,page,True,/newsletters/1991/december/
+qofeb91.htm,Queen’s Own newsletter — February 1991,publications,newsletters,/newsletters/1991/february/,newsletters/1991/february.md,page,True,/newsletters/1991/february/
+qojan91.htm,Queen’s Own newsletter — January 1991,publications,newsletters,/newsletters/1991/january/,newsletters/1991/january.md,page,True,/newsletters/1991/january/
+qojul91.htm,Queen’s Own newsletter — July 1991,publications,newsletters,/newsletters/1991/july/,newsletters/1991/july.md,page,True,/newsletters/1991/july/
+qojun91.htm,Queen’s Own newsletter — June 1991,publications,newsletters,/newsletters/1991/june/,newsletters/1991/june.md,page,True,/newsletters/1991/june/
+qomar91.htm,Queen’s Own newsletter — March 1991,publications,newsletters,/newsletters/1991/march/,newsletters/1991/march.md,page,True,/newsletters/1991/march/
+qomay91.htm,Queen’s Own newsletter — May 1991,publications,newsletters,/newsletters/1991/may/,newsletters/1991/may.md,page,True,/newsletters/1991/may/
+qonov91.htm,Queen’s Own newsletter — November 1991,publications,newsletters,/newsletters/1991/november/,newsletters/1991/november.md,page,True,/newsletters/1991/november/
+qooct91.htm,Queen’s Own newsletter — October 1991,publications,newsletters,/newsletters/1991/october/,newsletters/1991/october.md,page,True,/newsletters/1991/october/
+qosep91.htm,Queen’s Own newsletter — September 1991,publications,newsletters,/newsletters/1991/september/,newsletters/1991/september.md,page,True,/newsletters/1991/september/
+qoapr92.htm,Queen’s Own newsletter — April 1992,publications,newsletters,/newsletters/1992/april/,newsletters/1992/april.md,page,True,/newsletters/1992/april/
+qodec92.htm,Queen’s Own newsletter — December 1992,publications,newsletters,/newsletters/1992/december/,newsletters/1992/december.md,page,True,/newsletters/1992/december/
+qofeb92.htm,Queen’s Own newsletter — February 1992,publications,newsletters,/newsletters/1992/february/,newsletters/1992/february.md,page,True,/newsletters/1992/february/
+qojan92.htm,Queen’s Own newsletter — January 1992,publications,newsletters,/newsletters/1992/january/,newsletters/1992/january.md,page,True,/newsletters/1992/january/
+qojul92.htm,Queen’s Own newsletter — July 1992,publications,newsletters,/newsletters/1992/july/,newsletters/1992/july.md,page,True,/newsletters/1992/july/
+qojun92.htm,Queen’s Own newsletter — June 1992,publications,newsletters,/newsletters/1992/june/,newsletters/1992/june.md,page,True,/newsletters/1992/june/
+qomay92.htm,Queen’s Own newsletter — May 1992,publications,newsletters,/newsletters/1992/may/,newsletters/1992/may.md,page,True,/newsletters/1992/may/
+qooct92.htm,Queen’s Own newsletter — October 1992,publications,newsletters,/newsletters/1992/october/,newsletters/1992/october.md,page,True,/newsletters/1992/october/
+qosep92.htm,Queen’s Own newsletter — September 1992,publications,newsletters,/newsletters/1992/september/,newsletters/1992/september.md,page,True,/newsletters/1992/september/
+qofeb93.htm,Queen’s Own newsletter — February 1993,publications,newsletters,/newsletters/1993/february/,newsletters/1993/february.md,page,True,/newsletters/1993/february/
+qojan93.htm,Queen’s Own newsletter — January 1993,publications,newsletters,/newsletters/1993/january/,newsletters/1993/january.md,page,True,/newsletters/1993/january/
+qofeb94.htm,Queen’s Own newsletter — February 1994,publications,newsletters,/newsletters/1994/february/,newsletters/1994/february.md,page,True,/newsletters/1994/february/
+qojan94.htm,Queen’s Own newsletter — January 1994,publications,newsletters,/newsletters/1994/january/,newsletters/1994/january.md,page,True,/newsletters/1994/january/
+qojul94.htm,Queen’s Own newsletter — July 1994,publications,newsletters,/newsletters/1994/july/,newsletters/1994/july.md,page,True,/newsletters/1994/july/
+qomar94.htm,Queen’s Own newsletter — March 1994,publications,newsletters,/newsletters/1994/march/,newsletters/1994/march.md,page,True,/newsletters/1994/march/
+qomay94.htm,Queen’s Own newsletter — May 1994,publications,newsletters,/newsletters/1994/may/,newsletters/1994/may.md,page,True,/newsletters/1994/may/
+qonov94.htm,Queen’s Own newsletter — November 1994,publications,newsletters,/newsletters/1994/november/,newsletters/1994/november.md,page,True,/newsletters/1994/november/
+qooct94.htm,Queen’s Own newsletter — October 1994,publications,newsletters,/newsletters/1994/october/,newsletters/1994/october.md,page,True,/newsletters/1994/october/
+qofeb95.htm,Queen’s Own newsletter — February 1995,publications,newsletters,/newsletters/1995/february/,newsletters/1995/february.md,page,True,/newsletters/1995/february/
+qojan95.htm,Queen’s Own newsletter — January 1995,publications,newsletters,/newsletters/1995/january/,newsletters/1995/january.md,page,True,/newsletters/1995/january/
+qomar95.htm,Queen’s Own newsletter — March 1995,publications,newsletters,/newsletters/1995/march/,newsletters/1995/march.md,page,True,/newsletters/1995/march/
+qomay95.htm,Queen’s Own newsletter — May 1995,publications,newsletters,/newsletters/1995/may/,newsletters/1995/may.md,page,True,/newsletters/1995/may/
+qoapr96.htm,Queen’s Own newsletter — April 1996,publications,newsletters,/newsletters/1996/april/,newsletters/1996/april.md,page,True,/newsletters/1996/april/
+qoaug96.htm,Queen’s Own newsletter — August 1996,publications,newsletters,/newsletters/1996/august/,newsletters/1996/august.md,page,True,/newsletters/1996/august/
+qodec96.htm,Queen’s Own newsletter — December 1996,publications,newsletters,/newsletters/1996/december/,newsletters/1996/december.md,page,True,/newsletters/1996/december/
+qojan96.htm,Queen’s Own newsletter — January 1996,publications,newsletters,/newsletters/1996/january/,newsletters/1996/january.md,page,True,/newsletters/1996/january/
+qojul96.htm,Queen’s Own newsletter — July 1996,publications,newsletters,/newsletters/1996/july/,newsletters/1996/july.md,page,True,/newsletters/1996/july/
+qojun96.htm,Queen’s Own newsletter — June 1996,publications,newsletters,/newsletters/1996/june/,newsletters/1996/june.md,page,True,/newsletters/1996/june/
+qomar96.htm,Queen’s Own newsletter — March 1996,publications,newsletters,/newsletters/1996/march/,newsletters/1996/march.md,page,True,/newsletters/1996/march/
+qonov96.htm,Queen’s Own newsletter — November 1996,publications,newsletters,/newsletters/1996/november/,newsletters/1996/november.md,page,True,/newsletters/1996/november/
+qosep96.htm,Queen’s Own newsletter — September 1996,publications,newsletters,/newsletters/1996/september/,newsletters/1996/september.md,page,True,/newsletters/1996/september/
+qoapr97.htm,Queen’s Own newsletter — April 1997,publications,newsletters,/newsletters/1997/april/,newsletters/1997/april.md,page,True,/newsletters/1997/april/
+qoaug97.htm,Queen’s Own newsletter — August 1997,publications,newsletters,/newsletters/1997/august/,newsletters/1997/august.md,page,True,/newsletters/1997/august/
+qodec97.htm,Queen’s Own newsletter — December 1997,publications,newsletters,/newsletters/1997/december/,newsletters/1997/december.md,page,True,/newsletters/1997/december/
+qofeb97.htm,Queen’s Own newsletter — February 1997,publications,newsletters,/newsletters/1997/february/,newsletters/1997/february.md,page,True,/newsletters/1997/february/
+qojan97.htm,Queen’s Own newsletter — January 1997,publications,newsletters,/newsletters/1997/january/,newsletters/1997/january.md,page,True,/newsletters/1997/january/
+qojun97.htm,Queen’s Own newsletter — June 1997,publications,newsletters,/newsletters/1997/june/,newsletters/1997/june.md,page,True,/newsletters/1997/june/
+qomay97.htm,Queen’s Own newsletter — May 1997,publications,newsletters,/newsletters/1997/may/,newsletters/1997/may.md,page,True,/newsletters/1997/may/
+qooct97.htm,Queen’s Own newsletter — October 1997,publications,newsletters,/newsletters/1997/october/,newsletters/1997/october.md,page,True,/newsletters/1997/october/
+qosep97.htm,Queen’s Own newsletter — September 1997,publications,newsletters,/newsletters/1997/september/,newsletters/1997/september.md,page,True,/newsletters/1997/september/
+qoapr98.htm,Queen’s Own newsletter — April 1998,publications,newsletters,/newsletters/1998/april/,newsletters/1998/april.md,page,True,/newsletters/1998/april/
+qoaug98.htm,Queen’s Own newsletter — August 1998,publications,newsletters,/newsletters/1998/august/,newsletters/1998/august.md,page,True,/newsletters/1998/august/
+qodec98.htm,Queen’s Own newsletter — December 1998,publications,newsletters,/newsletters/1998/december/,newsletters/1998/december.md,page,False,/newsletters/1998/december/
+qofeb98.htm,Queen’s Own newsletter — February 1998,publications,newsletters,/newsletters/1998/february/,newsletters/1998/february.md,page,True,/newsletters/1998/february/
+qojan98.htm,Queen’s Own newsletter — January 1998,publications,newsletters,/newsletters/1998/january/,newsletters/1998/january.md,page,True,/newsletters/1998/january/
+qojun98.htm,Queen’s Own newsletter — June 1998,publications,newsletters,/newsletters/1998/june/,newsletters/1998/june.md,page,True,/newsletters/1998/june/
+qomay98.htm,Queen’s Own newsletter — May 1998,publications,newsletters,/newsletters/1998/may/,newsletters/1998/may.md,page,True,/newsletters/1998/may/
+qonov98.htm,Queen’s Own newsletter — November 1998,publications,newsletters,/newsletters/1998/november/,newsletters/1998/november.md,page,False,/newsletters/1998/november/
+qosep98.htm,Queen’s Own newsletter — September 1998,publications,newsletters,/newsletters/1998/september/,newsletters/1998/september.md,page,True,/newsletters/1998/september/
+qodec99.htm,Queen’s Own newsletter — December 1999,publications,newsletters,/newsletters/1999/december/,newsletters/1999/december.md,page,True,/newsletters/1999/december/
+qojan99.htm,Queen’s Own newsletter — January 1999,publications,newsletters,/newsletters/1999/january/,newsletters/1999/january.md,page,True,/newsletters/1999/january/
+qojul99.htm,Queen’s Own newsletter — July 1999,publications,newsletters,/newsletters/1999/july/,newsletters/1999/july.md,page,True,/newsletters/1999/july/
+qojun99.htm,Queen’s Own newsletter — June 1999,publications,newsletters,/newsletters/1999/june/,newsletters/1999/june.md,page,True,/newsletters/1999/june/
+qomar99.htm,Queen’s Own newsletter — March 1999,publications,newsletters,/newsletters/1999/march/,newsletters/1999/march.md,page,True,/newsletters/1999/march/
+qomay99.htm,Queen’s Own newsletter — May 1999,publications,newsletters,/newsletters/1999/may/,newsletters/1999/may.md,page,True,/newsletters/1999/may/
+qosep99.htm,Queen’s Own newsletter — September 1999,publications,newsletters,/newsletters/1999/september/,newsletters/1999/september.md,page,True,/newsletters/1999/september/
+qoaug00.htm,Queen’s Own newsletter — August 2000,publications,newsletters,/newsletters/2000/august/,newsletters/2000/august.md,page,True,/newsletters/2000/august/
+qodec00.htm,Queen’s Own newsletter — December 2000,publications,newsletters,/newsletters/2000/december/,newsletters/2000/december.md,page,True,/newsletters/2000/december/
+qojul00.htm,Queen’s Own newsletter — July 2000,publications,newsletters,/newsletters/2000/july/,newsletters/2000/july.md,page,True,/newsletters/2000/july/
+qojun00.htm,Queen’s Own newsletter — June 2000,publications,newsletters,/newsletters/2000/june/,newsletters/2000/june.md,page,True,/newsletters/2000/june/
+qomay00.htm,Queen’s Own newsletter — May 2000,publications,newsletters,/newsletters/2000/may/,newsletters/2000/may.md,page,True,/newsletters/2000/may/
+qonov00.htm,Queen’s Own newsletter — November 2000,publications,newsletters,/newsletters/2000/november/,newsletters/2000/november.md,page,True,/newsletters/2000/november/
+qooct00.htm,Queen’s Own newsletter — October 2000,publications,newsletters,/newsletters/2000/october/,newsletters/2000/october.md,page,True,/newsletters/2000/october/
+qosep00.htm,Queen’s Own newsletter — September 2000,publications,newsletters,/newsletters/2000/september/,newsletters/2000/september.md,page,True,/newsletters/2000/september/
+qoapr01.htm,Queen’s Own newsletter — April 2001,publications,newsletters,/newsletters/2001/april/,newsletters/2001/april.md,page,True,/newsletters/2001/april/
+qoaug01.htm,Queen’s Own newsletter — August 2001,publications,newsletters,/newsletters/2001/august/,newsletters/2001/august.md,page,True,/newsletters/2001/august/
+qodec01.htm,Queen’s Own newsletter — December 2001,publications,newsletters,/newsletters/2001/december/,newsletters/2001/december.md,page,True,/newsletters/2001/december/
+qofeb01.htm,Queen’s Own newsletter — February 2001,publications,newsletters,/newsletters/2001/february/,newsletters/2001/february.md,page,True,/newsletters/2001/february/
+qojan01.htm,Queen’s Own newsletter — January 2001,publications,newsletters,/newsletters/2001/january/,newsletters/2001/january.md,page,True,/newsletters/2001/january/
+qojul01.htm,Queen’s Own newsletter — July 2001,publications,newsletters,/newsletters/2001/july/,newsletters/2001/july.md,page,True,/newsletters/2001/july/
+qojun01.htm,Queen’s Own newsletter — June 2001,publications,newsletters,/newsletters/2001/june/,newsletters/2001/june.md,page,True,/newsletters/2001/june/
+qomar01.htm,Queen’s Own newsletter — March 2001,publications,newsletters,/newsletters/2001/march/,newsletters/2001/march.md,page,True,/newsletters/2001/march/
+qomay01.htm,Queen’s Own newsletter — May 2001,publications,newsletters,/newsletters/2001/may/,newsletters/2001/may.md,page,True,/newsletters/2001/may/
+qonov01.htm,Queen’s Own newsletter — November 2001,publications,newsletters,/newsletters/2001/november/,newsletters/2001/november.md,page,True,/newsletters/2001/november/
+qooct01.htm,Queen’s Own newsletter — October 2001,publications,newsletters,/newsletters/2001/october/,newsletters/2001/october.md,page,True,/newsletters/2001/october/
+qosep01.htm,Queen’s Own newsletter — September 2001,publications,newsletters,/newsletters/2001/september/,newsletters/2001/september.md,page,True,/newsletters/2001/september/
+qoapr02.htm,Queen’s Own newsletter — April 2002,publications,newsletters,/newsletters/2002/april/,newsletters/2002/april.md,page,True,/newsletters/2002/april/
+qoaug02.htm,Queen’s Own newsletter — August 2002,publications,newsletters,/newsletters/2002/august/,newsletters/2002/august.md,page,True,/newsletters/2002/august/
+qodec02.htm,Queen’s Own newsletter — December 2002,publications,newsletters,/newsletters/2002/december/,newsletters/2002/december.md,page,True,/newsletters/2002/december/
+qofeb02.htm,Queen’s Own newsletter — February 2002,publications,newsletters,/newsletters/2002/february/,newsletters/2002/february.md,page,True,/newsletters/2002/february/
+qojan02.htm,Queen’s Own newsletter — January 2002,publications,newsletters,/newsletters/2002/january/,newsletters/2002/january.md,page,True,/newsletters/2002/january/
+qojul02.htm,Queen’s Own newsletter — July 2002,publications,newsletters,/newsletters/2002/july/,newsletters/2002/july.md,page,True,/newsletters/2002/july/
+qojun02.htm,Queen’s Own newsletter — June 2002,publications,newsletters,/newsletters/2002/june/,newsletters/2002/june.md,page,True,/newsletters/2002/june/
+qomar02.htm,Queen’s Own newsletter — March 2002,publications,newsletters,/newsletters/2002/march/,newsletters/2002/march.md,page,True,/newsletters/2002/march/
+qomay02.htm,Queen’s Own newsletter — May 2002,publications,newsletters,/newsletters/2002/may/,newsletters/2002/may.md,page,True,/newsletters/2002/may/
+qonov02.htm,Queen’s Own newsletter — November 2002,publications,newsletters,/newsletters/2002/november/,newsletters/2002/november.md,page,True,/newsletters/2002/november/
+qooct02.htm,Queen’s Own newsletter — October 2002,publications,newsletters,/newsletters/2002/october/,newsletters/2002/october.md,page,True,/newsletters/2002/october/
+qosep02.htm,Queen’s Own newsletter — September 2002,publications,newsletters,/newsletters/2002/september/,newsletters/2002/september.md,page,True,/newsletters/2002/september/
+qoapr03.htm,Queen’s Own newsletter — April 2003,publications,newsletters,/newsletters/2003/april/,newsletters/2003/april.md,page,True,/newsletters/2003/april/
+qoaug03.htm,Queen’s Own newsletter — August 2003,publications,newsletters,/newsletters/2003/august/,newsletters/2003/august.md,page,True,/newsletters/2003/august/
+qodec03.htm,Queen’s Own newsletter — December 2003,publications,newsletters,/newsletters/2003/december/,newsletters/2003/december.md,page,True,/newsletters/2003/december/
+qofeb03.htm,Queen’s Own newsletter — February 2003,publications,newsletters,/newsletters/2003/february/,newsletters/2003/february.md,page,True,/newsletters/2003/february/
+qojan03.htm,Queen’s Own newsletter — January 2003,publications,newsletters,/newsletters/2003/january/,newsletters/2003/january.md,page,True,/newsletters/2003/january/
+qojul03.htm,Queen’s Own newsletter — July 2003,publications,newsletters,/newsletters/2003/july/,newsletters/2003/july.md,page,True,/newsletters/2003/july/
+qojun03.htm,Queen’s Own newsletter — June 2003,publications,newsletters,/newsletters/2003/june/,newsletters/2003/june.md,page,True,/newsletters/2003/june/
+qomar03.htm,Queen’s Own newsletter — March 2003,publications,newsletters,/newsletters/2003/march/,newsletters/2003/march.md,page,True,/newsletters/2003/march/
+qomay03.htm,Queen’s Own newsletter — May 2003,publications,newsletters,/newsletters/2003/may/,newsletters/2003/may.md,page,True,/newsletters/2003/may/
+qonov03.htm,Queen’s Own newsletter — November 2003,publications,newsletters,/newsletters/2003/november/,newsletters/2003/november.md,page,True,/newsletters/2003/november/
+qooct03.htm,Queen’s Own newsletter — October 2003,publications,newsletters,/newsletters/2003/october/,newsletters/2003/october.md,page,True,/newsletters/2003/october/
+qosep03.htm,Queen’s Own newsletter — September 2003,publications,newsletters,/newsletters/2003/september/,newsletters/2003/september.md,page,True,/newsletters/2003/september/
+qoapr04.htm,Queen’s Own newsletter — April 2004,publications,newsletters,/newsletters/2004/april/,newsletters/2004/april.md,page,True,/newsletters/2004/april/
+qoaug04.htm,Queen’s Own newsletter — August 2004,publications,newsletters,/newsletters/2004/august/,newsletters/2004/august.md,page,True,/newsletters/2004/august/
+qodec04.htm,Queen’s Own newsletter — December 2004,publications,newsletters,/newsletters/2004/december/,newsletters/2004/december.md,page,True,/newsletters/2004/december/
+qofeb04.htm,Queen’s Own newsletter — February 2004,publications,newsletters,/newsletters/2004/february/,newsletters/2004/february.md,page,True,/newsletters/2004/february/
+qojan04.htm,Queen’s Own newsletter — January 2004,publications,newsletters,/newsletters/2004/january/,newsletters/2004/january.md,page,True,/newsletters/2004/january/
+qojul04.htm,Queen’s Own newsletter — July 2004,publications,newsletters,/newsletters/2004/july/,newsletters/2004/july.md,page,True,/newsletters/2004/july/
+qojun04.htm,Queen’s Own newsletter — June 2004,publications,newsletters,/newsletters/2004/june/,newsletters/2004/june.md,page,True,/newsletters/2004/june/
+qomar04.htm,Queen’s Own newsletter — March 2004,publications,newsletters,/newsletters/2004/march/,newsletters/2004/march.md,page,True,/newsletters/2004/march/
+qomay04.htm,Queen’s Own newsletter — May 2004,publications,newsletters,/newsletters/2004/may/,newsletters/2004/may.md,page,True,/newsletters/2004/may/
+qonov04.htm,Queen’s Own newsletter — November 2004,publications,newsletters,/newsletters/2004/november/,newsletters/2004/november.md,page,True,/newsletters/2004/november/
+qooct04.htm,Queen’s Own newsletter — October 2004,publications,newsletters,/newsletters/2004/october/,newsletters/2004/october.md,page,True,/newsletters/2004/october/
+qosep04.htm,Queen’s Own newsletter — September 2004,publications,newsletters,/newsletters/2004/september/,newsletters/2004/september.md,page,True,/newsletters/2004/september/
+qoapr05.htm,Queen’s Own newsletter — April 2005,publications,newsletters,/newsletters/2005/april/,newsletters/2005/april.md,page,True,/newsletters/2005/april/
+qoaug05.htm,Queen’s Own newsletter — August 2005,publications,newsletters,/newsletters/2005/august/,newsletters/2005/august.md,page,True,/newsletters/2005/august/
+qofeb05.htm,Queen’s Own newsletter — February 2005,publications,newsletters,/newsletters/2005/february/,newsletters/2005/february.md,page,True,/newsletters/2005/february/
+qojan05.htm,Queen’s Own newsletter — January 2005,publications,newsletters,/newsletters/2005/january/,newsletters/2005/january.md,page,True,/newsletters/2005/january/
+qojul05.htm,Queen’s Own newsletter — July 2005,publications,newsletters,/newsletters/2005/july/,newsletters/2005/july.md,page,True,/newsletters/2005/july/
+qojun05.htm,Queen’s Own newsletter — June 2005,publications,newsletters,/newsletters/2005/june/,newsletters/2005/june.md,page,True,/newsletters/2005/june/
+qomar05.htm,Queen’s Own newsletter — March 2005,publications,newsletters,/newsletters/2005/march/,newsletters/2005/march.md,page,True,/newsletters/2005/march/
+qomay05.htm,Queen’s Own newsletter — May 2005,publications,newsletters,/newsletters/2005/may/,newsletters/2005/may.md,page,True,/newsletters/2005/may/
+qosep05.htm,Queen’s Own newsletter — September 2005,publications,newsletters,/newsletters/2005/september/,newsletters/2005/september.md,page,True,/newsletters/2005/september/
+qomlrel2.htm,Release form instructions,publications,fan-fiction,/release-form-instructions/,fan-fiction/release-form-instructions.md,page,True,/release-form-instructions/
+qofaqb.htm,Bards FAQ,world,world,/bards-faq/,world/bards-faq.md,page,True,/bards-faq/
+qofaqbl.htm,Blues and blue bloods FAQ,world,world,/blues-and-blue-bloods-faq/,world/blues-and-blue-bloods-faq.md,page,True,/blues-and-blue-bloods-faq/
+danc.htm,Companions' Choices,world,world,/companions-choices/,world/companions-choices.md,page,True,/companions-choices/
+qofaqc.htm,Cooking Velgarth style,world,world,/cooking-velgarth-style/,world/cooking-velgarth-style.md,page,True,/cooking-velgarth-style/
+qofaqa.htm,Fauna FAQ,world,world,/fauna-faq/,world/fauna-faq.md,page,True,/fauna-faq/
+qofaqgarb.htm,Garb FAQ,world,world,/garb-faq/,world/garb-faq.md,page,True,/garb-faq/
+qofaqgifts.htm,Gifts FAQ,world,world,/gifts-faq/,world/gifts-faq.md,page,True,/gifts-faq/
+qofaqg.htm,Guilds FAQ,world,world,/guilds-faq/,world/guilds-faq.md,page,True,/guilds-faq/
+qofaqhe.htm,Healers FAQ,world,world,/healers-faq/,world/healers-faq.md,page,True,/healers-faq/
+danhc.htm,Heralds and Companions,world,world,/heralds-and-companions/,world/heralds-and-companions.md,page,True,/heralds-and-companions/
+qofaqh.htm,Heralds FAQ,world,world,/heralds-faq/,world/heralds-faq.md,page,True,/heralds-faq/
+danmag1.htm,The Magic of Velgarth,world,world,/magic-of-velgarth/,world/magic-of-velgarth.md,page,True,/magic-of-velgarth/
+qofaqm.htm,Military FAQ,world,world,/military-faq/,world/military-faq.md,page,True,/military-faq/
+qofaqba.htm,Northern Barbarians FAQ,world,world,/northern-barbarians-faq/,world/northern-barbarians-faq.md,page,True,/northern-barbarians-faq/
+qofaqp.htm,Plants FAQ,world,world,/plants-faq/,world/plants-faq.md,page,True,/plants-faq/
+danp.htm,Proverbs From Velgarth,world,world,/proverbs-of-velgarth/,world/proverbs-of-velgarth.md,page,True,/proverbs-of-velgarth/
+danr.htm,Reincarnated Characters,world,world,/reincarnated-characters/,world/reincarnated-characters.md,page,True,/reincarnated-characters/
+qofaqrel.htm,Religions FAQ,world,world,/religions-faq/,world/religions-faq.md,page,True,/religions-faq/
+qofaqs.htm,Shin’a’in FAQ,world,world,/shina-in-faq/,world/shina-in-faq.md,page,True,/shina-in-faq/
+qofaqt.htm,Tayledras FAQ,world,world,/tayledras-faq/,world/tayledras-faq.md,page,True,/tayledras-faq/
+qofaqtr.htm,Velgarth travel guide,world,world,/travel-guide/,world/travel-guide.md,page,True,/travel-guide/
+dantime.htm,Valdemar Timeline,world,world,/valdemar-timeline/,world/valdemar-timeline.md,page,True,/valdemar-timeline/
+qojust.htm,Velgarth reference guide,world,world,/world-reference-guide/,world/world-reference-guide.md,page,True,/world-reference-guide/

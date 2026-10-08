@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}{{ section.title }} · {{ config.title }}{% endblock title %}
+{% block appearance %}{% if section.extra.bgcolor %}style="--background: {{ section.extra.bgcolor }}; --text: {{ section.extra.text }}; --link: {{ section.extra.link }}; --visited: {{ section.extra.vlink }}"{% endif %}{% endblock appearance %}
+{% block content %}
+{% include "breadcrumbs.html" %}
+<h1>{{ section.title }}</h1>
+{% if section.extra.historical %}<details open><summary>Original archive contents and notices</summary><article class="legacy-content">{{ section.content | replace(from="__PDF_BASE_URL__", to=config.extra.pdf_base_url) | safe }}</article></details>{% else %}{{ section.content | safe }}{% endif %}
+{% if section.subsections %}<h2>Browse archives</h2><ul class="page-list">{% for child in section.subsections %}{% set child_section = get_section(path=child) %}<li><a href="{{ child_section.permalink }}">{{ child_section.title }}</a></li>{% endfor %}</ul>{% endif %}
+{% if section.pages %}<h2>{% if section.extra.historical %}In this archive{% else %}Browse resources{% endif %}</h2><ul class="page-list">{% for entry in section.pages %}<li><a href="{{ entry.permalink }}">{{ entry.title }}</a></li>{% endfor %}</ul>{% endif %}
+{% endblock content %}

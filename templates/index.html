@@ -1,5 +1,13 @@
 {% extends "base.html" %}
-{% block appearance %}style="--background: {{ section.extra.bgcolor }}; --text: {{ section.extra.text }}; --link: {{ section.extra.link }}; --visited: {{ section.extra.vlink }}"{% endblock appearance %}
 {% block content %}
-<article class="legacy-content">{{ section.content | replace(from="__PDF_BASE_URL__", to=config.extra.pdf_base_url) | safe }}</article>
+<h1>Welcome to Queen’s Own</h1>
+{{ section.content | safe }}
+<div class="topic-grid">
+  <section><h2><a href="{{ get_url(path='membership/') }}">Membership</a></h2><p>Curious about joining, or looking for member resources? Head to the Membership section.</p></section>
+  <section><h2><a href="{{ get_url(path='personas/') }}">Personas</a></h2><p>All members have a "persona," or fictional avatar. Find character handouts, submission guidance, and persona directories.</p></section>
+  <section><h2><a href="{{ get_url(path='world/') }}">Velgarth Reference</a></h2><p>Explore Velgarth, its peoples, Gifts, magic, and everyday life.</p></section>
+  <section><h2><a href="{{ get_url(path='community/') }}">Community</a></h2><p>Discover chapter archives, social links, and fan activities.</p></section>
+  <section><h2><a href="{{ get_url(path='publications/') }}">Publications</a></h2><p>Read <a href="{{ get_url(path='newsletters/') }}">newsletters by year</a>, <a href="{{ get_url(path='compass-rose/') }}">The Compass Rose</a>, and <a href="{{ get_url(path='fan-fiction/') }}">fan fiction</a>.</p></section>
+  <section><h2><a href="{{ get_url(path='archive/') }}">Complete archive</a></h2><p>Browse every page by topic.</p></section>
+</div>
 {% endblock content %}

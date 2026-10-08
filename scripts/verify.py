@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Check generated legacy paths, local links, anchors, and PDF exclusion."""
+"""Check canonical routes, redirects, local links, anchors, and acknowledged gaps."""
 import json
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 from bs4 import BeautifulSoup
 from audit_links import audit
+from verify_routes import validate
 
 ROOT = Path(__file__).resolve().parents[1]
 output = ROOT / 'public'
@@ -40,3 +41,5 @@ if errors:
 print(f'Checked {len(documents)} HTML files: all local files resolve, PDF host substituted, no bundled PDFs.')
 print(f'{len(anchor_warnings)} unresolved original anchor references listed in data/anchor-report.json.')
 audit()
+if (ROOT / 'data/site-routes.json').exists():
+    validate(ROOT)

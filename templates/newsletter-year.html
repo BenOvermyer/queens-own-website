@@ -1,0 +1,13 @@
+{% extends "section.html" %}
+{% block content %}
+{% include "breadcrumbs.html" %}
+<h1>{{ section.title }}</h1>
+{{ section.content | safe }}
+{% set catalog = load_data(path="data/publication-index.json") %}
+<ul class="page-list">{% for year in catalog.years %}{% if year.year == section.extra.year %}{% for issue in year.issues %}<li>
+{% if issue.format == "HTML" %}<a href="{{ get_url(path=issue.path) }}">{{ issue.label }}</a>{% if not issue.available %} <span class="unavailable-note">(content unavailable)</span>{% endif %}
+{% elif issue.available %}<a href="{{ config.extra.pdf_base_url }}/{{ issue.filename }}">{{ issue.label }}</a>
+{% else %}<span data-unavailable-target="{{ config.extra.pdf_base_url }}/{{ issue.filename }}">{{ issue.label }}</span> <span class="unavailable-note">(PDF unavailable)</span>{% endif %}
+<span class="item-note"> · {{ issue.format }}</span></li>{% endfor %}{% endif %}{% endfor %}</ul>
+<p><a href="{{ get_url(path='newsletters/') }}">All years</a></p>
+{% endblock content %}

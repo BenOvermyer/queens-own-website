@@ -1,0 +1,4632 @@
+{
+  "cr2ddl.htm": {
+    "source": "cr2ddl.htm",
+    "title": "The Death of Diversity in our Nation's Libraries",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/spring-2002/diversity-in-libraries/",
+    "content_file": "compass-rose/spring-2002/diversity-in-libraries.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/spring-2002/diversity-in-libraries/",
+    "aliases": [
+      "/cr2ddl.htm",
+      "/cr2ddl.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "cr2ddl1.htm": {
+    "source": "cr2ddl1.htm",
+    "title": "The Death of Diversity in our Nation's Libraries",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/spring-2002/diversity-in-libraries/references/",
+    "content_file": "compass-rose/spring-2002/diversity-in-libraries--references.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/spring-2002/diversity-in-libraries/references/",
+    "aliases": [
+      "/cr2ddl1.htm",
+      "/cr2ddl1.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "cr2le.htm": {
+    "source": "cr2le.htm",
+    "title": "Letter from the Editor",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/spring-2002/editorial/",
+    "content_file": "compass-rose/spring-2002/editorial.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/spring-2002/editorial/",
+    "aliases": [
+      "/cr2le.htm",
+      "/cr2le.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "cr2rev.htm": {
+    "source": "cr2rev.htm",
+    "title": "Reviews",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/spring-2002/reviews/",
+    "content_file": "compass-rose/spring-2002/reviews.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/spring-2002/reviews/",
+    "aliases": [
+      "/cr2rev.htm",
+      "/cr2rev.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "cr2sim.htm": {
+    "source": "cr2sim.htm",
+    "title": "Sources of Information on Music in Medieval Ireland",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/spring-2002/music-in-medieval-ireland/",
+    "content_file": "compass-rose/spring-2002/music-in-medieval-ireland.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/spring-2002/music-in-medieval-ireland/",
+    "aliases": [
+      "/cr2sim.htm",
+      "/cr2sim.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "cr2sim1.htm": {
+    "source": "cr2sim1.htm",
+    "title": "Sources of Information on Music in Medieval Ireland--Notes and References",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/spring-2002/music-in-medieval-ireland/references/",
+    "content_file": "compass-rose/spring-2002/music-in-medieval-ireland--references.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/spring-2002/music-in-medieval-ireland/references/",
+    "aliases": [
+      "/cr2sim1.htm",
+      "/cr2sim1.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "cr2tat.htm": {
+    "source": "cr2tat.htm",
+    "title": "The Arthurian Tales",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/spring-2002/arthurian-tales/",
+    "content_file": "compass-rose/spring-2002/arthurian-tales.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/spring-2002/arthurian-tales/",
+    "aliases": [
+      "/cr2tat.htm",
+      "/cr2tat.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "cr2tat1.htm": {
+    "source": "cr2tat1.htm",
+    "title": "The Arthurian Tales",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/spring-2002/arthurian-tales/references/",
+    "content_file": "compass-rose/spring-2002/arthurian-tales--references.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/spring-2002/arthurian-tales/references/",
+    "aliases": [
+      "/cr2tat1.htm",
+      "/cr2tat1.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "cr2toc.htm": {
+    "source": "cr2toc.htm",
+    "title": "Spring 2002",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/spring-2002/",
+    "content_file": "compass-rose/spring-2002/_index.md",
+    "kind": "section",
+    "redirect_target": "/compass-rose/spring-2002/",
+    "aliases": [
+      "/cr2toc.htm",
+      "/cr2toc.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "crbi.htm": {
+    "source": "crbi.htm",
+    "title": "Either Or",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/summer-2000/either-or/",
+    "content_file": "compass-rose/summer-2000/either-or.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/summer-2000/either-or/",
+    "aliases": [
+      "/crbi.htm",
+      "/crbi.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "crbi1.htm": {
+    "source": "crbi1.htm",
+    "title": "Either Or--References",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/summer-2000/either-or/references/",
+    "content_file": "compass-rose/summer-2000/either-or--references.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/summer-2000/either-or/references/",
+    "aliases": [
+      "/crbi1.htm",
+      "/crbi1.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "crc.htm": {
+    "source": "crc.htm",
+    "title": "In the Name of God",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/summer-2000/in-the-name-of-god/",
+    "content_file": "compass-rose/summer-2000/in-the-name-of-god.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/summer-2000/in-the-name-of-god/",
+    "aliases": [
+      "/crc.htm",
+      "/crc.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "crc1.htm": {
+    "source": "crc1.htm",
+    "title": "In the Name of God--Notes and References",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/summer-2000/in-the-name-of-god/references/",
+    "content_file": "compass-rose/summer-2000/in-the-name-of-god--references.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/summer-2000/in-the-name-of-god/references/",
+    "aliases": [
+      "/crc1.htm",
+      "/crc1.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "crfrm.htm": {
+    "source": "crfrm.htm",
+    "title": "From Reptile to Mammal",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/summer-2000/from-reptile-to-mammal/",
+    "content_file": "compass-rose/summer-2000/from-reptile-to-mammal.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/summer-2000/from-reptile-to-mammal/",
+    "aliases": [
+      "/crfrm.htm",
+      "/crfrm.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "crfrm1.htm": {
+    "source": "crfrm1.htm",
+    "title": "From Reptile to Mammal--References",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/summer-2000/from-reptile-to-mammal/references/",
+    "content_file": "compass-rose/summer-2000/from-reptile-to-mammal--references.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/summer-2000/from-reptile-to-mammal/references/",
+    "aliases": [
+      "/crfrm1.htm",
+      "/crfrm1.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "crle.htm": {
+    "source": "crle.htm",
+    "title": "Letter from the Editor",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/summer-2000/editorial/",
+    "content_file": "compass-rose/summer-2000/editorial.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/summer-2000/editorial/",
+    "aliases": [
+      "/crle.htm",
+      "/crle.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "crrev.htm": {
+    "source": "crrev.htm",
+    "title": "Reviews",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/summer-2000/reviews/",
+    "content_file": "compass-rose/summer-2000/reviews.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/summer-2000/reviews/",
+    "aliases": [
+      "/crrev.htm",
+      "/crrev.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "crsos.htm": {
+    "source": "crsos.htm",
+    "title": "Excerpts from Sink or Swim",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/summer-2000/sink-or-swim/",
+    "content_file": "compass-rose/summer-2000/sink-or-swim.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/summer-2000/sink-or-swim/",
+    "aliases": [
+      "/crsos.htm",
+      "/crsos.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "crtoc.htm": {
+    "source": "crtoc.htm",
+    "title": "Summer 2000",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/summer-2000/",
+    "content_file": "compass-rose/summer-2000/_index.md",
+    "kind": "section",
+    "redirect_target": "/compass-rose/summer-2000/",
+    "aliases": [
+      "/crtoc.htm",
+      "/crtoc.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "danc.htm": {
+    "source": "danc.htm",
+    "title": "Companions' Choices",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/companions-choices/",
+    "content_file": "world/companions-choices.md",
+    "kind": "page",
+    "redirect_target": "/companions-choices/",
+    "aliases": [
+      "/danc.htm",
+      "/danc.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "danhc.htm": {
+    "source": "danhc.htm",
+    "title": "Heralds and Companions",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/heralds-and-companions/",
+    "content_file": "world/heralds-and-companions.md",
+    "kind": "page",
+    "redirect_target": "/heralds-and-companions/",
+    "aliases": [
+      "/danhc.htm",
+      "/danhc.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "danmag1.htm": {
+    "source": "danmag1.htm",
+    "title": "The Magic of Velgarth",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/magic-of-velgarth/",
+    "content_file": "world/magic-of-velgarth.md",
+    "kind": "page",
+    "redirect_target": "/magic-of-velgarth/",
+    "aliases": [
+      "/danmag1.htm",
+      "/danmag1.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "danp.htm": {
+    "source": "danp.htm",
+    "title": "Proverbs From Velgarth",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/proverbs-of-velgarth/",
+    "content_file": "world/proverbs-of-velgarth.md",
+    "kind": "page",
+    "redirect_target": "/proverbs-of-velgarth/",
+    "aliases": [
+      "/danp.htm",
+      "/danp.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "danr.htm": {
+    "source": "danr.htm",
+    "title": "Reincarnated Characters",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/reincarnated-characters/",
+    "content_file": "world/reincarnated-characters.md",
+    "kind": "page",
+    "redirect_target": "/reincarnated-characters/",
+    "aliases": [
+      "/danr.htm",
+      "/danr.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "danspell.htm": {
+    "source": "danspell.htm",
+    "title": "Magic Spells",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/science-and-magic-tricks/",
+    "content_file": "community/science-and-magic-tricks.md",
+    "kind": "page",
+    "redirect_target": "/science-and-magic-tricks/",
+    "aliases": [
+      "/danspell.htm",
+      "/danspell.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "dantime.htm": {
+    "source": "dantime.htm",
+    "title": "Valdemar Timeline",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/valdemar-timeline/",
+    "content_file": "world/valdemar-timeline.md",
+    "kind": "page",
+    "redirect_target": "/valdemar-timeline/",
+    "aliases": [
+      "/dantime.htm",
+      "/dantime.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "danya.htm": {
+    "source": "danya.htm",
+    "title": "Danya Winterborn",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/danya-winterborn/",
+    "content_file": "community/danya-winterborn.md",
+    "kind": "page",
+    "redirect_target": "/danya-winterborn/",
+    "aliases": [
+      "/danya.htm",
+      "/danya.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "danyacc.htm": {
+    "source": "danyacc.htm",
+    "title": "Collegium Chronicles",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/pacific-northwest-collegium/",
+    "content_file": "community/pacific-northwest-collegium.md",
+    "kind": "page",
+    "redirect_target": "/pacific-northwest-collegium/",
+    "aliases": [
+      "/danyacc.htm",
+      "/danyacc.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "danyagg.htm": {
+    "source": "danyagg.htm",
+    "title": "Golden Grove",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/golden-grove/",
+    "content_file": "community/golden-grove.md",
+    "kind": "page",
+    "redirect_target": "/golden-grove/",
+    "aliases": [
+      "/danyagg.htm",
+      "/danyagg.htm/",
+      "/qogg.htm",
+      "/qogg.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "danyasc.htm": {
+    "source": "danyasc.htm",
+    "title": "Sonoran Collegium",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/sonoran-collegium/",
+    "content_file": "community/sonoran-collegium.md",
+    "kind": "page",
+    "redirect_target": "/sonoran-collegium/",
+    "aliases": [
+      "/danyasc.htm",
+      "/danyasc.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "dcpawn.htm": {
+    "source": "dcpawn.htm",
+    "title": "Magic's Pawn",
+    "topic": "community",
+    "section": "dream-casts",
+    "canonical_path": "/dream-casts/magics-pawn/",
+    "content_file": "dream-casts/magics-pawn.md",
+    "kind": "page",
+    "redirect_target": "/dream-casts/magics-pawn/",
+    "aliases": [
+      "/dcpawn.htm",
+      "/dcpawn.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "dcprice.htm": {
+    "source": "dcprice.htm",
+    "title": "Magic's Price",
+    "topic": "community",
+    "section": "dream-casts",
+    "canonical_path": "/dream-casts/magics-price/",
+    "content_file": "dream-casts/magics-price.md",
+    "kind": "page",
+    "redirect_target": "/dream-casts/magics-price/",
+    "aliases": [
+      "/dcprice.htm",
+      "/dcprice.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "dcprom.htm": {
+    "source": "dcprom.htm",
+    "title": "Magic's Promise",
+    "topic": "community",
+    "section": "dream-casts",
+    "canonical_path": "/dream-casts/magics-promise/",
+    "content_file": "dream-casts/magics-promise.md",
+    "kind": "page",
+    "redirect_target": "/dream-casts/magics-promise/",
+    "aliases": [
+      "/dcprom.htm",
+      "/dcprom.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "mlrelease.htm": {
+    "source": "mlrelease.htm",
+    "title": "Release Form for Mercedes Lackey",
+    "topic": "publications",
+    "section": "fan-fiction",
+    "canonical_path": "/mercedes-lackey-release-form/",
+    "content_file": "fan-fiction/mercedes-lackey-release-form.md",
+    "kind": "page",
+    "redirect_target": "/mercedes-lackey-release-form/",
+    "aliases": [
+      "/mlrelease.htm",
+      "/mlrelease.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qoapr01.htm": {
+    "source": "qoapr01.htm",
+    "title": "Queen’s Own newsletter — April 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/april/",
+    "content_file": "newsletters/2001/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/april/",
+    "aliases": [
+      "/qoapr01.htm",
+      "/qoapr01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 4,
+      "label": "April 2001"
+    },
+    "source_present": true
+  },
+  "qoapr02.htm": {
+    "source": "qoapr02.htm",
+    "title": "Queen’s Own newsletter — April 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/april/",
+    "content_file": "newsletters/2002/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/april/",
+    "aliases": [
+      "/qoapr02.htm",
+      "/qoapr02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 4,
+      "label": "April 2002"
+    },
+    "source_present": true
+  },
+  "qoapr03.htm": {
+    "source": "qoapr03.htm",
+    "title": "Queen’s Own newsletter — April 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/april/",
+    "content_file": "newsletters/2003/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/april/",
+    "aliases": [
+      "/qoapr03.htm",
+      "/qoapr03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 4,
+      "label": "April 2003"
+    },
+    "source_present": true
+  },
+  "qoapr04.htm": {
+    "source": "qoapr04.htm",
+    "title": "Queen’s Own newsletter — April 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/april/",
+    "content_file": "newsletters/2004/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/april/",
+    "aliases": [
+      "/qoapr04.htm",
+      "/qoapr04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 4,
+      "label": "April 2004"
+    },
+    "source_present": true
+  },
+  "qoapr05.htm": {
+    "source": "qoapr05.htm",
+    "title": "Queen’s Own newsletter — April 2005",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2005/april/",
+    "content_file": "newsletters/2005/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2005/april/",
+    "aliases": [
+      "/qoapr05.htm",
+      "/qoapr05.htm/"
+    ],
+    "issue": {
+      "year": 2005,
+      "month": 4,
+      "label": "April 2005"
+    },
+    "source_present": true
+  },
+  "qoapr88.htm": {
+    "source": "qoapr88.htm",
+    "title": "Queen’s Own newsletter — April 1988",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1988/april/",
+    "content_file": "newsletters/1988/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1988/april/",
+    "aliases": [
+      "/qoapr88.htm",
+      "/qoapr88.htm/"
+    ],
+    "issue": {
+      "year": 1988,
+      "month": 4,
+      "label": "April 1988"
+    },
+    "source_present": true
+  },
+  "qoapr89.htm": {
+    "source": "qoapr89.htm",
+    "title": "Queen’s Own newsletter — April 1989",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1989/april/",
+    "content_file": "newsletters/1989/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1989/april/",
+    "aliases": [
+      "/qoapr89.htm",
+      "/qoapr89.htm/"
+    ],
+    "issue": {
+      "year": 1989,
+      "month": 4,
+      "label": "April 1989"
+    },
+    "source_present": true
+  },
+  "qoapr90.htm": {
+    "source": "qoapr90.htm",
+    "title": "Queen’s Own newsletter — April 1990",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1990/april/",
+    "content_file": "newsletters/1990/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1990/april/",
+    "aliases": [
+      "/qoapr90.htm",
+      "/qoapr90.htm/"
+    ],
+    "issue": {
+      "year": 1990,
+      "month": 4,
+      "label": "April 1990"
+    },
+    "source_present": true
+  },
+  "qoapr91.htm": {
+    "source": "qoapr91.htm",
+    "title": "Queen’s Own newsletter — April 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/april/",
+    "content_file": "newsletters/1991/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/april/",
+    "aliases": [
+      "/qoapr91.htm",
+      "/qoapr91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 4,
+      "label": "April 1991"
+    },
+    "source_present": true
+  },
+  "qoapr92.htm": {
+    "source": "qoapr92.htm",
+    "title": "Queen’s Own newsletter — April 1992",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1992/april/",
+    "content_file": "newsletters/1992/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1992/april/",
+    "aliases": [
+      "/qoapr92.htm",
+      "/qoapr92.htm/"
+    ],
+    "issue": {
+      "year": 1992,
+      "month": 4,
+      "label": "April 1992"
+    },
+    "source_present": true
+  },
+  "qoapr96.htm": {
+    "source": "qoapr96.htm",
+    "title": "Queen’s Own newsletter — April 1996",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1996/april/",
+    "content_file": "newsletters/1996/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1996/april/",
+    "aliases": [
+      "/qoapr96.htm",
+      "/qoapr96.htm/"
+    ],
+    "issue": {
+      "year": 1996,
+      "month": 4,
+      "label": "April 1996"
+    },
+    "source_present": true
+  },
+  "qoapr97.htm": {
+    "source": "qoapr97.htm",
+    "title": "Queen’s Own newsletter — April 1997",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1997/april/",
+    "content_file": "newsletters/1997/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1997/april/",
+    "aliases": [
+      "/qoapr97.htm",
+      "/qoapr97.htm/"
+    ],
+    "issue": {
+      "year": 1997,
+      "month": 4,
+      "label": "April 1997"
+    },
+    "source_present": true
+  },
+  "qoapr98.htm": {
+    "source": "qoapr98.htm",
+    "title": "Queen’s Own newsletter — April 1998",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1998/april/",
+    "content_file": "newsletters/1998/april.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1998/april/",
+    "aliases": [
+      "/qoapr98.htm",
+      "/qoapr98.htm/"
+    ],
+    "issue": {
+      "year": 1998,
+      "month": 4,
+      "label": "April 1998"
+    },
+    "source_present": true
+  },
+  "qoaug00.htm": {
+    "source": "qoaug00.htm",
+    "title": "Queen’s Own newsletter — August 2000",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2000/august/",
+    "content_file": "newsletters/2000/august.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2000/august/",
+    "aliases": [
+      "/qoaug00.htm",
+      "/qoaug00.htm/"
+    ],
+    "issue": {
+      "year": 2000,
+      "month": 8,
+      "label": "August 2000"
+    },
+    "source_present": true
+  },
+  "qoaug01.htm": {
+    "source": "qoaug01.htm",
+    "title": "Queen’s Own newsletter — August 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/august/",
+    "content_file": "newsletters/2001/august.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/august/",
+    "aliases": [
+      "/qoaug01.htm",
+      "/qoaug01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 8,
+      "label": "August 2001"
+    },
+    "source_present": true
+  },
+  "qoaug02.htm": {
+    "source": "qoaug02.htm",
+    "title": "Queen’s Own newsletter — August 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/august/",
+    "content_file": "newsletters/2002/august.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/august/",
+    "aliases": [
+      "/qoaug02.htm",
+      "/qoaug02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 8,
+      "label": "August 2002"
+    },
+    "source_present": true
+  },
+  "qoaug03.htm": {
+    "source": "qoaug03.htm",
+    "title": "Queen’s Own newsletter — August 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/august/",
+    "content_file": "newsletters/2003/august.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/august/",
+    "aliases": [
+      "/qoaug03.htm",
+      "/qoaug03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 8,
+      "label": "August 2003"
+    },
+    "source_present": true
+  },
+  "qoaug04.htm": {
+    "source": "qoaug04.htm",
+    "title": "Queen’s Own newsletter — August 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/august/",
+    "content_file": "newsletters/2004/august.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/august/",
+    "aliases": [
+      "/qoaug04.htm",
+      "/qoaug04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 8,
+      "label": "August 2004"
+    },
+    "source_present": true
+  },
+  "qoaug05.htm": {
+    "source": "qoaug05.htm",
+    "title": "Queen’s Own newsletter — August 2005",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2005/august/",
+    "content_file": "newsletters/2005/august.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2005/august/",
+    "aliases": [
+      "/qoaug05.htm",
+      "/qoaug05.htm/"
+    ],
+    "issue": {
+      "year": 2005,
+      "month": 8,
+      "label": "August 2005"
+    },
+    "source_present": true
+  },
+  "qoaug89.htm": {
+    "source": "qoaug89.htm",
+    "title": "Queen’s Own newsletter — August 1989",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1989/august/",
+    "content_file": "newsletters/1989/august.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1989/august/",
+    "aliases": [
+      "/qoaug89.htm",
+      "/qoaug89.htm/"
+    ],
+    "issue": {
+      "year": 1989,
+      "month": 8,
+      "label": "August 1989"
+    },
+    "source_present": true
+  },
+  "qoaug96.htm": {
+    "source": "qoaug96.htm",
+    "title": "Queen’s Own newsletter — August 1996",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1996/august/",
+    "content_file": "newsletters/1996/august.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1996/august/",
+    "aliases": [
+      "/qoaug96.htm",
+      "/qoaug96.htm/"
+    ],
+    "issue": {
+      "year": 1996,
+      "month": 8,
+      "label": "August 1996"
+    },
+    "source_present": true
+  },
+  "qoaug97.htm": {
+    "source": "qoaug97.htm",
+    "title": "Queen’s Own newsletter — August 1997",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1997/august/",
+    "content_file": "newsletters/1997/august.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1997/august/",
+    "aliases": [
+      "/qoaug97.htm",
+      "/qoaug97.htm/"
+    ],
+    "issue": {
+      "year": 1997,
+      "month": 8,
+      "label": "August 1997"
+    },
+    "source_present": true
+  },
+  "qoaug98.htm": {
+    "source": "qoaug98.htm",
+    "title": "Queen’s Own newsletter — August 1998",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1998/august/",
+    "content_file": "newsletters/1998/august.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1998/august/",
+    "aliases": [
+      "/qoaug98.htm",
+      "/qoaug98.htm/"
+    ],
+    "issue": {
+      "year": 1998,
+      "month": 8,
+      "label": "August 1998"
+    },
+    "source_present": true
+  },
+  "qob.htm": {
+    "source": "qob.htm",
+    "title": "Bard handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/bard-handout/",
+    "content_file": "personas/bard-handout.md",
+    "kind": "page",
+    "redirect_target": "/bard-handout/",
+    "aliases": [
+      "/qob.htm",
+      "/qob.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qoba.htm": {
+    "source": "qoba.htm",
+    "title": "Northern Barbarian handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/northern-barbarian-handout/",
+    "content_file": "personas/northern-barbarian-handout.md",
+    "kind": "page",
+    "redirect_target": "/northern-barbarian-handout/",
+    "aliases": [
+      "/qoba.htm",
+      "/qoba.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qobl.htm": {
+    "source": "qobl.htm",
+    "title": "Blues handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/blues-handout/",
+    "content_file": "personas/blues-handout.md",
+    "kind": "page",
+    "redirect_target": "/blues-handout/",
+    "aliases": [
+      "/qobl.htm",
+      "/qobl.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qochap.htm": {
+    "source": "qochap.htm",
+    "title": "Chapter directory",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/chapters/",
+    "content_file": "community/chapters.md",
+    "kind": "page",
+    "redirect_target": "/chapters/",
+    "aliases": [
+      "/qochap.htm",
+      "/qochap.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qochat.htm": {
+    "source": "qochat.htm",
+    "title": "Club chat guidance",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/club-chat/",
+    "content_file": "community/club-chat.md",
+    "kind": "page",
+    "redirect_target": "/club-chat/",
+    "aliases": [
+      "/qochat.htm",
+      "/qochat.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qodec00.htm": {
+    "source": "qodec00.htm",
+    "title": "Queen’s Own newsletter — December 2000",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2000/december/",
+    "content_file": "newsletters/2000/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2000/december/",
+    "aliases": [
+      "/qodec00.htm",
+      "/qodec00.htm/"
+    ],
+    "issue": {
+      "year": 2000,
+      "month": 12,
+      "label": "December 2000"
+    },
+    "source_present": true
+  },
+  "qodec01.htm": {
+    "source": "qodec01.htm",
+    "title": "Queen’s Own newsletter — December 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/december/",
+    "content_file": "newsletters/2001/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/december/",
+    "aliases": [
+      "/qodec01.htm",
+      "/qodec01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 12,
+      "label": "December 2001"
+    },
+    "source_present": true
+  },
+  "qodec02.htm": {
+    "source": "qodec02.htm",
+    "title": "Queen’s Own newsletter — December 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/december/",
+    "content_file": "newsletters/2002/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/december/",
+    "aliases": [
+      "/qodec02.htm",
+      "/qodec02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 12,
+      "label": "December 2002"
+    },
+    "source_present": true
+  },
+  "qodec03.htm": {
+    "source": "qodec03.htm",
+    "title": "Queen’s Own newsletter — December 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/december/",
+    "content_file": "newsletters/2003/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/december/",
+    "aliases": [
+      "/qodec03.htm",
+      "/qodec03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 12,
+      "label": "December 2003"
+    },
+    "source_present": true
+  },
+  "qodec04.htm": {
+    "source": "qodec04.htm",
+    "title": "Queen’s Own newsletter — December 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/december/",
+    "content_file": "newsletters/2004/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/december/",
+    "aliases": [
+      "/qodec04.htm",
+      "/qodec04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 12,
+      "label": "December 2004"
+    },
+    "source_present": true
+  },
+  "qodec90.htm": {
+    "source": "qodec90.htm",
+    "title": "Queen’s Own newsletter — December 1990",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1990/december/",
+    "content_file": "newsletters/1990/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1990/december/",
+    "aliases": [
+      "/qodec90.htm",
+      "/qodec90.htm/"
+    ],
+    "issue": {
+      "year": 1990,
+      "month": 12,
+      "label": "December 1990"
+    },
+    "source_present": true
+  },
+  "qodec91.htm": {
+    "source": "qodec91.htm",
+    "title": "Queen’s Own newsletter — December 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/december/",
+    "content_file": "newsletters/1991/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/december/",
+    "aliases": [
+      "/qodec91.htm",
+      "/qodec91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 12,
+      "label": "December 1991"
+    },
+    "source_present": true
+  },
+  "qodec92.htm": {
+    "source": "qodec92.htm",
+    "title": "Queen’s Own newsletter — December 1992",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1992/december/",
+    "content_file": "newsletters/1992/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1992/december/",
+    "aliases": [
+      "/qodec92.htm",
+      "/qodec92.htm/"
+    ],
+    "issue": {
+      "year": 1992,
+      "month": 12,
+      "label": "December 1992"
+    },
+    "source_present": true
+  },
+  "qodec96.htm": {
+    "source": "qodec96.htm",
+    "title": "Queen’s Own newsletter — December 1996",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1996/december/",
+    "content_file": "newsletters/1996/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1996/december/",
+    "aliases": [
+      "/qodec96.htm",
+      "/qodec96.htm/"
+    ],
+    "issue": {
+      "year": 1996,
+      "month": 12,
+      "label": "December 1996"
+    },
+    "source_present": true
+  },
+  "qodec97.htm": {
+    "source": "qodec97.htm",
+    "title": "Queen’s Own newsletter — December 1997",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1997/december/",
+    "content_file": "newsletters/1997/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1997/december/",
+    "aliases": [
+      "/qodec97.htm",
+      "/qodec97.htm/"
+    ],
+    "issue": {
+      "year": 1997,
+      "month": 12,
+      "label": "December 1997"
+    },
+    "source_present": true
+  },
+  "qodec98.htm": {
+    "source": "qodec98.htm",
+    "title": "Queen’s Own newsletter — December 1998",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1998/december/",
+    "content_file": "newsletters/1998/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1998/december/",
+    "aliases": [
+      "/qodec98.htm",
+      "/qodec98.htm/"
+    ],
+    "issue": {
+      "year": 1998,
+      "month": 12,
+      "label": "December 1998"
+    },
+    "source_present": false
+  },
+  "qodec99.htm": {
+    "source": "qodec99.htm",
+    "title": "Queen’s Own newsletter — December 1999",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1999/december/",
+    "content_file": "newsletters/1999/december.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1999/december/",
+    "aliases": [
+      "/qodec99.htm",
+      "/qodec99.htm/"
+    ],
+    "issue": {
+      "year": 1999,
+      "month": 12,
+      "label": "December 1999"
+    },
+    "source_present": true
+  },
+  "qodelphi.htm": {
+    "source": "qodelphi.htm",
+    "title": "Delphi forum",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/delphi-forum/",
+    "content_file": "community/delphi-forum.md",
+    "kind": "page",
+    "redirect_target": "/delphi-forum/",
+    "aliases": [
+      "/qodelphi.htm",
+      "/qodelphi.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofanfic.htm": {
+    "source": "qofanfic.htm",
+    "title": "Fan fiction archive",
+    "topic": "publications",
+    "section": "fan-fiction",
+    "canonical_path": "/fan-fiction/",
+    "content_file": "fan-fiction/_index.md",
+    "kind": "section",
+    "redirect_target": "/fan-fiction/",
+    "aliases": [
+      "/qofanfic.htm",
+      "/qofanfic.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqa.htm": {
+    "source": "qofaqa.htm",
+    "title": "Fauna FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/fauna-faq/",
+    "content_file": "world/fauna-faq.md",
+    "kind": "page",
+    "redirect_target": "/fauna-faq/",
+    "aliases": [
+      "/qofaqa.htm",
+      "/qofaqa.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqb.htm": {
+    "source": "qofaqb.htm",
+    "title": "Bards FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/bards-faq/",
+    "content_file": "world/bards-faq.md",
+    "kind": "page",
+    "redirect_target": "/bards-faq/",
+    "aliases": [
+      "/qofaqb.htm",
+      "/qofaqb.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqba.htm": {
+    "source": "qofaqba.htm",
+    "title": "Northern Barbarians FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/northern-barbarians-faq/",
+    "content_file": "world/northern-barbarians-faq.md",
+    "kind": "page",
+    "redirect_target": "/northern-barbarians-faq/",
+    "aliases": [
+      "/qofaqba.htm",
+      "/qofaqba.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqbl.htm": {
+    "source": "qofaqbl.htm",
+    "title": "Blues and blue bloods FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/blues-and-blue-bloods-faq/",
+    "content_file": "world/blues-and-blue-bloods-faq.md",
+    "kind": "page",
+    "redirect_target": "/blues-and-blue-bloods-faq/",
+    "aliases": [
+      "/qofaqbl.htm",
+      "/qofaqbl.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqc.htm": {
+    "source": "qofaqc.htm",
+    "title": "Cooking Velgarth style",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/cooking-velgarth-style/",
+    "content_file": "world/cooking-velgarth-style.md",
+    "kind": "page",
+    "redirect_target": "/cooking-velgarth-style/",
+    "aliases": [
+      "/qofaqc.htm",
+      "/qofaqc.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqg.htm": {
+    "source": "qofaqg.htm",
+    "title": "Guilds FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/guilds-faq/",
+    "content_file": "world/guilds-faq.md",
+    "kind": "page",
+    "redirect_target": "/guilds-faq/",
+    "aliases": [
+      "/qofaqg.htm",
+      "/qofaqg.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqgarb.htm": {
+    "source": "qofaqgarb.htm",
+    "title": "Garb FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/garb-faq/",
+    "content_file": "world/garb-faq.md",
+    "kind": "page",
+    "redirect_target": "/garb-faq/",
+    "aliases": [
+      "/qofaqgarb.htm",
+      "/qofaqgarb.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqgifts.htm": {
+    "source": "qofaqgifts.htm",
+    "title": "Gifts FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/gifts-faq/",
+    "content_file": "world/gifts-faq.md",
+    "kind": "page",
+    "redirect_target": "/gifts-faq/",
+    "aliases": [
+      "/qofaqgifts.htm",
+      "/qofaqgifts.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqh.htm": {
+    "source": "qofaqh.htm",
+    "title": "Heralds FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/heralds-faq/",
+    "content_file": "world/heralds-faq.md",
+    "kind": "page",
+    "redirect_target": "/heralds-faq/",
+    "aliases": [
+      "/qofaqh.htm",
+      "/qofaqh.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqhe.htm": {
+    "source": "qofaqhe.htm",
+    "title": "Healers FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/healers-faq/",
+    "content_file": "world/healers-faq.md",
+    "kind": "page",
+    "redirect_target": "/healers-faq/",
+    "aliases": [
+      "/qofaqhe.htm",
+      "/qofaqhe.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqm.htm": {
+    "source": "qofaqm.htm",
+    "title": "Military FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/military-faq/",
+    "content_file": "world/military-faq.md",
+    "kind": "page",
+    "redirect_target": "/military-faq/",
+    "aliases": [
+      "/qofaqm.htm",
+      "/qofaqm.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqp.htm": {
+    "source": "qofaqp.htm",
+    "title": "Plants FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/plants-faq/",
+    "content_file": "world/plants-faq.md",
+    "kind": "page",
+    "redirect_target": "/plants-faq/",
+    "aliases": [
+      "/qofaqp.htm",
+      "/qofaqp.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqqo.htm": {
+    "source": "qofaqqo.htm",
+    "title": "Queen’s Own FAQ",
+    "topic": "membership",
+    "section": "membership",
+    "canonical_path": "/club-faq/",
+    "content_file": "membership/club-faq.md",
+    "kind": "page",
+    "redirect_target": "/club-faq/",
+    "aliases": [
+      "/qofaqqo.htm",
+      "/qofaqqo.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqrel.htm": {
+    "source": "qofaqrel.htm",
+    "title": "Religions FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/religions-faq/",
+    "content_file": "world/religions-faq.md",
+    "kind": "page",
+    "redirect_target": "/religions-faq/",
+    "aliases": [
+      "/qofaqrel.htm",
+      "/qofaqrel.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqs.htm": {
+    "source": "qofaqs.htm",
+    "title": "Shin’a’in FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/shina-in-faq/",
+    "content_file": "world/shina-in-faq.md",
+    "kind": "page",
+    "redirect_target": "/shina-in-faq/",
+    "aliases": [
+      "/qofaqs.htm",
+      "/qofaqs.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqt.htm": {
+    "source": "qofaqt.htm",
+    "title": "Tayledras FAQ",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/tayledras-faq/",
+    "content_file": "world/tayledras-faq.md",
+    "kind": "page",
+    "redirect_target": "/tayledras-faq/",
+    "aliases": [
+      "/qofaqt.htm",
+      "/qofaqt.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofaqtr.htm": {
+    "source": "qofaqtr.htm",
+    "title": "Velgarth travel guide",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/travel-guide/",
+    "content_file": "world/travel-guide.md",
+    "kind": "page",
+    "redirect_target": "/travel-guide/",
+    "aliases": [
+      "/qofaqtr.htm",
+      "/qofaqtr.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qofeb01.htm": {
+    "source": "qofeb01.htm",
+    "title": "Queen’s Own newsletter — February 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/february/",
+    "content_file": "newsletters/2001/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/february/",
+    "aliases": [
+      "/qofeb01.htm",
+      "/qofeb01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 2,
+      "label": "February 2001"
+    },
+    "source_present": true
+  },
+  "qofeb02.htm": {
+    "source": "qofeb02.htm",
+    "title": "Queen’s Own newsletter — February 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/february/",
+    "content_file": "newsletters/2002/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/february/",
+    "aliases": [
+      "/qofeb02.htm",
+      "/qofeb02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 2,
+      "label": "February 2002"
+    },
+    "source_present": true
+  },
+  "qofeb03.htm": {
+    "source": "qofeb03.htm",
+    "title": "Queen’s Own newsletter — February 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/february/",
+    "content_file": "newsletters/2003/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/february/",
+    "aliases": [
+      "/qofeb03.htm",
+      "/qofeb03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 2,
+      "label": "February 2003"
+    },
+    "source_present": true
+  },
+  "qofeb04.htm": {
+    "source": "qofeb04.htm",
+    "title": "Queen’s Own newsletter — February 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/february/",
+    "content_file": "newsletters/2004/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/february/",
+    "aliases": [
+      "/qofeb04.htm",
+      "/qofeb04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 2,
+      "label": "February 2004"
+    },
+    "source_present": true
+  },
+  "qofeb05.htm": {
+    "source": "qofeb05.htm",
+    "title": "Queen’s Own newsletter — February 2005",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2005/february/",
+    "content_file": "newsletters/2005/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2005/february/",
+    "aliases": [
+      "/qofeb05.htm",
+      "/qofeb05.htm/"
+    ],
+    "issue": {
+      "year": 2005,
+      "month": 2,
+      "label": "February 2005"
+    },
+    "source_present": true
+  },
+  "qofeb89.htm": {
+    "source": "qofeb89.htm",
+    "title": "Queen’s Own newsletter — February 1989",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1989/february/",
+    "content_file": "newsletters/1989/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1989/february/",
+    "aliases": [
+      "/qofeb89.htm",
+      "/qofeb89.htm/"
+    ],
+    "issue": {
+      "year": 1989,
+      "month": 2,
+      "label": "February 1989"
+    },
+    "source_present": true
+  },
+  "qofeb90.htm": {
+    "source": "qofeb90.htm",
+    "title": "Queen’s Own newsletter — February 1990",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1990/february/",
+    "content_file": "newsletters/1990/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1990/february/",
+    "aliases": [
+      "/qofeb90.htm",
+      "/qofeb90.htm/"
+    ],
+    "issue": {
+      "year": 1990,
+      "month": 2,
+      "label": "February 1990"
+    },
+    "source_present": true
+  },
+  "qofeb91.htm": {
+    "source": "qofeb91.htm",
+    "title": "Queen’s Own newsletter — February 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/february/",
+    "content_file": "newsletters/1991/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/february/",
+    "aliases": [
+      "/qofeb91.htm",
+      "/qofeb91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 2,
+      "label": "February 1991"
+    },
+    "source_present": true
+  },
+  "qofeb92.htm": {
+    "source": "qofeb92.htm",
+    "title": "Queen’s Own newsletter — February 1992",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1992/february/",
+    "content_file": "newsletters/1992/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1992/february/",
+    "aliases": [
+      "/qofeb92.htm",
+      "/qofeb92.htm/"
+    ],
+    "issue": {
+      "year": 1992,
+      "month": 2,
+      "label": "February 1992"
+    },
+    "source_present": true
+  },
+  "qofeb93.htm": {
+    "source": "qofeb93.htm",
+    "title": "Queen’s Own newsletter — February 1993",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1993/february/",
+    "content_file": "newsletters/1993/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1993/february/",
+    "aliases": [
+      "/qofeb93.htm",
+      "/qofeb93.htm/"
+    ],
+    "issue": {
+      "year": 1993,
+      "month": 2,
+      "label": "February 1993"
+    },
+    "source_present": true
+  },
+  "qofeb94.htm": {
+    "source": "qofeb94.htm",
+    "title": "Queen’s Own newsletter — February 1994",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1994/february/",
+    "content_file": "newsletters/1994/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1994/february/",
+    "aliases": [
+      "/qofeb94.htm",
+      "/qofeb94.htm/"
+    ],
+    "issue": {
+      "year": 1994,
+      "month": 2,
+      "label": "February 1994"
+    },
+    "source_present": true
+  },
+  "qofeb95.htm": {
+    "source": "qofeb95.htm",
+    "title": "Queen’s Own newsletter — February 1995",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1995/february/",
+    "content_file": "newsletters/1995/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1995/february/",
+    "aliases": [
+      "/qofeb95.htm",
+      "/qofeb95.htm/"
+    ],
+    "issue": {
+      "year": 1995,
+      "month": 2,
+      "label": "February 1995"
+    },
+    "source_present": true
+  },
+  "qofeb97.htm": {
+    "source": "qofeb97.htm",
+    "title": "Queen’s Own newsletter — February 1997",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1997/february/",
+    "content_file": "newsletters/1997/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1997/february/",
+    "aliases": [
+      "/qofeb97.htm",
+      "/qofeb97.htm/"
+    ],
+    "issue": {
+      "year": 1997,
+      "month": 2,
+      "label": "February 1997"
+    },
+    "source_present": true
+  },
+  "qofeb98.htm": {
+    "source": "qofeb98.htm",
+    "title": "Queen’s Own newsletter — February 1998",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1998/february/",
+    "content_file": "newsletters/1998/february.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1998/february/",
+    "aliases": [
+      "/qofeb98.htm",
+      "/qofeb98.htm/"
+    ],
+    "issue": {
+      "year": 1998,
+      "month": 2,
+      "label": "February 1998"
+    },
+    "source_present": true
+  },
+  "qofun.htm": {
+    "source": "qofun.htm",
+    "title": "Fun stuff",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/fun-stuff/",
+    "content_file": "community/fun-stuff.md",
+    "kind": "page",
+    "redirect_target": "/fun-stuff/",
+    "aliases": [
+      "/qofun.htm",
+      "/qofun.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qog.htm": {
+    "source": "qog.htm",
+    "title": "Guild handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/guild-handout/",
+    "content_file": "personas/guild-handout.md",
+    "kind": "page",
+    "redirect_target": "/guild-handout/",
+    "aliases": [
+      "/qog.htm",
+      "/qog.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qohandouts.htm": {
+    "source": "qohandouts.htm",
+    "title": "Persona handouts and submission instructions",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/persona-handouts/",
+    "content_file": "personas/persona-handouts.md",
+    "kind": "page",
+    "redirect_target": "/persona-handouts/",
+    "aliases": [
+      "/qohandouts.htm",
+      "/qohandouts.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qohe.htm": {
+    "source": "qohe.htm",
+    "title": "Healer handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/healer-handout/",
+    "content_file": "personas/healer-handout.md",
+    "kind": "page",
+    "redirect_target": "/healer-handout/",
+    "aliases": [
+      "/qohe.htm",
+      "/qohe.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qohh.htm": {
+    "source": "qohh.htm",
+    "title": "Herald handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/herald-handout/",
+    "content_file": "personas/herald-handout.md",
+    "kind": "page",
+    "redirect_target": "/herald-handout/",
+    "aliases": [
+      "/qohh.htm",
+      "/qohh.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qohm.htm": {
+    "source": "qohm.htm",
+    "title": "Herald-Mage handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/herald-mage-handout/",
+    "content_file": "personas/herald-mage-handout.md",
+    "kind": "page",
+    "redirect_target": "/herald-mage-handout/",
+    "aliases": [
+      "/qohm.htm",
+      "/qohm.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qojan01.htm": {
+    "source": "qojan01.htm",
+    "title": "Queen’s Own newsletter — January 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/january/",
+    "content_file": "newsletters/2001/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/january/",
+    "aliases": [
+      "/qojan01.htm",
+      "/qojan01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 1,
+      "label": "January 2001"
+    },
+    "source_present": true
+  },
+  "qojan02.htm": {
+    "source": "qojan02.htm",
+    "title": "Queen’s Own newsletter — January 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/january/",
+    "content_file": "newsletters/2002/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/january/",
+    "aliases": [
+      "/qojan02.htm",
+      "/qojan02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 1,
+      "label": "January 2002"
+    },
+    "source_present": true
+  },
+  "qojan03.htm": {
+    "source": "qojan03.htm",
+    "title": "Queen’s Own newsletter — January 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/january/",
+    "content_file": "newsletters/2003/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/january/",
+    "aliases": [
+      "/qojan03.htm",
+      "/qojan03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 1,
+      "label": "January 2003"
+    },
+    "source_present": true
+  },
+  "qojan04.htm": {
+    "source": "qojan04.htm",
+    "title": "Queen’s Own newsletter — January 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/january/",
+    "content_file": "newsletters/2004/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/january/",
+    "aliases": [
+      "/qojan04.htm",
+      "/qojan04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 1,
+      "label": "January 2004"
+    },
+    "source_present": true
+  },
+  "qojan05.htm": {
+    "source": "qojan05.htm",
+    "title": "Queen’s Own newsletter — January 2005",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2005/january/",
+    "content_file": "newsletters/2005/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2005/january/",
+    "aliases": [
+      "/qojan05.htm",
+      "/qojan05.htm/"
+    ],
+    "issue": {
+      "year": 2005,
+      "month": 1,
+      "label": "January 2005"
+    },
+    "source_present": true
+  },
+  "qojan89.htm": {
+    "source": "qojan89.htm",
+    "title": "Queen’s Own newsletter — January 1989",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1989/january/",
+    "content_file": "newsletters/1989/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1989/january/",
+    "aliases": [
+      "/qojan89.htm",
+      "/qojan89.htm/"
+    ],
+    "issue": {
+      "year": 1989,
+      "month": 1,
+      "label": "January 1989"
+    },
+    "source_present": true
+  },
+  "qojan90.htm": {
+    "source": "qojan90.htm",
+    "title": "Queen’s Own newsletter — January 1990",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1990/january/",
+    "content_file": "newsletters/1990/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1990/january/",
+    "aliases": [
+      "/qojan90.htm",
+      "/qojan90.htm/"
+    ],
+    "issue": {
+      "year": 1990,
+      "month": 1,
+      "label": "January 1990"
+    },
+    "source_present": true
+  },
+  "qojan91.htm": {
+    "source": "qojan91.htm",
+    "title": "Queen’s Own newsletter — January 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/january/",
+    "content_file": "newsletters/1991/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/january/",
+    "aliases": [
+      "/qojan91.htm",
+      "/qojan91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 1,
+      "label": "January 1991"
+    },
+    "source_present": true
+  },
+  "qojan92.htm": {
+    "source": "qojan92.htm",
+    "title": "Queen’s Own newsletter — January 1992",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1992/january/",
+    "content_file": "newsletters/1992/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1992/january/",
+    "aliases": [
+      "/qojan92.htm",
+      "/qojan92.htm/"
+    ],
+    "issue": {
+      "year": 1992,
+      "month": 1,
+      "label": "January 1992"
+    },
+    "source_present": true
+  },
+  "qojan93.htm": {
+    "source": "qojan93.htm",
+    "title": "Queen’s Own newsletter — January 1993",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1993/january/",
+    "content_file": "newsletters/1993/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1993/january/",
+    "aliases": [
+      "/qojan93.htm",
+      "/qojan93.htm/"
+    ],
+    "issue": {
+      "year": 1993,
+      "month": 1,
+      "label": "January 1993"
+    },
+    "source_present": true
+  },
+  "qojan94.htm": {
+    "source": "qojan94.htm",
+    "title": "Queen’s Own newsletter — January 1994",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1994/january/",
+    "content_file": "newsletters/1994/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1994/january/",
+    "aliases": [
+      "/qojan94.htm",
+      "/qojan94.htm/"
+    ],
+    "issue": {
+      "year": 1994,
+      "month": 1,
+      "label": "January 1994"
+    },
+    "source_present": true
+  },
+  "qojan95.htm": {
+    "source": "qojan95.htm",
+    "title": "Queen’s Own newsletter — January 1995",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1995/january/",
+    "content_file": "newsletters/1995/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1995/january/",
+    "aliases": [
+      "/qojan95.htm",
+      "/qojan95.htm/"
+    ],
+    "issue": {
+      "year": 1995,
+      "month": 1,
+      "label": "January 1995"
+    },
+    "source_present": true
+  },
+  "qojan96.htm": {
+    "source": "qojan96.htm",
+    "title": "Queen’s Own newsletter — January 1996",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1996/january/",
+    "content_file": "newsletters/1996/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1996/january/",
+    "aliases": [
+      "/qojan96.htm",
+      "/qojan96.htm/"
+    ],
+    "issue": {
+      "year": 1996,
+      "month": 1,
+      "label": "January 1996"
+    },
+    "source_present": true
+  },
+  "qojan97.htm": {
+    "source": "qojan97.htm",
+    "title": "Queen’s Own newsletter — January 1997",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1997/january/",
+    "content_file": "newsletters/1997/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1997/january/",
+    "aliases": [
+      "/qojan97.htm",
+      "/qojan97.htm/"
+    ],
+    "issue": {
+      "year": 1997,
+      "month": 1,
+      "label": "January 1997"
+    },
+    "source_present": true
+  },
+  "qojan98.htm": {
+    "source": "qojan98.htm",
+    "title": "Queen’s Own newsletter — January 1998",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1998/january/",
+    "content_file": "newsletters/1998/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1998/january/",
+    "aliases": [
+      "/qojan98.htm",
+      "/qojan98.htm/"
+    ],
+    "issue": {
+      "year": 1998,
+      "month": 1,
+      "label": "January 1998"
+    },
+    "source_present": true
+  },
+  "qojan99.htm": {
+    "source": "qojan99.htm",
+    "title": "Queen’s Own newsletter — January 1999",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1999/january/",
+    "content_file": "newsletters/1999/january.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1999/january/",
+    "aliases": [
+      "/qojan99.htm",
+      "/qojan99.htm/"
+    ],
+    "issue": {
+      "year": 1999,
+      "month": 1,
+      "label": "January 1999"
+    },
+    "source_present": true
+  },
+  "qojoin.htm": {
+    "source": "qojoin.htm",
+    "title": "How to join",
+    "topic": "membership",
+    "section": "membership",
+    "canonical_path": "/how-to-join/",
+    "content_file": "membership/how-to-join.md",
+    "kind": "page",
+    "redirect_target": "/how-to-join/",
+    "aliases": [
+      "/qojoin.htm",
+      "/qojoin.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qojournal.htm": {
+    "source": "qojournal.htm",
+    "title": "About The Compass Rose",
+    "topic": "publications",
+    "section": "compass-rose",
+    "canonical_path": "/compass-rose/about/",
+    "content_file": "compass-rose/about.md",
+    "kind": "page",
+    "redirect_target": "/compass-rose/about/",
+    "aliases": [
+      "/qojournal.htm",
+      "/qojournal.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qojul00.htm": {
+    "source": "qojul00.htm",
+    "title": "Queen’s Own newsletter — July 2000",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2000/july/",
+    "content_file": "newsletters/2000/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2000/july/",
+    "aliases": [
+      "/qojul00.htm",
+      "/qojul00.htm/"
+    ],
+    "issue": {
+      "year": 2000,
+      "month": 7,
+      "label": "July 2000"
+    },
+    "source_present": true
+  },
+  "qojul01.htm": {
+    "source": "qojul01.htm",
+    "title": "Queen’s Own newsletter — July 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/july/",
+    "content_file": "newsletters/2001/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/july/",
+    "aliases": [
+      "/qojul01.htm",
+      "/qojul01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 7,
+      "label": "July 2001"
+    },
+    "source_present": true
+  },
+  "qojul02.htm": {
+    "source": "qojul02.htm",
+    "title": "Queen’s Own newsletter — July 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/july/",
+    "content_file": "newsletters/2002/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/july/",
+    "aliases": [
+      "/qojul02.htm",
+      "/qojul02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 7,
+      "label": "July 2002"
+    },
+    "source_present": true
+  },
+  "qojul03.htm": {
+    "source": "qojul03.htm",
+    "title": "Queen’s Own newsletter — July 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/july/",
+    "content_file": "newsletters/2003/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/july/",
+    "aliases": [
+      "/qojul03.htm",
+      "/qojul03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 7,
+      "label": "July 2003"
+    },
+    "source_present": true
+  },
+  "qojul04.htm": {
+    "source": "qojul04.htm",
+    "title": "Queen’s Own newsletter — July 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/july/",
+    "content_file": "newsletters/2004/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/july/",
+    "aliases": [
+      "/qojul04.htm",
+      "/qojul04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 7,
+      "label": "July 2004"
+    },
+    "source_present": true
+  },
+  "qojul05.htm": {
+    "source": "qojul05.htm",
+    "title": "Queen’s Own newsletter — July 2005",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2005/july/",
+    "content_file": "newsletters/2005/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2005/july/",
+    "aliases": [
+      "/qojul05.htm",
+      "/qojul05.htm/"
+    ],
+    "issue": {
+      "year": 2005,
+      "month": 7,
+      "label": "July 2005"
+    },
+    "source_present": true
+  },
+  "qojul88.htm": {
+    "source": "qojul88.htm",
+    "title": "Queen’s Own newsletter — July 1988",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1988/july/",
+    "content_file": "newsletters/1988/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1988/july/",
+    "aliases": [
+      "/qojul88.htm",
+      "/qojul88.htm/"
+    ],
+    "issue": {
+      "year": 1988,
+      "month": 7,
+      "label": "July 1988"
+    },
+    "source_present": true
+  },
+  "qojul90.htm": {
+    "source": "qojul90.htm",
+    "title": "Queen’s Own newsletter — July 1990",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1990/july/",
+    "content_file": "newsletters/1990/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1990/july/",
+    "aliases": [
+      "/qojul90.htm",
+      "/qojul90.htm/"
+    ],
+    "issue": {
+      "year": 1990,
+      "month": 7,
+      "label": "July 1990"
+    },
+    "source_present": true
+  },
+  "qojul91.htm": {
+    "source": "qojul91.htm",
+    "title": "Queen’s Own newsletter — July 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/july/",
+    "content_file": "newsletters/1991/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/july/",
+    "aliases": [
+      "/qojul91.htm",
+      "/qojul91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 7,
+      "label": "July 1991"
+    },
+    "source_present": true
+  },
+  "qojul92.htm": {
+    "source": "qojul92.htm",
+    "title": "Queen’s Own newsletter — July 1992",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1992/july/",
+    "content_file": "newsletters/1992/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1992/july/",
+    "aliases": [
+      "/qojul92.htm",
+      "/qojul92.htm/"
+    ],
+    "issue": {
+      "year": 1992,
+      "month": 7,
+      "label": "July 1992"
+    },
+    "source_present": true
+  },
+  "qojul94.htm": {
+    "source": "qojul94.htm",
+    "title": "Queen’s Own newsletter — July 1994",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1994/july/",
+    "content_file": "newsletters/1994/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1994/july/",
+    "aliases": [
+      "/qojul94.htm",
+      "/qojul94.htm/"
+    ],
+    "issue": {
+      "year": 1994,
+      "month": 7,
+      "label": "July 1994"
+    },
+    "source_present": true
+  },
+  "qojul96.htm": {
+    "source": "qojul96.htm",
+    "title": "Queen’s Own newsletter — July 1996",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1996/july/",
+    "content_file": "newsletters/1996/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1996/july/",
+    "aliases": [
+      "/qojul96.htm",
+      "/qojul96.htm/"
+    ],
+    "issue": {
+      "year": 1996,
+      "month": 7,
+      "label": "July 1996"
+    },
+    "source_present": true
+  },
+  "qojul99.htm": {
+    "source": "qojul99.htm",
+    "title": "Queen’s Own newsletter — July 1999",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1999/july/",
+    "content_file": "newsletters/1999/july.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1999/july/",
+    "aliases": [
+      "/qojul99.htm",
+      "/qojul99.htm/"
+    ],
+    "issue": {
+      "year": 1999,
+      "month": 7,
+      "label": "July 1999"
+    },
+    "source_present": true
+  },
+  "qojun00.htm": {
+    "source": "qojun00.htm",
+    "title": "Queen’s Own newsletter — June 2000",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2000/june/",
+    "content_file": "newsletters/2000/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2000/june/",
+    "aliases": [
+      "/qojun00.htm",
+      "/qojun00.htm/"
+    ],
+    "issue": {
+      "year": 2000,
+      "month": 6,
+      "label": "June 2000"
+    },
+    "source_present": true
+  },
+  "qojun01.htm": {
+    "source": "qojun01.htm",
+    "title": "Queen’s Own newsletter — June 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/june/",
+    "content_file": "newsletters/2001/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/june/",
+    "aliases": [
+      "/qojun01.htm",
+      "/qojun01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 6,
+      "label": "June 2001"
+    },
+    "source_present": true
+  },
+  "qojun02.htm": {
+    "source": "qojun02.htm",
+    "title": "Queen’s Own newsletter — June 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/june/",
+    "content_file": "newsletters/2002/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/june/",
+    "aliases": [
+      "/qojun02.htm",
+      "/qojun02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 6,
+      "label": "June 2002"
+    },
+    "source_present": true
+  },
+  "qojun03.htm": {
+    "source": "qojun03.htm",
+    "title": "Queen’s Own newsletter — June 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/june/",
+    "content_file": "newsletters/2003/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/june/",
+    "aliases": [
+      "/qojun03.htm",
+      "/qojun03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 6,
+      "label": "June 2003"
+    },
+    "source_present": true
+  },
+  "qojun04.htm": {
+    "source": "qojun04.htm",
+    "title": "Queen’s Own newsletter — June 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/june/",
+    "content_file": "newsletters/2004/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/june/",
+    "aliases": [
+      "/qojun04.htm",
+      "/qojun04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 6,
+      "label": "June 2004"
+    },
+    "source_present": true
+  },
+  "qojun05.htm": {
+    "source": "qojun05.htm",
+    "title": "Queen’s Own newsletter — June 2005",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2005/june/",
+    "content_file": "newsletters/2005/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2005/june/",
+    "aliases": [
+      "/qojun05.htm",
+      "/qojun05.htm/"
+    ],
+    "issue": {
+      "year": 2005,
+      "month": 6,
+      "label": "June 2005"
+    },
+    "source_present": true
+  },
+  "qojun88.htm": {
+    "source": "qojun88.htm",
+    "title": "Queen’s Own newsletter — June 1988",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1988/june/",
+    "content_file": "newsletters/1988/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1988/june/",
+    "aliases": [
+      "/qojun88.htm",
+      "/qojun88.htm/"
+    ],
+    "issue": {
+      "year": 1988,
+      "month": 6,
+      "label": "June 1988"
+    },
+    "source_present": true
+  },
+  "qojun89.htm": {
+    "source": "qojun89.htm",
+    "title": "Queen’s Own newsletter — June 1989",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1989/june/",
+    "content_file": "newsletters/1989/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1989/june/",
+    "aliases": [
+      "/qojun89.htm",
+      "/qojun89.htm/"
+    ],
+    "issue": {
+      "year": 1989,
+      "month": 6,
+      "label": "June 1989"
+    },
+    "source_present": true
+  },
+  "qojun90.htm": {
+    "source": "qojun90.htm",
+    "title": "Queen’s Own newsletter — June 1990",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1990/june/",
+    "content_file": "newsletters/1990/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1990/june/",
+    "aliases": [
+      "/qojun90.htm",
+      "/qojun90.htm/"
+    ],
+    "issue": {
+      "year": 1990,
+      "month": 6,
+      "label": "June 1990"
+    },
+    "source_present": true
+  },
+  "qojun91.htm": {
+    "source": "qojun91.htm",
+    "title": "Queen’s Own newsletter — June 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/june/",
+    "content_file": "newsletters/1991/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/june/",
+    "aliases": [
+      "/qojun91.htm",
+      "/qojun91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 6,
+      "label": "June 1991"
+    },
+    "source_present": true
+  },
+  "qojun92.htm": {
+    "source": "qojun92.htm",
+    "title": "Queen’s Own newsletter — June 1992",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1992/june/",
+    "content_file": "newsletters/1992/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1992/june/",
+    "aliases": [
+      "/qojun92.htm",
+      "/qojun92.htm/"
+    ],
+    "issue": {
+      "year": 1992,
+      "month": 6,
+      "label": "June 1992"
+    },
+    "source_present": true
+  },
+  "qojun96.htm": {
+    "source": "qojun96.htm",
+    "title": "Queen’s Own newsletter — June 1996",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1996/june/",
+    "content_file": "newsletters/1996/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1996/june/",
+    "aliases": [
+      "/qojun96.htm",
+      "/qojun96.htm/"
+    ],
+    "issue": {
+      "year": 1996,
+      "month": 6,
+      "label": "June 1996"
+    },
+    "source_present": true
+  },
+  "qojun97.htm": {
+    "source": "qojun97.htm",
+    "title": "Queen’s Own newsletter — June 1997",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1997/june/",
+    "content_file": "newsletters/1997/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1997/june/",
+    "aliases": [
+      "/qojun97.htm",
+      "/qojun97.htm/"
+    ],
+    "issue": {
+      "year": 1997,
+      "month": 6,
+      "label": "June 1997"
+    },
+    "source_present": true
+  },
+  "qojun98.htm": {
+    "source": "qojun98.htm",
+    "title": "Queen’s Own newsletter — June 1998",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1998/june/",
+    "content_file": "newsletters/1998/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1998/june/",
+    "aliases": [
+      "/qojun98.htm",
+      "/qojun98.htm/"
+    ],
+    "issue": {
+      "year": 1998,
+      "month": 6,
+      "label": "June 1998"
+    },
+    "source_present": true
+  },
+  "qojun99.htm": {
+    "source": "qojun99.htm",
+    "title": "Queen’s Own newsletter — June 1999",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1999/june/",
+    "content_file": "newsletters/1999/june.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1999/june/",
+    "aliases": [
+      "/qojun99.htm",
+      "/qojun99.htm/"
+    ],
+    "issue": {
+      "year": 1999,
+      "month": 6,
+      "label": "June 1999"
+    },
+    "source_present": true
+  },
+  "qojust.htm": {
+    "source": "qojust.htm",
+    "title": "Velgarth reference guide",
+    "topic": "world",
+    "section": "world",
+    "canonical_path": "/world-reference-guide/",
+    "content_file": "world/world-reference-guide.md",
+    "kind": "page",
+    "redirect_target": "/world-reference-guide/",
+    "aliases": [
+      "/qojust.htm",
+      "/qojust.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qok.htm": {
+    "source": "qok.htm",
+    "title": "Kal’enedral handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/kalen-edral-handout/",
+    "content_file": "personas/kalen-edral-handout.md",
+    "kind": "page",
+    "redirect_target": "/kalen-edral-handout/",
+    "aliases": [
+      "/qok.htm",
+      "/qok.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qolinks.htm": {
+    "source": "qolinks.htm",
+    "title": "Mercedes Lackey links",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/mercedes-lackey-links/",
+    "content_file": "community/mercedes-lackey-links.md",
+    "kind": "page",
+    "redirect_target": "/mercedes-lackey-links/",
+    "aliases": [
+      "/qolinks.htm",
+      "/qolinks.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qolist.htm": {
+    "source": "qolist.htm",
+    "title": "Persona directory",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/persona-directory/",
+    "content_file": "personas/persona-directory.md",
+    "kind": "page",
+    "redirect_target": "/persona-directory/",
+    "aliases": [
+      "/qolist.htm",
+      "/qolist.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qom.htm": {
+    "source": "qom.htm",
+    "title": "Military handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/military-handout/",
+    "content_file": "personas/military-handout.md",
+    "kind": "page",
+    "redirect_target": "/military-handout/",
+    "aliases": [
+      "/qom.htm",
+      "/qom.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qomar01.htm": {
+    "source": "qomar01.htm",
+    "title": "Queen’s Own newsletter — March 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/march/",
+    "content_file": "newsletters/2001/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/march/",
+    "aliases": [
+      "/qomar01.htm",
+      "/qomar01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 3,
+      "label": "March 2001"
+    },
+    "source_present": true
+  },
+  "qomar02.htm": {
+    "source": "qomar02.htm",
+    "title": "Queen’s Own newsletter — March 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/march/",
+    "content_file": "newsletters/2002/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/march/",
+    "aliases": [
+      "/qomar02.htm",
+      "/qomar02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 3,
+      "label": "March 2002"
+    },
+    "source_present": true
+  },
+  "qomar03.htm": {
+    "source": "qomar03.htm",
+    "title": "Queen’s Own newsletter — March 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/march/",
+    "content_file": "newsletters/2003/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/march/",
+    "aliases": [
+      "/qomar03.htm",
+      "/qomar03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 3,
+      "label": "March 2003"
+    },
+    "source_present": true
+  },
+  "qomar04.htm": {
+    "source": "qomar04.htm",
+    "title": "Queen’s Own newsletter — March 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/march/",
+    "content_file": "newsletters/2004/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/march/",
+    "aliases": [
+      "/qomar04.htm",
+      "/qomar04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 3,
+      "label": "March 2004"
+    },
+    "source_present": true
+  },
+  "qomar05.htm": {
+    "source": "qomar05.htm",
+    "title": "Queen’s Own newsletter — March 2005",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2005/march/",
+    "content_file": "newsletters/2005/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2005/march/",
+    "aliases": [
+      "/qomar05.htm",
+      "/qomar05.htm/"
+    ],
+    "issue": {
+      "year": 2005,
+      "month": 3,
+      "label": "March 2005"
+    },
+    "source_present": true
+  },
+  "qomar89.htm": {
+    "source": "qomar89.htm",
+    "title": "Queen’s Own newsletter — March 1989",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1989/march/",
+    "content_file": "newsletters/1989/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1989/march/",
+    "aliases": [
+      "/qomar89.htm",
+      "/qomar89.htm/"
+    ],
+    "issue": {
+      "year": 1989,
+      "month": 3,
+      "label": "March 1989"
+    },
+    "source_present": true
+  },
+  "qomar90.htm": {
+    "source": "qomar90.htm",
+    "title": "Queen’s Own newsletter — March 1990",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1990/march/",
+    "content_file": "newsletters/1990/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1990/march/",
+    "aliases": [
+      "/qomar90.htm",
+      "/qomar90.htm/"
+    ],
+    "issue": {
+      "year": 1990,
+      "month": 3,
+      "label": "March 1990"
+    },
+    "source_present": true
+  },
+  "qomar91.htm": {
+    "source": "qomar91.htm",
+    "title": "Queen’s Own newsletter — March 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/march/",
+    "content_file": "newsletters/1991/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/march/",
+    "aliases": [
+      "/qomar91.htm",
+      "/qomar91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 3,
+      "label": "March 1991"
+    },
+    "source_present": true
+  },
+  "qomar94.htm": {
+    "source": "qomar94.htm",
+    "title": "Queen’s Own newsletter — March 1994",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1994/march/",
+    "content_file": "newsletters/1994/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1994/march/",
+    "aliases": [
+      "/qomar94.htm",
+      "/qomar94.htm/"
+    ],
+    "issue": {
+      "year": 1994,
+      "month": 3,
+      "label": "March 1994"
+    },
+    "source_present": true
+  },
+  "qomar95.htm": {
+    "source": "qomar95.htm",
+    "title": "Queen’s Own newsletter — March 1995",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1995/march/",
+    "content_file": "newsletters/1995/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1995/march/",
+    "aliases": [
+      "/qomar95.htm",
+      "/qomar95.htm/"
+    ],
+    "issue": {
+      "year": 1995,
+      "month": 3,
+      "label": "March 1995"
+    },
+    "source_present": true
+  },
+  "qomar96.htm": {
+    "source": "qomar96.htm",
+    "title": "Queen’s Own newsletter — March 1996",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1996/march/",
+    "content_file": "newsletters/1996/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1996/march/",
+    "aliases": [
+      "/qomar96.htm",
+      "/qomar96.htm/"
+    ],
+    "issue": {
+      "year": 1996,
+      "month": 3,
+      "label": "March 1996"
+    },
+    "source_present": true
+  },
+  "qomar99.htm": {
+    "source": "qomar99.htm",
+    "title": "Queen’s Own newsletter — March 1999",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1999/march/",
+    "content_file": "newsletters/1999/march.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1999/march/",
+    "aliases": [
+      "/qomar99.htm",
+      "/qomar99.htm/"
+    ],
+    "issue": {
+      "year": 1999,
+      "month": 3,
+      "label": "March 1999"
+    },
+    "source_present": true
+  },
+  "qomay00.htm": {
+    "source": "qomay00.htm",
+    "title": "Queen’s Own newsletter — May 2000",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2000/may/",
+    "content_file": "newsletters/2000/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2000/may/",
+    "aliases": [
+      "/qomay00.htm",
+      "/qomay00.htm/"
+    ],
+    "issue": {
+      "year": 2000,
+      "month": 5,
+      "label": "May 2000"
+    },
+    "source_present": true
+  },
+  "qomay01.htm": {
+    "source": "qomay01.htm",
+    "title": "Queen’s Own newsletter — May 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/may/",
+    "content_file": "newsletters/2001/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/may/",
+    "aliases": [
+      "/qomay01.htm",
+      "/qomay01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 5,
+      "label": "May 2001"
+    },
+    "source_present": true
+  },
+  "qomay02.htm": {
+    "source": "qomay02.htm",
+    "title": "Queen’s Own newsletter — May 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/may/",
+    "content_file": "newsletters/2002/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/may/",
+    "aliases": [
+      "/qomay02.htm",
+      "/qomay02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 5,
+      "label": "May 2002"
+    },
+    "source_present": true
+  },
+  "qomay03.htm": {
+    "source": "qomay03.htm",
+    "title": "Queen’s Own newsletter — May 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/may/",
+    "content_file": "newsletters/2003/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/may/",
+    "aliases": [
+      "/qomay03.htm",
+      "/qomay03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 5,
+      "label": "May 2003"
+    },
+    "source_present": true
+  },
+  "qomay04.htm": {
+    "source": "qomay04.htm",
+    "title": "Queen’s Own newsletter — May 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/may/",
+    "content_file": "newsletters/2004/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/may/",
+    "aliases": [
+      "/qomay04.htm",
+      "/qomay04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 5,
+      "label": "May 2004"
+    },
+    "source_present": true
+  },
+  "qomay05.htm": {
+    "source": "qomay05.htm",
+    "title": "Queen’s Own newsletter — May 2005",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2005/may/",
+    "content_file": "newsletters/2005/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2005/may/",
+    "aliases": [
+      "/qomay05.htm",
+      "/qomay05.htm/"
+    ],
+    "issue": {
+      "year": 2005,
+      "month": 5,
+      "label": "May 2005"
+    },
+    "source_present": true
+  },
+  "qomay88.htm": {
+    "source": "qomay88.htm",
+    "title": "Queen’s Own newsletter — May 1988",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1988/may/",
+    "content_file": "newsletters/1988/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1988/may/",
+    "aliases": [
+      "/qomay88.htm",
+      "/qomay88.htm/"
+    ],
+    "issue": {
+      "year": 1988,
+      "month": 5,
+      "label": "May 1988"
+    },
+    "source_present": true
+  },
+  "qomay89.htm": {
+    "source": "qomay89.htm",
+    "title": "Queen’s Own newsletter — May 1989",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1989/may/",
+    "content_file": "newsletters/1989/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1989/may/",
+    "aliases": [
+      "/qomay89.htm",
+      "/qomay89.htm/"
+    ],
+    "issue": {
+      "year": 1989,
+      "month": 5,
+      "label": "May 1989"
+    },
+    "source_present": true
+  },
+  "qomay91.htm": {
+    "source": "qomay91.htm",
+    "title": "Queen’s Own newsletter — May 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/may/",
+    "content_file": "newsletters/1991/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/may/",
+    "aliases": [
+      "/qomay91.htm",
+      "/qomay91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 5,
+      "label": "May 1991"
+    },
+    "source_present": true
+  },
+  "qomay92.htm": {
+    "source": "qomay92.htm",
+    "title": "Queen’s Own newsletter — May 1992",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1992/may/",
+    "content_file": "newsletters/1992/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1992/may/",
+    "aliases": [
+      "/qomay92.htm",
+      "/qomay92.htm/"
+    ],
+    "issue": {
+      "year": 1992,
+      "month": 5,
+      "label": "May 1992"
+    },
+    "source_present": true
+  },
+  "qomay94.htm": {
+    "source": "qomay94.htm",
+    "title": "Queen’s Own newsletter — May 1994",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1994/may/",
+    "content_file": "newsletters/1994/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1994/may/",
+    "aliases": [
+      "/qomay94.htm",
+      "/qomay94.htm/"
+    ],
+    "issue": {
+      "year": 1994,
+      "month": 5,
+      "label": "May 1994"
+    },
+    "source_present": true
+  },
+  "qomay95.htm": {
+    "source": "qomay95.htm",
+    "title": "Queen’s Own newsletter — May 1995",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1995/may/",
+    "content_file": "newsletters/1995/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1995/may/",
+    "aliases": [
+      "/qomay95.htm",
+      "/qomay95.htm/"
+    ],
+    "issue": {
+      "year": 1995,
+      "month": 5,
+      "label": "May 1995"
+    },
+    "source_present": true
+  },
+  "qomay97.htm": {
+    "source": "qomay97.htm",
+    "title": "Queen’s Own newsletter — May 1997",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1997/may/",
+    "content_file": "newsletters/1997/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1997/may/",
+    "aliases": [
+      "/qomay97.htm",
+      "/qomay97.htm/"
+    ],
+    "issue": {
+      "year": 1997,
+      "month": 5,
+      "label": "May 1997"
+    },
+    "source_present": true
+  },
+  "qomay98.htm": {
+    "source": "qomay98.htm",
+    "title": "Queen’s Own newsletter — May 1998",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1998/may/",
+    "content_file": "newsletters/1998/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1998/may/",
+    "aliases": [
+      "/qomay98.htm",
+      "/qomay98.htm/"
+    ],
+    "issue": {
+      "year": 1998,
+      "month": 5,
+      "label": "May 1998"
+    },
+    "source_present": true
+  },
+  "qomay99.htm": {
+    "source": "qomay99.htm",
+    "title": "Queen’s Own newsletter — May 1999",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1999/may/",
+    "content_file": "newsletters/1999/may.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1999/may/",
+    "aliases": [
+      "/qomay99.htm",
+      "/qomay99.htm/"
+    ],
+    "issue": {
+      "year": 1999,
+      "month": 5,
+      "label": "May 1999"
+    },
+    "source_present": true
+  },
+  "qomentor.htm": {
+    "source": "qomentor.htm",
+    "title": "Mentors",
+    "topic": "membership",
+    "section": "membership",
+    "canonical_path": "/mentors/",
+    "content_file": "membership/mentors.md",
+    "kind": "page",
+    "redirect_target": "/mentors/",
+    "aliases": [
+      "/qomentor.htm",
+      "/qomentor.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qomlrel2.htm": {
+    "source": "qomlrel2.htm",
+    "title": "Release form instructions",
+    "topic": "publications",
+    "section": "fan-fiction",
+    "canonical_path": "/release-form-instructions/",
+    "content_file": "fan-fiction/release-form-instructions.md",
+    "kind": "page",
+    "redirect_target": "/release-form-instructions/",
+    "aliases": [
+      "/qomlrel2.htm",
+      "/qomlrel2.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qonews.htm": {
+    "source": "qonews.htm",
+    "title": "Newsletter publication and submission guidance",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletter-guidance/",
+    "content_file": "newsletters/newsletter-guidance.md",
+    "kind": "page",
+    "redirect_target": "/newsletter-guidance/",
+    "aliases": [
+      "/qonews.htm",
+      "/qonews.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qonov00.htm": {
+    "source": "qonov00.htm",
+    "title": "Queen’s Own newsletter — November 2000",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2000/november/",
+    "content_file": "newsletters/2000/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2000/november/",
+    "aliases": [
+      "/qonov00.htm",
+      "/qonov00.htm/"
+    ],
+    "issue": {
+      "year": 2000,
+      "month": 11,
+      "label": "November 2000"
+    },
+    "source_present": true
+  },
+  "qonov01.htm": {
+    "source": "qonov01.htm",
+    "title": "Queen’s Own newsletter — November 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/november/",
+    "content_file": "newsletters/2001/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/november/",
+    "aliases": [
+      "/qonov01.htm",
+      "/qonov01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 11,
+      "label": "November 2001"
+    },
+    "source_present": true
+  },
+  "qonov02.htm": {
+    "source": "qonov02.htm",
+    "title": "Queen’s Own newsletter — November 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/november/",
+    "content_file": "newsletters/2002/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/november/",
+    "aliases": [
+      "/qonov02.htm",
+      "/qonov02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 11,
+      "label": "November 2002"
+    },
+    "source_present": true
+  },
+  "qonov03.htm": {
+    "source": "qonov03.htm",
+    "title": "Queen’s Own newsletter — November 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/november/",
+    "content_file": "newsletters/2003/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/november/",
+    "aliases": [
+      "/qonov03.htm",
+      "/qonov03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 11,
+      "label": "November 2003"
+    },
+    "source_present": true
+  },
+  "qonov04.htm": {
+    "source": "qonov04.htm",
+    "title": "Queen’s Own newsletter — November 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/november/",
+    "content_file": "newsletters/2004/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/november/",
+    "aliases": [
+      "/qonov04.htm",
+      "/qonov04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 11,
+      "label": "November 2004"
+    },
+    "source_present": true
+  },
+  "qonov88.htm": {
+    "source": "qonov88.htm",
+    "title": "Queen’s Own newsletter — November 1988",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1988/november/",
+    "content_file": "newsletters/1988/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1988/november/",
+    "aliases": [
+      "/qonov88.htm",
+      "/qonov88.htm/"
+    ],
+    "issue": {
+      "year": 1988,
+      "month": 11,
+      "label": "November 1988"
+    },
+    "source_present": true
+  },
+  "qonov89.htm": {
+    "source": "qonov89.htm",
+    "title": "Queen’s Own newsletter — November 1989",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1989/november/",
+    "content_file": "newsletters/1989/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1989/november/",
+    "aliases": [
+      "/qonov89.htm",
+      "/qonov89.htm/"
+    ],
+    "issue": {
+      "year": 1989,
+      "month": 11,
+      "label": "November 1989"
+    },
+    "source_present": true
+  },
+  "qonov91.htm": {
+    "source": "qonov91.htm",
+    "title": "Queen’s Own newsletter — November 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/november/",
+    "content_file": "newsletters/1991/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/november/",
+    "aliases": [
+      "/qonov91.htm",
+      "/qonov91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 11,
+      "label": "November 1991"
+    },
+    "source_present": true
+  },
+  "qonov94.htm": {
+    "source": "qonov94.htm",
+    "title": "Queen’s Own newsletter — November 1994",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1994/november/",
+    "content_file": "newsletters/1994/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1994/november/",
+    "aliases": [
+      "/qonov94.htm",
+      "/qonov94.htm/"
+    ],
+    "issue": {
+      "year": 1994,
+      "month": 11,
+      "label": "November 1994"
+    },
+    "source_present": true
+  },
+  "qonov96.htm": {
+    "source": "qonov96.htm",
+    "title": "Queen’s Own newsletter — November 1996",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1996/november/",
+    "content_file": "newsletters/1996/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1996/november/",
+    "aliases": [
+      "/qonov96.htm",
+      "/qonov96.htm/"
+    ],
+    "issue": {
+      "year": 1996,
+      "month": 11,
+      "label": "November 1996"
+    },
+    "source_present": true
+  },
+  "qonov98.htm": {
+    "source": "qonov98.htm",
+    "title": "Queen’s Own newsletter — November 1998",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1998/november/",
+    "content_file": "newsletters/1998/november.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1998/november/",
+    "aliases": [
+      "/qonov98.htm",
+      "/qonov98.htm/"
+    ],
+    "issue": {
+      "year": 1998,
+      "month": 11,
+      "label": "November 1998"
+    },
+    "source_present": false
+  },
+  "qonpc.htm": {
+    "source": "qonpc.htm",
+    "title": "Non-player character directory",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/npc-directory/",
+    "content_file": "personas/npc-directory.md",
+    "kind": "page",
+    "redirect_target": "/npc-directory/",
+    "aliases": [
+      "/qonpc.htm",
+      "/qonpc.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qooct00.htm": {
+    "source": "qooct00.htm",
+    "title": "Queen’s Own newsletter — October 2000",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2000/october/",
+    "content_file": "newsletters/2000/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2000/october/",
+    "aliases": [
+      "/qooct00.htm",
+      "/qooct00.htm/"
+    ],
+    "issue": {
+      "year": 2000,
+      "month": 10,
+      "label": "October 2000"
+    },
+    "source_present": true
+  },
+  "qooct01.htm": {
+    "source": "qooct01.htm",
+    "title": "Queen’s Own newsletter — October 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/october/",
+    "content_file": "newsletters/2001/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/october/",
+    "aliases": [
+      "/qooct01.htm",
+      "/qooct01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 10,
+      "label": "October 2001"
+    },
+    "source_present": true
+  },
+  "qooct02.htm": {
+    "source": "qooct02.htm",
+    "title": "Queen’s Own newsletter — October 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/october/",
+    "content_file": "newsletters/2002/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/october/",
+    "aliases": [
+      "/qooct02.htm",
+      "/qooct02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 10,
+      "label": "October 2002"
+    },
+    "source_present": true
+  },
+  "qooct03.htm": {
+    "source": "qooct03.htm",
+    "title": "Queen’s Own newsletter — October 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/october/",
+    "content_file": "newsletters/2003/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/october/",
+    "aliases": [
+      "/qooct03.htm",
+      "/qooct03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 10,
+      "label": "October 2003"
+    },
+    "source_present": true
+  },
+  "qooct04.htm": {
+    "source": "qooct04.htm",
+    "title": "Queen’s Own newsletter — October 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/october/",
+    "content_file": "newsletters/2004/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/october/",
+    "aliases": [
+      "/qooct04.htm",
+      "/qooct04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 10,
+      "label": "October 2004"
+    },
+    "source_present": true
+  },
+  "qooct88.htm": {
+    "source": "qooct88.htm",
+    "title": "Queen’s Own newsletter — October 1988",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1988/october/",
+    "content_file": "newsletters/1988/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1988/october/",
+    "aliases": [
+      "/qooct88.htm",
+      "/qooct88.htm/"
+    ],
+    "issue": {
+      "year": 1988,
+      "month": 10,
+      "label": "October 1988"
+    },
+    "source_present": true
+  },
+  "qooct89.htm": {
+    "source": "qooct89.htm",
+    "title": "Queen’s Own newsletter — October 1989",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1989/october/",
+    "content_file": "newsletters/1989/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1989/october/",
+    "aliases": [
+      "/qooct89.htm",
+      "/qooct89.htm/"
+    ],
+    "issue": {
+      "year": 1989,
+      "month": 10,
+      "label": "October 1989"
+    },
+    "source_present": true
+  },
+  "qooct90.htm": {
+    "source": "qooct90.htm",
+    "title": "Queen’s Own newsletter — October 1990",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1990/october/",
+    "content_file": "newsletters/1990/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1990/october/",
+    "aliases": [
+      "/qooct90.htm",
+      "/qooct90.htm/"
+    ],
+    "issue": {
+      "year": 1990,
+      "month": 10,
+      "label": "October 1990"
+    },
+    "source_present": true
+  },
+  "qooct91.htm": {
+    "source": "qooct91.htm",
+    "title": "Queen’s Own newsletter — October 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/october/",
+    "content_file": "newsletters/1991/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/october/",
+    "aliases": [
+      "/qooct91.htm",
+      "/qooct91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 10,
+      "label": "October 1991"
+    },
+    "source_present": true
+  },
+  "qooct92.htm": {
+    "source": "qooct92.htm",
+    "title": "Queen’s Own newsletter — October 1992",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1992/october/",
+    "content_file": "newsletters/1992/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1992/october/",
+    "aliases": [
+      "/qooct92.htm",
+      "/qooct92.htm/"
+    ],
+    "issue": {
+      "year": 1992,
+      "month": 10,
+      "label": "October 1992"
+    },
+    "source_present": true
+  },
+  "qooct94.htm": {
+    "source": "qooct94.htm",
+    "title": "Queen’s Own newsletter — October 1994",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1994/october/",
+    "content_file": "newsletters/1994/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1994/october/",
+    "aliases": [
+      "/qooct94.htm",
+      "/qooct94.htm/"
+    ],
+    "issue": {
+      "year": 1994,
+      "month": 10,
+      "label": "October 1994"
+    },
+    "source_present": true
+  },
+  "qooct97.htm": {
+    "source": "qooct97.htm",
+    "title": "Queen’s Own newsletter — October 1997",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1997/october/",
+    "content_file": "newsletters/1997/october.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1997/october/",
+    "aliases": [
+      "/qooct97.htm",
+      "/qooct97.htm/"
+    ],
+    "issue": {
+      "year": 1997,
+      "month": 10,
+      "label": "October 1997"
+    },
+    "source_present": true
+  },
+  "qorel.htm": {
+    "source": "qorel.htm",
+    "title": "Priest and priestess handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/priest-and-priestess-handout/",
+    "content_file": "personas/priest-and-priestess-handout.md",
+    "kind": "page",
+    "redirect_target": "/priest-and-priestess-handout/",
+    "aliases": [
+      "/qorel.htm",
+      "/qorel.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qoring.htm": {
+    "source": "qoring.htm",
+    "title": "Club webring",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/club-webring/",
+    "content_file": "community/club-webring.md",
+    "kind": "page",
+    "redirect_target": "/club-webring/",
+    "aliases": [
+      "/qoring.htm",
+      "/qoring.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qoring1.htm": {
+    "source": "qoring1.htm",
+    "title": "Webring code",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/webring-code/",
+    "content_file": "community/webring-code.md",
+    "kind": "page",
+    "redirect_target": "/webring-code/",
+    "aliases": [
+      "/qoring1.htm",
+      "/qoring1.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qorpg.htm": {
+    "source": "qorpg.htm",
+    "title": "Role-playing instructions",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/role-playing/",
+    "content_file": "community/role-playing.md",
+    "kind": "page",
+    "redirect_target": "/role-playing/",
+    "aliases": [
+      "/qorpg.htm",
+      "/qorpg.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qos.htm": {
+    "source": "qos.htm",
+    "title": "Shin’a’in handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/shina-in-handout/",
+    "content_file": "personas/shina-in-handout.md",
+    "kind": "page",
+    "redirect_target": "/shina-in-handout/",
+    "aliases": [
+      "/qos.htm",
+      "/qos.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qoseal.htm": {
+    "source": "qoseal.htm",
+    "title": "Queen’s Own seal",
+    "topic": "membership",
+    "section": "membership",
+    "canonical_path": "/club-seal/",
+    "content_file": "membership/club-seal.md",
+    "kind": "page",
+    "redirect_target": "/club-seal/",
+    "aliases": [
+      "/qoseal.htm",
+      "/qoseal.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qosep00.htm": {
+    "source": "qosep00.htm",
+    "title": "Queen’s Own newsletter — September 2000",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2000/september/",
+    "content_file": "newsletters/2000/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2000/september/",
+    "aliases": [
+      "/qosep00.htm",
+      "/qosep00.htm/"
+    ],
+    "issue": {
+      "year": 2000,
+      "month": 9,
+      "label": "September 2000"
+    },
+    "source_present": true
+  },
+  "qosep01.htm": {
+    "source": "qosep01.htm",
+    "title": "Queen’s Own newsletter — September 2001",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2001/september/",
+    "content_file": "newsletters/2001/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2001/september/",
+    "aliases": [
+      "/qosep01.htm",
+      "/qosep01.htm/"
+    ],
+    "issue": {
+      "year": 2001,
+      "month": 9,
+      "label": "September 2001"
+    },
+    "source_present": true
+  },
+  "qosep02.htm": {
+    "source": "qosep02.htm",
+    "title": "Queen’s Own newsletter — September 2002",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2002/september/",
+    "content_file": "newsletters/2002/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2002/september/",
+    "aliases": [
+      "/qosep02.htm",
+      "/qosep02.htm/"
+    ],
+    "issue": {
+      "year": 2002,
+      "month": 9,
+      "label": "September 2002"
+    },
+    "source_present": true
+  },
+  "qosep03.htm": {
+    "source": "qosep03.htm",
+    "title": "Queen’s Own newsletter — September 2003",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2003/september/",
+    "content_file": "newsletters/2003/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2003/september/",
+    "aliases": [
+      "/qosep03.htm",
+      "/qosep03.htm/"
+    ],
+    "issue": {
+      "year": 2003,
+      "month": 9,
+      "label": "September 2003"
+    },
+    "source_present": true
+  },
+  "qosep04.htm": {
+    "source": "qosep04.htm",
+    "title": "Queen’s Own newsletter — September 2004",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2004/september/",
+    "content_file": "newsletters/2004/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2004/september/",
+    "aliases": [
+      "/qosep04.htm",
+      "/qosep04.htm/"
+    ],
+    "issue": {
+      "year": 2004,
+      "month": 9,
+      "label": "September 2004"
+    },
+    "source_present": true
+  },
+  "qosep05.htm": {
+    "source": "qosep05.htm",
+    "title": "Queen’s Own newsletter — September 2005",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/2005/september/",
+    "content_file": "newsletters/2005/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/2005/september/",
+    "aliases": [
+      "/qosep05.htm",
+      "/qosep05.htm/"
+    ],
+    "issue": {
+      "year": 2005,
+      "month": 9,
+      "label": "September 2005"
+    },
+    "source_present": true
+  },
+  "qosep88.htm": {
+    "source": "qosep88.htm",
+    "title": "Queen’s Own newsletter — September 1988",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1988/september/",
+    "content_file": "newsletters/1988/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1988/september/",
+    "aliases": [
+      "/qosep88.htm",
+      "/qosep88.htm/"
+    ],
+    "issue": {
+      "year": 1988,
+      "month": 9,
+      "label": "September 1988"
+    },
+    "source_present": true
+  },
+  "qosep90.htm": {
+    "source": "qosep90.htm",
+    "title": "Queen’s Own newsletter — September 1990",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1990/september/",
+    "content_file": "newsletters/1990/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1990/september/",
+    "aliases": [
+      "/qosep90.htm",
+      "/qosep90.htm/"
+    ],
+    "issue": {
+      "year": 1990,
+      "month": 9,
+      "label": "September 1990"
+    },
+    "source_present": true
+  },
+  "qosep91.htm": {
+    "source": "qosep91.htm",
+    "title": "Queen’s Own newsletter — September 1991",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1991/september/",
+    "content_file": "newsletters/1991/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1991/september/",
+    "aliases": [
+      "/qosep91.htm",
+      "/qosep91.htm/"
+    ],
+    "issue": {
+      "year": 1991,
+      "month": 9,
+      "label": "September 1991"
+    },
+    "source_present": true
+  },
+  "qosep92.htm": {
+    "source": "qosep92.htm",
+    "title": "Queen’s Own newsletter — September 1992",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1992/september/",
+    "content_file": "newsletters/1992/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1992/september/",
+    "aliases": [
+      "/qosep92.htm",
+      "/qosep92.htm/"
+    ],
+    "issue": {
+      "year": 1992,
+      "month": 9,
+      "label": "September 1992"
+    },
+    "source_present": true
+  },
+  "qosep96.htm": {
+    "source": "qosep96.htm",
+    "title": "Queen’s Own newsletter — September 1996",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1996/september/",
+    "content_file": "newsletters/1996/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1996/september/",
+    "aliases": [
+      "/qosep96.htm",
+      "/qosep96.htm/"
+    ],
+    "issue": {
+      "year": 1996,
+      "month": 9,
+      "label": "September 1996"
+    },
+    "source_present": true
+  },
+  "qosep97.htm": {
+    "source": "qosep97.htm",
+    "title": "Queen’s Own newsletter — September 1997",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1997/september/",
+    "content_file": "newsletters/1997/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1997/september/",
+    "aliases": [
+      "/qosep97.htm",
+      "/qosep97.htm/"
+    ],
+    "issue": {
+      "year": 1997,
+      "month": 9,
+      "label": "September 1997"
+    },
+    "source_present": true
+  },
+  "qosep98.htm": {
+    "source": "qosep98.htm",
+    "title": "Queen’s Own newsletter — September 1998",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1998/september/",
+    "content_file": "newsletters/1998/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1998/september/",
+    "aliases": [
+      "/qosep98.htm",
+      "/qosep98.htm/"
+    ],
+    "issue": {
+      "year": 1998,
+      "month": 9,
+      "label": "September 1998"
+    },
+    "source_present": true
+  },
+  "qosep99.htm": {
+    "source": "qosep99.htm",
+    "title": "Queen’s Own newsletter — September 1999",
+    "topic": "publications",
+    "section": "newsletters",
+    "canonical_path": "/newsletters/1999/september/",
+    "content_file": "newsletters/1999/september.md",
+    "kind": "page",
+    "redirect_target": "/newsletters/1999/september/",
+    "aliases": [
+      "/qosep99.htm",
+      "/qosep99.htm/"
+    ],
+    "issue": {
+      "year": 1999,
+      "month": 9,
+      "label": "September 1999"
+    },
+    "source_present": true
+  },
+  "qot.htm": {
+    "source": "qot.htm",
+    "title": "Tayledras handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/tayledras-handout/",
+    "content_file": "personas/tayledras-handout.md",
+    "kind": "page",
+    "redirect_target": "/tayledras-handout/",
+    "aliases": [
+      "/qot.htm",
+      "/qot.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qoww.htm": {
+    "source": "qoww.htm",
+    "title": "Sorcerer and sorceress handout",
+    "topic": "personas",
+    "section": "personas",
+    "canonical_path": "/sorcerer-handout/",
+    "content_file": "personas/sorcerer-handout.md",
+    "kind": "page",
+    "redirect_target": "/sorcerer-handout/",
+    "aliases": [
+      "/qoww.htm",
+      "/qoww.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "qozine.htm": {
+    "source": "qozine.htm",
+    "title": "Children of Velgarth",
+    "topic": "publications",
+    "section": "fan-fiction",
+    "canonical_path": "/children-of-velgarth/",
+    "content_file": "fan-fiction/children-of-velgarth.md",
+    "kind": "page",
+    "redirect_target": "/children-of-velgarth/",
+    "aliases": [
+      "/qozine.htm",
+      "/qozine.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "recipes.htm": {
+    "source": "recipes.htm",
+    "title": "Herald Danya's Cookbook",
+    "topic": "community",
+    "section": "community",
+    "canonical_path": "/danyas-cookbook/",
+    "content_file": "community/danyas-cookbook.md",
+    "kind": "page",
+    "redirect_target": "/danyas-cookbook/",
+    "aliases": [
+      "/recipes.htm",
+      "/recipes.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "vfcchat.htm": {
+    "source": "vfcchat.htm",
+    "title": "Vanyel Fan Club--Chat List",
+    "topic": "community",
+    "section": "vanyel-fan-club",
+    "canonical_path": "/vanyel-fan-club/chat/",
+    "content_file": "vanyel-fan-club/chat.md",
+    "kind": "page",
+    "redirect_target": "/vanyel-fan-club/chat/",
+    "aliases": [
+      "/vfcchat.htm",
+      "/vfcchat.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "vfcgate.htm": {
+    "source": "vfcgate.htm",
+    "title": "Gate to Heralds' Haven",
+    "topic": "community",
+    "section": "vanyel-fan-club",
+    "canonical_path": "/vanyel-fan-club/heralds-haven-gate/",
+    "content_file": "vanyel-fan-club/heralds-haven-gate.md",
+    "kind": "page",
+    "redirect_target": "/vanyel-fan-club/heralds-haven-gate/",
+    "aliases": [
+      "/vfcgate.htm",
+      "/vfcgate.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "vfcgates.htm": {
+    "source": "vfcgates.htm",
+    "title": "Heralds' Haven",
+    "topic": "community",
+    "section": "vanyel-fan-club",
+    "canonical_path": "/vanyel-fan-club/heralds-haven/",
+    "content_file": "vanyel-fan-club/heralds-haven.md",
+    "kind": "page",
+    "redirect_target": "/vanyel-fan-club/heralds-haven/",
+    "aliases": [
+      "/vfcgates.htm",
+      "/vfcgates.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "vfcindex.htm": {
+    "source": "vfcindex.htm",
+    "title": "Vanyel Fan Club",
+    "topic": "community",
+    "section": "vanyel-fan-club",
+    "canonical_path": "/vanyel-fan-club/",
+    "content_file": "vanyel-fan-club/_index.md",
+    "kind": "section",
+    "redirect_target": "/vanyel-fan-club/",
+    "aliases": [
+      "/vfcindex.htm",
+      "/vfcindex.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "vfcjoin.htm": {
+    "source": "vfcjoin.htm",
+    "title": "Join the Vanyel Fan Club!",
+    "topic": "community",
+    "section": "vanyel-fan-club",
+    "canonical_path": "/vanyel-fan-club/join/",
+    "content_file": "vanyel-fan-club/join.md",
+    "kind": "page",
+    "redirect_target": "/vanyel-fan-club/join/",
+    "aliases": [
+      "/vfcjoin.htm",
+      "/vfcjoin.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "vfcnews.htm": {
+    "source": "vfcnews.htm",
+    "title": "The Valdemaran Herald",
+    "topic": "community",
+    "section": "vanyel-fan-club",
+    "canonical_path": "/vanyel-fan-club/newsletter/",
+    "content_file": "vanyel-fan-club/newsletter.md",
+    "kind": "page",
+    "redirect_target": "/vanyel-fan-club/newsletter/",
+    "aliases": [
+      "/vfcnews.htm",
+      "/vfcnews.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "vfcpres.htm": {
+    "source": "vfcpres.htm",
+    "title": "About the Vanyel Fan Club President",
+    "topic": "community",
+    "section": "vanyel-fan-club",
+    "canonical_path": "/vanyel-fan-club/president/",
+    "content_file": "vanyel-fan-club/president.md",
+    "kind": "page",
+    "redirect_target": "/vanyel-fan-club/president/",
+    "aliases": [
+      "/vfcpres.htm",
+      "/vfcpres.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  },
+  "vfcqa.htm": {
+    "source": "vfcqa.htm",
+    "title": "Vanyel Fan Club Q&A",
+    "topic": "community",
+    "section": "vanyel-fan-club",
+    "canonical_path": "/vanyel-fan-club/faq/",
+    "content_file": "vanyel-fan-club/faq.md",
+    "kind": "page",
+    "redirect_target": "/vanyel-fan-club/faq/",
+    "aliases": [
+      "/vfcqa.htm",
+      "/vfcqa.htm/"
+    ],
+    "issue": null,
+    "source_present": true
+  }
+}

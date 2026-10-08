@@ -60,8 +60,10 @@ def crawl(output):
                     continue
                 if url.netloc and url.netloc not in hosts | {pdf_host}:
                     continue
-                decoded = unquote(url.path)
+                decoded = unquote(url.path) or ('/' if url.netloc else '')
                 local = posixpath.normpath(decoded if decoded.startswith('/') else posixpath.join('/' + posixpath.dirname(page), decoded)) if decoded else '/' + page
+                if local.endswith('/index.html'):
+                    local = local.removesuffix('/index.html') or '/'
                 fragment = unquote(url.fragment)
                 suffix = Path(local).suffix.lower()
                 kind = 'pdf' if suffix == '.pdf' else 'page' if suffix in ('', '.htm', '.html') else 'asset'
@@ -88,6 +90,12 @@ def crawl(output):
                     destination = documents.get(disk.relative_to(output).as_posix())
                     if destination is None or not (destination.find(id=fragment) or destination.find('a', attrs={'name': fragment})):
                         record['status'] = 'missing_anchor'
+                if disk.is_file():
+                    destination = documents.get(disk.relative_to(output).as_posix())
+                    notice = destination.find(attrs={'data-missing-source': True}) if destination else None
+                    if notice and not fragment:
+                        record['status'] = 'unavailable_content'
+                        record['http_url'] = 'https://queensown.org' + notice['data-missing-source']
     return [records[key] for key in sorted(records)]
 
 

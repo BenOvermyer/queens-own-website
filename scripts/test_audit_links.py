@@ -71,6 +71,21 @@ class LinkAuditTests(unittest.TestCase):
         self.assertIsNotNone(soup.find('a', attrs={'name': 'teacher'}))
         self.assertEqual(len(soup.find_all(id='teach')), 1)
 
+    def test_absolute_site_root_is_not_the_current_document(self):
+        (self.root / 'public/missing').mkdir()
+        (self.root / 'public/missing/index.html').write_text('<a href="https://example.netlify.app">Home</a><article data-missing-source="/lost.htm">Unavailable</article>')
+        report = self.run_audit()
+        self.assertTrue(all(row['status'] == 'local_available' for row in report['targets']))
+
+    def test_placeholder_does_not_mark_missing_content_recovered(self):
+        (self.root / 'public/missing').mkdir()
+        (self.root / 'public/index.html').write_text('<a href="/missing/">Missing issue</a>')
+        (self.root / 'public/missing/index.html').write_text('<a href="#main">Skip</a><article id="main" data-missing-source="/lost.htm">Unavailable</article>')
+        (self.root / 'data/link-dispositions.json').write_text(json.dumps({'/missing': {'referring_pages': ['index.html'], 'resolution': 'pending_recovery'}}))
+        report = self.run_audit()
+        self.assertEqual(next(r for r in report['targets'] if r['target'] == '/missing')['status'], 'unavailable_content')
+        self.assertEqual(next(r for r in report['targets'] if r['target'] == '/missing#main')['status'], 'local_available')
+
 
 if __name__ == '__main__':
     unittest.main()

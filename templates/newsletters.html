@@ -1,0 +1,9 @@
+{% extends "section.html" %}
+{% block content %}
+{% include "breadcrumbs.html" %}
+<h1>{{ section.title }}</h1>
+{{ section.content | safe }}
+{% set catalog = load_data(path="data/publication-index.json") %}
+<h2>Browse by year</h2>
+<ul class="year-list">{% for year in catalog.years %}<li><a href="{{ get_url(path='newsletters/' ~ year.year ~ '/') }}">{{ year.year }}</a> <span class="item-note">({{ year.issues | length }} linked issues)</span></li>{% endfor %}</ul>
+{% endblock content %}

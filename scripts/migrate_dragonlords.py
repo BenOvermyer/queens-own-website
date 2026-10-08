@@ -104,6 +104,11 @@ def remove_shared_promotions(soup, page):
 
 
 def refresh_archive_links():
+    if (ROOT / 'data/site-routes.json').exists():
+        import organize_site
+        organize_site.ROOT = ROOT
+        organize_site.organize()
+        return
     archive = ROOT / 'content/archive.md'
     if not archive.exists():
         return
@@ -138,6 +143,8 @@ def migrate(source):
     previous_report = ROOT / 'data/dragonlords-migration-report.json'
     previous = json.loads(previous_report.read_text()) if previous_report.exists() else {}
     copied = set(previous.get('copied_assets', []))
+    site_routes_file = ROOT / 'data/site-routes.json'
+    site_routes = json.loads(site_routes_file.read_text()) if site_routes_file.exists() else {}
     missing = []
     aliases = {'sim1.htm': 'cr2sim1.htm', 'president.html': 'vfcpres.htm'}
 
@@ -233,7 +240,8 @@ def migrate(source):
                 value = '#' + value
             front += key + ' = ' + json.dumps(value) + '\n'
         front += '+++\n\n'
-        destination = ROOT / 'content' / ('imported-' + route.strip('/').replace('/', '--') + '.md')
+        destination = ROOT / 'content' / (site_routes[name]['content_file'] if name in site_routes else 'imported-' + route.strip('/').replace('/', '--') + '.md')
+        destination.parent.mkdir(parents=True, exist_ok=True)
         rendered = front + '<div class="original-page">\n' + body.decode_contents().strip() + '\n</div>\n'
         for old_name, new_route in selected.items():
             rendered = re.sub(r'https?://(?:www\.)?(?:dragonlords\.fans|dragonlordsnet\.com)/' + re.escape(old_name) + r'(?=[#?"\s<>]|$)', new_route, rendered)
@@ -243,14 +251,14 @@ def migrate(source):
     existing_pages = []
     local_links = 0
     for path in (ROOT / 'content').rglob('*.md'):
-        if path.name.startswith('imported-'):
+        if path.name.startswith('imported-') or 'source_site = "dragonlords.fans"' in path.read_text():
             continue
         text = path.read_text()
         updated = text
         for name, route in selected.items():
             updated, n = re.subn(r'https?://(?:www\.)?(?:dragonlords\.fans|dragonlordsnet\.com)/' + re.escape(name) + r'(?=[#?"\s<>]|$)', route, updated)
             count += n
-        if path.name == 'qochap.htm.md' and 'qogg.htm' in updated:
+        if ('legacy_source = "qochap.htm"' in updated or path.name == 'qochap.htm.md') and 'qogg.htm' in updated:
             front, html = updated.split('+++', 2)[1:]
             soup = BeautifulSoup(html, 'lxml')
             for a in soup.select('a[href]'):

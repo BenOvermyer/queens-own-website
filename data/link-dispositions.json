@@ -10,13 +10,13 @@
     },
     "classification": "placeholder_image",
     "referring_pages": [
-      "qoaug89.htm",
-      "qojan89.htm",
-      "qojun89.htm",
-      "qojun90.htm",
-      "qomay89.htm",
-      "qonov88.htm",
-      "qooct89.htm"
+      "newsletters/1988/november/index.html",
+      "newsletters/1989/august/index.html",
+      "newsletters/1989/january/index.html",
+      "newsletters/1989/june/index.html",
+      "newsletters/1989/may/index.html",
+      "newsletters/1989/october/index.html",
+      "newsletters/1990/june/index.html"
     ],
     "resolution": "historical_gap",
     "source_archive_present": false
@@ -32,9 +32,50 @@
     },
     "classification": "malformed_email",
     "referring_pages": [
-      "qolist.htm"
+      "persona-directory/index.html"
     ],
     "resolution": "historical_gap",
+    "source_archive_present": false
+  },
+  "/newsletters/1998/december": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "page",
+    "original_target": "/qodec98.htm",
+    "referring_pages": [
+      "archive/index.html",
+      "newsletter-guidance/index.html",
+      "newsletters/1998/index.html",
+      "npc-directory/index.html",
+      "persona-directory/index.html"
+    ],
+    "resolution": "pending_recovery",
+    "source_archive_present": false
+  },
+  "/newsletters/1998/november": {
+    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
+    "archive_index": {
+      "cutoff": "20260701",
+      "domain": "dragonlordsnet.com",
+      "exact_filename_indexed": false,
+      "indexed_resources": 2424,
+      "source": "../queens-own/cdx-index.json"
+    },
+    "classification": "page",
+    "original_target": "/qonov98.htm",
+    "referring_pages": [
+      "archive/index.html",
+      "newsletter-guidance/index.html",
+      "newsletters/1998/index.html",
+      "persona-directory/index.html"
+    ],
+    "resolution": "pending_recovery",
     "source_archive_present": false
   },
   "/qo231.jpg": {
@@ -48,7 +89,7 @@
     },
     "classification": "asset",
     "referring_pages": [
-      "qodec04.htm"
+      "newsletters/2004/december/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -64,42 +105,7 @@
     },
     "classification": "incorrect_resource_type",
     "referring_pages": [
-      "qosep96.htm"
-    ],
-    "resolution": "pending_recovery",
-    "source_archive_present": false
-  },
-  "/qodec98.htm": {
-    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
-    "archive_index": {
-      "cutoff": "20260701",
-      "domain": "dragonlordsnet.com",
-      "exact_filename_indexed": false,
-      "indexed_resources": 2424,
-      "source": "../queens-own/cdx-index.json"
-    },
-    "classification": "page",
-    "referring_pages": [
-      "qolist.htm",
-      "qonews.htm",
-      "qonpc.htm"
-    ],
-    "resolution": "pending_recovery",
-    "source_archive_present": false
-  },
-  "/qonov98.htm": {
-    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
-    "archive_index": {
-      "cutoff": "20260701",
-      "domain": "dragonlordsnet.com",
-      "exact_filename_indexed": false,
-      "indexed_resources": 2424,
-      "source": "../queens-own/cdx-index.json"
-    },
-    "classification": "page",
-    "referring_pages": [
-      "qolist.htm",
-      "qonews.htm"
+      "newsletters/1996/september/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -115,7 +121,7 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qofanfic.htm"
+      "fan-fiction/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -131,7 +137,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2019/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -147,7 +154,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2019/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -163,7 +171,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2022/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -179,7 +188,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2021/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -195,7 +205,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2021/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -211,7 +222,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2022/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -227,7 +239,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2008/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -243,7 +256,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2008/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -259,7 +273,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2015/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -275,7 +290,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2005/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -291,7 +307,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2008/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -307,7 +324,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2011/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -323,7 +341,7 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qofun.htm"
+      "fun-stuff/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -339,7 +357,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2008/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -355,7 +374,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2022/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -371,7 +391,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2008/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -387,7 +408,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2016/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -403,7 +425,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2018/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -419,7 +442,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2008/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -435,7 +459,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2016/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -451,7 +476,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2008/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -467,7 +493,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2008/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -483,7 +510,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2005/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -499,7 +527,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2015/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -515,7 +544,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2018/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false
@@ -531,7 +561,8 @@
     },
     "classification": "pdf",
     "referring_pages": [
-      "qonews.htm"
+      "newsletter-guidance/index.html",
+      "newsletters/2008/index.html"
     ],
     "resolution": "pending_recovery",
     "source_archive_present": false

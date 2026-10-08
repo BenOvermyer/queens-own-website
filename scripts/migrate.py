@@ -35,6 +35,8 @@ def migrate(source):
 
     routes_file = ROOT / 'data/dragonlords-route-map.json'
     routes = json.loads(routes_file.read_text()) if routes_file.exists() else {}
+    site_routes_file = ROOT / 'data/site-routes.json'
+    site_routes = json.loads(site_routes_file.read_text()) if site_routes_file.exists() else {}
 
     def rewrite(value, origin):
         parsed_route = urlsplit(value.strip())
@@ -72,6 +74,9 @@ def migrate(source):
 
     listing = []
     for name in pages:
+        # Preserve the editorial homepage; its source replacement is complete.
+        if name == "index.html":
+            continue
         soup = BeautifulSoup(files[name].read_bytes(), 'lxml')
         title = soup.title.get_text(' ', strip=True) if soup.title else Path(name).stem
         body = soup.body or soup
@@ -96,7 +101,7 @@ def migrate(source):
         # Raw HTML inside Zola Markdown preserves the hand-authored archive layout.
         converted = '<div class="original-page">\n' + html + '\n</div>\n'
         home = name == 'index.html'
-        target = ROOT / 'content' / ('_index.md' if home else name + '.md')
+        target = ROOT / 'content' / (site_routes[name]['content_file'] if name in site_routes else '_index.md' if home else name + '.md')
         target.parent.mkdir(parents=True, exist_ok=True)
         front = '+++\ntitle = ' + json.dumps(title, ensure_ascii=False) + '\n'
         if not home:
@@ -108,7 +113,8 @@ def migrate(source):
         target.write_text(front + converted)
         if not home:
             listing.append(f'- [{title.replace("[", "").replace("]", "")}](/{quote(name, safe="/")})')
-    (ROOT / 'content' / 'archive.md').write_text('+++\ntitle = "Website archive"\npath = "archive"\ntemplate = "page.html"\n+++\n\n# Website archive\n\nBrowse every preserved page. Publication dates and contact details are historical.\n\n' + '\n'.join(listing) + '\n')
+    if not site_routes:
+        (ROOT / 'content' / 'archive.md').write_text('+++\ntitle = "Website archive"\npath = "archive"\ntemplate = "page.html"\n+++\n\n# Website archive\n\nBrowse every preserved page. Publication dates and contact details are historical.\n\n' + '\n'.join(listing) + '\n')
     if routes:
         import migrate_dragonlords
         migrate_dragonlords.ROOT = ROOT
@@ -117,6 +123,10 @@ def migrate(source):
               'repaired_links': repairs, 'missing_local_links': missing}
     (ROOT / 'data' / 'migration-report.json').write_text(json.dumps(report, indent=2) + '\n')
     (ROOT / 'data' / 'pdf-manifest.json').write_text(json.dumps(pdfs, indent=2) + '\n')
+    if site_routes:
+        import organize_site
+        organize_site.ROOT = ROOT
+        organize_site.organize()
     print(f'Imported {len(pages)} pages; inventoried {len(pdfs)} PDFs; repaired {len(repairs)} links; {len(missing)} missing references.')
 
 

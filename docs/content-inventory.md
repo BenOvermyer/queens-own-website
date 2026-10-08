@@ -135,3 +135,13 @@ returning an error or HTML also fails the online audit.
 When a resource is recovered, remove its disposition and unavailable markup,
 record where it came from, rebuild, and rerun the online audit. Do not suppress a
 new audit failure by marking the resource recovered without checking it.
+
+## Canonical paths after site organization
+
+Issue #2 moved the preserved pages into native sections and replaced legacy filenames
+with descriptive URLs. Use `data/site-map.csv` or `docs/site-organization.md` to
+relate the original filenames in this recovery report to their current locations.
+November and December 1998 now have explicitly unavailable notice pages under
+`/newsletters/1998/`; they remain `unavailable_content`, not recovered newsletters.
+The other four non-PDF gaps and 27 missing PDFs retain their recovery dispositions.
+The complete archive and year indexes are registered referrers for those known gaps.

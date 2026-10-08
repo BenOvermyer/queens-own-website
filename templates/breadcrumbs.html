@@ -1,0 +1,7 @@
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="{{ get_url(path='/') }}">Home</a>
+  {% if page %}{% set item = page %}{% else %}{% set item = section %}{% endif %}
+  {% if item.extra.topic == "publications" %} / <a href="{{ get_url(path='publications/') }}">Publications</a>{% endif %}
+  {% if item.extra.topic == "community" %} / <a href="{{ get_url(path='community/') }}">Community</a>{% endif %}
+  {% for ancestor in item.ancestors %}{% if ancestor != "_index.md" %}{% if ancestor != "community/_index.md" or item.extra.topic != "community" %}{% set parent = get_section(path=ancestor) %} / <a href="{{ parent.permalink }}">{{ parent.title }}</a>{% endif %}{% endif %}{% endfor %}
+</nav>

@@ -1,0 +1,2872 @@
+{
+  "years": [
+    {
+      "year": 2024,
+      "issues": [
+        {
+          "filename": "qoWinter2024.pdf",
+          "title": "Winter",
+          "available": true,
+          "format": "PDF",
+          "year": 2024,
+          "month": 1,
+          "label": "Winter 2024"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "issues": [
+        {
+          "filename": "qoSpring2023.pdf",
+          "title": "Spring",
+          "available": true,
+          "format": "PDF",
+          "year": 2023,
+          "month": 3,
+          "label": "Spring 2023"
+        },
+        {
+          "filename": "qoSummer2023.pdf",
+          "title": "Summer",
+          "available": true,
+          "format": "PDF",
+          "year": 2023,
+          "month": 6,
+          "label": "Summer 2023"
+        },
+        {
+          "filename": "qoFall2023.pdf",
+          "title": "Fall",
+          "available": true,
+          "format": "PDF",
+          "year": 2023,
+          "month": 9,
+          "label": "Fall 2023"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "issues": [
+        {
+          "filename": "qojan2022.pdf",
+          "title": "January",
+          "available": false,
+          "format": "PDF",
+          "year": 2022,
+          "month": 1,
+          "label": "January 2022"
+        },
+        {
+          "filename": "qoFeb2022.pdf",
+          "title": "February",
+          "available": true,
+          "format": "PDF",
+          "year": 2022,
+          "month": 2,
+          "label": "February 2022"
+        },
+        {
+          "filename": "qoMarApr2022.pdf",
+          "title": "March-April",
+          "available": true,
+          "format": "PDF",
+          "year": 2022,
+          "month": 3,
+          "label": "March-April 2022"
+        },
+        {
+          "filename": "qoSpring2022.pdf",
+          "title": "Spring",
+          "available": false,
+          "format": "PDF",
+          "year": 2022,
+          "month": 3,
+          "label": "Spring 2022"
+        },
+        {
+          "filename": "qoFall2022.pdf",
+          "title": "Fall",
+          "available": false,
+          "format": "PDF",
+          "year": 2022,
+          "month": 9,
+          "label": "Fall 2022"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "issues": [
+        {
+          "filename": "qoJan2021.pdf",
+          "title": "January",
+          "available": false,
+          "format": "PDF",
+          "year": 2021,
+          "month": 1,
+          "label": "January 2021"
+        },
+        {
+          "filename": "qoFeb2021.pdf",
+          "title": "February",
+          "available": true,
+          "format": "PDF",
+          "year": 2021,
+          "month": 2,
+          "label": "February 2021"
+        },
+        {
+          "filename": "qoMar2021.pdf",
+          "title": "March",
+          "available": true,
+          "format": "PDF",
+          "year": 2021,
+          "month": 3,
+          "label": "March 2021"
+        },
+        {
+          "filename": "qoApr2021.pdf",
+          "title": "April",
+          "available": true,
+          "format": "PDF",
+          "year": 2021,
+          "month": 4,
+          "label": "April 2021"
+        },
+        {
+          "filename": "qoMay2021.pdf",
+          "title": "May",
+          "available": true,
+          "format": "PDF",
+          "year": 2021,
+          "month": 5,
+          "label": "May 2021"
+        },
+        {
+          "filename": "qoJune-July2021.pdf",
+          "title": "June-July",
+          "available": true,
+          "format": "PDF",
+          "year": 2021,
+          "month": 6,
+          "label": "June-July 2021"
+        },
+        {
+          "filename": "qoAugust2021.pdf",
+          "title": "August",
+          "available": true,
+          "format": "PDF",
+          "year": 2021,
+          "month": 8,
+          "label": "August 2021"
+        },
+        {
+          "filename": "qoSep2021.pdf",
+          "title": "September",
+          "available": false,
+          "format": "PDF",
+          "year": 2021,
+          "month": 9,
+          "label": "September 2021"
+        },
+        {
+          "filename": "qoNov2021.pdf",
+          "title": "November",
+          "available": true,
+          "format": "PDF",
+          "year": 2021,
+          "month": 11,
+          "label": "November 2021"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "issues": [
+        {
+          "filename": "qoJan2020.pdf",
+          "title": "January",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 1,
+          "label": "January 2020"
+        },
+        {
+          "filename": "qoFeb2020.pdf",
+          "title": "February",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 2,
+          "label": "February 2020"
+        },
+        {
+          "filename": "qoMar2020.pdf",
+          "title": "March",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 3,
+          "label": "March 2020"
+        },
+        {
+          "filename": "qoApril2020.pdf",
+          "title": "April",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 4,
+          "label": "April 2020"
+        },
+        {
+          "filename": "qoMay2020.pdf",
+          "title": "May",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 5,
+          "label": "May 2020"
+        },
+        {
+          "filename": "qoJune2020.pdf",
+          "title": "June",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 6,
+          "label": "June 2020"
+        },
+        {
+          "filename": "qoJuly2020.pdf",
+          "title": "July",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 7,
+          "label": "July 2020"
+        },
+        {
+          "filename": "qoAug2020.pdf",
+          "title": "August",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 8,
+          "label": "August 2020"
+        },
+        {
+          "filename": "qoOct2020.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 10,
+          "label": "October 2020"
+        },
+        {
+          "filename": "qoNov2020.pdf",
+          "title": "November",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 11,
+          "label": "November 2020"
+        },
+        {
+          "filename": "qoDec2020.pdf",
+          "title": "December",
+          "available": true,
+          "format": "PDF",
+          "year": 2020,
+          "month": 12,
+          "label": "December 2020"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "issues": [
+        {
+          "filename": "qoJan2019.pdf",
+          "title": "January",
+          "available": true,
+          "format": "PDF",
+          "year": 2019,
+          "month": 1,
+          "label": "January 2019"
+        },
+        {
+          "filename": "qoFeb2019.pdf",
+          "title": "February",
+          "available": true,
+          "format": "PDF",
+          "year": 2019,
+          "month": 2,
+          "label": "February 2019"
+        },
+        {
+          "filename": "qoMar2019.pdf",
+          "title": "March",
+          "available": true,
+          "format": "PDF",
+          "year": 2019,
+          "month": 3,
+          "label": "March 2019"
+        },
+        {
+          "filename": "qoApr-May2019.pdf",
+          "title": "April/May",
+          "available": false,
+          "format": "PDF",
+          "year": 2019,
+          "month": 4,
+          "label": "April/May 2019"
+        },
+        {
+          "filename": "qoJun-Jul2019.pdf",
+          "title": "June/July",
+          "available": true,
+          "format": "PDF",
+          "year": 2019,
+          "month": 6,
+          "label": "June/July 2019"
+        },
+        {
+          "filename": "qoAug-Sep2019.pdf",
+          "title": "August/September",
+          "available": false,
+          "format": "PDF",
+          "year": 2019,
+          "month": 8,
+          "label": "August/September 2019"
+        },
+        {
+          "filename": "qoNov2019.pdf",
+          "title": "November",
+          "available": true,
+          "format": "PDF",
+          "year": 2019,
+          "month": 11,
+          "label": "November 2019"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "issues": [
+        {
+          "filename": "qojan2018.pdf",
+          "title": "January",
+          "available": true,
+          "format": "PDF",
+          "year": 2018,
+          "month": 1,
+          "label": "January 2018"
+        },
+        {
+          "filename": "qoapr2018.pdf",
+          "title": "April",
+          "available": true,
+          "format": "PDF",
+          "year": 2018,
+          "month": 4,
+          "label": "April 2018"
+        },
+        {
+          "filename": "qojul2018.pdf",
+          "title": "July",
+          "available": false,
+          "format": "PDF",
+          "year": 2018,
+          "month": 7,
+          "label": "July 2018"
+        },
+        {
+          "filename": "qoaug2018.pdf",
+          "title": "August",
+          "available": true,
+          "format": "PDF",
+          "year": 2018,
+          "month": 8,
+          "label": "August 2018"
+        },
+        {
+          "filename": "qosep2018.pdf",
+          "title": "September",
+          "available": true,
+          "format": "PDF",
+          "year": 2018,
+          "month": 9,
+          "label": "September 2018"
+        },
+        {
+          "filename": "qooct2018.pdf",
+          "title": "October",
+          "available": false,
+          "format": "PDF",
+          "year": 2018,
+          "month": 10,
+          "label": "October 2018"
+        },
+        {
+          "filename": "qonovdec2018.pdf",
+          "title": "November/December",
+          "available": true,
+          "format": "PDF",
+          "year": 2018,
+          "month": 11,
+          "label": "November/December 2018"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "issues": [
+        {
+          "filename": "qojan2017.pdf",
+          "title": "January",
+          "available": true,
+          "format": "PDF",
+          "year": 2017,
+          "month": 1,
+          "label": "January 2017"
+        },
+        {
+          "filename": "qomar2017.pdf",
+          "title": "March",
+          "available": true,
+          "format": "PDF",
+          "year": 2017,
+          "month": 3,
+          "label": "March 2017"
+        },
+        {
+          "filename": "qomay2017.pdf",
+          "title": "May",
+          "available": true,
+          "format": "PDF",
+          "year": 2017,
+          "month": 5,
+          "label": "May 2017"
+        },
+        {
+          "filename": "qojul2017.pdf",
+          "title": "July",
+          "available": true,
+          "format": "PDF",
+          "year": 2017,
+          "month": 7,
+          "label": "July 2017"
+        },
+        {
+          "filename": "qooct2017.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2017,
+          "month": 10,
+          "label": "October 2017"
+        },
+        {
+          "filename": "qodec2017.pdf",
+          "title": "December",
+          "available": true,
+          "format": "PDF",
+          "year": 2017,
+          "month": 12,
+          "label": "December 2017"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "issues": [
+        {
+          "filename": "qojan2016.pdf",
+          "title": "January",
+          "available": true,
+          "format": "PDF",
+          "year": 2016,
+          "month": 1,
+          "label": "January 2016"
+        },
+        {
+          "filename": "qoFeb2016.pdf",
+          "title": "February",
+          "available": true,
+          "format": "PDF",
+          "year": 2016,
+          "month": 2,
+          "label": "February 2016"
+        },
+        {
+          "filename": "qomar2016.pdf",
+          "title": "March",
+          "available": true,
+          "format": "PDF",
+          "year": 2016,
+          "month": 3,
+          "label": "March 2016"
+        },
+        {
+          "filename": "qoapr2016.pdf",
+          "title": "April",
+          "available": true,
+          "format": "PDF",
+          "year": 2016,
+          "month": 4,
+          "label": "April 2016"
+        },
+        {
+          "filename": "qomay2016.pdf",
+          "title": "May",
+          "available": true,
+          "format": "PDF",
+          "year": 2016,
+          "month": 5,
+          "label": "May 2016"
+        },
+        {
+          "filename": "qojun2016.pdf",
+          "title": "June",
+          "available": false,
+          "format": "PDF",
+          "year": 2016,
+          "month": 6,
+          "label": "June 2016"
+        },
+        {
+          "filename": "qojul2016.pdf",
+          "title": "July",
+          "available": false,
+          "format": "PDF",
+          "year": 2016,
+          "month": 7,
+          "label": "July 2016"
+        },
+        {
+          "filename": "qoaug2016.pdf",
+          "title": "August",
+          "available": true,
+          "format": "PDF",
+          "year": 2016,
+          "month": 8,
+          "label": "August 2016"
+        },
+        {
+          "filename": "qosep2016.pdf",
+          "title": "September",
+          "available": true,
+          "format": "PDF",
+          "year": 2016,
+          "month": 9,
+          "label": "September 2016"
+        },
+        {
+          "filename": "qooctnov2016.pdf",
+          "title": "October/November",
+          "available": true,
+          "format": "PDF",
+          "year": 2016,
+          "month": 10,
+          "label": "October/November 2016"
+        },
+        {
+          "filename": "qodec2016.pdf",
+          "title": "December",
+          "available": true,
+          "format": "PDF",
+          "year": 2016,
+          "month": 12,
+          "label": "December 2016"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "issues": [
+        {
+          "filename": "qomay2015.pdf",
+          "title": "May",
+          "available": true,
+          "format": "PDF",
+          "year": 2015,
+          "month": 5,
+          "label": "May 2015"
+        },
+        {
+          "filename": "qojun2015.pdf",
+          "title": "June",
+          "available": true,
+          "format": "PDF",
+          "year": 2015,
+          "month": 6,
+          "label": "June 2015"
+        },
+        {
+          "filename": "qojul2015.pdf",
+          "title": "July",
+          "available": true,
+          "format": "PDF",
+          "year": 2015,
+          "month": 7,
+          "label": "July 2015"
+        },
+        {
+          "filename": "qoaug2015.pdf",
+          "title": "August",
+          "available": false,
+          "format": "PDF",
+          "year": 2015,
+          "month": 8,
+          "label": "August 2015"
+        },
+        {
+          "filename": "qosep2015.pdf",
+          "title": "September",
+          "available": true,
+          "format": "PDF",
+          "year": 2015,
+          "month": 9,
+          "label": "September 2015"
+        },
+        {
+          "filename": "qooct2015.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2015,
+          "month": 10,
+          "label": "October 2015"
+        },
+        {
+          "filename": "qonov2015.pdf",
+          "title": "November",
+          "available": false,
+          "format": "PDF",
+          "year": 2015,
+          "month": 11,
+          "label": "November 2015"
+        },
+        {
+          "filename": "qodec2015.pdf",
+          "title": "December",
+          "available": true,
+          "format": "PDF",
+          "year": 2015,
+          "month": 12,
+          "label": "December 2015"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "issues": [
+        {
+          "filename": "qooct2012.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2012,
+          "month": 10,
+          "label": "October 2012"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "issues": [
+        {
+          "filename": "qofeb2011.pdf",
+          "title": "February",
+          "available": false,
+          "format": "PDF",
+          "year": 2011,
+          "month": 2,
+          "label": "February 2011"
+        },
+        {
+          "filename": "qomar2011.pdf",
+          "title": "March",
+          "available": true,
+          "format": "PDF",
+          "year": 2011,
+          "month": 3,
+          "label": "March 2011"
+        },
+        {
+          "filename": "qoapraug2011.pdf",
+          "title": "April",
+          "available": true,
+          "format": "PDF",
+          "year": 2011,
+          "month": 4,
+          "label": "April 2011"
+        },
+        {
+          "filename": "qooct2011.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2011,
+          "month": 10,
+          "label": "October 2011"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "issues": [
+        {
+          "filename": "qojan2010.pdf",
+          "title": "January",
+          "available": true,
+          "format": "PDF",
+          "year": 2010,
+          "month": 1,
+          "label": "January 2010"
+        },
+        {
+          "filename": "qofeb2010.pdf",
+          "title": "February",
+          "available": true,
+          "format": "PDF",
+          "year": 2010,
+          "month": 2,
+          "label": "February 2010"
+        },
+        {
+          "filename": "qomar2010.pdf",
+          "title": "March",
+          "available": true,
+          "format": "PDF",
+          "year": 2010,
+          "month": 3,
+          "label": "March 2010"
+        },
+        {
+          "filename": "qoapr2010.pdf",
+          "title": "April",
+          "available": true,
+          "format": "PDF",
+          "year": 2010,
+          "month": 4,
+          "label": "April 2010"
+        },
+        {
+          "filename": "qomay2010.pdf",
+          "title": "May",
+          "available": true,
+          "format": "PDF",
+          "year": 2010,
+          "month": 5,
+          "label": "May 2010"
+        },
+        {
+          "filename": "qojun2010.pdf",
+          "title": "June",
+          "available": true,
+          "format": "PDF",
+          "year": 2010,
+          "month": 6,
+          "label": "June 2010"
+        },
+        {
+          "filename": "qojul2010.pdf",
+          "title": "July",
+          "available": true,
+          "format": "PDF",
+          "year": 2010,
+          "month": 7,
+          "label": "July 2010"
+        },
+        {
+          "filename": "qoaug2010.pdf",
+          "title": "August",
+          "available": true,
+          "format": "PDF",
+          "year": 2010,
+          "month": 8,
+          "label": "August 2010"
+        },
+        {
+          "filename": "qosep2010.pdf",
+          "title": "September",
+          "available": true,
+          "format": "PDF",
+          "year": 2010,
+          "month": 9,
+          "label": "September 2010"
+        },
+        {
+          "filename": "qooct2010.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2010,
+          "month": 10,
+          "label": "October 2010"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "issues": [
+        {
+          "filename": "qojan2009.pdf",
+          "title": "January",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 1,
+          "label": "January 2009"
+        },
+        {
+          "filename": "qofeb2009.pdf",
+          "title": "February",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 2,
+          "label": "February 2009"
+        },
+        {
+          "filename": "qomar2009.pdf",
+          "title": "March",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 3,
+          "label": "March 2009"
+        },
+        {
+          "filename": "qoapr2009.pdf",
+          "title": "April",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 4,
+          "label": "April 2009"
+        },
+        {
+          "filename": "qomay2009.pdf",
+          "title": "May",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 5,
+          "label": "May 2009"
+        },
+        {
+          "filename": "qojun2009.pdf",
+          "title": "June",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 6,
+          "label": "June 2009"
+        },
+        {
+          "filename": "qojul2009.pdf",
+          "title": "July",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 7,
+          "label": "July 2009"
+        },
+        {
+          "filename": "qoaug2009.pdf",
+          "title": "August",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 8,
+          "label": "August 2009"
+        },
+        {
+          "filename": "qosep2009.pdf",
+          "title": "September",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 9,
+          "label": "September 2009"
+        },
+        {
+          "filename": "qooct2009.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 10,
+          "label": "October 2009"
+        },
+        {
+          "filename": "qonov2009.pdf",
+          "title": "November",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 11,
+          "label": "November 2009"
+        },
+        {
+          "filename": "qodec2009.pdf",
+          "title": "December",
+          "available": true,
+          "format": "PDF",
+          "year": 2009,
+          "month": 12,
+          "label": "December 2009"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "issues": [
+        {
+          "filename": "qojan2008.pdf",
+          "title": "January",
+          "available": false,
+          "format": "PDF",
+          "year": 2008,
+          "month": 1,
+          "label": "January 2008"
+        },
+        {
+          "filename": "qofeb2008.pdf",
+          "title": "February",
+          "available": false,
+          "format": "PDF",
+          "year": 2008,
+          "month": 2,
+          "label": "February 2008"
+        },
+        {
+          "filename": "qomar2008.pdf",
+          "title": "March",
+          "available": false,
+          "format": "PDF",
+          "year": 2008,
+          "month": 3,
+          "label": "March 2008"
+        },
+        {
+          "filename": "qoapr2008.pdf",
+          "title": "April",
+          "available": false,
+          "format": "PDF",
+          "year": 2008,
+          "month": 4,
+          "label": "April 2008"
+        },
+        {
+          "filename": "qomay2008.pdf",
+          "title": "May",
+          "available": false,
+          "format": "PDF",
+          "year": 2008,
+          "month": 5,
+          "label": "May 2008"
+        },
+        {
+          "filename": "qojun2008.pdf",
+          "title": "June",
+          "available": false,
+          "format": "PDF",
+          "year": 2008,
+          "month": 6,
+          "label": "June 2008"
+        },
+        {
+          "filename": "qojul2008.pdf",
+          "title": "July",
+          "available": false,
+          "format": "PDF",
+          "year": 2008,
+          "month": 7,
+          "label": "July 2008"
+        },
+        {
+          "filename": "qoaug2008.pdf",
+          "title": "August",
+          "available": false,
+          "format": "PDF",
+          "year": 2008,
+          "month": 8,
+          "label": "August 2008"
+        },
+        {
+          "filename": "qosep2008.pdf",
+          "title": "September",
+          "available": false,
+          "format": "PDF",
+          "year": 2008,
+          "month": 9,
+          "label": "September 2008"
+        },
+        {
+          "filename": "qooct2008.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2008,
+          "month": 10,
+          "label": "October 2008"
+        },
+        {
+          "filename": "qonov2008.pdf",
+          "title": "November",
+          "available": true,
+          "format": "PDF",
+          "year": 2008,
+          "month": 11,
+          "label": "November 2008"
+        },
+        {
+          "filename": "qodec2008.pdf",
+          "title": "December",
+          "available": true,
+          "format": "PDF",
+          "year": 2008,
+          "month": 12,
+          "label": "December 2008"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "issues": [
+        {
+          "filename": "qojan2007.pdf",
+          "title": "January",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 1,
+          "label": "January 2007"
+        },
+        {
+          "filename": "qofeb2007.pdf",
+          "title": "February",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 2,
+          "label": "February 2007"
+        },
+        {
+          "filename": "qomar2007.pdf",
+          "title": "March",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 3,
+          "label": "March 2007"
+        },
+        {
+          "filename": "qoapr2007.pdf",
+          "title": "April",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 4,
+          "label": "April 2007"
+        },
+        {
+          "filename": "qomay2007.pdf",
+          "title": "May",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 5,
+          "label": "May 2007"
+        },
+        {
+          "filename": "qojun2007.pdf",
+          "title": "June",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 6,
+          "label": "June 2007"
+        },
+        {
+          "filename": "qojul2007.pdf",
+          "title": "July",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 7,
+          "label": "July 2007"
+        },
+        {
+          "filename": "qoaug2007.pdf",
+          "title": "August",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 8,
+          "label": "August 2007"
+        },
+        {
+          "filename": "qosep2007.pdf",
+          "title": "September",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 9,
+          "label": "September 2007"
+        },
+        {
+          "filename": "qooct2007.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 10,
+          "label": "October 2007"
+        },
+        {
+          "filename": "qonov2007.pdf",
+          "title": "November",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 11,
+          "label": "November 2007"
+        },
+        {
+          "filename": "qodec2007.pdf",
+          "title": "December",
+          "available": true,
+          "format": "PDF",
+          "year": 2007,
+          "month": 12,
+          "label": "December 2007"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "issues": [
+        {
+          "filename": "qojan2006.pdf",
+          "title": "January",
+          "available": true,
+          "format": "PDF",
+          "year": 2006,
+          "month": 1,
+          "label": "January 2006"
+        },
+        {
+          "filename": "qofeb2006.pdf",
+          "title": "February",
+          "available": true,
+          "format": "PDF",
+          "year": 2006,
+          "month": 2,
+          "label": "February 2006"
+        },
+        {
+          "filename": "qomar2006.pdf",
+          "title": "March",
+          "available": true,
+          "format": "PDF",
+          "year": 2006,
+          "month": 3,
+          "label": "March 2006"
+        },
+        {
+          "filename": "qoapr2006.pdf",
+          "title": "April",
+          "available": true,
+          "format": "PDF",
+          "year": 2006,
+          "month": 4,
+          "label": "April 2006"
+        },
+        {
+          "filename": "qomay2006.pdf",
+          "title": "May",
+          "available": true,
+          "format": "PDF",
+          "year": 2006,
+          "month": 5,
+          "label": "May 2006"
+        },
+        {
+          "filename": "qojul2006.pdf",
+          "title": "July",
+          "available": true,
+          "format": "PDF",
+          "year": 2006,
+          "month": 7,
+          "label": "July 2006"
+        },
+        {
+          "filename": "qosep2006.pdf",
+          "title": "September",
+          "available": true,
+          "format": "PDF",
+          "year": 2006,
+          "month": 9,
+          "label": "September 2006"
+        },
+        {
+          "filename": "qooct2006.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2006,
+          "month": 10,
+          "label": "October 2006"
+        },
+        {
+          "filename": "qonov2006.pdf",
+          "title": "November",
+          "available": true,
+          "format": "PDF",
+          "year": 2006,
+          "month": 11,
+          "label": "November 2006"
+        },
+        {
+          "filename": "qodec2006.pdf",
+          "title": "December",
+          "available": true,
+          "format": "PDF",
+          "year": 2006,
+          "month": 12,
+          "label": "December 2006"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "issues": [
+        {
+          "year": 2005,
+          "month": 1,
+          "label": "January 2005",
+          "path": "/newsletters/2005/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan05.htm"
+        },
+        {
+          "year": 2005,
+          "month": 2,
+          "label": "February 2005",
+          "path": "/newsletters/2005/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb05.htm"
+        },
+        {
+          "year": 2005,
+          "month": 3,
+          "label": "March 2005",
+          "path": "/newsletters/2005/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar05.htm"
+        },
+        {
+          "year": 2005,
+          "month": 4,
+          "label": "April 2005",
+          "path": "/newsletters/2005/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr05.htm"
+        },
+        {
+          "year": 2005,
+          "month": 5,
+          "label": "May 2005",
+          "path": "/newsletters/2005/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay05.htm"
+        },
+        {
+          "year": 2005,
+          "month": 6,
+          "label": "June 2005",
+          "path": "/newsletters/2005/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun05.htm"
+        },
+        {
+          "year": 2005,
+          "month": 7,
+          "label": "July 2005",
+          "path": "/newsletters/2005/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul05.htm"
+        },
+        {
+          "year": 2005,
+          "month": 8,
+          "label": "August 2005",
+          "path": "/newsletters/2005/august/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoaug05.htm"
+        },
+        {
+          "year": 2005,
+          "month": 9,
+          "label": "September 2005",
+          "path": "/newsletters/2005/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep05.htm"
+        },
+        {
+          "filename": "qooct2005.pdf",
+          "title": "October",
+          "available": true,
+          "format": "PDF",
+          "year": 2005,
+          "month": 10,
+          "label": "October 2005"
+        },
+        {
+          "filename": "qonov2005.pdf",
+          "title": "November",
+          "available": false,
+          "format": "PDF",
+          "year": 2005,
+          "month": 11,
+          "label": "November 2005"
+        },
+        {
+          "filename": "qodec2005.pdf",
+          "title": "December",
+          "available": false,
+          "format": "PDF",
+          "year": 2005,
+          "month": 12,
+          "label": "December 2005"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "issues": [
+        {
+          "year": 2004,
+          "month": 1,
+          "label": "January 2004",
+          "path": "/newsletters/2004/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 2,
+          "label": "February 2004",
+          "path": "/newsletters/2004/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 3,
+          "label": "March 2004",
+          "path": "/newsletters/2004/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 4,
+          "label": "April 2004",
+          "path": "/newsletters/2004/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 5,
+          "label": "May 2004",
+          "path": "/newsletters/2004/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 6,
+          "label": "June 2004",
+          "path": "/newsletters/2004/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 7,
+          "label": "July 2004",
+          "path": "/newsletters/2004/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 8,
+          "label": "August 2004",
+          "path": "/newsletters/2004/august/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoaug04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 9,
+          "label": "September 2004",
+          "path": "/newsletters/2004/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 10,
+          "label": "October 2004",
+          "path": "/newsletters/2004/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 11,
+          "label": "November 2004",
+          "path": "/newsletters/2004/november/",
+          "format": "HTML",
+          "available": true,
+          "source": "qonov04.htm"
+        },
+        {
+          "year": 2004,
+          "month": 12,
+          "label": "December 2004",
+          "path": "/newsletters/2004/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec04.htm"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "issues": [
+        {
+          "year": 2003,
+          "month": 1,
+          "label": "January 2003",
+          "path": "/newsletters/2003/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 2,
+          "label": "February 2003",
+          "path": "/newsletters/2003/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 3,
+          "label": "March 2003",
+          "path": "/newsletters/2003/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 4,
+          "label": "April 2003",
+          "path": "/newsletters/2003/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 5,
+          "label": "May 2003",
+          "path": "/newsletters/2003/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 6,
+          "label": "June 2003",
+          "path": "/newsletters/2003/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 7,
+          "label": "July 2003",
+          "path": "/newsletters/2003/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 8,
+          "label": "August 2003",
+          "path": "/newsletters/2003/august/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoaug03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 9,
+          "label": "September 2003",
+          "path": "/newsletters/2003/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 10,
+          "label": "October 2003",
+          "path": "/newsletters/2003/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 11,
+          "label": "November 2003",
+          "path": "/newsletters/2003/november/",
+          "format": "HTML",
+          "available": true,
+          "source": "qonov03.htm"
+        },
+        {
+          "year": 2003,
+          "month": 12,
+          "label": "December 2003",
+          "path": "/newsletters/2003/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec03.htm"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "issues": [
+        {
+          "year": 2002,
+          "month": 1,
+          "label": "January 2002",
+          "path": "/newsletters/2002/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 2,
+          "label": "February 2002",
+          "path": "/newsletters/2002/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 3,
+          "label": "March 2002",
+          "path": "/newsletters/2002/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 4,
+          "label": "April 2002",
+          "path": "/newsletters/2002/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 5,
+          "label": "May 2002",
+          "path": "/newsletters/2002/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 6,
+          "label": "June 2002",
+          "path": "/newsletters/2002/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 7,
+          "label": "July 2002",
+          "path": "/newsletters/2002/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 8,
+          "label": "August 2002",
+          "path": "/newsletters/2002/august/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoaug02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 9,
+          "label": "September 2002",
+          "path": "/newsletters/2002/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 10,
+          "label": "October 2002",
+          "path": "/newsletters/2002/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 11,
+          "label": "November 2002",
+          "path": "/newsletters/2002/november/",
+          "format": "HTML",
+          "available": true,
+          "source": "qonov02.htm"
+        },
+        {
+          "year": 2002,
+          "month": 12,
+          "label": "December 2002",
+          "path": "/newsletters/2002/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec02.htm"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "issues": [
+        {
+          "year": 2001,
+          "month": 1,
+          "label": "January 2001",
+          "path": "/newsletters/2001/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 2,
+          "label": "February 2001",
+          "path": "/newsletters/2001/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 3,
+          "label": "March 2001",
+          "path": "/newsletters/2001/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 4,
+          "label": "April 2001",
+          "path": "/newsletters/2001/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 5,
+          "label": "May 2001",
+          "path": "/newsletters/2001/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 6,
+          "label": "June 2001",
+          "path": "/newsletters/2001/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 7,
+          "label": "July 2001",
+          "path": "/newsletters/2001/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 8,
+          "label": "August 2001",
+          "path": "/newsletters/2001/august/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoaug01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 9,
+          "label": "September 2001",
+          "path": "/newsletters/2001/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 10,
+          "label": "October 2001",
+          "path": "/newsletters/2001/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 11,
+          "label": "November 2001",
+          "path": "/newsletters/2001/november/",
+          "format": "HTML",
+          "available": true,
+          "source": "qonov01.htm"
+        },
+        {
+          "year": 2001,
+          "month": 12,
+          "label": "December 2001",
+          "path": "/newsletters/2001/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec01.htm"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "issues": [
+        {
+          "year": 2000,
+          "month": 5,
+          "label": "May 2000",
+          "path": "/newsletters/2000/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay00.htm"
+        },
+        {
+          "year": 2000,
+          "month": 6,
+          "label": "June 2000",
+          "path": "/newsletters/2000/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun00.htm"
+        },
+        {
+          "year": 2000,
+          "month": 7,
+          "label": "July 2000",
+          "path": "/newsletters/2000/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul00.htm"
+        },
+        {
+          "year": 2000,
+          "month": 8,
+          "label": "August 2000",
+          "path": "/newsletters/2000/august/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoaug00.htm"
+        },
+        {
+          "year": 2000,
+          "month": 9,
+          "label": "September 2000",
+          "path": "/newsletters/2000/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep00.htm"
+        },
+        {
+          "year": 2000,
+          "month": 10,
+          "label": "October 2000",
+          "path": "/newsletters/2000/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct00.htm"
+        },
+        {
+          "year": 2000,
+          "month": 11,
+          "label": "November 2000",
+          "path": "/newsletters/2000/november/",
+          "format": "HTML",
+          "available": true,
+          "source": "qonov00.htm"
+        },
+        {
+          "year": 2000,
+          "month": 12,
+          "label": "December 2000",
+          "path": "/newsletters/2000/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec00.htm"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "issues": [
+        {
+          "year": 1999,
+          "month": 1,
+          "label": "January 1999",
+          "path": "/newsletters/1999/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan99.htm"
+        },
+        {
+          "year": 1999,
+          "month": 3,
+          "label": "March 1999",
+          "path": "/newsletters/1999/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar99.htm"
+        },
+        {
+          "year": 1999,
+          "month": 5,
+          "label": "May 1999",
+          "path": "/newsletters/1999/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay99.htm"
+        },
+        {
+          "year": 1999,
+          "month": 6,
+          "label": "June 1999",
+          "path": "/newsletters/1999/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun99.htm"
+        },
+        {
+          "year": 1999,
+          "month": 7,
+          "label": "July 1999",
+          "path": "/newsletters/1999/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul99.htm"
+        },
+        {
+          "year": 1999,
+          "month": 9,
+          "label": "September 1999",
+          "path": "/newsletters/1999/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep99.htm"
+        },
+        {
+          "year": 1999,
+          "month": 12,
+          "label": "December 1999",
+          "path": "/newsletters/1999/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec99.htm"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "issues": [
+        {
+          "year": 1998,
+          "month": 1,
+          "label": "January 1998",
+          "path": "/newsletters/1998/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan98.htm"
+        },
+        {
+          "year": 1998,
+          "month": 2,
+          "label": "February 1998",
+          "path": "/newsletters/1998/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb98.htm"
+        },
+        {
+          "year": 1998,
+          "month": 4,
+          "label": "April 1998",
+          "path": "/newsletters/1998/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr98.htm"
+        },
+        {
+          "year": 1998,
+          "month": 5,
+          "label": "May 1998",
+          "path": "/newsletters/1998/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay98.htm"
+        },
+        {
+          "year": 1998,
+          "month": 6,
+          "label": "June 1998",
+          "path": "/newsletters/1998/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun98.htm"
+        },
+        {
+          "year": 1998,
+          "month": 8,
+          "label": "August 1998",
+          "path": "/newsletters/1998/august/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoaug98.htm"
+        },
+        {
+          "year": 1998,
+          "month": 9,
+          "label": "September 1998",
+          "path": "/newsletters/1998/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep98.htm"
+        },
+        {
+          "year": 1998,
+          "month": 11,
+          "label": "November 1998",
+          "path": "/newsletters/1998/november/",
+          "format": "HTML",
+          "available": false,
+          "source": "qonov98.htm"
+        },
+        {
+          "year": 1998,
+          "month": 12,
+          "label": "December 1998",
+          "path": "/newsletters/1998/december/",
+          "format": "HTML",
+          "available": false,
+          "source": "qodec98.htm"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "issues": [
+        {
+          "year": 1997,
+          "month": 1,
+          "label": "January 1997",
+          "path": "/newsletters/1997/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan97.htm"
+        },
+        {
+          "year": 1997,
+          "month": 2,
+          "label": "February 1997",
+          "path": "/newsletters/1997/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb97.htm"
+        },
+        {
+          "year": 1997,
+          "month": 4,
+          "label": "April 1997",
+          "path": "/newsletters/1997/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr97.htm"
+        },
+        {
+          "year": 1997,
+          "month": 5,
+          "label": "May 1997",
+          "path": "/newsletters/1997/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay97.htm"
+        },
+        {
+          "year": 1997,
+          "month": 6,
+          "label": "June 1997",
+          "path": "/newsletters/1997/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun97.htm"
+        },
+        {
+          "year": 1997,
+          "month": 8,
+          "label": "August 1997",
+          "path": "/newsletters/1997/august/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoaug97.htm"
+        },
+        {
+          "year": 1997,
+          "month": 9,
+          "label": "September 1997",
+          "path": "/newsletters/1997/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep97.htm"
+        },
+        {
+          "year": 1997,
+          "month": 10,
+          "label": "October 1997",
+          "path": "/newsletters/1997/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct97.htm"
+        },
+        {
+          "year": 1997,
+          "month": 12,
+          "label": "December 1997",
+          "path": "/newsletters/1997/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec97.htm"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "issues": [
+        {
+          "year": 1996,
+          "month": 1,
+          "label": "January 1996",
+          "path": "/newsletters/1996/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan96.htm"
+        },
+        {
+          "year": 1996,
+          "month": 3,
+          "label": "March 1996",
+          "path": "/newsletters/1996/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar96.htm"
+        },
+        {
+          "year": 1996,
+          "month": 4,
+          "label": "April 1996",
+          "path": "/newsletters/1996/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr96.htm"
+        },
+        {
+          "year": 1996,
+          "month": 6,
+          "label": "June 1996",
+          "path": "/newsletters/1996/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun96.htm"
+        },
+        {
+          "year": 1996,
+          "month": 7,
+          "label": "July 1996",
+          "path": "/newsletters/1996/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul96.htm"
+        },
+        {
+          "year": 1996,
+          "month": 8,
+          "label": "August 1996",
+          "path": "/newsletters/1996/august/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoaug96.htm"
+        },
+        {
+          "year": 1996,
+          "month": 9,
+          "label": "September 1996",
+          "path": "/newsletters/1996/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep96.htm"
+        },
+        {
+          "year": 1996,
+          "month": 11,
+          "label": "November 1996",
+          "path": "/newsletters/1996/november/",
+          "format": "HTML",
+          "available": true,
+          "source": "qonov96.htm"
+        },
+        {
+          "year": 1996,
+          "month": 12,
+          "label": "December 1996",
+          "path": "/newsletters/1996/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec96.htm"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "issues": [
+        {
+          "year": 1995,
+          "month": 1,
+          "label": "January 1995",
+          "path": "/newsletters/1995/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan95.htm"
+        },
+        {
+          "year": 1995,
+          "month": 2,
+          "label": "February 1995",
+          "path": "/newsletters/1995/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb95.htm"
+        },
+        {
+          "year": 1995,
+          "month": 3,
+          "label": "March 1995",
+          "path": "/newsletters/1995/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar95.htm"
+        },
+        {
+          "year": 1995,
+          "month": 5,
+          "label": "May 1995",
+          "path": "/newsletters/1995/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay95.htm"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "issues": [
+        {
+          "year": 1994,
+          "month": 1,
+          "label": "January 1994",
+          "path": "/newsletters/1994/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan94.htm"
+        },
+        {
+          "year": 1994,
+          "month": 2,
+          "label": "February 1994",
+          "path": "/newsletters/1994/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb94.htm"
+        },
+        {
+          "year": 1994,
+          "month": 3,
+          "label": "March 1994",
+          "path": "/newsletters/1994/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar94.htm"
+        },
+        {
+          "year": 1994,
+          "month": 5,
+          "label": "May 1994",
+          "path": "/newsletters/1994/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay94.htm"
+        },
+        {
+          "year": 1994,
+          "month": 7,
+          "label": "July 1994",
+          "path": "/newsletters/1994/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul94.htm"
+        },
+        {
+          "year": 1994,
+          "month": 10,
+          "label": "October 1994",
+          "path": "/newsletters/1994/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct94.htm"
+        },
+        {
+          "year": 1994,
+          "month": 11,
+          "label": "November 1994",
+          "path": "/newsletters/1994/november/",
+          "format": "HTML",
+          "available": true,
+          "source": "qonov94.htm"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "issues": [
+        {
+          "year": 1993,
+          "month": 1,
+          "label": "January 1993",
+          "path": "/newsletters/1993/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan93.htm"
+        },
+        {
+          "year": 1993,
+          "month": 2,
+          "label": "February 1993",
+          "path": "/newsletters/1993/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb93.htm"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "issues": [
+        {
+          "year": 1992,
+          "month": 1,
+          "label": "January 1992",
+          "path": "/newsletters/1992/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan92.htm"
+        },
+        {
+          "year": 1992,
+          "month": 2,
+          "label": "February 1992",
+          "path": "/newsletters/1992/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb92.htm"
+        },
+        {
+          "year": 1992,
+          "month": 4,
+          "label": "April 1992",
+          "path": "/newsletters/1992/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr92.htm"
+        },
+        {
+          "year": 1992,
+          "month": 5,
+          "label": "May 1992",
+          "path": "/newsletters/1992/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay92.htm"
+        },
+        {
+          "year": 1992,
+          "month": 6,
+          "label": "June 1992",
+          "path": "/newsletters/1992/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun92.htm"
+        },
+        {
+          "year": 1992,
+          "month": 7,
+          "label": "July 1992",
+          "path": "/newsletters/1992/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul92.htm"
+        },
+        {
+          "year": 1992,
+          "month": 9,
+          "label": "September 1992",
+          "path": "/newsletters/1992/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep92.htm"
+        },
+        {
+          "year": 1992,
+          "month": 10,
+          "label": "October 1992",
+          "path": "/newsletters/1992/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct92.htm"
+        },
+        {
+          "year": 1992,
+          "month": 12,
+          "label": "December 1992",
+          "path": "/newsletters/1992/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec92.htm"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "issues": [
+        {
+          "year": 1991,
+          "month": 1,
+          "label": "January 1991",
+          "path": "/newsletters/1991/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan91.htm"
+        },
+        {
+          "year": 1991,
+          "month": 2,
+          "label": "February 1991",
+          "path": "/newsletters/1991/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb91.htm"
+        },
+        {
+          "year": 1991,
+          "month": 3,
+          "label": "March 1991",
+          "path": "/newsletters/1991/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar91.htm"
+        },
+        {
+          "year": 1991,
+          "month": 4,
+          "label": "April 1991",
+          "path": "/newsletters/1991/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr91.htm"
+        },
+        {
+          "year": 1991,
+          "month": 5,
+          "label": "May 1991",
+          "path": "/newsletters/1991/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay91.htm"
+        },
+        {
+          "year": 1991,
+          "month": 6,
+          "label": "June 1991",
+          "path": "/newsletters/1991/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun91.htm"
+        },
+        {
+          "year": 1991,
+          "month": 7,
+          "label": "July 1991",
+          "path": "/newsletters/1991/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul91.htm"
+        },
+        {
+          "year": 1991,
+          "month": 9,
+          "label": "September 1991",
+          "path": "/newsletters/1991/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep91.htm"
+        },
+        {
+          "year": 1991,
+          "month": 10,
+          "label": "October 1991",
+          "path": "/newsletters/1991/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct91.htm"
+        },
+        {
+          "year": 1991,
+          "month": 11,
+          "label": "November 1991",
+          "path": "/newsletters/1991/november/",
+          "format": "HTML",
+          "available": true,
+          "source": "qonov91.htm"
+        },
+        {
+          "year": 1991,
+          "month": 12,
+          "label": "December 1991",
+          "path": "/newsletters/1991/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec91.htm"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "issues": [
+        {
+          "year": 1990,
+          "month": 1,
+          "label": "January 1990",
+          "path": "/newsletters/1990/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan90.htm"
+        },
+        {
+          "year": 1990,
+          "month": 2,
+          "label": "February 1990",
+          "path": "/newsletters/1990/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb90.htm"
+        },
+        {
+          "year": 1990,
+          "month": 3,
+          "label": "March 1990",
+          "path": "/newsletters/1990/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar90.htm"
+        },
+        {
+          "year": 1990,
+          "month": 4,
+          "label": "April 1990",
+          "path": "/newsletters/1990/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr90.htm"
+        },
+        {
+          "year": 1990,
+          "month": 6,
+          "label": "June 1990",
+          "path": "/newsletters/1990/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun90.htm"
+        },
+        {
+          "year": 1990,
+          "month": 7,
+          "label": "July 1990",
+          "path": "/newsletters/1990/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul90.htm"
+        },
+        {
+          "year": 1990,
+          "month": 9,
+          "label": "September 1990",
+          "path": "/newsletters/1990/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep90.htm"
+        },
+        {
+          "year": 1990,
+          "month": 10,
+          "label": "October 1990",
+          "path": "/newsletters/1990/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct90.htm"
+        },
+        {
+          "year": 1990,
+          "month": 12,
+          "label": "December 1990",
+          "path": "/newsletters/1990/december/",
+          "format": "HTML",
+          "available": true,
+          "source": "qodec90.htm"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "issues": [
+        {
+          "year": 1989,
+          "month": 1,
+          "label": "January 1989",
+          "path": "/newsletters/1989/january/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojan89.htm"
+        },
+        {
+          "year": 1989,
+          "month": 2,
+          "label": "February 1989",
+          "path": "/newsletters/1989/february/",
+          "format": "HTML",
+          "available": true,
+          "source": "qofeb89.htm"
+        },
+        {
+          "year": 1989,
+          "month": 3,
+          "label": "March 1989",
+          "path": "/newsletters/1989/march/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomar89.htm"
+        },
+        {
+          "year": 1989,
+          "month": 4,
+          "label": "April 1989",
+          "path": "/newsletters/1989/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr89.htm"
+        },
+        {
+          "year": 1989,
+          "month": 5,
+          "label": "May 1989",
+          "path": "/newsletters/1989/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay89.htm"
+        },
+        {
+          "year": 1989,
+          "month": 6,
+          "label": "June 1989",
+          "path": "/newsletters/1989/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun89.htm"
+        },
+        {
+          "year": 1989,
+          "month": 8,
+          "label": "August 1989",
+          "path": "/newsletters/1989/august/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoaug89.htm"
+        },
+        {
+          "year": 1989,
+          "month": 10,
+          "label": "October 1989",
+          "path": "/newsletters/1989/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct89.htm"
+        },
+        {
+          "year": 1989,
+          "month": 11,
+          "label": "November 1989",
+          "path": "/newsletters/1989/november/",
+          "format": "HTML",
+          "available": true,
+          "source": "qonov89.htm"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "issues": [
+        {
+          "year": 1988,
+          "month": 4,
+          "label": "April 1988",
+          "path": "/newsletters/1988/april/",
+          "format": "HTML",
+          "available": true,
+          "source": "qoapr88.htm"
+        },
+        {
+          "year": 1988,
+          "month": 5,
+          "label": "May 1988",
+          "path": "/newsletters/1988/may/",
+          "format": "HTML",
+          "available": true,
+          "source": "qomay88.htm"
+        },
+        {
+          "year": 1988,
+          "month": 6,
+          "label": "June 1988",
+          "path": "/newsletters/1988/june/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojun88.htm"
+        },
+        {
+          "year": 1988,
+          "month": 7,
+          "label": "July 1988",
+          "path": "/newsletters/1988/july/",
+          "format": "HTML",
+          "available": true,
+          "source": "qojul88.htm"
+        },
+        {
+          "year": 1988,
+          "month": 9,
+          "label": "September 1988",
+          "path": "/newsletters/1988/september/",
+          "format": "HTML",
+          "available": true,
+          "source": "qosep88.htm"
+        },
+        {
+          "year": 1988,
+          "month": 10,
+          "label": "October 1988",
+          "path": "/newsletters/1988/october/",
+          "format": "HTML",
+          "available": true,
+          "source": "qooct88.htm"
+        },
+        {
+          "year": 1988,
+          "month": 11,
+          "label": "November 1988",
+          "path": "/newsletters/1988/november/",
+          "format": "HTML",
+          "available": true,
+          "source": "qonov88.htm"
+        }
+      ]
+    }
+  ],
+  "fiction": [
+    {
+      "filename": "Blackbird.pdf",
+      "title": "Blackbird",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Bonds.pdf",
+      "title": "Bonds",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Companions.pdf",
+      "title": "Companions",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Danya.pdf",
+      "title": "Danya Winterborn",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Hour.pdf",
+      "title": "Darkling Hour",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Havenbound.pdf",
+      "title": "Havenbound",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Kaylan.pdf",
+      "title": "Herald Kaylan's Wild Ride",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Pirate.pdf",
+      "title": "Little Pirate",
+      "available": false,
+      "format": "PDF"
+    },
+    {
+      "filename": "Dance.pdf",
+      "title": "Midsummer Night's Dance",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Misty.pdf",
+      "title": "Misty Vale",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Potter.pdf",
+      "title": "Potter Fahr's Wife",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Fox.pdf",
+      "title": "Snow Fox",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "They.pdf",
+      "title": "They're Playing that Song!",
+      "available": true,
+      "format": "PDF"
+    },
+    {
+      "filename": "Triptych.pdf",
+      "title": "Triptych",
+      "available": true,
+      "format": "PDF"
+    }
+  ],
+  "summary": {
+    "preserved_html_newsletters": 155,
+    "unavailable_html_newsletters": 2,
+    "pdf_newsletters": 132,
+    "fiction_pdfs": 14
+  }
+}
