@@ -87,22 +87,6 @@
     "resolution": "pending_recovery",
     "source_archive_present": false
   },
-  "/qogg.htm": {
-    "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
-    "archive_index": {
-      "cutoff": "20260701",
-      "domain": "dragonlordsnet.com",
-      "exact_filename_indexed": false,
-      "indexed_resources": 2424,
-      "source": "../queens-own/cdx-index.json"
-    },
-    "classification": "page",
-    "referring_pages": [
-      "qochap.htm"
-    ],
-    "resolution": "pending_recovery",
-    "source_archive_present": false
-  },
   "/qonov98.htm": {
     "action": "Obtain the original file from club editors or an additional archive snapshot; restore it under the original filename and remove its unavailable notice.",
     "archive_index": {

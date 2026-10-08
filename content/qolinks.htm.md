@@ -22,13 +22,13 @@ vlink = "silver"
 Here are links of interest to fans of the Valdemar series.
 </p><ul>
 <li><a href="https://bar.baen.com/">Baen's Bar</a> (Register and login to "Dixon's Vixen" to chat with Misty and Larry)
-</li><li><a href="https://dragonlords.fans/danyacc.htm">The Collegium Chronicles</a> (The newsletter of the 
+</li><li><a href="/pacific-northwest-collegium/">The Collegium Chronicles</a> (The newsletter of the
 Pacific Northwest Collegium.)
-</li><li><a href="https://dragonlords.fans/danya.htm">Danya Winterborn's Page</a>
+</li><li><a href="/danya-winterborn/">Danya Winterborn's Page</a>
 </li><li><a href="http://dawbooks.com">DAW Books</a> (Publishers of the Heralds of Valdemar novels)
 </li><li><a href="http://dawnearthsong.tripod.com/DawnsVale/index.html">Dawn's Vale</a>
 </li><li><a href="http://firebirdarts.com">Firebird Arts and Music</a>
-</li><li><a href="https://dragonlords.fans/danyagg.htm">Golden Grove</a>
+</li><li><a href="/golden-grove/">Golden Grove</a>
 </li><li><a href="http://www.angelfire.com/ak3/valdemar/index.html">Kera's Keep</a> (Lists, trivia and links)
 </li><li><a href="http://mercedeslackey.com">Mercedes Lackey's Official Website</a>
 </li><li><a href="http://www.herald.co.uk/local_info/lackey_list.html">Mercedes Lackey
@@ -37,7 +37,7 @@ Mailing List</a> (A UK-based mailing list.)
 <li><a href="http://lists.herald.co.uk/old-archives/mercedes-lackey/">Archives</a>
 </li></ul>
 </li><li><a href="http://www.penguinputnam.com/static/packages/us/mercedeslackey/start.html">Penguin-Putnam's Mercedes Lackey page</a>
-</li><li><a href="https://dragonlords.fans/vfcindex.htm">The Vanyel Fan Club</a>
+</li><li><a href="/vanyel-fan-club/">The Vanyel Fan Club</a>
 (The homepage for the Vanyel Fan Club chat list.)
 </li></ul>
 <p>

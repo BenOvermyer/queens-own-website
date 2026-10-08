@@ -35,7 +35,7 @@ Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a hr
 <p>
 		Editor: Sacree Noir<br/>
 		E-mail: <a href="mailto:sn.keeper@yahoo.com">Sacree Noir</a><br/>
-		Website: <a href="https://dragonlords.fans/danyagg.htm">http://www.dragonlordsnet.com/danyagg.htm</a>
+		Website: <a href="/golden-grove/">/golden-grove/</a>
 </p>
 </td>
 <td>
@@ -53,7 +53,7 @@ Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a hr
 		Co-editor/Advisor: Herald Mage Danya<br/>
 		President/Advisor: Seeking Herald Bastian <br/>
 		E-mail: <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a><br/>
-		Website: <a href="https://dragonlords.fans/vfcnews.htm">http://www.dragonlordsnet.com/vfcnews.htm</a></p><p>
+		Website: <a href="/vanyel-fan-club/newsletter/">/vanyel-fan-club/newsletter/</a></p><p>
 </p>
 </td>
 </tr>

@@ -65,6 +65,34 @@ and unavailable-content notices to existing pages without reimporting the archiv
 After recovering a resource, remove its entry from `data/link-dispositions.json`
 and its unavailable notice from the page, then rebuild and refresh the inventory.
 
+## Content remaining on Dragonlords
+
+[`docs/dragonlords-migration-inventory.md`](docs/dragonlords-migration-inventory.md)
+identifies Queen's Own and Velgarth content left on the other site by the original
+filename-based split. The complete file spreadsheet and page/dependency inventory
+are in `data/dragonlords-file-inventory.csv` and
+`data/dragonlords-content-inventory.json`.
+
+To regenerate those data files from the local split archive:
+
+```sh
+python3 scripts/inventory_dragonlords.py ../queens-own/dragonlords.fans
+```
+
+This requires the migration Python dependencies. Install `pdftotext` (Poppler) to
+include PDF keyword scanning; the JSON records whether PDF text was extracted.
+Recommendations identify candidates for subsequent migration; they do not move
+content or change either site's routes.
+
+The selected club pages have been migrated under descriptive paths. The bookstore
+and substantive Dragonlords material stay on the other site; shared hosting footers
+and bookstore promotions were removed from imported copies. To repeat that import,
+run `python3 scripts/migrate_dragonlords.py ../queens-own/dragonlords.fans`, then build
+and verify. This overwrites the imported copies, so maintain repeatable changes in
+the migration script. `data/dragonlords-route-map.json` records the old-to-new paths,
+and `static/_redirects` redirects old filenames on the Netlify site. Redirects on the
+original Dragonlords host need a separate deployment there.
+
 ## PDF storage
 
 The 120 PDFs (about 57 MiB) are intentionally excluded from the repository and build.

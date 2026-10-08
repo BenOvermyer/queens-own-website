@@ -26,7 +26,7 @@ Looking for folks involved in Misty's fandom in your region?  Check out the chap
 Editor: Sacre Noir
 <br/>
 E-mail: <a href="mailto:Sacree Noir &lt;sn.keeper@yahoo.com&gt;">Sacree Noir <sn.keeper@yahoo.com></sn.keeper@yahoo.com></a><br/>
-Website: <a data-unavailable-target="https://queensown.org/qogg.htm" href="https://queensown.org/qogg.htm" title="Unavailable in the preserved archive">http://www.dragonlordsnet.com/qogg.htm</a><span class="unavailable-note"> (unavailable in archive)</span><br/>
+Website: <a href="/golden-grove/">Golden Grove</a><br/>
 Note:  <i>Golden Grove</i> was formerly called <i>The Herald's Hall of California</i>, and it's publication was previously entitled <i>The California Arrow</i>.
 </p><p>
 </p><center><h1>Online Chapters</h1></center>
@@ -39,7 +39,7 @@ Website:  <a href="https://www.facebook.com/groups/2202088363/">https://www.face
 </p><h3><i>The Vanyel Fan Club</i> (Up for Adoption)</h3>
 E-mail: Advisor <a href="mailto:Shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>
 <br/>
-Website:  <a href="https://dragonlords.fans/vfcindex.htm">vfcindex.htm</a>
+Website:  <a href="/vanyel-fan-club/">vfcindex.htm</a>
 <p>
 <a id="start" name="start"></a>
 </p><h2>How to Start a Chapter</h2>

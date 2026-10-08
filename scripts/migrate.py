@@ -33,7 +33,15 @@ def migrate(source):
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(path, target)
 
+    routes_file = ROOT / 'data/dragonlords-route-map.json'
+    routes = json.loads(routes_file.read_text()) if routes_file.exists() else {}
+
     def rewrite(value, origin):
+        parsed_route = urlsplit(value.strip())
+        if parsed_route.hostname in ('dragonlords.fans', 'www.dragonlords.fans', 'dragonlordsnet.com', 'www.dragonlordsnet.com'):
+            route = routes.get(unquote(parsed_route.path).lstrip('/'))
+            if route:
+                return route + ('?' + parsed_route.query if parsed_route.query else '') + ('#' + parsed_route.fragment if parsed_route.fragment else '')
         if re.fullmatch(r'[^\s/@:]+@[^\s/]+\.[^\s/]+', value.strip()):
             repairs.append({'page': origin, 'original': value, 'resolved': 'mailto:' + value.strip()})
             return 'mailto:' + value.strip()
@@ -101,6 +109,10 @@ def migrate(source):
         if not home:
             listing.append(f'- [{title.replace("[", "").replace("]", "")}](/{quote(name, safe="/")})')
     (ROOT / 'content' / 'archive.md').write_text('+++\ntitle = "Website archive"\npath = "archive"\ntemplate = "page.html"\n+++\n\n# Website archive\n\nBrowse every preserved page. Publication dates and contact details are historical.\n\n' + '\n'.join(listing) + '\n')
+    if routes:
+        import migrate_dragonlords
+        migrate_dragonlords.ROOT = ROOT
+        migrate_dragonlords.refresh_archive_links()
     report = {'html_pages': len(pages), 'pdf_count': len(pdfs), 'pdf_bytes': sum(p['bytes'] for p in pdfs),
               'repaired_links': repairs, 'missing_local_links': missing}
     (ROOT / 'data' / 'migration-report.json').write_text(json.dumps(report, indent=2) + '\n')

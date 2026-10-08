@@ -24,7 +24,7 @@ Named for the tavern that served as the favorite gathering place for the Blues a
 </p><p>
 All issues of this journal are offered to Internet users free of charge under the following conditions: Internet users may maintain one electronic copy and one print copy of the file for use by members of the user's household. Permission to otherwise duplicate or "lend" any of these files without the credited author's written consent is expressly denied. 
 </p><p>
-Frequency of publication is "when we get enough material to put together and issue" &lt;g&gt;.  Watch the Queen's Own <a href="/qonews.htm">newsletter</a> for release dates.  <a href="https://dragonlords.fans/crtoc.htm">Issue 1</a> is now online!
+Frequency of publication is "when we get enough material to put together and issue" &lt;g&gt;.  Watch the Queen's Own <a href="/qonews.htm">newsletter</a> for release dates.  <a href="/compass-rose/summer-2000/">Issue 1</a> is now online!
 </p><p>
 E-mail questions regarding the journal to the editor, <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>.
 </p><p>
@@ -45,10 +45,10 @@ A special thanks to Laura Cameron for designing <i>The Compass Rose</i> logo!
 </p><center>
 <table border="2" cellspacing="2" width="50%">
 <tr>
-<td align="center" valign="middle"><font size="4"><a href="https://dragonlords.fans/crtoc.htm">Vol. 1, No. 1</a>
+<td align="center" valign="middle"><font size="4"><a href="/compass-rose/summer-2000/">Vol. 1, No. 1</a>
 </font></td></tr>
 <tr>
-<td align="center" valign="middle"><font size="4"><a href="https://dragonlords.fans/cr2toc.htm">Vol. 2, No. 1</a>
+<td align="center" valign="middle"><font size="4"><a href="/compass-rose/spring-2002/">Vol. 2, No. 1</a>
 </font></td></tr></table>
 </center>
 <p>

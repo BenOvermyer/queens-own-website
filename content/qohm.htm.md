@@ -164,7 +164,7 @@ extraordinary effort.
 </p></li><li>For Helpful Hints, click <a href="/qohandouts.htm#help">here</a>.
 </li></ul>
 <p>
-If you have additional questions, check out <a href="https://dragonlords.fans/danmag1.htm">The Magic of Velgarth</a> FAQ.
+If you have additional questions, check out <a href="/magic-of-velgarth/">The Magic of Velgarth</a> FAQ.
 </p><p>
 Zhai'helleva,<br/>
 <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>

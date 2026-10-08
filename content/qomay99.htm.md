@@ -148,7 +148,7 @@ or 15 IRC�s.<p>
 </p></li><li><b>The Vales</b> is a yearly zine. Kendra Renaud,[Ed. Note 2002:  Address withheld; no longer published.]<p>
 </p></li><li><b>On The Wing</b> costs $2.00, and is nearly 20 pages in length. This zine is completely dedicated to the Tayledras. I
 am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002:  Address withheld; no longer published.]<p>
-</p></li><li><b>Golden Grove</b> , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld.  See new info at <a href="https://dragonlords.fans/danyagg.htm">http://www.dragonlordsnet.com/danyagg.htm</a>.
+</p></li><li><b>Golden Grove</b> , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld.  See new info at <a href="/golden-grove/">/golden-grove/</a>.
 </li></ul></td>
 </tr>
 </table>

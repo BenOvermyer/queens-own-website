@@ -34,7 +34,7 @@ Danya will be taking over the lists and will try to automatically subscribe all 
 </p><p>
 and
 </p><p>
-<a href="https://dragonlords.fans/vfcchat.htm">http://www.dragonlordsnet.com/vfcchat.htm</a> (for the VFC chat list).
+<a href="/vanyel-fan-club/chat/">/vanyel-fan-club/chat/</a> (for the VFC chat list).
 </p><p>
 We have lost the information for the Queen�s Own chat list as a result of this change.  You will need to resubscribe through the links at
 </p><p>
@@ -231,7 +231,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 <p>
 </p></li><li><b>German Heartstone:</b>  Website: <a href="http://www.heartstone.de">http://www.heartstone.de</a>.  Contact: <a href="mailto:Sunny@heartstone.de">Sunny@heartstone.de</a> or <a href="mailto:Shae@heartstone.de">Shae@heartstone.de</a>. A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on <a href="http://www.heartstone.de">http://www.heartstone.de</a>!   For more information contact <a href="mailto:Sunny@heartstone.de">Sunny@heartstone.de</a> or <a href="mailto:Shae@heartstone.de">Shae@heartstone.de</a>.
 <p>
-</p></li><li><b>Golden Grove:</b> Membership is open to all.  Send all questions to <b>Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236</b>.  To query by e-mail, contact <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  Visit our website at <a href="https://dragonlords.fans/danyagg.htm">http://www.dragonlordsnet.com/danyagg.htm</a> for more information.  (See ad below.)
+</p></li><li><b>Golden Grove:</b> Membership is open to all.  Send all questions to <b>Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236</b>.  To query by e-mail, contact <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  Visit our website at <a href="/golden-grove/">/golden-grove/</a> for more information.  (See ad below.)
 <p>
 </p></li><li><b>Herald's Waystation:</b>  This chapter covers the Gulf Coast Region, Texas, New Mexico, 
 Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire 
@@ -242,10 +242,10 @@ will also have an online, nonfiction newsletter.  Look for details and other fun
 when we launch our chapter website.  Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670.  E-mail: <a href="mailto:heraldauralynn@hotmail.net">heraldauralynn@hotmail.net</a> and <a href="mailto:HeraldEnyo@gmail.com">HeraldEnyo@gmail.com</a>. For 
 more information visit our website at <a href="http://deserthorses.com/heraldswaystation">http://deserthorses.com/heraldswaystation</a>.
 <p>
-</p></li><li><b>Sonoran Collegium:</b>  Our Region: THE SOUTHWEST  (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome).  Contact Info:  Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX.  E-mail:  <a href="mailto:Mistykalia@aol.com">Mistykalia@aol.com</a>.  Website:  <a href="/index.html">http://www.dragonlordsnet.com/danyasc.htm</a>.
+</p></li><li><b>Sonoran Collegium:</b>  Our Region: THE SOUTHWEST  (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome).  Contact Info:  Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX.  E-mail:  <a href="mailto:Mistykalia@aol.com">Mistykalia@aol.com</a>.  Website:  <a href="/index.html">/sonoran-collegium/</a>.
 
 <p>
-</p></li><li><b>The Vanyel Fan Club</b>: The <i>Vanyel Fan Club</i> is a chapter of QO that started out as an independent fan organization.  The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage Trilogy</i> by Mercedes Lackey. E-mail: <a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>.  For more information, see the VFC website at <a href="https://dragonlords.fans/vfcindex.htm">http://www.dragonlordsnet.com/vfcindex.htm</a>. 
+</p></li><li><b>The Vanyel Fan Club</b>: The <i>Vanyel Fan Club</i> is a chapter of QO that started out as an independent fan organization.  The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage Trilogy</i> by Mercedes Lackey. E-mail: <a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>.  For more information, see the VFC website at <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.
 </li></ul>
 <p>
 </p><h3>Zines and Newsletters:</h3>
@@ -287,7 +287,7 @@ the first 3 newsletters; after that it will be 75 cents per newsletter. Snail ma
 Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670.  E-mail: <a href="mailto:heraldauralynn@hotmail.net">heraldauralynn@hotmail.net</a> and <a href="mailto:HeraldEnyo@gmail.com">HeraldEnyo@gmail.com</a>. For 
 more information visit our website at <a href="http://deserthorses.com/heraldswaystation">http://deserthorses.com/heraldswaystation</a>.
 <p>
-</p></li><li><b><i>Golden Grove</i>:</b> Editor: Theresa Young.  E-mail: <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year.  Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at <a href="https://dragonlords.fans/danyagg.htm">http://www.dragonlordsnet.com/danyagg.htm</a> for more information.
+</p></li><li><b><i>Golden Grove</i>:</b> Editor: Theresa Young.  E-mail: <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year.  Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at <a href="/golden-grove/">/golden-grove/</a> for more information.
 <p>
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). 
 </li></ul>

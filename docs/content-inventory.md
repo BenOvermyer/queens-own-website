@@ -15,7 +15,7 @@ internal-link audit, except for verifying the repaired Vanyel newsletter destina
   missing PDF rather than recovering a file.
 - All 27 missing PDFs return 404 on both `files.queensown.org` and the original
   `queensown.org` host. None is present in the supplied local archive.
-- Seven non-PDF targets remain unresolved: three pages, two named image references,
+- Six non-PDF targets remain unresolved: two pages, two named image references,
   an image placeholder, and a malformed email link with no recoverable address.
 - All six originally unresolved anchors now resolve. Original working anchor IDs
   are retained; aliases were added for the broken incoming names.
@@ -25,6 +25,10 @@ Full referring-page lists, resource types, local presence, HTTP status, content 
 redirect destinations, and UTC check times are in `data/link-inventory.json` and
 `data/link-http-evidence.json`. `data/migration-report.json` is the unmodified
 migration snapshot; it is not a list of current failures.
+
+Golden Grove’s formerly missing `qogg.htm` reference was resolved during the later
+Dragonlords content migration: the recovered California chapter page is now at
+`/golden-grove/`, and its unavailable notice has been removed.
 
 ## Corrections and recovered destinations
 
@@ -54,7 +58,7 @@ script. No new prose, contact addresses, or missing artwork were invented.
 The supplied backup contains a restored copy of the original `dragonlordsnet.com`
 site and the CDX index used to recover it. The index covers 2,424 resources with a
 July 1, 2026 cutoff. A case-insensitive exact-filename comparison finds none of the
-34 unresolved targets in that index. The restored, browsable, and split-site trees
+33 unresolved targets in that index. The restored, browsable, and split-site trees
 also contain no files matching the missing targets, except the two Windows-path
 references corrected above. This establishes absence from this recovery snapshot,
 not absence from every historical snapshot or private club collection.
@@ -83,7 +87,6 @@ images, recover the content with its original credits and record provenance.
 | `qo231.jpg` | asset | `qodec04.htm` | Request original from club editors or locate another archive snapshot; preserve filename and credits. |
 | `qo267.htm` | incorrect_resource_type | `qosep96.htm` | Request original from club editors or locate another archive snapshot; preserve filename and credits. |
 | `qodec98.htm` | page | `qolist.htm`, `qonews.htm`, `qonpc.htm` | Request original from club editors or locate another archive snapshot; preserve filename and credits. |
-| `qogg.htm` | page | `qochap.htm` | Request original from club editors or locate another archive snapshot; preserve filename and credits. |
 | `qonov98.htm` | page | `qolist.htm`, `qonews.htm` | Request original from club editors or locate another archive snapshot; preserve filename and credits. |
 | `Pirate.pdf` | pdf | `qofanfic.htm` | Request original from club editors or locate another archive snapshot; preserve filename and credits. |
 | `qoApr-May2019.pdf` | pdf | `qonews.htm` | Request original from club editors or locate another archive snapshot; preserve filename and credits. |

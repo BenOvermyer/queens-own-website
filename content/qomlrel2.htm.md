@@ -20,7 +20,7 @@ vlink = "silver"
 Every time you write a story based on Misty's stories, you need to 
 file a release form with High Flight:
 </p><p>
-<a href="https://dragonlords.fans/mlrelease.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a><a href="https://dragonlords.fans/mlrelease.htm">Release Form (HTML version)</a>
+<a href="/mercedes-lackey-release-form/"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a><a href="/mercedes-lackey-release-form/">Release Form (HTML version)</a>
 </p><p>
 </p><p>
 Print out the form, fill it out, and mail it to High Flight along with a 

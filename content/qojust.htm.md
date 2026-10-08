@@ -39,7 +39,7 @@ We don't claim to have the answer to everything you've ever wanted to know about
 </tr>
 <tr>
 <td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/qofaqh.htm">The Heralds of Valdemar</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="https://dragonlords.fans/danmag1.htm">The Magic of Velgarth</a></font></td>
+<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/magic-of-velgarth/">The Magic of Velgarth</a></font></td>
 <td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/qofaqm.htm">Military Units</a></font></td>
 </tr>
 <tr>

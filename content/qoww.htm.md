@@ -86,7 +86,7 @@ Choose and complete the requirements for two (minimum) of the following:
 </p></li><li>For Helpful Hints, click <a href="/qohandouts.htm#help">here</a>.
 </li></ul>
 <p>
-If you have additional questions, check out <a href="https://dragonlords.fans/danmag1.htm">The Magic of Velgarth</a> FAQ.
+If you have additional questions, check out <a href="/magic-of-velgarth/">The Magic of Velgarth</a> FAQ.
 </p><p>
 </p><center><img alt="" loading="lazy" src="/barstar.gif"/></center>
 <p>

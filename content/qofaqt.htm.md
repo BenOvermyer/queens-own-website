@@ -74,7 +74,7 @@ Here are the known ranks within a Tayledras Clan:
 <p>
 A Healer Adept heals the earth from magical misadventures.  This healing routinely takes place outside the Vale, especially following the Mage Storms when the Healer Adepts had to go around fixing Change Circles.
 </p><p>
-For more information about mage abilities, see <a href="https://dragonlords.fans/danmag1.htm">The Magic of Velgarth</a>.
+For more information about mage abilities, see <a href="/magic-of-velgarth/">The Magic of Velgarth</a>.
 </p><p>
 Each Vale is governed by a Council of Elders.  This Council includes:
 </p><p>

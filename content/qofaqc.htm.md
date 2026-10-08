@@ -40,7 +40,7 @@ Cooking in a medieval-style setting is sometimes a bit of a challenge.  This FAQ
 Some of the persona sheets generate recipes.  Here are the ones we know about so far:
 </p><p>
 </p><ul>
-<li><a href="https://dragonlords.fans/danya.htm#recipes">Danya's Recipes</a>
+<li><a href="/danya-winterborn/#recipes">Danya's Recipes</a>
 </li></ul>
 <p>
 </p><center><img alt="" border="0" loading="lazy" src="/barcomp.gif"/></center>

@@ -62,11 +62,11 @@ Queen's Own is run by <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Dany
 </p><center>
 <table border="0" cellpadding="2" cellspacing="2" width="100%">
 <tr>
-<td><center><a href="https://dragonlords.fans/danya.htm"><img alt="Danya Winterborn" border="0" loading="lazy" src="/cc3a.gif"/></a></center>
+<td><center><a href="/danya-winterborn/"><img alt="Danya Winterborn" border="0" loading="lazy" src="/cc3a.gif"/></a></center>
 <p>
 </p><center><h2>Terrill Choosing Danya<br/>
 by<br/>
-<a href="https://dragonlords.fans/danyacc.htm">Laura Cameron</a></h2></center>
+<a href="/pacific-northwest-collegium/">Laura Cameron</a></h2></center>
 </td>
 </tr></table>
 </center>

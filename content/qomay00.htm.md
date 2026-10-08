@@ -36,7 +36,7 @@ Speaking of things going into the newsletter, we would be happy to consider item
 <p>
 </p><center><h1>From the Archives</h1></center>
 <p>
-</p><center><a href="https://dragonlords.fans/danyacc.htm"><img alt="Danya and Bard Kestran by Laura Cameron" border="0" loading="lazy" src="/cc2.gif"/></a></center>
+</p><center><a href="/pacific-northwest-collegium/"><img alt="Danya and Bard Kestran by Laura Cameron" border="0" loading="lazy" src="/cc2.gif"/></a></center>
 <p>
 Here's an updated version of a piece that used to be sent to everyone who inquired about Queen's Own.  The original author is Judith Louvis.  Updates were made by L.A. Malcor.
 </p><p>
@@ -69,7 +69,7 @@ In the past we've had local chapters, zine, a cookbook, writer's circles, role p
 </p><h1>Ren Faires:</h1>
 <p>
 </p><p>
-<a href="https://dragonlords.fans/danyacc.htm"><img align="right" alt="Yarik in the Companion's Field by Laura Cameron" border="0" loading="lazy" src="/cc8.gif"/></a>
+<a href="/pacific-northwest-collegium/"><img align="right" alt="Yarik in the Companion's Field by Laura Cameron" border="0" loading="lazy" src="/cc8.gif"/></a>
 Here are the faires we know about that are happening in May.  Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
 </p><h2>California</h2>
@@ -152,7 +152,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 </p><h1>Conventions:</h1>
 <p>
 </p><p>
-<a href="https://dragonlords.fans/danyacc.htm"><img align="right" alt="Danya and Yarik Sparring by Laura Cameron" border="0" loading="lazy" src="/cc18.gif"/></a>
+<a href="/pacific-northwest-collegium/"><img align="right" alt="Danya and Yarik Sparring by Laura Cameron" border="0" loading="lazy" src="/cc18.gif"/></a>
 Have any information about conventions in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
 </p><h2>California</h2>
@@ -172,7 +172,7 @@ Have any information about conventions in your area?  Send it to us at <a href="
 <p>
 </p><h1>Member News:</h1>
 <p>
-</p><center><a href="https://dragonlords.fans/danyacc.htm"><img alt="Danya and Yarik by Laura Cameron" border="0" loading="lazy" src="/cc5.gif"/></a></center>
+</p><center><a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik by Laura Cameron" border="0" loading="lazy" src="/cc5.gif"/></a></center>
 <p>
 For definitions of our fannish jargon, read "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  (Judith is sending us a copy, and we hope to be able to make it available to you soon.)
 </p><p>
@@ -180,17 +180,17 @@ For definitions of our fannish jargon, read "Pros &amp; Cons: An Introduction to
 <p>
 </p><ul>
 <li><i><b>Austral'a'in:</b></i> Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.  (See zine ad below for additional information.)<p>
-</p></li><li><b>Golden Grove:</b> Membership is open to all.  Send all questions to <b>Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236</b>.  To query by e-mail, contact <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  Visit our website at <a href="https://dragonlords.fans/danyagg.htm">http://www.dragonlordsnet.com/danyagg.htm</a> for more information.  (See ad below.)
+</p></li><li><b>Golden Grove:</b> Membership is open to all.  Send all questions to <b>Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236</b>.  To query by e-mail, contact <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  Visit our website at <a href="/golden-grove/">/golden-grove/</a> for more information.  (See ad below.)
 <p>
-</p></li><li><b>Pacific Northwest Collegium:</b>  Newsletter: <i>Collegium Chronicles.</i> $8 per year/$4 for a half-year, $2 per issue.  Website: <a href="https://dragonlords.fans/danyacc.htm">http://www.dragonlordsnet.com/danyacc.htm</a>. General inquiries to: <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.  (See ad below for more details.)<p>
+</p></li><li><b>Pacific Northwest Collegium:</b>  Newsletter: <i>Collegium Chronicles.</i> $8 per year/$4 for a half-year, $2 per issue.  Website: <a href="/pacific-northwest-collegium/">/pacific-northwest-collegium/</a>. General inquiries to: <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.  (See ad below for more details.)<p>
 </p></li></ul>
 <p>
 </p><h2>Zines and Newsletters:</h2>
 <p>
 </p><ul>
 <b><i><li>Austral'a'in</li></i>:</b> Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.  You get eight issues a year of eight pages each.  The costs are:  for Australians, $8 a year or 8 x 45 cent stamps.  For people overseas $12 Australian or 15 IRCs.<p>
-</p><li><b><i>Collegium Chronicles</i>:</b>  The Venerable Pacific Northwest Collegium is looking for a few good writers and artists for its newsletter <i>Collegium Chronicles</i>. It would e preferable if folks had e-mail access. I am looking for stories that are primarily fantasy--QO persona requirements are acceptable, so long as they are in story format. Poetry, articles and essays also welcome. Come join us in what will be the final year of this nearly decade-long newsletter. $8 per year/$4 for a half-year, $2 per issue. Final issue will be June/July of 2001. Get your dues in early reap the full benefits! Great artwork (see our webpage at <a href="https://dragonlords.fans/danyacc.htm">http://www.dragonlordsnet.com/danyacc.htm</a>) great stories, news of local events in the Pacific Northwest area. All are welcome.  Send general inquiries to: <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.  (P.S. If anyone is interested in taking over the Chronicles after next summer, let me know! I'd hate to see such a noble creature die out.)<p>
-</p></li><li><b><i>Golden Grove</i>:</b> Editor: Theresa Young.  E-mail: <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year.  Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at <a href="https://dragonlords.fans/danyagg.htm">http://www.dragonlordsnet.com/danyagg.htm</a> for more information.
+</p><li><b><i>Collegium Chronicles</i>:</b>  The Venerable Pacific Northwest Collegium is looking for a few good writers and artists for its newsletter <i>Collegium Chronicles</i>. It would e preferable if folks had e-mail access. I am looking for stories that are primarily fantasy--QO persona requirements are acceptable, so long as they are in story format. Poetry, articles and essays also welcome. Come join us in what will be the final year of this nearly decade-long newsletter. $8 per year/$4 for a half-year, $2 per issue. Final issue will be June/July of 2001. Get your dues in early reap the full benefits! Great artwork (see our webpage at <a href="/pacific-northwest-collegium/">/pacific-northwest-collegium/</a>) great stories, news of local events in the Pacific Northwest area. All are welcome.  Send general inquiries to: <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.  (P.S. If anyone is interested in taking over the Chronicles after next summer, let me know! I'd hate to see such a noble creature die out.)<p>
+</p></li><li><b><i>Golden Grove</i>:</b> Editor: Theresa Young.  E-mail: <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year.  Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at <a href="/golden-grove/">/golden-grove/</a> for more information.
 <p>
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 </li></ul>
@@ -216,7 +216,7 @@ For definitions of our fannish jargon, read "Pros &amp; Cons: An Introduction to
 <p>
 </p><h1>Collegium News:</h1>
 <p>
-</p><center><a href="https://dragonlords.fans/danyacc.htm"><img alt="Danya, Yarik and Dean Terren by Laura Cameron" border="0" loading="lazy" src="/cc7.gif"/></a></center>
+</p><center><a href="/pacific-northwest-collegium/"><img alt="Danya, Yarik and Dean Terren by Laura Cameron" border="0" loading="lazy" src="/cc7.gif"/></a></center>
 <p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald.  You can find these handouts online at <a href="/qohandouts.htm">http://www.dragonlordsnet.com/qohandouts.htm</a>.
 </p><p>
@@ -241,7 +241,7 @@ The Queen�s Own mailing list was at one time about 1,100 members strong, and w
 </p><h1>Fan Messages:</h1>
 <p>
 </p><p>
-<a href="https://dragonlords.fans/danyacc.htm"><img align="right" alt="Yarik, Danya and Sherrill by Laura Cameron" border="0" loading="lazy" src="/cc9.gif"/></a>
+<a href="/pacific-northwest-collegium/"><img align="right" alt="Yarik, Danya and Sherrill by Laura Cameron" border="0" loading="lazy" src="/cc9.gif"/></a>
 The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <b>don't place a fan message</b>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
@@ -253,7 +253,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 <p>
 </p><h1>Personals:</h1>
 <p>
-</p><center><a href="https://dragonlords.fans/danyacc.htm"><img alt="Healing Session by Laura Cameron" border="0" loading="lazy" src="/cc27.gif"/></a></center>
+</p><center><a href="/pacific-northwest-collegium/"><img alt="Healing Session by Laura Cameron" border="0" loading="lazy" src="/cc27.gif"/></a></center>
 <p>
 </p><ul>
 <li>To <b>Herald Jensen Redstart</b> and <b>Herald An'Talyah Brighthawk</b> from <b>Herald-Mage Journeyman Danya Winterborn</b>.  Thanks for helping us get the new incarnation of Queen's Own off the ground!<p>

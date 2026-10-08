@@ -39,7 +39,7 @@ Mindspeech has a "Private Mode", which can be used so that mental conversations 
 </p><p>
 </p><h2>Earth Magic</h2>
 <p>
-Earth Magic (also called Earth-Witchery) is not true magic (which is also called "High Magic").  For information about true magic, see <a href="https://dragonlords.fans/danmag1.htm">The Magic of Velgarth</a>.  Earth Magic is the low form of magic used by Hedge-Wizards and Earth-Witches.   The power can appear as a Mind Magic Gift as well.  
+Earth Magic (also called Earth-Witchery) is not true magic (which is also called "High Magic").  For information about true magic, see <a href="/magic-of-velgarth/">The Magic of Velgarth</a>.  Earth Magic is the low form of magic used by Hedge-Wizards and Earth-Witches.   The power can appear as a Mind Magic Gift as well.
 </p><p>
 Earth mages can work minor spells.  These mages are also called Earth-Witches and Wisewomen, partially depending on the cultural background of the person who uses the term.
 </p><p>

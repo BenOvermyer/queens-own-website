@@ -53,13 +53,13 @@ vlink = "silver"
 <a id="chapters" name="chapters"></a>
 </p><h2>Chapters of Queen's Own</h2>
 <dl>
-<dt><a href="https://dragonlords.fans/danyagg.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://dragonlords.fans/danyagg.htm">Golden Grove</a></dt>
+<dt><a href="/golden-grove/"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="/golden-grove/">Golden Grove</a></dt>
 <dd>The California Chapter of Queen's Own, but all are welcome.</dd>
-<dt><a href="https://dragonlords.fans/danyacc.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://dragonlords.fans/danyacc.htm">The Pacific Northwest Collegium</a></dt>
+<dt><a href="/pacific-northwest-collegium/"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="/pacific-northwest-collegium/">The Pacific Northwest Collegium</a></dt>
 <dd>This chapter specialized in the Pacific Northwest.</dd>
-<dt><a href="https://dragonlords.fans/danyagg.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://www.facebook.com/groups/2202088363/">The Valdemar Fan Club</a></dt>
+<dt><a href="/golden-grove/"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://www.facebook.com/groups/2202088363/">The Valdemar Fan Club</a></dt>
 <dd>The Facebook Chapter of Queen's Own.</dd>
-<dt><a href="https://dragonlords.fans/vfcindex.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://dragonlords.fans/vfcindex.htm">The Vanyel Fan Club</a></dt>
+<dt><a href="/vanyel-fan-club/"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="/vanyel-fan-club/">The Vanyel Fan Club</a></dt>
 <dd>Fans of Herald-Mage Vanyel Ashkevron need to check out this site!</dd>
 </dl>
 <p>
@@ -68,17 +68,17 @@ vlink = "silver"
 <a id="Velgarth" name="Velgarth"></a>
 </p><h2>Fun Stuff about Velgarth</h2>
 <dl>
-<dt><a href="https://dragonlords.fans/danc.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://dragonlords.fans/danc.htm">Companions' Choices</a></dt>
+<dt><a href="/companions-choices/"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="/companions-choices/">Companions' Choices</a></dt>
 <dd>Why Companions choose the Heralds they do.</dd>
 <dt><a data-unavailable-target="__PDF_BASE_URL__/qohac.pdf" href="__PDF_BASE_URL__/qohac.pdf" title="Unavailable in the preserved archive"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a><span class="unavailable-note"> (unavailable in archive)</span> <a data-unavailable-target="__PDF_BASE_URL__/qohac.pdf" href="__PDF_BASE_URL__/qohac.pdf" title="Unavailable in the preserved archive">Herald Arrow Code</a><span class="unavailable-note"> (unavailable in archive)</span></dt>
 <dd>Details of the Herald Arrow Code.</dd>
 <dt><a href="/qojust.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="/qojust.htm">Just the FAQs</a></dt>
 <dd>Velgarth information and trivia.</dd>
-<dt><a href="https://dragonlords.fans/dantime.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://dragonlords.fans/dantime.htm">Official Timeline</a></dt>
+<dt><a href="/valdemar-timeline/"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="/valdemar-timeline/">Official Timeline</a></dt>
 <dd>The Official Timeline for the Velgarth novels.</dd>
-<dt><a href="https://dragonlords.fans/danp.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://dragonlords.fans/danp.htm">Proverbs from Velgarth</a></dt>
+<dt><a href="/proverbs-of-velgarth/"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="/proverbs-of-velgarth/">Proverbs from Velgarth</a></dt>
 <dd>Herald An'talyah Brighthawk (Danielle DiFronzo) compiled this list of proverbs from Misty's Velgarth books.</dd>
-<dt><a href="https://dragonlords.fans/danmag1.htm"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="https://dragonlords.fans/danmag1.htm">The Complete Magic Page</a></dt>
+<dt><a href="/magic-of-velgarth/"><img alt="" border="0" loading="lazy" src="/ball.gif"/></a> <a href="/magic-of-velgarth/">The Complete Magic Page</a></dt>
 <dd>Herald-Mage Adept Danya Winterborn's survey of magic on Velgarth.</dd>
 </dl>
 <p>

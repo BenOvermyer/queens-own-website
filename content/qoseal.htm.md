@@ -43,7 +43,7 @@ to the link list (below).
 </p><h2>Member Sites Linking to QO</h2>
 <p>
 </p><ul>
-<li><a href="https://dragonlords.fans/danya.htm">Danya Winterborn's Page</a>
+<li><a href="/danya-winterborn/">Danya Winterborn's Page</a>
 </li><li><a href="http://www.geocities.com/kevynicus/">The Fantasy Farm</a>
 </li><li><a href="http://www.sff.net/people/bennefeld/">Liz Bennefeld at SFF.NET</a>
 </li><li><a href="http://valdemarwaystation.iwarp.com/">Valdemar Estate Waystation</a>

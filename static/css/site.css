@@ -13,3 +13,4 @@ main { overflow-x: auto; }
 .skip { position: absolute; left: -10000px; }
 .skip:focus { left: 1rem; top: 1rem; background: var(--background); padding: .5rem; }
 .unavailable-note { font-size: .85em; font-style: italic; }
+.archive-note { font-size: .9em; font-style: italic; border-bottom: 1px solid currentColor; padding-bottom: .5rem; }

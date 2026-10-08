@@ -2,6 +2,6 @@
 {% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
 {% block appearance %}{% if page.extra.bgcolor %}style="--background: {{ page.extra.bgcolor }}; --text: {{ page.extra.text }}; --link: {{ page.extra.link }}; --visited: {{ page.extra.vlink }}"{% endif %}{% endblock appearance %}
 {% block content %}
-
+{% if page.extra.source_site %}<p class="archive-note">Archived club material. Dates and contact information reflect the original publication.</p>{% endif %}
 <article class="legacy-content">{{ page.content | replace(from="__PDF_BASE_URL__", to=config.extra.pdf_base_url) | safe }}</article>
 {% endblock content %}

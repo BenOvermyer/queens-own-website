@@ -91,7 +91,7 @@ These are the classes known to be part of the average Herald's education:
 </li><li>Practical Maths
 </li><li>Orienteering
 </li><li>Strategy and Tactics (small group combat emphasis)
-</li><li><a href="https://dragonlords.fans/danmag1.htm#truth">Truth Spell</a>
+</li><li><a href="/magic-of-velgarth/#truth">Truth Spell</a>
 </li><li>Weapons
 </li></ul>
 <p>
@@ -189,9 +189,9 @@ Companions wear silver and royal blue tack.  They have a hackamore instead of a 
 </p><h3>Links</h3>
 <p>
 </p><ul>
-<li><a href="https://dragonlords.fans/danhc.htm">List of Heralds and Companions</a>
-</li><li><a href="https://dragonlords.fans/danr.htm">List of Reincarnated Characters</a>
-</li><li><a href="https://dragonlords.fans/danc.htm">Why Companions Choose the Heralds They Do</a>
+<li><a href="/heralds-and-companions/">List of Heralds and Companions</a>
+</li><li><a href="/reincarnated-characters/">List of Reincarnated Characters</a>
+</li><li><a href="/companions-choices/">Why Companions Choose the Heralds They Do</a>
 </li></ul>
 <p>
 </p><h2>Waystations</h2>
