@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -45,17 +44,79 @@ Remember to look for <i>The Fairy Godmother</i> in January 2004.  This is Misty�
 In February 2004, <i>This Scepter�d Isle</i>, with Roberts Gellis, is scheduled to be released in hardcover.  <i>A Circus Of Witches</i>, <i>Queen of Air and Darkness</i>, <i>Phoenyx And Ashes</i> and <i>Altan</i>, Book Two in the same series with <i>Joust</i>, are also pending publication.  <i>Joust</i> should be out in paperback in March 2004.  <i>Stoned Souls</i>, with Josepha Sherman, has had its release date pushed back to January 2005.
 </p><p>
 You can find these and other titles through the Mercedes Lackey section of the Dragonlords� Bookstore <a href="http://www.dragonlordsnet.com/bkfanml.htm">.  A portion of the proceeds goes directly to support QO.  This is how we keep our memberships free, so we greatly appreciate your support!
-<p>
+
+
+"There will be at least one prize, consisting of at a minimum two signed novels, and some music; as well as any other interesting trinkets that come my way before the deadline. Other prizes may be awarded based on amusement factor and whimsy. The decision of the judge (me, with help from anyone that's passing) will be final. No cash alternative. If you don't like the prize, that's tough. It's not like you paid for it. Competition closes December 1st 2003. All entries must be received by midnight, Central USA time, November 30th, 2003. We reserve the right to use winner(s) names and submissions in publicity, and just to show them off. Entering the competition implies consent to publish. We reserve the right to close the competition early, or extend the date. If entries appear to have been tampered with electronically, (and I'm good folks. Don't try me. I do know when an image has been digitally edited!), we reserve the right to reject them. No correspondence will be entered into. Batteries not Included. Contents of this e-mail may settle in transit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</a><p>
 <b>Contest:</b> This came in from Paul via the Misty UK list:
 </p><p>
 "I have a number of bits and pieces, including some Music care of <a href="http://Firebirdarts.com">http://Firebirdarts.com</a>, copies of <i>Charmed Destinies</i> and <i>Outstretched Shadow</i> (Well, one copy of that.) and a few other snippets. We're supposed to have some of the Velgarth maps around, but I'm not promising those until I've seen them. Before it ships everything will be signed by at least one of the respective creators. I will get <i>Outstretched Shadow</i> signed by both! That's definitely in the pot.
 </p><p>
 "Mr. Mallory doesn't come out of his shell much (he and I have that in common perhaps); anyway, I made him grudgingly promise to sign a copy of <i>Shadow</i>. At the time he said that he had only signed one of them to date, so this will be the second copy signed by Mr. M. Perhaps I caught him at a bad time--when he comes out to visit he does miss his dogs ;)
 </p><p>
-</p><h3>The Rules</h3>
-
-"There will be at least one prize, consisting of at a minimum two signed novels, and some music; as well as any other interesting trinkets that come my way before the deadline. Other prizes may be awarded based on amusement factor and whimsy. The decision of the judge (me, with help from anyone that's passing) will be final. No cash alternative. If you don't like the prize, that's tough. It's not like you paid for it. Competition closes December 1st 2003. All entries must be received by midnight, Central USA time, November 30th, 2003. We reserve the right to use winner(s) names and submissions in publicity, and just to show them off. Entering the competition implies consent to publish. We reserve the right to close the competition early, or extend the date. If entries appear to have been tampered with electronically, (and I'm good folks. Don't try me. I do know when an image has been digitally edited!), we reserve the right to reject them. No correspondence will be entered into. Batteries not Included. Contents of this e-mail may settle in transit.
-<p>
+</p><h3>The Rules</h3><p>
 "So, all that aside, what do you have to do to enter?
 </p><p>
 "Send me a picture relevant to Misty and/or Larry. [Ed. note:  Paul clarified in a later post that he means �picture� as in �photo.�] For example, you skydiving while reading <i>Winds of Change</i>, a copy of <i>Brightly Burning</i> used as a campfire (You think we'd be upset? Heck no. We would hope you'd buy another copy!), or any other clever idea you come up with. Just a fanpic holding the book will count--but I'm betting the winner will be far more imaginative. I can't wait to see the results.
@@ -80,62 +141,48 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><h2>Ren. Faires:</h2>
-<p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><h2>Ren. Faires:</h2><p>
 Here are the Faires we know about for November.  Faires are indexed alphabetically by state. Have any information about any other Ren. Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
 </p><p>
-</p><h3>Alabama</h3>
-<p>
+</p><h3>Alabama</h3><p>
 <b>MOBILE ZOO RENAISSANCE FAIRE. </b> E-mail: <a href="mailto:GCRenFaire@aol.com">GCRenFaire@aol.com</a>.  Website: <a href="http://www.mzrf.com">http://www.mzrf.com</a>.  Address:  Steven Melei, Mobile Zoo Renaissance Faire, 3603 Mobile Hwy, Pensacola, FL, 32505.  Site Address:  Site: Mobile Zoo, 11561 Ward Road West, Wilmer, AL. Dates:  11/1/03 - 11/2/03.  Open/Close:  10 AM - 6 PM (Sun. 11 AM - 6 PM).
      </p><p>
-</p><h3>Arizona</h3>
-<p>
+</p><h3>Arizona</h3><p>
 <b>DEVONSHIRE RENAISSANCE FAIRE.</b>  FAX:  602-262-6001.  E-mail:  <a href="mailto:devonshire@digitalswirl.com">devonshire@digitalswirl.com</a>.  Website:  <a href="http://www.devonshirefaire.com">http://www.devonshirefaire.com</a>.  Address:  2802 E. Devonshire, Phoenix, AZ, 85016.  Site Address:  Los Olivos Park, 2802 E. Devonshire, Phoenix, AZ, 85016.  Dates:  11/22/03 - 11/23/03.  Open/Close: 10:00 AM - 5:00 PM.
 </p><p>
-</p><h3>California</h3>
-<p>
+</p><h3>California</h3><p>
 <b>THE ESCONDIDO RENAISSANCE FAIRE AND SHAKESPEARE IN THE PARK-FALL.</b>  E-mail: <a href="mailto:goldcoastprod@msn.com">goldcoastprod@msn.com</a>.  Website: <a href="http://www.goldcoastfestivals.com">http://www.goldcoastfestivals.com</a>.  Address:  Condit Wixon, 2509 Thousand Oaks Blvd., #351, Thousand Oaks, CA, 91362.  Site Address: Felicita Park, Escondido, California. Dates:  11/1/03-11/2/03.  Open/Close:  10 AM - 5 PM.
 </p><p>
 <b>KEARNEY PARK RENAISSANCE FAIR. </b> FAX: 559-485-7949.  E-mail:  <a href="mailto:queensfavr@aol.com">queensfavr@aol.com</a>.  Website:  <a href="http://www.cirga.org/kearneyfaire.html">http://www.cirga.org/kearneyfaire.html</a>.  Address:  4413 E. Ashcroft, Fresno, CA, 93726-2616.  Site Address:  Kearney Park, 7160 W. Kearney Blvd., Fresno, CA, 93722.  Dates:  11/08/03 - 11/09/03.  Open/Close: 10:00 AM.
 </p><p>
-</p><h3>Florida</h3>
-<p>
+</p><h3>Florida</h3><p>
 <b>PIRATES IN PARADISE FESTIVAL.</b>  E-mail: <a href="mailto:info@piratesinparadise.com">info@piratesinparadise.com</a>.  Website: <a href="http://www.piratesinparadise.com">http://www.piratesinparadise.com</a>. Address:  Julie McEnroe, PO Box 1153, Key West, FL, 33041.  Site Address: Historic Seaport, Mel Fisher Maritime Heritage Museum and Key West Museum of Art &amp; History at the Custom House, Key West, FL. Dates:  11/27/03 - 12/7/03.  Open/Close: 9 AM - 7 PM.
 </p><p>
-</p><h3>Louisiana</h3>
-<p>
+</p><h3>Louisiana</h3><p>
 <b>THE LOUISIANA RENAISSANCE FESTIVAL.</b>  Website:  <a href="http://www.larf.org">http://www.larf.org</a>.  Address:  46468 River Road, Hammond, LA, 70401. Dates:  11/1/03 - 12/7/03.
 </p><p>
-</p><h3>New Mexico</h3>
-<p>
+</p><h3>New Mexico</h3><p>
 <b>DONA ANA ARTS COUNCIL RENAISSANCE CRAFT FAIRE. </b> E-mail: <a href="mailto:daac@zianet.com">daac@zianet.com</a>. Website: <a href="http://www.zianet.com/daac">http://www.zianet.com/daac</a>.  Address:  Judith Finch, Dona Ana Arts Council, P.O. Box 1721, Las Cruces, NM, 88004.  Site Address: Young Park, Las Cruces, NM.  Dates:  11/1/03 - 11/2/03.  Open/Close: 10 AM - 5 PM.
 </p><p>
-</p><h3>North Carolina</h3>
-<p>
+</p><h3>North Carolina</h3><p>
 <b>CAROLINA RENAISSANCE FESTIVAL.</b>  E-mail: <a href="mailto:carolinarenfest@royalfaires.com">carolinarenfest@royalfaires.com</a>.  Website:  <a href="http://www.royalfaires.com">http://www.royalfaires.com</a>.  Address: Jeffrey Siegel, P.O. Box 165, Davidson, NC, 28036.  Site Address: Junction of Poplar Tent Rd. and Hwy 73 in Huntersville, NC.  Dates:  10/4/03 - 11/16/03.  Open/Close: 10 AM - 5:30 PM.
 </p><p>
-</p><h3>Texas</h3>
-<p>
+</p><h3>Texas</h3><p>
 <b>TEXAS RENAISSANCE FESTIVAL.</b>  E-mail: <a href="mailto:orvis@texrenfest.com">orvis@texrenfest.com</a>.   Website: <a href="http://www.texrenfest.com">http://www.texrenfest.com</a>.  Address: Orvis Melvin, 21778 FM 1774, Plantersville, TX, 77363.  Dates:  10/4/03 - 11/16/03.  Open/Close:  9 AM - dusk.
 </p><p>
-</p><h3>United Kingdom</h3>
-<p>
+</p><h3>United Kingdom</h3><p>
 <b>DUNSTABLE TUDOR FESTIVAL.  </b> E-mail: <a href="mailto:jean.yates@southbeds.gov.uk">jean.yates@southbeds.gov.uk</a>. Website: <a href="http://www.tudorfestivalf.com">http://www.tudorfestivalf.com</a>.  Address:  Jean Yates, Dunstable Town Centre Mgr, SBDC District Offices, Dunstable, Beds, ENGLAND, LU6 1LF. Dates:  11/22/03.  Open/Close:  10 AM - 4 PM.
 </p><p>
 For additional Ren Faire information, visit the Renaissance Faire Homepage at <a href="http://www.renfaire.com/">http://www.renfaire.com/</a> and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
 </p><p>
-</p><h2>Conventions:</h2>
-<p>
+</p><h2>Conventions:</h2><p>
 These are the upcoming cons we know about.  Have any information about conventions in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
-</p><h3>Arizona</h3>
-<p>
+</p><h3>Arizona</h3><p>
 <b>TUS-CON XXX. </b> Website: <a href="http://home.earthlink.net/~basfa/">http://home.earthlink.net/~basfa/</a>.  E-mail: <a href="mailto:basfa@earthlink.net">basfa@earthlink.net</a>.  Address: InnSuites Hotel, Tucson, Arizona.  Dates: 11/14/03 - 11/16/03.
 </p><p>
-</p><h3>California</h3>
-<p>
+</p><h3>California</h3><p>
 <b>BASCON 2003. </b> Website: <a href="http://www.bascon.org">http://www.bascon.org</a>.  E-mail: <a href="mailto:info@BASCon.org">info@BASCon.org</a>.  Address: DoubleTree or the Embassy Suites, San Francisco, California.  Dates: 11/7/03 - 11/9/03.
 </p><p>
 <b>DRAGONFEST 2003.  </b>Website: <a href="http://www.dragonfest.com">http://www.dragonfest.com</a>.  E-mail: <a href="mailto:dragonfest@earthlink.net">dragonfest@earthlink.net</a>.  Address: Glendale Civic Auditorium, Glendale, California.  Dates: 11/16/03.
@@ -144,16 +191,13 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>LOSCON 30. </b> Website: <a href="http://www.loscon.org/loscon/30/">http://www.loscon.org/loscon/30/</a>.  E-mail: <a href="mailto:Loscon30.info@loscon.org">Loscon30.info@loscon.org</a>.  Address: Burbank Hilton and Convention Center, Los Angeles, California.  Dates: 11/28/03 - 11/30/03.
 </p><p>
-</p><h3>Colorado</h3>
-<p>
+</p><h3>Colorado</h3><p>
 <b>GEOCON. </b> Website: <a href="http://bengames.org/geocon/index.html">http://bengames.org/geocon/index.html</a>.  E-mail: <a href="mailto:tcreese2112@earthlink.net">tcreese2112@earthlink.net</a>.  Address: Red Rocks Community College, Boulder, Colorado.  Dates: 11/9/03 - 11/10/03.
 </p><p>
-</p><h3>Connecticut</h3>
-<p>
+</p><h3>Connecticut</h3><p>
 <b>ELLIS-CON XV.  </b>Website: <a href="http://www.cttech.org/ellis/student/simulation-club/main.htm">http://www.cttech.org/ellis/student/simulation-club/main.htm</a>.  E-mail: <a href="mailto:John.Haskell@po.state.ct.us">John.Haskell@po.state.ct.us</a>.  Address: H.H. Ellis Regional Vocational Technical School, Danielson, Connecticut.  Dates: 11/15/03.
 </p><p>
-</p><h3>Florida</h3>
-<p>
+</p><h3>Florida</h3><p>
 <b>FLORIDA CONQUEST DHR. </b> Website: <a href="http://www.floridaconquest.com">http://www.floridaconquest.com</a>.  E-mail: <a href="mailto:Floridaconquest@Hotmail.Com">Floridaconquest@Hotmail.Com</a>.  Address: Diamond Head Resort, Ft. Myers Beach, Florida.  Dates: 11/21/03 - 11/23/03.
 </p><p>
 <b>SCREAMFEST 2003. </b> Website: <a href="http://www.screamfest2003.com">http://www.screamfest2003.com</a>.  E-mail: <a href="mailto:Punkineaty@Aol.Com">Punkineaty@Aol.Com</a>.  Address: Holiday Inn, Fort Lauderdale, Florida.  Dates: 11/8/03 - 11/9/03.
@@ -162,12 +206,10 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>VULKON ORLANDO. </b> Website: <a href="http://www.vulkon.com/">http://www.vulkon.com/</a>.  E-mail: <a href="mailto:joemotes@aol.com">joemotes@aol.com</a>.  Address: Orlando Hilton North, Altamonte Springs, Orlando, Florida.  Dates: 11/14/03 - 11/16/03.
 </p><p>
-</p><h3>Georgia</h3>
-<p>
+</p><h3>Georgia</h3><p>
 <b>GOTHCON. </b> Website: <a href="http://www.gothcon.org">http://www.gothcon.org</a>.  E-mail: <a href="mailto:Ruach93@aol.com">Ruach93@aol.com</a>.  Address: Sheraton Colony Square, Midtown, Atlanta, Georgia.  Dates: 10/30/03 - 11/1/03.
 </p><p>
-</p><h3>Illinois</h3>
-<p>
+</p><h3>Illinois</h3><p>
 <b>BATTLECON. </b> Website: <a href="http://www.battlegroundsinc.com">http://www.battlegroundsinc.com</a>.  E-mail: <a href="mailto:bzmomof5@direcway.com">bzmomof5@direcway.com</a>.  Address: Prairie Capital Convention Center, Springfield, Illinois.  Dates: 11/7/03 - 11/9/03.
 </p><p>
 <b>CHICAGO TARDIS 2003.</b>  Website: <a href="http://www.chicagotardis.com/">http://www.chicagotardis.com/</a>.  E-mail: <a href="mailto:info@chicagotardis.com">info@chicagotardis.com</a>.  Address: Sheraton Chicago Northwest, Arlington Heights, Illinois.  Dates: 11/28/03 - 11/30/03.
@@ -180,22 +222,18 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>WINDYCON XXX.  </b>Website: <a href="http://www.windycon.org/">http://www.windycon.org/</a>.  E-mail: <a href="mailto:Windycon@windycon.org">Windycon@windycon.org</a>.  Address: Hyatt Regency Woodfield, Schaumburg, Illinois.  Dates: 11/7/03 - 11/9/03.
 </p><p>
-</p><h3>Indiana</h3>
-<p>
+</p><h3>Indiana</h3><p>
 <b>GAMEFEST-INDY.</b>  Website: <a href="http://www.gamefestseries.com">http://www.gamefestseries.com</a>.  E-mail: <a href="mailto:linzee@gamefestseries.com">linzee@gamefestseries.com</a>.  Address: Four Points by Sheraton Indianapolis-East, Indianapolis, Indiana.  Dates: 11/21/03 - 11/23/03.
 </p><p>
 <b>PENTACON XIX.</b>  Website: <a href="http://www.pentacon.org">http://www.pentacon.org</a>.  E-mail: <a href="mailto:chairman@pentacon.org">chairman@pentacon.org</a>.  Address: Grand Wayne Center, Fort Wayne, Indiana.  Dates: 11/7/03 - 11/9/03.
 </p><p>
-</p><h3>Kansas</h3>
-<p>
+</p><h3>Kansas</h3><p>
 <b>KANSAS CITY COMICON. </b> Website: <a href="http://www.kansascitycomicon.com/">http://www.kansascitycomicon.com/</a>.  E-mail: <a href="mailto:yrogerg@ukans.edu">yrogerg@ukans.edu</a>.  Address: Shawnee Civic Center, Shawnee, Kansas.  Dates: 11/15/03 - 11/16/03.
 </p><p>
-</p><h3>Kentucky</h3>
-<p>
+</p><h3>Kentucky</h3><p>
 <b>SUGOI CON 2003. </b> Website: <a href="http://www.sugoicon.org/news.html">http://www.sugoicon.org/news.html</a>.  E-mail: <a href="mailto:SugoiGenInfo@fuse.net">SugoiGenInfo@fuse.net</a>.  Address: Cincinnati Marriott at River Center, Covington, Kentucky.  Dates: 11/21/03 - 11/23/03.
 </p><p>
-</p><h3>Maryland</h3>
-<p>
+</p><h3>Maryland</h3><p>
 <b>1948: SIGNALS. </b> Website: <a href="http://www.1948-signals.org/">http://www.1948-signals.org/</a>.  E-mail: <a href="mailto:contact@1948-signals.org">contact@1948-signals.org</a>.  Address: Frederick, Maryland.  Dates: 11/8/03 - 11/9/03.
 </p><p>
 <b>CAPCLAVE 2003. </b> Website: <a href="http://www.wsfa.org/">http://www.wsfa.org/</a>.  E-mail: <a href="mailto:capclave@keithlynch.net">capclave@keithlynch.net</a>.  Address: Hilton Silver Spring, Silver Spring, Maryland.  Dates: 11/21/03 - 11/23/03.
@@ -206,50 +244,41 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>FALL IN!  </b>Website: <a href="http://www.fall-in.org/">http://www.fall-in.org/</a>.  E-mail: <a href="mailto:frdhubig@concentric.net">frdhubig@concentric.net</a>.  Address: Maryland State Fair Grounds, Timonium, Maryland.  Dates: 11/14/03 - 11/16/03.
 </p><p>
-</p><h3>Massachusetts</h3>
-<p>
+</p><h3>Massachusetts</h3><p>
 <b>SUPER MEGAFEST. </b> Website: <a href="http://www.supermegashow.com">http://www.supermegashow.com</a>.  E-mail: <a href="mailto:kspromo@aol.com">kspromo@aol.com</a>.  Address: Sheraton Framingham Hotel, Framingham, Massachusetts.  Dates: 11/22/03 - 11/23/03.
 </p><p>
 <b>UNITED FAN CON XIII. </b> Website: <a href="http://www.unitedfancon.com">http://www.unitedfancon.com</a>.  E-mail: <a href="mailto:infobot@unitedfancon.com">infobot@unitedfancon.com</a>.  Address: Marriott Hotel, Springfield, Massachusetts.  Dates: 11/7/03 - 11/9/03.
 </p><p>
-</p><h3>Michigan</h3>
-<p>
+</p><h3>Michigan</h3><p>
 <b>UCON. </b> Website: <a href="http://www.ucon-gaming.org/">http://www.ucon-gaming.org/</a>.  E-mail: <a href="mailto:ucon-info@umich.edu">ucon-info@umich.edu</a>.  Address: University of Michigan Student Union, Ann Arbor, Michigan.  Dates: 11/14/03 - 11/16/03.
 </p><p>
-</p><h3>Minnesota</h3>
-<p>
+</p><h3>Minnesota</h3><p>
 <b>AXECON. </b> Website: <a href="http://www.shieldlands.net/">http://www.shieldlands.net/</a>.  E-mail: <a href="mailto:rick@shieldlands.net">rick@shieldlands.net</a>.  Address: Best Western Downtown, Minneapolis, Minnesota.  Dates: 11/7/03 - 11/9/03.
 </p><p>
 <b>VALLEYCON 28. </b> Website: <a href="http://www.valleycon.com/">http://www.valleycon.com/</a>.  E-mail: <a href="mailto:conchairs@valleycon.com">conchairs@valleycon.com</a>.  Address: Moorhead Conference Center, The Courtyard Marriott, Moorhead, Minnesota.  Dates: 10/31/03 - 11/2/03.
 </p><p>
-</p><h3>Mississippi</h3>
-<p>
+</p><h3>Mississippi</h3><p>
 <b>COASTCON JR. 12. </b> Website: <a href="http://coastcon.org">http://coastcon.org</a>.  E-mail: <a href="mailto:chairman@coastcon.org">chairman@coastcon.org</a>.  Address: Airport Holiday Inn (Hwy. 59), Gulfport, Mississippi.  Dates: 11/15/03 - 11/16/03.
 </p><p>
-</p><h3>Missouri</h3>
-<p>
+</p><h3>Missouri</h3><p>
 <b>CONTRACEPTION 15. </b> Website: <a href="http://www.sff.net/people/sfreader/contraception.htm">http://www.sff.net/people/sfreader/contraception.htm</a>.  E-mail: <a href="mailto:ssatterfield@kc.rr.com">ssatterfield@kc.rr.com</a>.  Address: Comfort Inn, Independence, Missouri.  Dates: 11/7/03 - 11/9/03.
 </p><p>
 <b>SHAUNCON XXI.</b>  Website: <a href="http://www.rpgkc.org">http://www.rpgkc.org</a>.  E-mail: <a href="mailto:RPGKC@aol.com">RPGKC@aol.com</a>.  Address: Blue Ridge Mall, Kansas City, Missouri.  Dates: 11/20/03 - 11/23/03.
 </p><p>
-</p><h3>Nevada</h3>
-<p>
+</p><h3>Nevada</h3><p>
 <b>LAS VEGAS COMIC CON.  </b>Website: <a href="http://www.lasvegascomiccon.com">http://www.lasvegascomiccon.com</a>.  E-mail: <a href="mailto:Angie@lasvegascomiccon.com">Angie@lasvegascomiccon.com</a>.  Address: Mandalay Bay, Las Vegas, Nevada.  Dates: 10/31/03 - 11/2/03.
 </p><p>
-</p><h3>New Hampshire</h3>
-<p>
+</p><h3>New Hampshire</h3><p>
 <b>SYRAANDOR: NERO ALLIANCE NEW HAMPSHIRE. </b> Website: <a href="http://www.syraandor.com/">http://www.syraandor.com/</a>.  E-mail: <a href="mailto:Jester@Syraandor.com">Jester@Syraandor.com</a>.  Address: Chiram's Hollow, Claremont, New Hampshire.  Dates: 10/18/03,  10/31/03 - 11/2/03.
 </p><p>
-</p><h3>New Jersey</h3>
-<p>
+</p><h3>New Jersey</h3><p>
 <b>ECLECTICON. </b> Website: <a href="http://members.aol.com/JRD803/eclecticon.htm">http://members.aol.com/JRD803/eclecticon.htm</a>.  E-mail: <a href="mailto:Eclecticon@juno.com">Eclecticon@juno.com</a>.  Address: Ramada Hotel, Newark, New Jersey.  Dates: 11/7/03 - 11/9/03.
 </p><p>
 <b>LAIRE - LIVE ACTION ROLEPLAYING EXPERIENCE.  </b>Website: <a href="http://www.laire.com">http://www.laire.com</a>.  E-mail: <a href="mailto:rhondaatlaire@yahoo.com">rhondaatlaire@yahoo.com</a>.  Address: Camp Sacajawea Girl Scout Camp, Sparta, New Jersey.  Dates: 11/21/03.
 </p><p>
 <b>LOLLAGAZEBO.</b>  Website: <a href="http://www.wildgazebo.com/">http://www.wildgazebo.com/</a>.  E-mail: <a href="mailto:info@wildgazebo.com">info@wildgazebo.com</a>.  Address: Sheraton Edison in Raritan Center, Edison, New Jersey.  Dates: 11/7/03 - 11/9/03.
  </p><p>
-</p><h3>New York</h3>
-<p>
+</p><h3>New York</h3><p>
 <b>5TH NATIONAL COMIC BOOK, ART, TOY &amp; SCI-FI EXPO. </b> Website: <a href="http://www.bigapplecon.com/">http://www.bigapplecon.com/</a>.  E-mail: <a href="mailto:bigapplecon@earthlink.net">bigapplecon@earthlink.net</a>.  Address: The Metropolitan Pavillion - 125 W. 18th St., New York City, New York.  Dates: 11/28/03 - 11/30/03.
 </p><p>
 <b>ASTRONOMICON. </b> Website: <a href="http://www.rochesterfantasyfans.org/conpage.html">http://www.rochesterfantasyfans.org/conpage.html</a>.  E-mail: <a href="mailto:ralston@aol.com">ralston@aol.com</a>.  Address: Sheraton Four Points, Rochester, New York.  Dates: 11/14/03 - 11/16/03.
@@ -258,34 +287,28 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>UNY-CON.  </b>Website: <a href="http://www.uny-con.com">http://www.uny-con.com</a>.  E-mail: <a href="mailto:director@uny-con.com">director@uny-con.com</a>.  Address: Four Points Clarion Hotel, Rochester, New York.  Dates: 11/14/03 - 11/16/03.
 </p><p>
-</p><h3>North Carolina</h3>
-<p>
+</p><h3>North Carolina</h3><p>
 <b>MACE. </b> Website: <a href="http://www.justusproductions.com">http://www.justusproductions.com</a>.  E-mail: <a href="mailto:justusprod@aol.com">justusprod@aol.com</a>.  Address: Radisson Hotel, High Point, North Carolina.  Dates: 11/14/03 - 11/16/03.
 </p><p>
-</p><h3>Ohio</h3>
-<p>
+</p><h3>Ohio</h3><p>
 <b>GAMES WORKSHOP COLUMBUS GRAND TOURNAMENT. </b> Website: <a href="http://www.games-workshop.com/news/us/events/events.htm">http://www.games-workshop.com/news/us/events/events.htm</a>.  E-mail: <a href="mailto:Custserv@Games-Workshop.com">Custserv@Games-Workshop.com</a>.  Address: Greater Columbus Convention Center, Columbus, Ohio.  Dates: 10/31/03 - 11/2/03.
 </p><p>
 <b>MID-OHIO-CON. </b> Website: <a href="http://www.wfcomics.com/midohiocon/">http://www.wfcomics.com/midohiocon/</a>.  E-mail: <a href="mailto:MidOhioCon@wfcomics.com">MidOhioCon@wfcomics.com</a>.  Address: Hilton Columbus Hotel at Easton Town Center, Columbus, Ohio.  Dates: 11/29/03 - 11/30/03.
 </p><p>
-</p><h3>Oregon</h3>
-<p>
+</p><h3>Oregon</h3><p>
 <b>AMBERCON NORTHWEST.  </b>Website: <a href="http://www.amberconnw.org">http://www.amberconnw.org</a>.  E-mail: <a href="mailto:simone@wyrdrune.com">simone@wyrdrune.com</a>.  Address: McMenamins Edgefield Resort, Troutdale, Portland, Oregon.  Dates: 11/20/03 - 11/23/03.
 </p><p>
 <b>NERDCON. </b> Website: <a href="http://www.kermanenterprises.com/cavenerds/nerdcon.html">http://www.kermanenterprises.com/cavenerds/nerdcon.html</a>.  E-mail: <a href="mailto:ada@kermanenterprises.com">ada@kermanenterprises.com</a>.  Address: Coachman Inn, 1572 NE Burnside St., Greshamn, OR, 97030.  Dates: 11/7/03 - 11/9/03.
 </p><p>
 <b>ORYCON. </b> Website: <a href="http://www.orycon.org/orycon25">http://www.orycon.org/orycon25</a>.  E-mail: <a href="mailto:patriciaannewells@yahoo.com">patriciaannewells@yahoo.com</a>.  Address: DoubleTree Columbia River, Portland, Oregon.  Dates: 11/14/03 - 11/16/03.
 </p><p>
-</p><h3>Pennsylvania</h3>
-<p>
+</p><h3>Pennsylvania</h3><p>
 <b>AURA FANTASY. </b> Website: <a href="http://www.auralive.com/">http://www.auralive.com/</a>.  E-mail: <a href="mailto:gameregistration@auralive.com">gameregistration@auralive.com</a>.  Address: Blue Mountain Campground, Hamburg, Pennsylvania.  Dates: 11/7/03 - 11/9/03.
 </p><p>
-</p><h3>South Carolina</h3>
-<p>
+</p><h3>South Carolina</h3><p>
 <b>BEACH BASH. </b> Website: <a href="http://beachbash.virtualave.net/index.html">http://beachbash.virtualave.net/index.html</a>.  E-mail: <a href="mailto:apsara_chaouw@yahoo.com">apsara_chaouw@yahoo.com</a>.  Address: The Breakers Resort Hotel, Myrtle Beach, South Carolina.  Dates: 11/7/03 - 11/9/03.
 </p><p>
-</p><h3>Tennessee</h3>
-<p>
+</p><h3>Tennessee</h3><p>
 <b>STAR TREK.  </b>Website: <a href="http://www.sfedora.com/">http://www.sfedora.com/</a>.  E-mail: <a href="mailto:sfedora1@aol.com">sfedora1@aol.com</a>.  Address: Nashville, Tennessee.  Dates: 11/7/03.
 </p><p>
 <b>STAR TREK. </b> Website: <a href="http://www.sfedora.com/">http://www.sfedora.com/</a>.  E-mail: <a href="mailto:sfedora1@aol.com">sfedora1@aol.com</a>.  Address: Knoxville, Tennessee.  Dates: 11/8/03.
@@ -296,14 +319,12 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>WARGAMERS REUNION. </b> Website: <a href="http://www.hmgs-midsouth.org/">http://www.hmgs-midsouth.org/</a>.  E-mail: <a href="mailto:patrick@perspectiveinc.net">patrick@perspectiveinc.net</a>.  Address: Holiday Inn, Memphis, Tennessee.  Dates: 10/31/03 - 11/2/03.
 </p><p>
-</p><h3>Texas</h3>
-<p>
+</p><h3>Texas</h3><p>
 <b>ITZACON 5.</b>  Website: <a href="http://www.phoenix-entertainment.net/itzacon4/index.html">http://www.phoenix-entertainment.net/itzacon4/index.html</a>.  E-mail: <a href="mailto:info@a-kon.com">info@a-kon.com</a>.  Address: Hyatt DFW Airport, Dallas/Ft. Worth, Texas.  Dates: 11/29/03 - 11/30/03.
 </p><p>
 <b>MILLENNIUM 6.</b>  Website: <a href="http://www.millenniumcon.com">http://www.millenniumcon.com</a>,  E-mail: <a href="mailto:jeff.mcculloch@fms.treas.gov">jeff.mcculloch@fms.treas.gov</a>,  Address: Red Lion Hotel, Austin, Texas,  Dates: 11/21/03 - 11/23/03.
 </p><p>
-</p><h3>Virginia</h3>
-<p>
+</p><h3>Virginia</h3><p>
 <b>ANIME.</b>  Website: <a href="http://www.animeusa.org/">http://www.animeusa.org/</a>.  E-mail: <a href="mailto:marcyu@yahoo.com">marcyu@yahoo.com</a>.  Address: Holiday Inn Rosslyn Westpark Hotel, Arlington, Virginia.  Dates: 11/21/03 - 11/23/03.
 </p><p>
 <b>MAGFEST 2.0. </b> Website: <a href="http://www.magfest.org/">http://www.magfest.org/</a>.  E-mail: <a href="mailto:tgz@orotech.net">tgz@orotech.net</a>.  Address: Clarion Hotel, Williamsburg, Virginia.  Dates: 10/31/03 - 11/2/03.
@@ -312,12 +333,10 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>RISING STAR 12. </b> Website: <a href="http://www.rising-star.org">http://www.rising-star.org</a>.  E-mail: <a href="mailto:ConChair@rising-star.org">ConChair@rising-star.org</a>.  Address: Glenvar High School, Salem, Virginia.  Dates: 11/7/03 - 11/9/03.
 </p><p>
-</p><h3>Washington, D.C.</h3>
-<p>
+</p><h3>Washington, D.C.</h3><p>
 <b>WORLD FANTASY CONVENTION 2003. </b> Website: <a href="http://www.worldfantasy.org/">http://www.worldfantasy.org/</a>.  E-mail: <a href="mailto:info@worldfantasy2003.org">info@worldfantasy2003.org</a>.  Address: Hyatt Regency Washington on Capitol Hill, Washington, D.C.  Dates: 10/30/03 - 11/2/03.
 </p><p>
-</p><h3>Australia</h3>
-<p>
+</p><h3>Australia</h3><p>
 <b>BEST OF BOTH WORLDS 20.  </b>Website: <a href="http://www.bobw.com.au/">http://www.bobw.com.au/</a>.  E-mail: <a href="mailto:alc@nlc.net.au">alc@nlc.net.au</a>.  Address: Rydges Lakeside Hotel, Canberra, London Circuit, Canberra City ACT.  Dates: 11/15/03 - 11/16/03.
 </p><p>
 <b>FSF PRESENTS JOHN RHYS-DAVIES. </b> Website: <a href="http://www.fsf.com.au/">http://www.fsf.com.au/</a>.  E-mail: <a href="mailto:fsf_presents@fsf.com.au">fsf_presents@fsf.com.au</a>.  Address: Dooleys Lidcombe Catholic Club, Sydney, New South Wales.  Dates: 11/22/03.
@@ -328,12 +347,10 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>HOLODICTION - SYDNEY. </b> Website: <a href="http://www.photonpublishing.com.au/">http://www.photonpublishing.com.au/</a>.  E-mail: <a href="mailto:maria@photonpublishing.com.au">maria@photonpublishing.com.au</a>.  Address: Wesley Convention Centre, Sydney.  Dates: 11/22/03 - 11/23/03.
 </p><p>
-</p><h3>Belgium</h3>
-<p>
+</p><h3>Belgium</h3><p>
 <b>CRISIS 03. </b> Website: <a href="http://www.tsoa.be">http://www.tsoa.be</a>.  E-mail: <a href="mailto:willieb@skynet.be">willieb@skynet.be</a>.  Address: Metropolis Business Centre, Antwerp, Belgium.  Dates: 11/8/03.
 </p><p>
-</p><h3>Canada</h3>
-<p>
+</p><h3>Canada</h3><p>
 <b>BREAKTHROUGH 2003.  </b>Website: <a href="http://www.trumpeterclub.com">http://www.trumpeterclub.com</a>.  E-mail: <a href="mailto:big_dog@telus.net">big_dog@telus.net</a>.  Address: The Guildford Sheraton Hotel, Vancouver (Surrey), British Columbia.  Dates: 11/7/03 - 11/9/03.
 </p><p>
 <b>CON*CEPT 2003. </b> Website: <a href="http://www.monsffa.com/">http://www.monsffa.com/</a>.  E-mail: <a href="mailto:cathypl@sympatico.ca">cathypl@sympatico.ca</a>.  Address: Days Inn Hotel, Montreal, Quebec.  Dates: 11/8/03.
@@ -348,8 +365,7 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>VANCOUVER COMICON. </b> Website: <a href="http://users.uniserve.com/~lswong/Comicon.html">http://users.uniserve.com/~lswong/Comicon.html</a>.  E-mail: <a href="mailto:lswong@uniserve.com">lswong@uniserve.com</a>.  Address: Heritage Hall, Vancouver, British Columbia.  Dates: 11/16/03.
 </p><p>
-</p><h3>Germany</h3>
-<p>
+</p><h3>Germany</h3><p>
 <b>DREIEICH CONVENTION 2003. </b> Website: <a href="http://www.dreieichcon.de">http://www.dreieichcon.de</a>.  E-mail: <a href="mailto:wiric@gmx.net">wiric@gmx.net</a>.  Address: B�rgerhaus Dreieich Fichtestreet 5, 063303 Dreieich (Near Frankfurt), Hessen.  Dates: 11/22/03 - 11/23/03.
 </p><p>
 <b>GERMANCITYCON. </b> Website: <a href="http://www.germancitycon.de">http://www.germancitycon.de</a>.  E-mail: <a href="mailto:info@germancitycon.de">info@germancitycon.de</a>.  Address: Hotel-Pyramide, Fuerth, Nuremberg, Bavaria.  Dates: 11/22/03 - 11/23/03.
@@ -358,18 +374,15 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>RING*CON 2003. </b> Website: <a href="http://www.ringcon.de/">http://www.ringcon.de/</a>.  E-mail: <a href="mailto:webmaster@ringcon.de">webmaster@ringcon.de</a>.  Address: Maritim Hotel, Bonn.  Dates: 11/14/03 - 11/16/03.
 </p><p>
-</p><h3>Italy</h3>
-<p>
+</p><h3>Italy</h3><p>
 <b>DADI.COM.</b>  Website: <a href="http://www.dadiepiombo.com">http://www.dadiepiombo.com</a>.  E-mail: <a href="mailto:losart@libero.it">losart@libero.it</a>.  Address: University of Crema, Crema, Lombardy.  Dates: 11/22/03 - 11/23/03.
 </p><p>
 <b>LUCCA COMICS &amp; GAMES.</b>  Website: <a href="http://www.luccacomics.com/03/default.asp">http://www.luccacomics.com/03/default.asp</a>.  E-mail: <a href="mailto:comics&amp;games@lunet.it">comics&amp;games@lunet.it</a>.  Address: Fair Point, Lucca, Tuscany.  Dates: 10/31/03 - 11/2/03.
 </p><p>
-</p><h3>Norway</h3>
-<p>
+</p><h3>Norway</h3><p>
 <b>HEXCON 2003.</b>  Website: <a href="http://www.hexcon.no">http://www.hexcon.no</a>.  E-mail: <a href="mailto:hexcon@pvv.org">hexcon@pvv.org</a>.  Address: Trondheim, S�r-Tr�ndelag.  Dates: 11/7/03 - 11/9/03.
 </p><p>
-</p><h3>United Kingdom</h3>
-<p>
+</p><h3>United Kingdom</h3><p>
 <b>ALTERNATE UNIVERSE.</b>  Website: <a href="http://www.L3conventions.co.uk/alternateuni.htm">http://www.L3conventions.co.uk/alternateuni.htm</a>.  E-mail: <a href="mailto:info@L3conventions.co.uk">info@L3conventions.co.uk</a>.  Address: The Thistle London Heathrow, London, England.  Dates: 11/14/03 - 11/16/03.
 </p><p>
 <b>ARMADACON 2003. </b> Website: <a href="http://www.armadacon.org">http://www.armadacon.org</a>.  E-mail: <a href="mailto:enquiries@armadacon.org">enquiries@armadacon.org</a>.  Address: Copthorne Hotel, Plymouth, Devon.  Dates: 10/31/03 - 11/2/03.
@@ -384,18 +397,15 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
 <img align="right" alt="Linda A. Malcor as Danya Winterborn" border="5" loading="lazy" src="/qo176.jpg"/>
 </p><p>
-</p><h2>Member News:</h2>
-<p>
+</p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.37 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 </p><p>
-</p><h3>Local chapters:</h3>
-<p>
+</p><h3>Local chapters:</h3><p>
 </p><ul>
-<li><b>Arrows OnLine:</b> Contact: Adept Grayfeather k'Varis  (Kristi Reed).  E-mail:  <a>DragonMamaK@aol.com</a>. Arrows OnLine is the AOL chapter of QO.  Chats will be held the first and third Wednesdays of each month from 8-10 PM ET.  Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions.  Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat.  As far as instructions on how to get there . . . there are lots of hoops to jump through now.  Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there.  She's no longer a keyword, but hopefully with more traffic in the future that will change.  If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links.  The links to the chatroom will be on my "signature" on the boards.
+<li><b>Arrows OnLine:</b> Contact: Adept Grayfeather k'Varis  (Kristi Reed).  E-mail:  DragonMamaK@aol.com. Arrows OnLine is the AOL chapter of QO.  Chats will be held the first and third Wednesdays of each month from 8-10 PM ET.  Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions.  Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat.  As far as instructions on how to get there . . . there are lots of hoops to jump through now.  Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there.  She's no longer a keyword, but hopefully with more traffic in the future that will change.  If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links.  The links to the chatroom will be on my "signature" on the boards.
 <p>
 </p></li><li><b>German Heartstone:</b>  Website: <a href="http://www.heartstone.de">http://www.heartstone.de</a>.  Contact: <a href="mailto:Sunny@heartstone.de">Sunny@heartstone.de</a> or <a href="mailto:Shae@heartstone.de">Shae@heartstone.de</a>. A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on <a href="http://www.heartstone.de">http://www.heartstone.de</a>!   For more information contact <a href="mailto:Sunny@heartstone.de">Sunny@heartstone.de</a> or <a href="mailto:Shae@heartstone.de">Shae@heartstone.de</a>.
 <p>
@@ -417,10 +427,8 @@ when we launch our chapter website.  Snail mail: Jan Tallevast, Rt 1 Box 137, Mi
 </p></li><li><b>Southern Arrow:</b>  Website:  <a href="http://groups.yahoo.com/group/gaqueensown/">http://groups.yahoo.com/group/gaqueensown/</a>  Contact: Herald Sitara.  E-mail:  <a href="mailto:ravindraanima@gmail.com">ravindraanima@gmail.com</a>.  Heralds unite! Southern Arrow is up and running again, and we'd love to have you along! I'm planning on fanzines, trips to cons, and much, much more. If you would like to sign up for the newsletter, or the fanzine you can go to <a href="http://groups.yahoo.com/group/gaqueensown/">http://groups.yahoo.com/group/gaqueensown/</a>  and you will but automatically included.  I'm also looking for someone to help me out with this, and maybe pull up a website. If interested contact me at <a href="mailto:sblackwell@knology.net">sblackwell@knology.net</a>. And if you'd like to contact me about any ideas or suggestions, please put it on the board, I would love to hear what you have!
 <p>
 </p></li><li><b>The Vanyel Fan Club</b>: Website:  <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.  Contact:  <a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>.  The <i>Vanyel Fan Club</i> is a chapter of QO that started out as an independent fan organization.  The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage Trilogy</i> by Mercedes Lackey. E-mail: <a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>.  For more information, see the VFC website at <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.
-</li></ul>
-<p>
-</p><h3>Zines and Newsletters:</h3>
-<p>
+</li></ul><p>
+</p><h3>Zines and Newsletters:</h3><p>
 </p><ul>
 <li><b><i>Austral'a'in</i>:</b> Editor: Cassandra Vuksa.  We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption.  <i>Austral'a'in</i> is up for adoption.  If you are interested in adopting the chapter, contact Cassandra Vuksa, <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.
 
@@ -468,12 +476,9 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b>Tales of the Southern Bard:</b>  TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at <a href="mailto:SouthernBard@eudoramail.com">SouthernBard@eudoramail.com</a> for submission guidelines and information on how to join or visit TOTSB's homepage: <a href="http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm">http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm</a>.
 <p>
 </p></li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
-</li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><h2>Other Fandoms:</h2>
-<p>
+</li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><h2>Other Fandoms:</h2><p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 <p>
@@ -493,12 +498,9 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li>Star Trek: The <b>USS Starfire</b> is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at <a href="http://www.epix.net/~ckocher/starfire.html ">http://www.epix.net/~ckocher/starfire.html</a> or e-mail us at <a href="mailto:trek01@epix.net">trek01@epix.net</a>.
 <p>
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
-</li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><h3>Collegium News:</h3>
-<p>
+</li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><h3>Collegium News:</h3><p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 </p><p>
 You need a release form (online at <a href="/release-form-instructions/">/release-form-instructions/</a>) if you write a story set in Misty's worlds or using any of her characters.  You do not need a release for a character sketch, poem or filk.  All Misty wants to do is protect her characters and her worlds.  Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  Do NOT include the <i>original</i> of the release form with your persona material; send it to Misty.  Send a <i>copy</i> to us.
@@ -508,19 +510,16 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 </p><ul>
 <li>Welcome to <b>Herald Hedrian</b>, Chosen by Flaman and Gifted with strong Mindspeech and Empathy!  <i>Hannah Katz</i> wrote about her persona and Hedrian�s family and friends, wrote a poem and learned CPR.<p>
 </p></li><li>Welcome to <b>Herald Cibrian Rilik</b>, Chosen by Omorose and Gifted with double-strength Mindspeech and Empathy!  <i>Sara Haas</i> wrote about Cibrian and his family and friends, drew a picture of Cibrian�s Companion and learned to ride.
-</li></ul>
-<p>
+</li></ul><p>
 Formerly approved members who are returning to QO include
 </p><p>
 </p><ul>
 <li><b>Herald Constantine Rief</b> (Rela) (May 1992) (Foresight, strong Mindspeech)
 </li><li><b>Herald Tobias Mider</b> (Suzon) (February 1993) (Mindspeech, Empathy)
-</li></ul>
-<p>
+</li></ul><p>
 If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 </p><p>
-</p><h3>Lost . . .</h3>
-<p>
+</p><h3>Lost . . .</h3><p>
 One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
@@ -621,5 +620,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></li></g></p></a></p>
+</p></li></g></p></p>
 </div>

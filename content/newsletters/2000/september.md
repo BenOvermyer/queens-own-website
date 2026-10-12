@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -135,7 +134,7 @@ RENAISSANCE FAIRE AT ST. BONAVENTURE.  Fax:  716-375-2380.  Address: Renaissance
 </p><p>
 </p><h3>North Carolina</h3>
 <p>
-CAROLINA RENAISSANCE FESTIVAL.  Fax: 704-896-5533.  E-mail: <a>carolinarenfest@royalfaires.com</a>.  Website: <a href="http://www.royalfaires.com">http://www.royalfaires.com</a>.  Address: P.O. Box 165, Davidson, NC  28036-0165.  Site Address: 16445 Poplar Tent Rd., Huntersville, NC  28078-4620.  Dates:  9/30/00 - 11/12/00.  Open/Close: 10:00 AM - 5:30 PM.
+CAROLINA RENAISSANCE FESTIVAL.  Fax: 704-896-5533.  E-mail: carolinarenfest@royalfaires.com.  Website: <a href="http://www.royalfaires.com">http://www.royalfaires.com</a>.  Address: P.O. Box 165, Davidson, NC  28036-0165.  Site Address: 16445 Poplar Tent Rd., Huntersville, NC  28078-4620.  Dates:  9/30/00 - 11/12/00.  Open/Close: 10:00 AM - 5:30 PM.
 </p><p>
 </p><h3>Ohio</h3>
 <p>

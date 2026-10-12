@@ -57,7 +57,7 @@ canonical_path = "/compass-rose/summer-2000/in-the-name-of-god/references/"
 </p></li><li><a id="note18" name="note18"></a><a href="/compass-rose/summer-2000/in-the-name-of-god/references/#hollister">Hollister 1982:185</a>.
 </li></ol>
 <p>
-<a id="ref" name="ref"><h3>References Cited</h3></a>
+<h3 id="ref">References Cited</h3>
 </p><p>
 <a id="bachrach" name="bachrach"></a>
 Bachrach, Bernard S.  1977.  <i>Early Medieval Jewish Policy in Western Europe</i>. Minneapolis: University of Minnesota Press.
@@ -93,21 +93,12 @@ Ward, Donald J., ed. and trans.  1981.  <i>The German Legends of the Brothers Gr
 <p>
 </p><center>This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</center>
 <p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
-
 </p>
 </div>

@@ -43,6 +43,12 @@ affected the 2000–2005 convention listings most heavily.
   needed a targeted edit beyond the general rules: the display-name `mailto:` on the
   chapters page, the Vanyel Fan Club chat link, a duplicate `special` anchor, and a
   Michigan Renaissance Festival link whose opening `<` had a space after it.
+- `scripts/markup_normalize.py` repairs invalid block-in-anchor nesting: named
+  anchors and table-of-contents links that wrapped headings become headings that
+  carry the id or contain the link, stray anchors that wrapped whole sections
+  release that content, and anchors with no target are removed. Both importers
+  apply it before writing a page, and it can be rerun over existing content with
+  `python3 scripts/markup_normalize.py`.
 
 A content-preservation check compares each changed page against its committed
 version: every page keeps its prose, links, images, and anchors, or gains them. The
@@ -57,11 +63,9 @@ These are reported but not structural errors. They are candidates for the redesi
 | --- | ---: | ---: |
 | `obsolete_element` (`center`, `font`, `u`, `xmp`) | 3587 | 248 |
 | `presentational_attribute` (`align`, `valign`, `size`, `border`, `face`…) | 8783 | 248 |
-| `block_in_anchor` (`<a name><h2>…` idiom) | 2239 | 18 |
 | `block_in_paragraph` | 1880 | 68 |
 | `table_without_header` | 150 | 62 |
 | `heading_level_skipped` | 36 | 33 |
-| `anchor_without_target` (empty `<a>`) | 26 | 20 |
 | `multiple_h1` | 17 | 17 |
 | `nested_table` | 2 | 2 |
 

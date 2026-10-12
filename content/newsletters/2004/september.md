@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -144,7 +143,7 @@ I found this to be an enjoyable read, especially for fans of dragon stories.
 <p>
 <b>LORD BRANDON'S BAWDY BETROTHAL FEAST. </b> Site Address: The Huntington Townhouse124 E. Jerich Tpk., Huntington Station, New York, 11756.  Dates: 9/11/04, 9/18/04, 10/02/04, 10/09/04, 10/30/04, 11/06/04.
 </p><p>
-<b>NEW YORK RENAISSANCE FAIRE. </b> E-mail: <a>joeg@recfair.com</a>.  Website: <a href="http://www.renfair.com">http://www.renfair.com</a>.  Address: Joe Gargiulo, REC, 600 Rte. 17A, Tuxedo, NY, 10987.  Site Address: Sterling Forest, Rt. 17A, Tuxedo, NY.  Dates:  8/7/04 � 9/26/04.  Open/Close: 10:00 AM � 7:00 PM.
+<b>NEW YORK RENAISSANCE FAIRE. </b> E-mail: joeg@recfair.com.  Website: <a href="http://www.renfair.com">http://www.renfair.com</a>.  Address: Joe Gargiulo, REC, 600 Rte. 17A, Tuxedo, NY, 10987.  Site Address: Sterling Forest, Rt. 17A, Tuxedo, NY.  Dates:  8/7/04 � 9/26/04.  Open/Close: 10:00 AM � 7:00 PM.
 </p><p>
 </p><h3>Ohio</h3>
 <p>
@@ -218,7 +217,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 <b>THE CHICAGOLAND ENTERTAINMENT COLLECTORS EXPO. </b> Website:
 <a href="http://www.nonsportcardexpo.com">http://www.nonsportcardexpo.com</a>.  E-mail: <a href="mailto:nonsportcardexpo@aol.com">nonsportcardexpo@aol.com</a>.  Address: Ramada O'Hare, Rosemont, Illinois.  Dates: 9/10/04 - 9/12/04.
 </p><p>
-<b>CHICAGOLAND TOY &amp; GAME FAIR.</b>  Website: <a href="http://www.chitag.com">http://www.chitag.com</a>.  E-mail: <a>info@chitag.com</a>.  Address: Navy Pier, Chicago, Illinois.  Dates: 9/3/04 - 9/5/04.
+<b>CHICAGOLAND TOY &amp; GAME FAIR.</b>  Website: <a href="http://www.chitag.com">http://www.chitag.com</a>.  E-mail: info@chitag.com.  Address: Navy Pier, Chicago, Illinois.  Dates: 9/3/04 - 9/5/04.
 </p><p>
 <b>I-CON 2004.  </b>Website: <a href="http://www.mecca-anime.com/I-Con/i-con.html">http://www.mecca-anime.com/I-Con/i-con.html</a>.  E-mail: <a href="mailto:Paul@mecca-anime.com">Paul@mecca-anime.com</a>.  Address: Crowne Plaza, Springfield, Illinois.  Dates: 9/3/04 - 9/5/04.
 </p><p>

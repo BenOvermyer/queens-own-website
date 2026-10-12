@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -135,7 +134,7 @@ Here are the Faires we know about for September.  Faires are indexed alphabetica
 </p><p>
 <b>TABLEROCK'S FANTASY FAIRE.</b>  E-mail: <a href="mailto:tablerock1@aol.com">tablerock1@aol.com</a>.  Website:  <a href="http://www.allcentex.com/table">http://www.allcentex.com/table</a>.  Address:  Salado, TX.  Dates: 9/17/05 - 9/18/05.  Open / Close: 10:00 AM - 6:00 PM.
 </p><p>
-For additional Ren. Faire information, visit the Renaissance Faire Homepage at <a>http://www.renfaire.com/</a>, the Renaissance Festival Directory at <a href="http://www.renaissancefestival.com/rendir.asp">http://www.renaissancefestival.com/rendir.asp</a>, and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
+For additional Ren. Faire information, visit the Renaissance Faire Homepage at http://www.renfaire.com/, the Renaissance Festival Directory at <a href="http://www.renaissancefestival.com/rendir.asp">http://www.renaissancefestival.com/rendir.asp</a>, and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
 </p><p>
 </p><h2>Conventions:</h2>
 <p>

@@ -44,7 +44,7 @@ canonical_path = "/compass-rose/spring-2002/music-in-medieval-ireland/references
 </p></li><li><a id="note5" name="note5"></a>A secular banquet in medieval Ireland, depicts a harper seated on the ground on the far right (woodcut: harper and reciter; circa 1581 AD; <a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#buckley2">Buckley 2000:174</a>).<p>
 </p></li></ol>
 <p>
-<a id="ref" name="ref"><h3>References Cited</h3></a>
+<h3 id="ref">References Cited</h3>
 </p><p>
 <a id="altramar"></a><a id="alramar" name="alramar"></a>
 Altramar. <i>Liner Notes to Crossroads of the Celts</i>. New York: Dorian, DOR-93177, 1999.
@@ -105,21 +105,12 @@ Sayers, William. "The Bound and the Binding: The Lyre in Early Ireland." <i>Proc
 <p>
 </p><center>This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</center>
 <p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
-
 </p>
 </div>

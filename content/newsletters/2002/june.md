@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -256,65 +255,95 @@ These are the upcoming cons we know about.  Have any information about conventio
 <b>JOSHUA CON II.</b>  Website: <a href="http://home1.gte.net/beattie5/joshua/">http://home1.gte.net/beattie5/joshua/</a>.  E-mail:  <a href="mailto:joshua.con@verison.net">joshua.con@verison.net</a>.  Address: Lancaster, CA.  Dates: 6/02.
 </p><p>
 <b>POLYCON XX.</b>  Website: <a href="http://polycon.punk.net/">http://polycon.punk.net/</a>.  E-mail: <a href="mailto:polycon@polycon.org">polycon@polycon.org/a&gt;.  Address: Trinity Dorm California Polytechnic State University, San Luis Obispo, CA.  Dates: 6/28/02 - 6/30/02.
-<p>
-</p><h3>Colorado</h3>
-<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</a><p>
+</p><h3>Colorado</h3><p>
 <b>BEN CON 2002.</b>  Website: <a href="http://www.bengames.org/bencon/index.html">http://www.bengames.org/bencon/index.html</a>.  E-mail: <a href="mailto:info@bengames.org">info@bengames.org</a>.  Address: Marriott Denver Tech Center, Denver, CO.  Dates: 6/6/02 - 6/9/02.
 </p><p>
-</p><h3>Connecticut</h3>
-<p>
+</p><h3>Connecticut</h3><p>
 <b>RUNECON 2002.</b> Website: <a href="http://www.runecon.com">http://www.runecon.com</a>.  E-mail: <a href="mailto:runecon@runecon.com">runecon@runecon.com</a>.  Address: Ramada Inn, Plainville, Connecticut.  Dates: 5/31/02 - 6/2/02.
 </p><p>
-</p><h3>Florida</h3>
-<p>
+</p><h3>Florida</h3><p>
 <b>DEREKCON 26.</b>  Website: <a href="http://www.geocities.com/vsolfronk/nasamwdeepsouth.html">http://www.geocities.com/vsolfronk/nasamwdeepsouth.html</a>.  E-mail: <a href="mailto:Darnd022263@aol.com">Darnd022263@aol.com</a>.  Address: Borderlands, Jacksonville, Florida.  Dates: 6/26/02.
 </p><p>
 Georgia
 </p><p>
 <b>SCI FI SUMMER ATLANTA 2002.</b>  Website: <a href="http://www.sci-fi-summer.com">http://www.sci-fi-summer.com</a>.  E-mail: <a href="mailto:joeve@bellsouth.net">joeve@bellsouth.net</a>.  Address: Doubletree Guest Suites, Atlanta, Georgia.  Dates: 6/14/02 - 6/16/02.
 </p><p>
-</p><h3>Illinois</h3>
-<p>
+</p><h3>Illinois</h3><p>
 <b>DIECON 2.</b>  Website: <a href="http://www.diecon.com">http://www.diecon.com</a>.  E-mail: <a href="mailto:ipw4@apci.net">ipw4@apci.net</a>.  Address: Gateway Center Convention Complex, Collinsville, IL.  Dates: 5/31/02 - 6/2/02.
 </p><p>
 <b>DUCKON 11.</b>  Website: <a href="http://www.duckon.org/">http://www.duckon.org/</a>.  E-mail: <a href="mailto:info@duckon.org">info@duckon.org</a>.  Address: Hyatt Regency Woodfield, Schaumburg, IL.  Dates: 6/7/02 - 6/9/02.
 </p><p>
 <b>STAR TREK.</b>  Website: <a href="http://www.sfedora.com/">http://www.sfedora.com/</a>.  E-mail: <a href="mailto:sfedora1@aol.com">sfedora1@aol.com</a>.  Address: Radisson O'Hare Hotel, Rosemont, Chicago, IL.  Dates: 6/28/02 - 6/30/02.
 </p><p>
-</p><h3>Louisiana</h3>
-<p>
+</p><h3>Louisiana</h3><p>
 <b>BAYOU WARS.</b>  Website: <a href="http://www.geocities.com/Pentagon/Quarters/6068/BayouWars2000.htm">http://www.geocities.com/Pentagon/Quarters/6068/BayouWars2000.htm/a&gt;.  E-mail: </a><a href="mailto:HCMcManus@AOL.COM">HCMcManus@AOL.COM</a>.  Address: Quality Hotel, New Orleans, Louisiana.  Dates: 6/7/02 - 6/9/02.
 </p><p>
-</p><h3>Maryland</h3>
-<p>
+</p><h3>Maryland</h3><p>
 <b>TORCH OF FREEDOM.</b>  Website: <a href="http://www.intercom.net/~bglassco/Torch/Torchhome.htm">http://www.intercom.net/~bglassco/Torch/Torchhome.htm</a>.  E-mail: <a href="mailto:esglasb@es.cc.va.us">esglasb@es.cc.va.us</a>.  Address: Days Hotel, Timonium, Maryland.  Dates: 6/14/02 - 6/16/02.
 </p><p>
 <b>VIA 1936: HORROR.</b>  Website: <a href="http://www.vialarp.org/">http://www.vialarp.org/</a>.  E-mail: <a href="mailto:vialarp@yahoo.com">vialarp@yahoo.com</a>.  Address: Greater Baltimore-Washington Area, Maryland.  Dates: 6/7/02 - 6/9/02, 6/28/02 - 6/30/02.
 </p><p>
-</p><h3>Massachusetts</h3>
-<p>
+</p><h3>Massachusetts</h3><p>
 <b>STAR TREK.</b>  Website: <a href="http://www.sfedora.com/">http://www.sfedora.com/</a>.  E-mail: <a href="mailto:sfedora1@aol.com">sfedora1@aol.com</a>.  Address: Sheraton Framingham - Tara, Framingham, Boston, MA.  Dates: 6/7/02 - 6/9/02.
 </p><p>
-</p><h3>Michigan</h3>
-<p>
+</p><h3>Michigan</h3><p>
 <b>CONTRAPTION 2002.</b>  Website: <a href="http://www.contraption.org/">http://www.contraption.org/</a>.  E-mail: <a href="mailto:contraption@contraption.org">contraption@contraption.org</a>.  Address: Doubletree Hotel at Detroit Metro Airport, Romulus, MI.  Dates: 6/28/02 - 6/30/02.
 </p><p>
 <b>JAFAX 7.</b>  Website: <a href="http://www2.gvsu.edu/~anime/jafax/">http://www2.gvsu.edu/~anime/jafax/</a>.  E-mail: <a href="mailto:anime@river.it.gvsu.edu">anime@river.it.gvsu.edu</a>.  Address: Grand Valley State University, Allendale, MI.  Dates: 6/24/02 - 6/25/02.
 </p><p>
 <b>MDG MICHICON GAMEFEST 2002.</b>  Website: <a href="http://www.mdgcons.com">http://www.mdgcons.com</a>.  E-mail: <a href="mailto:rlfix@aol.com">rlfix@aol.com</a>.  Address: Italian American Cultural Center, Warren, MI. Dates: 6/28/02 - 6/30/02.
 </p><p>
-</p><h3>Missouri</h3>
-<p>
+</p><h3>Missouri</h3><p>
 <b>CONJURATION 2002.</b>  Website: <a href="http://www.conjuration.org">http://www.conjuration.org</a>.  E-mail: <a href="mailto:lknisely.sknisely@verizon.net">lknisely.sknisely@verizon.net</a>.  Address: Ramada Inn, Columbia, Missouri.  Dates: 6/21/02 - 6/23/02.
 </p><p>
-</p><h3>New Hampshire</h3>
-<p>
+</p><h3>New Hampshire</h3><p>
 <b>ODYSSEY.</b>  Website: <a href="http://www.nhc.edu/odyssey/">http://www.nhc.edu/odyssey/</a>.  E-mail: <a href="mailto:jcavelos@mindspring.com">jcavelos@mindspring.com</a>.  Address: New Hampshire College, Manchester, NH.  Dates: 6/10/02 - 6/19/02.
 </p><p>
 <b>SYRAANDOR: NERO ALLIANCE NEW HAMPSHIRE.</b> Website: <a href="http://www.syraandor.com/">http://www.syraandor.com/</a>.  E-mail: <a href="mailto:Jester@Syraandor.com">Jester@Syraandor.com</a>.  Address: Syraandor site, Claremont, New Hampshire.  Dates: 5/31/02 - 6/2/02.
 </p><p>
-</p><h3>New Jersey</h3>
-<p>
+</p><h3>New Jersey</h3><p>
 <b>ASIAN FANTASY FILM EXPO 3.</b>  Website: <a href="http://www.daikaiju.com/affe/">http://www.daikaiju.com/affe/</a>.  E-mail: <a href="mailto:twozbar@verizon.net">twozbar@verizon.net</a>.
 Address: Holiday Inn &amp; Conference Center, Saddle Brook, NJ.  Dates: 6/15/02 - 6/16/02.
 </p><p>
@@ -326,42 +355,35 @@ Address: Holiday Inn &amp; Conference Center, Saddle Brook, NJ.  Dates: 6/15/02 
 </p><p>
 <b>NERO NJ.</b>  Website: <a href="http://www.neronj.com">http://www.neronj.com</a>.  E-mail: <a href="mailto:neronj@neronj.com">neronj@neronj.com</a>.  Address: Camp Sacawjewia, Farmingdale, NJ.  Dates: 6/14/02 - 6/16/02.
 </p><p>
-</p><h3>New York</h3>
-<p>
+</p><h3>New York</h3><p>
 <b>CONTATA 3.</b>  Website: <a href="http://www.rishathra.com/contata/">http://www.rishathra.com/contata/</a>.  E-mail: <a href="mailto:Contata2002@excite.com">Contata2002@excite.com</a>.  Address: NYC Area, NY.  Dates: 6/21/02 - 6/23/02.
 </p><p>
 <b>INTN'L SCI FI &amp; FANTASY CREATORS CONVENTION.</b>  Website: <a href="http://www.innervisioncomics.com/convention/index.htm">http://www.innervisioncomics.com/convention/index.htm</a>.  E-mail: <a href="mailto:webmaster@innervisioncomics.com">webmaster@innervisioncomics.com</a>.  Address: Madison Square Garden, New York, NY.  Dates: 6/28/02 - 6/30/02.
 </p><p>
 <b>STAR TREK.</b>  Website: <a href="http://www.creationent.com/">http://www.creationent.com/</a>.  E-mail: <a href="mailto:tickets@creationent.com">tickets@creationent.com</a>.  Address: Meadowlands Crowne Plaza Hotel, New York City Area, NY.  Dates: 6/1/02 - 6/2/02.
 </p><p>
-</p><h3>North Carolina</h3>
-<p>
+</p><h3>North Carolina</h3><p>
 <b>CONCAROLINAS.</b>  Website: <a href="http://www.secfi.org/concarolinas">http://www.secfi.org/concarolinas</a>.  E-mail: <a href="mailto:concarolinas@yahoo.com">concarolinas@yahoo.com</a>.  Address: Marriott Executive Park, Charlotte, NC.  Dates: 6/1/02 - 6/2/02.
 </p><p>
 <b>COURTS OF CHAOS CON.</b>  Website: <a href="http://www.karakash.com/ccc">http://www.karakash.com/ccc</a>.  E-mail: <a href="mailto:bamafan@worldnet.att.net">bamafan@worldnet.att.net</a>.  Address: Embassy Suites, Raleigh, NC.  Dates: 6/20/02 - 6/23/02.
 </p><p>
 <b>HEROES CONVENTION.</b>  Website: <a href="http://www.heroesonline.com/">http://www.heroesonline.com/</a>.  E-mail: <a href="mailto:shelton@heroesonline.com">shelton@heroesonline.com</a>.  Address: Charlotte Convention Center, Charlotte, NC.  Dates: 6/14/02 - 6/16/02.
 </p><p>
-</p><h3>Ohio</h3>
-<p>
+</p><h3>Ohio</h3><p>
 <b>MIDWESTCON 53.</b>  Website: <a href="http://www.cfg.org/">http://www.cfg.org/</a>.  E-mail: <a href="mailto:ScottSt@ix.netcom.com">ScottSt@ix.netcom.com</a>.  Address: Blue Ash Hotel, Cincinnati, OH.  Dates: 6/27/02 - 6/30/02.
 </p><p>
-</p><h3>Pennsylvania</h3>
-<p>
+</p><h3>Pennsylvania</h3><p>
 <b>AURA FANTASY.</b>  Website: <a href="http://www.auralive.com/">http://www.auralive.com/</a>.  E-mail: <a href="mailto:cmoore@auralive.com">cmoore@auralive.com</a>.  Address: Blue Mountain Campground, Hamburg, PA.  Dates: 6/21/02 - 6/23/02.
 </p><p>
 <b>MONSTER BASH.</b>  Website: <a href="http://www.creepyclassics.com/">http://www.creepyclassics.com/</a>.  E-mail: <a href="mailto:bat13@westol.com">bat13@westol.com</a>.  Address: Days Inn Conference Center, North Pittsburgh - Butler, PA.  Dates: 6/21/02 - 6/23/02.
 </p><p>
-</p><h3>South Carolina</h3>
-<p>
+</p><h3>South Carolina</h3><p>
 <b>SPARTACON 2002.</b>  Website: <a href="http://www.angelfire.com/rpg/spartacon/">http://www.angelfire.com/rpg/spartacon/</a>.  E-mail: <a href="mailto:b29349@yahoo.com">b29349@yahoo.com</a>.  Address: Wilson World Hotels &amp; Suites, Spartanburg, SC.  Dates: 6/22/02 - 6/23/02.
 </p><p>
-</p><h3>Tennessee</h3>
-<p>
+</p><h3>Tennessee</h3><p>
 <b>ADVENTURE CONVENTION.</b>  Website: <a href="http://Toyshow.Org">http://Toyshow.Org</a>.  E-mail: <a href="mailto:info@toyshow.org">info@toyshow.org</a>.  Address: Merchants I-75 Expo Center, Knoxville, TN.  Dates: 6/1/02 - 6/2/02.
 </p><p>
-</p><h3>Texas</h3>
-<p>
+</p><h3>Texas</h3><p>
 <b>CONSORTIUM.</b>  Website: <a href="http://www.con-sortium.org/">http://www.con-sortium.org/</a>.  E-mail: <a href="mailto:randresakis@houston.rr.com">randresakis@houston.rr.com</a>.  Address: Hobby Airport Radisson, Houston, TX.  Dates: 6/14/02 - 6/16/02.
 </p><p>
 <b>THE DALLAS COMIC &amp; TOY FEST 4.</b>  Website: <a href="http://www.herorealm.com/HotFish/dctf4.htm">http://www.herorealm.com/HotFish/dctf4.htm</a>.  E-mail: <a href="mailto:hotfishstudios@hotmail.com">hotfishstudios@hotmail.com</a>.  Address: Richardson Civic Center, Dallas, TX.  Dates: 6/22/02 - 6/23/02.
@@ -375,22 +397,18 @@ E-mail: <a href="mailto:scifiexpo@aol.com">scifiexpo@aol.com</a>.  Address: Plan
 </p><p>
 <b>PROJECT A-KON 2002.</b> Website: <a href="http://www.a-kon.com/">http://www.a-kon.com/</a>.  E-mail: <a href="mailto:info@a-kon.com">info@a-kon.com</a>.  Address: Hyatt Regency Hotel at DFW Airport, Dallas, Texas.  Dates: 5/31/02 - 6/2/02.
 </p><p>
-</p><h3>Virginia</h3>
-<p>
+</p><h3>Virginia</h3><p>
 <b>6TH ANNUAL GATHERING OF THE GARGOYLES.</b>  Website: <a href="http://gathering.gargoyles-fans.org/">http://gathering.gargoyles-fans.org/</a>.  E-mail: <a href="mailto:gatheringofgargoyles@yahoo.com">gatheringofgargoyles@yahoo.com</a>.  Address: The Holiday Inn Downtown Busch Gardens, Williamsburg, Virginia.  Dates: 6/28/02 - 6/30/02.
 </p><p>
 <b>ANIME MID-ATLANTIC.</b>  Website: <a href="http://www.animemidatlantic.com">http://www.animemidatlantic.com</a>.  E-mail: <a href="mailto:animemidatlantic@hotmail.com">animemidatlantic@hotmail.com</a>.  Address: Holiday Inn Koger Center, Richmond, Virginia.  Dates: 6/14/02 - 6/16/02.
 </p><p>
-</p><h3>Washington</h3>
-<p>
+</p><h3>Washington</h3><p>
 <b>C^3(CONVENTION COMMITTEE CONVENTION).</b>  Website: <a href="http://www.swoc.org/ccubed">http://www.swoc.org/ccubed</a>.  E-mail: <a href="mailto:isaacada1@yahoo.com">isaacada1@yahoo.com</a>.  Address: Ellensburg Inn, Ellensburg, Washington.  Dates: 5/31/02 - 6/2/02.
 </p><p>
-</p><h3>Wisconsin</h3>
-<p>
+</p><h3>Wisconsin</h3><p>
 <b>GAMEFEST MILWAUKEE.</b>  Website: <a href="http://www.advantageconvention.com/">http://www.advantageconvention.com/</a>.  E-mail: <a href="mailto:linzee@advantageconvention.com">linzee@advantageconvention.com</a>.  Address: Midwest Express Center, Milwaukee, WI.  Dates: 6/21/02 - 6/23/02.
 </p><p>
-</p><h3>Australia</h3>
-<p>
+</p><h3>Australia</h3><p>
 <b>CONVERGENCE.</b>  Website: <a href="http://www.vicnet.net.au/~converge/">http://www.vicnet.net.au/~converge/</a>.  E-mail: <a href="mailto:converge@vicnet.net.au">converge@vicnet.net.au</a>.  Address: Cato Conference Centre, Melbourne, VIC.  Dates: 6/7/02 - 6/10/02.
 </p><p>
 <b>DOWNUNDER CON FESTIVAL.</b>  Website: <a href="http://members.aol.com/prydonians/cons.html">http://members.aol.com/prydonians/cons.html</a>.  E-mail: <a href="mailto:eric@wrevenge.com.au">eric@wrevenge.com.au</a>.  Address: Airlie Beach, QLD.  Dates: 6/1/02 - 6/30/02.
@@ -413,28 +431,23 @@ E-mail: <a href="mailto:scifiexpo@aol.com">scifiexpo@aol.com</a>.  Address: Plan
 </p><p>
 <b>WARGAMERAU TOURNAMENT.</b>  Website: <a href="http://www.wargamerau.com/">http://www.wargamerau.com/</a>.  E-mail: <a href="mailto:carnivean@bigpond.com">carnivean@bigpond.com</a>.  Address: Earlwood-Bardwell Park - RSL and Bowls Club, Sydney, New South Wales.  Dates: 6/8/02 - 6/10/02.
 </p><p>
-</p><h3>Canada</h3>
-<p>
+</p><h3>Canada</h3><p>
 <b>BLOODY WORDS.</b>  Website: <a href="http://www.bloodywords.com/">http://www.bloodywords.com/</a>.  E-mail:   <a href="mailto:info@bloodywords.com">info@bloodywords.com</a>.  Address: Delta Chelsea Hotel, Toronto, Ontario.  Dates: 6/14/02 - 6/16/02.
 </p><p>
 <b>CRUISE TREK 2002.</b>  Website: <a href="http://members.aol.com/cruisetrek/">http://members.aol.com/cruisetrek/</a>.  E-mail: <a href="mailto:cruisetrek@aol.com">cruisetrek@aol.com</a>.  Address: Vancouver, British Columbia.  Dates: 6/24/02 - 7/1/02.
 </p><p>
 <b>PRAIRIECON XXIV.</b>  Website: <a href="http://www.prairiecon.com/home.html">http://www.prairiecon.com/home.html</a>.  E-mail: <a href="mailto:generalinformation@prairiecon.com">generalinformation@prairiecon.com</a>.  Address: Brandon University Gymnasium, Brandon, Manitoba.  Dates: 6/7/02 - 6/9/02.
 </p><p>
-</p><h3>Germany</h3>
-<p>
+</p><h3>Germany</h3><p>
 <b>COLONIACON 15.</b>  Website: <a href="http://www.coloniacon.de">http://www.coloniacon.de</a>.  E-mail: <a href="mailto:sfcd@geocities.com">sfcd@geocities.com</a>.  Address: Berlin.  Dates: 6/22/02 - 6/23/02.
 </p><p>
-</p><h3>New Zealand</h3>
-<p>
+</p><h3>New Zealand</h3><p>
 <b>CON WITH THE WIND.</b> Website: <a href="http://con-with-the-wind.sf.org.nz/">http://con-with-the-wind.sf.org.nz/</a>.  E-mail: <a href="mailto:enquiries@con-with-the-wind.sf.org.nz">enquiries@con-with-the-wind.sf.org.nz</a>.  Address: Wellington, New Zealand.  Dates: 5/31/02 - 6/3/02.
 </p><p>
-</p><h3>Sweden</h3>
-<p>
+</p><h3>Sweden</h3><p>
 <b>CONFUSE 2002.</b>  Website: <a href="http://www.lysator.liu.se/confuse/">http://www.lysator.liu.se/confuse/</a>.  E-mail: <a href="mailto:info@bloodywords.com">info@bloodywords.com</a>.  Address: Ryds Herrg�rd, Linkoping.  Dates: 6/14/02 - 6/16/02.
 </p><p>
-</p><h3>United Kingdom</h3>
-<p>
+</p><h3>United Kingdom</h3><p>
 <b>NOCTURNAL: INFERNO.</b>  Website: <a href="http://www.nocturnal.uk.net">http://www.nocturnal.uk.net</a>.  E-mail: <a href="mailto:john@nocturnal.uk.net">john@nocturnal.uk.net</a>.  Address: Britannia Sacha's Hotel, Manchester, UK.  Dates: 6/1/02 - 6/3/02.
 </p><p>
 <b>SECTOR 14: ECLIPSE.</b>  Website: <a href="http://www.sector14.co.uk/">http://www.sector14.co.uk/</a>.  E-mail: <a href="mailto:eclipseenquiries@hotmail.com">eclipseenquiries@hotmail.com</a>.  Address: Heathrow Park Hotel, Heathrow, London, UK.  Dates: 6/8/02 - 6/9/02.
@@ -449,14 +462,11 @@ E-mail: <a href="mailto:scifiexpo@aol.com">scifiexpo@aol.com</a>.  Address: Plan
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><h2>Member News:</h2>
-<p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 </p><p>
-</p><h3>Local chapters:</h3>
-<p>
+</p><h3>Local chapters:</h3><p>
 </p><ul>
 <li><b>Arrows OnLine:</b>  Check us out!  <i>Arrows OnLine</i> is the official online chapter of Queen�s Own.  To find them, go to Keyword <b>Mercedes Lackey</b> on AOL.  Click on <b>Mercedes Lackey Fandom</b>.  You can see their chatroom, <b>Companion�s Grove</b>, at that point, but to get to the message boards, click on <b>Message Boards</b>.  For the Arrows message boards, click on <b>Mercedes Lackey Fan Group</b> (The other option, <b>Mercedes Lackey�s Fiction</b>, is a general discussion of Misty�s books and is not part of Arrows.).  If you get lost or have additional questions, contact the Arrows Dean, Tayledras Scout Nightwisp "Royal" k'Jeia, at <a href="mailto:Tayledrasroyal@aol.com">Tayledrasroyal@aol.com</a>.
 <p>
@@ -475,10 +485,8 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <p>
 </p></li><li><b>The Vanyel Fan Club</b>: The <i>Vanyel Fan Club</i> is a chapter of QO that started out as an independent fan organization.  The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage Trilogy</i> by Mercedes Lackey. E-mail: <a href="mailto:VanyelFanClub@hotmail.com">VanyelFanClub@hotmail.com</a>; Herald Bastian, President aka Western Guardian (<a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian (<a href="mailto:Legend@malcor.com">Legend@malcor.com</a>); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian (<a href="mailto:healermoon@gmail.com">healermoon@gmail.com</a>).  (The position of Southern Guardian, editor of the VFC newsletter, is currently open.  Several people are interviewing for it.)  There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine.  For more information, see the VFC website at <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.  Note:  The VFC is having a contest.  Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of <i>The Last Herald-Mage</i>, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books.  Contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> for more details.  We hope to announce the winner in the December 2002 edition of the QO newsletter.
 
-</li></ul>
-<p>
-</p><h3>Zines and Newsletters:</h3>
-<p>
+</li></ul><p>
+</p><h3>Zines and Newsletters:</h3><p>
 </p><ul>
 <li><b><i>Austral'a'in</i>:</b> Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.  We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas.  (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!)  The cost of membership covers postage and printing - we're a strictly not-for-profit group.   If you are interested in more information, or have stories or other submissions that you would like to see published, contact me! <b>Attention all writers and artists: </b>Austral'a'in is desperately seeking submissions. We are also always looking for new members.  Please? Contact me (Cassandra) at <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a> for details!
 <p>
@@ -496,14 +504,10 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <p>
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>. The Typo-Dragon Giveaway contest has begun. To win you need to be a member of HC and send in something to print (story, recipe etc.) with your name, address, city, state and zip. (Phone number optional).  Deadline is Dec. 15, 2001.  Also, if anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 
-</li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><center><img alt="Demon Sketch by Chell Cornette" border="5" loading="lazy" src="/qo122.jpg"/></center>
-<p>
-</p><h2>Other Fandoms:</h2>
-<p>
+</li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><center><img alt="Demon Sketch by Chell Cornette" border="5" loading="lazy" src="/qo122.jpg"/></center><p>
+</p><h2>Other Fandoms:</h2><p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 <p>
@@ -527,10 +531,8 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li>Star Trek: The <b>USS Starfire</b> is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at <a href="http://www.epix.net/~ckocher/starfire.html ">http://www.epix.net/~ckocher/starfire.html</a> or e-mail us at <a href="mailto:trek01@epix.net">trek01@epix.net</a>.
 <p>
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
-</li></ul>
-<p>
-</p><h3>Collegium News:</h3>
-<p>
+</li></ul><p>
+</p><h3>Collegium News:</h3><p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 </p><p>
 You need a release form (online at <a href="/release-form-instructions/">/release-form-instructions/</a>) if you write a story set in Misty's worlds or using any of her characters.  You do not need a release for a character sketch, poem or filk.  All Misty wants to do is protect her characters and her worlds.  Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  Do NOT include the <i>original</i> of the release form with your persona material; send it to Misty.  Send a <i>copy</i> to us.
@@ -539,18 +541,15 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 </p><p>
 </p><ul>
 <li>Welcome to <b>Herald Catnin</b>, who is Gifted with Mindspeech and Animal Mindspeech, and her Companion, Farris.  <b>Nina Boal</b> wrote about Herald Catnin, and her Herald�s family and friends, learned the care and feeding of horses, and attained the rank of First Dan (the equivalent of a First Degree Black Belt) in Kendo.
-</li></ul>
-<p>
+</li></ul><p>
 Returning Misty fans who have activated their memberships include:
 </p><p>
 </p><ul>
 <li><b>Herald Jreea Vanos<b> (Jerevan) (September 1992) (Mindspeech, Fetching, Mindhealing)
-</b></b></li></ul>
-<p>
+</b></b></li></ul><p>
 Welcome back!  If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 </p><p>
-</p><h3>Lost . . .</h3>
-<p>
+</p><h3>Lost . . .</h3><p>
 One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
@@ -643,5 +642,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p></a></p></g></p>
+</p></g></p></g></p></p></g></p>
 </div>

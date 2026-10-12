@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -189,33 +188,53 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 <b>CINEMA WASTELAND MOVIE &amp; MEMORABILIA EXPO. </b> Website: <a href="http://www.cinemawasteland.com">http://www.cinemawasteland.com</a>.  E-mail: <a href="mailto:info@cinemawasteland.com">info@cinemawasteland.com</a>.  Address: Holiday Inn Select Strongsville, Strongsville, Ohio.  Dates: 4/2/04 - 4/4/04.
 </p><p>
 <b>VULKON CLEVELAND. </b> Website: <a href="http://www.vulkon.com/">http://www.vulkon.com/</a>.  E-mail: <a href="mailto:joemotes@aol.com">.  Address: Holiday Inn Independence, Cleveland, Ohio.  Dates: 4/23/04 - 4/25/04.
-<p>
-</p><h3>Pennsylvania</h3>
-<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+
+</a><p>
+</p><h3>Pennsylvania</h3><p>
 <b>MEPACON SPRING 2004. </b> Website: <a href="http://www.mepacon.com">http://www.mepacon.com</a>.  E-mail: <a href="mailto:mc@mepacon.com">mc@mepacon.com</a>.  Address: Clarion Hotel (Just off of Route 81), Scranton, Pennsylvania.  Dates: 4/2/04 - 4/4/04.
 </p><p>
-</p><h3>South Carolina</h3>
-<p>
+</p><h3>South Carolina</h3><p>
 <b>ROUNDCON.</b>  Website: <a href="http://www.roundcon.org">http://www.roundcon.org</a>.  E-mail: <a href="mailto:Roundcon@aol.com">Roundcon@aol.com</a>.  Address: Holiday Inn NE, Columbia, South Carolina.  Dates: 4/16/04 - 4/18/04.
 </p><p>
-</p><h3>Tennessee</h3>
-<p>
+</p><h3>Tennessee</h3><p>
 <b>MIDDLE TENNESSEE ANIME CONVENTION.</b>  Website: <a href="http://www.mtac.net">http://www.mtac.net</a>.  E-mail: <a href="mailto:conchair@mtac.net">conchair@mtac.net</a>.  Address: Radisson Nashville Airport, Nashville, Tennessee.  Dates: 4/2/04 - 4/4/04.
 </p><p>
 <b>XANADU 7. </b> Website: <a href="http://www.con-stellation.org/constell/links.htm">http://www.con-stellation.org/constell/links.htm</a>.  E-mail: <a href="mailto:XanaduSFCon@yahoo.com">XanaduSFCon@yahoo.com</a>.  Address: Nashville, Tennessee.  Dates: 4/23/04 - 4/25/04.
 </p><p>
-</p><h3>Texas</h3>
-<p>
+</p><h3>Texas</h3><p>
 <b>CHIMAERACON 2004. </b> Website: <a href="http://www.chimaeracon.com">http://www.chimaeracon.com</a>.  E-mail: <a href="mailto:chimaeragaming@aol.com">chimaeragaming@aol.com</a>.  Address: Crossroads Convention Center, San Antonio, Texas.  Dates: 4/16/04 - 4/18/04.
 </p><p>
 <b>DALLAS COMIC CON. </b> Website: <a href="http://www.scifiexpo.com/">http://www.scifiexpo.com/</a>.  E-mail: <a href="mailto:scifiexpo@aol.com">scifiexpo@aol.com</a>.  Address: Richardson Civic Center, Richardson, Texas.  Dates: 4/3/04 - 4/4/04.
 </p><p>
-</p><h3>Vermont</h3>
-<p>
+</p><h3>Vermont</h3><p>
 <b>BAKURETSU CON. </b> Website: <a href="http://www.bakuretsucon.org">http://www.bakuretsucon.org</a>.  E-mail: <a href="mailto:Kirin_Folken@hotmail.com">Kirin_Folken@hotmail.com</a>.  Address: Best Western, Burlington, Vermont.  Dates: 4/23/04 - 4/25/04.
 </p><p>
-</p><h3>Virginia</h3>
-<p>
+</p><h3>Virginia</h3><p>
 <b>CAPITAL ASSOCIATES. </b> Website: <a href="http://www.capicons.com/">http://www.capicons.com/</a>.  E-mail: <a href="mailto:comicshow@aol.com">comicshow@aol.com</a>.  Address: Tysons Westpark Hotel, McLean, Virginia.  Dates: 4/4/04.
 </p><p>
 <b>CAPITAL ASSOCIATES.</b>  Website: <a href="http://www.capicons.com/">http://www.capicons.com/</a>.  E-mail: <a href="mailto:comicshow@aol.com">comicshow@aol.com</a>.  Address: Montgomery County Fairgrounds - Building ,2McLean, Virginia.  Dates: 4/25/04.
@@ -224,38 +243,32 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 </p><p>
 <b>MALICE DOMESTIC XVI. </b> Website: <a href="http://www.malicedomestic.org/">http://www.malicedomestic.org/</a>.  E-mail: <a href="mailto:Chair@malicedomestic.org">Chair@malicedomestic.org</a>.  Address: Sheraton National Hotel, Arlington, Virginia.  Dates: 4/30/04 - 5/2/04.
 </p><p>
-</p><h3>Washington</h3>
-<p>
+</p><h3>Washington</h3><p>
 <b>NORWESCON.</b>  Website: <a href="http://www.norwescon.org">http://www.norwescon.org</a>.  E-mail: <a href="mailto:info@norwescon.org">info@norwescon.org</a>.  Address: Doubletree Hotel Seattle Airport, Seattle, Washington.  Dates: 4/8/04 - 4/11/04.
 </p><p>
-</p><h3>Wisconsin</h3>
-<p>
+</p><h3>Wisconsin</h3><p>
 <b>MASON'S EGO CON 2. </b> Website: <a href="http://www.dwave.net/~roygbiv/ego">http://www.dwave.net/~roygbiv/ego</a>.  E-mail: <a href="mailto:ego_con@hotmail.com">ego_con@hotmail.com</a>.  Address: Holiday Inn Convention &amp; Expo Center, Stevens Point, Wisconsin.  Dates: 4/24/04.
 </p><p>
 <b>ODYSSEY CON.</b>  Website: <a href="http://www.oddcon.org">http://www.oddcon.org</a>.  E-mail: <a href="mailto:games@pegasusgames.com">games@pegasusgames.com</a>.  Address: Radisson Inn, Madison, Wisconsin.  Dates: 4/2/04 - 4/4/04.
 </p><p>
-</p><h3>Australia</h3>
-<p>
+</p><h3>Australia</h3><p>
 <b>BRISBANE STARGATE CONVENTION. </b> Website: <a href="http://www.vortexevents.com/">http://www.vortexevents.com/</a>.  E-mail: <a href="mailto:vortex_events@yahoo.com.au">vortex_events@yahoo.com.au</a>.  Address: Chiflet at Lennons Hotel, Brisbane, Queensland.  Dates: 4/26/04.
 </p><p>
 <b>CONFLUX. </b> Website: <a href="http://www.conflux.org.au/">http://www.conflux.org.au/</a>.  E-mail: <a href="mailto:info@conflux.org.au">info@conflux.org.au</a>.  Address: Rydges Lakeside, Canberra.  Dates: 4/23/04 - 4/26/04.
 </p><p>
 <b>VICTORIAN DIPLOMACY CHAMPIONSHIPS.</b>  Website: <a href="http://daanz.org.au/dip-tournaments.htm">http://daanz.org.au/dip-tournaments.htm</a>.  E-mail: <a href="mailto:d.currell@ugrad.unimelb.edu.au">d.currell@ugrad.unimelb.edu.au</a>.  Address: Cramer's Hotel, Preston, Melbourne, Victoria.  Dates: 4/9/04 - 4/11/04.
 </p><p>
-</p><h3>Canada</h3>
-<p>
+</p><h3>Canada</h3><p>
 <b>AD ASTRA.</b>  Website: <a href="http://www.ad-astra.org">http://www.ad-astra.org</a>.  E-mail: <a href="mailto:info@ad-astra.org">info@ad-astra.org</a>.  Address: Crown Plaza Don Valley Hotel, Toronto, Ontario.  Dates: 4/2/04 - 4/4/04.
 </p><p>
 <b>ORION.</b>  Website: <a href="http://www.rigelgroup.org/orion.html">http://www.rigelgroup.org/orion.html</a>.  E-mail: <a href="mailto:info@rigel.cx">info@rigel.cx</a>.  Address: Crowne Plaza Hotel, Toronto, Ontario.  Dates: 4/2/04 - 4/4/04.
 </p><p>
 <b>TOY, MODEL AND COLLECTABLES SHOW.</b>  Website: <a href="http://users.uniserve.com/~lswong/Comicon.html">http://users.uniserve.com/~lswong/Comicon.html</a>.  E-mail: <a href="mailto:lswong@uniserve.com">lswong@uniserve.com</a>.  Address: Heritage Hall, Vancouver, British Columbia.  Dates: 4/25/04.
 </p><p>
-</p><h3>Germany</h3>
-<p>
+</p><h3>Germany</h3><p>
 <b>ANIME MARATHON 2004.</b>  Website: <a href="http://www.anime-marathon.de">http://www.anime-marathon.de</a>.  E-mail: <a href="mailto:info@anime-marathon.de">info@anime-marathon.de</a>.  Address: Bildungszentrum Nord der Deutschen Telekom, Leipzig-Brehna, Hamburg.  Dates: 4/2/04 - 4/4/04.
 </p><p>
-</p><h3>Russia</h3>
-<p>
+</p><h3>Russia</h3><p>
 <b>BELIY PARUS. </b> Website: <a href="http://www.b-parus.ru">http://www.b-parus.ru</a>.  E-mail: <a href="mailto:rsdrp-mmm@yandex.ru">rsdrp-mmm@yandex.ru</a>.  Address: Nnov.  Dates: 4/1/04 - 4/3/04.
 </p><p>
 United Kingdom
@@ -266,12 +279,10 @@ For additional Convention information, visit Convention Outpost by Jenga at <a h
 </p><p>
 <img align="left" alt="Kantor and Mare by Lily Evans" border="5" loading="lazy" src="/qo204.jpg"/>
 </p><p>
-</p><h2>Member News:</h2>
-<p>
+</p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.37 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 
-</p><h3>Local chapters:</h3>
-<ul>
+</p><h3>Local chapters:</h3><ul>
 <li><b>Arrows OnLine:</b> Contact: Adept Grayfeather k'Varis  (Kristi Reed).  E-mail:  <a href="mailto:DragonMamaK@aol.com">DragonMamaK@aol.com</a>. Arrows OnLine is the AOL chapter of QO.  Chats will be held the first and third Wednesdays of each month from 8-10 PM ET.  Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions.  Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat.  As far as instructions on how to get there . . . there are lots of hoops to jump through now.  Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there.  She's no longer a keyword, but hopefully with more traffic in the future that will change.  If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links.  The links to the chatroom will be on my "signature" on the boards.<br/>
 <br/>
 </li><li><b>German Heartstone:</b>  Website: <a href="http://www.heartstone.de">http://www.heartstone.de</a>.  Contact: <a href="mailto:Sunny@heartstone.de">Sunny@heartstone.de</a> or <a href="mailto:Shae@heartstone.de">Shae@heartstone.de</a>. A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on <a href="http://www.heartstone.de">http://www.heartstone.de</a>!   For more information contact <a href="mailto:Sunny@heartstone.de">Sunny@heartstone.de</a> or <a href="mailto:Shae@heartstone.de">Shae@heartstone.de</a>.<br/>
@@ -290,9 +301,7 @@ will also have an online, nonfiction newsletter.  Look for details and other fun
 </li><li><b>Southern Arrow:</b>  Website:  <a href="http://groups.yahoo.com/group/gaqueensown/">http://groups.yahoo.com/group/gaqueensown/</a>  Contact: Herald Sitara.  E-mail:  <a href="mailto:ravindraanima@gmail.com">ravindraanima@gmail.com</a>.  Heralds unite! Southern Arrow is up and running again, and we'd love to have you along! I'm planning on fanzines, trips to cons, and much, much more. If you would like to sign up for the newsletter, or the fanzine you can go to <a href="http://groups.yahoo.com/group/gaqueensown/">http://groups.yahoo.com/group/gaqueensown/</a>  and you will but automatically included.  I'm also looking for someone to help me out with this, and maybe pull up a website. If interested contact me at <a href="mailto:sblackwell@knology.net">sblackwell@knology.net</a>. And if you'd like to contact me about any ideas or suggestions, please put it on the board, I would love to hear what you have!<br/>
 <br/>
 </li><li><b>The Vanyel Fan Club</b>: Website:  <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.  Contact:  <a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>.  The <i>Vanyel Fan Club</i> is a chapter of QO that started out as an independent fan organization.  The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage Trilogy</i> by Mercedes Lackey. E-mail: <a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>.  For more information, see the VFC website at <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.
-</li></ul>
-<h3>Zines and Newsletters:</h3>
-<ul>
+</li></ul><h3>Zines and Newsletters:</h3><ul>
 <li><b><i>Austral'a'in</i>:</b> Editor: Cassandra Vuksa.  We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption.  <i>Austral'a'in</i> is up for adoption.  If you are interested in adopting the chapter, contact Cassandra Vuksa, <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.<br/>
 <br/>
 </li><li><b><i>Children of Velgarth</i>:</b>  Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA  92652. E-mail: <a href="mailto:healermoon@gmail.com">healermoon@gmail.com</a>. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine.  I will only accept what was sent in for your persona to Queen's Own to be recognized.  Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs.  Make checks payable to "Kendra Renaud".  The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine.  Watch the Queen's Own newsletter for release dates.  Issues 4, 5 and 6 are currently in the editing stages! Each zine will have about 10 personas for a total of 30 personas that have been accepted in the last couple of years.  For the contents list for issues 1,2, and 3 and additional information, visit <a href="/children-of-velgarth/">/children-of-velgarth/</a>.  <br/>
@@ -339,10 +348,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </li><li><b>Tales of the Southern Bard:</b>  TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at <a href="mailto:SouthernBard@eudoramail.com">SouthernBard@eudoramail.com</a> for submission guidelines and information on how to join or visit TOTSB's homepage: <a href="http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm">http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm</a>. <br/>
 <br/>
 </li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.<br/>
-</li></ul>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<h2>Other Fandoms:</h2>
-<ul>
+</li></ul><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><h2>Other Fandoms:</h2><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.<br/>
 <br/>
 </li><li>CrossGen Comics: Exciting New Fantasy Comic Books.  Follow Prince Ethan's adventures the third Wednesday of each month as he gains the powerful sigil and accidentally puts his world on the brink of war. Meridian, on sale the fourth Wednesday of each month, is the fantastic saga of a teenage girl and her plight to save her floating island home. Go to <a href="http://www.crossgen.com">http://www.crossgen.com</a>, or call 1-888-COMICBOOK for details on a retail location near you.<br/>
@@ -362,13 +368,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </li><li>Star Trek: The <b>USS Starfire</b> is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at <a href="http://www.epix.net/~ckocher/starfire.html ">http://www.epix.net/~ckocher/starfire.html</a> or e-mail us at <a href="mailto:trek01@epix.net">trek01@epix.net</a>. <br/>
 <br/>
 </li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
-</li></ul><br/>
-<br/>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<br/>
-<h3>Collegium News:</h3><br/>
-<br/>
-<p>We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
+</li></ul><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><h3>Collegium News:</h3><p>We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 
 </p><p>You need a release form (online at <a href="/release-form-instructions/">/release-form-instructions/</a>) if you write a story set in Misty's worlds or using any of her characters.  You do not need a release for a character sketch, poem or filk.  All Misty wants to do is protect her characters and her worlds.  Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  Do NOT include the <i>original</i> of the release form with your persona material; send it to Misty.  Send a <i>copy</i> to us.
 
@@ -378,8 +378,7 @@ If you were working on a persona who is no longer listed at <a href="/club-chat/
 
 </p><p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
-</p><h3>Lost . . .</h3>
-<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+</p><h3>Lost . . .</h3><p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Valiena (laughsong@aol.com)</li>
 <li>Guardsman Faolan Ixran (Timmeu@scubadiving.com)</li>
@@ -466,5 +465,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></a></p>
+</p></g></p></p>
 </div>

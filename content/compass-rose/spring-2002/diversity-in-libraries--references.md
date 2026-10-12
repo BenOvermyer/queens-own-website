@@ -32,7 +32,7 @@ canonical_path = "/compass-rose/spring-2002/diversity-in-libraries/references/"
 <p>
 </p><center><h2><a href="mailto:Legend@malcor.com">Kendra Renaud</a></h2></center>
 <p>
-<a id="ref" name="ref"><h3>References</h3></a>
+<h3 id="ref">References</h3>
 </p><p>
 <a id="amer" name="amer"></a>American Library Association.  "Libraries Should Reflect Diverse Views."  <i>Censorship: Opposing Values</i>. Ed. Lisa Orr. San Diego: Greenhaven, 1990: 136-9.
 </p><p>
@@ -65,21 +65,12 @@ canonical_path = "/compass-rose/spring-2002/diversity-in-libraries/references/"
 <p>
 </p><center>This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</center>
 <p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
-
 </p>
 </div>

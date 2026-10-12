@@ -2,14 +2,6 @@
   "summary": {
     "files_scanned": 249,
     "rules": {
-      "anchor_without_target": {
-        "occurrences": 26,
-        "files": 20
-      },
-      "block_in_anchor": {
-        "occurrences": 2239,
-        "files": 18
-      },
       "block_in_paragraph": {
         "occurrences": 1880,
         "files": 68
@@ -130,16 +122,6 @@
       "path": "content/community/club-chat.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "h2",
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 2,
@@ -192,11 +174,9 @@
       ],
       "baseline": {
         "visible_text_sha256": "ce63a1e832e699797401fa2dcd25a5da673ff902aecddff65c8540d3765daca4",
-        "links": 11,
+        "links": 9,
         "images": 3,
         "anchors": [
-          "pending",
-          "tracking",
           "pending",
           "tracking"
         ],
@@ -268,21 +248,6 @@
       "path": "content/community/danya-winterborn.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "h2",
-            "h2",
-            "h2",
-            "h2",
-            "h2",
-            "h2",
-            "h2"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 8,
@@ -348,7 +313,7 @@
       ],
       "baseline": {
         "visible_text_sha256": "a9d0e4a63252d1e43820416b12063ca11bf5abb0a9cddde941004f368ea7709e",
-        "links": 119,
+        "links": 112,
         "images": 25,
         "anchors": [
           "Herald",
@@ -360,14 +325,7 @@
           "rings",
           "spells",
           "trivia",
-          "books",
-          "cchron",
-          "links",
-          "movie",
-          "recipes",
-          "rings",
-          "spells",
-          "trivia"
+          "cchron"
         ],
         "tables": 7,
         "headings": [
@@ -1111,21 +1069,6 @@
       "path": "content/compass-rose/spring-2002/_index.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "h2",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "obsolete_element",
           "severity": "warning",
           "count": 14,
@@ -1185,15 +1128,6 @@
       "path": "content/compass-rose/spring-2002/arthurian-tales--references.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 1,
@@ -1247,7 +1181,7 @@
       ],
       "baseline": {
         "visible_text_sha256": "e5592f66c430698f7e5563da4a51cd30f46412da0ed0b1950db3f6104d0df52b",
-        "links": 10,
+        "links": 9,
         "images": 1,
         "anchors": [
           "note1",
@@ -1260,8 +1194,7 @@
           "note2",
           "note3",
           "note4",
-          "note5",
-          "ref"
+          "note5"
         ],
         "tables": 2,
         "headings": [
@@ -1336,15 +1269,6 @@
       "path": "content/compass-rose/spring-2002/diversity-in-libraries--references.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 1,
@@ -1398,7 +1322,7 @@
       ],
       "baseline": {
         "visible_text_sha256": "e69b449074807af2b49e204725093b5428dff127d4d15e07ee14a6870ae76402",
-        "links": 14,
+        "links": 13,
         "images": 1,
         "anchors": [
           "amer",
@@ -1418,7 +1342,6 @@
           "kropp",
           "manely",
           "marsh",
-          "ref",
           "scales",
           "schlaf"
         ],
@@ -1537,15 +1460,6 @@
       "path": "content/compass-rose/spring-2002/music-in-medieval-ireland--references.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 1,
@@ -1599,7 +1513,7 @@
       ],
       "baseline": {
         "visible_text_sha256": "b3e436de1d7f37fd18635292578322ca0c2f29204c341ce769faac4b658e0343",
-        "links": 33,
+        "links": 32,
         "images": 1,
         "anchors": [
           "alramar",
@@ -1642,7 +1556,6 @@
           "note3",
           "note4",
           "note5",
-          "ref",
           "richter1",
           "richter2",
           "rimmer",
@@ -1797,22 +1710,6 @@
     {
       "path": "content/compass-rose/summer-2000/_index.md",
       "findings": [
-        {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "h2",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
         {
           "rule": "obsolete_element",
           "severity": "warning",
@@ -2196,15 +2093,6 @@
       "path": "content/compass-rose/summer-2000/in-the-name-of-god--references.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 1,
@@ -2258,7 +2146,7 @@
       ],
       "baseline": {
         "visible_text_sha256": "5c7915fd5c074b0c208f166bb1a62119b8c29aca666120d61391981a4ed0fef5",
-        "links": 40,
+        "links": 39,
         "images": 1,
         "anchors": [
           "bachrach",
@@ -2311,7 +2199,6 @@
           "note7",
           "note8",
           "note9",
-          "ref",
           "ward"
         ],
         "tables": 2,
@@ -3463,19 +3350,11 @@
             "color x2",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "2069664540101ae5acb8a66b84c82ca2f7f97ccc3845e5459d9156f3a70c4a95",
-        "links": 8,
+        "visible_text_sha256": "ec95d20a4a27532e79e57b6f384f84886aff9fa3bbf18ea993024bced7ab96fc",
+        "links": 7,
         "images": 4,
         "anchors": [],
         "tables": 0,
@@ -7727,22 +7606,6 @@
       "path": "content/newsletters/2000/november.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 109,
-          "examples": [
-            "p",
-            "h3",
-            "p",
-            "p",
-            "h3",
-            "p",
-            "p",
-            "p"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 25,
@@ -7778,20 +7641,11 @@
             "size x3",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "<a>",
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "0e468cda47c391a472d3a592b99df8c8965f42af1e718e34699e6200db40ff73",
-        "links": 161,
+        "visible_text_sha256": "00db0e94365a3066935b82d760a6d53281913ec06ecb5ae63ffaeb1d9fde47ba",
+        "links": 159,
         "images": 18,
         "anchors": [],
         "tables": 0,
@@ -7872,19 +7726,11 @@
             "size x3",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "f80974d17a1814ec6a506c216275051cecbdaff767d1839ebc892bd877f88d81",
-        "links": 79,
+        "visible_text_sha256": "c955558b85eb75b34982262eef22adcc315a109833e803210178221547dfa501",
+        "links": 78,
         "images": 18,
         "anchors": [],
         "tables": 0,
@@ -7947,19 +7793,11 @@
             "align x2",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "dd1ff30ab8b3329f844c9f3647bc6f807ff5fe69baac02c5ff277d103a8f9395",
-        "links": 81,
+        "visible_text_sha256": "2f28d5fc72e9a8bedd7fb8374400057cf14de5b885dbd76e1272963a9569e19f",
+        "links": 80,
         "images": 16,
         "anchors": [],
         "tables": 0,
@@ -8472,19 +8310,11 @@
             "size x3",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
         "visible_text_sha256": "997ff4f0fd7ef7e4431066e91b832262dc271de11f14edb432546c68af3d5dac",
-        "links": 209,
+        "links": 208,
         "images": 14,
         "anchors": [],
         "tables": 0,
@@ -8576,14 +8406,6 @@
           ]
         },
         {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 1,
@@ -8595,7 +8417,7 @@
       ],
       "baseline": {
         "visible_text_sha256": "c2416aea5d1ad623d056a170ee3b9f463aa4823e56dbdc5ec63a0ed6d006e673",
-        "links": 204,
+        "links": 203,
         "images": 14,
         "anchors": [],
         "tables": 1,
@@ -9157,22 +8979,6 @@
       "path": "content/newsletters/2002/april.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 248,
-          "examples": [
-            "p",
-            "h3",
-            "p",
-            "p",
-            "p",
-            "p",
-            "p",
-            "p"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 56,
@@ -9208,20 +9014,11 @@
             "size x3",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "<a>",
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "30c752764d28bdc89f3d16e432a9775cca130ccb30c68ced4e31157572130514",
-        "links": 189,
+        "visible_text_sha256": "e3c6a49470402b67555c8812b0fe3d10c5ab353f6d3e4783885cf43b537fafdb",
+        "links": 187,
         "images": 12,
         "anchors": [],
         "tables": 0,
@@ -9747,22 +9544,6 @@
       "path": "content/newsletters/2002/june.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 227,
-          "examples": [
-            "p",
-            "h3",
-            "p",
-            "p",
-            "h3",
-            "p",
-            "p",
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 84,
@@ -9973,22 +9754,6 @@
       "path": "content/newsletters/2002/may.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 270,
-          "examples": [
-            "p",
-            "h3",
-            "p",
-            "p",
-            "h3",
-            "p",
-            "p",
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 66,
@@ -10024,19 +9789,11 @@
             "size x3",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
         "visible_text_sha256": "6927d54d5eb9b6470899a025fc45b75f994a061d3ca34ed33c0ad95ee5bc3cdd",
-        "links": 245,
+        "links": 244,
         "images": 13,
         "anchors": [],
         "tables": 0,
@@ -10114,22 +9871,6 @@
     {
       "path": "content/newsletters/2002/november.md",
       "findings": [
-        {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 271,
-          "examples": [
-            "p",
-            "p",
-            "p",
-            "p",
-            "p",
-            "p",
-            "p",
-            "p"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
         {
           "rule": "block_in_paragraph",
           "severity": "warning",
@@ -10573,22 +10314,6 @@
       "path": "content/newsletters/2003/august.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 262,
-          "examples": [
-            "p",
-            "h3",
-            "p",
-            "p",
-            "h3",
-            "p",
-            "p",
-            "p"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 59,
@@ -10624,19 +10349,11 @@
             "size x4",
             "face x2"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
         "visible_text_sha256": "9a2619a21fa023e3c71364088ff2aa2019843176abca7fbd33b3e3fc0c5b0387",
-        "links": 295,
+        "links": 294,
         "images": 13,
         "anchors": [],
         "tables": 0,
@@ -10748,19 +10465,11 @@
             "size x3",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "f7b4a516afd1959d79fde4c6ffa0edb55f095a27dca143c7ac8e243e7f8b2f86",
-        "links": 152,
+        "visible_text_sha256": "0f45a6f641a1f2e85ece02a11db8c67107e1fe10dfd8da2b0027c9950557ac2c",
+        "links": 151,
         "images": 13,
         "anchors": [],
         "tables": 0,
@@ -11093,22 +10802,6 @@
       "path": "content/newsletters/2003/june.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 316,
-          "examples": [
-            "p",
-            "h3",
-            "p",
-            "p",
-            "p",
-            "p",
-            "p",
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 73,
@@ -11434,22 +11127,6 @@
       "path": "content/newsletters/2003/november.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 330,
-          "examples": [
-            "p",
-            "p",
-            "p",
-            "p",
-            "h3",
-            "p",
-            "p",
-            "p"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 72,
@@ -11485,19 +11162,11 @@
             "color x2",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "0be78ef8ea0bdbf12bbe52b69f6f87ec4b65cd4edff005e8bf55ff702a7417cc",
-        "links": 289,
+        "visible_text_sha256": "8a8d824aa0c28042533a80d0efe1e441ec896bdd103eb64c4371b706e9754d36",
+        "links": 288,
         "images": 12,
         "anchors": [],
         "tables": 0,
@@ -11603,19 +11272,11 @@
             "size x3",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "d5e4f8e0c3046fd3a1b0e8399ae877ef50eb5bf05bb4b091f056674afafda04a",
-        "links": 365,
+        "visible_text_sha256": "595e18355fc93a42dfec03a703cb7527f105df74e710806ecf3eca4cf4218060",
+        "links": 364,
         "images": 11,
         "anchors": [],
         "tables": 0,
@@ -11824,22 +11485,6 @@
     {
       "path": "content/newsletters/2004/april.md",
       "findings": [
-        {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 105,
-          "examples": [
-            "p",
-            "h3",
-            "p",
-            "p",
-            "h3",
-            "p",
-            "p",
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
         {
           "rule": "block_in_paragraph",
           "severity": "warning",
@@ -12368,22 +12013,6 @@
       "path": "content/newsletters/2004/june.md",
       "findings": [
         {
-          "rule": "block_in_anchor",
-          "severity": "warning",
-          "count": 72,
-          "examples": [
-            "p",
-            "h3",
-            "p",
-            "p",
-            "h3",
-            "p",
-            "p",
-            "h3"
-          ],
-          "note": "Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block."
-        },
-        {
           "rule": "block_in_paragraph",
           "severity": "warning",
           "count": 24,
@@ -12523,19 +12152,11 @@
             "size x3",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
         "visible_text_sha256": "fba5af1fabf064b86cd2a232a1fdf75eb9dedc71803c6acbc3f2bcbc932f6aa5",
-        "links": 191,
+        "links": 190,
         "images": 11,
         "anchors": [],
         "tables": 0,
@@ -12623,19 +12244,11 @@
             "color x2",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "3f5e6b2f3f1f65b167d2741b11b0ea6d71d1bac28c35c1ddb2c05f7f14c478a5",
-        "links": 192,
+        "visible_text_sha256": "6f9f7ff51b72f80b9d76ef3261b701af4a4f6fac93f97d91110b2008673da858",
+        "links": 191,
         "images": 10,
         "anchors": [],
         "tables": 0,
@@ -12914,20 +12527,11 @@
             "color x2",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "<a>",
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "a77c99819a8569da009e5de5e827d4cefdaf3c0317046a9e110c9d09ae60ca1d",
-        "links": 166,
+        "visible_text_sha256": "427d185a6557413851f7346e8f295dcac844fb812e5532cb392f55f5924a977c",
+        "links": 164,
         "images": 11,
         "anchors": [],
         "tables": 0,
@@ -13099,19 +12703,11 @@
             "color x2",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "b6bc2ba0d8d8d5eda91db38fbb43b3532057d7d64ac5c78f451899c122763afa",
-        "links": 126,
+        "visible_text_sha256": "3014d893fd79e3f8471fb77789862d5665bbd28cbc93ae96a521a3bf1fbc950c",
+        "links": 125,
         "images": 12,
         "anchors": [],
         "tables": 0,
@@ -13334,19 +12930,11 @@
             "color x3",
             "face x2"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "32da0688222dc36e1abf58d9a94742de65d9bf89a7674b042755ad7304c1b016",
-        "links": 159,
+        "visible_text_sha256": "dae75bc3f9fe5028f9ccac730bdd265877a7fb7c7a362320bab16c14a007763d",
+        "links": 158,
         "images": 12,
         "anchors": [],
         "tables": 0,
@@ -13438,19 +13026,11 @@
             "color x3",
             "face x2"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "51efdc29f324d798135d5bd1af94ca4682c3514acaace887ee171de0d78ea4fc",
-        "links": 151,
+        "visible_text_sha256": "5aceedff3dd6df650014a9d0ef29d5aa4e041dce6ffaa11b8b83cf316af0c997",
+        "links": 150,
         "images": 12,
         "anchors": [],
         "tables": 0,
@@ -13711,19 +13291,11 @@
             "color x2",
             "face x1"
           ]
-        },
-        {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<a>"
-          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "24b442a84ab58a7f73c46e0409aefee4abe2537f6fa651f9e94048b3cf0e6d6e",
-        "links": 88,
+        "visible_text_sha256": "66142d11762269e2d08eb6a14b2a304beb0b0a501ec5a4de98ef398bc6c9c570",
+        "links": 87,
         "images": 11,
         "anchors": [],
         "tables": 0,
@@ -14625,17 +14197,6 @@
           ]
         },
         {
-          "rule": "anchor_without_target",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "<a>",
-            "<a>",
-            "<a>",
-            "<a>"
-          ]
-        },
-        {
           "rule": "multiple_h1",
           "severity": "warning",
           "count": 1,
@@ -14654,8 +14215,8 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "279859b1162d91c11b88bc0fce9fc193e4069b058a0bb0eabd8ffbdfcc40ce5a",
-        "links": 709,
+        "visible_text_sha256": "c09c82fe96e417859c2b408df1e129151e34468da583af1e39936f60b5d0dc31",
+        "links": 705,
         "images": 21,
         "anchors": [],
         "tables": 0,

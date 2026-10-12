@@ -45,7 +45,7 @@ canonical_path = "/compass-rose/spring-2002/arthurian-tales/references/"
 </p></li><li><a id="note5" name="note5"></a>"The Dark One", pronounced "Ar' thoo".<p>
 </p></li></ol>
 <p>
-<a id="ref" name="ref"><h3>References</h3></a>
+<h3 id="ref">References</h3>
 </p><p>
 (<i>Ed. note: Actually, this is simply a straightforward bibliography.  The original paper did not use in-text citations.</i>)
 </p><p>
@@ -78,21 +78,12 @@ Mason, Eugene, trans.  1928.  Wace, <i>Roman de Brut</i> in <i>Arthurian Chronic
 <p>
 </p><center>This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</center>
 <p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
-
 </p>
 </div>

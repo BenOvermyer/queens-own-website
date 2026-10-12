@@ -30,7 +30,7 @@ ISSN [Pending]
 </p><center>
 <table border="5" cellpadding="2" cellspacing="2" width="100%">
 <tr>
-<th align="left" valign="middle"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/editorial/"><h2>A Letter from the Editor</h2></a></font></th>
+<th align="left" valign="middle"><font face="Times New Roman" size="4"><h2><a href="/compass-rose/summer-2000/editorial/">A Letter from the Editor</a></h2></font></th>
 </tr>
 <tr>
 <td align="left" valign="middle"><font face="Times New Roman" size="4"><h2>Articles</h2>
@@ -59,44 +59,44 @@ Abstract:  A discussion of the concept of bisexuality.  [<font color="red">Warni
 </font></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/reviews/"><h2>Reviews</h2></a>
+<td align="left" valign="middle"><font face="Times New Roman" size="4"><h2><a href="/compass-rose/summer-2000/reviews/">Reviews</a></h2>
 <p>
 </p><h2><a href="/compass-rose/summer-2000/reviews/#cd">CD</a></h2>
 <p>
 </p><ul>
-<li><a href="/compass-rose/summer-2000/reviews/#roundworm"><h3>Roundworm</h3></a>
+<li><h3><a href="/compass-rose/summer-2000/reviews/#roundworm">Roundworm</a></h3>
 </li></ul>
 <p>
 </p><h2><a href="/compass-rose/summer-2000/reviews/#fiction">Fiction</a></h2>
 <p>
 </p><ul>
-<li><a href="/compass-rose/summer-2000/reviews/#bb"><h3>Brightly Burning</h3></a>
+<li><h3><a href="/compass-rose/summer-2000/reviews/#bb">Brightly Burning</a></h3>
 </li></ul>
 <p>
 </p><h2><a href="/compass-rose/summer-2000/reviews/#film">Film</a></h2>
 <p>
 </p><ul>
-<li><a href="/compass-rose/summer-2000/reviews/#g"><h3>Gladiator</h3></a>
+<li><h3><a href="/compass-rose/summer-2000/reviews/#g">Gladiator</a></h3>
 </li></ul>
 <p>
 </p><h2><a href="/compass-rose/summer-2000/reviews/#nonfiction">Nonfiction</a></h2>
 <p>
 </p><ul>
 <p>
-</p><li><a href="/compass-rose/summer-2000/reviews/#comic"><h3>Comic Book Culture</h3></a><p>
-</p></li><li><a href="/compass-rose/summer-2000/reviews/#sf20"><h3>Science Fiction of the 20th Century</h3></a>
+</p><li><h3><a href="/compass-rose/summer-2000/reviews/#comic">Comic Book Culture</a></h3><p>
+</p></li><li><h3><a href="/compass-rose/summer-2000/reviews/#sf20">Science Fiction of the 20th Century</a></h3>
 </li></ul>
 <p>
 </p><h2><a href="/compass-rose/summer-2000/reviews/#ren">Renaissance Faires</a></h2>
 <p>
 </p><ul>
-<li><a href="/compass-rose/summer-2000/reviews/#smren"><h3>Smaller Renaissance Faires</h3></a>
+<li><h3><a href="/compass-rose/summer-2000/reviews/#smren">Smaller Renaissance Faires</a></h3>
 </li></ul>
 <p>
 </p><h2><a href="/compass-rose/summer-2000/reviews/#video">Video</a></h2>
 <p>
 </p><ul>
-<li><a href="/compass-rose/summer-2000/reviews/#gq"><h3>Galaxy Quest</h3></a>
+<li><h3><a href="/compass-rose/summer-2000/reviews/#gq">Galaxy Quest</a></h3>
 </li></ul>
 <p>
 </p></font></td>

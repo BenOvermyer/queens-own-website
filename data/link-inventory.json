@@ -1,7 +1,7 @@
 {
   "summary": {
     "local_available": 1199,
-    "missing_file": 4,
+    "missing_file": 3,
     "unavailable_content": 2,
     "remote_available": 120,
     "missing_pdf": 27
@@ -16816,42 +16816,6 @@
       ],
       "local_present": true,
       "status": "local_available"
-    },
-    {
-      "target": "/mailto",
-      "type": "page",
-      "references": [
-        {
-          "page": "persona-directory/index.html",
-          "attribute": "data-unavailable-target",
-          "url": "https://queensown.org/mailto"
-        }
-      ],
-      "local_present": false,
-      "status": "missing_file",
-      "http_url": "https://queensown.org/mailto",
-      "http": {
-        "checked_at": "2026-10-08T12:29:56.954651+00:00",
-        "final_url": "https://queensown.org/mailto",
-        "status": 404,
-        "url": "https://queensown.org/mailto"
-      },
-      "disposition": {
-        "action": "Preserve the historical text; no image filename or email address can be inferred reliably from this reference.",
-        "archive_index": {
-          "cutoff": "20260701",
-          "domain": "dragonlordsnet.com",
-          "exact_filename_indexed": false,
-          "indexed_resources": 2424,
-          "source": "../queens-own/cdx-index.json"
-        },
-        "classification": "malformed_email",
-        "referring_pages": [
-          "persona-directory/index.html"
-        ],
-        "resolution": "historical_gap",
-        "source_archive_present": false
-      }
     },
     {
       "target": "/membership",

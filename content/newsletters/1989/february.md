@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -48,7 +47,7 @@ For Marion Zimmer Bradley fans there is Friends of Darkover [Ed. Note 2002:  Con
 </p><p>
 For those who still might like to encourage the powers-that-be at the SFBC to include Misty among their other popular authors, the person to write is [Ed. Note 2002: Contact info withheld.].  [Editor's Note: We re-sent our October letter and will see what happens this time.]
 </p><p>
-For the origin of Misty's nickname, please reread Volume 1, Number 7, <a>September</a>.
+For the origin of Misty's nickname, please reread Volume 1, Number 7, September.
 </p><p>
 VOICES OF VALDEMAR will be the name of the Misty fanzine which Richard Corbin [See above.] plans to publish the first issue of in March.  [Editor's Note:  We are singularly impressed, totally overwhelmed, and thoroughly delighted!]  He will print stories, poetry, personas, and LOCs, [Letters of Comments from contributors about what's happening with them and their work.]  Richard will send a copy of the first issue on request.  [Consider this our request, please, Richard--Judith and Sally.]
 </p><p>

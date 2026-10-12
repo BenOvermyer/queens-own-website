@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -87,7 +86,7 @@ Zhai'helleva,
 </p><p>
 </p><h3>New Jersey</h3>
 <p>
-<b>WEST WINDSOR LIONS RENAISSANCE FAIRE. </b> Fax:  609-799-2616.  E-mail:  <a>maryweaver@longandfoster.com</a>.  Address:  P.O. Box 295, Princeton Junction, NJ, 08550. Site Address:  Mercer County Park, Old Trenton Rd., West Windsor, NJ.  Dates:  6/05/04 - 6/06/04.  Open/Close: 10:00 AM - 5:00 PM.
+<b>WEST WINDSOR LIONS RENAISSANCE FAIRE. </b> Fax:  609-799-2616.  E-mail:  maryweaver@longandfoster.com.  Address:  P.O. Box 295, Princeton Junction, NJ, 08550. Site Address:  Mercer County Park, Old Trenton Rd., West Windsor, NJ.  Dates:  6/05/04 - 6/06/04.  Open/Close: 10:00 AM - 5:00 PM.
 </p><p>
 </p><h3>New York</h3>
 <p>

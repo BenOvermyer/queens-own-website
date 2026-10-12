@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -102,7 +101,7 @@ DONA ANA RENAISSANCE CRAFTFAIRE.  E-mail:  <a href="mailto:daac@zianet.com">daac
 </p><p>
 </p><h3>North Carolina</h3>
 <p>
-CAROLINA RENAISSANCE FESTIVAL.  Fax: 704-896-5533.  E-mail: <a>carolinarenfest@royalfaires.com</a>.  Website: <a href="http://www.royalfaires.com">http://www.royalfaires.com</a>.  Address: P.O. Box 165, Davidson, NC  28036-0165.  Site Address: 16445 Poplar Tent Rd., Huntersville, NC  28078-4620.  Dates:  9/30/00 - 11/12/00.  Open/Close: 10:00 AM - 5:30 PM.
+CAROLINA RENAISSANCE FESTIVAL.  Fax: 704-896-5533.  E-mail: carolinarenfest@royalfaires.com.  Website: <a href="http://www.royalfaires.com">http://www.royalfaires.com</a>.  Address: P.O. Box 165, Davidson, NC  28036-0165.  Site Address: 16445 Poplar Tent Rd., Huntersville, NC  28078-4620.  Dates:  9/30/00 - 11/12/00.  Open/Close: 10:00 AM - 5:30 PM.
 </p><p>
 </p><h3>Oklahoma</h3>
 <p>
@@ -134,7 +133,7 @@ DIRE CONSEQUENCES. Website: http://www.ribhus.com/omni/direconsequences/index.ht
 </p><p>
 </p><h3>Florida</h3>
 <p>
-ELLEN'S CRUISE FOR A CURE (Highlander). E-mail: <a href="mailto:therecanbeonlyone@mac.com">therecanbeonlyone@mac.com</a>. Website: <a>http://my.voyager.net/danyle/HLCruisecure</a>. Site Address: Royal Caribbean cruise ship the Sovereign of the Sea, departing from Port Canaveral, Florida. Dates: 11/30/00 - 12/3/00.
+ELLEN'S CRUISE FOR A CURE (Highlander). E-mail: <a href="mailto:therecanbeonlyone@mac.com">therecanbeonlyone@mac.com</a>. Website: http://my.voyager.net/danyle/HLCruisecure. Site Address: Royal Caribbean cruise ship the Sovereign of the Sea, departing from Port Canaveral, Florida. Dates: 11/30/00 - 12/3/00.
 </p><p>
 TROPICON XIX. E-mail: <a href="mailto:tropicon@sfsfs.org">tropicon@sfsfs.org</a>. Website: http://sfsfs.org/Tropicon. Site Address: Clarion Hotel at Hollywood Beach, Hollywood, Florida. Dates: 11/10/00 - 11/12/00.
 </p><p>
@@ -277,13 +276,36 @@ GALILEO 7 IV/STAR TREK. E-mail: <a href="mailto:j.stegemann@galileo7.de">j.stege
 </p><h3>Ireland</h3>
 <p>
 VATICON VII. E-mail: <a href="mailto:games.club@ucd.ie">.  Site Address:  Univeristy College, Dublin.  Dates:  11/24/00 - 11/26/00.
-<p>
-</p><h3>The Netherlands</h3>
-<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</a><p>
+</p><h3>The Netherlands</h3><p>
 CONTREATY (BENELUXCON 24). E-mail: <a href="mailto:ConTreaty@Jimacred.demon.nl">ConTreaty@Jimacred.demon.nl</a>.  Website: http://homepage.eircom.net/~goudriaan/contreaty/Treaty-index.html.  Address: ConTreaty, Mozartlaan 38, 2253 HX Voorschofen, Holland.  Site Address:  The Best Western Grand Hotel de L'Empereur in Maastricht, The Netherlands. Dates: 11/17/00 - 11/19/00.
 </p><p>
-</p><h3>United Kingdom</h3>
-<p>
+</p><h3>United Kingdom</h3><p>
 BIFROST 2000. E-mail: <a href="mailto:info@bifrost.org.uk">info@bifrost.org.uk</a>.  Website: <a href="http://www.bifrost.org.uk">http://www.bifrost.org.uk</a>. Address: SFSFW, 4 Old Acre Road, Whitchurch, Bristol BS14 0HN. Site Address: Sandwell Gala Leisure Centre, Edward Street, West Bromwich, Birmingham, UK.  Dates: 11/4/00.
 </p><p>
 CON-FICTION STAR TREK/MEDIA. E-mail: <a href="mailto:confiction@breathemail.net">confiction@breathemail.net</a>.  Website: <a href="http://users.breathemail.net/chaosfan/con-fiction.htm">http://users.breathemail.net/chaosfan/con-fiction.htm</a>.  Address: Con-Fiction, 36 Finsbury Avenue, Blackpool, Lancashire FY1 6QN.
@@ -305,28 +327,21 @@ NOVACON 30. E-mail: <a href="mailto:pat@cooky.demon.co.uk">pat@cooky.demon.co.uk
 </p><p>
 WOLF SG-2 MEDIA/STARGATE. E-mail: <a href="mailto:wolf359con@aol.com">wolf359con@aol.com</a>.  Website: <a href="http://www.wolfevents.co.uk">http://www.wolfevents.co.uk</a>. Address: Wolf Events, PO Box 1419, Slough PDO, SL2 5WJ. Tel: 01753 771 078.  Site Address: Heathrow Park Hotel, Heathrow, London, England, UK. 11/3/00 - 11/5/00.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><center><img alt="Change Lizard by Adam King" border="3" loading="lazy" src="/qo33.jpg"/></center>
-<p>
-</p><h2>Member News:</h2>
-<p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><center><img alt="Change Lizard by Adam King" border="3" loading="lazy" src="/qo33.jpg"/></center><p>
+</p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 </p><p>
-</p><h3>Local chapters:</h3>
-<p>
+</p><h3>Local chapters:</h3><p>
 </p><ul>
 <li><b>Austral'a'in:</b> <i>Austral'a'in</i> is a chapter of QO that has been running for more than five years now.  Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator.  Rather, anyone is welcome!  Snail Mail:  Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia.  E-mail: <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.
 <p>
 </p></li><li><b>Golden Grove:</b> Membership is open to all.  Send all questions to <b>Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236</b>.  To query by e-mail, contact <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  Visit our website at <a href="/golden-grove/">/golden-grove/</a> for more information.  (See ad below.)
 <p>
 </p></li><li><b>Pacific Northwest Collegium:</b>  Newsletter: <i>Collegium Chronicles</i>. $8 per year/$4 for a half-year, $2 per issue.  Website: <a href="/pacific-northwest-collegium/">/pacific-northwest-collegium/</a>. General inquiries to: <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.  (See ad below for more details.) <i>Collegium Chronicles</i> Back Issues:  The Danya Winterborn Saga:  4 B&amp;W issues: $4.00  each, 2 Full color issues: $6.00.  Please allow 2-4 week delivery. <b>PNWC Members:</b> Yes, indeed, Vol.9 issue 4 WILL be out in late August/early September, with another issue immediately following. Mundane worldly issues have gobbled up my time and energies these past few months, making it impossible to devote to other projects. Never fear--PNWC and the <i>Chronicles</i> are still alive and kicking! <b>Laura/Moonglade</b>, editor.
-</li></ul>
-<p>
-</p><center><img alt="Crystal Wren by Caitlyn Wilkinson" border="3" loading="lazy" src="/qo36.jpg"/></center>
-<p>
-</p><h3>Zines and Newsletters:</h3>
-<p>
+</li></ul><p>
+</p><center><img alt="Crystal Wren by Caitlyn Wilkinson" border="3" loading="lazy" src="/qo36.jpg"/></center><p>
+</p><h3>Zines and Newsletters:</h3><p>
 </p><ul>
 <li><b><i>Austral'a'in</i>:</b> Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.  We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas.  (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!)  The cost of membership covers postage and printing - we're a strictly not-for-profit group.   If you are interested in more information, or have stories or other submissions that you would like to see published, contact me!
 <p>
@@ -338,15 +353,11 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 <p>
 </p></li><li><b><i>Golden Grove</i>:</b> Editor: Theresa Young.  E-mail: <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year.  Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at <a href="/golden-grove/">/golden-grove/</a> for more information.<p>
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
-</li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><h2>Other Fandoms:</h2>
-<p>
+</li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><h2>Other Fandoms:</h2><p>
 </p><center><img alt="Bondbird by Caitlyn Wilkinson" border="5" loading="lazy" src="/qo37.jpg"/>
-</center>
-<p>
+</center><p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 <p>
@@ -368,10 +379,8 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li>Melanie Rawn: <b> Pandemonium </b>- The official Melanie Rawn club invites you to join their ranks.  SASE for more information:  Irena Pereira, P.O. Box 18A146 , Los Angeles, CA 90018.
 <p>
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
-</li></ul>
-<p>
-</p><h3>Collegium News:</h3>
-<p>
+</li></ul><p>
+</p><h3>Collegium News:</h3><p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 </p><p>
 You need a release form (online at <a href="/release-form-instructions/">/release-form-instructions/</a>) if you write a story set in Misty's worlds or using any of her characters.  You do not need a release for a character sketch, poem or filk.  All Misty wants to do is protect her characters and her worlds.  Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  Do NOT include the <i>original</i> of the release form with your persona material; send it to Misty.  Send a <i>copy</i> to us.
@@ -381,10 +390,8 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 </p><ul>
 <li>Welcome, <b>Tayledras Scout Skyfire k'Chona</b> and his bondbirds gray Gyrfalcon Krellin and brown Red-tailed Hawk Koten.  Skyfire is gifted with Mindspeech with his bondbirds, humans and non-human races.  <b>Adam King</b> wrote about Skyfire and his friends, drew a picture of Koten and created a new Peligirs race.
 
-</li></ul>
-<p>
-<img align="right" alt="Companions and Bondbirds by Herald Alora" border="5" loading="lazy" src="/qo39.jpg"/></p><h3>From Healer Adept Moonstar:</h3>
-<p>
+</li></ul><p>
+<img align="right" alt="Companions and Bondbirds by Herald Alora" border="5" loading="lazy" src="/qo39.jpg"/></p><h3>From Healer Adept Moonstar:</h3><p>
 We are heading into the holidays.  For Danya that means days filled with all the things that come with a new baby.  Congrats &lt;g&gt;.
 </p><p>
 For me the holidays are filled with friends, occasionally family, too much food and movies.  I thought this month I would share some fantasy/science fiction movies that are going to grace our theaters.  On those days that are cold, blustery, or you are too full to contemplate the gym, here are some going out ideas.
@@ -407,10 +414,8 @@ Hugs-
 </p><p>
 Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><h2>Fan Messages:</h2>
-<p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><h2>Fan Messages:</h2><p>
 <img align="left" alt="Cleric and Star by Herald Alora" border="3" loading="lazy" src="/qo38.jpg"/></p><p>
 The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
@@ -421,19 +426,14 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li>From <b>Danya Winterborn</b>, P.O. Box 749, Laguna Beach, CA  92652, E-mail: <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.  Heyla, all!  I am a tremendously busy "mom" &lt;g&gt;, but I do try to answer all messages that are sent to me.  (Sometimes it takes me a few days, but I do answer them.)  Feel free to write if you have any questions or even if you just want to chat!
 </li><li>From <b>Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc</b> <a href="mailto:dragonfodder@gmail.com">dragonfodder@gmail.com</a>.  22-year-old college grad going back for her Master's in Ecology in the fall.  Loves reading, writing, fandom, Scooby-Doo and comic books.
 </li><li>From <b>Healer Adept Moonstar</b>. Needed February '88 through March '91, Queen's Own newletters.  I am creating an archive for the club, and as you can see we are listing all the approved personas on the site.  Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA  92652.  Thank you very much.
-</li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><h2>Personals:</h2>
-<p>
+</li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><h2>Personals:</h2><p>
 </p><ul>
 <li>To <b>Elizabeth Barrette</b>, the author of the Pros &amp; Cons booklet we distribute, from <b>Herald-Mage Master Danya Winterborn</b>.  Please contact me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.<p>
 </p></li><li>To <b>Everyone Who's Asked</b>, from <b>Herald-Mage Master Danya Winterborn</b>.  The paperback edition of my book on King Arthur and my dissertation on the Holy Grail are available (at reasonable prices for a change!) through the links at <a href="https://dragonlords.fans/bkmalcor.htm">http://www.dragonlordsnet.com/bkmalcor.htm</a>.  For a current listing of my publications, visit <a href="https://dragonlords.fans/author.htm">http://www.dragonlordsnet.com/author.htm</a>.<p>
-</p></li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
+</p></li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
 Newsletters are published on (or near) the first of each month.
@@ -455,10 +455,9 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></a></p>
+</p></p>
 </div>

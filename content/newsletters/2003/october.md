@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -495,7 +494,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p><h3>Local chapters:</h3>
 <p>
 </p><ul>
-<li><b>Arrows OnLine:</b> Contact: Adept Grayfeather k'Varis  (Kristi Reed).  E-mail:  <a>DragonMamaK@aol.com</a>. Arrows OnLine is the AOL chapter of QO.  Chats will be held the first and third Wednesdays of each month from 8-10 PM ET.  Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions.  Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat.  As far as instructions on how to get there . . . there are lots of hoops to jump through now.  Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there.  She's no longer a keyword, but hopefully with more traffic in the future that will change.  If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links.  The links to the chatroom will be on my "signature" on the boards.
+<li><b>Arrows OnLine:</b> Contact: Adept Grayfeather k'Varis  (Kristi Reed).  E-mail:  DragonMamaK@aol.com. Arrows OnLine is the AOL chapter of QO.  Chats will be held the first and third Wednesdays of each month from 8-10 PM ET.  Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions.  Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat.  As far as instructions on how to get there . . . there are lots of hoops to jump through now.  Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there.  She's no longer a keyword, but hopefully with more traffic in the future that will change.  If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links.  The links to the chatroom will be on my "signature" on the boards.
 <p>
 </p></li><li><b>German Heartstone:</b>  Website: <a href="http://www.heartstone.de">http://www.heartstone.de</a>.  Contact: <a href="mailto:Sunny@heartstone.de">Sunny@heartstone.de</a> or <a href="mailto:Shae@heartstone.de">Shae@heartstone.de</a>. A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on <a href="http://www.heartstone.de">http://www.heartstone.de</a>!   For more information contact <a href="mailto:Sunny@heartstone.de">Sunny@heartstone.de</a> or <a href="mailto:Shae@heartstone.de">Shae@heartstone.de</a>.
 <p>

@@ -105,7 +105,6 @@ with Heralds Yarik Rafton and Kaylan Elderwood<br/>
 by<br/>
 <a href="/pacific-northwest-collegium/">Laura Cameron</a></center>
 <p>
-
 </p><p>
 So far, I have completed five stories about Danya's adventures.  <a href="/release-form-instructions/">Releases</a> have been filed with High Flight. The
 tales have been published in the following 'zines:
@@ -138,11 +137,9 @@ as well as read fiction written by other folks, check out the Queen's Own
 </p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
 <p>
 <font face="Harem">
-<a id="trivia" name="trivia">
-<h2>Trivia</h2></a>
+<h2 id="trivia">Trivia</h2>
 </font>
 </p><p>
-
 </p><p>
 Here's some fun stuff I cobbled together while procrastinating on my
 latest writing project &lt;g&gt;.
@@ -158,8 +155,7 @@ latest writing project &lt;g&gt;.
 </p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
 <p>
 <font face="Harem">
-<a id="spells" name="spells">
-<h2>Magic</h2></a>
+<h2 id="spells">Magic</h2>
 </font>
 </p><p>
 
@@ -169,7 +165,6 @@ has been compiled while Danya works on advancing in rank as a Herald-Mage.
 (Unless otherwise designated, the section on magic is from the <i>fictional</i>
 world of Velgarth.)
 </p><p>
-
 </p><ul>
 <li><a href="/magic-of-velgarth/">The Complete Magic Page</a>
 </li><li><a href="/magic-of-velgarth/#horse">Companion Magic</a>
@@ -185,8 +180,7 @@ type)</a>
 </p><center><img alt="" loading="lazy" src="/barstar.gif"/></center>
 <p>
 <font face="Harem">
-<a id="movie" name="movie">
-<h2>The Infamous Movie Project</h2></a>
+<h2 id="movie">The Infamous Movie Project</h2>
 </font>
 </p><p>
 </p><center></center>
@@ -258,8 +252,7 @@ In The Valdemar Companion Misty registers her own votes for the Dream Cast list 
 </p><center><img alt="" loading="lazy" src="/barstar.gif"/></center>
 <p>
 <font face="Harem">
-<a id="recipes" name="recipes">
-<h2>Recipes</h2></a>
+<h2 id="recipes">Recipes</h2>
 </font>
 </p><p>
 </p><center><a href="/pacific-northwest-collegium/"><img alt="Danya and Bard Kestran" border="0" loading="lazy" src="/cc2a.gif"/></a></center>
@@ -269,7 +262,6 @@ In The Valdemar Companion Misty registers her own votes for the Dream Cast list 
 by<br/>
 <a href="/pacific-northwest-collegium/">Laura Cameron</a></center>
 <p>
-
 </p><p>
 The recipe booklet available through these links was part of my project
 to qualify Danya for <a href="/">Queen's Own</a>.  The recipes in it were
@@ -294,11 +286,9 @@ for DOS copy.)
 </p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
 <p>
 <font face="Harem">
-<a id="books" name="books">
-<h2>Mercedes Lackey's Books</h2></a>
+<h2 id="books">Mercedes Lackey's Books</h2>
 </font>
 </p><p>
-
 </p><p>
 </p><center></center>
 <p>
@@ -307,11 +297,9 @@ for DOS copy.)
 </p><center><img alt="" loading="lazy" src="/barlinks.gif"/></center>
 <p>
 <font face="Harem">
-<a id="links" name="links">
-<h2>Misty Links</h2></a>
+<h2 id="links">Misty Links</h2>
 </font>
 </p><p>
-
 </p><p>
 Here are links of interest to fans of the Valdemar series.
 </p><ul>
@@ -378,8 +366,7 @@ I'll review the site, and, if I like it, I'll add the link.
 </p><center><img alt="" height="7" loading="lazy" src="/rainbar.gif" width="800"/></center>
 <p>
 <font face="Harem">
-<a id="rings" name="rings">
-<h2>Webrings</h2></a>
+<h2 id="rings">Webrings</h2>
 </font>
 </p><p>
 </p><center></center>
@@ -467,7 +454,6 @@ Click here for
 </p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
 <p>
 <font face="Harem">
-
 </font>
 </p>
 </div>

@@ -11,6 +11,7 @@ from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
 from link_repairs import annotate_gaps, corrected_link, repair_anchors
+from markup_normalize import normalize_soup
 from markup_repairs import repair_markup
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -104,6 +105,7 @@ def migrate(source):
                     node['alt'] = ''
         dispositions = json.loads((ROOT / 'data/link-dispositions.json').read_text()) if (ROOT / 'data/link-dispositions.json').exists() else {}
         annotate_gaps(soup, dispositions)
+        normalize_soup(body)
         html = body.decode_contents()
         # Raw HTML inside Zola Markdown preserves the hand-authored archive layout.
         converted = '<div class="original-page">\n' + html + '\n</div>\n'

@@ -30,7 +30,7 @@ ISSN [Pending]
 </p><center>
 <table border="5" cellpadding="2" cellspacing="2" width="100%">
 <tr>
-<th align="left" valign="middle"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/editorial/"><h2>A Letter from the Editor</h2></a></font></th>
+<th align="left" valign="middle"><font face="Times New Roman" size="4"><h2><a href="/compass-rose/spring-2002/editorial/">A Letter from the Editor</a></h2></font></th>
 </tr>
 <tr>
 <td align="left" valign="middle"><font face="Times New Roman" size="4"><h2>Articles</h2>
@@ -53,31 +53,31 @@ Abstract:  Although censorship exists in every form of media in today's society,
 </font></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/reviews/"><h2>Reviews</h2></a>
+<td align="left" valign="middle"><font face="Times New Roman" size="4"><h2><a href="/compass-rose/spring-2002/reviews/">Reviews</a></h2>
 <p>
 </p><h2><a href="/compass-rose/spring-2002/reviews/#fiction">Fiction</a></h2>
 <p>
 </p><ul>
-<li><a href="/compass-rose/spring-2002/reviews/#bwe"><h3><i>Beyond World's End</i></h3></a>
+<li><h3><a href="/compass-rose/spring-2002/reviews/#bwe"><i>Beyond World's End</i></a></h3>
 </li></ul>
 <p>
 </p><h2><a href="/compass-rose/spring-2002/reviews/#film">Film</a></h2>
 <p>
 </p><ul>
-<li><a href="/compass-rose/spring-2002/reviews/#dungeon"><h3><i>Dungeons and Dragons: The Movie</i></h3></a>
-</li><li><a href="/compass-rose/spring-2002/reviews/#grinch"><h3><i>The Grinch</i></h3></a>
+<li><h3><a href="/compass-rose/spring-2002/reviews/#dungeon"><i>Dungeons and Dragons: The Movie</i></a></h3>
+</li><li><h3><a href="/compass-rose/spring-2002/reviews/#grinch"><i>The Grinch</i></a></h3>
 </li></ul>
 <p>
 </p><h2><a href="/compass-rose/spring-2002/reviews/#nonfiction">Nonfiction</a></h2>
 <p>
 </p><ul>
-<li><a href="/compass-rose/spring-2002/reviews/#Ribchester"><h3><i>The Romans at Ribchester: Discovery and Excavations</i></h3></a>
+<li><h3><a href="/compass-rose/spring-2002/reviews/#Ribchester"><i>The Romans at Ribchester: Discovery and Excavations</i></a></h3>
 </li></ul>
 <p>
 </p><h2><a href="/compass-rose/spring-2002/reviews/#video">Video</a></h2>
 <p>
 </p><ul>
-<li><a href="/compass-rose/spring-2002/reviews/#restore"><h3><i>Restoration</i></h3></a>
+<li><h3><a href="/compass-rose/spring-2002/reviews/#restore"><i>Restoration</i></a></h3>
 </li></ul>
 </font></td>
 </tr>

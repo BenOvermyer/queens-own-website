@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -154,7 +153,7 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>VIA 1936: HORROR - SPAIN.</b>  E-mail: <a href="mailto:vialarp@yahoo.com">vialarp@yahoo.com</a>.  Website: <a href="http://www.vialarp.org">http://www.vialarp.org</a>.  Address: Hagerstown, Maryland.  Dates: 7/14/01 - 7/15/01.
 </p><p>
-<b>WBC.</b>  Website: <a href="http://www.boardgamers.org">http://www.boardgamers.org</a><a></a>.  E-mail: <a href="mailto:doncon99@toad.net">doncon99@toad.net</a>.  Address: Marriott's Hunt Valley Inn, Hunt Valley, Maryland.  Dates: 6/26/01 - 7/1/01.
+<b>WBC.</b>  Website: <a href="http://www.boardgamers.org">http://www.boardgamers.org</a>.  E-mail: <a href="mailto:doncon99@toad.net">doncon99@toad.net</a>.  Address: Marriott's Hunt Valley Inn, Hunt Valley, Maryland.  Dates: 6/26/01 - 7/1/01.
 </p><p>
 </p><h3>Massachusetts</h3>
 <p>

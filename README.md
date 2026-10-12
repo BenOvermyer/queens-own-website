@@ -103,8 +103,11 @@ then rerun the organizer, rebuild, and verify.
 
 The original pages contain malformed attribute quoting that a lenient parser turns
 into swallowed links and escaped markup. `scripts/markup_repairs.py` repairs those
-fragments in the raw archive bytes, and both importers apply it before parsing, so a
-reimport does not restore the breakage. `scripts/audit_html.py` audits the preserved
+fragments in the raw archive bytes, and `scripts/markup_normalize.py` repairs invalid
+block-in-anchor nesting (named anchors and links that wrapped headings, and stray
+anchors that swallowed sections). Both importers apply them before parsing, so a
+reimport does not restore the breakage; `python3 scripts/markup_normalize.py` can also
+be rerun over existing content. `scripts/audit_html.py` audits the preserved
 HTML for structural, presentational, and semantic problems and records a
 content-preservation baseline. `python3 scripts/audit_html.py --check` fails while
 unresolved structural errors remain, and `scripts/verify.py` runs it during

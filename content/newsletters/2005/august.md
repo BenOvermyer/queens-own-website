@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -200,7 +199,7 @@ Here are the Faires we know about for August.  Faires are indexed alphabetically
 <p>
 <b>England�s Medieval Festival at Herstmonceux Castle.</b> E-mail: <a href="mailto:info@mgel.com">info@mgel.com</a>. Website: <a href="http://www.herstmonceux.com">http://www.herstmonceux.com</a>. Site Address: Herstmonceux Castle, East Sussex, England. Dates: 8/27/05-8/29/05. Open/Close: 10 a.m. - 6 p.m.
 </p><p>
-For additional Ren Faire information, visit the Renaissance Faire Homepage at <a>http://www.renfaire.com/</a>, the Renaissance Festival Directory at <a href="http://www.renaissancefestival.com/rendir.asp">http://www.renaissancefestival.com/rendir.asp</a>, and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
+For additional Ren Faire information, visit the Renaissance Faire Homepage at http://www.renfaire.com/, the Renaissance Festival Directory at <a href="http://www.renaissancefestival.com/rendir.asp">http://www.renaissancefestival.com/rendir.asp</a>, and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
 </p><p>
 </p><h2>Conventions:</h2>
 <p>

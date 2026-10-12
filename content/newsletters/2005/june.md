@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -221,7 +220,7 @@ Here are the Faires we know about for June.  Faires are indexed alphabetically b
 <p>
 <b>Fesivitas: A Medieval Music Festival.</b>  E-mail: <a href="mailto:daniel@memento.st">daniel@memento.st</a>.  Website: <a href="http://www.festivitas.just.nu">http://www.festivitas.just.nu</a>.  Address: Radmansgatan 5, Malmo, Se-211 46, Sweden.  Site Address: Kulturen Museum, Tegnersplatsen.  Dates: 6/12/05-6/13/05.  Open/Close: 11 a.m. - 5 p.m.
 </p><p>
-For additional Ren Faire information, visit the Renaissance Faire Homepage at <a>http://www.renfaire.com/</a>, the Renaissance Festival Directory at <a href="http://www.renaissancefestival.com/rendir.asp">http://www.renaissancefestival.com/rendir.asp</a>, and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
+For additional Ren Faire information, visit the Renaissance Faire Homepage at http://www.renfaire.com/, the Renaissance Festival Directory at <a href="http://www.renaissancefestival.com/rendir.asp">http://www.renaissancefestival.com/rendir.asp</a>, and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
 </p><p>
 </p><h2>Conventions:</h2>
 <p>

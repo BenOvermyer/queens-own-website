@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -117,7 +116,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 <p>
 <b>CHICAGO COMICFEST.</b>  Website: <a href="http://motorcityconventions.com/chicago_comic_fest/index.html">http://motorcityconventions.com/chicago_comic_fest/index.html</a>.  E-mail: <a href="mailto:info@motorcityconventions.com">info@motorcityconventions.com</a>.  Address: Ramada Plaza Hotel O'Hare, Rosemont, Illinois.  Dates: 3/13/04 - 3/14/04.
 </p><p>
-<b>CULT TV EXPO.</b>  Website: <a href="http://dg-promotions.5u.com/galactica.htm">http://dg-promotions.5u.com/galactica.htm</a><a></a>.  E-mail: <a href="mailto:dgpromotions@intouchmi.com">dgpromotions@intouchmi.com</a>.  Address: Ramada Plaza O'Hare, Chicago, Illinois.  Dates: 3/20/04 - 3/21/04.
+<b>CULT TV EXPO.</b>  Website: <a href="http://dg-promotions.5u.com/galactica.htm">http://dg-promotions.5u.com/galactica.htm</a>.  E-mail: <a href="mailto:dgpromotions@intouchmi.com">dgpromotions@intouchmi.com</a>.  Address: Ramada Plaza O'Hare, Chicago, Illinois.  Dates: 3/20/04 - 3/21/04.
 </p><p>
 <b>EGYPTIAN CAMPAIGN 2004.</b>  Website: <a href="http://www.siu.edu/~gamesoc">http://www.siu.edu/~gamesoc</a>.  E-mail: <a href="mailto:sickle_weasel_rune@yahoo.com">sickle_weasel_rune@yahoo.com</a>.  Address: Southern Illinois University at Carbondale, Carbondale, Illinois.  Dates: 3/26/04 - 3/28/04.
 </p><p>

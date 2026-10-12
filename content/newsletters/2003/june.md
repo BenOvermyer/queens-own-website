@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -65,9 +64,41 @@ Here are the Faires we know about for June.  Faires are indexed alphabetically b
 </p><h3>Arizona</h3>
 <p>
 <b>RENAISSANCE IN THE PINES.</b>  FAX: 928-636-6554.  E-mail: <a href="mailto:jpelzer@renaissanceinthepines.com">jpelzer@renaissanceinthepines.com</a>.  Website: <a href="http://www.renaissanceinthepines.com">.  Address: Box 792, Williams, AZ, 86046.  Site Address:  225 West Grant, Williams, AZ, 86046.  Dates:  6/14/03 - 6/15/03.  Open/Close: 9:00 AM - 6:00 PM.
-<p>
-</p><h3>California</h3>
-<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</a><p>
+</p><h3>California</h3><p>
 <b>A ROYAL AFAYRE RENAISSANCE FESTIVAL. </b> FAX:  720-293-6660.  E-mail: jasmineh@earthlink.net <a href="mailto:jasmineh@earthlink.net">.  Website: </a><a href="http://www.aryalafayre.org">http://www.aryalafayre.org</a>.  Address: 843 N. Lincoln Street, Stockton, CA, 95203.  Site Address:   Discovery Park, I-5 and Richards Blvd., Sacraamento, CA.  Dates:
 7/05/03 - 7/06/03.  Open/Close: 10:00 AM - 06:00 PM.
 </p><p>
@@ -77,98 +108,79 @@ Here are the Faires we know about for June.  Faires are indexed alphabetically b
 </p><p>
 <b>VALHALLA RENAISSANCE FESTIVAL.</b>  Fax:  530-544-7348.  E-mail:  <a href="mailto:sbd97@earthlink.net">sbd97@earthlink.net</a>.  Website:  <a href="http://hometown.aol.com/sltcarlson/">http://hometown.aol.com/sltcarlson/</a>.  Address:  3839 Oak Glen Dr., Santa Rosa, CA, 95404.  Site Address:  Camp Richardsons Resort,  1900 Jameson Beach Road, South Lake Tahoe, CA,  96150.  Dates:  6/07/03 - 6/15/03.  Open/Close: 10:00 AM -  6:00 PM.
 </p><p>
-</p><h3>Colorado</h3>
-<p>
+</p><h3>Colorado</h3><p>
 <b>A RETURN TO CAMELOT.</b>  E-mail: <a href="mailto:arturnto_camelot@hotmail.com">arturnto_camelot@hotmail.com</a>.  Website: <a href="http://www.faires.com/camelot">http://www.faires.com/camelot</a>.  Address: Grand Junction Jaycees, P.O. Box 2326, Grand Junction, CO, 81502.  Site Address:   Intermountain Veterns Memorial Park, 2785 Hwy. 50, Grand Junction, CO, 81503.  Dates: 6/14/03 - 6/15/03.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
 <b>COLORADO RENAISSANCE FESTIVAL. </b> FAX: 303-688-5677.  E-mail: <a href="mailto:pfrank@coloradorenaissance.com">pfrank@coloradorenaissance.com</a>.  Website: <a href="http://www.ColoradoRenaissance.com">http://www.ColoradoRenaissance.com</a>.  Address: 409 South Wilcox, Suite #F,  Castle Rock, CO, 80104-1962.  Site Address:   General Delivery,  Larkspur, CO, 80118-9999.  Dates:  6/07/03 - 7/27/03.  Open/Close: 10:00 AM - 6:30 PM.
 </p><p>
-</p><h3>Connecticut</h3>
-<p>
+</p><h3>Connecticut</h3><p>
 <b>PARK CITY RENAISSANCE FAIRE. </b> FAX: 203-366-3835.  E-mail: <a href="mailto:parkcityrenfaire@aol.com">parkcityrenfaire@aol.com</a>.  Website: <a href="http://www.parkcityrenaissancefaire.com">http://www.parkcityrenaissancefaire.com</a>.  Address: P.O. Box 320686, Fairfield, CT, 06432.  Site Address:   3002 Fairfield Avenue, Bridgeport, CT, 06605.  Dates:  6/21/03 - 6/22/03.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
-</p><h3>Georgia</h3>
-<p>
+</p><h3>Georgia</h3><p>
 <b>GEORGIA RENAISSANCE FESTIVAL. </b> Fax:  770-964-1477.  Website:  <a href="http://www.georgiarenaissancefestival.com">http://www.georgiarenaissancefestival.com</a>.  Address:  P.O.  Box 986, Fairburn, GA, 30213-0986.  Dates:  4/26/03 - 6/08/03.  Open/Close: 10:30 AM - 6:00 PM.
 </p><p>
-</p><h3>Iowa</h3>
-<p>
+</p><h3>Iowa</h3><p>
 <b>A RENAISSANCE AFFAIRE.</b>  FAX: 515-279-3316.  E-mail: <a href="mailto:d_jwelch@iowatelecom.net">d_jwelch@iowatelecom.net</a>.  Address: 300 S. Delaware St., Osceola, IA, 50213.  Dates:  6/21/03 - 6/22/03.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
 <b>RENAISSANCE FAIRE OF THE MIDLANDS. </b> FAX: 402-342-4114.  E-mail: <a href="mailto:vgaevents@aol.com">vgaevents@aol.com</a>.  Website: <a href="http://www.faire.org">http://www.faire.org</a>.  Address: Vic Gutman &amp; Associates, P.O. Box 31134, Omaha, NE  68131-0134.  Site Address:   Iowa Western Community College, 2700 College Road, Council Bluffs, IA.  Dates:  6/13/03 - 6/15/03.
 </p><p>
 <b>THE MWD WATERLOO RENAISSANCE FAIRE.</b>  FAX:  319-235-7489.  E-mail:  <a href="mailto:serfboard@hotmail.com">serfboard@hotmail.com</a>.  Website:  <a href="http://members.home.net/iowafaire/index.tom">http://members.home.net/iowafaire/index.tom</a>.  Address:  Waterloo Center for the Arts, 225 Commercial St., Waterloo, IA, 50701.  Dates:  5/31/03 - 6/01/03.  Open/Close: 10:00 AM  - 6:00 PM.
 </p><p>
-</p><h3>Indiana</h3>
-<p>
+</p><h3>Indiana</h3><p>
 <b>EAGLE LAIRE RENAISSANCE FESTIVAL. </b> E-mail: <a href="mailto:julegannon@hotmail.com">julegannon@hotmail.com</a>.  Address: P.O. Box 826, Fremont, IN, 46737.  Site Address:   E-Z Campgrounds, 50 West, Fremont, IN, 46737.  Dates:  6/14/03 - 6/15/03.  Open/Close: 10:00 AM - 5:00 PM.
 </p><p>
-</p><h3>Kentucky</h3>
-<p>
+</p><h3>Kentucky</h3><p>
 <b>RAVENHEARST MEDIEVAL FANTASY. </b> E-mail: <a href="mailto:firstdragon@ravenhearst.com">firstdragon@ravenhearst.com</a>.  Website: <a href="http://www.ravenhearst.com">http://www.ravenhearst.com</a>.  Address: P.O. Box 54715, Lexington, KY, 40505-4715.  Site Address:   Kentucky Horse Park, Ironworks Pike, Lexington, KY, 40511.  Dates:  6/14/03 - 6/29/03.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
-</p><h3>Missouri</h3>
-<p>
+</p><h3>Missouri</h3><p>
 <b>GREATER ST. LOUIS RENAISSANCE FAIRE.</b>  E-mail: <a href="mailto:inquiry@stlrenfair.com">inquiry@stlrenfair.com</a>.  Website: <a href="http://www.stlrenfaire.com">http://www.stlrenfaire.com</a>. Address:  Doug Glenn, PO Box 148, Wentzville, MO, 63385.   Dates:  5/17/03 - 6/8/03.
 </p><p>
 <b>MID MISSOURI RENAISSANCE FESTIVAL. </b> E-mail: <a href="mailto:melissaa@iland.net">melissaa@iland.net</a>.  Website: <a href="http://ladymelissamacleod.homestead.com/HamletOfMidMo.html">http://ladymelissamacleod.homestead.com/HamletOfMidMo.html</a>.  Address: c/o Melissa Alexander, 18999 Hwy. CC, Houstonia, MO, 65333.  Site Address:   Missouri State Faire Grounds, Sedalia, MO, 65301.  Dates:  6/14/03 - 6/15/03.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
 <b>MISSOURI RENAISSANCE FAIRE.</b>  FAX:  417-924-8619.  E-mail:  <a href="mailto:mansfieldhouse@yahoo.com">mansfieldhouse@yahoo.com</a>.  Website:  <a href="http://www.MissouriRenaissanceFaire.com">http://www.MissouriRenaissanceFaire.com</a>.  Address:  P.O. Box 628, Mansfield, MO, 65704.  Site Address:  299l Highway A, Mansfield, MO, 65704.  Dates:  5/31/03 - 6/08/03.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
-</p><h3>New Jersey</h3>
-<p>
+</p><h3>New Jersey</h3><p>
 <b>NEW JERSEY RENAISSANCE KINGDOM. </b> FAX: 908-903-0481.  E-mail: <a href="mailto:dunn-ley@njkingdom.com">dunn-ley@njkingdom.com</a>.  Website: <a href="http://www.njkingdom.com">http://www.njkingdom.com</a>.  Address: 28 Fordham Rd., Somerset, NJ, 08873.  Site Address:   345 Davidson Ave., Somerset, NJ, 08873-4119.  Dates:  6/07/03 - 7/13/03.  Open/Close: 11:00 AM - 6:00 PM.
 </p><p>
 <b>PAST TIMES RENAISSANCE FAIRE AT ALBA VINEYARDS.</b>  FAX: 908-995-7155.  E-mail: <a href="mailto:crimsonhartcanton@yahoo.com">crimsonhartcanton@yahoo.com</a>.  Website: <a href="http://www.geocities.com/crimsonfaire/faire.html">http://www.geocities.com/crimsonfaire/faire.html</a>.  Address: Past Times Renaissance Faire - Coordinator Office, P.O. Box 81, Buttzville, NJ, 07829.  Site Address:   Alba Vineyard &amp; Winery, 269 Route 627, Milford, NJ, 08848.  Dates:  6/21/03 - 6/22/03.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
 <b>WEST WINDSOR LIONS RENAISSANCE FAIRE.</b>  Address:  Ed DiPolvere, West Windsor Lions Club of NJ, PO Box 295, Princeton Junct., NJ, 08550.  Site Address: Mercer County Park, West Windsor, NJ. Dates:  5/31/03 - 6/1/03.  Open/Close:  10 AM - 6 PM (Sat.), 10 AM - 5 PM (Sun.).
  </p><p>
-</p><h3>New York</h3>
-<p>
+</p><h3>New York</h3><p>
 <b>STERLING RENAISSANCE FESTIVAL. </b> FAX: 315-947-6905.  E-mail: <a href="mailto:office@sterlingfestival.com">office@sterlingfestival.com</a>.  Website: <a href="http://SterlingFestival.com">http://SterlingFestival.com</a>.  Address: 15421 Farden Road, Sterling, NY, 13156.  Dates:  6/28/03 - 8/10/03.  Open/Close: 10:00 AM - 7:00 PM.
 </p><p>
-</p><h3>Ohio</h3>
-<p>
+</p><h3>Ohio</h3><p>
 <b>MEDIEVAL FANTASY FAIRE. </b> FAX: 419-334-7774.  E-mail: <a href="mailto:tei@nwonline.net">tei@nwonline.net</a>.  Website: <a href="http://www.medievalfantasy.net">http://www.medievalfantasy.net</a>.  Address: 1313 Tiffin St., Fremont, OH, 43420.  Dates:  6/28/03 - 7/27/03.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
-</p><h3>South Carolina</h3>
-<p>
+</p><h3>South Carolina</h3><p>
 <b>LANGSTON'S JEWEL MEDIEVAL FAIRE. </b> FAX: 803-731-9663.  E-mail: <a href="mailto:langstonsjewelmedfaire@yahoo.com">langstonsjewelmedfaire@yahoo.com</a>.  Address: PMB 125, 655 St. Andrews Rd., Columbia, SC, 29210.  Site Address:  678 Hwy. 702, Chappells, SC, 29037.  Dates:  6/07/03 - 6/15/03.  Open/Close: 10:00 AM 06:00 pm
 </p><p>
-</p><h3>South Dakota</h3>
-<p>
+</p><h3>South Dakota</h3><p>
 <b>SIOUXLAND RENAISSANCE FESTIVAL.</b>  E-mail: <a href="mailto:siouxlandrenaissance@hotmail.com">siouxlandrenaissance@hotmail.com</a>.  Website: <a href="http://www.siouxlandrenfest.com">http://www.siouxlandrenfest.com</a>.  Address: P.O. Box 88038, Sioux Falls, SD, 57106.  Dates:  6/07/03 - 6/08/03.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
-</p><h3>Tennessee</h3>
-<p>
+</p><h3>Tennessee</h3><p>
 <b>SHAKESPEARE AND FRIENDS IN THE PARK. </b> FAX: 423-272-0328.  E-mail: <a href="mailto:info@shakespeareandfriends.org">info@shakespeareandfriends.org</a>.  Website: <a href="http://www.shakespeareandfriends.org">http://www.shakespeareandfriends.org</a>.  Address: 116 E. Main St., Rogersville, TN, 37857.  Site Address:  116 E. Main St., Rogersville, TN, 37857.  Dates:  6/07/03 - 6/08/03.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
-</p><h3>Texas</h3>
-<p>
+</p><h3>Texas</h3><p>
 <b>SCARBOROUGH RENAISSANCE FAIRE.</b>  Fax:  972-938-1890.  E-mail:  <a href="mailto:TheRenFest@aol.com">TheRenFest@aol.com</a>.  Website:  <a href="http://www.ScarboroughRenFest.com">http://www.ScarboroughRenFest.com</a>.  Address:  P.O. Box 538, Waxahachie, TX, 75168-0538.  Site Address:  2511 FM 66, Waxahachie, TX, 75165-5527.  Dates:  4/12/03 - 6/01/03.  Open/Close: 10:00 AM - 7:00 PM.
 </p><p>
-</p><h3>Vermont</h3>
-<p>
+</p><h3>Vermont</h3><p>
 <b>VERMONT RENAISSANCE FESTIVAL.</b>  FAX:  802-463-3783.  E-mail:  <a href="mailto:info@vtrenfest.com">info@vtrenfest.com</a>.  Website:  <a href="http://www.vtrenfest.com">http://www.vtrenfest.com</a>.  Address:  122 Westminster Street, Bellows Falls, VT, 05101.  Site Address:  Fort Drummer State Park, Old Guilford Road, Brattleboro, VT, 05301.  Dates:  6/07/03 - 6/22/03. Open/Close: 10:00 AM - 5:00 PM.
 </p><p>
-</p><h3>Washington</h3>
-<p>
+</p><h3>Washington</h3><p>
 <b>NORTHWEST RENAISSANCE FESTIVAL.  </b>FAX: 509-487-2102.  Website: <a href="http://www.nwrf.net">http://www.nwrf.net</a>.  Address: 6493 Hwy. 291, Nine Mile Falls, WA, 99206-9528.  Dates:  6/14/03 - 7/20/03.  Open/Close: 11:00 AM - 7:00 PM.
 </p><p>
 <b>YE MERRIE GREENWOOD FAIRE. </b> E-mail: <a href="mailto:eaglcrst@gte.net">eaglcrst@gte.net</a>.  Website: <a href="http://www.wizkeep.com">http://www.wizkeep.com</a>.  Address: 6015 W 20th Ave., Kennewick, WA, 99338-1502.  Site Address:  Howard-Amon Park, Richland, WA, 99352.  Dates:  6/29/02 - 6/30/02.  Open/Close: 9:30 AM - 5:00 PM.
 </p><p>
-</p><h3>Wisconsin</h3>
-<p>
+</p><h3>Wisconsin</h3><p>
 <b>BRISTOL RENAISSANCE FAIRE.</b>  FAX: 847-395-0547.  E-mail: <a href="mailto:lmcfeters@recfair.com">lmcfeters@recfair.com</a>.  Website: <a href="http://www.renfair.com">http://www.renfair.com</a>.  Address: 12550 120th Ave., Kenosha, WI, 53142-7337.  Dates:  6/28/03 - 8/24/03.  Open/Close: 10:00 AM - 7:00 PM.
 </p><p>
 For additional Ren Faire information, visit the Renaissance Faire Homepage at <a href="http://www.renfaire.com/">http://www.renfaire.com/</a> and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
 </p><p>
-</p><h2>Conventions:</h2>
-<p>
+</p><h2>Conventions:</h2><p>
 These are the upcoming cons we know about.  Have any information about conventions in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
-</p><h3>Alabama</h3>
-<p>
+</p><h3>Alabama</h3><p>
 <b>Con†Stellation XXII: Pegasus. </b> E-mail:  <a href="mailto:constell@con-stellation.org">constell@con-stellation.org</a>.  Address:  Con*Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857.  Site Address:  Holiday Inn Express, Huntsville, Alabama.  Dates:  10/10/03-10/12/03.  <font color="red">Note:   * Guest of Honor: Mercedes Lackey, * Master of Ceremonies: Larry Dixon!</font><font color="black">
 <p>
 </p><h3>California</h3>
@@ -386,16 +398,13 @@ Dates: 6/21/03 - 6/22/03.
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p></font></p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
+</p></font></p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
 <img align="right" alt="Angel by Michelle Cornett" border="5" loading="lazy" src="/qo161.jpg"/>
 </p><p>
-</p><h2>Member News:</h2>
-<p>
+</p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.37 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 </p><p>
-</p><h3>Local chapters:</h3>
-<p>
+</p><h3>Local chapters:</h3><p>
 </p><ul>
 <li><b>Austral'a'in:</b> <i>Austral'a'in</i> is a chapter of QO that has been running for more than five years now.  Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator.  Rather, anyone is welcome!  This chapter is up for adoption.  If you are interested in adopting the chapter and zine, contact Cassandra Vuksa, <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.
 <p>
@@ -416,10 +425,8 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b>Sonoran Collegium:</b>  Website:  <a href="/">/sonoran-collegium/</a>. Contact:  <a href="mailto:Mistykalia@aol.com">Laura Felton</a>.  Our Region: THE SOUTHWEST  (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome).  Snail mail:  Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX.  E-mail:  <a href="mailto:Mistykalia@aol.com">Mistykalia@aol.com</a>.  .
 <p>
 </p></li><li><b>The Vanyel Fan Club</b>: Website:  <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.  Contact:  <a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>.  The <i>Vanyel Fan Club</i> is a chapter of QO that started out as an independent fan organization.  The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage Trilogy</i> by Mercedes Lackey. E-mail: <a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>.  For more information, see the VFC website at <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.
-</li></ul>
-<p>
-</p><h3>Zines and Newsletters:</h3>
-<p>
+</li></ul><p>
+</p><h3>Zines and Newsletters:</h3><p>
 </p><ul>
 <li><b><i>Austral'a'in</i>:</b> Editor: Cassandra Vuksa.  We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption.  <i>Austral'a'in</i> is up for adoption.  If you are interested in adopting the chapter, contact Cassandra Vuksa, <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.
 
@@ -465,12 +472,9 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b>Tales of the Southern Bard:</b>  TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at <a href="mailto:SouthernBard@eudoramail.com">SouthernBard@eudoramail.com</a> for submission guidelines and information on how to join or visit TOTSB's homepage: <a href="http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm">http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm</a>.
 <p>
 </p></li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
-</li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><h2>Other Fandoms:</h2>
-<p>
+</li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><h2>Other Fandoms:</h2><p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 <p>
@@ -490,14 +494,11 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li>Star Trek: The <b>USS Starfire</b> is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at <a href="http://www.epix.net/~ckocher/starfire.html ">http://www.epix.net/~ckocher/starfire.html</a> or e-mail us at <a href="mailto:trek01@epix.net">trek01@epix.net</a>.
 <p>
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
-</li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
+</li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
 <img align="right" alt="Herald Meshel by Michelle Cornett" border="5" loading="lazy" src="/qo162.jpg"/>
 </p><p>
-</p><h3>Collegium News:</h3>
-<p>
+</p><h3>Collegium News:</h3><p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 </p><p>
 You need a release form (online at <a href="/release-form-instructions/">/release-form-instructions/</a>) if you write a story set in Misty's worlds or using any of her characters.  You do not need a release for a character sketch, poem or filk.  All Misty wants to do is protect her characters and her worlds.  Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  Do NOT include the <i>original</i> of the release form with your persona material; send it to Misty.  Send a <i>copy</i> to us.
@@ -506,12 +507,10 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 </p><p>
 </p><ul>
 <li>Welcome, <b>Bard Elita</b>, who has Bardic Gift and Creativity.  <i>Rae Sinko</i> wrote a story about her persona and Elita�s family and friends, which she sent to a zine along with a sketch.
-</li></ul>
-<p>
+</li></ul><p>
 If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 </p><p>
-</p><h3>Lost . . .</h3>
-<p>
+</p><h3>Lost . . .</h3><p>
 One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
@@ -609,5 +608,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p></a></p>
+</p></g></p></g></p></p>
 </div>

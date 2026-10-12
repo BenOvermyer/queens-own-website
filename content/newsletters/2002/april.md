@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -158,7 +157,7 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><p>
 </p><h3>Alabama</h3>
 <p>
-<b>HENRY BREWER-GUS SAILORS MEMORIAL DBM TOURNAMENT</b>.  Website: <a>http://www.geocities.com/vsolfronk/birmingham_wargaming_association.html</a>.  E-mail: <a href="mailto:vsolfronk@mindspring.com">vsolfronk@mindspring.com</a>.  Address: Deluxe Inn and Suites, Birmingham, Alabama.  Dates: 4/13/02 - 4/14/02.
+<b>HENRY BREWER-GUS SAILORS MEMORIAL DBM TOURNAMENT</b>.  Website: http://www.geocities.com/vsolfronk/birmingham_wargaming_association.html.  E-mail: <a href="mailto:vsolfronk@mindspring.com">vsolfronk@mindspring.com</a>.  Address: Deluxe Inn and Suites, Birmingham, Alabama.  Dates: 4/13/02 - 4/14/02.
 </p><p>
 </p><h3>California</h3>
 <p>
@@ -191,9 +190,54 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><h3>Hawaii</h3>
 <p>
 <b>SUPERMAN FAN &amp; COLLECTORS CONVENTION OF HAWAII.</b>  Website: <a href="http://www.supermanhawaii.com">.  Address: Leeward Community College, Pearl City, Hawaii.  Dates: 4/13/02.
-<p>
-</p><h3>Illinois</h3>
-<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</a><p>
+</p><h3>Illinois</h3><p>
 <b>ANIME CENTRAL.</b>  Website: <a href="http://www.acen.org/">http://www.acen.org/</a>.  Address: Hyatt Regency O'Hare, Rosemont, Illinois.  Dates: 4/19/02 - 4/21/02.
 </p><p>
 <b>CODCON VII: OH NO, NOT AGAIN!</b>  Website: <a href="http://www.geocities.com/scificod">http://www.geocities.com/scificod</a>. Address: Turner Conference Center, College Of Dupage, Glen Ellyn, Illinois.  Dates: 4/12/02 - 4/14/02.
@@ -208,64 +252,53 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><p>
 <b>WORLD HORROR CONVENTION 2002.</b>  Website: <a href="http://www.whc2002.org/">http://www.whc2002.org/</a>.  Address: Radisson Hotel O'Hare, Chicago, Illinois.  Dates: 4/11/02 - 4/14/02.
 </p><p>
-</p><h3>Kansas</h3>
-<p>
+</p><h3>Kansas</h3><p>
 <b>STAR TREK.</b>  Website: <a href="http://www.sfedora.com/">http://www.sfedora.com/</a>.  Address: The Doubletree Hotel-Kansas City, Overland Park, Kansas City, Kansas.  Dates: 4/5/02 - 4/7/02.
 </p><p>
-</p><h3>Kentucky</h3>
-<p>
+</p><h3>Kentucky</h3><p>
 <b>SOUTHERN KENTUCKY FESTIVAL OF BOOKS.</b>  Website: <a href="http://www.sokybookfest.org/">http://www.sokybookfest.org/</a>. Address: Warren County Convention Center, Bowling Green, Kentucky.  Dates: 4/19/02 - 4/20/02.
 </p><p>
-</p><h3>Louisiana</h3>
-<p>
+</p><h3>Louisiana</h3><p>
 <b>SCI-FI EXPO - BOSSIER CITY.</b>  Website: <a href="http://www.scifiexpo.com/">http://www.scifiexpo.com/</a>. Address: Bossier City, Louisiana.  Dates: 4/12/02 - 4/14/02.  Location: Convention Center.
 </p><p>
-</p><h3>Maine</h3>
-<p>
+</p><h3>Maine</h3><p>
 <b>PORT CON MAINE.</b> Website: <a href="http://www.portconmaine.com">http://www.portconmaine.com</a>. Address: University of Southern Maine, Portland, Maine.  Dates: 4/19/02 - 4/21/02.
 </p><p>
-</p><h3>Maryland</h3>
-<p>
+</p><h3>Maryland</h3><p>
 <b>I-MANI CON.</b>  Website: <a href="http://sparklingemerald.com/imanicon/">http://sparklingemerald.com/imanicon/</a>.  Address: Embassy Suites Hotel - BWI Airport, Baltimore, Maryland.  Dates: 4/6/02 - 4/7/02.
 </p><p>
-<b>VIA 1936: HORROR.</b>  Website: <a href="http://www.vialarp.org/">http://www.vialarp.org/</a><a></a>.  Address: Decaying Edwardian Manse, 36 East Avenue, Hagerstown, Maryland.  Dates: 4/5/02 - 4/7/02.
+<b>VIA 1936: HORROR.</b>  Website: <a href="http://www.vialarp.org/">http://www.vialarp.org/</a>.  Address: Decaying Edwardian Manse, 36 East Avenue, Hagerstown, Maryland.  Dates: 4/5/02 - 4/7/02.
 </p><p>
 <b>VIA 1936: HORROR.</b>  Website: <a href="http://www.vialarp.org/">http://www.vialarp.org/</a>.  E-mail: Gordon Olmstead-Dean.  Address: Decaying Edwardian Manse, 36 East Avenue, Hagerstown, Maryland.  Dates: 4/26/02 - 4/28/02.
 </p><p>
-</p><h3>Massachusetts</h3>
-<p>
+</p><h3>Massachusetts</h3><p>
 <b>5 CON 10.</b>  Website: <a href="http://www.5con.org/">http://www.5con.org/</a>.  E-mail: Rebecca Bernstein.  Address: Seelye Hall, Smith College, Northampton, Massachusetts.  Dates: 4/5/02 - 4/7/02.
 </p><p>
 <b>HAVOC 18.</b>  Website: <a href="http://communities.msn.com/BattleGroupBostonsHavoc">http://communities.msn.com/BattleGroupBostonsHavoc</a>.   Address: Fort Devens Sports Arena, Ayer, Massachusetts.  Dates: 4/6/02 - 4/7/02.
 </p><p>
 <b>OURCON 11.</b>  Website: <a href="http://www.umass.edu/rso/gameclub/ourcon/">http://www.umass.edu/rso/gameclub/ourcon/</a>.  Address: UMass Amherst Campus Center, Amherst, Massachusetts.  Dates: 4/19/02 - 4/21/02.
 </p><p>
-</p><h3>Minnesota</h3>
-<p>
+</p><h3>Minnesota</h3><p>
 <b>MICROCON 2002.</b>  Website: <a href="http://www.mncba.com/">http://www.mncba.com/</a>.  Address: Maplewood Community Center, Maplewood, Minnesota.  Dates: 4/28/02.
 </p><p>
-</p><h3>Missouri</h3>
-<p>
+</p><h3>Missouri</h3><p>
 <b>CONCOCTION: 02.</b>  Website: <a href="http://concoction.freeyellow.com/">http://concoction.freeyellow.com/</a>.   Address: Moberly Area Community College, Moberly, Missouri.  Dates: 4/19/02 - 4/21/02.
 </p><p>
 <b>NEBULA AWARDS WEEKEND.</b> Website: <a href="http://www.kc-sciencefiction.org/2002nebs.htm">http://www.kc-sciencefiction.org/2002nebs.htm</a>.  Address: Westin Crown Center, Kansas City, Missouri.  Dates: 4/25/02 - 4/28/02.
 </p><p>
 <b>THUNDERCON.</b>  Website: <a href="http://www.rpgkc.org">http://www.rpgkc.org</a>.  Address: Holiday Inn, Olathe, Kansas City, Missouri.  Dates: 4/25/02 - 4/28/02.
 </p><p>
-</p><h3>Nebraska</h3>
-<p>
+</p><h3>Nebraska</h3><p>
 <b>WILLYCON 2002.</b>  Website: <a href="http://www.wsc.edu/student/activities/clubs/sfclub/willycon/">http://www.wsc.edu/student/activities/clubs/sfclub/willycon/</a>.  Address: Wayne State College, Wayne, Nebraska.  Dates: 4/5/02 - 4/8/02.
 </p><p>
-</p><h3>New Hampshire</h3>
-<p>
+</p><h3>New Hampshire</h3><p>
 <b>ECONOCON VI.</b>  Website: <a href="http://oz.plymouth.edu/~gaming/conVI.html">http://oz.plymouth.edu/~gaming/conVI.html</a>.  Address: Hartman Union Building, Plymouth State College, Plymouth, New Hampshire.  Dates: 4/27/02.
 </p><p>
 <b>SYRAANDOR: NERO ALLIANCE NEW HAMPSHIRE.</b>  Website: <a href="http://www.syraandor.com/">http://www.syraandor.com/</a>.  Address: Syraandor site, Claremont, New Hampshire.  Dates: 4/26/02 - 4/28/02.
 </p><p>
 <b>UNICON.</b>  Website: <a href="http://www.unicongames.com/">http://www.unicongames.com/</a>.  Address: The Radisson, Merrimack, New Hampshire.  Dates: 4/19/02 - 4/21/02.
 </p><p>
-</p><h3>New Jersey</h3>
-<p>
+</p><h3>New Jersey</h3><p>
 <b>CHILLER THEATRE.</b>  Website: <a href="http://www.chillertheatre.com/">http://www.chillertheatre.com/</a>.
  Address: Meadowlands Sheraton, East Rutherford, New Jersey.  Dates: 4/19/02 - 4/21/02.
 </p><p>
@@ -281,16 +314,14 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><p>
 <b>SVAHA: FALLOUT.</b>  Website: <a href="http://www.wildgazebo.com/">http://www.wildgazebo.com/</a>.  Address: The Somerset Marriott, Somerset, New Jersey.  Dates: 4/19/02 - 4/21/02.
 </p><p>
-</p><h3>New York</h3>
-<p>
+</p><h3>New York</h3><p>
 <b>GMT EAST.</b>  Website: <a href="http://www.gmtgames.com/">http://www.gmtgames.com/</a>.  Address: Crowne Plaza Hotel, White Plains, New York.  Dates: 4/19/02 - 4/21/02.
 </p><p>
 <b>I-CON 21.</b>  Website: <a href="http://www.iconsf.org/">http://www.iconsf.org/</a>.  Address: Stony Brook University, Stony Brook, New York.  Dates: 4/19/02 - 4/21/02.
 </p><p>
 <b>POINTCON XXV.</b>  Website: <a href="http://www.usma.edu/uscc/dca/clubs/clubshome.html">http://www.usma.edu/uscc/dca/clubs/clubshome.html</a>. Address: Thayer Hall, West Point, New York.  Dates: 4/5/02 - 4/6/02.
 </p><p>
-</p><h3>Ohio</h3>
-<p>
+</p><h3>Ohio</h3><p>
 <b>CAMP DOVER PEACE CONFERENCE 2002.</b>  Website: <a href="http://www.fyi.net/~kordite/dover/home.htm">http://www.fyi.net/~kordite/dover/home.htm</a>.  Address: Days Inn Hotel, New Philadelphia, Ohio.  Dates: 4/26/02 - 4/28/02.
 </p><p>
 <b>CAPCON XXV.</b>  Website: <a href="http://www.mgaosu.org/">http://www.mgaosu.org/</a>.  Address: Ohio Union on the Columbus Campus of The Ohio State University, Columbus, Ohio.  Dates: 4/12/02 - 4/14/02.
@@ -301,8 +332,7 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><p>
 <b>VULKON CLEVELAND.</b>  Website: <a href="http://www.vulkon.com/">http://www.vulkon.com/</a>.  Address: Holiday Inn Strongville, Cleveland, Ohio.  Dates: 4/27/02 - 4/28/02.
 </p><p>
-</p><h3>Pennsylvania</h3>
-<p>
+</p><h3>Pennsylvania</h3><p>
 <b>AURA FANTASY.</b>  Website: <a href="http://www.auralive.com/">http://www.auralive.com/</a>.  Address: Robin Hill Camping Resort, Hamburg, Pennsylvania..  Dates: 4/12/02 - 4/14/02.
 </p><p>
 <b>COLD WARS 2002.</b>  Website: <a href="http://www.coldwars.org">http://www.coldwars.org</a>.  Address: Lancaster Host Resort Hotel, Lancaster, Pennsylvania.  Dates: 4/19/02 - 4/21/02.
@@ -313,46 +343,38 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><p>
 <b>XANODRIA MEDIEVAL FANTASY.</b>  Website: <a href="http://www.xanodria.com/">http://www.xanodria.com/</a>.    Address: Blue Mountain Campground, Hamburg, Pennsylvania.  Dates: 4/13/02 - 4/14/02.
 </p><p>
-</p><h3>Rhode Island</h3>
-<p>
+</p><h3>Rhode Island</h3><p>
 <b>WIZARDS GATHERING 2002.</b>  Website: <a href="http://members.aol.com/_ht_a/nproulx/">http://members.aol.com/_ht_a/nproulx/</a>.  Address: Roger Williams living and Convention Center, Portsmouth, Rhode Island.  Dates: 4/02.
 </p><p>
-</p><h3>South Carolina</h3>
-<p>
+</p><h3>South Carolina</h3><p>
 <b>ROUNDCON 2002.</b>  Website: <a href="http://www.roundcon.org">http://www.roundcon.org</a>.  Address: Holiday Inn NE, Columbia, South Carolina.  Dates: 4/5/02 - 4/7/02.
 </p><p>
-</p><h3>Tennessee</h3>
-<p>
+</p><h3>Tennessee</h3><p>
 <b>KUBLAKHAN 2002.</b>  Website: <a href="http://www.fernblatt.net/kubla30.html">http://www.fernblatt.net/kubla30.html</a>.  Address: Days Inn Airport/Opryland Area, Nashville, Tennessee.  Dates: 4/19/02 - 4/21/02.
 </p><p>
 <b>OMNICON 2002.</b>  Website: <a href="http://www.omnicononline.org">http://www.omnicononline.org</a>.  Address: Roaden University Center, Tennessee Technological University, Cookeville, Tennessee.  Dates: 4/5/02 - 4/6/02.
 </p><p>
-</p><h3>Texas</h3>
-<p>
+</p><h3>Texas</h3><p>
 <b>CHIMAERACON.</b>  Website: <a href="http://hometown.aol.com/chimaeragaming/main.html">http://hometown.aol.com/chimaeragaming/main.html</a>.  Address: Park Inn, San Antonio, Texas.  Dates: 4/5/02 - 4/7/02.
 </p><p>
-</p><h3>Virginia</h3>
-<p>
+</p><h3>Virginia</h3><p>
 <b>OMAKECON.</b>  Website: <a href="http://www.omakecon.com/">http://www.omakecon.com/</a>.  Address: The Holiday Inn Tanglewood, Roanoke, Virginia.  Dates: 4/12/02 - 4/14/02.
 </p><p>
 <b>WHEELCON.</b>  Website: <a href="http://users.1st.net/talin/">http://users.1st.net/talin/</a>.  Address: Best Western Inn, Wheeling, West Virginia.  Dates: 4/19/02 - 4/21/02.
 </p><p>
-</p><h3>Washington</h3>
-<p>
+</p><h3>Washington</h3><p>
 <b>GAME FAIRE 2002.</b>  Website: <a href="http://www.gorillabobs.com/">http://www.gorillabobs.com/</a>.  Address: Spokane Falls Community College, Spokane, Washington.  Dates: 4/26/02 - 4/28/02.
 </p><p>
 <b>SAKURA CON.</b>  Website: <a href="http://www.sakuracon.org/">http://www.sakuracon.org/</a>.  Address: Seattle Airport Hilton &amp; Conference Center, Seattle, Washington.  Dates: 4/26/02 - 4/28/02.
 </p><p>
-</p><h3>Wisconsin</h3>
-<p>
+</p><h3>Wisconsin</h3><p>
 <b>CHAOTICON 11.</b>  Website: <a href="http://www.geocities.com/uwgbgamersclub/">http://www.geocities.com/uwgbgamersclub/</a>.  Address: UW-Green Bay, Green Bay, Wisconsin.  Dates: 4/13/02 - 4/14/02.
 </p><p>
 <b>NOBRANDCON 2002.</b>  Website: <a href="http://www.trhonline.com">http://www.trhonline.com</a>.  Address: Davies Center - University Of Wisconsin - Eau Claire, Eau Claire, Wisconsin.  Dates: 4/5/02 - 4/6/02.
 </p><p>
 <b>ODYSSEY CON 2002.</b>  Website: <a href="http://www.venture-1.com/~oddcon/">http://www.venture-1.com/~oddcon/</a>.  Address: The Edgewater Hotel, Madison, Wisconsin.  Dates: 4/12/02 - 4/14/02.
 </p><p>
-</p><h3>Australia</h3>
-<p>
+</p><h3>Australia</h3><p>
 <b>BEST OF BOTH WORLDS 15.</b>  Website: <a href="http://www.bobw.com.au/">http://www.bobw.com.au/</a>.   Address: Millennium Hotel, Sydney, Australia.  Dates: 4/6/02 - 4/7/02.
 </p><p>
 <b>CONQUEST 2002.</b>  Website: <a href="http://www.conquest.asn.au/">http://www.conquest.asn.au/</a>.  E-mail: <a href="mailto:enquiries@conquest.asn.au">enquiries@conquest.asn.au</a>.  Address: Melbourne High School, South Yarra, Melbourne, VIC, Australia.  Dates: 3/29/02 - 4/1/02.
@@ -363,8 +385,7 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><p>
 <b>WORLD DIPCON 2002.</b>  Website: <a href="http://wdc2002downunder.com/">http://wdc2002downunder.com/</a>.  E-mail: <a href="mailto:rstephenson@mfbb.vic.gov.au">rstephenson@mfbb.vic.gov.au</a>.  Address: Canberra, Australia.  Dates: 3/29/02 - 4/1/02.
 </p><p>
-</p><h3>Canada</h3>
-<p>
+</p><h3>Canada</h3><p>
 <b>FANTASTIC PULPS SHOW &amp; SALE.</b>  Website: <a href="http://www.interlog.com/~girasol/">http://www.interlog.com/~girasol/</a>.  Address: Day's Inn, Toronto, Ontario, Canada.  Dates: 4/27/02.
 </p><p>
 <b>FILKONTARIO 12.</b>  Website: <a href="http://www.bserv.com/community/fkoa.htm">http://www.bserv.com/community/fkoa.htm</a>.  Address: Four Points Hotel Toronto Airport, Mississauga, Ontario, Canada.  Dates: 4/5/02 - 4/7/02.
@@ -373,40 +394,32 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><p>
 <b>ORION 2002.</b>  Website: <a href="http://www.rigelgroup.org/">http://www.rigelgroup.org/</a>.  Address: Primrose Best Western Hotel, Toronto, Ontario, Canada.  Dates: 4/26/02 - 4/28/02.
 </p><p>
-</p><h3>Croatia</h3>
-<p>
+</p><h3>Croatia</h3><p>
 <b>SFERAKON 2002.</b>  Website: <a href="http://www.sferakon.hr/">http://www.sferakon.hr/</a>.  Address: Faculty of Electricity and Computing, Zagreb, Croatia.  Dates: 4/26/02 - 4/28/02.
 </p><p>
-</p><h3>Denmark</h3>
-<p>
+</p><h3>Denmark</h3><p>
 <b>FASTAVAL.</b>  Website: <a href="http://www.fastaval.dk/">http://www.fastaval.dk/</a>.  E-mail: <a href="mailto:adam@nail.dk">adam@nail.dk</a>.  Address: Aarhus, Denmark.  Dates: 3/28/02 - 4/1/02.
 </p><p>
-</p><h3>Finland</h3>
-<p>
+</p><h3>Finland</h3><p>
 <b>FINDIPCON IV.</b>  Website: <a href="http://www.melankolia.net/sds/fdc4_en.html">http://www.melankolia.net/sds/fdc4_en.html</a>. Address: Inspehtorinkatu 4 B, Turku, Finland.  Dates: 4/5/02 - 4/7/02.
 </p><p>
-</p><h3>Holland</h3>
-<p>
+</p><h3>Holland</h3><p>
 <b>ELF FANTASY FAIR 2002.</b>  Website: <a href="http://www.elf-fantasy.com/">http://www.elf-fantasy.com/</a>.  Address: Castle De Haar, Utrecht, Holland.  Dates: 4/20/02 - 4/21/02.
 </p><p>
-</p><h3>Ireland</h3>
-<p>
+</p><h3>Ireland</h3><p>
 <b>DOMINICON.</b>  Website: <a href="http://www.dominicon.ie/">http://www.dominicon.ie/</a>. Address: NUI Maynooth, Co. Kildare, Ireland.  Dates: 4/02.
 </p><p>
 <b>SILLICON 4.</b>  Website: <a href="http://sillicon.redbrick.dcu.ie/">http://sillicon.redbrick.dcu.ie/</a>.  Address: DCU Student Centre,  Dublin, Ireland.  Dates: 4/5/02 - 4/7/02.
 </p><p>
-</p><h3>New Zealand</h3>
-<p>
+</p><h3>New Zealand</h3><p>
 <b>AN EVENING WITH JASON CARTER.</b>  Website: <a href="http://www.pulpexpo.com/">http://www.pulpexpo.com/</a>. Address: Turnbull House, Bowen St., Wellington, New Zealand.  Dates: 4/10/02.
 </p><p>
 <b>ARMAGEDDON PULPCULTURE EXPO.</b>  Website: <a href="http://www.pulpexpo.com/">http://www.pulpexpo.com/</a>.  Address: Aotea Centre Auckland, Auckland, New Zealand.  Dates: 4/12/02 - 4/14/02.
 </p><p>
-</p><h3>Turkey</h3>
-<p>
+</p><h3>Turkey</h3><p>
 <b>METUCON 2002.</b>  Website: <a href="http://www.metucon.com">http://www.metucon.com</a>.   Address: Middle East Technical University Campus, Ankara, Turkey.  Dates: 4/20/02 - 4/23/02.
 </p><p>
-</p><h3>United Kingdom</h3>
-<p>
+</p><h3>United Kingdom</h3><p>
 <b>BATTLEMASTERS.</b>  Website: <a href="http://www.eurolog.org/">http://www.eurolog.org/</a>.  Address: Leicester University, Louchborough, Liecester, UK.  Dates: 4/20/02 - 4/21/02.
 </p><p>
 <b>HELICON 2.</b>  Website: <a href="http://www.smof.demon.co.uk/helicon2.htm">http://www.smof.demon.co.uk/helicon2.htm</a>.  E-mail: <a href="mailto:helicon2@smof.demon.co.uk">helicon2@smof.demon.co.uk</a>.  Address: Hotel de France, St. Helier, Jersey Channel Isles, UK.  Dates: 3/29/02 - 4/1/02.
@@ -417,14 +430,11 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><h2>Member News:</h2>
-<p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 </p><p>
-</p><h3>Local chapters:</h3>
-<p>
+</p><h3>Local chapters:</h3><p>
 </p><ul>
 <li><b>Arrows OnLine:</b>  Check us out!  <i>Arrows OnLine</i> is the official online chapter of Queen�s Own.  To find them, go to Keyword <b>Mercedes Lackey</b> on AOL.  Click on <b>Mercedes Lackey Fandom</b>.  You can see their chatroom, <b>Companion�s Grove</b>, at that point, but to get to the message boards, click on <b>Message Boards</b>.  For the Arrows message boards, click on <b>Mercedes Lackey Fan Group</b> (The other option, <b>Mercedes Lackey�s Fiction</b>, is a general discussion of Misty�s books and is not part of Arrows.).  If you get lost or have additional questions, contact the Arrows Dean, Tayledras Scout Nightwisp "Royal" k'Jeia, at <a href="mailto:Tayledrasroyal@aol.com">Tayledrasroyal@aol.com</a>.
 <p>
@@ -442,10 +452,8 @@ when we launch our chapter website.  Snail mail: Jan Tallevast, Rt 1 Box 137, Mi
 more information visit our website at <a href="http://deserthorses.com/heraldswaystation">http://deserthorses.com/heraldswaystation</a>.
 <p>
 </p></li><li><b>The Vanyel Fan Club</b>: The <i>Vanyel Fan Club</i> is a chapter of QO that started out as an independent fan organization.  The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage Trilogy</i> by Mercedes Lackey. E-mail: <a href="mailto:VanyelFanClub@hotmail.com">VanyelFanClub@hotmail.com</a>; Herald Bastian, President aka Western Guardian (<a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian (<a href="mailto:Legend@malcor.com">Legend@malcor.com</a>); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian (<a href="mailto:healermoon@gmail.com">healermoon@gmail.com</a>).  (The position of Southern Guardian, editor of the VFC newsletter, is currently open.  Several people are interviewing for it.)  There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine.  For more information, see the VFC website at <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.
-</li></ul>
-<p>
-</p><h3>Zines and Newsletters:</h3>
-<p>
+</li></ul><p>
+</p><h3>Zines and Newsletters:</h3><p>
 </p><ul>
 <li><b><i>Austral'a'in</i>:</b> Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.  We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas.  (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!)  The cost of membership covers postage and printing - we're a strictly not-for-profit group.   If you are interested in more information, or have stories or other submissions that you would like to see published, contact me! <b>Attention all writers and artists: </b>Austral'a'in is desperately seeking submissions. We are also always looking for new members.  Please? Contact me (Cassandra) at <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a> for details!
 <p>
@@ -463,14 +471,10 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <p>
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>. The Typo-Dragon Giveaway contest has begun. To win you need to be a member of HC and send in something to print (story, recipe etc.) with your name, address, city, state and zip. (Phone number optional).  Deadline is Dec. 15, 2001.  Also, if anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 
-</li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><center><img alt="Forest by Laura Cameron" border="5" loading="lazy" src="/qo117.jpg"/></center>
-<p>
-</p><h2>Other Fandoms:</h2>
-<p>
+</li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><center><img alt="Forest by Laura Cameron" border="5" loading="lazy" src="/qo117.jpg"/></center><p>
+</p><h2>Other Fandoms:</h2><p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 <p>
@@ -494,10 +498,8 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li>Star Trek: The <b>USS Starfire</b> is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at <a href="http://www.epix.net/~ckocher/starfire.html ">http://www.epix.net/~ckocher/starfire.html</a> or e-mail us at <a href="mailto:trek01@epix.net">trek01@epix.net</a>.
 <p>
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
-</li></ul>
-<p>
-</p><h3>Collegium News:</h3>
-<p>
+</li></ul><p>
+</p><h3>Collegium News:</h3><p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 </p><p>
 You need a release form (online at <a href="/release-form-instructions/">/release-form-instructions/</a>) if you write a story set in Misty's worlds or using any of her characters.  You do not need a release for a character sketch, poem or filk.  All Misty wants to do is protect her characters and her worlds.  Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  Do NOT include the <i>original</i> of the release form with your persona material; send it to Misty.  Send a <i>copy</i> to us.
@@ -509,8 +511,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 <p>
 </p></li><li>An automatic membership goes to <b>Apprentice Healer Celeigh Garion</b>, who is Gifted with Healing and Empathy.  <b>Gibel Encarnacion</b> works in a psychiatric facility as a Mental Health Therapy Aide (MHTA).
 
- </li></ul>
-<p>
+ </li></ul><p>
 Returning Misty fans who have activated their memberships include:
 </p><p>
 </p><ul>
@@ -518,14 +519,12 @@ Returning Misty fans who have activated their memberships include:
 <p>
 </p></li><li><b>Bard Shiana Dragonsong</b> (<b>Tori Tyrrell</b>) (February 1995) (Bardic Gift, Talent)
 
-</li></ul>
-<p>
+</li></ul><p>
 Welcome back!  If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 </p><p>
 Several former members have returned.  Check out <a href="/persona-directory/">/persona-directory/</a> as well as our Delphi forum to see who has reappeared!  (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 </p><p>
-</p><h3>Lost . . .</h3>
-<p>
+</p><h3>Lost . . .</h3><p>
 One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
@@ -612,5 +611,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></a></p>
+</p></g></p></p>
 </div>

@@ -17,7 +17,6 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -162,13 +161,28 @@ Here are the Faires we know about for August.  Faires are indexed alphabetically
 </p><p>
 <b>WASHINGTON RENAISSANCE FANTASY FAIRE. </b> E-mail: <a href="mailto:bryonm@earthlink.net">bryonm@earthlink.net</a>.  Website: <a href="http://www.washingtonrenfaire.com">http://www.washingtonrenfaire.com/a&gt;.  Address: 12016 134th Ave. KPN, Gig Harbor, WA, 98329.  Site Address:   Minter Creek Ranch, 10215 State Road 302 NW, Gig Harbor, WA, 98329.  Dates:  8/02/03 - 8/10/03.  Open/Close: 10:00 AM - 6:00 PM.  <font color="red"><b>Note:  Misty and Larry will be here on August 2nd and 3rd!</b></font>
 <font face="Bookman Old Style" size="4">
-<p>
-</p><h3>Wisconsin</h3>
-<p>
+
+
+
+
+</font>
+
+
+
+
+
+
+
+
+
+
+
+
+</a><p>
+</p><h3>Wisconsin</h3><p>
 <b>BRISTOL RENAISSANCE FAIRE. </b> FAX: 847-395-0547.  E-mail: <a href="mailto:lmcfeters@recfair.com">lmcfeters@recfair.com</a>.  Website: <a href="http://www.renfair.com">http://www.renfair.com</a>.  Address: 12550 120th Ave., Kenosha, WI, 53142-7337.  Dates:  6/28/03 - 8/24/03.  Open/Close: 10:00 AM - 7:00 PM.
 </p><p>
-</p><h3>Canada</h3>
-<p>
+</p><h3>Canada</h3><p>
 <b>ONTARIO RENAISSANCE FESTIVAL.  </b>FAX: 905-878-6043.  E-mail: <a href="mailto:orf@globalserve.net">orf@globalserve.net</a>. Website: <a href="http://www.rennfest.com/orf/index.html">http://www.rennfest.com/orf/index.html</a>.  Address: P.O. Box 486, Milton, ON, L9T-4Z1.  Site Address:  6252 8th Line, Hornby, ON, LOP 1EO.  Dates:  7/19/03 - 9/01/03.  Open/Close: 10:30 AM - 7:00 PM.
 </p><p>
 <b>HERSTMONCEUX CASTLE MEDIEVAL FESTIVAL. </b> E-mail: <a href="mailto:info@mgel.com">info@mgel.com</a>.  Website: <a href="http://www.mgel.com">http://www.mgel.com</a>.  Address: Gilly Geisler, 36 Acacia Close, Stanmore, Middlesex HA7 3JR England. Site Address: Herstmonceux Castle, Herstmonceux, East Sussex.  Dates:  8/23/03 - 8/25/03.  Open/Close: 10 AM - 6 PM.
@@ -177,12 +191,10 @@ Here are the Faires we know about for August.  Faires are indexed alphabetically
 </p><p>
 For additional Ren Faire information, visit the Renaissance Faire Homepage at <a href="http://www.renfaire.com/">http://www.renfaire.com/</a> and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
 </p><p>
-</p><h2>Conventions:</h2>
-<p>
+</p><h2>Conventions:</h2><p>
 These are the upcoming cons we know about.  Have any information about conventions in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
-</p><h3>Alabama</h3>
-<p>
+</p><h3>Alabama</h3><p>
 <b>Con†Stellation XXII: Pegasus. </b> E-mail:  <a href="mailto:constell@con-stellation.org">constell@con-stellation.org</a>.  Address:  Con*Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857.  Site Address:  Holiday Inn Express, Huntsville, Alabama.  Dates:  10/10/03-10/12/03.  <font color="red">Note:   * Guest of Honor: Mercedes Lackey, * Master of Ceremonies: Larry Dixon!</font><font color="black">
 <p>
 </p><h3>California</h3>
@@ -341,7 +353,7 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>COMIX AND STORIES. </b> Website: <a href="http://users.uniserve.com/~lswong/Comicon.html">http://users.uniserve.com/~lswong/Comicon.html</a>.  E-mail: <a href="mailto:lswong@uniserve.com">lswong@uniserve.com</a>.  Address: Heritage Hall, Vancouver, British Columbia.  Dates: 8/24/03.
 </p><p>
-<b>CON-VERSION 20.  </b>Website: <a href="http://www.con-version.org">http://www.con-version.org</a><a></a>.  E-mail: <a href="mailto:president@con-version.org">president@con-version.org</a>.  Address: The Westin Hotel Calgary, Calgary, Alberta.  Dates: 8/15/03 - 8/17/03.
+<b>CON-VERSION 20.  </b>Website: <a href="http://www.con-version.org">http://www.con-version.org</a>.  E-mail: <a href="mailto:president@con-version.org">president@con-version.org</a>.  Address: The Westin Hotel Calgary, Calgary, Alberta.  Dates: 8/15/03 - 8/17/03.
 </p><p>
 <b>PETER MARSHALL OF HOLLYWOOD SQUARES. </b> Website: <a href="http://www.swainworldcruises.com/marshall">http://www.swainworldcruises.com/marshall</a>.  E-mail: <a href="mailto:Susan@Swaintours.com">Susan@Swaintours.com</a>.  Address: Cruise on Holland America to Alaska, Vancouver, British Columbia.  Dates: 8/16/03 - 8/23/03.
  </p><p>
@@ -395,16 +407,13 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p></font></p></font><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
+</p></font></p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
 <img align="left" alt="Come and Play by Gibel Encarnacion" border="0" loading="lazy" src="/qo167.jpg"/>
 </p><p>
-</p><h2>Member News:</h2>
-<p>
+</p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.37 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 </p><p>
-</p><h3>Local chapters:</h3>
-<p>
+</p><h3>Local chapters:</h3><p>
 </p><ul>
 <li><b>Austral'a'in:</b> <i>Austral'a'in</i> is a chapter of QO that has been running for more than five years now.  Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator.  Rather, anyone is welcome!  This chapter is up for adoption.  If you are interested in adopting the chapter and zine, contact Cassandra Vuksa, <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.
 <p>
@@ -424,10 +433,8 @@ when we launch our chapter website.  Snail mail: Jan Tallevast, Rt 1 Box 137, Mi
 </p></li><li><b>Sonoran Collegium:</b>  Website:  <a href="/">/sonoran-collegium/</a>. Contact:  <a href="mailto:Mistykalia@aol.com">Laura Felton</a>.  Our Region: THE SOUTHWEST  (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome).  Snail mail:  Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX.  E-mail:  <a href="mailto:Mistykalia@aol.com">Mistykalia@aol.com</a>.  .
 <p>
 </p></li><li><b>The Vanyel Fan Club</b>: Website:  <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.  Contact:  <a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>.  The <i>Vanyel Fan Club</i> is a chapter of QO that started out as an independent fan organization.  The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage Trilogy</i> by Mercedes Lackey. E-mail: <a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>.  For more information, see the VFC website at <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.
-</li></ul>
-<p>
-</p><h3>Zines and Newsletters:</h3>
-<p>
+</li></ul><p>
+</p><h3>Zines and Newsletters:</h3><p>
 </p><ul>
 <li><b><i>Austral'a'in</i>:</b> Editor: Cassandra Vuksa.  We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption.  <i>Austral'a'in</i> is up for adoption.  If you are interested in adopting the chapter, contact Cassandra Vuksa, <a href="mailto:garou@netspeed.com.au">garou@netspeed.com.au</a>.
 
@@ -475,12 +482,9 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b>Tales of the Southern Bard:</b>  TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at <a href="mailto:SouthernBard@eudoramail.com">SouthernBard@eudoramail.com</a> for submission guidelines and information on how to join or visit TOTSB's homepage: <a href="http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm">http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm</a>.
 <p>
 </p></li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
-</li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><h2>Other Fandoms:</h2>
-<p>
+</li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><h2>Other Fandoms:</h2><p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 <p>
@@ -500,14 +504,11 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li>Star Trek: The <b>USS Starfire</b> is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at <a href="http://www.epix.net/~ckocher/starfire.html ">http://www.epix.net/~ckocher/starfire.html</a> or e-mail us at <a href="mailto:trek01@epix.net">trek01@epix.net</a>.
 <p>
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
-</li></ul>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
+</li></ul><p>
+</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
 <img align="left" alt="Dark Elf by Gibel Encarnacion" border="5" loading="lazy" src="/qo168.jpg"/>
 </p><p>
-</p><h3>Collegium News:</h3>
-<p>
+</p><h3>Collegium News:</h3><p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 </p><p>
 You need a release form (online at <a href="/release-form-instructions/">/release-form-instructions/</a>) if you write a story set in Misty's worlds or using any of her characters.  You do not need a release for a character sketch, poem or filk.  All Misty wants to do is protect her characters and her worlds.  Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  Do NOT include the <i>original</i> of the release form with your persona material; send it to Misty.  Send a <i>copy</i> to us.
@@ -519,10 +520,8 @@ If you are a returning member who has recently activated your membership in Quee
 </p><ul>
 <li><b>Herald Keri Starfire/Mountainheart</b> (Shara) (<a href="/newsletters/1996/june/">June 1996</a>) (Mindspeech, Mindhealing, Firestarting
 </li><li><b>Herald Ashaya Thielle</b> (Nere) (March 1994) (strong Mindspeech)
- </li></ul>
-<p>
-</p><h3>Lost . . .</h3>
-<p>
+ </li></ul><p>
+</p><h3>Lost . . .</h3><p>
 One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
@@ -625,5 +624,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p></a></p>
+</p></g></p></g></p></p>
 </div>
