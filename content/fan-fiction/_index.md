@@ -13,25 +13,25 @@ topic = "publications"
 canonical_path = "/fan-fiction/"
 +++
 
-<div class="original-page">
-<span class="fs-4">
-</span><div class="center"><h2>Queen's Own</h2></div>
-<div class="center"><h2>Fan Fiction</h2></div>
-<div class="center"><h3>(Revised 1/5/2024)</h3></div>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/qofanfic_files/ValdemarCrestsm.jpg"/></div>
-<h2>The Fanzines</h2>
-<p>
-These are approved Mercedes Lackey Fanzines (Some are technically newsletters &lt;g&gt;.  They accept stories, art and poetry based on the works of Mercedes Lackey.
-<br/>
-Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a href="mailto:healermoon@gmail.com">Healer Adept Moonstar</a> if an address is incorrect or if the fanzine no longer exists.  If you have an approved fanzine that you would like to have listed here, send <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a href="mailto:healermoon@gmail.com">Healer Adept Moonstar</a> the contact information.
-<br/>
-<br/>
-</p><table class="border-1" style="width:100%">
+## Queen's Own
+
+## Fan Fiction
+
+### (Revised 1/5/2024)
+
+<img alt="" loading="lazy" src="/qofanfic_files/ValdemarCrestsm.jpg"/>
+
+## The Fanzines
+
+These are approved Mercedes Lackey Fanzines (Some are technically newsletters \<g>. They accept stories, art and poetry based on the works of Mercedes Lackey.\
+Please notify [Herald Mage Danya](mailto:shashtah@gmail.com) or [Healer Adept Moonstar](mailto:healermoon@gmail.com) if an address is incorrect or if the fanzine no longer exists. If you have an approved fanzine that you would like to have listed here, send [Herald Mage Danya](mailto:shashtah@gmail.com) or [Healer Adept Moonstar](mailto:healermoon@gmail.com) the contact information.\
+\
+
+<table class="border-1" style="width:100%">
 <tbody><tr>
-<th><h3><u>Golden Grove</u></h3></th>
-<th><h3><u><a href="/children-of-velgarth/">Children of Velgarth</a></u></h3></th>
-<th><h3><u>The Valdemaran Herald</u></h3></th>
+<th><h3>Golden Grove</h3></th>
+<th><h3><a href="/children-of-velgarth/">Children of Velgarth</a></h3></th>
+<th><h3>The Valdemaran Herald</h3></th>
 </tr>
 <tr>
 <td>
@@ -61,42 +61,43 @@ Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a hr
 </td>
 </tr>
 </tbody></table>
-<br/>
-<br/>
-<div class="center"><img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/></div>
-<br/>
-<div class="center">
-<p>
+
+\
+\
+
+<img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/>
+
+\
+
 <a href="__PDF_BASE_URL__/Misty.pdf">Misty Vale</a>
-</p><p>
-<a data-unavailable-target="__PDF_BASE_URL__/Pirate.pdf" href="__PDF_BASE_URL__/Pirate.pdf" title="Unavailable in the preserved archive">Little Pirate</a><span class="unavailable-note"> (unavailable in archive)</span>
-</p><p>
+
+<a data-unavailable-target="__PDF_BASE_URL__/Pirate.pdf" href="__PDF_BASE_URL__/Pirate.pdf" title="Unavailable in the preserved archive">Little Pirate</a>(unavailable in archive)
+
 <a href="__PDF_BASE_URL__/Fox.pdf">Snow Fox</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/Companions.pdf">Companions</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/Kaylan.pdf">Herald Kaylan's Wild Ride</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/They.pdf">They're Playing that Song!</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/Blackbird.pdf">Blackbird</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/Danya.pdf">Danya Winterborn</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/Havenbound.pdf">Havenbound</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/Bonds.pdf">Bonds</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/Dance.pdf">Midsummer Night's Dance</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/Hour.pdf">Darkling Hour</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/Triptych.pdf">Triptych</a>
-</p><p>
+
 <a href="__PDF_BASE_URL__/Potter.pdf">Potter Fahr's Wife</a>
-</p></div>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/></div>
-<br/>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qofanfic_files/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-</div>
+
+<img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/>
+
+\
+[<img alt="" class="float-center" loading="lazy" src="/qofanfic_files/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

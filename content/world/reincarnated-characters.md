@@ -14,21 +14,15 @@ topic = "world"
 canonical_path = "/reincarnated-characters/"
 +++
 
-<div class="original-page">
-<span class="ff-harem">
-</span><div class="center"><h2>Herald List</h2></div>
-<div class="center"><h2>(Revised 4/10/03)</h2></div>
-<p>
-This is a list of characters who have been reincarnated in Misty's
-Valdemar series.  The basic list was taken from my
-<a href="/heralds-and-companions/">Heralds and Companions</a> list, and
-<a href="/vanyel-fan-club/">The Vanyel Fan Club</a>
-has been helpling to add to it.
-</p><p>
-The codes that follow the names tell which book or story mentions the character.
-The codes are:
-</p><p>
-</p><table class="border-1 cellpadding-2 cellspacing-1">
+## Herald List
+
+## (Revised 4/10/03)
+
+This is a list of characters who have been reincarnated in Misty's Valdemar series. The basic list was taken from my [Heralds and Companions](/heralds-and-companions/) list, and [The Vanyel Fan Club](/vanyel-fan-club/) has been helpling to add to it.
+
+The codes that follow the names tell which book or story mentions the character. The codes are:
+
+<table class="border-1 cellpadding-2 cellspacing-1">
 <tr>
 <td>AFa</td>
 <td>Arrow's Fall</td>
@@ -101,20 +95,18 @@ The codes are:
 <td> </td>
 <td> </td>
 </table>
-<p>
-* = Grove-Born Companion
-</p><p>
-If you spot any glitches or if you have information you'd like me to add
-(such a new "match" you've spotted or information about where you can find
-listed pairs), message me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-</p><h2>Reincarnation List</h2>
-<p>
+
+\* = Grove-Born Companion
+
+If you spot any glitches or if you have information you'd like me to add (such a new "match" you've spotted or information about where you can find listed pairs), message me at [Legend@malcor.com](mailto:Legend@malcor.com)
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+## Reincarnation List
+
 Here are the reincarnated characters of Valdemar and environs.
-</p><p>
-</p><table class="border-1 cellpadding-2 cellspacing-1">
+
+<table class="border-1 cellpadding-2 cellspacing-1">
 <tr>
 <th colspan="2">First Incarnation</th>
 <th colspan="2">Second Incarnation</th>
@@ -174,13 +166,7 @@ Here are the reincarnated characters of Valdemar and environs.
 <td>(AFl, AQ, SB, SI, SR, WC, WFa, WFu)</td>
 </tr>
 </table>
-<p>
-I put question marks after the pairs that I'm uncertain about.
-They may or may not be reincarnations. If you know, please <a href="mailto:Legend@malcor.com">tell me</a>!
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/bardrgn2.gif"/></div>
-<p>
-<span class="ff-harem">
-</span>
-</p>
-</div>
+
+I put question marks after the pairs that I'm uncertain about. They may or may not be reincarnations. If you know, please [tell me](mailto:Legend@malcor.com)!
+
+<img alt="" loading="lazy" src="/bardrgn2.gif"/>

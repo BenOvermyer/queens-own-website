@@ -13,16 +13,17 @@ topic = "community"
 canonical_path = "/fun-stuff/"
 +++
 
-<div class="original-page">
-<span class="fs-7">
-<a href="http://www.animfactory.com/"><img alt="Click to Visit Animfactory, the source of this image" class="float-left" loading="lazy" src="/qoq.gif"/></a><a href="http://www.animfactory.com/"><img alt="Click to Visit Animfactory, the source of this image" class="float-right" loading="lazy" src="/qoo.gif"/></a></span><div class="center">Queen's Own</div>
-<span class="fs-6">
-</span><div class="center">Fun Stuff</div>
-<span class="fs-4">
-<p>
-</p></span><div class="center"><img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/></div>
-<p>
-</p><table class="border-2 cellpadding-3 cellspacing-2 table-align-center" style="width:80%">
+<a href="http://www.animfactory.com/"><img alt="Click to Visit Animfactory, the source of this image" class="float-left" loading="lazy" src="/qoq.gif"/></a><a href="http://www.animfactory.com/"><img alt="Click to Visit Animfactory, the source of this image" class="float-right" loading="lazy" src="/qoo.gif"/></a>
+
+Queen's Own
+
+Fun Stuff
+
+\ \
+
+<img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
+
+<table class="border-2 cellpadding-3 cellspacing-2 table-align-center" style="width:80%">
 <tr>
 <td class="align-center valign-middle" style="width:25%; height:43px"><a href="/fun-stuff/#qo">Fun Stuff at<br/>Queen's Own</a></td>
 <td class="align-center valign-middle" style="width:25%; height:43px"><a href="/fun-stuff/#chapters">Chapters of Queen's Own</a></td>
@@ -30,12 +31,11 @@ canonical_path = "/fun-stuff/"
 <td class="align-center valign-middle" style="width:25%; height:43px"><a href="/fun-stuff/#other">Fun Stuff at<br/>Other Sites</a></td>
 </tr>
 </table>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<a id="qo" name="qo"></a>
-<span class="ff-harem">
-<h2>Fun Stuff at Queen's Own</h2>
-</span>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<a id="qo"></a> \ ## Fun Stuff at Queen's Own\
+
 <dl>
 <dt><a href="/persona-handouts/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/persona-handouts/">Helpful Handouts</a></dt>
 <dd>Want to join Queen's Own?  Here are the materials you need to create your very own persona!  Need additional help?  See <a href="/fun-stuff/#Velgarth">below</a> for useful information about Velgarth.</dd>
@@ -50,11 +50,13 @@ canonical_path = "/fun-stuff/"
 <dt><a href="/newsletter-guidance/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/newsletter-guidance/">Newsletters</a></dt>
 <dd>Read past issues of the Queen's Own newsletter!</dd>
 </dl>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<a id="chapters" name="chapters"></a>
-</p><h2>Chapters of Queen's Own</h2>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<a id="chapters"></a>
+
+## Chapters of Queen's Own
+
 <dl>
 <dt><a href="/golden-grove/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/golden-grove/">Golden Grove</a></dt>
 <dd>The California Chapter of Queen's Own, but all are welcome.</dd>
@@ -65,15 +67,17 @@ canonical_path = "/fun-stuff/"
 <dt><a href="/vanyel-fan-club/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/vanyel-fan-club/">The Vanyel Fan Club</a></dt>
 <dd>Fans of Herald-Mage Vanyel Ashkevron need to check out this site!</dd>
 </dl>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<a id="Velgarth" name="Velgarth"></a>
-</p><h2>Fun Stuff about Velgarth</h2>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<a id="Velgarth"></a>
+
+## Fun Stuff about Velgarth
+
 <dl>
 <dt><a href="/companions-choices/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/companions-choices/">Companions' Choices</a></dt>
 <dd>Why Companions choose the Heralds they do.</dd>
-<dt><a data-unavailable-target="__PDF_BASE_URL__/qohac.pdf" href="__PDF_BASE_URL__/qohac.pdf" title="Unavailable in the preserved archive"><img alt="" loading="lazy" src="/ball.gif"/></a><span class="unavailable-note"> (unavailable in archive)</span> <a data-unavailable-target="__PDF_BASE_URL__/qohac.pdf" href="__PDF_BASE_URL__/qohac.pdf" title="Unavailable in the preserved archive">Herald Arrow Code</a><span class="unavailable-note"> (unavailable in archive)</span></dt>
+<dt><a data-unavailable-target="__PDF_BASE_URL__/qohac.pdf" href="__PDF_BASE_URL__/qohac.pdf" title="Unavailable in the preserved archive"><img alt="" loading="lazy" src="/ball.gif"/></a> (unavailable in archive) <a data-unavailable-target="__PDF_BASE_URL__/qohac.pdf" href="__PDF_BASE_URL__/qohac.pdf" title="Unavailable in the preserved archive">Herald Arrow Code</a> (unavailable in archive)</dt>
 <dd>Details of the Herald Arrow Code.</dd>
 <dt><a href="/world-reference-guide/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/world-reference-guide/">Just the FAQs</a></dt>
 <dd>Velgarth information and trivia.</dd>
@@ -84,13 +88,14 @@ canonical_path = "/fun-stuff/"
 <dt><a href="/magic-of-velgarth/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/magic-of-velgarth/">The Complete Magic Page</a></dt>
 <dd>Herald-Mage Adept Danya Winterborn's survey of magic on Velgarth.</dd>
 </dl>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<a id="other" name="other"></a>
-</p><h2>Fun Stuff at Other Sites</h2>
-<p>
-</p><dl>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<a id="other"></a>
+
+## Fun Stuff at Other Sites
+
+<dl>
 <dt><a href="http://milieux.com/costume/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="http://milieux.com/costume/">Costumes</a></dt>
 <dd>Is creating fantasy costumes your area of interest?  If so, this
 site is definitely for you!  Even if you just like looking, you'll
@@ -132,15 +137,11 @@ membership requirements, and much more!</dd>
 <dt><a href="http://www.renfaire.com/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="http://www.renfaire.com/">Welcome to the Renaissance Faire</a></dt>
 <dd>Information about Renaissance Faires.</dd>
 </dl>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<a id="Art" name="Art"></a>
-<span class="ff-harem">
-Don't see what you are looking for here? Try the Queen's Own <a href="/mercedes-lackey-links/">Misty Links</a> page.
-<p>
-</p></span></p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<a id="Art"></a> Don't see what you are looking for here? Try the Queen's Own [Misty Links](/mercedes-lackey-links/) page.\ \
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

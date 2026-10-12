@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""Audit imported legacy HTML for malformed markup, obsolete presentation, and semantic gaps.
+"""Audit the retained HTML in the preserved Markdown content for structural and semantic gaps.
 
-The audit reads the preserved HTML bodies in `content/` rather than the built site, because
-that is what the importer regenerates and what repairs must change. It records a
-content-preservation baseline (visible-text digest and structural counts) so later repair
-steps can prove they lost no prose, links, artwork, or anchors.
+The audit reads the `content/` documents (Markdown with retained HTML tables, images,
+`<dl>` lists, and named anchors) rather than the built site, because that is what the
+importer regenerates and what repairs must change. It ignores Markdown code spans and
+fences and backslash-escaped angle brackets, then records a content-preservation
+baseline (visible-text digest and structural counts) so later repair steps can prove
+they lost no prose, links, artwork, or anchors.
 
 Unresolved structural errors fail with `--check`; acknowledged exceptions are listed in
 `data/html-exceptions.json` and documented in `docs/html-audit.md`.
@@ -85,6 +87,14 @@ def read_body(text):
     return meta, body
 
 
+def strip_markdown(text):
+    """Remove Markdown code spans/fences and unescape angle brackets so only real HTML parses."""
+    text = re.sub(r'```.*?```', '', text, flags=re.S)
+    text = re.sub(r'`[^`]*`', '', text)
+    text = text.replace('\\<', '&lt;').replace('\\>', '&gt;')
+    return text
+
+
 class MarkupChecker(HTMLParser):
     """Track tag structure and malformed attributes in a raw HTML fragment."""
 
@@ -133,7 +143,7 @@ class MarkupChecker(HTMLParser):
             while self.stack:
                 if self.stack.pop()[0] == tag:
                     break
-        else:
+        elif tag not in OPTIONAL_END_ELEMENTS:
             self.mismatched.append(tag)
 
     def finish(self):
@@ -143,6 +153,8 @@ class MarkupChecker(HTMLParser):
 
 def audit_file(path, text, root):
     meta, body = read_body(text)
+    escaped = [body[match.start():match.start() + 100].strip() for match in ESCAPED_MARKUP.finditer(body)]
+    body = strip_markdown(body)
     if '<' not in body:
         return None
     soup = BeautifulSoup(body, 'lxml')
@@ -168,7 +180,6 @@ def audit_file(path, text, root):
     if checker.suspect_attributes:
         add('malformed_attribute', 'error',
             [f"<{row['tag']} {row['attribute']}=\"{row['value']}\">" for row in checker.suspect_attributes])
-    escaped = [body[match.start():match.start() + 100].strip() for match in ESCAPED_MARKUP.finditer(body)]
     if escaped:
         add('escaped_markup_in_text', 'error', escaped,
             'Escaped tags in text; usually a link or element whose source was already broken.')

@@ -1,12 +1,1 @@
-[
-  {
-    "file": "content/membership/club-seal.md",
-    "rule": "escaped_markup_in_text",
-    "reason": "The page intentionally shows the seal's HTML fragment as escaped text for members to copy."
-  },
-  {
-    "file": "content/community/webring-code.md",
-    "rule": "escaped_markup_in_text",
-    "reason": "The page intentionally shows the webring HTML fragment as escaped text for members to copy."
-  }
-]
+[]

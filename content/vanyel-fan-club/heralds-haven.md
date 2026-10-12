@@ -14,22 +14,18 @@ topic = "community"
 canonical_path = "/vanyel-fan-club/heralds-haven/"
 +++
 
-<div class="original-page">
-<div class="center"><img alt="" loading="lazy" src="/vfchgn.jpg"/>
-<p>
+<img alt="" loading="lazy" src="/vfchgn.jpg"/>
+
 Below are Gates to the homes of various Heralds of the Vanyel Fan Club:
-</p><p>
-<img alt="" loading="lazy" src="/rainbar.gif"/></p><p>
-</p><ul>
-<li><a href="http://www.geocities.com/enchantedforest/meadow/6474" target="_top">Herald Bastian</a><p>
-</p></li><li><a href="/danya-winterborn/" target="_top">Herald-Mage Adept Danya
-Winterborn</a><p>
-</p></li><li><a href="http://www.angelfire.com/az/ShepherdsEwe/index.html">T'Keth</a><p>
-</p></li><li><a href="http://members.tripod.com/~firesong17">Firesong</a><p>
-<img alt="" loading="lazy" src="/rainbar.gif"/></p><p>
-If you are a member of the Vanyel Fan Club and wish a Gate to your site to be listed, <a href="mailto:Legend@malcor.com">e-mail</a> the VFC, and we'll be happy to post it!</p><p>
-<img alt="" loading="lazy" src="/rainbar.gif"/></p></li></ul></div>
-<p>
-<a href="/vanyel-fan-club/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page</a>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/rainbar.gif"/>
+
+- [Herald Bastian](http://www.geocities.com/enchantedforest/meadow/6474)
+- [Herald-Mage Adept Danya Winterborn](/danya-winterborn/)
+- [T'Keth](http://www.angelfire.com/az/ShepherdsEwe/index.html)
+- [Firesong](http://members.tripod.com/~firesong17)
+  <img alt="" loading="lazy" src="/rainbar.gif"/>
+  If you are a member of the Vanyel Fan Club and wish a Gate to your site to be listed, [e-mail](mailto:Legend@malcor.com) the VFC, and we'll be happy to post it!
+  <img alt="" loading="lazy" src="/rainbar.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page](/vanyel-fan-club/)

@@ -16,67 +16,70 @@ publication_period = "December 1999"
 date_precision = "month"
 +++
 
-<div class="original-page">
-<span class="ff-bookman fs-4">
-</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
-<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
-<div class="center"><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></div>
-<div class="center"><h2>Series 2, Vol. I, No. 9<br/>
-December 18, 1999</h2></div>
-<p>
-<b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
-</p><p>
-[Begin Excerpt]
-</p><p>
-</p><div class="center"><img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo182.jpg"/></div>
-<div class="center"><h2>The Official Mercedes Lackey Fan Club</h2></div>
-<p>
-<img alt="Snowflake" class="float-left" loading="lazy" src="/qo184.jpg"/><img alt="Snowflake Border" class="float-right" loading="lazy" src="/qo185.jpg"/>Let's start this issue out with a few explanations. I know a lot of you must be wondering  why the newsletter hasn't been received since September's issue. This was due to my com�puter crashing and refusing to work for over two months. Let me tell you, I was pretty miffed about it. I just bought this computer before  I started Queen's Own (Sept. 1998). Af�ter many a hard and arduous journey, I have arrived at the decision that by next February I am getting a Mac; I am tired of the PC game. To all of you who have PC computers that are happy, I wish I had had your luck.
-</p><p>
-With a new year and a new millenium starting, I had hoped to have a different look for the newsletter.  Something new to take the club into the next century.  Well, I've not been able to accomplish much in that area, but you will notice that, the, newsletter, now has COLOR!!! So, now anyone who sends me art�work that has color in X, will be included in the newsletter. Personally, I like color!
-</p><p>
-As to the competition for the new Queen's Own logo, I've only had three entrants. Herald Alora and Ellen Million are co-winners. You see Herald Alora's work on the new title header and Ellen's work on the envelope and as a water mark on every page. The third entrant submitted wonderful artwork.  I'm just sorry I couldn't use it, but it is shown on page 3 of this newsletter. Herald Alora and Ellen each receive a one-year subscription, while Aubrey Smith receives a half-year subscription. Thanks, to all who submitted!
-</p><p>
-In this issue of the newsletter, you will find an updated "published" list of books for Misty. She's been busy, and we all need to get caught up. I'm also including a list of mailing dates and deadlines for newsletters until Jan. 2001.  As you can see, the newsletter is now going to be 8 issues a year.  This is due to lack of submissions and my lack of time. If the submissions pick up, then so will the issues! Another new item. Approved personas will be put into the newsletter 4 times a year. This is due to the lack of submissions and the need for space.  I do hope those of you still getting everything ready to submit will continue to do so.  I will be reviewing them as they come in. I'll just hold off on printing the list once a quarter.
-</p><p>
-One request that I do have, I have noticed lately that I'm receiving more and more mail with self-addressed stamped envelopes with nothing else included.  Kindly help me out and take a few minutes and write down what you want.  This would be greatly appreciated.
-</p><p>
-Thanks to everyone who sent greetings and holiday cards.  Everyone here loved them immensely.  I wish I had had more time to prepare something for all of you.  Please accept the enclosed card with a wish for all the good things this holiday season and into the next millennium.
-</p><p>
+**Queen's Own**
+
+Mercedes Lackey Fan Club
+
+## P.O. Box 749\
+Laguna Beach, CA 92652 USA
+
+## Series 2, Vol. I, No. 9\
+December 18, 1999
+
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+
+\[Begin Excerpt\]
+
+<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo182.jpg"/>
+
+## The Official Mercedes Lackey Fan Club
+
+<img alt="Snowflake" class="float-left" loading="lazy" src="/qo184.jpg"/><img alt="Snowflake Border" class="float-right" loading="lazy" src="/qo185.jpg"/>Let's start this issue out with a few explanations. I know a lot of you must be wondering why the newsletter hasn't been received since September's issue. This was due to my com�puter crashing and refusing to work for over two months. Let me tell you, I was pretty miffed about it. I just bought this computer before I started Queen's Own (Sept. 1998). Af�ter many a hard and arduous journey, I have arrived at the decision that by next February I am getting a Mac; I am tired of the PC game. To all of you who have PC computers that are happy, I wish I had had your luck.
+
+With a new year and a new millenium starting, I had hoped to have a different look for the newsletter. Something new to take the club into the next century. Well, I've not been able to accomplish much in that area, but you will notice that, the, newsletter, now has COLOR!!! So, now anyone who sends me art�work that has color in X, will be included in the newsletter. Personally, I like color!
+
+As to the competition for the new Queen's Own logo, I've only had three entrants. Herald Alora and Ellen Million are co-winners. You see Herald Alora's work on the new title header and Ellen's work on the envelope and as a water mark on every page. The third entrant submitted wonderful artwork. I'm just sorry I couldn't use it, but it is shown on page 3 of this newsletter. Herald Alora and Ellen each receive a one-year subscription, while Aubrey Smith receives a half-year subscription. Thanks, to all who submitted!
+
+In this issue of the newsletter, you will find an updated "published" list of books for Misty. She's been busy, and we all need to get caught up. I'm also including a list of mailing dates and deadlines for newsletters until Jan. 2001. As you can see, the newsletter is now going to be 8 issues a year. This is due to lack of submissions and my lack of time. If the submissions pick up, then so will the issues! Another new item. Approved personas will be put into the newsletter 4 times a year. This is due to the lack of submissions and the need for space. I do hope those of you still getting everything ready to submit will continue to do so. I will be reviewing them as they come in. I'll just hold off on printing the list once a quarter.
+
+One request that I do have, I have noticed lately that I'm receiving more and more mail with self-addressed stamped envelopes with nothing else included. Kindly help me out and take a few minutes and write down what you want. This would be greatly appreciated.
+
+Thanks to everyone who sent greetings and holiday cards. Everyone here loved them immensely. I wish I had had more time to prepare something for all of you. Please accept the enclosed card with a wish for all the good things this holiday season and into the next millennium.
+
 <img alt="Robin, Jason, Alara and Misty" class="float-left border-2" loading="lazy" src="/qo183.jpg"/>
-</p><table class="border-5 cellpadding-2 cellspacing-2 table-align-right">
+
+<table class="border-5 cellpadding-2 cellspacing-2 table-align-right">
 <tr>
-<td class="align-left valign-middle"><span class="fs-7">Happy Holidays<br/> and Y2K, too!</span></td>
+<td class="align-left valign-middle">Happy Holidays<br/> and Y2K, too!</td>
 </tr>
 </table>
-<br/>
-<p>
-</p><div class="center">
+
+\
+
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-top" rowspan="2"><span class="ff-comic-sans fs-4">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268.
+<td class="align-left valign-top" rowspan="2">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268.
 To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
 <p>
 Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.
-</p></span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at <a href="mailto:tempest_rock@hotmail.com">tempest_rock@hotmail.com</a>.
-</span></td></tr>
+</p></td>
+<td class="align-left valign-top">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at <a href="mailto:tempest_rock@hotmail.com">tempest_rock@hotmail.com</a>.
+</td></tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">[Ed. note 2002:  Old text replaced with:  "For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
+<td class="align-left valign-top">[Ed. note 2002:  Old text replaced with:  "For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 ".]
-</span></td>
+</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><b>Flights of Fantasy</b> [Ed. note 2002:  Old contact information withheld.] specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002:  Old contact information withheld.]. Webpage <a href="http://www.fof.net">http://www.fof.net</a>, E-mail: <a href="mailto:fof@albany.net">fof@albany.net</a>. Flights of Fantasy accepts orders from inmates.
-</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sink or Swim</i> is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: <a href="mailto:temarrea@Yahoo.com ">temarrea@Yahoo.com</a>, or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002:  Address withheld.].
-</span></td>
+<td class="align-left valign-top"><b>Flights of Fantasy</b> [Ed. note 2002:  Old contact information withheld.] specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002:  Old contact information withheld.]. Webpage <a href="http://www.fof.net">http://www.fof.net</a>, E-mail: <a href="mailto:fof@albany.net">fof@albany.net</a>. Flights of Fantasy accepts orders from inmates.
+</td>
+<td class="align-left valign-top"><i>Sink or Swim</i> is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: <a href="mailto:temarrea@Yahoo.com ">temarrea@Yahoo.com</a>, or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002:  Address withheld.].
+</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&amp;W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002:  Ellen Million Graphics can now be found at <a href="http://www.ellenmilliongraphics.com">http://www.ellenmilliongraphics.com</a>.]. (Dealer inquiries welcome)
-</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">Future mailing dates for the Newsletter:
+<td class="align-left valign-top">Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&amp;W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002:  Ellen Million Graphics can now be found at <a href="http://www.ellenmilliongraphics.com">http://www.ellenmilliongraphics.com</a>.]. (Dealer inquiries welcome)
+</td>
+<td class="align-left valign-top">Future mailing dates for the Newsletter:
 <p>
 </p><dl>
 <dt><b>January 29, 2000</b></dt>
@@ -98,20 +101,17 @@ Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date 
 <dt><b>January 27, 2001</b></dt>
 <dd>The deadline for submission is January 5, 2001.<p></p></dd>
 </dl>
-</span></td>
+</td>
 </tr>
 </table>
-</div>
-<p>
+
 <img alt="Doves" class="float-right" loading="lazy" src="/qo186.jpg"/>With all of the artwork, I have colorized or in same way altered the original. Ellen's work I made lighter so that it would appear to be a watermark. Herald Alora and Aubrey's work I shaded in blue. If for any reason you do not like what I have done, I solely take blame. The artwork, in my humble opinion, was worthy all on its own merit. I only changed what I felt was necessary to bring it all to a whole. Thanks to all the wonderful artists.
-</p><p>
-This is the runner up. Aubrey Smith did this wonderful piece of work. Many thanks to the few who entered this contest.
-<br/>
-</p><p>
-</p><div class="center">
+
+This is the runner up. Aubrey Smith did this wonderful piece of work. Many thanks to the few who entered this contest.\
+
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-middle"><span class="ff-comic-sans fs-4">
+<td class="align-left valign-middle">
 <h2>LOCAL CHAPTERS</h2>
 <p>
 </p><p>
@@ -131,16 +131,14 @@ or 15 IRC�s.<p>
 am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002:  Address withheld; no longer published.]<p>
 </p></li><li><b>Golden Grove</b> , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld.  See new info at <a href="/golden-grove/">/golden-grove/</a>.<p>
 </p></li><li><b>Sonoran Collegium</b> is currently organizing itself!  Although we are geographically in Southern Arizona, all are welcome here!  The 'zine will be published bi-monthly, and dues are currently $4 US or 6 IRC's elsewhere.  If you are interested, please send SASE to us at: [Ed. note 2002: Out-of-date Address withheld.]
-</li></ul></span></td>
+</li></ul></td>
 </tr>
 </table>
-</div>
-<p>
-</p><div class="center">
+
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-middle"><span class="ff-comic-sans fs-4">
-</span><div class="center"><h2>Updated List of Misty Books--As of December 1999:</h2></div>
+<td class="align-left valign-middle">
+<h2>Updated List of Misty Books--As of December 1999:</h2>
 <p>
 </p><h3>The World of Velgarth:  (Listed in historical order)</h3>
 <p>
@@ -255,218 +253,214 @@ Thanks!
 </p></td>
 </tr>
 </table>
-</div>
-<p>
-</p><div class="center">
+
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><h2>Stories of Misty's in Anthologies</h2></span></td>
+<td class="align-center valign-middle"><h2>Stories of Misty's in Anthologies</h2></td>
 </tr>
 <tr>
 <td>
 <table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"A Different Kind of Courage"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley</span></td>
+<td class="align-left valign-top">"A Different Kind of Courage"</td>
+<td class="align-left valign-top"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Set a Thief"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Renunciates of Darkover</i>, ed. by Marion Zimmer Bradley</span></td>
+<td class="align-left valign-top">"Set a Thief"</td>
+<td class="align-left valign-top"><i>Renunciates of Darkover</i>, ed. by Marion Zimmer Bradley</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Object Lesson"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Domains of Darkover</i>, ed. by Marion Zimmer Bradley</span></td>
+<td class="align-left valign-top">"Object Lesson"</td>
+<td class="align-left valign-top"><i>Domains of Darkover</i>, ed. by Marion Zimmer Bradley</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Sword Sworn"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sword &amp; Sorceress</i> III, ed. by Marion Zimmer Bradley</span></td>
+<td class="align-left valign-top">"Sword Sworn"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> III, ed. by Marion Zimmer Bradley</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"A Tale of heroes"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sword &amp; Sorceress</i> IV</span></td>
+<td class="align-left valign-top">"A Tale of heroes"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> IV</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Keys"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sword &amp; Sorceress</i> V</span></td>
+<td class="align-left valign-top">"Keys"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> V</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"The Making of a Legend"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sword &amp; Sorceress</i> VI</span></td>
+<td class="align-left valign-top">"The Making of a Legend"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> VI</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"The Talisman"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sword &amp; Sorceress</i> VII</span></td>
+<td class="align-left valign-top">"The Talisman"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> VII</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Wings of Fire"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sword &amp; Sorceress</i> VIII</span></td>
+<td class="align-left valign-top">"Wings of Fire"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> VIII</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"A Woman's Weapon"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sword &amp; Sorceress</i> IX</span></td>
+<td class="align-left valign-top">"A Woman's Weapon"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> IX</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Friendly Fire"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sword &amp; Sorceress</i> X</span></td>
+<td class="align-left valign-top">"Friendly Fire"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> X</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"A Dragon in Distress" (with Lisa Waters)</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sword &amp; Sorceress</i> XII</span></td>
+<td class="align-left valign-top">"A Dragon in Distress" (with Lisa Waters)</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> XII</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Werehunter"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Tales of the Witchworld</i>, Vol 1, ed. by Andre Norton</span></td>
+<td class="align-left valign-top">"Werehunter"</td>
+<td class="align-left valign-top"><i>Tales of the Witchworld</i>, Vol 1, ed. by Andre Norton</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"DeathAngel" &amp; "Merovingen Ecology"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Merovingen Nights I - Festival Moon</i>, ed. by C.J. Cherryh</span></td>
+<td class="align-left valign-top">"DeathAngel" &amp; "Merovingen Ecology"</td>
+<td class="align-left valign-top"><i>Merovingen Nights I - Festival Moon</i>, ed. by C.J. Cherryh</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"A Plague on Your Houses"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Merovingen Nights 2, Fever Season</i></span></td>
+<td class="align-left valign-top">"A Plague on Your Houses"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 2, Fever Season</i></td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"A Tangled Web We Weave"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Merovingen Nights 3, Troubled Waters</i></span></td>
+<td class="align-left valign-top">"A Tangled Web We Weave"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 3, Troubled Waters</i></td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"More Than Meets The Eye"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Merovingen Nights 4, Smugglers Gold</i></span></td>
+<td class="align-left valign-top">"More Than Meets The Eye"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 4, Smugglers Gold</i></td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Merovingen Folklore"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Merovingen Nights 4, Smugglers Gold</i></span></td>
+<td class="align-left valign-top">"Merovingen Folklore"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 4, Smugglers Gold</i></td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Turning Point"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Merovingen Nights 5, Divine Right</i></span></td>
+<td class="align-left valign-top">"Turning Point"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 5, Divine Right</i></td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Don't Look Back" &amp; "Friends Like These"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Merovingen Nights 6, Flood Tide</i></span></td>
+<td class="align-left valign-top">"Don't Look Back" &amp; "Friends Like These"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 6, Flood Tide</i></td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Proving Ground"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Merovingen Nights 7, Endgame</i></span></td>
+<td class="align-left valign-top">"Proving Ground"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 7, Endgame</i></td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Fiddler Fair"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Magic in Ithkar</i> 3, ed. by Andre Norton
-</span></td></tr>
+<td class="align-left valign-top">"Fiddler Fair"</td>
+<td class="align-left valign-top"><i>Magic in Ithkar</i> 3, ed. by Andre Norton
+</td></tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Balance" &amp; "Dragon's Teeth"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Spellsingers</i> ed. by Alan Bard Newcomer</span></td>
+<td class="align-left valign-top">"Balance" &amp; "Dragon's Teeth"</td>
+<td class="align-left valign-top"><i>Spellsingers</i> ed. by Alan Bard Newcomer</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"A Friend in Need"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Winds of Change - Blood of Ten Chiefs</i>, Vol 3 ed. by R. Pini</span></td>
+<td class="align-left valign-top">"A Friend in Need"</td>
+<td class="align-left valign-top"><i>Winds of Change - Blood of Ten Chiefs</i>, Vol 3 ed. by R. Pini</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Phantom of the Berry Patch"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Winds of Change - Blood of Ten Chiefs</i>, Vol 3 - Pini</span></td>
+<td class="align-left valign-top">"Phantom of the Berry Patch"</td>
+<td class="align-left valign-top"><i>Winds of Change - Blood of Ten Chiefs</i>, Vol 3 - Pini</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Ties that Bind"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Against the Wind - Blood of Ten Chiefs</i>, Vol 4 - Pini</span></td>
+<td class="align-left valign-top">"Ties that Bind"</td>
+<td class="align-left valign-top"><i>Against the Wind - Blood of Ten Chiefs</i>, Vol 4 - Pini</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Riders of the Storm"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Against the Wind - Blood of Ten Chiefs</i>, Vol 5 - Pini</span></td>
+<td class="align-left valign-top">"Riders of the Storm"</td>
+<td class="align-left valign-top"><i>Against the Wind - Blood of Ten Chiefs</i>, Vol 5 - Pini</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Skitty"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Catfantastic</i>, ed. by Andre Norton</span></td>
+<td class="align-left valign-top">"Skitty"</td>
+<td class="align-left valign-top"><i>Catfantastic</i>, ed. by Andre Norton</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"A Tail of Two Skitties"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Catfantastic III</i> ed. by Andre Norton &amp; Martin H. Greenberg</span></td>
+<td class="align-left valign-top">"A Tail of Two Skitties"</td>
+<td class="align-left valign-top"><i>Catfantastic III</i> ed. by Andre Norton &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Scat"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Catfantastic IV</i> ed. by Andre Norton &amp; Martin H. Greenberg</span></td>
+<td class="align-left valign-top">"Scat"</td>
+<td class="align-left valign-top"><i>Catfantastic IV</i> ed. by Andre Norton &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Nightside"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 6, Fall '89</span></td>
+<td class="align-left valign-top">"Nightside"</td>
+<td class="align-left valign-top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 6, Fall '89</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Roadkill"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 9, Summer '90</span></td>
+<td class="align-left valign-top">"Roadkill"</td>
+<td class="align-left valign-top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 9, Summer '90</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Satanic, Versus"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 10, Fall '90</span></td>
+<td class="align-left valign-top">"Satanic, Versus"</td>
+<td class="align-left valign-top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 10, Fall '90</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Killer Byte"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 24, Spring '94</span></td>
+<td class="align-left valign-top">"Killer Byte"</td>
+<td class="align-left valign-top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 24, Spring '94</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"The Cup and the Cauldron"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Grails: Quests, Visitations and other Occurrences</i>, reprinted as <i>Grails: Quests of Dawn</i></span></td>
+<td class="align-left valign-top">"The Cup and the Cauldron"</td>
+<td class="align-left valign-top"><i>Grails: Quests, Visitations and other Occurrences</i>, reprinted as <i>Grails: Quests of Dawn</i></td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Last Rights" (with Larry Dixon)</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Dinosaur Fantastic</i>, ed. by Mike Resnick &amp; Martin H. Greenberg</span></td>
+<td class="align-left valign-top">"Last Rights" (with Larry Dixon)</td>
+<td class="align-left valign-top"><i>Dinosaur Fantastic</i>, ed. by Mike Resnick &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Dumb Feast"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Christmas Ghosts</i>, ed. by Mike Resnick</span></td>
+<td class="align-left valign-top">"Dumb Feast"</td>
+<td class="align-left valign-top"><i>Christmas Ghosts</i>, ed. by Mike Resnick</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Dance Track" (with Larry Dixon)</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>By Any Other Fame</i>, ed. by Mike Resnick &amp; Martin H. Greenberg</span></td>
+<td class="align-left valign-top">"Dance Track" (with Larry Dixon)</td>
+<td class="align-left valign-top"><i>By Any Other Fame</i>, ed. by Mike Resnick &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Operation Desert Fox" (with Larry Dixon)</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>BOLOS: Honor of the Regiment</i>, created by Keith Laumer</span></td>
+<td class="align-left valign-top">"Operation Desert Fox" (with Larry Dixon)</td>
+<td class="align-left valign-top"><i>BOLOS: Honor of the Regiment</i>, created by Keith Laumer</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"A Tale of Two Skitties"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Catfantastic</i> III, ed. by Andre Norton &amp; Martin H. Greenberg</span></td>
+<td class="align-left valign-top">"A Tale of Two Skitties"</td>
+<td class="align-left valign-top"><i>Catfantastic</i> III, ed. by Andre Norton &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Jihad"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Alternate Warriors</i>, ed. by Mike Resnick</span></td>
+<td class="align-left valign-top">"Jihad"</td>
+<td class="align-left valign-top"><i>Alternate Warriors</i>, ed. by Mike Resnick</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Once and Future"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Excalibur</i>, ed. by Richard Gilliam, Martin H. Greenberg &amp; Edward E. Kramer</span></td>
+<td class="align-left valign-top">"Once and Future"</td>
+<td class="align-left valign-top"><i>Excalibur</i>, ed. by Richard Gilliam, Martin H. Greenberg &amp; Edward E. Kramer</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Quest of the Dream Warrior:  Kyla's Journey"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">A musical story by Misty &amp; David Arkenstone on CD or cassette, avail. from Firebird.</span></td>
+<td class="align-left valign-top">"Quest of the Dream Warrior:  Kyla's Journey"</td>
+<td class="align-left valign-top">A musical story by Misty &amp; David Arkenstone on CD or cassette, avail. from Firebird.</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Stolen Silver"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Horse Fantastic</i>, ed. by Martin H. Greenberg &amp; Rosalind M. Greenberg</span></td>
+<td class="align-left valign-top">"Stolen Silver"</td>
+<td class="align-left valign-top"><i>Horse Fantastic</i>, ed. by Martin H. Greenberg &amp; Rosalind M. Greenberg</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Small Print"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Deals with the Devil</i>, ed. by Mike Resnick, Marin H. Greenberg &amp; Loren D. Estleman</span></td>
+<td class="align-left valign-top">"Small Print"</td>
+<td class="align-left valign-top"><i>Deals with the Devil</i>, ed. by Mike Resnick, Marin H. Greenberg &amp; Loren D. Estleman</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Hallowmas Night"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Lammas Night</i>, ed. by Josepha Sherman</span></td>
+<td class="align-left valign-top">"Hallowmas Night"</td>
+<td class="align-left valign-top"><i>Lammas Night</i>, ed. by Josepha Sherman</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Wet Wings"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Sisters in Fantasy</i> 2, ed. by Susan Schwartz &amp; Martin H. Greenberg</span></td>
+<td class="align-left valign-top">"Wet Wings"</td>
+<td class="align-left valign-top"><i>Sisters in Fantasy</i> 2, ed. by Susan Schwartz &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4">"Lammas Night" (song), "Hallowmas Night"</span></td>
-<td class="align-left valign-top"><span class="ff-comic-sans fs-4"><i>Lammas Night</i>, ed. by Josepha Sherman</span></td>
+<td class="align-left valign-top">"Lammas Night" (song), "Hallowmas Night"</td>
+<td class="align-left valign-top"><i>Lammas Night</i>, ed. by Josepha Sherman</td>
 </tr>
 </table>
 </td>
 </tr>
 </table>
-</div>
-<p>
-</p><div class="center">
+
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-middle"><span class="ff-comic-sans fs-4"><h2>Other Fandoms</h2>
+<td class="align-left valign-middle"><h2>Other Fandoms</h2>
 <p>
 </p><ul>
 <li><b>Marion Zimmer Bradley�s Fantasy Magazine.</b> Open it up and find stories that transport you from everyday into a magical place populated by fantastic beings and governed by mystical forces. Four issues a year, [Ed. Note 2002:  Old info withheld.]<p>
@@ -479,50 +473,47 @@ Thanks!
 </p></li><li><b>Pandemonium</b> - The official Melanie Rawn club invites you to join their ranks. SASE for more information:
 Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
 </p></li><li><b>Dragonlords of Dumnonia</b> - Contact L.A. Malcor at legend@oxy.edu or visit the website at <a href="http://wwww.dragonlordsnet.com">http://wwww.dragonlordsnet.com</a> for more information.
-</li></ul></span></td>
+</li></ul></td>
 </tr>
 </table>
-</div>
-<p>
-[Ed. Note 2002:  Old pricing and contact information withheld.  See below.]
-</p><p>
-Next mailing date is January 2000. <b>Deadline for submissions is January 10, 2000</b>. The earlier the better.
-</p><p>
-Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to
-share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. [Ed. Note 2002:  Old address withheld.] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
-</p><p>
-Last issue mailing day helper in July was Jason Hoff. (If you would like to help on mailing day, please call me at [Ed. Note 2002: Phone withheld.], all help is greatly appreciated!)
-</p><p>
-Border art &amp; all other art--Herald Alora, Ellen Million, Aubrey Smith and Microsoft Clipart.
-</p><p>
-Editor and President - Robin Ready [Ed. Note 2002:  Contact info withheld.]
-</p><p>
-[End Excerpt]
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
-</p><p>
+
+\[Ed. Note 2002: Old pricing and contact information withheld. See below.\]
+
+Next mailing date is January 2000. **Deadline for submissions is January 10, 2000**. The earlier the better.
+
+Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. \[Ed. Note 2002: Old address withheld.\] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
+
+Last issue mailing day helper in July was Jason Hoff. (If you would like to help on mailing day, please call me at \[Ed. Note 2002: Phone withheld.\], all help is greatly appreciated!)
+
+Border art & all other art--Herald Alora, Ellen Million, Aubrey Smith and Microsoft Clipart.
+
+Editor and President - Robin Ready \[Ed. Note 2002: Contact info withheld.\]
+
+\[End Excerpt\]
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+
 Newsletters are published on (or near) the first of each month.
-</p><p>
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>)
-</p><p>
-The featured artist for this edition of the newsletter was uncredited.  If you have a clue whom it was, please contact Herald-Mage Adept Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.  If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA  92652.
-</p><p>
-Mercedes Lackey does not receive mail at the Queen's Own address.  Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
-</p><p>
-Mercedes Lackey<br/>
-c/o High Flight Arts and Letters <br/>
-P.O. Box 2970 <br/>
-Claremore, OK 74017</p><p>
+
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+
+The featured artist for this edition of the newsletter was uncredited. If you have a clue whom it was, please contact Herald-Mage Adept Danya at [Legend@malcor.com](mailto:Legend@malcor.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+
+Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
+
+Mercedes Lackey\
+c/o High Flight Arts and Letters\
+P.O. Box 2970\
+Claremore, OK 74017
+
 Zhai'helleva,
-</p><p>
+
 Herald-Mage Adept Danya Winterborn
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
-</p><p>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
+
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

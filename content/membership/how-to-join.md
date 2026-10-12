@@ -13,27 +13,25 @@ topic = "membership"
 canonical_path = "/how-to-join/"
 +++
 
-<div class="original-page">
-<span class="fs-4">
-</span><div class="center"><h2>Queen's Own</h2></div>
-<div class="center"><h2>Membership Information</h2></div>
-<div class="center"><h3>(Revised 6/15/05)</h3></div>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/pegasus.gif"/></div>
-<p>
-Membership in Queen's Own is free!  All you have to do is create a <a href="/persona-handouts/">club persona</a> and submit it according to the instructions on your chosen handout.
-</p><p>
+## Queen's Own
+
+## Membership Information
+
+### (Revised 6/15/05)
+
+<img alt="" loading="lazy" src="/pegasus.gif"/>
+
+Membership in Queen's Own is free! All you have to do is create a [club persona](/persona-handouts/) and submit it according to the instructions on your chosen handout.
+
 As soon as you are accepted, you're in!
-</p><p>
-Members will be listed on our <a href="/persona-directory/">Persona Page</a> and receive our monthly <a href="/newsletter-guidance/">newsletter</a> by e-mail.
-</p><p>
-Periodically the club will publish volumes of persona materials that have been submitted by members in our fanzine, <a href="/children-of-velgarth/">Children of Velgarth</a>.  These will be available via e-mail at the request of the member.
-</p><p>
-Zhai'helleva,<br/>
-<a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p>
-</div>
+
+Members will be listed on our [Persona Page](/persona-directory/) and receive our monthly [newsletter](/newsletter-guidance/) by e-mail.
+
+Periodically the club will publish volumes of persona materials that have been submitted by members in our fanzine, [Children of Velgarth](/children-of-velgarth/). These will be available via e-mail at the request of the member.
+
+Zhai'helleva,\
+[Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

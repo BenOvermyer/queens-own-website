@@ -13,65 +13,52 @@ topic = "world"
 canonical_path = "/guilds-faq/"
 +++
 
-<div class="original-page">
-<span class="ff-harem">
-</span><div class="center"><h2>Guild FAQ</h2></div>
-<div class="center"><h2>(Revised 3/1/02)</h2></div>
-<p>
-There are many Guilds on Velgarth.  Some are specific to a given country.  When we have such information, it is given in parentheses following the Guild name.  Here are the Guilds we know about:
-</p><p>
-</p><ul>
-<li>Cartage Guild (Jacona Empire; drive carts for hire)
-</li><li>Cloth Merchants Guild
-</li><li>Dyers Guild
-</li><li>Leather and Furrier's Guild
-</li><li>Leatherworkers Guild
-</li><li>Mercenary Guild
-</li><li>Needleworkers Guild
-</li><li>Potters Guild
-</li><li>Traders Guild
-</li><li>Weavers Guild
-</li><li>Woodworkers Guild
-</li><li>Wrightguild
-</li></ul>
-<p>
-Valdemar has mandatory schooling for children, which is conducted in the temples.  Children must attend every morning until they can read, write and solve basic mathematical equations.  Most students accomplish this by the time they are twelve-years-old (the age at which they start training in whatever career they will follow as an adult).  A hot breakfast is served to the children every morning in these temple schools by order of Queen Seleney.
-</p><p>
+## Guild FAQ
+
+## (Revised 3/1/02)
+
+There are many Guilds on Velgarth. Some are specific to a given country. When we have such information, it is given in parentheses following the Guild name. Here are the Guilds we know about:
+
+- Cartage Guild (Jacona Empire; drive carts for hire)
+- Cloth Merchants Guild
+- Dyers Guild
+- Leather and Furrier's Guild
+- Leatherworkers Guild
+- Mercenary Guild
+- Needleworkers Guild
+- Potters Guild
+- Traders Guild
+- Weavers Guild
+- Woodworkers Guild
+- Wrightguild
+
+Valdemar has mandatory schooling for children, which is conducted in the temples. Children must attend every morning until they can read, write and solve basic mathematical equations. Most students accomplish this by the time they are twelve-years-old (the age at which they start training in whatever career they will follow as an adult). A hot breakfast is served to the children every morning in these temple schools by order of Queen Seleney.
+
 There is a school for children of Guild members in Haven, which picks up where the temple schools leave off.
-</p><p>
+
 Products that are possibly Guild-produced, but which can probably trace their origins to the Blues and their Masters, include:
-</p><p>
-</p><ul>
-<li>indoor plumbing (water closets, tups, wash basins)
-</li><li>divided "spectacles" (bifocals)
-</li></ul>
-<p>
-</p><h2>Guild Ranks</h2>
-<p>
-There are several ranks within the Guilds.  Here are the ones we know about:
-</p><p>
-</p><ul>
-<li>Apprentice
-</li><li>Journeyman
-</li><li>Master
-</li><li>Guild Representative
-</li><li>Guild Master
-</li></ul>
-<p>
-</p><h3>Guild Representatives</h3>
-<p>
-Guilds are divided up by county.  Guildmembers in a county will elect a representative to speak for them in Haven.  A representative may serve more than one county.  (Lavan Firestorm's mother served five different counties as the Needleworkers Guild Representative.)
-</p><p>
-</p><h2>The Merchant School</h2>
-<p>
+
+- indoor plumbing (water closets, tups, wash basins)
+- divided "spectacles" (bifocals)
+
+## Guild Ranks
+
+There are several ranks within the Guilds. Here are the ones we know about:
+
+- Apprentice
+- Journeyman
+- Master
+- Guild Representative
+- Guild Master
+
+### Guild Representatives
+
+Guilds are divided up by county. Guildmembers in a county will elect a representative to speak for them in Haven. A representative may serve more than one county. (Lavan Firestorm's mother served five different counties as the Needleworkers Guild Representative.)
+
+## The Merchant School
+
 The Guilds founded the Merchant School in Haven.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<span class="ff-harem">
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-<p>
-<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></span>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)\ [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)\

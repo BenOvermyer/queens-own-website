@@ -13,70 +13,63 @@ topic = "personas"
 canonical_path = "/tayledras-handout/"
 +++
 
-<div class="original-page">
-<span class="fs-4">
-</span><div class="center"><h2>The Helpful Handout of How to Become a Tayledras</h2></div>
-<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
-<p>
+## The Helpful Handout of How to Become a Tayledras
+
+### Criteria established by Mercedes Lackey
+
 Distributed by:
-</p><p>
-</p><div class="center"><h3>Queen's Own
-<br/>
+
+### Queen's Own\
 The Official Mercedes Lackey Fan Club
-</h3></div>
-<p>
-</p><h2>Basic Requirements</h2>
-<p>
-</p><h2>I.  Clan, Position and Mindspeech</h2>
-<p>
+
+## Basic Requirements
+
+## I. Clan, Position and Mindspeech
+
 Honor applies; what you roll is what you get.
-</p><p>
-</p><h3>Clan</h3>
-<p>
+
+### Clan
+
 Determine your Clan by rolling three six-sided dice.
-</p><p>
-</p><ol>
-<li>k'Chona<br/>
-</li><li>k'Jeia<br/>
-</li><li>k'Lissa<br/>
-</li><li>k'Onsova<br/>
-</li><li>k'Rika<br/>
-</li><li>k'Sheyna<br/>
-</li><li>k'Shira<br/>
-</li><li>k'Saurai<br/>
-</li><li>k'Treva<br/>
-</li><li>k'Vaia<br/>
-</li><li>k'Vala<br/>
-</li><li>k'Valdemar<br/>
-</li><li>k'Varis<br/>
-</li><li>k'Verei<br/>
-</li><li>k'Vesia<br/>
-</li><li>k'Veyas
-</li></ol>
-<p>
-</p><h3>Position</h3>
-<p>
+
+1. k'Chona\
+2. k'Jeia\
+3. k'Lissa\
+4. k'Onsova\
+5. k'Rika\
+6. k'Sheyna\
+7. k'Shira\
+8. k'Saurai\
+9. k'Treva\
+10. k'Vaia\
+11. k'Vala\
+12. k'Valdemar\
+13. k'Varis\
+14. k'Verei\
+15. k'Vesia\
+16. k'Veyas
+
+### Position
+
 Determine your Position within the clan by rolling two six-sided dice.
-</p><p>
-</p><ol>
-<li>Healer Adept
-</li><li>Adept Mage
-</li><li>Bondbird Healer
-</li><li>Clan Member
-</li><li>Journeyman Mage
-</li><li>Scout
-</li><li>Artisan/Craftsman
-</li><li>Master Mage
-</li><li>Healer-Mage
-</li><li>Musician
-</li><li>Blacksmith
-</li></ol>
-<p>
-</p><h3>Mindspeech:</h3>
-<p>
+
+1. Healer Adept
+2. Adept Mage
+3. Bondbird Healer
+4. Clan Member
+5. Journeyman Mage
+6. Scout
+7. Artisan/Craftsman
+8. Master Mage
+9. Healer-Mage
+10. Musician
+11. Blacksmith
+
+### Mindspeech:
+
 Determine what type of Mindspeech you have by rolling one six-sided die.
-</p><p>
-</p><table>
+
+<table>
 <tr>
 <td>1:</td>
 <td>With your bondbird only</td>
@@ -94,82 +87,73 @@ Determine what type of Mindspeech you have by rolling one six-sided die.
 <td>With your bondbird, humans and other races</td>
 </tr>
 </table>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barhawk.gif"/></div>
-<p>
-</p><h2>II.  Develop a Character</h2>
-<p>
-Develop a character (your persona--Who would you be if you could daydream yourself into Valdemar?  Be the "real" you or as different as you please.)
-and write about him/her.  Prepare a minimum of 3 pages.
-</p><p>
-This is a biography.  Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you.  You may use first or third
-person.
-</p><p>
-Remember to roll for Clan and Position first; it is the prerequisite for developing your persona.  You can't write your story without knowing who you are. (10 points)
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barhawk.gif"/></div>
-<p>
-</p><h2>III.  Develop One or More Friend or Relative Characters</h2>
-<p>
-You needn't be quite so detailed in your descriptions of these other characters.  But remember, you are writing about people you know well.  Describe what your family and/or friends look like, their own character traits, etc.  Again, a minimum of 3 pages.  (5 points)
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barhawk.gif"/></div>
-<p>
-</p><h2>IV. Extra Point Requirements (5 points each)</h2>
-<p>
+
+<img alt="" loading="lazy" src="/barhawk.gif"/>
+
+## II. Develop a Character
+
+Develop a character (your persona--Who would you be if you could daydream yourself into Valdemar? Be the "real" you or as different as you please.) and write about him/her. Prepare a minimum of 3 pages.
+
+This is a biography. Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you. You may use first or third person.
+
+Remember to roll for Clan and Position first; it is the prerequisite for developing your persona. You can't write your story without knowing who you are. (10 points)
+
+<img alt="" loading="lazy" src="/barhawk.gif"/>
+
+## III. Develop One or More Friend or Relative Characters
+
+You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
+
+<img alt="" loading="lazy" src="/barhawk.gif"/>
+
+## IV. Extra Point Requirements (5 points each)
+
 Choose and complete the requirements for two (minimum) of the following:
-</p><p>
-</p><ol>
-<li>Write a story of more than 3 pages.
-</li><li>Design a costume of Hawkbrother design.
-</li><li>Create a costume.
-</li><li>Draw a picture of your character.
-</li><li>Draw a picture of your Bondbird.
-</li><li>Create a new Pelagris race.
-</li><li>Illustrate your story.
-</li><li>Write a poem about the Earth.
-</li><li>Compose a song--music and/or write lyrics.
-</li><li>Attend martial arts classes.
-</li><li>Draw a map.
-</li><li>Learn CPR and basic first-aid.
-</li><li>Become a regular blood donor.
-</li><li>Volunteer with an environmental group.
-</li><li>Start a local <a href="/chapters/">chapter of Queen's Own</a>.
-</li><li>Write an essay on Falconry.  Prepare a minimum of 3 pages.
-</li><li>Learn the care and feeding of Raptors.  Prepare a minimum of 3 pages.
-</li><li>Send a story, poem, or art to one of our <a href="/fan-fiction/">zines</a>.
-</li></ol>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barhawk.gif"/></div>
-<p>
-</p><div class="center"><h2>After you have acquired 25 points, you may become a member of the Vale!</h2></div>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barhawk.gif"/></div>
-<p>
-</p><h2>Special Notes for Tayledras</h2>
-<p>
-</p><ul>
-<li>Be sure to list the Clan and Position you rolled for on your submission.<p>
-</p></li><li>For General Rules, click <a href="/persona-handouts/#rules">here</a>.<p>
-</p></li><li>For Submission Instructions, click <a href="/persona-handouts/#submit">here</a>.<p>
-</p></li><li>For Helpful Hints, click <a href="/persona-handouts/#help">here</a>.
-</li></ul>
-<p>
-If you have additional questions, check out the <a href="/tayledras-faq/">Tayledras</a> FAQ.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barhawk.gif"/></div>
-<p>
-<a id="elder" name="elder"></a>
-</p><h2>Advanced Rank</h2>
-<p>
+
+1. Write a story of more than 3 pages.
+2. Design a costume of Hawkbrother design.
+3. Create a costume.
+4. Draw a picture of your character.
+5. Draw a picture of your Bondbird.
+6. Create a new Pelagris race.
+7. Illustrate your story.
+8. Write a poem about the Earth.
+9. Compose a song--music and/or write lyrics.
+10. Attend martial arts classes.
+11. Draw a map.
+12. Learn CPR and basic first-aid.
+13. Become a regular blood donor.
+14. Volunteer with an environmental group.
+15. Start a local [chapter of Queen's Own](/chapters/).
+16. Write an essay on Falconry. Prepare a minimum of 3 pages.
+17. Learn the care and feeding of Raptors. Prepare a minimum of 3 pages.
+18. Send a story, poem, or art to one of our [zines](/fan-fiction/).
+
+<img alt="" loading="lazy" src="/barhawk.gif"/>
+
+## After you have acquired 25 points, you may become a member of the Vale!
+
+<img alt="" loading="lazy" src="/barhawk.gif"/>
+
+## Special Notes for Tayledras
+
+- Be sure to list the Clan and Position you rolled for on your submission.
+- For General Rules, click [here](/persona-handouts/#rules).
+- For Submission Instructions, click [here](/persona-handouts/#submit).
+- For Helpful Hints, click [here](/persona-handouts/#help).
+
+If you have additional questions, check out the [Tayledras](/tayledras-faq/) FAQ.
+
+<img alt="" loading="lazy" src="/barhawk.gif"/>
+
+<a id="elder"></a>
+
+## Advanced Rank
+
 There is one advanced rank available for Tayledras personae.
-</p><p>
-</p><ul>
-<li>Clan Elder (Write a 20-page paper about the Iroquois Confederation or about British Fairy Lore.)
-</li></ul>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barhawk.gif"/></div>
-<p>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-</p>
-</div>
+
+- Clan Elder (Write a 20-page paper about the Iroquois Confederation or about British Fairy Lore.)
+
+<img alt="" loading="lazy" src="/barhawk.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

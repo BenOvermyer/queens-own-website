@@ -16,36 +16,35 @@ publication_period = "January 1999"
 date_precision = "month"
 +++
 
-<div class="original-page">
-<span class="ff-bookman fs-4">
-</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
-<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
-<div class="center"><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></div>
-<div class="center"><h2>Series 2, Vol. I, No. 4<br/>
-March 13, 1999</h2></div>
-<p>
-<b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
-</p><p>
-[Begin Excerpt]
-</p><p>
-</p><div class="center"><img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/></div>
-<div class="center"><h2>The Official Mercedes Lackey Fan Club</h2></div>
-<p>
-<img alt="Queen's Own/Merging of the Ways" class="float-right" loading="lazy" src="/qo226.jpg"/>The Official Mercedes Lackey Fan Club I PO Box 56956, Sherman Oaks, CA 91403 1 Volume I #4, January 23, 1999
-Release date 4/99, Baen Paperback $6.99
-Lope through the night with a young woman who has been given the power to transform herself into a leop�ard, but who now finds herself pursued by a hunter who is more than human. Follow the adventures of Skitty, ship's cat extraordinaire, and telepathic problem-solver. Ride with a late night driver on a soli�tary road who learns that what appears to be a piece of cardboard blowing across the road is actually some�thing very sinister in disguise. Join Lackey's cele�
-brated occult detective Diana Tregarde as she attends a gathering of romance writ�ers and encounters a visitor whose passionate desire is for fresh, warm blood. Re�turn to the world of the Heralds of Valdemar. And there's much more.
-</p><p>
-<img alt="Werehunter" class="float-left" loading="lazy" src="/ml55.gif"/>In the short span of a few years, Mercedes Lackey has risen from an exciting new talent to a reigning super�star of fantasy. Last year's Fiddler Fair was a show�case of the wide scope of her talent, ranging from fan�tasy to science fiction, from screwball humor to macabre supernatural terror. Now comes the successor to that top-selling volume, <i>Werehunter</i>.
-</p><p>
-<i>Urban Nightmares</i>, paperback Baen $5.99.  Your darkest fears are lurking in your building lobby, in the mall parking lot, on the street where you live, or be�low those same streets.  You may be wondering why Josepha Sherman is in�cluded in this issue of the newsletter. Well, I spoke with Misty and she would like me to include some of my other favorite authors, which are Josepha Sherman, Mark Shepherd and Holly Lisle. You will see more of their re�leases and convention schedules as I get information. I personally am glad to expand the focus of this newsletter to include such wonderful writers. I hope you don't mind the change too much!
-</p><p>
+**Queen's Own**
+
+Mercedes Lackey Fan Club
+
+## P.O. Box 749\
+Laguna Beach, CA 92652 USA
+
+## Series 2, Vol. I, No. 4\
+March 13, 1999
+
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+
+\[Begin Excerpt\]
+
+<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/>
+
+## The Official Mercedes Lackey Fan Club
+
+<img alt="Queen's Own/Merging of the Ways" class="float-right" loading="lazy" src="/qo226.jpg"/>The Official Mercedes Lackey Fan Club I PO Box 56956, Sherman Oaks, CA 91403 1 Volume I #4, January 23, 1999 Release date 4/99, Baen Paperback $6.99 Lope through the night with a young woman who has been given the power to transform herself into a leop�ard, but who now finds herself pursued by a hunter who is more than human. Follow the adventures of Skitty, ship's cat extraordinaire, and telepathic problem-solver. Ride with a late night driver on a soli�tary road who learns that what appears to be a piece of cardboard blowing across the road is actually some�thing very sinister in disguise. Join Lackey's cele� brated occult detective Diana Tregarde as she attends a gathering of romance writ�ers and encounters a visitor whose passionate desire is for fresh, warm blood. Re�turn to the world of the Heralds of Valdemar. And there's much more.
+
+<img alt="Werehunter" class="float-left" loading="lazy" src="/ml55.gif"/>In the short span of a few years, Mercedes Lackey has risen from an exciting new talent to a reigning super�star of fantasy. Last year's Fiddler Fair was a show�case of the wide scope of her talent, ranging from fan�tasy to science fiction, from screwball humor to macabre supernatural terror. Now comes the successor to that top-selling volume, *Werehunter*.
+
+*Urban Nightmares*, paperback Baen $5.99. Your darkest fears are lurking in your building lobby, in the mall parking lot, on the street where you live, or be�low those same streets. You may be wondering why Josepha Sherman is in�cluded in this issue of the newsletter. Well, I spoke with Misty and she would like me to include some of my other favorite authors, which are Josepha Sherman, Mark Shepherd and Holly Lisle. You will see more of their re�leases and convention schedules as I get information. I personally am glad to expand the focus of this newsletter to include such wonderful writers. I hope you don't mind the change too much!
+
 Robin - Herald Seneschal
-</p><p>
+
 Remember, the newsletter is now available in email format for only $4.00 per year, no matter where you are in the world. If you would like to change to emaii format, either email me or mail me with your snail mail and your email address?!
-</p><p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-top"> Firebird Arts and Music carries all of Misty's books and lots of other merchandise. From Babylon 5 soundtracks to I  Larry's art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood  ! characters to doll-size costume patterns for Heralds &amp; Shin'a in.	From Oneida Indian Nation T-shirts to Celtic-design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music. [Ed. note 2004: Out-of-date contact info. withheld.]  Firebird does not answer inquiries from prison addresses. Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.</td>
 </tr>
@@ -66,12 +65,12 @@ she'll do her best for you! For orders outside the 518 area code, [Ed. note 2004
 <td class="align-left valign-top">Come one! Come all! If you haven't seen the wonders created by Ellen Million Graphics and her band of artists yet, then this is the moment to do so! The new `981'99 full catalog is out. and it is a MUST SEE! Come, experience the enchantment when fantasy be� comes reality on quality, affordable FANTASY STATIONARY from EMG! An assortment of new designs in beautiful ink and pen� cil artwork, exclusively ours, on an array of partly recycled colored paper! We offer: stationary, cards, bookmarks, magnets, address	labels, scratch pads, (new!) coloring books, and growing!! We are your source for quality fantasy products!!! No SASE needed; just write and ask for your first FREE catalog! Custom work available; all inquiries:Ellen Million Graphics [Ed. note 2004:  Out-of-date oder info. withheld.  See a current newsletter for oder details]. (Dealer inquiries welcome!)</td>
 </tr>
 </table>
-<p>
-PERS0NALS -	[Ed. note 2004:  Personals withheld because of their private and out-dated content.]
-</p><p>
-PEN-PALS [Ed. note 2004:  Pen-Pals section withheld because of their private and out-dated content.]
-</p><p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+PERS0NALS - \[Ed. note 2004: Personals withheld because of their private and out-dated content.\]
+
+PEN-PALS \[Ed. note 2004: Pen-Pals section withheld because of their private and out-dated content.\]
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-top">
 <h2> LOCAL CHAPTERS</h2>
@@ -91,11 +90,14 @@ A slender woman, Healer Cinnamon, with long curly hair the colour of her name, s
 "<i>The Vales</i> is a yearly zine. I am now accepting submissions for issue 3, the 98 edition. Due to the lack of submissions, publication and submission dates have been pushed back. All Submissions must be accepted by April 10, 1999. Mailing date is May l, 1999. Please send your persona. 1 am also accepting poetry and art�work. Submissions are accepted on disk, via e-mail, or through snail mail. You MUST be recognized by Queen's Own, please include month/year accepted. I also have copies of last year's edition, which includes 10 personas and is over 80 pages for the bargain price of $4.00 US. You can contact me, Kendra Renaud via e-mail: [Ed. note 2004:  Out-of-date contact information withheld.]. Also you can see my writing on my very own webpage: [Ed. note 2004:  Out-of-date information withheld.]</p></td>
 </tr>
 </table>
-<p>
-</p><h2>Heralds, Healers and other now recognized personas!!</h2><p>
-Alas, there are no new personas to recognize this newsletter ...</p><p>
-Do you too want to become a Herald, Healer, or another of Misty's characters?? Please write me for the infor�mation sheets and I will be glad to send them to you. If possible, please send a SASE for my reply!!</p><p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+## Heralds, Healers and other now recognized personas!!
+
+Alas, there are no new personas to recognize this newsletter ...
+
+Do you too want to become a Herald, Healer, or another of Misty's characters?? Please write me for the infor�mation sheets and I will be glad to send them to you. If possible, please send a SASE for my reply!!
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-top">
 <h2>Other Fandoms</h2>
@@ -131,7 +133,7 @@ Editor and President - Robin Ready [Ed. note 2004:  Out-of-date info. withheld.]
 </p><p>
 [End Excerpt]
 </p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
+</p><img alt="" loading="lazy" src="/barcomp.gif"/>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -151,10 +153,9 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
+</p><img alt="" loading="lazy" src="/barcomp.gif"/>
 <p>
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></td></tr></table>
-</div>

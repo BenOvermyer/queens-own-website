@@ -14,16 +14,13 @@ topic = "world"
 canonical_path = "/valdemar-timeline/"
 +++
 
-<div class="original-page">
-<span class="ff-harem">
-</span><div class="center"><h2>Valdemar Timeline</h2></div>
-<div class="center"><h2>(Revised 2/7/02)</h2></div>
-<p>
-Here is the timeline for Misty's Valdemar Series.
-This timeline is adapted from the timeline that appears at the front of
-each of the Valdemar books.
-</p><p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+## Valdemar Timeline
+
+## (Revised 2/7/02)
+
+Here is the timeline for Misty's Valdemar Series. This timeline is adapted from the timeline that appears at the front of each of the Valdemar books.
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <th>Beginning Date for the Period</th>
 <th>Reigning Monarch</th>
@@ -124,66 +121,58 @@ each of the Valdemar books.
 <td class="align-left valign-top">"A Herald's Journey" in <i>The Valdemar Companion</i></td>
 </tr>
 </table>
-<p>
-<i>Sword of Ice</i> does not fall neatly onto the timeline.  It containes
-tales that stretch from just before Vanyel's time (Savil's first encounter with the Tayledras) up through Selenay's reign.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-</p><h2>Copyright Order</h2>
-<p>
+
+*Sword of Ice* does not fall neatly onto the timeline. It containes tales that stretch from just before Vanyel's time (Savil's first encounter with the Tayledras) up through Selenay's reign.
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+## Copyright Order
+
 This is the order in which Mercedes Lackey copyrighted the various works:
-</p><p>
-</p><ul>
-<li>"Sword-sworn" 1985 (in <i>Oathblood</i> 1998)
-</li><li>"Turnabout" 1986 (in <i>Oathblood</i> 1998)
-</li><li><i>Arrow's of the Queen</i> 1987
-</li><li>"A Tale of Heroes" 1987 (in <i>Oathblood</i> 1998)
-</li><li><i>Arrow's Flight</i> 1987
-</li><li>"Chap. 6" of Oathbound in different form in Sword and Sorceress, 1988 (in <i>Oathbound</i> 1988)
-</li><li><i>Oathbound</i> 1988 (songs 1985)
-</li><li>"Keys" 1988 (in <i>Oathblood</i> 1998)
-</li><li><i>Arrow's Fall</i> 1988
-</li><li><i>Magic's Pawn</i> 1989
-</li><li><i>Oathbreakers</i> 1989 (songs 1987)
-</li><li><i>Magic's Promise</i> 1990
-</li><li><i>Magic's Price</i> 1990
-</li><li>"The Making of a Legend" 1990 (in <i>Oathblood</i> 1998)
-</li><li>"The Talisman" 1990 (in <i>Oathblood</i> 1998)
-</li><li><i>Winds of Fate</i> 1991
-</li><li>"Stolen Silver" 1991 (in <i>Horse Fantastic</i> 1991)
-</li><li><i>By the Sword</i> 1991
-</li><li>"Wings of Fire" 1991 (in <i>Oathblood</i> 1998)
-</li><li>"A Woman's Weapon" 1992 (in <i>Oathblood</i> 1998)
-</li><li><i>Winds of Change</i> 1993
-</li><li>"Friendly Fire" 1993 (in <i>Oathblood</i> 1998)
-</li><li><i>Winds of Fury</i> 1993
-</li><li><i>Storm Warning</i> 1994
-</li><li><i>The Black Gryphon</i> 1994
-</li><li><i>Storm Rising</i> 1995
-</li><li><i>The White Gryphon</i> 1995
-</li><li><i>Storm Breaking</i> 1996
-</li><li><i>The Silver Gryphon</i> 1996
-</li><li><i>Owlflight</i> 1997
-</li><li>"Sunlancer" in <i>Sword of Ice</i> 1997
-</li><li>"Introduction" to <i>Sword of Ice</i> 1997
-</li><li>"Sword of Ice" in <i>Sword of Ice</i> 1997
-</li><li>"Blue Heart" in <i>Sword of Ice</i> 1997
-</li><li><i>Sword of Ice</i> 1997
-</li><li>"Spring Plowing at Forst Reach" 1998 (in <i>Oathblood</i> 1998)
-</li><li>"Oathblood" 1998 (in <i>Oathblood</i> 1998)
-</li><li><i>Oathblood</i> 1998
-</li><li><i>Owlsight</i> 1998
-</li><li><i>Owlflight</i> 1999
-</li><li><i>Owlknight</i> 1999
-</li><li><i>Brightly Burning</i> 2000
-</li><li><i>Take a Thief</i> 2001
-</li><li>"A Herald's Journey" in <i>The Valdemar Companion</i> 2001
-</li></ul>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/bardrgn2.gif"/></div>
-<p>
-<span class="ff-harem">
-</span>
-</p>
-</div>
+
+- "Sword-sworn" 1985 (in *Oathblood* 1998)
+- "Turnabout" 1986 (in *Oathblood* 1998)
+- *Arrow's of the Queen* 1987
+- "A Tale of Heroes" 1987 (in *Oathblood* 1998)
+- *Arrow's Flight* 1987
+- "Chap. 6" of Oathbound in different form in Sword and Sorceress, 1988 (in *Oathbound* 1988)
+- *Oathbound* 1988 (songs 1985)
+- "Keys" 1988 (in *Oathblood* 1998)
+- *Arrow's Fall* 1988
+- *Magic's Pawn* 1989
+- *Oathbreakers* 1989 (songs 1987)
+- *Magic's Promise* 1990
+- *Magic's Price* 1990
+- "The Making of a Legend" 1990 (in *Oathblood* 1998)
+- "The Talisman" 1990 (in *Oathblood* 1998)
+- *Winds of Fate* 1991
+- "Stolen Silver" 1991 (in *Horse Fantastic* 1991)
+- *By the Sword* 1991
+- "Wings of Fire" 1991 (in *Oathblood* 1998)
+- "A Woman's Weapon" 1992 (in *Oathblood* 1998)
+- *Winds of Change* 1993
+- "Friendly Fire" 1993 (in *Oathblood* 1998)
+- *Winds of Fury* 1993
+- *Storm Warning* 1994
+- *The Black Gryphon* 1994
+- *Storm Rising* 1995
+- *The White Gryphon* 1995
+- *Storm Breaking* 1996
+- *The Silver Gryphon* 1996
+- *Owlflight* 1997
+- "Sunlancer" in *Sword of Ice* 1997
+- "Introduction" to *Sword of Ice* 1997
+- "Sword of Ice" in *Sword of Ice* 1997
+- "Blue Heart" in *Sword of Ice* 1997
+- *Sword of Ice* 1997
+- "Spring Plowing at Forst Reach" 1998 (in *Oathblood* 1998)
+- "Oathblood" 1998 (in *Oathblood* 1998)
+- *Oathblood* 1998
+- *Owlsight* 1998
+- *Owlflight* 1999
+- *Owlknight* 1999
+- *Brightly Burning* 2000
+- *Take a Thief* 2001
+- "A Herald's Journey" in *The Valdemar Companion* 2001
+
+<img alt="" loading="lazy" src="/bardrgn2.gif"/>

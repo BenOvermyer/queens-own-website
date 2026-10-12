@@ -13,123 +13,107 @@ topic = "personas"
 canonical_path = "/blues-handout/"
 +++
 
-<div class="original-page">
-<span class="fs-4">
-</span><div class="center"><h2>The Helpful Handout of How to Become a Blue</h2></div>
-<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
-<div class="center"><h3>Based on the <b>Heralds of Valdemar</b> and <b>Mage Storms</b> trilogies</h3></div>
-<p>
+## The Helpful Handout of How to Become a Blue
+
+### Criteria established by Mercedes Lackey
+
+### Based on the **Heralds of Valdemar** and **Mage Storms** trilogies
+
 Distributed by:
-</p><p>
-</p><div class="center"><h3>Queen's Own
-<br/>
+
+### Queen's Own\
 The Official Mercedes Lackey Fan Club
-</h3></div>
-<p>
-</p><h2>Basic Requirements</h2>
-<p>
-</p><h2>I.  Develop a Character</h2>
-<p>
+
+## Basic Requirements
+
+## I. Develop a Character
+
 Develop a character (your persona--Who would you be if you could daydream yourself into Valdemar? Be the "real" you or as different as you please.) and write about him/her. Prepare a minimum of 3 pages.
-</p><p>
+
 This is a biography. Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you. You may use first or third person. (10 points.)
-</p><p>
-Remember, Blues are Unaffiliated students (that is, they are not Herald, Herald-Mage, Bardic or Healer Trainees) who are nobles, children of Palace workers or studying to be Artificers (Inventors) or Scholars.  <a href="/blues-handout/#special">See below</a> for special rules that apply to them.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-</p><h2>II.  Develop One or More Friend or Relative Characters</h2>
-<p>
+
+Remember, Blues are Unaffiliated students (that is, they are not Herald, Herald-Mage, Bardic or Healer Trainees) who are nobles, children of Palace workers or studying to be Artificers (Inventors) or Scholars. [See below](/blues-handout/#special) for special rules that apply to them.
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+## II. Develop One or More Friend or Relative Characters
+
 You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-</p><h2>III.  Extra Point Requirements (5 points each)</h2>
-<p>
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+## III. Extra Point Requirements (5 points each)
+
 Choose and complete the requirements for two (minimum) of the following:
-</p><p>
-</p><ol>
-<li>Write a story of more than 3 pages.
-</li><li>Enter a science project in a science fair.
-</li><li>Write an essay on current events. Do not rely on one source of information. Prepare a minimum of 3 pages.
-</li><li>Join a local political campaign.
-</li><li>Write an essay on the Bill of Rights and Constitutional Amendments.  Prepare a minimum of 3 pages.
-</li><li>Write a report about a scientific experiment that you have designed and carried out. Prepare a minimum of 3 pages.
-</li><li>Start a local <a href="/chapters/">chapter of Queen's Own</a>.
-</li><li>Start a <a href="/fan-fiction/">fanzine</a> for Mercedes Lackey fanfiction.
-</li><li>Write a report about alchemy. Prepare a minimum of 3 pages.
-</li><li>Learn the history/politics of your region. Prepare a minimum of 3 pages.
-</li><li>Write letters about social problems to newspapers.
-</li><li>Write a report about the economics of a medieval estate. Prepare a minimum of 3 pages.
-</li><li>Send a story, poem, or art to one of our <a href="/fan-fiction/">zines</a>.
-</li><li>Draw a map.
-</li><li>Participate in a mathematics field day or competition.
-</li><li>Design a building.
-</li><li>Write a report about medieval building techniques. Prepare a minimum of 3 pages.
-</li><li>Learn about protocol in a medieval court. Prepare a minimum of 3 pages.
-</li></ol>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-</p><div class="center"><h2>After you have acquired 25 points, you may claim your Blues!</h2></div>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-<a id="special" name="special"></a>
-</p><h2>Special Notes for Blues</h2>
-<p>
-</p><ul>
-<li>Remember, to be accepted as a Blue you must either be the child of someone who works in the Palace at Haven or of a noble who is required to be at the Palace, or you must have demonstrated aptitude in some elite skill, such as science, engineering, mathematics, or architecture.
-<p>
-</p></li><li>People do not stay Blues forever.  Blues grow up and become something:  a politician, a diplomat, a teacher of Blues . . . something.  Keep in mind what you want your character to become when you are creating him/her.  (See <a href="/blues-handout/#advance">Advanced Rank</a> below.)<p>
-</p></li><li>For General Rules, click <a href="/persona-handouts/#rules">here</a>.<p>
-</p></li><li>For Submission Instructions, click <a href="/persona-handouts/#submit">here</a>.<p>
-</p></li><li>For Helpful Hints, click <a href="/persona-handouts/#help">here</a>.
-</li></ul>
-<p>
-If you have additional questions, check out the <a href="/blues-and-blue-bloods-faq/">Blues and Blue Bloods</a> FAQ.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-<a id="advance" name="advance"></a>
-</p><h2>Advanced Rank</h2>
-<p>
-Blues can take a number of paths after they graduate.  Those who are of noble blood may claim whatever position they have inherited (such as politician or diplomat) without any additional training.  Those who follow in the footsteps of a parent as a Palace worker do not need extra training either.  But the Blue who graduates to become a Master (a scholar/teacher of Blues), an Artificer (inventor), or a member of the Guard.  You must first attain the rank of Blue, then you can work on any of these additional ranks.
-</p><p>
-<a id="scholar" name="scholar"></a>
-To become a Master Scholar:
-</p><p>
-</p><ul>
-<li>Write a 20-page paper on something from your field of expertise (such as science, engineering, mathematics, or architecture).
-</li></ul>
-<p>
-<span class="c-red">Exception</span>:  If you work as a science or math teacher at the Elementary, Junior High or High School level, you may claim full Master Scholar status.  However, please develop your Velgarth persona so others may interact with you in character.
-</p><p>
-<a id="artificer" name="artificer"></a>
-To become a Master Artificer:
-</p><p>
-</p><ul>
-<li>Invent something, write a minimum of three pages about it, and send me a picture of your invention.
-</li></ul>
-<p>
-<a id="guard" name="guard"></a>
-To become a member of the Guard, first develop your Blue persona, then do one of the following:
-</p><p>
-</p><ul>
-<li>Write a 20-page paper on military history or tactics.
-</li><li>Attain an advanced rank (such as black belt) in a martial art.
-</li><li>Join an R.O.T.C. program.
-</li></ul>
-<p>
-<span class="c-red">Exception</span>:  If you are a police officer or firefighter, you may claim full Guard rank.  However, please develop your Velgarth persona so others may interact with you in character.
-</p><p>
-For advanced ranks for Guards, see the Advanced rank instructions on the <a href="/military-handout/#advance">Military Handout</a>.
-</p><p>
-Zhai'helleva,<br/>
-<a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-</p>
-</div>
+
+1. Write a story of more than 3 pages.
+2. Enter a science project in a science fair.
+3. Write an essay on current events. Do not rely on one source of information. Prepare a minimum of 3 pages.
+4. Join a local political campaign.
+5. Write an essay on the Bill of Rights and Constitutional Amendments. Prepare a minimum of 3 pages.
+6. Write a report about a scientific experiment that you have designed and carried out. Prepare a minimum of 3 pages.
+7. Start a local [chapter of Queen's Own](/chapters/).
+8. Start a [fanzine](/fan-fiction/) for Mercedes Lackey fanfiction.
+9. Write a report about alchemy. Prepare a minimum of 3 pages.
+10. Learn the history/politics of your region. Prepare a minimum of 3 pages.
+11. Write letters about social problems to newspapers.
+12. Write a report about the economics of a medieval estate. Prepare a minimum of 3 pages.
+13. Send a story, poem, or art to one of our [zines](/fan-fiction/).
+14. Draw a map.
+15. Participate in a mathematics field day or competition.
+16. Design a building.
+17. Write a report about medieval building techniques. Prepare a minimum of 3 pages.
+18. Learn about protocol in a medieval court. Prepare a minimum of 3 pages.
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+## After you have acquired 25 points, you may claim your Blues!
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+<a id="special"></a>
+
+## Special Notes for Blues
+
+- Remember, to be accepted as a Blue you must either be the child of someone who works in the Palace at Haven or of a noble who is required to be at the Palace, or you must have demonstrated aptitude in some elite skill, such as science, engineering, mathematics, or architecture.
+- People do not stay Blues forever. Blues grow up and become something: a politician, a diplomat, a teacher of Blues . . . something. Keep in mind what you want your character to become when you are creating him/her. (See [Advanced Rank](/blues-handout/#advance) below.)
+- For General Rules, click [here](/persona-handouts/#rules).
+- For Submission Instructions, click [here](/persona-handouts/#submit).
+- For Helpful Hints, click [here](/persona-handouts/#help).
+
+If you have additional questions, check out the [Blues and Blue Bloods](/blues-and-blue-bloods-faq/) FAQ.
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+<a id="advance"></a>
+
+## Advanced Rank
+
+Blues can take a number of paths after they graduate. Those who are of noble blood may claim whatever position they have inherited (such as politician or diplomat) without any additional training. Those who follow in the footsteps of a parent as a Palace worker do not need extra training either. But the Blue who graduates to become a Master (a scholar/teacher of Blues), an Artificer (inventor), or a member of the Guard. You must first attain the rank of Blue, then you can work on any of these additional ranks.
+
+<a id="scholar"></a> To become a Master Scholar:
+
+- Write a 20-page paper on something from your field of expertise (such as science, engineering, mathematics, or architecture).
+
+Exception: If you work as a science or math teacher at the Elementary, Junior High or High School level, you may claim full Master Scholar status. However, please develop your Velgarth persona so others may interact with you in character.
+
+<a id="artificer"></a> To become a Master Artificer:
+
+- Invent something, write a minimum of three pages about it, and send me a picture of your invention.
+
+<a id="guard"></a> To become a member of the Guard, first develop your Blue persona, then do one of the following:
+
+- Write a 20-page paper on military history or tactics.
+- Attain an advanced rank (such as black belt) in a martial art.
+- Join an R.O.T.C. program.
+
+Exception: If you are a police officer or firefighter, you may claim full Guard rank. However, please develop your Velgarth persona so others may interact with you in character.
+
+For advanced ranks for Guards, see the Advanced rank instructions on the [Military Handout](/military-handout/#advance).
+
+Zhai'helleva,\
+[Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

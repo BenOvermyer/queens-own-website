@@ -13,26 +13,23 @@ topic = "personas"
 canonical_path = "/herald-handout/"
 +++
 
-<div class="original-page">
-<span class="fs-4">
-</span><div class="center"><h2>The Helpful Handout of How to Become a Herald</h2></div>
-<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
-<div class="center"><h3>Based on the <b>Heralds of Valdemar</b> trilogy</h3></div>
-<p>
+## The Helpful Handout of How to Become a Herald
+
+### Criteria established by Mercedes Lackey
+
+### Based on the **Heralds of Valdemar** trilogy
+
 Distributed by:
-</p><p>
-</p><div class="center"><h3>Queen's Own
-<br/>
+
+### Queen's Own\
 The Official Mercedes Lackey Fan Club
-</h3></div>
-<p>
-</p><h2>Basic Requirements</h2>
-<p>
-</p><h2>I.  Gifts and Talents</h2>
-<p>
-Determine your Gifts by rolling a six-sided die.  Honor applies; what you roll is what you get.  If you roll the same number twice, it means you have that Gift in double strength.  Do not roll again for a different Gift.
-</p><p>
-</p><div class="center">
+
+## Basic Requirements
+
+## I. Gifts and Talents
+
+Determine your Gifts by rolling a six-sided die. Honor applies; what you roll is what you get. If you roll the same number twice, it means you have that Gift in double strength. Do not roll again for a different Gift.
+
 <table>
 <tr>
 <td>1-3 = one Gift</td>
@@ -44,13 +41,12 @@ Determine your Gifts by rolling a six-sided die.  Honor applies; what you roll i
 <td>6 = three Gifts</td>
 </tr>
 </table>
-</div>
-<p>
-</p><h3>Gifts</h3>
-<p>
+
+### Gifts
+
 Roll two dice, or one die twice, and add the numbers.
-</p><p>
-</p><table>
+
+<table>
 <tr>
 <td>2-8:</td>
 <td>Mindspeech (Also called Mindtouch, Mindreaching, Mindcalling and Farspeaking)</td>
@@ -64,12 +60,12 @@ Roll two dice, or one die twice, and add the numbers.
 <td>Wild Talent (roll one six-sided die on the Wild Talent table below)</td>
 </tr>
 </table>
-<p>
-</p><h3>Wild Talents</h3>
-<p>
+
+### Wild Talents
+
 Roll one die.
-</p><p>
-</p><table>
+
+<table>
 <tr>
 <td>1:</td>
 <td>Empathy</td>
@@ -95,14 +91,13 @@ Roll one die.
 <td>Animal Mindspeech</td>
 </tr>
 </table>
-<p>
+
 Regardless of your roll, you will always have limited Mindspeech with your Companion in trance.
-</p><p>
-</p><h3>Gift Strength</h3>
-<p>
+
+### Gift Strength
+
 Determine the strength of your Gifts by rolling a six-sided die:
-</p><p>
-</p><div class="center">
+
 <table>
 <tr>
 <td>1 = Low</td>
@@ -114,108 +109,91 @@ Determine the strength of your Gifts by rolling a six-sided die:
 <td>6 = Strong</td>
 </tr>
 </table>
-</div>
-<p>
-</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
-<p>
-</p><h2>II.  Develop a Character</h2>
-<p>
-Develop a character (your persona--Who would you be if you could daydream yourself into Valdemar?  Be the "real" you or as different as you please.)
-and write about him/her.  Prepare a minimum of 3 pages.
-</p><p>
-This is a biography.  Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you.  You may use first or third person.
-</p><p>
-Remember, to write about your persona <span class="c-red">before</span> s/he became a Herald and his/her Gifts manifested.  A Chosen must learn to cope with his/her Gifts, not have his/her life built around them.  Most Gifts manifest themselves around puberty; they are not evident at birth. (10 points)
-</p><p>
-</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
-<p>
-</p><h2>III.  Develop One or More Friend or Relative Characters</h2>
-<p>
-You needn't be quite so detailed in your descriptions of these other characters.  But remember, you are writing about people you know well.  Describe what your family and/or friends look like, their own character traits, etc.  Again, a minimum of 3 pages.  (5 points)
-</p><p>
-</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
-<p>
-</p><h2>IV. Extra Point Requirements (5 points each)</h2>
-<p>
+
+<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
+
+## II. Develop a Character
+
+Develop a character (your persona--Who would you be if you could daydream yourself into Valdemar? Be the "real" you or as different as you please.) and write about him/her. Prepare a minimum of 3 pages.
+
+This is a biography. Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you. You may use first or third person.
+
+Remember, to write about your persona before s/he became a Herald and his/her Gifts manifested. A Chosen must learn to cope with his/her Gifts, not have his/her life built around them. Most Gifts manifest themselves around puberty; they are not evident at birth. (10 points)
+
+<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
+
+## III. Develop One or More Friend or Relative Characters
+
+You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
+
+<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
+
+## IV. Extra Point Requirements (5 points each)
+
 Choose and complete the requirements for two (minimum) of the following:
-</p><p>
-</p><ol>
-<li>Write a story of more than 3 pages.
-</li><li>Design a costume.
-</li><li>Create a costume.
-</li><li>Draw a picture of your character.
-</li><li>Draw a picture of your "other" character(s) or Companion.
-</li><li>Illustrate your story.
-</li><li>Write a poem.
-</li><li>Compose a song--music and/or lyrics.
-</li><li>Attend martial arts classes.
-</li><li>Draw a map.
-</li><li>Learn CPR.
-</li><li>Become a regular blood donor.
-</li><li>Become a volunteer.
-</li><li>Create an authentic recipe.
-</li><li>Start a local <a href="/chapters/">chapter of Queen's Own</a>.
-</li><li>Learn to ride.
-</li><li>Learn the care and feeding of horses; write an essay of at least 3 pages.
-</li><li>Send a story, poem, or art to one of our <a href="/fan-fiction/">zines</a>.
-</li></ol>
-<p>
-</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
-<p>
-</p><div class="center"><h2>After you have acquired 25 points, you may be Chosen.</h2></div>
-<p>
-</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
-<p>
-</p><h2>Special Notes for Heralds</h2>
-<p>
-</p><ul>
-<li>Stay within the rules of the Books.  For instance, White Companions only; No Grove-Born Companions.<p>
-</p></li><li>Your Companion can be of either sex.<p>
-</p></li><li>Be sure to list your Companion's name as well as the Gifts you rolled for!<p>
-</p></li><li>For General Rules, click <a href="/persona-handouts/#rules">here</a>.<p>
-</p></li><li>For Submission Instructions, click <a href="/persona-handouts/#submit">here</a>.<p>
-</p></li><li>For Helpful Hints, click <a href="/persona-handouts/#help">here</a>.
-</li></ul>
-<p>
-If you have additional questions, check out <a href="/heralds-faq/">The Heralds of Valdemar</a> FAQ.
-</p><p>
-</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
-<p>
-</p><h2>Advanced Rank</h2>
-<p>
+
+1. Write a story of more than 3 pages.
+2. Design a costume.
+3. Create a costume.
+4. Draw a picture of your character.
+5. Draw a picture of your "other" character(s) or Companion.
+6. Illustrate your story.
+7. Write a poem.
+8. Compose a song--music and/or lyrics.
+9. Attend martial arts classes.
+10. Draw a map.
+11. Learn CPR.
+12. Become a regular blood donor.
+13. Become a volunteer.
+14. Create an authentic recipe.
+15. Start a local [chapter of Queen's Own](/chapters/).
+16. Learn to ride.
+17. Learn the care and feeding of horses; write an essay of at least 3 pages.
+18. Send a story, poem, or art to one of our [zines](/fan-fiction/).
+
+<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
+
+## After you have acquired 25 points, you may be Chosen.
+
+<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
+
+## Special Notes for Heralds
+
+- Stay within the rules of the Books. For instance, White Companions only; No Grove-Born Companions.
+- Your Companion can be of either sex.
+- Be sure to list your Companion's name as well as the Gifts you rolled for!
+- For General Rules, click [here](/persona-handouts/#rules).
+- For Submission Instructions, click [here](/persona-handouts/#submit).
+- For Helpful Hints, click [here](/persona-handouts/#help).
+
+If you have additional questions, check out [The Heralds of Valdemar](/heralds-faq/) FAQ.
+
+<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
+
+## Advanced Rank
+
 There are several ways you can advance in rank as a Herald.
-</p><p>
-</p><h3>Specialties</h3>
-<p>
+
+### Specialties
+
 To attain a specialty as a Herald:
-</p><p>
-</p><ol>
-<li>Earn the points necessary to become a Herald.
-</li><li>Complete the requirements next to the specialty of your choice.
-<ul>
-<li><a id="teach" name="teach"></a>Teacher
-     <ul>
-<li>Law:  Write a 20-page paper on the real Legal topic of your choice.
-     </li><li>Weapons:  Earn a trophy, ribbon or other award in a major competition that involves weaponry.  (Something like fencing or archery.  The competition should be against at least another school, although state-wide, national and international competitions are grand &lt;g&gt;.)
-     </li><li>Logic:  Write a 20-page paper on deductive and inductive reasoning, what they are and how they relate to each other.
-     </li></ul>
-<p>
-</p></li><li><a id="message" name="message"></a>Messenger:  Write a 20-page paper about the history of the Pony Express or about the modern US Postal Service.
-<p>
-</p></li><li><a id="history" name="history"></a>Historian:  Write a 20-page paper on the real historical event of your choice.
-<p>
-<span class="c-red">Exception</span>:  If you already a teacher of history at the Elementary, Junior High or Senior High level, you may automatically claim Herald-Historian status.  However, please develop your Velgarth persona so others may interact with you in character.
-</p></li></ul>
-</li></ol>
-<p>
-</p><h3>Herald-Mage</h3>
-<p>
-You may work for <a href="/herald-mage-handout/">Herald-Mage</a> status once you've completed your Herald requirements.
-</p><p>
-</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml2.gif"/></a></div>
-<p>
-</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
-<p>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-</p>
-</div>
+
+1. Earn the points necessary to become a Herald.
+2. Complete the requirements next to the specialty of your choice.
+  - <a id="teach"></a>Teacher
+    - Law: Write a 20-page paper on the real Legal topic of your choice.
+    - Weapons: Earn a trophy, ribbon or other award in a major competition that involves weaponry. (Something like fencing or archery. The competition should be against at least another school, although state-wide, national and international competitions are grand \<g>.)
+    - Logic: Write a 20-page paper on deductive and inductive reasoning, what they are and how they relate to each other.
+  - <a id="message"></a>Messenger: Write a 20-page paper about the history of the Pony Express or about the modern US Postal Service.
+  - <a id="history"></a>Historian: Write a 20-page paper on the real historical event of your choice.
+    Exception: If you already a teacher of history at the Elementary, Junior High or Senior High level, you may automatically claim Herald-Historian status. However, please develop your Velgarth persona so others may interact with you in character.
+
+### Herald-Mage
+
+You may work for [Herald-Mage](/herald-mage-handout/) status once you've completed your Herald requirements.
+
+<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml2.gif"/></a>
+
+<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

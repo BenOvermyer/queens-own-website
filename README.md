@@ -3,9 +3,9 @@
 Zola source for the Queen's Own website, migrated from the hand-coded archive and
 organized into membership, personas, world reference, community, and publications.
 The original blue backgrounds, links, artwork, tables, text, and page anchors are
-preserved. Imported pages have TOML front matter and original HTML bodies inside
-Markdown files; this deliberately retains their presentation rather than converting
-the archive's complex layouts to Markdown tables. Shared templates live in `templates/`.
+preserved. Imported pages are TOML front matter plus Markdown; tables, images,
+`<dl>` lists, and named anchors stay HTML because Markdown has no equivalent for
+them. Shared templates live in `templates/`.
 
 ## Preview and build
 
@@ -101,15 +101,17 @@ then rerun the organizer, rebuild, and verify.
 
 ## HTML markup repair and audit
 
-The original pages contain malformed attribute quoting that a lenient parser turns
-into swallowed links and escaped markup. `scripts/markup_repairs.py` repairs those
-fragments in the raw archive bytes, and `scripts/markup_normalize.py` repairs invalid
-block-in-anchor nesting, heading order, and obsolete presentational markup
-(`font`, `center`, `align`, `border`, …) into shared classes defined in
-`static/css/site.css`. Both importers apply them before parsing, so a reimport does
-not restore the breakage; `python3 scripts/markup_normalize.py` can also be rerun over
-existing content. `scripts/audit_html.py` audits the preserved HTML for structural,
-presentational, and semantic problems and records a content-preservation baseline.
+The original pages contain malformed attribute quoting and unescaped `<` that a
+lenient parser turns into swallowed links, escaped markup, and bogus elements.
+`scripts/markup_repairs.py` repairs the quotes and broken fragments in the raw archive
+bytes; `scripts/markup_normalize.py` repairs nesting, headings, anchors, and pseudo-tags
+and then converts the page to Markdown via `scripts/html_to_markdown.py`; and
+`scripts/markup_destyle.py` turns the presentational markup that survives inside kept
+HTML (tables and images) into shared classes in `static/css/site.css`. Both importers
+run the full sequence, so a reimport emits the same Markdown;
+`python3 scripts/markup_normalize.py` reruns it over existing content.
+`scripts/audit_html.py` audits the remaining HTML for structural, presentational, and
+semantic problems and records a content-preservation baseline.
 `python3 scripts/audit_html.py --check` fails while unresolved structural errors
 remain, and `scripts/verify.py` runs it during deployment verification. Intentional
 exceptions are listed in `data/html-exceptions.json` and documented in

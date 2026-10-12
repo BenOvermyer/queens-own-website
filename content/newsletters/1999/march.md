@@ -16,94 +16,91 @@ publication_period = "March 1999"
 date_precision = "month"
 +++
 
-<div class="original-page">
-<span class="ff-bookman fs-4">
-</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
-<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
-<div class="center"><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></div>
-<div class="center"><h2>Series 2, Vol. I, No. 5<br/>
-March 13, 1999</h2></div>
-<p>
-<b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
-</p><p>
-[Begin Excerpt]
-</p><p>
-</p><div class="center"><img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/></div>
-<div class="center"><h2>The Official Mercedes Lackey Fan Club</h2></div>
-<p>
+**Queen's Own**
+
+Mercedes Lackey Fan Club
+
+## P.O. Box 749\
+Laguna Beach, CA 92652 USA
+
+## Series 2, Vol. I, No. 5\
+March 13, 1999
+
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+
+\[Begin Excerpt\]
+
+<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/>
+
+## The Official Mercedes Lackey Fan Club
+
 <img alt="Border Art" class="float-right" loading="lazy" src="/qo181.jpg"/><a href="http://www.amazon.com/exec/obidos/ASIN/0671578065/dragonlordsofdumA/"><img alt="Mark Shepherd, Lazerwarz" class="float-left" loading="lazy" src="/bk6.jpg"/></a> Available 5/99 from Baen Books:
-</p><p>
+
 Lazerwarz by Mark Shepherd the third in the Elvendude series.
-</p><p>
-From Fast Food to Fast Lasers--Dobie's ambitions didn't extend much past working in fast food--until the Lazerwarz arena came to town.  There he discovered the world of laser tag and, with it, a warrior's persona he never knew he possessed.  Then a goddess in disguise picks him up in a shiny red Corvette, and the fireworks really get started.
-</p><p>
-Just to recap what was in the last newsletter, I will be putting new releases from Josepha Sherman, Mark Shepherd and Holly Lisle, and, of course, Misty herself, in the newsletters from now on!  I've gotten good responses so far, so I'll keep the releases coming!
-</p><p>
+
+From Fast Food to Fast Lasers--Dobie's ambitions didn't extend much past working in fast food--until the Lazerwarz arena came to town. There he discovered the world of laser tag and, with it, a warrior's persona he never knew he possessed. Then a goddess in disguise picks him up in a shiny red Corvette, and the fireworks really get started.
+
+Just to recap what was in the last newsletter, I will be putting new releases from Josepha Sherman, Mark Shepherd and Holly Lisle, and, of course, Misty herself, in the newsletters from now on! I've gotten good responses so far, so I'll keep the releases coming!
+
 This just in!!! Do you like Fantasy and Science Fiction? Join the N3F and find fan�dom in your mailbox!
-</p><p>The National Fantasy Fan Federation is a general interest fan club whose members meet largely through correspondence, both regular and e-mail. It was founded more than 50 years ago when all types of imaginative literature, including science fiction, were called fantasy. The club's purpose is to bring together fans of every type and to provide a place where new fans can explore the diversity of fan�dom. They have 2 bi-monthly publications. One, <i>Tightbeam</i>, contains letters of comment, articles, book reviews and other fannish material. The other, <i>The Na�tional Fantasy. Fan</i>, contains club business and information about all the activities available within the club. Dues for this ultimate fantasy and science fiction club are [Ed. note 2003:  Out-of-date information withheld.]. For further information on N3F activities or membership, send a self-addressed stamped envelope to [Ed. note 2003:  Out-of-date information withheld.]. Their website is [Ed. note 2003:  Out-of-date information withheld.]. Join us, we would love to have you!
-</p><p>
-</p><div class="center">
+
+The National Fantasy Fan Federation is a general interest fan club whose members meet largely through correspondence, both regular and e-mail. It was founded more than 50 years ago when all types of imaginative literature, including science fiction, were called fantasy. The club's purpose is to bring together fans of every type and to provide a place where new fans can explore the diversity of fan�dom. They have 2 bi-monthly publications. One, *Tightbeam*, contains letters of comment, articles, book reviews and other fannish material. The other, *The Na�tional Fantasy. Fan*, contains club business and information about all the activities available within the club. Dues for this ultimate fantasy and science fiction club are \[Ed. note 2003: Out-of-date information withheld.\]. For further information on N3F activities or membership, send a self-addressed stamped envelope to \[Ed. note 2003: Out-of-date information withheld.\]. Their website is \[Ed. note 2003: Out-of-date information withheld.\]. Join us, we would love to have you!
+
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-top"><div class="center"><b><i>Happy 17th Birthday Tarah We love you Schmoo! Steve &amp; Kathi</i></b></div></td>
+<td class="align-left valign-top"><b><i>Happy 17th Birthday Tarah We love you Schmoo! Steve &amp; Kathi</i></b></td>
 <td class="align-left valign-top">A note from the editor:<p>
 I have recently found out that the address for <i>Stamps for Life</i> is no longer a valid address. If anyone has any information regarding this, please contact me. Thanks!</p></td>
 </tr>
 </table>
-</div>
-<p>
 
-Remember, the newsletter is now available in e-mail format for only [Ed. note 2003:  Out-of-date information withheld.], no matter where you are in the world. If you would like to change to e-mail format, either email me or mail me with your snail mail and your e-mail address!!
-</p><p>
-</p><div class="center">
+Remember, the newsletter is now available in e-mail format for only \[Ed. note 2003: Out-of-date information withheld.\], no matter where you are in the world. If you would like to change to e-mail format, either email me or mail me with your snail mail and your e-mail address!!
+
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-middle"><span class="fs-4">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268.
+<td class="align-left valign-middle">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268.
 To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
 <p>
 Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.
-</p></span></td>
+</p></td>
 </tr>
 <tr>
-<td class="align-left valign-middle"><span class="fs-4">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at <a href="mailto:tempest_rock@hotmail.com">tempest_rock@hotmail.com</a>.
+<td class="align-left valign-middle">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at <a href="mailto:tempest_rock@hotmail.com">tempest_rock@hotmail.com</a>.
 <tr>
-<td class="align-left valign-middle"><span class="fs-4">[Ed. note 2002:  Old text replaced with:  "For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
+<td class="align-left valign-middle">[Ed. note 2002:  Old text replaced with:  "For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 ".]
-</span></td></tr>
+</td></tr>
 <tr>
-<td class="align-left valign-middle"><span class="fs-4"><b>Flights of Fantasy</b> [Ed. note 2002:  Old contact information withheld.] specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002:  Old contact information withheld.]. Webpage <a href="http://www.fof.net">http://www.fof.net</a>, E-mail: <a href="mailto:fof@albany.net">fof@albany.net</a>. Flights of Fantasy accepts orders from inmates.
-</span></td>
+<td class="align-left valign-middle"><b>Flights of Fantasy</b> [Ed. note 2002:  Old contact information withheld.] specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002:  Old contact information withheld.]. Webpage <a href="http://www.fof.net">http://www.fof.net</a>, E-mail: <a href="mailto:fof@albany.net">fof@albany.net</a>. Flights of Fantasy accepts orders from inmates.
+</td>
 </tr>
 <tr>
-<td class="align-left valign-middle"><span class="fs-4"><i>Sink or Swim</i> is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: <a href="mailto:temarrea@Yahoo.com ">temarrea@Yahoo.com</a>, or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002:  Address withheld.].
-</span></td>
+<td class="align-left valign-middle"><i>Sink or Swim</i> is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: <a href="mailto:temarrea@Yahoo.com ">temarrea@Yahoo.com</a>, or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002:  Address withheld.].
+</td>
 </tr>
 <tr>
-<td class="align-left valign-middle"><span class="fs-4">Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&amp;W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002:  Ellen Million Graphics can now be found at <a href="http://www.ellenmilliongraphics.com">http://www.ellenmilliongraphics.com</a>.]. (Dealer inquiries welcome)
-</span></td>
+<td class="align-left valign-middle">Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&amp;W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002:  Ellen Million Graphics can now be found at <a href="http://www.ellenmilliongraphics.com">http://www.ellenmilliongraphics.com</a>.]. (Dealer inquiries welcome)
+</td>
 </tr>
 <tr>
-<td class="align-left valign-middle"><span class="fs-4">
+<td class="align-left valign-middle">
 <b>Personals</b>
 <p>
 [Ed. Note 2002:  Personals have been withheld from the online version of this newsletter because of the private information they contained.]
-</p></span></td>
+</p></td>
 </tr>
 <tr>
-<td class="align-left valign-middle"><span class="fs-4">
+<td class="align-left valign-middle">
 <b>Penpals</b>
 <p>
 [Ed. Note 2002:  Penpal notices have been withheld from the online version of this newsletter because of the private information they contained.]
-</p></span></td>
+</p></td>
 </tr>
-</span></td></tr></table>
-</div>
-<p class="align-left">
-</p><div class="center">
+</td></tr></table>
+
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-middle"><span class="fs-4">
+<td class="align-left valign-middle">
 <h2>LOCAL CHAPTERS</h2>
 <p>
 </p><p>
@@ -122,22 +119,21 @@ A slender woman, Healer Cinnamon, with long curly hair the colour of her name, s
 </p></li><li><b>On The Wing</b> costs $2.00, and is nearly 20 pages in length. This zine is completely dedicated to the Tayledras. I
 am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002:  Address withheld; no longer published.]<p>
 </p></li><li>Rea climbs up on her chair. "Okay guys, I didn't think that I'd be doing this again, but here I am. Y'all remember Golden Grove?, the CA Chapter QO newsletter? Well, since it's been dead a couple of years, I'm taking it over. The first issue was out. March first. Subscriptions cost 12 stamps/$4.00 for twelve issues. To all the old members: I've mailed flyers to y'all, but some of you have moved, and your forwarding has expired. Write me! No SASE needed, just legibly print your address on a sheet of paper. Write to GG c/o Aurora Nelson: [Ed. note 2003: Out-of-date address withheld.] or you can e-mail me at [Ed. note 2003: Out-of-date address withheld.]." Rea sits down at her desk and con�tinues working on the first new GG issue, hoping people will send submissions too!.
-</li></ul></span></td>
+</li></ul></td>
 </tr>
 <tr>
-<td class="align-left valign-middle"><span class="fs-4">
+<td class="align-left valign-middle">
 Again, no personas to recognize ... Makes one wonder ...
 <p>
 If information is needed to complete, start or finesse your persona, write me! I'm happy to be of service!
 </p><p>
-</p></span>
+</p>
 </td>
 </tr></table>
-</div>
-<p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-middle"><span class="fs-4"><h2>Other Fandoms</h2>
+<td class="align-left valign-middle"><h2>Other Fandoms</h2>
 <p>
 </p><ul>
 <li><b>Marion Zimmer Bradley�s Fantasy Magazine.</b> Open it up and find stories that transport you from everyday into a magical place populated by fantastic beings and governed by mystical forces. Four issues a year, [Ed. Note 2002:  Old info withheld.]<p>
@@ -150,49 +146,47 @@ If information is needed to complete, start or finesse your persona, write me! I
 </p></li><li><b>Pandemonium</b> - The official Melanie Rawn club invites you to join their ranks. SASE for more information:
 Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
 </p></li><li><b>Dragonlords of Dumnonia</b> - Contact L.A. Malcor at legend@oxy.edu or visit the website at <a href="http://wwww.dragonlordsnet.com">http://wwww.dragonlordsnet.com</a> for more information.
-</li></ul></span></td>
+</li></ul></td>
 </tr>
 </table>
-<p>
-[Ed. Note 2002:  Old pricing and contact information withheld.  See below.]
-</p><p>
+
+\[Ed. Note 2002: Old pricing and contact information withheld. See below.\]
+
 Next date is April 24, 1999. Deadline far submissions is April 17, 1999. The earlier the better folks.
-</p><p>
-Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to
-share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. [Ed. Note 2002:  Old address withheld.] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
-</p><p>
+
+Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. \[Ed. Note 2002: Old address withheld.\] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
+
 Last issue mailing day helper in December was Jason Hoff (If you would like to help on mailing day, please call me at 818l386/2063, all help is greatly appreciated!)
-</p><p>
+
 Border art - Holly Wedo
-</p><p>
-Editor and President - Robin Ready [Ed. Note 2002:  Contact info withheld.
-</p><p>
-[End Excerpt]
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
-</p><p>
+
+Editor and President - Robin Ready \[Ed. Note 2002: Contact info withheld.
+
+\[End Excerpt\]
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+
 Newsletters are published on (or near) the first of each month.
-</p><p>
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>)
-</p><p>
-The featured artist for this edition of the newsletter was uncredited.  If you have a clue whom it was, please contact Herald-Mage Adept Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.  If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA  92652.
-</p><p>
-Mercedes Lackey does not receive mail at the Queen's Own address.  Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
-</p><p>
-Mercedes Lackey<br/>
-c/o High Flight Arts and Letters <br/>
-P.O. Box 2970 <br/>
-Claremore, OK 74017</p><p>
+
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+
+The featured artist for this edition of the newsletter was uncredited. If you have a clue whom it was, please contact Herald-Mage Adept Danya at [Legend@malcor.com](mailto:Legend@malcor.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+
+Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
+
+Mercedes Lackey\
+c/o High Flight Arts and Letters\
+P.O. Box 2970\
+Claremore, OK 74017
+
 Zhai'helleva,
-</p><p>
+
 Herald-Mage Adept Danya Winterborn
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
-</p><p>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
+
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

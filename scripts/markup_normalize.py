@@ -1,24 +1,14 @@
 #!/usr/bin/env python3
-"""Normalize legacy HTML nesting in preserved content.
+"""Repair legacy HTML and convert the preserved content to Markdown.
 
-The hand-authored archive often nests block content inside inline anchors, for
-example a named-anchor idiom ``<a id="x"><h2>Title</h2></a>``, a table-of-contents
-link ``<a href="#s"><h3>Section</h3></a>``, or a stray ``<a>`` whose closing tag was
-lost so it wraps the rest of the page. ``normalize_soup`` repairs those:
-
-* a single heading inside an anchor moves the anchor inside the heading, or moves
-  the anchor's id onto the heading, so the heading stays a heading and the link or
-  anchor target is preserved;
-* any other block content inside an anchor is lifted back out after it, so the
-  anchor wraps only its inline text;
-* anchors with no target and no content are removed, and empty anchors keep their
-  text but lose the meaningless tag.
-
-Files listed in ``data/html-exceptions.json`` and files using the raw-text ``<xmp>``
-element (whose escaped contents must survive verbatim) are left untouched.
+`markup_normalize.run()` reads each preserved page, applies `markup_repairs`,
+`normalize_soup` (heading order, anchor nesting, duplicate ids, pseudo-tags), and
+`destyle_soup` (presentational markup inside retained HTML), then converts the body to
+Markdown with `html_to_markdown`. The raw-text `<xmp>` element becomes a fenced code
+block, and `data/html-exceptions.json` lists any pages to leave untouched (currently
+none).
 """
 import re
-from difflib import SequenceMatcher
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -83,6 +73,14 @@ def _unescape_unknown(soup):
 
 def normalize_soup(soup):
     """Repair heading order, block-in-anchor nesting, and empty anchors in place."""
+    seen_ids = set()
+    for element in soup.find_all(True):
+        for attribute in ('id', 'name'):
+            if element.has_attr(attribute):
+                if element[attribute] in seen_ids:
+                    del element[attribute]
+                else:
+                    seen_ids.add(element[attribute])
     normalize_headings(soup)
     _unescape_unknown(soup)
     for anchor in list(soup.find_all('a')):
@@ -122,52 +120,25 @@ def normalize_soup(soup):
     return soup
 
 
-def _protect_xmp(html):
-    """Replace <xmp> blocks with tokens so their escaped contents survive re-serialization."""
-    blocks = []
-
-    def replace(match):
-        blocks.append(match.group(0))
-        return f'@@XMP{len(blocks) - 1}@@'
-
-    return re.sub(r'<xmp\b.*?</xmp>', replace, html, flags=re.I | re.S), blocks
-
-
-def _restore_xmp(text, blocks):
-    for index, block in enumerate(blocks):
-        text = text.replace(f'@@XMP{index}@@', block)
-    return text
-
-
 def run():
-    """Apply markup repair, normalization, and destyling to every content document."""
+    """Convert preserved HTML content documents to Markdown."""
+    from html_to_markdown import convert
     changed = []
     for path in sorted((ROOT / 'content').rglob('*.md')):
         text = path.read_text()
         if '+++' not in text:
             continue
         front, html = text.split('+++', 2)[1:]
-        if '<' not in html:
+        if '<div class="original-page">' not in html:
             continue
-        protected, blocks = _protect_xmp(html)
-        soup = BeautifulSoup(protected, 'lxml')
-        before = str(soup)
-        repaired = BeautifulSoup(repair_markup(protected.encode()).decode(), 'lxml')
-        normalize_soup(repaired)
-        destyle_soup(repaired)
-        if str(repaired) == before:
-            continue
-        content = repaired.body.decode_contents() if repaired.body else str(repaired)
-        rendered = '+++' + front + '+++\n\n' + _restore_xmp(content, blocks).rstrip() + '\n'
-        original_lines = text.splitlines()
-        lines = [line.rstrip() for line in rendered.splitlines()]
-        matcher = SequenceMatcher(a=[line.rstrip() for line in original_lines], b=lines, autojunk=False)
-        for tag, start, end, new_start, new_end in matcher.get_opcodes():
-            if tag == 'equal':
-                lines[new_start:new_end] = original_lines[start:end]
-        path.write_text('\n'.join(lines).rstrip() + '\n')
+        soup = BeautifulSoup(repair_markup(html.encode()).decode(), 'lxml')
+        normalize_soup(soup)
+        destyle_soup(soup)
+        body = soup.body or soup
+        rendered = '+++' + front + '+++\n\n' + convert(body)
+        path.write_text(rendered)
         changed.append(path.relative_to(ROOT).as_posix())
-    print(f'Normalized {len(changed)} pages.')
+    print(f'Converted {len(changed)} pages to Markdown.')
     return changed
 
 

@@ -13,20 +13,18 @@ topic = "world"
 canonical_path = "/military-faq/"
 +++
 
-<div class="original-page">
-<span class="ff-harem">
-</span><div class="center"><h2>Military FAQ</h2></div>
-<div class="center"><h2>(Revised 2/5/02)</h2></div>
-<p>
-There are a variety of military-type characters on Velgarth.  The ones we know the most about are the Guard and the Mercenaries.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-</p><h2>Gifts:</h2>
-<p>
-Mercenaries, Guard recruits and common troopers might have a Gift of some sort.  All of these Gifts are extremely limited or at low strength, otherwise the character would have become a Healer, been Chosen as a Herald or wound up in some similar profession more appropriate to the Gift.  Here are the possible Gifts for a military persona:
-</p><p>
-</p><div class="center">
+## Military FAQ
+
+## (Revised 2/5/02)
+
+There are a variety of military-type characters on Velgarth. The ones we know the most about are the Guard and the Mercenaries.
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+## Gifts:
+
+Mercenaries, Guard recruits and common troopers might have a Gift of some sort. All of these Gifts are extremely limited or at low strength, otherwise the character would have become a Healer, been Chosen as a Herald or wound up in some similar profession more appropriate to the Gift. Here are the possible Gifts for a military persona:
+
 <table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>Fire Starting</td>
@@ -61,38 +59,35 @@ Mercenaries, Guard recruits and common troopers might have a Gift of some sort. 
 <td>This is that limited type that's useful on the battlefield.  You might sense a coming shift in battle in time to meet it or to get your unit out of the way of something they won't survive.  You are not going to ForeSee a war that will happen five years in the future.  Most people with this type of Gift can only see something an hour or less before it happens.</td>
 </tr>
 </table>
-</div>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-</p><h2>Valdemar's Guard</h2>
-<p>
-Members of the Guard wear blue uniforms.  Members of the Palace Guard wear Royal Blue.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-</p><h2>Mercenaries</h2>
-<p>
-Mercenaries are organized into "companies" that are stationed at various places.  The companies we know about are:
-</p><p>
-</p><ul>
-<li>Bornam's Bastards
-</li><li>Devaril's Demons
-</li><li>Doomslayers
-</li><li>Hooters
-</li><li>Randel's Riders
-</li><li>Skybolts
-</li><li>Staferd's Cold Drakes
-</li><li>Sunhawks
-</li><li>Wolflings
-</li><li>Wolfstone's Pack
-</li></ul>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-</p><h2>Other FAQs for the Military Handout</h2>
-<p>
-</p><dl>
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+## Valdemar's Guard
+
+Members of the Guard wear blue uniforms. Members of the Palace Guard wear Royal Blue.
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+## Mercenaries
+
+Mercenaries are organized into "companies" that are stationed at various places. The companies we know about are:
+
+- Bornam's Bastards
+- Devaril's Demons
+- Doomslayers
+- Hooters
+- Randel's Riders
+- Skybolts
+- Staferd's Cold Drakes
+- Sunhawks
+- Wolflings
+- Wolfstone's Pack
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+## Other FAQs for the Military Handout
+
+<dl>
 <dt><b>What qualifies as "heavy weapons" fighting?</b><p></p></dt>
 <dd>The Society for Creative Anachronism (S.C.A.) combat or another discipline, such as Kendo, would be appropriate. Other forms of armed combat would have to have similar training requirements to these to be considered. Modern saber-style fencing would be acceptable, for instance, but foil fencing would not.<p></p></dd>
 <dt><b>How do I get training in heavy weapons fighting?</b><p></p></dt>
@@ -104,13 +99,7 @@ P.O. Box 360743<br/>
 Milpitas, CA 95036-0743</p><p>
 or online at <a href="http://www.sca.org">http://www.sca.org</a>.</p><p></p></dd>
 </dl>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
-<p>
-<span class="ff-harem">
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-<p>
-<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></span>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/barcastl.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)\ [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)\

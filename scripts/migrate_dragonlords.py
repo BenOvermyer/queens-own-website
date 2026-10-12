@@ -10,6 +10,7 @@ import tomllib
 from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
+from html_to_markdown import convert
 from inventory_dragonlords import INTERNAL_HOSTS
 from markup_destyle import destyle_soup
 from markup_normalize import normalize_soup
@@ -247,9 +248,9 @@ def migrate(source):
         front += '+++\n\n'
         destination = ROOT / 'content' / (site_routes[name]['content_file'] if name in site_routes else 'imported-' + route.strip('/').replace('/', '--') + '.md')
         destination.parent.mkdir(parents=True, exist_ok=True)
-        rendered = front + '<div class="original-page">\n' + body.decode_contents().strip() + '\n</div>\n'
+        rendered = front + convert(body)
         for old_name, new_route in selected.items():
-            rendered = re.sub(r'https?://(?:www\.)?(?:dragonlords\.fans|dragonlordsnet\.com)/' + re.escape(old_name) + r'(?=[#?"\s<>]|$)', new_route, rendered)
+            rendered = re.sub(r'https?://(?:www\.)?(?:dragonlords\.fans|dragonlordsnet\.com)/' + re.escape(old_name) + r'(?=[#?"\s<>)]|$)', new_route, rendered)
         destination.write_text('\n'.join(line.rstrip() for line in rendered.splitlines()) + '\n')
     # Rewrite only links to imported resources in existing club pages.
     count = 0
@@ -261,7 +262,7 @@ def migrate(source):
         text = path.read_text()
         updated = text
         for name, route in selected.items():
-            updated, n = re.subn(r'https?://(?:www\.)?(?:dragonlords\.fans|dragonlordsnet\.com)/' + re.escape(name) + r'(?=[#?"\s<>]|$)', route, updated)
+            updated, n = re.subn(r'https?://(?:www\.)?(?:dragonlords\.fans|dragonlordsnet\.com)/' + re.escape(name) + r'(?=[#?"\s<>)]|$)', route, updated)
             count += n
         if ('legacy_source = "qochap.htm"' in updated or path.name == 'qochap.htm.md') and 'qogg.htm' in updated:
             front, html = updated.split('+++', 2)[1:]

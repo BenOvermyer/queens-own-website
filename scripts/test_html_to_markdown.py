@@ -1,0 +1,62 @@
+"""Tests for the HTML-to-Markdown content conversion."""
+import unittest
+
+from html_to_markdown import convert
+
+
+def md(html):
+    return convert(html).strip()
+
+
+class ConvertTests(unittest.TestCase):
+    def test_headings_and_paragraphs(self):
+        self.assertEqual(md('<div><h2>Title</h2><p>Body text.</p></div>'),
+                         '## Title\n\nBody text.')
+
+    def test_bold_italic_and_hard_break(self):
+        self.assertEqual(md('<p>a <b>bold</b> <i>it</i><br/>next</p>'),
+                         'a **bold** *it*\\\nnext')
+
+    def test_unordered_and_ordered_lists(self):
+        self.assertEqual(md('<ul><li>one</li><li>two</li></ul>'), '- one\n- two')
+        self.assertEqual(md('<ol><li>one</li><li>two</li></ol>'), '1. one\n2. two')
+
+    def test_loose_list_content_is_preserved(self):
+        self.assertEqual(md('<ul><li>one</li>stray<b>two</b><li>three</li></ul>'),
+                         '- one\n- stray**two**\n- three')
+
+    def test_links_convert_to_markdown(self):
+        self.assertEqual(md('<p><a href="/here/">Here</a></p>'), '[Here](/here/)')
+        self.assertEqual(md('<p><a href="mailto:a@b.com">a@b.com</a></p>'),
+                         '[a@b.com](mailto:a@b.com)')
+
+    def test_named_anchor_stays_html(self):
+        self.assertEqual(md('<h2 id="s">Section</h2>'), '<a id="s"></a>\n\n## Section')
+        self.assertEqual(md('<p><a name="x"></a>text</p>'), '<a id="x"></a>text')
+
+    def test_image_only_link_stays_html(self):
+        self.assertEqual(md('<p><a href="/go/"><img src="a.gif" alt=""/></a></p>'),
+                         '<a href="/go/"><img alt="" src="a.gif"/></a>')
+
+    def test_image_stays_html(self):
+        self.assertEqual(md('<p>see <img src="a.gif" alt="a"/> now</p>'),
+                         'see <img alt="a" src="a.gif"/> now')
+
+    def test_table_stays_html_without_presentational_wrappers(self):
+        out = md('<table border="2"><tr><td><span class="fs-4">x</span></td></tr></table>')
+        self.assertTrue(out.startswith('<table'))
+        self.assertNotIn('span', out)
+        self.assertIn('<td>x</td>', out)
+
+    def test_pre_and_xmp_become_code_blocks(self):
+        self.assertEqual(md('<xmp>&lt;a href="/"&gt;</xmp>'), '```\n<a href="/">\n```')
+
+    def test_div_center_and_presentational_tags_are_dropped(self):
+        self.assertEqual(md('<center><span class="c-red"><u>x</u></span></center>'), 'x')
+
+    def test_unescaped_pseudo_tag_is_literal_text(self):
+        self.assertEqual(md('<p>grin <g> more</p>'), 'grin \\<g>more')
+
+
+if __name__ == '__main__':
+    unittest.main()

@@ -16,75 +16,45 @@ publication_period = "May 1999"
 date_precision = "month"
 +++
 
-<div class="original-page">
-<span class="ff-bookman fs-4">
-</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
-<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
-<div class="center"><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></div>
-<div class="center"><h2>Series 2, Vol. I, No. 6<br/>
-May 13, 1999</h2></div>
-<p>
-<b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
-</p><p>
-[Begin Excerpt]
-</p><p>
-</p><div class="center"><img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/></div>
-<div class="center"><h2>The Official Mercedes Lackey Fan Club</h2></div>
-<p>
-<img alt="Misty with her race car at Hallett Motor Racing Circuit Hallett, Oklahoma" class="float-left" loading="lazy" src="/qo111.jpg"/><img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo112.jpg"/>
-Just got word from Firebird that "Black Swan" is out in hardback. The cost is $24.95 + s/h. Firebird�s address and website are listed
-on page 2 of this newsletter. Black Swan will be the feature for the next Newsletter.
-This latest from Misty was found on the High Flight website, under the link
-"Update" Thanks Matt!!!!!!!!!!!!!!!!!!!!!!
-</p><p>
-So, here is what's been going on lately in the life of the High Flight Family: Just in time for the New Year, I finished a big stand-alone novel for DAW Books, called <i>The Black Swan</i>. It is the story also told in the ballet "Swan
-Lake," but from the viewpoint of the character Odile von Rothbart. Eric Von Rothbart is a sorcerer who has imprisoned a large number of young women, keeping them in the shape of swans and only allowing them to assume their
-true forms by moonlight. His daughter Odile (the "Black Swan" of the title), a would-be magician herself,
-serves her father as their keeper. His "reason" for so imprisoning them is that he is punishing them for
-their sins---each of them has, in some way, betrayed a man who depended on her. One night Odette, the
-highest ranking of the flock and hence their "Queen" challenges him for his right to continue to imprison
-them, and learns that if she can win the love and faith of a man who knows her entire story, she can win
-freedom not only for herself but for the entire flock.
-</p><p>
-Unfortunately, if that man in turn betrays her troth, they will be in Von Rothbart's keeping forever.
-The cover by Jody Lee is her best ever! I spent a lot of time developing the characters; ballet is pri-marily
-about the dancing, so the characters were rather flat. I hope all of you will enjoy it.
-</p><p>
-I am also working on the next "Elvenbane" book for Tor, <i>Elvenborn</i>, which I hope to have fin-ished
-by the end of February.
-</p><p>
-Another short story collection will be coming out in April of 1999 from Baen Books, called Werehunter,
-which will have all of the "Skitty" stories as well as two stories set in Victorian England. The
-first, "Grey", most of you will not have seen as it only appeared in two places, a magazine called
-"Sally Blanchard's Pet Bird Report" for parrot-keepers, and in <i>Marion Zimmer Bradley's Fantasy Magazine</i>.
-The second, "Grey's Ghost" has not been seen at all; it is a brand new novella about the same characters.
-</p><p>
-Believe it or not, I actually have time for some hobbies. I just entered a contest sponsored by
-"Barbie(TM) Bazaar" magazine for Barbie(TM) makeovers. I entered a set of two dolls as a single entry
-in the first Barbie(TM) Bazaar Makeover Artist Awards. I put together Teresa(TM) as Tarma, Barbie(TM) as Kethry, with their warsteeds Ironheart and Hellsbane, and Warrl. The horses come complete with baggage including camping gear and Tarma's Basket'o'Mayhem. I had a lot of fun doing these dolls, which will be put up for auction after I get them back; I entered them in the "Fantasy" category, and I hope that people like them.
-</p><p>
-I have also put together another batch of goodies for the Firebird Arts and Music ongoing online
-auction, to support Irene Pepperberg's research, the Alex Foundation. Lots of jewelry this time; I made a
-great deal of jewelry for Christmas gifts (and for myself) and I basically just kept putting things
-together until I ran out of components, then decided what pieces best suited what recipient. I had plenty
-left afterwards for the auction. My auction-destined cross-stitching has had to go on the back burner because
-I am embroidering a Southwestern style tablecloth and set of sixteen napkins for my mom for her
-birthday. Whew! It's a long project, like fencing in the entire state!
-</p><p>
-For those of you who enjoy cross-stitch, I would like to recommend a site I just found, called Uncharted
-Territory, which features the art of Art Nouveau artist Alphonse Mucha!
-</p><p>
-For those of you who want to create "medieval-style" Valdemar costumes, both Simplicity and
-McCall patterns now have medieval costume patterns for men and women---you ought to be able to get
-plenty of Herald, Healer and Bard costumes out of those! And for those who are more ambitious, Harper
-House has a pattern called "The Artistic Reform Gown" which in all its variations gives you a wonderful
-Pre-Raphaelite look for super-romantic costumes. Buy these now, in all the sizes you might need in the
-future, for I know by experience that patterns don't stay in print for very long.
-</p><p>
+**Queen's Own**
+
+Mercedes Lackey Fan Club
+
+## P.O. Box 749\
+Laguna Beach, CA 92652 USA
+
+## Series 2, Vol. I, No. 6\
+May 13, 1999
+
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+
+\[Begin Excerpt\]
+
+<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/>
+
+## The Official Mercedes Lackey Fan Club
+
+<img alt="Misty with her race car at Hallett Motor Racing Circuit Hallett, Oklahoma" class="float-left" loading="lazy" src="/qo111.jpg"/><img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo112.jpg"/> Just got word from Firebird that "Black Swan" is out in hardback. The cost is $24.95 + s/h. Firebird�s address and website are listed on page 2 of this newsletter. Black Swan will be the feature for the next Newsletter. This latest from Misty was found on the High Flight website, under the link "Update" Thanks Matt!!!!!!!!!!!!!!!!!!!!!!
+
+So, here is what's been going on lately in the life of the High Flight Family: Just in time for the New Year, I finished a big stand-alone novel for DAW Books, called *The Black Swan*. It is the story also told in the ballet "Swan Lake," but from the viewpoint of the character Odile von Rothbart. Eric Von Rothbart is a sorcerer who has imprisoned a large number of young women, keeping them in the shape of swans and only allowing them to assume their true forms by moonlight. His daughter Odile (the "Black Swan" of the title), a would-be magician herself, serves her father as their keeper. His "reason" for so imprisoning them is that he is punishing them for their sins---each of them has, in some way, betrayed a man who depended on her. One night Odette, the highest ranking of the flock and hence their "Queen" challenges him for his right to continue to imprison them, and learns that if she can win the love and faith of a man who knows her entire story, she can win freedom not only for herself but for the entire flock.
+
+Unfortunately, if that man in turn betrays her troth, they will be in Von Rothbart's keeping forever. The cover by Jody Lee is her best ever! I spent a lot of time developing the characters; ballet is pri-marily about the dancing, so the characters were rather flat. I hope all of you will enjoy it.
+
+I am also working on the next "Elvenbane" book for Tor, *Elvenborn*, which I hope to have fin-ished by the end of February.
+
+Another short story collection will be coming out in April of 1999 from Baen Books, called Werehunter, which will have all of the "Skitty" stories as well as two stories set in Victorian England. The first, "Grey", most of you will not have seen as it only appeared in two places, a magazine called "Sally Blanchard's Pet Bird Report" for parrot-keepers, and in *Marion Zimmer Bradley's Fantasy Magazine*. The second, "Grey's Ghost" has not been seen at all; it is a brand new novella about the same characters.
+
+Believe it or not, I actually have time for some hobbies. I just entered a contest sponsored by "Barbie(TM) Bazaar" magazine for Barbie(TM) makeovers. I entered a set of two dolls as a single entry in the first Barbie(TM) Bazaar Makeover Artist Awards. I put together Teresa(TM) as Tarma, Barbie(TM) as Kethry, with their warsteeds Ironheart and Hellsbane, and Warrl. The horses come complete with baggage including camping gear and Tarma's Basket'o'Mayhem. I had a lot of fun doing these dolls, which will be put up for auction after I get them back; I entered them in the "Fantasy" category, and I hope that people like them.
+
+I have also put together another batch of goodies for the Firebird Arts and Music ongoing online auction, to support Irene Pepperberg's research, the Alex Foundation. Lots of jewelry this time; I made a great deal of jewelry for Christmas gifts (and for myself) and I basically just kept putting things together until I ran out of components, then decided what pieces best suited what recipient. I had plenty left afterwards for the auction. My auction-destined cross-stitching has had to go on the back burner because I am embroidering a Southwestern style tablecloth and set of sixteen napkins for my mom for her birthday. Whew! It's a long project, like fencing in the entire state!
+
+For those of you who enjoy cross-stitch, I would like to recommend a site I just found, called Uncharted Territory, which features the art of Art Nouveau artist Alphonse Mucha!
+
+For those of you who want to create "medieval-style" Valdemar costumes, both Simplicity and McCall patterns now have medieval costume patterns for men and women---you ought to be able to get plenty of Herald, Healer and Bard costumes out of those! And for those who are more ambitious, Harper House has a pattern called "The Artistic Reform Gown" which in all its variations gives you a wonderful Pre-Raphaelite look for super-romantic costumes. Buy these now, in all the sizes you might need in the future, for I know by experience that patterns don't stay in print for very long.
+
 That's all for now; everyone keep well and safe in the new year! Yours, Mercedes Lackey
-</p><p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-middle">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268. To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses. Also new from Firebird is an email list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.</td>
 </tr>
@@ -109,8 +79,8 @@ That's all for now; everyone keep well and safe in the new year! Yours, Mercedes
 </td>
 </tr>
 </table>
-<p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-middle"><b>PERSONALS</b> - for the time being, personals will be "free". I would like to see more of these please.
 <p>
@@ -121,22 +91,22 @@ love than I can. He�s available for $40 or best offer. Please write to Jaila S
 [Ed. Note 2002:  The remainder of the Personals have been withheld from the online version of the newsletter.]</p></td>
 </tr>
 </table>
-<p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-middle"><b>PEN-PALS</b>. A sample copy of the newsletter is sent to anyone who requests it. The newsletter is routinely sent to prisons. If you are concerned about your address falling into unfriendly hands don�t place a pen-pal message! You may answer messages without ever placing one yourself.
 <p>
 [Ed. Note 2002:  The Pen-Pal messages have been withheld from the online version of the newsletter.]</p></td>
 </tr>
 </table>
-<p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-middle"><b>NOTICE</b> ~ I would like to see a new logo or letterhead for Queen�s Own. I know that there are lots of creative minds in this club and I would like to see what you can come up with. Full credit will go to the artist as usual. The logo/letterhead must contain "Queen�s Own - Merging of the Ways". Winner will receive a full year subscription FREE! Please send to the QO PO Box, and mark the envelope "Logo". Thanks in advance for your participation. Deadline for submissions is August 1, 1999.</td>
 </tr>
 </table>
-<p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-middle"><h2>LOCAL CHAPTERS</h2>
 <p>
@@ -158,8 +128,8 @@ am also accepting submissions, stories, art, poetry, etc. Please contact me at: 
 </li></ul></td>
 </tr>
 </table>
-<p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-middle">A word from the President: I�m sorry that my replies have not been very quick lately. I, like Judith, put family crises before QO-MTW. Lately, there have been a few. My husband needs surgery for possible cancer, our 7 month old kitten was put down, our 11 year old cat has possible kidney failure and my hamster is pregnant! Hopefully, life will calm down now and I can get caught up and remain that way. Thanks for your understanding.</td>
 </tr>
@@ -171,8 +141,8 @@ Also, as a new touch, I would like to have member artwork to include in a gift p
 Your editor and president ~ Robin</p></td>
 </tr>
 </table>
-<p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-middle"><h2>Charities, Auctions and others ~</h2>
 The auction for the Alex Foundation, as far as I know the only auction in town that can boast hand made items by
@@ -180,18 +150,18 @@ Misty herself cloaes on 4/30/99. The auction can be found from Firebird Arts &am
 www.firebirdarts.com). All proceeds go to aid the Alex foundation. For more information visit Firebird!</td>
 </tr>
 </table>
-<p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-middle">I have about 5 personas to recognize, but with life being so hectic lately, I�ve not had time to read them yet. There
 should be a few in the next newsletter. If you wish to have a recognized persona and need the guidelines, please
 email or write me and I�ll be happy to send you what you need.</td>
 </tr>
 </table>
-<p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-middle"><span class="fs-4"><h2>Other Fandoms</h2>
+<td class="align-left valign-middle"><h2>Other Fandoms</h2>
 <p>
 </p><ul>
 <li><b>Marion Zimmer Bradley�s Fantasy Magazine.</b> Open it up and find stories that transport you from everyday into a
@@ -206,50 +176,47 @@ magical place populated by fantastic beings and governed by mystical forces. Fou
 </p></li><li><b>Pandemonium</b> - The official Melanie Rawn club invites you to join their ranks. SASE for more information:
 Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
 </p></li><li><b>Dragonlords of Dumnonia</b> - Contact L.A. Malcor at legend@oxy.edu or visit the website at <a href="http://wwww.dragonlordsnet.com">http://wwww.dragonlordsnet.com</a> for more information.
-</li></ul></span></td>
+</li></ul></td>
 </tr>
 </table>
-<p>
-[Ed. Note 2002:  Old pricing and contact information withheld.  See below.]
-</p><p>
+
+\[Ed. Note 2002: Old pricing and contact information withheld. See below.\]
+
 Next mailing date is June 5, 1999. Deadline for submissions is May 21, 1999. The earlier the better.
-</p><p>
-Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to
-share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. [Ed. Note 2002:  Old address withheld.] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
-</p><p>
-Last issue mailing day helper in March was Jason Hoff. (If you would like to help on mailing day, please call
-me at [Ed. Note 2002: Phone withheld.], all help is greatly appreciated!)
-</p><p>
+
+Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. \[Ed. Note 2002: Old address withheld.\] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
+
+Last issue mailing day helper in March was Jason Hoff. (If you would like to help on mailing day, please call me at \[Ed. Note 2002: Phone withheld.\], all help is greatly appreciated!)
+
 Border art - Herald Alora.
-</p><p>
-Editor and President - Robin Ready [Ed. Note 2002:  Contact info withheld.
-</p><p>
-[End Excerpt]
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
-</p><p>
+
+Editor and President - Robin Ready \[Ed. Note 2002: Contact info withheld.
+
+\[End Excerpt\]
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+
 Newsletters are published on (or near) the first of each month.
-</p><p>
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>)
-</p><p>
-The featured artist for this edition of the newsletter is Herald Alora.  If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA  92652.
-</p><p>
-Mercedes Lackey does not receive mail at the Queen's Own address.  Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
-</p><p>
-Mercedes Lackey<br/>
-c/o High Flight Arts and Letters <br/>
-P.O. Box 2970 <br/>
-Claremore, OK 74017</p><p>
+
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+
+The featured artist for this edition of the newsletter is Herald Alora. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+
+Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
+
+Mercedes Lackey\
+c/o High Flight Arts and Letters\
+P.O. Box 2970\
+Claremore, OK 74017
+
 Zhai'helleva,
-</p><p>
+
 Herald-Mage Adept Danya Winterborn
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
-</p><p>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
+
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

@@ -14,32 +14,23 @@ topic = "community"
 canonical_path = "/science-and-magic-tricks/"
 +++
 
-<div class="original-page">
-<span class="ff-harem">
-</span><div class="center"><h2>Magic Spells</h2></div>
-<div class="center"><h3>or</h3></div>
-<div class="center"><h2>Fun Things You, Too, Can Do with Science</h2></div>
-<div class="center"><h2>(Revised 10/15/98)</h2></div>
-<p>
-As part of my Herald-Mage training, I've been learning a lot of magic
-tricks and learning how to debunk "miracles" and "magic" as keen illusions
-with perfectly rational scientific explanations.  So I thought I'd compile
-a list of some of the neater little effects I ran across.  (No, these aren't
-the ones on the <a href="/herald-mage-handout/">Herald-Mage sheet</a>.  Those you
-have to find a way to learn for yourself.)  If you know of any illusions
-like this, though, message me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
-<p>
-<span class="ff-harem">
-<h2>Cantrips</h2>
-</span>
-</p><p>
-Cantrips are useful little spells that apprentices learn when they begin
-to work with magic.  These are illusions that are particularly entertaining
-for children.
-</p><p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+## Magic Spells
+
+### or
+
+## Fun Things You, Too, Can Do with Science
+
+## (Revised 10/15/98)
+
+As part of my Herald-Mage training, I've been learning a lot of magic tricks and learning how to debunk "miracles" and "magic" as keen illusions with perfectly rational scientific explanations. So I thought I'd compile a list of some of the neater little effects I ran across. (No, these aren't the ones on the [Herald-Mage sheet](/herald-mage-handout/). Those you have to find a way to learn for yourself.) If you know of any illusions like this, though, message me at [Legend@malcor.com](mailto:Legend@malcor.com).
+
+<img alt="" loading="lazy" src="/barstar.gif"/>
+
+\ ## Cantrips\
+
+Cantrips are useful little spells that apprentices learn when they begin to work with magic. These are illusions that are particularly entertaining for children.
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <th class="align-center valign-middle" colspan="2"><h2>Rainbow Swirl</h2></th>
 </tr>
@@ -74,8 +65,8 @@ are able to swirl together.</td>
 <td>You can find this trick explained in the October 1998 issue of <a href="http://www.parents.com/cgi-bin/WebObjects/Parents/PM">Parents Magazine</a>, p. 134.</td>
 </tr>
 </table>
-<p>
-</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <th class="align-center valign-middle" colspan="2"><h2>Magic Potions</h2></th>
 </tr>
@@ -127,10 +118,5 @@ the ingredient is and how much you add determines how much the color changes.</t
 <td>You can find this trick explained in the October 1998 issue of <a href="http://www.parents.com/cgi-bin/WebObjects/Parents/PM">Parents Magazine</a>, p. 134.</td>
 </tr>
 </table>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/rainbar.gif" style="width:800px; height:7px"/></div>
-<p>
-<span class="ff-harem">
-</span>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/rainbar.gif" style="width:800px; height:7px"/>

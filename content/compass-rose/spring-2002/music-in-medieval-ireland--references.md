@@ -14,103 +14,65 @@ topic = "publications"
 canonical_path = "/compass-rose/spring-2002/music-in-medieval-ireland/references/"
 +++
 
-<div class="original-page">
-<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td> <td style="width:35%"> </td> </tr> </table>\ ---\ \ \ \ \
+
+## Sources of Information on Music in Medieval Ireland
+
+### by
+
+## [Laura Felton](mailto:hrldryha@yahoo.com)
+
+## Notes and References
+
+### Notes
+
+1. <a id="note1"></a>For instance, the medieval horn made of yew with bronze from Lough Erne, Co. Fermanagh, circa 700-800 AD ([Buckley 2000:172](/compass-rose/spring-2002/music-in-medieval-ireland/references/#buckley2)).
+2. <a id="note2"></a>For an example of what a medieval *cruit* might have looked like, see Altramar [1999: Inside front cover](/compass-rose/spring-2002/music-in-medieval-ireland/references/#altramar).
+3. <a id="note3"></a>An example of a late medieval Irish harp (Trinity College harp, circa 14th c.), see Rimmer [1969:32](/compass-rose/spring-2002/music-in-medieval-ireland/references/#rimmer).
+4. <a id="note4"></a>For the "earliest illustration of a trilateral harp, on Breac Maedoic (The Shrine of St Mogue)" (stone work harper, circa 1100 AD), see [Buckley 2000:168](/compass-rose/spring-2002/music-in-medieval-ireland/references/#buckley2).
+5. <a id="note5"></a>A secular banquet in medieval Ireland, depicts a harper seated on the ground on the far right (woodcut: harper and reciter; circa 1581 AD; [Buckley 2000:174](/compass-rose/spring-2002/music-in-medieval-ireland/references/#buckley2)).
+
+<a id="ref"></a>
+
+### References Cited
+
+<a id="altramar"></a><a id="alramar"></a> Altramar. *Liner Notes to Crossroads of the Celts*. New York: Dorian, DOR-93177, 1999.
+
+<a id="buckley1"></a> Buckley, Ann. "'and his voice swelled like a terrible thunderstorm . . .'" *Irish Musical Studies*. (1995): 13-76
+
+<a id="buckley2"></a> Buckley, Ann. "Music and Musicians in Medieval Irish Society." *Early Music*. XXVIII/2 (May 2000): 165-190.
+
+<a id="buckley3"></a> Buckley, Ann. "Music in medieval Irish society." *Harpa: Internationales Harfen-Journal*. 11/1993. 19-31.
+
+<a id="depaor"></a> De Paor, Maire, and Liam De Paor. *Early Christian Ireland*. New York: Frederick A. Praeger, Inc., 1958.
+
+<a id="flood"></a> Flood, Wm. H. Grattan. *A History of Irish Music*. Dublin: Browne and Nolan Ltd., 1905.
+
+<a id="hamilton"></a> Hamilton, Noel. "'Ancient' Irish Music." *Proceedings of the first North American Congress of Celtic Studies*. (March, 1986): 283-291.
+
+<a id="harrison"></a> Harrison, Alan. "Tricksters and Entertainers in the Irish Tradition." *Proceedings of the first North American Congress of Celtic Studies*. (March, 1988): 293-307.
+
+<a id="cailin"></a><a id="caillin"></a> Hennessy, W.M., and D.H. Kelly, eds. and trans. St. Caillin. *Book of Fenagh*. Dublin: Alexander Thom, 1875.
+
+<a id="joyce"></a> Joyce, P.W. *A Social History of Ancient Ireland*. Dublin: M. H. Gill & Son, Ltd., 1920.
+
+<a id="gerald"></a> O'Meara, John, trans. Gerald of Wales. *The History and Topography of Ireland*. England: Penguin Books, 1982.
+
+<a id="richter1"></a> Richter, Michael. *The Formation of the Medieval West*. New York: St. Martin's Press, 1994.
+
+<a id="richter"></a><a id="richter2"></a> Richter, Michael. *Medieval Ireland: The Enduring Tradition*. New York: St. Martin's Press, 1988.
+
+<a id="rimmer"></a> Rimmer, Joan. *The Irish Harp*. Boston: Cresendo Pub. Co., 1969.
+
+<a id="sayers"></a> Sayers, William. "The Bound and the Binding: The Lyre in Early Ireland." *Proceedings of the first North American Congress of Celtic Studies*. (March, 1986): 365-385.
+
 <table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
-<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></span></td>
-<td style="width:35%"> </td>
-</tr>
+<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/arthurian-tales/">Next</a></td>
+<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></td>
+<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/about/">Return to homepage</a></td></tr>
 </table>
-<hr/>
-<p>
-</p><p>
-</p></span><div class="center"><h2>Sources of Information on Music in Medieval Ireland</h2></div>
-<p>
-</p><div class="center"><h3>by</h3></div>
-<p>
-</p><div class="center"><h2><a href="mailto:hrldryha@yahoo.com">Laura Felton</a></h2></div>
-<p>
-</p><div class="center"><h2>Notes and References</h2></div>
-<p>
-</p><h3>Notes</h3>
-<p>
-</p><ol>
-<li><a id="note1" name="note1"></a>For instance, the medieval horn made of yew with bronze from Lough Erne, Co. Fermanagh, circa 700-800 AD (<a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#buckley2">Buckley 2000:172</a>).<p>
-</p></li><li><a id="note2" name="note2"></a>For an example of what a medieval <i>cruit</i> might have looked like, see Altramar <a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#altramar">1999: Inside front cover</a>.<p>
-</p></li><li><a id="note3" name="note3"></a>An example of a late medieval Irish harp (Trinity College harp, circa 14th c.), see Rimmer <a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#rimmer">1969:32</a>.<p>
-</p></li><li><a id="note4" name="note4"></a>For the "earliest illustration of a trilateral harp, on Breac Maedoic (The Shrine of St Mogue)" (stone work harper, circa 1100 AD), see <a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#buckley2">Buckley 2000:168</a>.<p>
-</p></li><li><a id="note5" name="note5"></a>A secular banquet in medieval Ireland, depicts a harper seated on the ground on the far right (woodcut: harper and reciter; circa 1581 AD; <a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#buckley2">Buckley 2000:174</a>).<p>
-</p></li></ol>
-<p>
-</p><h3 id="ref">References Cited</h3>
-<p>
-<a id="altramar"></a><a id="alramar" name="alramar"></a>
-Altramar. <i>Liner Notes to Crossroads of the Celts</i>. New York: Dorian, DOR-93177, 1999.
-</p><p>
-<a id="buckley1" name="buckley1"></a>
-Buckley, Ann. "'and his voice swelled like a terrible thunderstorm . . .'" <i>Irish Musical Studies</i>.  (1995): 13-76
-</p><p>
-<a id="buckley2" name="buckley2"></a>
-Buckley, Ann. "Music and Musicians in Medieval Irish Society." <i>Early Music</i>. XXVIII/2 (May 2000): 165-190.
-</p><p>
-<a id="buckley3" name="buckley3"></a>
-Buckley, Ann. "Music in medieval Irish society." <i>Harpa: Internationales Harfen-Journal</i>. 11/1993. 19-31.
-</p><p>
-<a id="depaor" name="depaor"></a>
-De Paor, Maire, and Liam De Paor. <i>Early Christian Ireland</i>. New York: Frederick A. Praeger, Inc., 1958.
-</p><p>
-<a id="flood" name="flood"></a>
-Flood, Wm. H. Grattan. <i>A History of Irish Music</i>. Dublin: Browne and Nolan Ltd., 1905.
-</p><p>
-<a id="hamilton" name="hamilton"></a>
-Hamilton, Noel. "'Ancient' Irish Music." <i>Proceedings of the first North American Congress of Celtic Studies</i>. (March, 1986): 283-291.
-</p><p>
-<a id="harrison" name="harrison"></a>
-Harrison, Alan. "Tricksters and Entertainers in the Irish Tradition." <i>Proceedings of the first North American Congress of Celtic Studies</i>. (March, 1988): 293-307.
-</p><p>
-<a id="cailin"></a><a id="caillin" name="caillin"></a>
-Hennessy, W.M., and D.H. Kelly, eds. and trans. St. Caillin. <i>Book of Fenagh</i>. Dublin: Alexander Thom, 1875.
-</p><p>
-<a id="joyce" name="joyce"></a>
-Joyce, P.W. <i>A Social History of Ancient Ireland</i>. Dublin: M. H. Gill &amp; Son, Ltd., 1920.
-</p><p>
-<a id="gerald" name="gerald"></a>
-O'Meara, John, trans.  Gerald of Wales.  <i>The History and Topography of Ireland</i>. England: Penguin Books, 1982.
-</p><p>
-<a id="richter1" name="richter1"></a>
-Richter, Michael. <i>The Formation of the Medieval West</i>. New York: St. Martin's Press,
-1994.
-</p><p>
-<a id="richter"></a><a id="richter2" name="richter2"></a>
-Richter, Michael. <i>Medieval Ireland: The Enduring Tradition</i>. New York: St. Martin's Press, 1988.
-</p><p>
-<a id="rimmer" name="rimmer"></a>
-Rimmer, Joan. <i>The Irish Harp</i>. Boston: Cresendo Pub. Co., 1969.
-</p><p>
-<a id="sayers" name="sayers"></a>
-Sayers, William. "The Bound and the Binding: The Lyre in Early Ireland." <i>Proceedings of the first North American Congress of Celtic Studies</i>.  (March, 1986): 365-385.
-</p><p>
-</p><div class="center">
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/arthurian-tales/">Next</a></span></td>
-<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></span></td>
-<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
-</table>
-</div>
-<p>
-</p><div class="center">© Laura Felton 2000.  All rights reserved.</div>
-<p>
-</p><div class="center">This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</div>
-<p>
-</p><p>
-</p><p>
-</p><p>
-</p><p>
-</p><p>
-</p><p>
-</p><p>
-</p>
-</div>
+
+© Laura Felton 2000. All rights reserved.
+
+This edition © *The Compass Rose* 2002. All rights reserved.

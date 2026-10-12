@@ -13,31 +13,28 @@ topic = "personas"
 canonical_path = "/shina-in-handout/"
 +++
 
-<div class="original-page">
-<span class="fs-4">
-</span><div class="center"><h2>The Helpful Handout of How to Become a Shin'a'in</h2></div>
-<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
-<div class="center"><h3>Based on the <b>Vows and Honor</b> duology</h3></div>
-<p>
+## The Helpful Handout of How to Become a Shin'a'in
+
+### Criteria established by Mercedes Lackey
+
+### Based on the **Vows and Honor** duology
+
 Distributed by:
-</p><p>
-</p><div class="center"><h3>Queen's Own
-<br/>
+
+### Queen's Own\
 The Official Mercedes Lackey Fan Club
-</h3></div>
-<p>
-</p><h2>Basic Requirements</h2>
-<p>
-</p><h2>I.  Clan and Position</h2>
-<p>
+
+## Basic Requirements
+
+## I. Clan and Position
+
 Honor applies; what you roll is what you get.
-</p><p>
-</p><h3>Clan</h3>
-<p>
-Determine your Clan by rolling two six-sided dice or one die twice and add the
-numbers.
-</p><p>
-</p><table>
+
+### Clan
+
+Determine your Clan by rolling two six-sided dice or one die twice and add the numbers.
+
+<table>
 <tr>
 <td>2:</td>
 <td>Bear Clan</td>
@@ -67,13 +64,12 @@ numbers.
 <td>Wolf</td>
 </tr>
 </table>
-<p>
-</p><h3>Position</h3>
-<p>
+
+### Position
+
 Determine your Position within the clan by rolling one six-sided die.
-</p><p>
-</p><p>
-</p><table>
+
+<table>
 <tr>
 <td>1:</td>
 <td>Clan Healer</td>
@@ -91,113 +87,100 @@ Determine your Position within the clan by rolling one six-sided die.
 <td>Shaman</td>
 </tr>
 </table>
-<p>
-*If you roll a result of Clan Member, please specify your role:  artisan, blacksmith, herdsman, horse trainer, food gatherer, weaver, potter, drummer, or some other suitable job.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
-<p>
-</p><h2>II.  Develop a Character</h2>
-<p>
-Develop a character (your persona--Who would you be if you could daydream yourself into Valdemar?  Be the "real" you or as different as you please.)
-and write about him/her.  Prepare a minimum of 3 double-spaced pages, on 8.5 x 11 inch paper or computer printout
-paper.  If you can't type, please write or print as clearly as possible.
-</p><p>
-This is a biography.  Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you.  You may use first or third person.
-</p><p>
-Remember to roll for Clan and Position first; it is the prerequisite for developing your persona.  You can't write your story without knowing who you are.  (10 points)
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
-<p>
-</p><h2>III.  Develop One or More Friend or Relative Characters</h2>
-<p>
-You needn't be quite so detailed in your descriptions of these other characters.  But remember, you are writing about people
-you know well.  Describe what your family and/or friends look like,
-their own character traits, etc.  Again, a minimum of 3 pages.  (5 points)
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
-<p>
-</p><h2>IV. Extra Point Requirements (5 points each)</h2>
-<p>
+
+\*If you roll a result of Clan Member, please specify your role: artisan, blacksmith, herdsman, horse trainer, food gatherer, weaver, potter, drummer, or some other suitable job.
+
+<img alt="" loading="lazy" src="/bargrass.gif"/>
+
+## II. Develop a Character
+
+Develop a character (your persona--Who would you be if you could daydream yourself into Valdemar? Be the "real" you or as different as you please.) and write about him/her. Prepare a minimum of 3 double-spaced pages, on 8.5 x 11 inch paper or computer printout paper. If you can't type, please write or print as clearly as possible.
+
+This is a biography. Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you. You may use first or third person.
+
+Remember to roll for Clan and Position first; it is the prerequisite for developing your persona. You can't write your story without knowing who you are. (10 points)
+
+<img alt="" loading="lazy" src="/bargrass.gif"/>
+
+## III. Develop One or More Friend or Relative Characters
+
+You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
+
+<img alt="" loading="lazy" src="/bargrass.gif"/>
+
+## IV. Extra Point Requirements (5 points each)
+
 Choose and complete the requirements for two (minimum) of the following:
-</p><p>
-</p><ol>
-<li>Write a story of more than 3 pages.
-</li><li>Design a costume--Plains design.
-</li><li>Create a costume.
-</li><li>Draw a picture of your character.
-</li><li>Write an essay about herd management or animal husbandry.  Prepare a minimum of 3 pages.
-</li><li>Design a clan banner.
-</li><li>Write a poem about life in the clans.
-</li><li>Write an essay on Archery or Swordfighting.  Prepare a minimum of 3 pages.
-</li><li>Attend martial arts classes.
-</li><li>Draw a map.
-</li><li>Learn CPR and basic first-aid.
-</li><li>Become a regular blood donor.
-</li><li>Become a volunteer.
-</li><li>Commit to recycling.
-</li><li>Design and/or create an original weaving.
-</li><li>Learn to ride a horse.
-</li><li>Learn the care and feeding of horses.
-</li><li>Send a story, poem, or art to one of our <a href="/fan-fiction/">zines</a>.
-</li></ol>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
-<p>
-</p><div class="center"><h2>After you have acquired 25 points, you may become a full clan member!</h2></div>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
-<p>
-</p><h2>Special Notes for Shin'a'in</h2>
-<p>
-</p><ul>
-<li>Be sure to list the Clan and Position you rolled for in your submission.<p>
-</p></li><li> Characters should stay within Herald-Talia's time-line.<p>
-</p></li><li>For General Rules, click <a href="/persona-handouts/#rules">here</a>.<p>
-</p></li><li>For Submission Instructions, click <a href="/persona-handouts/#submit">here</a>.<p>
-</p></li><li>For Helpful Hints, click <a href="/persona-handouts/#help">here</a>.
-</li></ul>
-<p>
-If you have additional questions, check out <a href="/shina-in-faq/">The Shin'a'in</a> FAQ.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
-<p>
-</p><h2>Advanced Rank</h2>
-<p>
+
+1. Write a story of more than 3 pages.
+2. Design a costume--Plains design.
+3. Create a costume.
+4. Draw a picture of your character.
+5. Write an essay about herd management or animal husbandry. Prepare a minimum of 3 pages.
+6. Design a clan banner.
+7. Write a poem about life in the clans.
+8. Write an essay on Archery or Swordfighting. Prepare a minimum of 3 pages.
+9. Attend martial arts classes.
+10. Draw a map.
+11. Learn CPR and basic first-aid.
+12. Become a regular blood donor.
+13. Become a volunteer.
+14. Commit to recycling.
+15. Design and/or create an original weaving.
+16. Learn to ride a horse.
+17. Learn the care and feeding of horses.
+18. Send a story, poem, or art to one of our [zines](/fan-fiction/).
+
+<img alt="" loading="lazy" src="/bargrass.gif"/>
+
+## After you have acquired 25 points, you may become a full clan member!
+
+<img alt="" loading="lazy" src="/bargrass.gif"/>
+
+## Special Notes for Shin'a'in
+
+- Be sure to list the Clan and Position you rolled for in your submission.
+- Characters should stay within Herald-Talia's time-line.
+- For General Rules, click [here](/persona-handouts/#rules).
+- For Submission Instructions, click [here](/persona-handouts/#submit).
+- For Helpful Hints, click [here](/persona-handouts/#help).
+
+If you have additional questions, check out [The Shin'a'in](/shina-in-faq/) FAQ.
+
+<img alt="" loading="lazy" src="/bargrass.gif"/>
+
+## Advanced Rank
+
 There are several advanced ranks possible for Shin'a'in personae.
-</p><p>
-<a id="elder" name="elder"></a>
-</p><h3>Clan Elder</h3>
-<p>
-If you have an approved Shin'a'in persona, you may try for the advanced rank of Elder.  To become a Clan Elder:
-</p><p>
-</p><ul>
-<li>Write a 20-page paper on the Plains Indian or Steppe culture of your choice.
-</li></ul>
-<p>
-<a id="warleader" name="warleader"></a>
-</p><h3>Warleader</h3>
-<p>
-If you have an approved Clan Elder, you may try for Warleader.  To become a Warleader:
-</p><p>
-</p><ul>
-<li>Write a 20-page paper on warfare as practiced by the Plains Indian or Steppe culture of your choice.
-</li></ul>
-<p>
-<a id="chief" name="chief"></a>
-</p><h3>Clan Chief</h3>
-<p>
-If you have an approved Warleader, you may try for Warleader.  To become a Clan Chief:
-</p><p>
-</p><ul>
-<li>Write a 20-page paper on the role of a chief within a tribe, concentrating on those things that a chief needs to know beyond basic warfare and battle tactics.
-</li></ul>
-<p>
-</p><h3>Kal'enedril</h3>
-<p>
-You may work for <a href="/kalen-edral-handout/">Kal'enedril</a> status once you've completed your Shin'a'in requirements.
-</p><p>
-</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
-<p>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-</p>
-</div>
+
+<a id="elder"></a>
+
+### Clan Elder
+
+If you have an approved Shin'a'in persona, you may try for the advanced rank of Elder. To become a Clan Elder:
+
+- Write a 20-page paper on the Plains Indian or Steppe culture of your choice.
+
+<a id="warleader"></a>
+
+### Warleader
+
+If you have an approved Clan Elder, you may try for Warleader. To become a Warleader:
+
+- Write a 20-page paper on warfare as practiced by the Plains Indian or Steppe culture of your choice.
+
+<a id="chief"></a>
+
+### Clan Chief
+
+If you have an approved Warleader, you may try for Warleader. To become a Clan Chief:
+
+- Write a 20-page paper on the role of a chief within a tribe, concentrating on those things that a chief needs to know beyond basic warfare and battle tactics.
+
+### Kal'enedril
+
+You may work for [Kal'enedril](/kalen-edral-handout/) status once you've completed your Shin'a'in requirements.
+
+<img alt="" loading="lazy" src="/bargrass.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

@@ -14,180 +14,144 @@ topic = "community"
 canonical_path = "/pacific-northwest-collegium/"
 +++
 
-<div class="original-page">
-<span class="fs-5">
-</span><div class="center"><img alt="" loading="lazy" src="/cc1.gif"/></div>
-<div class="center"><h2>(Revised 3/09/10)</h2></div>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/pegasus.gif"/></div>
-<p>
-The Collegium Chronicles is the official newsletter for members of the Pacific Northwest Collegium, a Mercedes Lackey
-Fan Club serving primarily Washington, Oregon, Idaho, California, and other various and sundry places.  We are
-a not-for-profit fan-run organization, publishing for the sole purpose of sharing
-news of Velgarth and other "Misty" realms.  The chapter is currently up for adoption.
-</p><p>
-Send correspondence to <b>Laura Cameron, Pacific Northwest Collegium,
- <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.
-</b></p><p>
-</p><div class="center"><img alt="Danya and Kestran" class="border-5" loading="lazy" src="/cc2a.gif"/></div>
-<p>
-</p><div class="center"><b>"Danya Winterborn and Bard Kestran"</b></div>
-<div class="center"><b>by</b></div>
-<div class="center"><b>Laura Cameron</b></div>
-<p>
-</p><h2>The Newsletter</h2>
-<p>
-Each issue of <i>The Collegium Chronicles</i> contains:
-</p><p>
-</p><ul>
-<li>A Letter from the Editor
-</li><li>Member Information (New Members, Birthing Day Wishes, etc.)
-</li><li>Moonglade's Must-Read List
-</li><li>Original fan fiction (<i>The Collegium Chronicles</i> is seeking submissions.  Remember, though,
-that if you write fan fiction based on any of Misty's worlds, you must
-fill out the <a href="/mercedes-lackey-release-form/">release form</a> and send it to
-High Flight along with a copy of your story in addition to sending the
-story to <i>The Collegium Chronicles</i>.)
-</li><li>Convention News
-</li><li>Announcements and Upcoming Events
-</li><li>Poetry (You do not need a release to submit poetry.)
-</li><li>Art (You do not need a release to submit art.)
-</li></ul>
-<p>
-</p><div class="center"><img alt="Danya and Terrill" class="border-5" loading="lazy" src="/cc3a.gif"/></div>
-<p>
-</p><div class="center"><b>"Danya and Terrill"</b></div>
-<div class="center"><b>by</b></div>
-<div class="center"><b>Laura Cameron</b></div>
-<p>
-</p><h2>Staff</h2>
-<p>
-</p><ul>
-<li>Laura Cameron:  Editor, Layout, Illustrations
-</li><li>Herald Alora:  Clip Art (for the Newsletter)
-</li><li>Linda A. Malcor:  Contributer, Website Design
-</li></ul>
-<p>
-</p><div class="center"><img alt="Yarik and Companions" class="border-5" loading="lazy" src="/cc8a.gif"/></div>
-<p>
-</p><div class="center"><b>"Herald Yarik in the Companions' Field"</b></div>
-<div class="center"><b>by</b></div>
-<div class="center"><b>Laura Cameron</b></div>
-<p>
-</p><h2>Art Samples from <i>The Collegium Chronicles</i></h2>
-<p>
-The illustrations on this page are from the newsletter.  Click on these
-additional links to see more of Laura Cameron's art.  Remember, the images
-are copyrighted to Laura Cameron, and may not be used without her permission.
-</p><p>
-These images accompanied "Danya Winterborn," by L.A. Malcor, in which Danya is introduced, is Chosen by Terrill and meets Herald Yarik Rafton.  (The original images were in black and white; the scanning process colorized them.):
-</p><p>
-</p><ul>
-<li><a href="/cc2.gif">Danya Winterborn and Bard Kestran</a>
-</li><li><a href="/cc3.gif">Danya and Terrill</a>
-</li><li><a href="/cc4.gif">Danya and Herald Yarik Rafton (Terrill and Illysha in the background)</a>
-</li></ul>
-<p>
-These images accompanied "Havenbound," by L.A. Malcor, in which Yarik helps Danya reach the Collegium and wrestles with the possibility that he has a tie with her that runs as deep as the one that he shares with his lifebonded, Herald Kaylan Elderwood.  (The original
-images were in color.):
-</p><p>
-</p><ul>
-<li><a href="/cc5.gif">Danya and Yarik</a>
-</li><li><a href="/cc6.gif">The Attack on Yarik's Family's Ship</a>
-</li><li><a href="/cc7.gif">Danya, Yarik and Dean Terren</a>
-</li><li><a href="/cc8.gif">Yarik in the Companions' Field</a>
-</li><li><a href="/cc9.gif">Yarik, Danya and Herald Sherrill</a>
-</li></ul>
-<p>
-These images accompanied "Bonds," by L.A. Malcor, in which Kaylan returns to Haven only to find his lifebonded, Yarik, claiming to have a lifebond with Danya as well.  (The original images were in color.):
-</p><p>
-</p><ul>
-<li><a href="/cc10.gif">Danya, Yarik and Herald Kaylan Elderwood</a>
-</li><li><a href="/cc11.gif">Yarik and Kaylan</a>
-</li><li><a href="/cc12.gif">Kaylan and Adele</a>
-</li></ul>
-<p>
-These images accompanied "Midsummer Night's Dance," by L.A. Malcor, in which Kaylan, Yarik and Danya travel to the enchanting Elderwood estate in an attempt to sort out their complicated relationship.  (The original images were in black-and-white.):
-</p><p>
-</p><ul>
-<li><a href="/cc13.gif">Danya and Grandmother Elderwood</a>
-</li><li><a href="/cc14.gif">Grandfather Elderwood</a>
-</li><li><a href="/cc15.gif">Inside Elderwood Manor</a>
-</li><li><a href="/cc16.gif">Kaylan, Yarik and Danya Exchange Rings</a>
-</li><li><a href="/cc17.gif">Kaylan and Grandfather Elderwood</a>
-</li></ul>
-<p>
-These images accompanied "Darkling Hour," by L.A. Malcor, in which Kaylan is captured by a unit of Hardornans and Yarik and Danya ride to his rescue.  (The original
-images were in black-and-white.):
-</p><p>
-</p><ul>
-<li><a href="/cc18.gif">Danya and Yarik Sparring</a>
-</li><li><a href="/cc19.gif">Danya and Yarik Riding to Save Kaylan</a>
-</li><li><a href="/cc20.gif">Kaylan Slaying a Hardornan</a>
-</li><li><a href="/cc22a.gif">Danya and Adele</a>
-</li><li><a href="/cc21.gif">Danya and Kaylan</a>
-</li><li><a href="/cc22.gif">Terrill leading Snow Dancer</a>
-</li><li><a href="/cc23.gif">Kaylan and Yarik</a>
-</li></ul>
-<p>
-These images accompanied "Triptych," by L.A. Malcor, in which Master Healer Paige works with Kaylan, Yarik and Danya.  (The original
-images were in black-and-white.):
-</p><p>
-</p><ul>
-<li><a href="/cc24.gif">Kaylan</a>
-</li><li><a href="/cc25.gif">Yarik</a>
-</li><li><a href="/cc26.gif">Danya</a>
-</li><li><a href="/cc27.gif">Healing Session</a>
-</li><li><a href="/cc28.gif">Master Healer Paige</a>
-</li><li><a href="/cc29.gif">Threesomes</a>
-</li></ul>
-<p>
-</p><div class="center"><img alt="Danya, Yarik and Kaylan" class="border-5" loading="lazy" src="/cc10a.gif"/></div>
-<p>
-</p><div class="center"><b>"Danya, Yarik and Kaylan"</b></div>
-<div class="center"><b>by</b></div>
-<div class="center"><b>Laura Cameron</b></div>
-<p>
-</p><h2>Copyright Notices:</h2>
-<p>
-Original art on this page is copyright 1998/1999 Laura Cameron, and may not be used with her express
-permission.  Background courtesy of Gilbert's Icon Archive.
-All uncredited artwork is believed to be in the public domain.  If this is incorrect, message
-<a href="mailto:Legend@malcor.com">L.A. Malcor</a> and proper credit will
-be given or the artwork will be removed at once, whichever is the preference of the
-artist and/or the artist's legal representatives.  The buttons on
-this page were designed by L.A. Malcor, using images that were
-offered for free from the former <i>Here Be Dragons</i> site and
-various archive sites.  The buttons themselves are original designs
-by L.A. Malcor, and you need to <a href="mailto:Legend@malcor.com">contact her</a>
-for permission information if you wish to use the buttons on your own site.  <span class="c-red"><i>Please do not
-link to artwork on this page.</i></span>  If an image is in the public domain, feel
-free to download it and upload it to your own site.  We have a bandwidth
-limit, however, and if people use it up by linking to our images, we will
-have to remove the art.
-</p><p>
-</p><p>
-</p><div class="center"><img alt="Danya, Yarik and Kaylan Exchange Rings" class="border-5" loading="lazy" src="/cc16.gif"/></div>
-<p>
-</p><div class="center"><b>"Danya, Yarik and Kaylan Exchange Rings"</b></div>
-<div class="center"><b>by</b></div>
-<div class="center"><b>Laura Cameron</b></div>
-<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-</p><div class="center"><h2>Additional Artwork by Laura Cameron</h2></div>
-<p>
-</p><div class="center"><img alt="Female Warrior" class="border-5" loading="lazy" src="/fwarrior.jpg"/></div>
-<p>
-</p><div class="center"><h3>Original Sold at Norwescon 1998</h3></div>
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<!--Begin Queen's Own Official Webring Fragment-->
-</p><p>
-</p><table class="border-5 cellpadding-2 cellspacing-2 table-align-center" style="width:50%">
+<img alt="" loading="lazy" src="/cc1.gif"/>
+
+## (Revised 3/09/10)
+
+<img alt="" loading="lazy" src="/pegasus.gif"/>
+
+The Collegium Chronicles is the official newsletter for members of the Pacific Northwest Collegium, a Mercedes Lackey Fan Club serving primarily Washington, Oregon, Idaho, California, and other various and sundry places. We are a not-for-profit fan-run organization, publishing for the sole purpose of sharing news of Velgarth and other "Misty" realms. The chapter is currently up for adoption.
+
+Send correspondence to **Laura Cameron, Pacific Northwest Collegium, [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com).**
+
+<img alt="Danya and Kestran" class="border-5" loading="lazy" src="/cc2a.gif"/>
+
+**"Danya Winterborn and Bard Kestran"**
+
+**by**
+
+**Laura Cameron**
+
+## The Newsletter
+
+Each issue of *The Collegium Chronicles* contains:
+
+- A Letter from the Editor
+- Member Information (New Members, Birthing Day Wishes, etc.)
+- Moonglade's Must-Read List
+- Original fan fiction (*The Collegium Chronicles* is seeking submissions. Remember, though, that if you write fan fiction based on any of Misty's worlds, you must fill out the [release form](/mercedes-lackey-release-form/) and send it to High Flight along with a copy of your story in addition to sending the story to *The Collegium Chronicles*.)
+- Convention News
+- Announcements and Upcoming Events
+- Poetry (You do not need a release to submit poetry.)
+- Art (You do not need a release to submit art.)
+
+<img alt="Danya and Terrill" class="border-5" loading="lazy" src="/cc3a.gif"/>
+
+**"Danya and Terrill"**
+
+**by**
+
+**Laura Cameron**
+
+## Staff
+
+- Laura Cameron: Editor, Layout, Illustrations
+- Herald Alora: Clip Art (for the Newsletter)
+- Linda A. Malcor: Contributer, Website Design
+
+<img alt="Yarik and Companions" class="border-5" loading="lazy" src="/cc8a.gif"/>
+
+**"Herald Yarik in the Companions' Field"**
+
+**by**
+
+**Laura Cameron**
+
+## Art Samples from *The Collegium Chronicles*
+
+The illustrations on this page are from the newsletter. Click on these additional links to see more of Laura Cameron's art. Remember, the images are copyrighted to Laura Cameron, and may not be used without her permission.
+
+These images accompanied "Danya Winterborn," by L.A. Malcor, in which Danya is introduced, is Chosen by Terrill and meets Herald Yarik Rafton. (The original images were in black and white; the scanning process colorized them.):
+
+- [Danya Winterborn and Bard Kestran](/cc2.gif)
+- [Danya and Terrill](/cc3.gif)
+- [Danya and Herald Yarik Rafton (Terrill and Illysha in the background)](/cc4.gif)
+
+These images accompanied "Havenbound," by L.A. Malcor, in which Yarik helps Danya reach the Collegium and wrestles with the possibility that he has a tie with her that runs as deep as the one that he shares with his lifebonded, Herald Kaylan Elderwood. (The original images were in color.):
+
+- [Danya and Yarik](/cc5.gif)
+- [The Attack on Yarik's Family's Ship](/cc6.gif)
+- [Danya, Yarik and Dean Terren](/cc7.gif)
+- [Yarik in the Companions' Field](/cc8.gif)
+- [Yarik, Danya and Herald Sherrill](/cc9.gif)
+
+These images accompanied "Bonds," by L.A. Malcor, in which Kaylan returns to Haven only to find his lifebonded, Yarik, claiming to have a lifebond with Danya as well. (The original images were in color.):
+
+- [Danya, Yarik and Herald Kaylan Elderwood](/cc10.gif)
+- [Yarik and Kaylan](/cc11.gif)
+- [Kaylan and Adele](/cc12.gif)
+
+These images accompanied "Midsummer Night's Dance," by L.A. Malcor, in which Kaylan, Yarik and Danya travel to the enchanting Elderwood estate in an attempt to sort out their complicated relationship. (The original images were in black-and-white.):
+
+- [Danya and Grandmother Elderwood](/cc13.gif)
+- [Grandfather Elderwood](/cc14.gif)
+- [Inside Elderwood Manor](/cc15.gif)
+- [Kaylan, Yarik and Danya Exchange Rings](/cc16.gif)
+- [Kaylan and Grandfather Elderwood](/cc17.gif)
+
+These images accompanied "Darkling Hour," by L.A. Malcor, in which Kaylan is captured by a unit of Hardornans and Yarik and Danya ride to his rescue. (The original images were in black-and-white.):
+
+- [Danya and Yarik Sparring](/cc18.gif)
+- [Danya and Yarik Riding to Save Kaylan](/cc19.gif)
+- [Kaylan Slaying a Hardornan](/cc20.gif)
+- [Danya and Adele](/cc22a.gif)
+- [Danya and Kaylan](/cc21.gif)
+- [Terrill leading Snow Dancer](/cc22.gif)
+- [Kaylan and Yarik](/cc23.gif)
+
+These images accompanied "Triptych," by L.A. Malcor, in which Master Healer Paige works with Kaylan, Yarik and Danya. (The original images were in black-and-white.):
+
+- [Kaylan](/cc24.gif)
+- [Yarik](/cc25.gif)
+- [Danya](/cc26.gif)
+- [Healing Session](/cc27.gif)
+- [Master Healer Paige](/cc28.gif)
+- [Threesomes](/cc29.gif)
+
+<img alt="Danya, Yarik and Kaylan" class="border-5" loading="lazy" src="/cc10a.gif"/>
+
+**"Danya, Yarik and Kaylan"**
+
+**by**
+
+**Laura Cameron**
+
+## Copyright Notices:
+
+Original art on this page is copyright 1998/1999 Laura Cameron, and may not be used with her express permission. Background courtesy of Gilbert's Icon Archive. All uncredited artwork is believed to be in the public domain. If this is incorrect, message [L.A. Malcor](mailto:Legend@malcor.com) and proper credit will be given or the artwork will be removed at once, whichever is the preference of the artist and/or the artist's legal representatives. The buttons on this page were designed by L.A. Malcor, using images that were offered for free from the former *Here Be Dragons* site and various archive sites. The buttons themselves are original designs by L.A. Malcor, and you need to [contact her](mailto:Legend@malcor.com) for permission information if you wish to use the buttons on your own site. *Please do not link to artwork on this page.* If an image is in the public domain, feel free to download it and upload it to your own site. We have a bandwidth limit, however, and if people use it up by linking to our images, we will have to remove the art.
+
+<img alt="Danya, Yarik and Kaylan Exchange Rings" class="border-5" loading="lazy" src="/cc16.gif"/>
+
+**"Danya, Yarik and Kaylan Exchange Rings"**
+
+**by**
+
+**Laura Cameron**
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+## Additional Artwork by Laura Cameron
+
+<img alt="Female Warrior" class="border-5" loading="lazy" src="/fwarrior.jpg"/>
+
+### Original Sold at Norwescon 1998
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<table class="border-5 cellpadding-2 cellspacing-2 table-align-center" style="width:50%">
 <tr>
-<td class="align-center valign-middle" style="width:20%"><span class="ff-harem fs-2">
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a></span></td>
+<td class="align-center valign-middle" style="width:20%">
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a></td>
 <td class="align-center valign-middle" style="width:60%">
 This<br/>
 <a href="/club-webring/">Queen's Own</a><br/>
@@ -197,24 +161,16 @@ site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href=
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;next5">Next 5 Sites</a><br/>
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;random">Random Site</a>
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;list">List Sites</a>]</p></td>
-<td class="align-center valign-middle" style="width:20%"><span class="ff-harem fs-2">
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a></span></td>
+<td class="align-center valign-middle" style="width:20%">
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a></td>
 </tr>
 </table>
-<!--End Queen's Own Official Webring Fragment-->
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<!-- BEGIN LINKEXCHANGE CODE -->
-<div class="center"><br/>
-<a href="http://leader.linkexchange.com/30/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/30/X513002/showlogo?" style="width:468px; height:16px"/></a><br/></div>
-<!-- END LINKEXCHANGE CODE -->
-<p>
-</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
-<p>
-<span class="ff-harem">
-<p>
-<a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> <a href="/danya-winterborn/">Back to Danya Winterborn's Page</a>
-</p><p>
-</p></span>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+\
+<a href="http://leader.linkexchange.com/30/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/30/X513002/showlogo?" style="width:468px; height:16px"/></a>\
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+\ <a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> [Back to Danya Winterborn's Page](/danya-winterborn/)\ \ \
