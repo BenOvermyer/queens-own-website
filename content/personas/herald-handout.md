@@ -179,12 +179,15 @@ To attain a specialty as a Herald:
 
 1. Earn the points necessary to become a Herald.
 2. Complete the requirements next to the specialty of your choice.
+
   - <a id="teach"></a>Teacher
+
     - Law: Write a 20-page paper on the real Legal topic of your choice.
     - Weapons: Earn a trophy, ribbon or other award in a major competition that involves weaponry. (Something like fencing or archery. The competition should be against at least another school, although state-wide, national and international competitions are grand &lt;g>.)
     - Logic: Write a 20-page paper on deductive and inductive reasoning, what they are and how they relate to each other.
   - <a id="message"></a>Messenger: Write a 20-page paper about the history of the Pony Express or about the modern US Postal Service.
   - <a id="history"></a>Historian: Write a 20-page paper on the real historical event of your choice.
+
     Exception: If you already a teacher of history at the Elementary, Junior High or Senior High level, you may automatically claim Herald-Historian status. However, please develop your Velgarth persona so others may interact with you in character.
 
 ### Herald-Mage

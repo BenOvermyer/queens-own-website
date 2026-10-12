@@ -92,50 +92,48 @@ Hedge Priests have no formal training. There are, however, several ways you can 
 
 If you want your character to receive formal training in religion, there are several organized religions that we know about on Velgarth. Choose which religion you want to join. Complete the requirements in that column for each rank. Do not switch columns. If you start in the Sun Priest column, you need to stay there.
 
-Rank Equivalent
+<table class="cellpadding-2 cellspacing-2 border-5" style="width:90%">
+<tr>
+<th class="align-center valign-middle">Rank Equivalent</th>
+<th class="align-center valign-middle">Astera<br/>
+(See below for other names.)</th>
+<th class="align-center valign-middle">Vkandis<br/>
+(See below for other names.)</th>
+<th class="align-center valign-middle">Other*</th>
+</tr>
+<tr>
+<th class="align-left valign-middle">Apprentice</th>
+<td class="align-left valign-middle">Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of the Lady in your particular culture, and send it to one of the QO zines.</td>
+<td class="align-left valign-middle">Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of the Lord in your particular culture, and send it to one of the QO zines.</td>
+<td class="align-left valign-middle">Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of your particular diety in your particular culture, and send it to one of the QO zines.</td>
+</tr>
+<tr>
+<th class="align-left valign-middle">Journeyman</th>
+<td class="align-left valign-middle">Write a 20-page paper the relationship between your religion and the environment.</td>
+<td class="align-left valign-middle">Write a 20-page paper comparing and contrasting priestly and secular magic.</td>
+<td class="align-left valign-middle">Write a 20-page paper comparing and contrasting any two "real world" religions of your choice.</td>
+</tr>
+<tr>
+<th class="align-left valign-middle">Master</th>
+<td class="align-left valign-middle">Write a 20-page paper on the role of the religious leader as a counselor.</td>
+<td class="align-left valign-middle">Write a 20-page paper on the role of religious leaders in the education of school-aged children.</td>
+<td class="align-left valign-middle">Write a 20-page paper on the role of religious leaders in the culture of your choice.</td>
+</tr>
+<tr>
+<th class="align-left valign-middle">Adept</th>
+<td class="align-left valign-middle">Write a 20-page paper comparing and contrasting shamanistic with organized religions.</td>
+<td class="align-left valign-middle">Write a 20-page paper on the Crusades from either the Christian or the Muslim point of view.</td>
+<td class="align-left valign-middle">Write a 20-page paper tolerance and intolerance in the religion of your choice.</td>
+</tr>
+</table>
 
-Astera (See below for other names.)
-
-Vkandis (See below for other names.)
-
-Other&#42;
-
-Apprentice
-
-Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of the Lady in your particular culture, and send it to one of the QO zines.
-
-Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of the Lord in your particular culture, and send it to one of the QO zines.
-
-Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of your particular diety in your particular culture, and send it to one of the QO zines.
-
-Journeyman
-
-Write a 20-page paper the relationship between your religion and the environment.
-
-Write a 20-page paper comparing and contrasting priestly and secular magic.
-
-Write a 20-page paper comparing and contrasting any two "real world" religions of your choice.
-
-Master
-
-Write a 20-page paper on the role of the religious leader as a counselor.
-
-Write a 20-page paper on the role of religious leaders in the education of school-aged children.
-
-Write a 20-page paper on the role of religious leaders in the culture of your choice.
-
-Adept
-
-Write a 20-page paper comparing and contrasting shamanistic with organized religions.
-
-Write a 20-page paper on the Crusades from either the Christian or the Muslim point of view.
-
-Write a 20-page paper tolerance and intolerance in the religion of your choice. These papers will be published in [*The Compass Rose*](/compass-rose/about/).
+These papers will be published in [*The Compass Rose*](/compass-rose/about/).
 
 &#42;Misty is in the process of describing a bunch of religions on Velgarth. The ones we know about so far are:
 
 1. Anathei of the Purifying Flame
 2. Astera (also called "The Star Eyed", Lady, Goddess of the Four Winds, Lady Trine)
+
   - Lady Trine (includes Agnetha)
   - The Star Eyed (includes Maiden, Mother, Warrior, Crone--Agnoma)
 3. Bastet (ancient Battle Goddess)

@@ -52,7 +52,7 @@ Zhai'helleva,
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Border by Michell Cornette" class="float-left border-3" loading="lazy" src="/qo89.jpg"/>
+<img alt="Border by Michell Cornette" class="border-3 float-left" loading="lazy" src="/qo89.jpg"/>
 
 ## Ren Faires:
 
@@ -352,7 +352,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Border by Herald Alora" class="float-right border-3" loading="lazy" src="/qo90.jpg"/>
+<img alt="Border by Herald Alora" class="border-3 float-right" loading="lazy" src="/qo90.jpg"/>
 
 ## Member News:
 
@@ -405,7 +405,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 - Welcome to **Herald Laliea Shathgran**, Gifted with Fetching and Mindspeech and Chosen by Sylva! **Toni McQuilken** wrote about her Herald and her family and her friends, drew a map of the family estate and created a recipe.
 
-<img alt="Border by Herald Alora" class="float-left border-3" loading="lazy" src="/qo91.jpg"/>
+<img alt="Border by Herald Alora" class="border-3 float-left" loading="lazy" src="/qo91.jpg"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 

@@ -35,28 +35,42 @@ This month it's my turn to play interviewer. It is my pleasure to introduce you 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. Tell us about your family.
+
   I moved in with my husband, Jay, a week and a half after I met him. We met at a local Laundromat, in Cheyenne, Wyoming where I had moved after high school. He was on his first assignment in the Air Force as a deputy combat crew commander in the nuclear missiles field. He was 23, and I was 18. We got married exactly one year after we met: 23 July 1993.
+
   In June 1996 we moved to Vandenberg AFB near Lompoc, about two-and-a-half hours north of Los Angeles on the coast. We completely fell in love with California and went often to the beach.
+
   We decided to try for a child in June 1997. After a few miscarriages and a wonderful doctor we were able to stay pregnant the last time in late 1998. I was six months pregnant when we moved to Great Falls, Montana in January 1999. In April 1999, I gave birth to our beautiful baby boy, Alexander. You can view his pictures on my web page at http://www.geocities.com/Area51/Dunes/7913/.
+
   Our family also includes three large dogs. Two Great Danes, Hero a four-year-old Brindle and Shade a 3 1/2 year old Black. They have natural ears. We also have a 6 1/2-year-old shepherd mix, Sasha. We also have two cats. A brother and sister pair I bought in Santa Barbara. They are Bengals, 3 years old and their names are Sagan, the boy, and Sparks his little sister.
+
   Our little family is planning to leave the Air Force sometime between early-2001 and mid-2002. This has a lot to do with Jay's skills and job opportunities. We are planning a move to Southern California, Orange County, where our hearts already await us.
 2. What is your educational background?
+
   I started college at 16, the summer after my sophomore year in 1990. I went to the local community college, the AIMS outreach, in Loveland, Colorado. When I could afford it I went, I went to Laramie County Community College when I lived in Cheyenne, also known by locals as the "Last Chance Cowboy College." And I graduated from Allan Hancock Community College in Santa Maria California with a Liberal Arts Associates degree in June 1998. I do plan on going back to school when Alex starts school in 2004. I am interested in many things but plan to get a double major: Computer Science and English with a minor in Spanish.
 3. Why did you choose to save Queen's Own?
+
   I have made some of my best friends through Queen's Own. I had thought about saving Queen's Own in 1998 when Judith broached the topic to me. I knew, however, I couldn't do it myself, faced with probable moves every 2-3 years. As Linda and I became closer friends we lamented that we hadn't rescued Queen's Own sooner. When we learned that Queen's Own had gone bankrupt we realized what a good team we could be. All and all I couldn't give up on the club that gave me so much fun, so many reasons to write and so many friends.
 4. When did you join Queen's Own?
+
   I joined Queen's Own in late 1995, mostly out of curiosity. I noticed the Queen's Own address in the back of *Arrows of the Queen*. I decided to take a chance.
 5. What got you hooked on Misty�s books?
+
   I had read the *Last Herald Mage* trilogy in Junior High. My best friend, Misty (interesting coincidence don't you think?), gave me *Magic's Pawn* at lunch one day and said, "Here, Kendra. You'll like this book. The main character is gay." I just looked at her in shock. I had never been given a book in that way, but she was right. I fell in love with Vanyel. (Didn't we all?) A few years later I came across the Arrows trilogy at a used bookstore. Then I read every Valdemar novel I could find!
 6. What else do you read?
+
   I love Robert Jordan's *Wheel of Time* series; I always know it will be time to move soon when they come out. They seem to come out just as Jay gets a new assignment. I can't wait for the next Harry Potter book. Besides my obvious love for fantasy, I also really like the classics: Dickens, Bronte, Shakespeare, and many more. I read nonfiction reference books on dog breeds. Occasionally I will pick up a novel of a recent film. Although I must say Alex is a big fan of "Touch and Feel" books, and I read several of them, several times a day.
 7. What types of music do you listen to?
+
   I listen to a little of everything. I really like country music (Living in Cheyenne for four years will do that to anyone.). I also like alternative music; "Surfer Girl" by Homegrown is one of my favorite songs. I like 80s music, and classical, and oldies, and filk, and well, pretty much everything else. I listen to Lou Bega at least once a day. It is the only way Alex lets me shower in peace. Alex loves Dance/Club music just like his daddy.
 8. What was the first con you went to?
+
   Actually, I have only been to one con. I can't remember what it was called. It was a little one at the Colorado State University Student Center. I think it was in 1996 right before we moved to California. Jay was in the field, and I went with my good friends, Pete and Andy. We ended up in a Mage game. We had never played Mage before, but having played Vampire it wasn't a big jump. Those present voted me best role-player of the game.
 9. What other projects besides Queen�s Own occupy your time?
+
   I am on the Board of Dragonlords of Dumnonia for Linda's fan club, which includes approving personas, putting together timelines, and keeping up numerous lists. I also work with the Idaho Great Dane Rescue Inc. So far this year I have rescued three pups, and they have all been placed in safe, happy loving homes. I also write articles for the Pagan newsletter, "Silver Chalice." I write and submit to the various chapter zines listed in our newsletter. I maintain a web site. I love to keep our photos scrapbook style, and I have one family set and one for Alex that I have just started. Not to mention that I also keep house and take care of my fourteen month old son, Alex.
 10. What do you like the best about Queen�s Own?
+
   For me it is all about the great people I get to meet and the wonderful writing I get to read. I like getting in contact with all those people that share the same interests as I do. As a military spouse, I don't really fit the mold, and I move too much. Both of these things make it difficult to make many good friends. Among Queen's Own I always have friends and people who help me through moves and trying to settle again. Thanks everyone for helping us. Without you, there wouldn't be a club.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>

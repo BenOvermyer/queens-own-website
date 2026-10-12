@@ -66,7 +66,7 @@ Misty and Larry will be Guests of Honor at **BFAC**, the Boise Fantasy Arts Con 
 
 ## Stories of Misty's in Anthologies
 
-<table class="border-2 cellpadding-2 cellspacing-2">
+<table class="cellpadding-2 cellspacing-2 border-2">
 <tr>
 <td class="align-left valign-top">"A Different Kind of Courage"
 </td>

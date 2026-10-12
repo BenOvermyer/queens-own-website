@@ -140,35 +140,67 @@ Would you like to be a Herald, Healer, Bard, White Winds Sorceress, Tayledras, S
 - From *Christen McDowell* comes the **Tayledras Autumnwynd**, a Mage of the Fox Clan, bonded to K'tari. Christen sent background information on her persona and family and friends, created a Pelagirs creature, and wrote a story and submitted it to a zinc.
 - Welcome, **Herald Brenna Freeborn**, Chosen by Kayle and gifted with Double Mindspeech and Fetching. *Kendra Renaud* developed her persona and her family and friends, is certified in CPR and First Aid, does volunteer work, and is editor of VALES.
 - From *Kristin Cedarquist* comes **Herald Listar Lockheart**, Chosen by Lyla and gifted with Mindspeech and Empathy. Kristin wrote a story to introduce her persona and her family, designed a costume, and drew pictures of Listar and Lyla.
+
   ### From Herald Housemother:
+
   Proposed mailing dates for 1998 are 1/12, 2/28, 4/4, 5/16, 6/27, 8/8, 9/19, 10/31, and 12/12. The December 12th issue will be the last time I am listed as president, editor, and dogsbody. I will not relinquish the "Housemother" title, but I'm willing to add "retired" after it.
+
   Queen's Own has brought me many good friends and a great deal of pleasure. However, it is time for a change. QO needs a leader who can get information from online and web sites. (My computer is a 10 year old 286. It works, I see no reason to upgrade or replace it.) We need new ideas, new enthusiasms. Staring at a computer screen is high on the list of things I hate to do. My eyes blur, my back aches . . . it isn't fun anymore. If I could just answer mail I'd run QO forever, because hearing from all of you is fun.
+
   Retirement is a year away. QO will not end, my replacement is waiting in the wings. In the meantime, let's all read, and daydream, and be kind to one another.
+
   My thanks to all who include a little extra when paying their dues. Your generosity makes it possible for me to answer those who don't send SASEs. (Letters without SASEs go to the bottom of the pile.)
+
   Queen's Own Collegia programming at Dragon&#42;Con was organized and capably run by Morgan. Evidently she has recovered from post-convention stress because I've been asked to announce her latest convention, HIGHFLIGHT 0.5, The Relaxacon. From Morgan:
+
   "The 1998 HIGHFLIGHT Point.5 convention will be January 16-18, with con rates for rooms good for three days before and after the convention. Such a deal I got!! &lt;grin> What we'll mainly be doing in 1998 is planning the 1999 convention. We'll have a big meeting on Saturday evening, most likely, where we'll figure out committees, and find out who wants to do what and when. That way, we'll be able to start planning for 1999 and hopefully do something enjoyable for everyone.
+
   "To reserve your room at the hotel, contact Holiday Inn Orlando North [Ed. note 2005: Out-of-date info withheld.]. Tell them you are with HIGHFLIGHT for convention rates. $58--single/double; $68--triple/quad + tax, naturally.
+
   "We need to fill 18-20 rooms by December 18th in order to get our function space FREE, so reserve now!! "A flyer should be forthcoming soon (I hope). It's going to be what's old-fashionably and commonly known as a Relaxacon, with no set schedule, no &#96;guests' (except those who just want to show up!), and a lot of fun just sitting around enjoying Florida and whatever it happens to bring weather-wise. &lt; G > There is a swimming pool, but it's not heated; since January can be anything from 80 to 10 degrees, you'll just have to take your chances. I do understand there's a Jacuzzi, though . . .
+
   "Prices for the Relaxacon will be: Till November 15 --$15; Till January 1--$20; At the door--$25; One Day--$10. Send your reservation to [Ed. note 2005: Out-of-date info withheld.]. Please make checks payable to Marilyn I. Morey.
+
   " . . . More info can be had by having them e-mail me at [Ed. note 2005: Out-of-date info withheld.] or at the above address. Please include an SASE if you want a speedy answer to snail mail."
+
   To receive the above mentioned flyer, send a SASE or e-mail to Morgan, not the QO address. Queen's Own is not connected in any way to this convention, although I hope to have an update for you in the December newsletter.
+
   ## FAN MESSAGES:
+
   [Ed. note 2005: Content withheld.]
+
   ## PERSONALS:
+
   [Ed. note 2005: Content withheld.]
+
   Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+
   Deadline for next newsletter contributions: November 21--earlier is better. Remember, this is the last issue before the holidays. Next Mailing Day: December 6, 1997--Call [Ed. note 2005: Out-of-date content withheld.] for directions. Call before coming, emergencies can cancel mailings.
+
   Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Border Designs - Herald Alora Mailing Day Helpers (last issue)--Arielle Amethyst Willow'Wind, SpiritBlade, and Barbara Leflar Jackson.
+
   [End Excerpt]
+
   <img alt="" loading="lazy" src="/barcomp.gif"/>
+
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+
   Newsletters are published on (or near) the first of each month.
+
   Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+
   Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
+
   Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
+
   Zhai'helleva,
+
   Herald-Mage Adept Danya Winterborn
+
   <img alt="" loading="lazy" src="/barcomp.gif"/>
+
   <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
+
   <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

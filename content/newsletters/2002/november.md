@@ -81,26 +81,38 @@ Zhai'helleva,
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
 1. **When did you join Queen's Own?**
+
   October 1994.
 2. **What got you hooked on Misty's books?**
+
   Actually Jody Lee�s cover for *Magic�s Pawn* grabbed my attention, and then I read the back of the book for the summary. I wanted to know why the boy on the cover looked so forlorn-like his best friend had just died.
 3. **What else do you read?**
+
   I read a variety of other SF and Fantasy authors. I enjoy Morgan Llewellyn�s historical novels. She has written a bit of fantasy, too. I loved Ursula LeGuin�s Earthsea trilogy when I was in 7th grade. I�m waiting for Kate Elliott�s next book in her *Crown of Stars* series to come out. I just finished reading Mindy Klasky�s *Glasswright�s Apprentice* saga, or as much as she has done so far. I�m working on rereading *The Lord of the Rings* before Part II hits the theaters in December. I�m also diving into *Rhapsody* by Elizabeth Haydon, another new author.
 4. **What types of music do you listen to?**
+
   I listen to a wide variety, but my favorite is Classical and New Age. I am a big fan of Enya, Clannad, and other Celtic artists. I had the pleasure to hear a Scotsman sing at the Scottish games and Golden Bough at Orycon a few years back.
 5. **What movies do you enjoy?**
+
   I�ll watch stuff on the Silver Screen that I�d probably never read in book or short story form. I enjoy Science Fiction and Fantasy films, Suspense/Thrillers, Mysteries, Action/Adventure films, Romance, Historical Drama (if they�re doing a period of history, I�m there!), Comedies, and a lot of stuff. (It would take up too much room to list all my favorites
 6. **What was the first con you went to?**
+
   Orycon 19.
 7. **Why did you get involved in fandom?**
+
   I�m an unpublished writer, and it kind of comes with the territory. I wanted to socialize with people who have imagination and intelligence. I wanted to learn more about writing and have fun at the same time. Besides, I love going to watch the masquerades and listen to the filkers!
 8. **What do you like best about fandom?**
+
   I think that the thing I like best is that the people are very open-minded and they don�t care if you�re different. Being "normal" doesn�t have a real definition (especially when I saw someone at Orycon with a propeller beanie walking the halls!). You can be whoever you want to be, dream whatever you want, and people take you at face value.
 9. **What other things besides Queen's Own occupy your time?**
+
   Writing on my two novels takes whatever time I have on my days off from work, after work, or whenever I can get to pen and paper or the computer.
+
   I sometimes sit down to play a game of *Diablo II: Lord of Destruction* to vent frustrations after work, or delve into the many worlds of MYST. (It took me forever to crack some of the puzzles in that game!)
+
   Spending some time with my family is also important to me, especially after my mom�s and my own divorce.
 10. **What types of things would you like to see Queen's Own do in the coming years?**
+
   I think it would be great if we could all meet somewhere, like a giant Misty fan convention! I miss the Pacific NW Collegium�s small get-togethers for filksinging at Herald Charna�s in Washington State. That was so much fun! Herald Alora and I used to go.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
@@ -321,7 +333,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Elven Lady by Gibel Encarnacion" class="float-center border-5" loading="lazy" src="/qo137.jpg"/>
+<img alt="Elven Lady by Gibel Encarnacion" class="border-5 float-center" loading="lazy" src="/qo137.jpg"/>
 
 ## Member News:
 
@@ -346,7 +358,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Celith by Gibel Encarnacion" class="float-right border-5" loading="lazy" src="/qo138.jpg"/>
+<img alt="Celith by Gibel Encarnacion" class="border-5 float-right" loading="lazy" src="/qo138.jpg"/>
 
 ## Other Fandoms:
 
@@ -362,7 +374,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Darkell by Gibel Encarnacion" class="float-left border-5" loading="lazy" src="/qo139.jpg"/>
+<img alt="Darkell by Gibel Encarnacion" class="border-5 float-left" loading="lazy" src="/qo139.jpg"/>
 
 ### Collegium News:
 
@@ -429,9 +441,11 @@ Moonstar
 
 - **From Jennifer M. Mackay/Herald Mallea D'Lar. To all my old (and new) pen pals:** I moved back to Oregon in November of 2001. I am now using my maiden name (getting a divorce). Somehow I managed to lose track of Queen's Own and life in fandom due to Mundania Madness . . . and now that I've escaped, I'm back! My interests are wide and long, so write me to find out more! Currently, I enjoy reading mostly Fantasy and SF. I will read other genres and Classical Literature, plus nonfiction. Some of my favorite authors are: Misty, JRR Tolkien, Kate Elliott, Patricia Kenneally-Morrison, Morgan Llewellyn, Ursula K. LeGuin, Margaret Weiss and Tracy Hickman (DragonLance books), Edgar Allan Poe, and many more! I've been reading new authors, too. Mindy L. Klasky (Glasswright's Apprentice saga), Kristin Britian (The Greenrider), and I'm currently reading Elizabeth Haydon's Rhapsody. I am an unpublished author working on an SF novel and a fantasy novel, plus various short stories. I write in my spare time and whenever I can squeeze a line or two on paper if I'm away from the computer. I enjoy watching movies, going to the beach, the mountains, and the bookstore! I also like listening to music: Classical, soft Jazz, Techno, '80's Pop/New Wave, Folk/World, New Age, Celtic, and Soundtracks. I like some Oldies and Classic Rock, too. I used to do comics (money constraints hold me back but still have my old ones) and RPG's like D&D and others. I still enjoy doing the Scottish Games, SF/F cons, and I went to my first Ren. Faire this autumn! I'm very interested in my Scottish Highland Clan heritage. I've got my traditional garb (in Mackay tartan) ready for next year's games! If you write or E-mail, I'm sure we can find something in common! Letters via Post Awful: Jennifer M. Mackay, P.O. Box 66408, Portland, OR 97290-6408. E-mail: [mackayjennifer@netscape.net](mailto:mackayjennifer@netscape.net), [mackayjenn@hotmail.com](mailto:mackayjenn@hotmail.com).
 - **From Herald-Mage Danya. To: All. Re: Help Wanted!** We need:
+
   - Monthly help compiling the list of Ren. Faires and Cons.
   - People to type in old newsletters.
   - Child care for Danya so she can code.
+
   If you can be of assistance, please contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.

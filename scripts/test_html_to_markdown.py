@@ -25,6 +25,16 @@ class ConvertTests(unittest.TestCase):
         self.assertEqual(md('<ul><li>one</li>stray<b>two</b><li>three</li></ul>'),
                          '- one\n- stray**two**\n- three')
 
+    def test_block_content_inside_paragraph_is_not_flattened(self):
+        self.assertEqual(
+            md('<p>intro<font color="black"><h2>Ren Faires</h2><p>Here.</p><h3>Florida</h3></font></p>'),
+            'intro\n\n## Ren Faires\n\nHere.\n\n### Florida')
+
+    def test_list_item_block_is_separated_from_following_text(self):
+        self.assertEqual(
+            md('<ol><li>Q1</li><li>Q2<img src="a.gif" alt=""/><h2>Heading</h2><p>Body</p></li></ol>'),
+            '1. Q1\n2. Q2<img alt="" src="a.gif"/>\n\n  ## Heading\n\n  Body')
+
     def test_links_convert_to_markdown(self):
         self.assertEqual(md('<p><a href="/here/">Here</a></p>'), '[Here](/here/)')
         self.assertEqual(md('<p><a href="mailto:a@b.com">a@b.com</a></p>'),
@@ -61,7 +71,7 @@ class ConvertTests(unittest.TestCase):
     def test_div_center_and_presentational_tags_are_dropped(self):
         self.assertEqual(md('<center><span class="c-red"><u>x</u></span></center>'), 'x')
 
-    def test_unescaped_pseudo_tag_is_literal_text(self):
+    def test_grin_emoticon_is_literal_text(self):
         self.assertEqual(md('<p>grin <g> more</p>'), 'grin &lt;g>more')
 
     def test_underscores_and_brackets_need_no_escapes(self):

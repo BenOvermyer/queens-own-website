@@ -25,6 +25,7 @@ Misty has included a ton of different animals on Velgarth. Some have equivalents
 - Brindle Mastiffs
 - Buzzards
 - Change-beasts
+
   - Change-Bears
   - Change-Boars
   - Change-Lions
@@ -191,4 +192,6 @@ Bondbirds are more intelligent than cats but not quite as intelligent as small c
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/) [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
+
+[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

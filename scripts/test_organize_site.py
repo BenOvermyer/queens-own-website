@@ -21,6 +21,12 @@ class OrganizationTests(unittest.TestCase):
         bookstore = 'https://dragonlords.fans/bkstore.htm'
         self.assertEqual(organize_site.rewrite_url(bookstore, 'qofun.htm', aliases, {}), bookstore)
 
+    def test_rewrite_body_canonicalizes_markdown_link_destinations(self):
+        aliases = {'/qob.htm': '/bard-handout/'}
+        body = organize_site.rewrite_body(
+            'See [Bard](/qob.htm) and [https://queensown.org/qob.htm](/qob.htm).', 'qofaqb.htm', aliases, {})
+        self.assertEqual(body, 'See [Bard](/bard-handout/) and [/bard-handout/](/bard-handout/).\n')
+
     def test_publication_periods_keep_centuries_and_season_labels(self):
         self.assertEqual(organize_site.classify('qomar90.htm', {}, {})['issue']['year'], 1990)
         self.assertEqual(organize_site.classify('qojan05.htm', {}, {})['issue']['year'], 2005)

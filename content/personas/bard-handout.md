@@ -45,7 +45,7 @@ If you have two Gifts, you *might* be a Bard. Roll twice on the table below, ign
 
 If you rolled a result of three Gifts, you have Talent, Creativity and Bardic. You are a Bard, and you do not need to roll on this table. Continue to the next section of the handout.
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:80%">
+<table class="cellpadding-2 cellspacing-2 border-2" style="width:80%">
 <tr>
 <th>Die Roll</th>
 <th>Musical Gift</th>
@@ -129,12 +129,16 @@ To attain a specialty as a Bard:
 
 1. Earn the points necessary to become a Bard.
 2. Choose your specialty and complete the requirement associated with it:
+
   - <a id="teach"></a><a id="teacher"></a>Teacher
+
     - History: Write a 20-page paper on the real Historical event of your choice.
     - Literature: Write a 20-page paper on the real Literary work of your choice.
     - Relgion: Write a 20-page paper on the real Religion of your choice.
+
     Exception: If you already a teacher of history, literature or religion at the Elementary, Junior High or Senior High level, you may automatically claim Bardic Teacher status. However, please develop your Velgarth persona so others may interact with you in character.
   - <a id="court"></a>Court Musician: Become a professional performing musician at the venue of your choice.
+
     Exception: If you already a professional musician, you may automatically claim Court Musician status. However, please develop your Velgarth persona so others may interact with you in character.
   - <a id="story"></a>Storyteller: Become a volunteer reader at your local library.
 

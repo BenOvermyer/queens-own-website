@@ -33,7 +33,7 @@
       "path": "content/community/chapters.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "57b5bb12d546538ab7f8aed96a32ceb55c024a1b16340747ef35a8039044de0a",
+        "visible_text_sha256": "e6773574e976273eb30eb4a2fce2341d2ef9596ba54d0b96f720566fab07d9e1",
         "links": 1,
         "images": 3,
         "anchors": [
@@ -205,7 +205,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "180e6d9dd98b31fe40e39c6afb260c151abbc0b0f3d484c16d8ac6df518ff3e4",
+        "visible_text_sha256": "34d6e2d038656e640d97f1cc8b852bdcd1e4b7d2cde4e42de8f8ff56cc1915a9",
         "links": 70,
         "images": 38,
         "anchors": [
@@ -237,7 +237,7 @@
       "path": "content/community/mercedes-lackey-links.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "82b8213d4bf456956350911f0decc81d4aff3cd326cee0079eaae045ca568cbb",
+        "visible_text_sha256": "3c77c1d14dd43968fe4d9b03b4c89d5d1a4c21545bb4e85f6aa07bc09da2dad1",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -2706,7 +2706,7 @@
       "path": "content/newsletters/2003/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "dbe02299ac0f09b1ee2a3d3414cb573e6e1b6545324f3ae56bc87166ae2fa549",
+        "visible_text_sha256": "39930b764bbac7cf1e687c5e7a9400ac4f4a110403a253d0c84bf6f7e4cb898c",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2719,7 +2719,7 @@
       "path": "content/newsletters/2003/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "08ba7a64d1da6614a12c589e1a7e2e8478013a14d0fb3b47d2e211332d19462d",
+        "visible_text_sha256": "527837157a7c1e76c9bc4adbb4b44f4862d6242e5b2c369680dd02c1c4ef5bc7",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2732,7 +2732,7 @@
       "path": "content/newsletters/2003/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "b9ac529b5d443ac6b28c286823a4e73c8d8e1191e4db0d1c950b267495aa4a4a",
+        "visible_text_sha256": "cdb178be809e48b4468000ebe65d9805f9fc3bb393b1ae172d1eb8f33f8e58fe",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2771,7 +2771,7 @@
       "path": "content/newsletters/2003/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "28f4901df06a9309fb104b12d9eabc09140754ff21c1610375bafd30655c6f32",
+        "visible_text_sha256": "07daae46d03173db9a0b059f5f180b9330920a95287794ca6dfa7a3b5b8ea7f4",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2784,7 +2784,7 @@
       "path": "content/newsletters/2003/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "443ff001c56631ccc50f0b79414a05ef0c4601bf796333f9bbf483bb0b049501",
+        "visible_text_sha256": "87fa51d46666968f7c44849cf5cb142f9b23cd5badb49e6eb01b98c6c6e2732f",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2797,7 +2797,7 @@
       "path": "content/newsletters/2003/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "dc223813f3de8fb5da0cdfa8b42004eb271e02a4fa8fab290e0dc2b0a24e244f",
+        "visible_text_sha256": "121b416da860d3fe38fe7146e37bbead8df1b5b75acd8ce5ed4635e4c975746a",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2810,7 +2810,7 @@
       "path": "content/newsletters/2003/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "862984edfc8d22969308447d28ec0e17ab7a1f3db0be7df3c0f231eccfd3a239",
+        "visible_text_sha256": "ecacda50c1e394775164369a1c7c1caa2e823434c9676465107f37cc8d81a874",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2823,7 +2823,7 @@
       "path": "content/newsletters/2003/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "8e19828d591682665cc2b43572abbcd69ed9b1996bf67495fb6974a3f9d94e32",
+        "visible_text_sha256": "13cc0ab143727fc23d4e68736eb112b037f6934fcf7bbca9fbf3b754f4d830b2",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2836,7 +2836,7 @@
       "path": "content/newsletters/2003/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "04b56f6b173115e421bac4533a54e8451344d325e68393f35501f74fe984c70f",
+        "visible_text_sha256": "bc9a55b1e43303b2b5069d11e331895befe4757491c1ab27d4e54864008b5ea5",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -2849,7 +2849,7 @@
       "path": "content/newsletters/2003/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "46ef4c6da97082a837be8af3a82a89b03d051b07ff8d8171702491a0f0a5a539",
+        "visible_text_sha256": "ad8165f4506d2669ad1549517597b808335ddfad9d62e39c19a296b72224a7ee",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2992,7 +2992,7 @@
       "path": "content/newsletters/2004/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "8b1e1db3fc426551269695ace944cef3cdb99a5eddfc180c666527b1a973cefe",
+        "visible_text_sha256": "ccc099148e12688bde0764ec6b416d3d1330067167958d19a3d94d3d2d3a6bd8",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -3057,7 +3057,7 @@
       "path": "content/newsletters/2005/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "fca6ad1130452161e23d8558cdaec5c3870f41cd87e1fb759bc152f4bd01a79b",
+        "visible_text_sha256": "4df991742e3fb83be3e424c05fec8dd2e7dc0fff25447cf2206652d09c3fb336",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -3412,7 +3412,7 @@
         "anchors": [
           "formal"
         ],
-        "tables": 0,
+        "tables": 1,
         "headings": [],
         "legacy_source": "qorel.htm"
       }

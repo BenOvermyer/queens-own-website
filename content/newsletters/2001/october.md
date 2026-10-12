@@ -44,7 +44,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Loki by Michell Cornette" class="float-left border-3" loading="lazy" src="/qo97.jpg"/>
+<img alt="Loki by Michell Cornette" class="border-3 float-left" loading="lazy" src="/qo97.jpg"/>
 
 ## Ren Faires:
 
@@ -422,7 +422,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Necromancer by Michell Cornette" class="float-right border-3" loading="lazy" src="/qo98.jpg"/>
+<img alt="Necromancer by Michell Cornette" class="border-3 float-right" loading="lazy" src="/qo98.jpg"/>
 
 ## Member News:
 
@@ -450,7 +450,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Watching the Flames by Michell Cornette" class="float-right border-3" loading="lazy" src="/qo100.jpg"/>
+<img alt="Watching the Flames by Michell Cornette" class="border-3 float-right" loading="lazy" src="/qo100.jpg"/>
 
 ## Other Fandoms:
 
@@ -477,7 +477,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 We have no new personae to announce at this time (although three people are very close to approval). Several former members, however, have returned. Check out [/persona-directory/](/persona-directory/) as well as our Delphi forum to see who has reappeared! (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 
-<img alt="Reverse Kitsuni by Michell Cornette" class="float-left border-3" loading="lazy" src="/qo99.jpg"/>
+<img alt="Reverse Kitsuni by Michell Cornette" class="border-3 float-left" loading="lazy" src="/qo99.jpg"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 

@@ -17,7 +17,8 @@ Rules:
 * a ``<br>`` becomes a soft line break (joined text), and Markdown metacharacters in
   text are escaped with entities rather than backslashes.
 
-Text is escaped for Markdown so leftover ``<g>``-style text renders literally.
+Text is escaped for Markdown so leftover ``<g>``-style emoticons render literally as
+the old "grin" shorthand rather than being dropped or parsed as HTML.
 """
 import html
 import re
@@ -142,7 +143,9 @@ def _list_item(item):
     flush()
     rendered = parts[0] if parts else ''
     for block in parts[1:]:
-        rendered += '\n' + '\n'.join('  ' + line for line in block.splitlines())
+        # Separate a trailing block (heading, table, image) from the item text with a
+        # blank line; otherwise an HTML block swallows the Markdown that follows it.
+        rendered += '\n\n' + '\n'.join('  ' + line for line in block.splitlines())
     return rendered
 
 
@@ -205,6 +208,11 @@ def _layout_table(table):
 def _block(element):
     name = element.name
     if name == 'p':
+        # A malformed source can leave block elements inside a paragraph (for example an
+        # unclosed <font> that swallows the rest of the document). Render those as blocks
+        # rather than flattening the whole paragraph into a single line.
+        if element.find(LAYOUT_BLOCK_TAGS):
+            return _render(element)
         return _inline(element)
     if name in HEADING_TAGS:
         return _heading(element)

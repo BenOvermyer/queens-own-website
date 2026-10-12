@@ -27,10 +27,24 @@ classes.
 **Malformed markup → clean HTML.** The original pages had mismatched or missing
 attribute quotes (`href='page.htm">`, `href="mailto:a@b.com>a@b.com</a>`, links whose
 `href` swallowed their own `</a>`, and malformed `<font=…>` tags), plus unescaped
-`<` that turned emoticons (`<g>`) and broken links (`<http:>`) into bogus elements.
+`<` that turned the era's ``<g>`` "grin" emoticon (shorthand that predates emoji) and
+broken links (`<http:>`) into bogus elements.
 `scripts/markup_repairs.py` normalizes the quotes and broken fragments on the raw
-archive bytes, and `scripts/markup_normalize.py` escapes the bogus elements back to
-text.
+archive bytes, and `scripts/markup_normalize.py` escapes the emoticons and fragments
+back to literal text.
+
+**Emoticons read as tags.** A ``<g>`` (grin) is text, not a tag, but a lenient parser
+reads it as an unknown element and can nest the content that follows inside it — an
+unclosed `<font>` can likewise wrap the rest of a page. `scripts/markup_normalize.py`
+releases list items that were nested this way, and `scripts/html_to_markdown.py` renders
+block content found inside a paragraph as blocks instead of flattening it into one
+line, so a single stray emoticon or tag no longer collapses a long newsletter.
+
+**HTML blocks that would swallow Markdown.** A standalone `<img>` (or other block
+tag) placed immediately before prose starts an HTML block that hides every following
+Markdown line until a blank line. The converter now separates a list item's trailing
+block from the text that follows it, and `scripts/verify.py` scans the built pages for
+unrendered Markdown headings or link syntax so a reimport cannot quietly restore this.
 
 **Nesting, headings, anchors.** `scripts/markup_normalize.py` moves named anchors and
 table-of-contents links onto their headings, releases block content out of stray
@@ -76,5 +90,8 @@ now fenced code blocks, so nothing needs to be preserved as escaped markup.
 
 ## Not yet covered
 
-Rendering on desktop and mobile is a manual check against the built site; the audit
-inspects source markup only. The table classification is editorial.
+Rendering on desktop and mobile is still a manual check against the built site.
+`scripts/verify.py` runs automated checks against the built pages (unresolved PDF
+hosts, missing local links and anchors, and unrendered Markdown), and the audit
+inspects source markup for structural, presentational, and semantic problems;
+the table classification is editorial.

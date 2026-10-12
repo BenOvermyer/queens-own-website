@@ -239,6 +239,7 @@ with C.J. Cherryh:
 7. Welcome, **Herald Alanna Meris**. Andrea Kylara tells us that Herald Alanna was Chosen by the mare Cara. Her gifts are Empathy and Animal Mindspeech. Andrea sent character sketches of Alanna and her little sister Kanna, photos of herself in her Herald whties, a map of Valdemar showing Alanna's hometown, and drawings of a costume and Alanna.
 8. **Herald Dezalina** was Chosen by the stallion Kandar, and has the gift of Mindspeech. Helena Rotell sent information on the care and feeding of horses, a picture of herself on her horse Cocoa, a poem, character sketches, and a story.
 9. A belated but very sincere welcome to **Herald Cameron Tarn**, Chosen many months ago by the Companion Starmer. Tammy Denault tells us that Tarn's gifts are Fetching and Mindspeech. Tammy sent a character outline, a story, a poem, maps of Tarn's home, and pictures of herself in her Herald's whites.
+
   (I discovered Tammy's Herald material, postmarked April 17th, just a few days ago! To Tammy, my embarrassed apologies. To the rest of QO, my promise that I will try very hard to keep such a thing from happening again.)
 
 Congratulations to our new Heralds! There is no way my inadequate words can describe the wonders that I am sent! "A story, a persona sketch, a drawing, a poem"--this says so little of the hours of work that have gone into each Herald packet. And the talent! THank you all for sharing so much of yourselves with Misty and me.

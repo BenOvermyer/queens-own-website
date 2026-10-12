@@ -54,7 +54,7 @@ Zhai'helleva,
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Hell's Courtesan by Laura Cameron" class="float-right border-3" loading="lazy" src="/qo84.jpg"/>
+<img alt="Hell's Courtesan by Laura Cameron" class="border-3 float-right" loading="lazy" src="/qo84.jpg"/>
 
 ## Ren Faires:
 
@@ -346,7 +346,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Greenman by Laura Cameron" class="float-right border-3" loading="lazy" src="/qo85.jpg"/>
+<img alt="Greenman by Laura Cameron" class="border-3 float-right" loading="lazy" src="/qo85.jpg"/>
 
 ## Member News:
 
@@ -401,7 +401,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 - Welcome to **Tayledras Adept Fireblade k�Treva**, Gifted with Mindspeech with Bondbirds, Humans and Other Races, and her Bondbird Kyr'na (a red-tailed hawk)! Kristi wrote about Fireblade and her family and her friends, drew a picture of her persona and wrote a poem.
 
-<img alt="Thought and Memory by Laura Cameron" class="float-left border-5" loading="lazy" src="/qo87.jpg"/>
+<img alt="Thought and Memory by Laura Cameron" class="border-5 float-left" loading="lazy" src="/qo87.jpg"/>
 
 ### From Healer Adept Moonstar:
 

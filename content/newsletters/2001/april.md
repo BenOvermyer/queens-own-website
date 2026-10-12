@@ -61,7 +61,7 @@ Zhai'helleva,
 
 ## Ren Faires:
 
-<img alt="Changling by Cassandra Vuksa" class="float-left border-2" loading="lazy" src="/qo68.jpg"/>
+<img alt="Changling by Cassandra Vuksa" class="border-2 float-left" loading="lazy" src="/qo68.jpg"/>
 
 Here are the faires we know about that are happening in April. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com)
 

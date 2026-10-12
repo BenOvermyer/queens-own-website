@@ -24,7 +24,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 3, No. 5 May 1, 2002
 
-<img alt="Herald-Calisa by Devin Harris" class="float-center border-5" loading="lazy" src="/qo118.jpg"/>
+<img alt="Herald-Calisa by Devin Harris" class="border-5 float-center" loading="lazy" src="/qo118.jpg"/>
 
 Heyla, Misty fans!
 
@@ -55,24 +55,34 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
+
   My persona was approved in the February 2001 newsletter.
 2. **What got you hooked on Misty's books?**
+
   Gryphons (from a computer game and from my love of mytholigical creatures).
 3. **What else do you read?**
+
   Harry Potter, Star Wars (used to anyway), and LotR.
 4. **What types of music do you listen to?**
+
   Almost any, with the exception of music that makes absolutely no sense (heavy metalish stuff).
 5. **What was the first con you went to?**
+
   Haven't been to one yet.
 6. **What do you like the best about Queen's Own?**
+
   There are other people out there that are like me!! We help each other too, personally if it just so happens &lt;g>.
 7. **Why did you choose to the editor of a Queen's Own fanzine/newsletter?**
+
   It needed to be done. A fanzine is important for bringing in more people and expanding our Queen's Own club, and it brings more enjoyment in joining a club as well.
 8. **What does putting out an issue of your fanzine/newsletter involve?**
+
   Considerable time, patience, and the energy and passion to do so.
 9. **What do you like to see in the way of story and/or art submissions to your fanzine/newsletter?**
+
   Any at all, as long as it's based on QO. I'm actually planning myself in submitting a few stories I'm writing up to the fanzine (as well as to the other fanzines)
 10. **What other projects besides Queen's Own occupy your time?**
+
   A story set in the time of Heralds of Valdemar series, only after the events of the Mages Storms and Darian�s tale. About another Eastern Empire attack and the return of a demon. More on that later . . .
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>

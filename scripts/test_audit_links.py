@@ -9,7 +9,7 @@ from unittest.mock import patch
 
 import audit_links
 from bs4 import BeautifulSoup
-from link_repairs import repair_anchors
+from link_repairs import annotate_gaps, repair_anchors
 
 
 class LinkAuditTests(unittest.TestCase):
@@ -85,6 +85,14 @@ class LinkAuditTests(unittest.TestCase):
         report = self.run_audit()
         self.assertEqual(next(r for r in report['targets'] if r['target'] == '/missing')['status'], 'unavailable_content')
         self.assertEqual(next(r for r in report['targets'] if r['target'] == '/missing#main')['status'], 'local_available')
+
+
+class GapAnnotationTests(unittest.TestCase):
+    def test_disposition_matches_by_original_target_after_canonicalization(self):
+        soup = BeautifulSoup('<a href="/qodec98.htm">December 1998</a>', 'lxml')
+        annotate_gaps(soup, {'/newsletters/1998/december': {'original_target': '/qodec98.htm'}})
+        self.assertEqual(soup.find('a')['title'], 'Unavailable in the preserved archive')
+        self.assertIsNotNone(soup.find('span', class_='unavailable-note'))
 
 
 if __name__ == '__main__':

@@ -26,10 +26,24 @@ class NormalizeHeadingTests(unittest.TestCase):
         self.assertIsNone(soup.find('h3'))
 
 
-    def test_unescaped_pseudo_tag_becomes_text(self):
+    def test_grin_emoticon_becomes_text(self):
         soup = normalized('<p>grin <g> and more</p>')
         self.assertIsNone(soup.find('g'))
         self.assertIn('&lt;g&gt;', str(soup))
+
+
+class NormalizeListTests(unittest.TestCase):
+    def test_unclosed_pseudo_tag_does_not_nest_following_items(self):
+        soup = normalized('<ol><li>one <g><li>two</li><li>three</li></ol>')
+        items = soup.find('ol').find_all('li', recursive=False)
+        self.assertEqual([item.get_text(' ', strip=True) for item in items],
+                         ['one <g>', 'two', 'three'])
+
+    def test_genuine_nested_list_is_left_alone(self):
+        soup = normalized('<ul><li>outer<ul><li>inner</li></ul></li></ul>')
+        outer = soup.find('ul')
+        self.assertEqual(len(outer.find_all('li', recursive=False)), 1)
+        self.assertIsNotNone(outer.find('li').find('ul'))
 
 
 class NormalizeAnchorTests(unittest.TestCase):

@@ -27,6 +27,7 @@ Members of Queen's Own are granted permission to display this seal on their webs
 
 1. Right click on the image and use the "Save Image As" option to save the file to your disk. Post the copy of the image to your site.) Do not steal our bandwidth or permission to display this seal will be revoked.
 2. Paste this code on the page where you want the image to appear:
+
   ```
   <!-- Start QO Seal HTML Fragment -->
   <a href="/"><img src="qoseal.jpg" border=0 alt="Queen's Own Seal, 2003-2004"></a>

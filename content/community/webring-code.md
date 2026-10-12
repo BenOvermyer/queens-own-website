@@ -33,7 +33,31 @@ Graphic 2:
 
 Copy this code to your page. If you lose your generated code, here is the generic code:
 
-``` <P> <!--Begin Queen's Own Official Webring Fragment--> <p> <table border=5 cellspacing=2 cellpadding=2 width="50%" align=center> <tr> <td align=center valign=middle width="20%"><font face="Harem" size=2> <a href="/club-webring/"><img src="qoq.gif" border=0 alt="Queen's Own" height=100 width=80></a></td> <td align=center valign=middle width="60%"> This<br> <a href="/club-webring/">Queen's Own</a><br> site is owned by <a href="mailto:YOUR_EMAIL">YOUR_NAME</a>.<P>[<a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;prev5">Previous 5 Sites</a> | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;prev">Previous</a> | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;next">Next</a> | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;next5">Next 5 Sites</a><br> | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;random">Random Site</a> | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;list">List Sites</a>]</td> <td align=center valign=middle width="20%"><font face="Harem" size=2> <a href="/club-webring/"><img src="qoo.gif" border=0 alt="Queen's Own" height=100 width=80></a></td> </tr> </table> </font> <!--End Queen's Own Official Webring Fragment--> <P> ```
+```
+<P>
+<!--Begin Queen's Own Official Webring Fragment-->
+<p>
+<table border=5 cellspacing=2 cellpadding=2 width="50%" align=center>
+<tr>
+<td align=center valign=middle width="20%"><font face="Harem" size=2>
+<a href="/club-webring/"><img src="qoq.gif" border=0 alt="Queen's Own" height=100 width=80></a></td>
+<td align=center valign=middle width="60%">
+This<br>
+<a href="/club-webring/">Queen's Own</a><br>
+site is owned by <a href="mailto:YOUR_EMAIL">YOUR_NAME</a>.<P>[<a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;prev5">Previous 5 Sites</a>
+| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;prev">Previous</a>
+| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;next">Next</a>
+| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;next5">Next 5 Sites</a><br>
+| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;random">Random Site</a>
+| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;list">List Sites</a>]</td>
+<td align=center valign=middle width="20%"><font face="Harem" size=2>
+<a href="/club-webring/"><img src="qoo.gif" border=0 alt="Queen's Own" height=100 width=80></a></td>
+</tr>
+</table>
+</font>
+<!--End Queen's Own Official Webring Fragment-->
+<P>
+```
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 

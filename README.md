@@ -102,10 +102,13 @@ then rerun the organizer, rebuild, and verify.
 
 ## HTML markup repair and audit
 
-The original pages contain malformed attribute quoting and unescaped `<` that a
-lenient parser turns into swallowed links, escaped markup, and bogus elements.
+The original pages contain malformed attribute quoting and unescaped `<`. The pages
+predate emoji, so they use ``<g>`` (grin) and similar letter emoticons as text, which a
+lenient parser reads as unknown elements and can turn into swallowed links, escaped
+markup, and bogus tags.
 `scripts/markup_repairs.py` repairs the quotes and broken fragments in the raw archive
-bytes; `scripts/markup_normalize.py` repairs nesting, headings, anchors, and pseudo-tags
+bytes; `scripts/markup_normalize.py` repairs nesting (including emoticons read as tags
+that swallow block content or nest list items), headings, anchors, and emoticons
 and then converts the page to Markdown via `scripts/html_to_markdown.py`; and
 `scripts/markup_destyle.py` turns the presentational markup that survives inside kept
 HTML (tables and images) into shared classes in `static/css/site.css`. Both importers
@@ -114,7 +117,8 @@ run the full sequence, so a reimport emits the same Markdown;
 `scripts/audit_html.py` audits the remaining HTML for structural, presentational, and
 semantic problems and records a content-preservation baseline.
 `python3 scripts/audit_html.py --check` fails while unresolved structural errors
-remain, and `scripts/verify.py` runs it during deployment verification. Intentional
+remain, and `scripts/verify.py` runs it, plus a scan of the built pages for unrendered
+Markdown, during deployment verification. Intentional
 exceptions are listed in `data/html-exceptions.json` and documented in
 [`docs/html-audit.md`](docs/html-audit.md).
 

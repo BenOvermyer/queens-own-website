@@ -45,16 +45,20 @@ For the locations of these Clans, see the maps by Larry Dixon with Daniel Green 
 Here are the known ranks within a Tayledras Clan:
 
 - Mage
+
   - Healer Adept (Heal environments, not people)
   - Adept (individually, can use magical nodes and ley-lines; as a group can create Heartstones)
   - Master (can use magical ley-lines but not nodes)
   - Journeyman (can only use personal power for magic)
   - Apprentice
 - Healer
+
   - Bondbird Healer
 - Scout
+
   - Borderguard
 - Clan Member
+
   - Artisan/Craftsman
   - Blacksmith
   - Dyer
@@ -155,4 +159,6 @@ Among the things that the Tayledras create are:
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/) [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
+
+[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

@@ -2,6 +2,7 @@
 """Check canonical routes, redirects, local links, anchors, and acknowledged gaps."""
 import json
 from pathlib import Path
+import re
 from urllib.parse import unquote, urlsplit
 from bs4 import BeautifulSoup
 import audit_html
@@ -13,12 +14,29 @@ output = ROOT / 'public'
 errors = []
 anchor_warnings = []
 documents = {}
+# Markdown that the renderer left as literal text means an HTML block swallowed the
+# content that followed it. Raw headings and destinations without spaces are reliable
+# signals; literal "[Ed. note ...](call ...)" prose is not.
+RAW_MARKDOWN = re.compile(r'(?m)^[ \t]{0,3}#{1,6} |\]\([^\s)]+\)')
+
+
+def raw_markdown(text):
+    """Return Markdown artifacts still visible in rendered HTML."""
+    text = re.sub(r'<pre\b.*?</pre>', '', text, flags=re.S)
+    text = re.sub(r'<code\b.*?</code>', '', text, flags=re.S)
+    text = re.sub(r'<table\b.*?</table>', '', text, flags=re.S)
+    return RAW_MARKDOWN.findall(text)
+
+
 for path in output.rglob('*'):
     if path.is_file() and path.suffix.lower() in ('.htm', '.html'):
         documents[path] = BeautifulSoup(path.read_text(), 'lxml')
 for path, soup in documents.items():
     if '__PDF_BASE_URL__' in str(soup):
         errors.append(f'Unresolved PDF host in {path}')
+    artifacts = raw_markdown(path.read_text())
+    if artifacts:
+        errors.append(f'{path.relative_to(output)}: unrendered Markdown {artifacts[:3]}')
     for node in soup.select('[href], [src]'):
         value = node.get('href', node.get('src', ''))
         url = urlsplit(value)

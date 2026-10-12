@@ -23,7 +23,7 @@ canonical_path = "/world-reference-guide/"
 
 We don't claim to have the answer to everything you've ever wanted to know about Velgarth, but we think we've made a respectable dent &lt;g>:
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:90%">
+<table class="cellpadding-2 cellspacing-2 border-5" style="width:90%">
 <tr>
 <td class="align-center valign-middle"><a href="/bards-faq/">Bards and Music</a></td>
 <td class="align-center valign-middle"><a href="/blues-and-blue-bloods-faq/">Blues and Blue Bloods</a></td>

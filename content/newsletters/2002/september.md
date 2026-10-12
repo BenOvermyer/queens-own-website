@@ -24,7 +24,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 3, No. 9 September 1, 2002
 
-<img alt="Horses by Maya Carroll" class="float-center border-5" loading="lazy" src="/qo129.jpg"/>
+<img alt="Horses by Maya Carroll" class="border-5 float-center" loading="lazy" src="/qo129.jpg"/>
 
 Heyla, Misty fans!
 
@@ -64,25 +64,36 @@ Zhai'helleva,
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
 1. **When did you join Queen's Own?**
+
   August 2001.
 2. **What got you hooked on Misty's books?**
+
   I ran across one in the book store, and as I was looking for a new fantasy series I bought it (It was the Gryphon series.). After those, I was hooked and I now own every Velgarth novel she has put out including the new *Valdemar Companion* and the short story books.
 3. **What else do you read?**
+
   Just about everything. Literature like Shakespeare, fiction, mystery, fantasy . . . a better question would be what do I not read.
 4. **What types of music do you listen to?**
+
   Again, there is not much I don't like. I think rap and heavy metal are the only two I don't have in my collection. I just recently discovered Misty's filk, so I am in the process of finding that right now.
 5. **What movies do you enjoy?**
+
   Comedy is my favorite. If I am going to sit still for that long, I want to be amused.
 6. **What was the first con you went to?**
+
   Sadly to say, I have yet to attend any. No time and none close by.
 7. **Why did you get involved in fandom?**
+
   I wanted to learn more about the books and interact with people who love them as much as I do.
 8. **What do you like best about fandom?**
+
   The community. This is the only place I can say something like "I wish my Mindspeech was stronger," or "When will we find out more about Alberich" and not get funny looks.
 9. **What other things besides Queen's Own occupy your time?**
+
   Well, work mostly. I am an Assistant Editor at a magazine. Other than that, I read, cross-stitch (If anyone knows where I can get some Valdemar-related projects, let me know!) and hang out with friends.
+
   [Ed. note: Misty did a couple of patterns for old newsletters. I�m not sure if we can get them to scan, but we�ll work on it.]
 10. **What types of things would you like to see Queen's Own do in the coming years?**
+
   Well, I am looking forward to the cookbook . . . Other than that, maybe have live chats with ML if she is willing.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
@@ -379,7 +390,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Owl by Maya Carroll" class="float-center border-5" loading="lazy" src="/qo130.jpg"/>
+<img alt="Owl by Maya Carroll" class="border-5 float-center" loading="lazy" src="/qo130.jpg"/>
 
 ## Member News:
 
@@ -404,7 +415,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Sacrifice by Maya Carroll" class="float-center border-5" loading="lazy" src="/qo131.jpg"/>
+<img alt="Sacrifice by Maya Carroll" class="border-5 float-center" loading="lazy" src="/qo131.jpg"/>
 
 ## Other Fandoms:
 

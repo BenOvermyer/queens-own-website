@@ -40,7 +40,7 @@ Misty also wrote, "Well the holidays are over and I'm still behind. Sigh. I am a
 
 And didn't you love OATHBREAKERS!?! We've asked Misty where she got her equine education. It seemed more knowledgeable than one could get just from a library. We'll pass on what we learn. Herewith we're also passing on inquiries Judith has received from many of you asking when we can expect to read again about our friends in Valdemar. We'd like to know, too, and hope our favorite author will offer some encouragement. [How 'bout it, Misty?]
 
-<img alt="The Hunt Thwarted by Lucy Synk (image unavailable in archive)" class="float-left border-2" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>Lucy Synk, whose "The Hunt Thwarted" [based on Misty's song "The Bait", wherein a sorceress turns three hunters into rabbits to protect her golden unicorn] is reproduced here, is offering it and the print "Golden Eyes" [based on the filk song of the same name by Misty] at a discount to members of QO.
+<img alt="The Hunt Thwarted by Lucy Synk (image unavailable in archive)" class="border-2 float-left" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>Lucy Synk, whose "The Hunt Thwarted" [based on Misty's song "The Bait", wherein a sorceress turns three hunters into rabbits to protect her golden unicorn] is reproduced here, is offering it and the print "Golden Eyes" [based on the filk song of the same name by Misty] at a discount to members of QO.
 
 Judith has three of Lucy's prints and they are beautiful.
 

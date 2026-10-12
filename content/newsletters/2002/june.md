@@ -24,7 +24,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 3, No. 6 June 1, 2002
 
-<img alt="Bree Sitting by Chell Cornette" class="float-center border-5" loading="lazy" src="/qo121.jpg"/>
+<img alt="Bree Sitting by Chell Cornette" class="border-5 float-center" loading="lazy" src="/qo121.jpg"/>
 
 Heyla, Misty fans!
 
@@ -59,24 +59,34 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
+
   I joined in March of 2002.
 2. **What got you hooked on Misty's books?**
+
   I first read *Winds of Fate*, and I loved it. After that, I just kept reading her books. I got the first one purely by chance. I helped out in our school library, and the cover attracted me, so I took it down to check it out.
 3. **What else do you read?**
+
   I read anything. There are books I don't like, and topics that aren't my favorite, but I'll read it anyway. My favorite things to read are fiction, and Shakespeare. I love reading anything about the Renaissance, and I like biographies as well.
 4. **What types of music do you listen to?**
+
   I listen to classical music, preferably Tchaikovsky, anime music, and J-pop. Other than that, I really don't listen to music. I don't mind a lot of music, and the only type I really dislike are bands like Tool, and others that have music like that.
 5. **What was the first con you went to?**
+
   The first con I ever went to was in August of 2001, and it was Otakon. I had such a great time, even though our hotel was a quarter of a mile away and it poured down rain all three days. I didn't have any clothing dry at the end of Sunday, and my suitcase was wet as well. I've never minded getting stuck in the rain since, and I'd do it all over if I could.
 6. **What do you like the best about Queen's Own?**
+
   The thing I like best about the Queen's Own are the people who are in it. Everyone I've talked to is a wonderful person, who has an interesting point of view and who's willing to share it.
 7. **Why did you choose to the editor of a Queen's Own fanzine/newsletter?**
+
   I chose to be the editor of a newsletter because I love writing. I love anything about it, and I had some free time that would have been better spent doing this. Besides, I get to read stories first!
 8. **What does putting out an issue of your fanzine/newsletter involve?**
+
   Putting out an issue is something I'm still working on. So far, it involves finding interesting things to put in it, and organizing it all into something that makes sense. After that, I'll let you know.
 9. **What do you like to see in the way of story and/or art submissions to your fanzine/newsletter?**
+
   In the way of art submissions, I like anything. I like a variety of styles and subject matter, but it doesn't really matter. I prefer colorful pieces, but black and white can also be good when done well. As for stories, if it's well written, chances are I'll like it. Any type of story is great, and people who have enough courage to submit their stories deserve to have them read.
 10. **What other projects besides Queen's Own occupy your time?**
+
   Other projects besides Queen's Own. Wow. Well, I don't have many projects, per say, because I do so many other things. I'm preparing to write a book now, so I work on that a lot each day. I'm a student, so I go to school and have homework to do as well. I've been taking fencing for 3-and-a-half years, and fence in competitions as well as classes. I have a rose garden that I work on a bit, and I do fansub distribution on a small scale. That's pretty much everything I do.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>

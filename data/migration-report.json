@@ -706,44 +706,20 @@
   ],
   "missing_local_links": [
     {
-      "page": "qoaug00.htm",
-      "target": "qojournal.htm\""
-    },
-    {
       "page": "qoaug89.htm",
       "target": "***.jpg"
     },
     {
       "page": "qoaug89.htm",
       "target": "***.jpg"
-    },
-    {
-      "page": "qochap.htm",
-      "target": "qogg.htm"
     },
     {
       "page": "qodec04.htm",
       "target": "qo231.jpg"
     },
     {
-      "page": "qodec97.htm",
-      "target": "mlrel2.htm"
-    },
-    {
-      "page": "qodec99.htm",
-      "target": "mailto"
-    },
-    {
-      "page": "qofanfic.htm",
-      "target": "file:///F:/Docs2/club/WEBSITE/vfcnews.htm"
-    },
-    {
       "page": "qofanfic.htm",
       "target": "Pirate.pdf"
-    },
-    {
-      "page": "qofanfic.htm",
-      "target": "file:///F:/Docs2/club/WEBSITE/qo.htm"
     },
     {
       "page": "qofun.htm",
@@ -758,14 +734,6 @@
       "target": "***.jpg"
     },
     {
-      "page": "qojan95.htm",
-      "target": "mlrel2.htm"
-    },
-    {
-      "page": "qojul99.htm",
-      "target": "mailto"
-    },
-    {
       "page": "qojun89.htm",
       "target": "***.jpg"
     },
@@ -778,10 +746,6 @@
       "target": "***.jpg"
     },
     {
-      "page": "qojun99.htm",
-      "target": "mailto"
-    },
-    {
       "page": "qolist.htm",
       "target": "qodec98.htm"
     },
@@ -795,27 +759,11 @@
     },
     {
       "page": "qolist.htm",
-      "target": "qomar.htm"
-    },
-    {
-      "page": "qolist.htm",
       "target": "qonov98.htm"
     },
     {
       "page": "qolist.htm",
       "target": "qonov98.htm"
-    },
-    {
-      "page": "qolist.htm",
-      "target": "qofeb.htm"
-    },
-    {
-      "page": "qomar95.htm",
-      "target": "mlrel2.htm"
-    },
-    {
-      "page": "qomar99.htm",
-      "target": "mailto"
     },
     {
       "page": "qomay89.htm",
@@ -824,18 +772,6 @@
     {
       "page": "qomay89.htm",
       "target": "***.jpg"
-    },
-    {
-      "page": "qomay95.htm",
-      "target": "mlrel2.htm"
-    },
-    {
-      "page": "qomay98.htm",
-      "target": "mlrel2.htm"
-    },
-    {
-      "page": "qomay99.htm",
-      "target": "mailto"
     },
     {
       "page": "qonews.htm",
@@ -919,7 +855,7 @@
     },
     {
       "page": "qonews.htm",
-      "target": "qoApr-May2019"
+      "target": "qoApr-May2019.pdf"
     },
     {
       "page": "qonews.htm",
@@ -946,10 +882,6 @@
       "target": "qoFall2022.pdf"
     },
     {
-      "page": "qonov00.htm",
-      "target": ":mailto:info@hollywoodexpo.com\""
-    },
-    {
       "page": "qonov88.htm",
       "target": "***.jpg"
     },
@@ -964,10 +896,6 @@
     {
       "page": "qosep96.htm",
       "target": "qo267.htm"
-    },
-    {
-      "page": "qosep99.htm",
-      "target": "mailto"
     }
   ]
 }

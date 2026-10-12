@@ -44,7 +44,7 @@ One request that I do have, I have noticed lately that I'm receiving more and mo
 
 Thanks to everyone who sent greetings and holiday cards. Everyone here loved them immensely. I wish I had had more time to prepare something for all of you. Please accept the enclosed card with a wish for all the good things this holiday season and into the next millennium.
 
-<img alt="Robin, Jason, Alara and Misty" class="float-left border-2" loading="lazy" src="/qo183.jpg"/>
+<img alt="Robin, Jason, Alara and Misty" class="border-2 float-left" loading="lazy" src="/qo183.jpg"/>
 
 Happy Holidays and Y2K, too!
 

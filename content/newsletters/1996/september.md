@@ -144,25 +144,47 @@ We have individual handout sheets for the aspiring Herald, Bard, Healer, Tayledr
 - *Katrina Parris* introduces **Herald Sheryl Xiante**, Chosen by Jaceu and gifted with double strength Mindspeech and Mindhealing. Katriua sent the necessary background information, drew a border design, wrote a poem and sent one to a zinc, and created Starfire Weyr and edits its zine, The Night Sky.
 - Welcome, **Herald Maelyn Stride**, Chosen by Ty'feru. *Reagan Innes* told of her persona and family and friends, wrote a poem and sent it to a zinc, sketched two costumes and drew two border designs.
 - **Herald Torque Neonderthol**, Chosen by Slipknot and gifted with double Mindspeech comes to us from *George Jackson*. George sent background material on Toque and friends, wrote a poem and submitted it to a zine, drew a map, has had martial arts training, and knows life saving techniques.
+
   ### From Herald Housemother:
+
   I took a chance and ordered Which Witch, the rock opera advertised in the July newsletter. WOW! I can't promise you'll like it, but I'll be very surprised if you don't. Kristin Roe says "This is a serious offer, not for profit; I am a dedicated fan trying to increase interest in and recognition of this brilliant piece of music. Send me US$15 cash and I will send you 2 audio tapes containing the whole opera. $15 covers all costs. I estimate 6-8 weeks for shipping. Take a chance; write to Kristin Roe [Ed. note 2005: Out-of-date info withheld.]." Expected mailing dates for the rest of '96 are 11/2 and 12/7. One date for 1997 has been changed so I too can attend Dragon&#42;Con in June. The 1997 dates are 1/11, 2/22, 4/5, 5/17, 6/21, 8/2, 9/13, 10/?5, and 12/6. When you pay your dues I count forward nine issues and put that date on your mailing label. How early can you renew your dues? Whenever you want, but please, not for more than two years.
+
   ## FAN MESSAGES:
+
   [Ed. note 2005: Content withheld.]
+
   ## PERSONALS:
+
   [Ed. note 2005: Content withheld.]
+
   Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+
   Next Mailing Day: November 2, 1996--Call [Ed. note 2005: Out-of-date info withheld.] for directions. Always call before coming, family emergencies can cancel mailings.
+
   Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Herald-Mage Registrar and Dispenser of handout sheets--Guardian of the Web, [Ed. note 2005: Out-of-date content withheld.] (Send proof of completed Herald-Mage criteria directly to the Web address, not to NJ.) Mailing Day Helper (last issue)--Steve Louvis.
+
   [End Excerpt]
+
   <img alt="" loading="lazy" src="/barcomp.gif"/>
+
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+
   Newsletters are published on (or near) the first of each month.
+
   Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+
   Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
+
   Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
+
   Zhai'helleva,
+
   Herald-Mage Adept Danya Winterborn
+
   <img alt="" loading="lazy" src="/barcomp.gif"/>
+
   <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
+
   <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

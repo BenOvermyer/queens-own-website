@@ -49,31 +49,41 @@ Zhai'helleva,
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
+
   I joined QO in May of 1992.
 2. **What got you hooked on Misty's books?**
+
   I got into Misty's books mainly due to the fact it revolved around horses and magic. I started with the Arrows trilogy. I became emotionally tied to the characters and storylines, and I truly loved all of her books.
 3. **What else do you read?**
+
   I read a lot of fantasy, starting when I was very young. I have always loved unicorns and pegasi, and etc. A natural progression, to delve into books and escape to other worlds and lives . . . I don't read as much as I used to unfortunately, but I do have many books yet to read and there are always more I yearn to explore.
 4. **What types of music do you listen to?**
+
   I like various kinds of music, but the majority tends to be '80's, soundtracks, traditional, alternative, and New Age. I absolutely adore Loreena McKennitt, Enya, Sarah McLachlan, Tori Amos, and so many others.
 5. **What was the first con you went to?**
+
   The first con I attended was the Worlds Fantasy Convention "94 in Berkeley, CA. QO had a gathering there, and I met Misty. I've attended few cons or similar events, but hope to be able to attend more in the future.
 6. **Do you sell your work at cons?**
+
   I do not sell my artwork at cons mainly because I haven't attended many and I would like to be there in person to oversee such an art show and get feedback from the con attendees. I do want to attend and be a part of con art shows once I am in a better position to do so and offer an array of quality artwork. I have sold my artwork through friends and family, and some freelancing in general. Also, I've entered a few art contests and a couple of art shows as well.
 7. **Who or what inspires your art?**
+
   Many things inspire my artwork. Books, stories, book covers, the media, music, many other artists give me inspiration and ideas, and just having a good imagination! Also, my family and friends inspire me.
 8. **Do you have any formal training or mentors?**
+
   Currently I have not attended any art college, but it has always been my goal and continues to be. I have taken art classes throughout junior and high school and a couple of private painting classes. It mainly comes from a natural ability, or artistic talent, and many years of unending practice and expression. As for mentors, my mom was the artist of the family and has always encouraged me. Along the way there have been art teachers and other artists that have bestowed upon me knowledge and support.
 9. **Describe the process you go through when you create a piece of art.**
+
   The process I go through is I usually have an idea, which I sketch out or write down my thoughts about. Then when I actually can focus on devoting time to my art I start drawing the idea or image(s) out. I am rather a perfectionist and often try to be too precise, but when I'm happy with the pencil drawing I shade it in, or go over it with pens for a black and white image. Sometimes I paint or color pencil the work, or leave it unfinished when I'm undecided. At times I just start with a blank piece of paper and a pencil, and really have no set objective. I have several sheets of paper with written ideas yet to be drawn upon.
 10. **What other projects besides Queen's Own occupy your time?**
+
   Besides projects for QO I also produce art for the club N3F, other newsletters and amateur presses, and some charities as well (animal-related). Mainly I try to draw for myself and for my own need for expression, self-exploration and well being. I do like having others to share my creations with through fandom and beyond.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
-<img alt="Ivory Crow by Michelle Cornette" class="float-left border-2" loading="lazy" src="/qo63.jpg"/>
+<img alt="Ivory Crow by Michelle Cornette" class="border-2 float-left" loading="lazy" src="/qo63.jpg"/>
 
 Here are the faires we know about that are happening in March. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com)
 
@@ -365,7 +375,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [/pacific-northwest-collegium/](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
 - **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
-<img alt="Anthro Cat by Michelle Cornette" class="float-right border-3" loading="lazy" src="/qo65.jpg"/>
+<img alt="Anthro Cat by Michelle Cornette" class="border-3 float-right" loading="lazy" src="/qo65.jpg"/>
 
 ### Zines and Newsletters:
 
@@ -407,7 +417,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 - Welcome to **Devyn Aeryn**, our very first Blue! **Devin Harris** wrote about Devyn, her family and her friends, sent two stories to one of our fanzines, and drew a picture of her persona.
 
-<img alt="Great Talon by Michelle Cornette" class="float-left border-5" loading="lazy" src="/qo67.jpg"/>
+<img alt="Great Talon by Michelle Cornette" class="border-5 float-left" loading="lazy" src="/qo67.jpg"/>
 
 ### From Healer Adept Moonstar:
 

@@ -43,7 +43,7 @@ Thank you for your interest in Queen's Own!
 
 The Queen's Own Official Webring<br/>
 is made possible by the <a href="http://www.webring.org/">Webring</a>.
- 
+
 </td>
 <td>
 <a href="http://www.webring.org/"><img alt="" loading="lazy" src="http://www.webring.org/images/webring2.gif" style="width:117px; height:66px"/></a>

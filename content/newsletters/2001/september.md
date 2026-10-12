@@ -55,7 +55,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Danya Cover by Laura Cameron" class="float-left border-3" loading="lazy" src="/qo93.jpg"/>
+<img alt="Danya Cover by Laura Cameron" class="border-3 float-left" loading="lazy" src="/qo93.jpg"/>
 
 ## Ren Faires:
 
@@ -391,7 +391,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Dragon's Eye by Laura Cameron" class="float-right border-3" loading="lazy" src="/qo94.jpg"/>
+<img alt="Dragon's Eye by Laura Cameron" class="border-3 float-right" loading="lazy" src="/qo94.jpg"/>
 
 ## Member News:
 
@@ -444,7 +444,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 We have no new personae to announce at this time (although three people are very close to approval). Several former members, however, have returned. Check out [/persona-directory/](/persona-directory/) as well as our Delphi forum to see who has reappeared! (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 
-<img alt="Midsummer Night Rings by Laura Cameron" class="float-left border-3" loading="lazy" src="/qo95.jpg"/>
+<img alt="Midsummer Night Rings by Laura Cameron" class="border-3 float-left" loading="lazy" src="/qo95.jpg"/>
 
 ### From Healer Adept Moonstar:
 

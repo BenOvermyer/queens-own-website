@@ -35,24 +35,34 @@ Many of you know Herald-Mage Master Danya and I from work we have done in other 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. Tell us about your family.
+
   I've been married for 12-1/2 years to Dan Malcor, whom I met when I was a freshman and he was a sophomore in high school. We were both raised in Alhambra, California. We got engaged shortly after I finished my freshman year of college. We were married seven years later, when Dan completed his service as a Nuclear Reactor Operator for the US Navy. (Dan now works as a Unix Systems Administrator.) We have a three-year-old son, Joseph, and we are expecting our second child in November. Our family homepage is at [http://members.aol.com/drmalcor/index.htm](http://members.aol.com/drmalcor/index.htm). For more details about me personally, visit [http://www.dragonlordsnet.com/author.htm](https://dragonlords.fans/author.htm).
 2. What is your educational background?
+
   I have an A.B. in English with a double minor in History and Comparative Literature from Occidental College. I went to UCLA for my M.A. and my doctorate. The M.A. was in Folklore and Mythology with an emphasis in Narrative and Celtic Studies. The Ph.D. was also in Folklore and Mythology with an emphasis in Medieval Studies and Indo-European Comparative Mythology.
 3. Why did you choose to save Queen's Own?
+
   I think there is something very special about Queen's Own. Unlike most fandoms, the club encourages people to learn more about the world in which they live and places a strong emphasis on helping others. I see writers, artists and fans of all ages responding to that and becoming better people as a result of belonging to the organization. I just couldn't stand to see something like that die. So . . . Well, they say "if you want something done, give it to a busy person" &lt;G>. I was certainly busy enough and my own fan club (Dragonlords of Dumnonia, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html)) was solvent enough to support two clubs. When you (Moonstar) said you'd be Co-President along with me, I knew this was something we could do, so I went for it.
 4. When did you join Queen's Own?
+
   I started taking the newsletter sometime in the Fall of 1995, and Danya was approved in March of 1996. I think it's very important for fantasy fiction writers in particular to belong to fandoms, so when I shifted careers from being a screenwriter to specializing in fantasy fiction, I joined several fandoms. Queen's Own and my own Dragonlords are the only two I'm still with.
 5. What got you hooked on Misty�s books?
+
   I had a homophobic friend who had received the Last Herald Mage trilogy as a gift and who could not handle it when he realized that Van was turning out to be gay. He knew that I did a lot of work for gay rights and AIDS relief and that I frequently write fiction about characters who are gay, so he gave me the trilogy. I read it . . . and after I threw the last book across the room and stormed about the apartment for the rest of the night, I went out to Barnes & Noble and picked up absolutely everything else I could find that Misty had ever written &lt;G>.
 6. What else do you read?
+
   ::chuckle:: Not sure if you'll believe me on this one. My recent "pleasure" reading has included *The Inscriptions of Roman Britain* (at least as much of the set as I've been able to acquire so far), *Equus: The Horse in the Roman World*, *The Roman Cavalry*, *Daily Life in Ancient Rome*, Tacitus, *Understanding Roman Inscriptions*, Vegetius, *The Landscape of Roman Britain*, *Romans and Britons in North-West England*, and *Reading the Bible & the Confessions the Presbyterian Way*. I also read Tanya Huff and Melanie Rawn &lt;G>; they just haven't come out with anything in the series I'm following recently.
 7. What types of music do you listen to?
+
   Well, I have a three-year-old, so I haven't been getting to make the choices on this very often. "Veggie Tales" and sound tracks of Disney movies have become the ever-present background music of our lives, though my son is suddenly expressing a deep love of John Williams and Sondheim (Yes, I have a child who runs around humming Darth Vader's theme from *Star Wars*and singing snatches from *Into the Woods*.). When I get to make the choice, I love movie soundtracks, songs from musicals, some rock (primarily from the 60s, 70s and 80s; didn't get to listen to much in the 90s)--The Doors are a particular favorite and Morrison's *American Prayer*, some classical, some country, some folksongs, some filk--I'm a bit eclectic. Singing, I prefer songs from musicals, folksongs, hymns and choir anthems.
 8. What was the first con you went to?
+
   Believe it or not, the first (and only) con that I've ever made it to was the Battlestar Galactica 20-Year Reunion in September of 1998.
 9. What other projects besides Queen�s Own occupy your time?
+
   ::chuckle:: This is where I deliver my mini-lecture about how I can't stand to have people tell me they don't have time to something &lt;g>. In addition to helping run QO and raising a three-year-old and maintaining a household (including the gardening), I work as a freelance writer (primarily nonfiction books and articles and fiction short stories these days, though I was a screenwriter for ten years), serve as an elder for St. Mark Presbyterian Church of Newport Beach, serve as Moderator of the Social Justice Ministries Committee for the Los Ranchos Presbytery, serve as Moderator of More Light Presbyterians for Orange County, serve as liaison to the national board of More Light Presbyterians for Orange County, maintain over half a dozen websites (ranging from church-related to personal to professional business sites), run an online writing group, run my own online fan club (Dragonlords), manage the Dragonlords bookstore online, lecture by invitation, sit on a doctoral committee for a student who is working on a degree in mythology, attend local academic conferences, support my local chapter of Log Cabin Republicans, pass around petitions for ballot measures I support and campaign against those I oppose, write letters to local newspapers about various social issues, play the piano, go to movies, participate in a sing-along group in San Diego, entertain family and friends, process about 700 to 800 e-mail messages per day, and probably several dozen other things I've forgotten to mention &lt;G>.
 10. What do you like the best about Queen�s Own?
+
   I adore the emphasis on education and social responsibility within the club. I've participate in several other fandoms, and Misty's is quite unique in the way it encourages fans to become involved in the real world and to make a difference with their lives.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>

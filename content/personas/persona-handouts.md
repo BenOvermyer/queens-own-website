@@ -24,24 +24,30 @@ canonical_path = "/persona-handouts/"
 There are several types of persona available. You may only have one persona at a time. If you create a new persona, your current persona will be moved to the [Non-Player Character](/npc-directory/) (NPC) status when your new persona is recognized in the club newsletter. The types of persona available are:
 
 - [Bard Handout](/bard-handout/)
+
   - [Specialty: Teacher](/bard-handout/#teach) (Requires an approved Bard persona)
   - [Specialty: Court Musician](/bard-handout/#court) (Requires an approved Bard persona)
   - [Sepcialty: Storyteller](/bard-handout/#story) (Requires an approved Bard persona)
   - [Advanced Rank: Master Bard](/bard-handout/#master) (Requires an approved Specialty Bard persona)
 - [Blues Handout](/blues-handout/)
+
   - [Advanced Rank: Master Scholar](/blues-handout/#scholar) (Requires an approved Blue persona)
   - [Advanced Rank: Master Artificer](/blues-handout/#artificer) (Requires an approved Blue persona)
   - [Advanced Rank: Guard](/blues-handout/#guard) (Requires an approved Blue persona)
 - [Guild Handout](/guild-handout/)
+
   - [Advanced Rank: Journeyman Guilder](/guild-handout/#journeyman) (Requires an approved Guild persona)
   - [Advanced Rank: Master Guilder](/guild-handout/#master) (Requires an approved Journeyman Guilder persona)
 - [Healer Handout](/healer-handout/)
+
   - [Healing Specialties: Low Strength](/healer-handout/#low) (Requires an approved Healer persona)
   - [Healing Specialties: High Strength](/healer-handout/#high) (Requires an approved Healer persona)
   - [Advanced Rank: Journeyman Healer](/healer-handout/#journeyman) (Requires an approved Healer persona)
   - [Advanced Rank: Master Healer](/healer-handout/#master) (Requires an approved Journeyman Healer persona)
 - [Herald Handout](/herald-handout/)
+
   - [Specialty: Herald Teacher](/herald-handout/#teach) (Requires an approved Herald persona)
+
     - Law
     - Weapons
     - Logic
@@ -49,23 +55,29 @@ There are several types of persona available. You may only have one persona at a
   - [Specialty: Herald Historian](/herald-handout/#history) (Requires an approved Herald persona)
   - [Advanced Rank: Herald-Mage](/herald-mage-handout/) (Requires an approved Herald persona)
 - [Military Handout](/military-handout/) (formerly the Mercenary Handout)
+
   - [Advanced Rank: Captain](/military-handout/#captain) (Requires an approved Military persona)
   - [Advanced Rank: Palace Guard](/military-handout/#captain) (Requires an approved Guard Captain persona)
 - [Northern Barbarian Handout](/northern-barbarian-handout/)
+
   - [Advanced Rank: Clan Elder](/northern-barbarian-handout/#elder) (Requires an approved Barbarian persona)
   - [Advanced Rank: Clan Warleader](/northern-barbarian-handout/#warleader) (Requires an approved Barbarian Elder persona)
   - [Advanced Rank: Clan Chief](/northern-barbarian-handout/#chief) (Requires an approved Barbarian Warleader persona)
 - [Priest/Priestess Handout](/priest-and-priestess-handout/)
+
   - [Advanced Rank: Formal Training](/priest-and-priestess-handout/#formal) (Requires an approved Priest/Priestess persona)
 - [Shin'a'in Handout](/shina-in-handout/)
+
   - [Advanced Rank: Clan Elder](/shina-in-handout/#elder) (Requires an approved Shin'a'in persona)
   - [Advanced Rank: Clan Warleader](/shina-in-handout/#warleader) (Requires an approved Shin'a'in Elder persona)
   - [Advanced Rank: Clan Chief](/shina-in-handout/#chief) (Requires an approved Shin'a'in Warleader persona)
   - [Advanced Rank: Kal'enedral Handout](/kalen-edral-handout/) (Requires an approved Shin'a'in persona)
 - [Sorcerer/Sorceress Handout](/sorcerer-handout/) (formerly the White Winds Sorcerer/Sorceress Handout)
+
   - [Specialties: Earth-witch and Weatherwitch](/sorcerer-handout/#witch) (Requires an approved Sorcerer/Sorceress persona)
   - [Advanced Rank: Formal Training](/sorcerer-handout/#formal) (Requires an approved Sorcerer/Sorceress persona)
 - [Tayledras Handout](/tayledras-handout/)
+
   - [Advanced Rank: Clan Elder](/tayledras-handout/#elder) (Requires an approved Tayledras persona)
 
 <a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml19.gif"/></a>
@@ -81,6 +93,7 @@ If you do not see a persona type listed here, that is because some types have no
 - Each individual is free to develop material in accordance with the setting described in Misty's books; however, *her copyrighted characters may not be used for this purpose. You may **not** claim to be directly related to any of Misty's characters*. In other words, you can't be Elcarth's son or Ancar's daughter. Make your *own* status. You also cannot use Misty's copyrighted characters as major characters in any story you may write. If they're just passing through, that's okay.
 - If you wish to write a story set in Misty's worlds, you need to do so under the [Creative Commons](https://creativecommons.org/) license.
 - Stay within the rules of the Books--We are not allowed to create what Misty hasn't.
+
   Characters should stay within Talia's time and use an alternate time-line in which Kris doesn't die but staggers into camp about a day after Dirk rescues Talia. This keeps the world you live in and the one Misty writes about comfortably and legally separate. Northern Barbarians must use a time-line after the founding of k'Valdemar (in the *Darian's Tale* trilogy). Priests and Priestesses must stick to the portion of the time-line after Solaris has become the Son of the Sun. Free Bards use a time-line in which Tonno doesn't die but continues to befriend Rune and encourage her.
 - Your character may be any sex you choose.
 - If you outgrow your persona, you may develop a new one. If you create a new persona, your old character will be moved to the [Non-Player Character](/npc-directory/) (NPC) list.
@@ -99,7 +112,9 @@ In order to be formally recognized in the [Queen's Own newsletter](/newsletter-g
 
 - Please spell check and grammar check your work. Page-length requirements are based on 12 pt. font, one inch margins, double spaced. You've worked hard on this project; treat it with the respect you want us to show it.
 - At the top of every file you send to QO, please put:
+
   Your Name: Your E-mail Address: (Please let us know if you want this information kept private.) Persona Type: Persona Name: Rank (if applicable): Clan Name (if applicable): Companion/Bondbird/Familiar Name (if applicable): Gifts (if applicable):
+
   Remember, we can't contact you with questions or approval if we don't have a valid e-mail address associated with your persona.
 - Submit personae materials via e-mail, if possible. Send persona sketches, stories, poems and other written text in either MS Word or .txt/ASCII format. Send proof that you have filled your other requirements. You can scan your CPR cards, pictures, costume designs, drawings and so forth, and send them either as .jpgs or .gifs.
 

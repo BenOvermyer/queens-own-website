@@ -35,24 +35,34 @@ This month we continue series of interviews with the editors of the various Quee
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. When did you join Queen's Own?
+
   (Hours later, after going through every box in her room, she finds the answer . . . ) June 1995! I first requested info on QO January 1995 and debated joining a full year before that. You got nine issues, not eight, a year back then, and "Pros and Cons" had only been out a year. (My very first persona, Fox Vale Tayledras Scout Darkstar, was recognized September 1996.)
 2. What got you hooked on Misty's books?
+
   Well, the first sff (sci-fi/fantasy) I ever read was Anne McCaffrey. Once I had read all of her books, I went looking for something else just as interesting to read. I hadn't the slightest clue where to begin, so I decided to go for a co-author. My favorite book at the time was *The Ship Who Searched*, so I decided to check books by Mercedes Lackey out of the library. The only books they had by her at the time were the Vanyel books, which are a huge shock if you're a very innocent and oblivious twelve at the time. After that I went through all of her books as I found them. Misty and McCaffrey are still two of my four top favorite authors (I like too many). Lois McMaster Bujold and C.J. Cherryh are the other two.
 3. What else do you read?
+
   Well, like I just said, Bujold and Cherryh. I love sci-fi best of all. I have this fascination with all things science. Considering the books I generally read, I'm always surprised that I like Misty's stuff as much as I do and that I'll still go out and buy the latest Valdemar hardcover. Brightly Burning was good, by the way &lt;g>.
 4. What types of music do you listen to?
+
   Well, that's easy: anything **except** Rap and Opera. I can rattle off all the radio stations around here on the FM. My best friend loves this, especially when we're in a car with no preset stations that she likes. On my shelves you can find anything from the latest pop hit to foreign imports to country to those store specials they sell at Target and the pet store.
 5. What was the first con you went to?
+
   Um, well . . . I've only been to one: FanimeCon. It's local. Don't worry; I'm going to more, but you're more likely to find me at a Ren Faire. (For one thing, they're cheaper. I don't end up spending over $100 *there*!)
 6. What do you like the best about Queen's Own?
+
   Which incarnation? If you're referring to them all, well, I've always loved the personals and penads. They're so much fun to read. (And to leave messages in. This is how I ended up with "too many penpals", and knowing all the editors!) There also used to be a "Mentor" section that I liked the idea of, but it died long ago for lack of mentors.
 7. Why did you choose to the editor of a Queen's Own fanzine/newsletter?
+
   Well, before I took over Golden Grove, I ran a 'zine called *Don't Argue With the Voice*. The co-editor and I had a fight over it (I won a year later, point proven. Sorry, had to say that.), and I gave it up. Golden Grove as run by Steph Anderson (the second incarnation of the CA chapter) had died a while back, and I kept hoping to see it restarted. When I finally got a mailbox, I did several things I'd wanted to do. I put a penad in QO and created a small booklet, entitled *Sink or Swim*, about starting a 'zine or newsletter. Since I had all the Golden Grove info (member list, who'd paid, who hadn't, etc.) and my best friend was responsible for the chapter's name, I just decided to get it going again with the same name. After running a fifty-page quarterly 'zine, a six-page newsletter didn't sound so hard.
 8. What does putting out an issue of your fanzine/newsletter involve?
+
   A lot of scraping, looking for stuff to put in it. I consider e-mail jokes and funnies fair game, if I'm really desperate. If you're just starting (not even a year), expect to put a lot of your own stuff in there. I'm thankful I can draw and write (decently, nothing more). You also go begging a lot for submissions, and you have to be stubborn and keep going even when it seems like you're talking to no one. Other than that, it isn't that hard. You just have to stick with it and not let it crash, no matter how rotten you think your life is at the time. Putting out GG is probably a bit different than putting out any other newsletter or 'zine. I work on an old PowerMac. Cut and paste involves scissors and rubber cement and scanning a lot of typing and has nothing to do with artwork. Someday I will buy a good PC, a scanner/photocopier, and get Internet access. ::sigh:: I think it would only be worse if I was using a dot matrix printer or that fifty-year-old typewriter in the attic. (Actually, I've used both in the past but not for GG.)
 9. What do you like to see in the way of story and/or art submissions to your fanzine/newsletter?
+
   Anything at all interesting. I don't limit anyone to Velgarth, and I like seeing an all-new world.
 10. What other projects besides Queen's Own occupy your time?
+
   Nothing else fandom at the moment, really. If I can get enough interest generated, I'd like to start up a 'zine again. That's what those "Rea's Mysterious Project" ads a while ago were about. I'd like to see about thirty responses first, though. What it would turn out to be would depend on the people interested. I have several concepts in mind. Other than that, the only projects I'm working on are relearning how to 'blade, prepping to move, and putting my room back together now that I've torn it apart looking for old QO issues to answer the first questions. ::grin:: On a side note, if anyone wants to contact me, the best way to do so now will be by e-mail, but I won't check that until mid-September. My current addy will be good until the start of September, after which I'll let everyone know the new one.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>

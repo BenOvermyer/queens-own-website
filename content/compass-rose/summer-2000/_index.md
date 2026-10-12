@@ -60,7 +60,7 @@ ISSN [Pending]
 
 ## [Nonfiction](/compass-rose/summer-2000/reviews/#nonfiction)
 
-- 
+-
 - ### [Comic Book Culture](/compass-rose/summer-2000/reviews/#comic)
 - ### [Science Fiction of the 20th Century](/compass-rose/summer-2000/reviews/#sf20)
 

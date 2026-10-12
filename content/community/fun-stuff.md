@@ -21,7 +21,7 @@ Fun Stuff
 
 <img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 
-<table class="border-2 cellpadding-3 cellspacing-2 table-align-center" style="width:80%">
+<table class="cellpadding-3 cellspacing-2 border-2 table-align-center" style="width:80%">
 <tr>
 <td class="align-center valign-middle" style="width:25%; height:43px"><a href="/fun-stuff/#qo">Fun Stuff at<br/>Queen's Own</a></td>
 <td class="align-center valign-middle" style="width:25%; height:43px"><a href="/fun-stuff/#chapters">Chapters of Queen's Own</a></td>
@@ -140,8 +140,10 @@ membership requirements, and much more!</dd>
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<a id="Art"></a> Don't see what you are looking for here? Try the Queen's Own [Misty Links](/mercedes-lackey-links/) page.
+<a id="Art"></a>
+
+Don't see what you are looking for here? Try the Queen's Own [Misty Links](/mercedes-lackey-links/) page.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](https://dragonlords.fans/index.htm)

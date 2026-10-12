@@ -121,34 +121,60 @@ Josepha Sherman was Misty's co-author on the Bard's Tale book, *Castle of Decept
 3. You may not use Misty's characters or universes in a computer game.
 4. You need a [release form](/release-form-instructions/) if you write a story set in Misty's worlds or using any of her characters. You do not need releases for past fan-fiction, nor do you need a release for a character sketch, poem, or filk. Misty is protecting her characters and her worlds. It's all right to take your Herald story and remove all references to Valdemar and set it in your own universe. Your prose is yours.
 5. If you send a release form to Highflight you should get a postcard back as an acknowledgement. You do not need to send your story to Misty, only the release form. If you need a form, send a SASE to me. You may photocopy the form yourself, as many copies as you need.
+
   ## COLLEGIUM NEWS:
+
   We have handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. [Ed. note 2005: Out-of-date info. withheld. The handouts are now online at [/persona-handouts/](/persona-handouts/).] and specify which handout you are requesting. Ask for a release form too if you expect to write a story. [Ed. note 2004: The release is available online at [/release-form-instructions/](/release-form-instructions/).] If you have completed Herald-Mage requirements, [Ed. note 2005: Out-of-date info. withheld.].
+
   Congratulations to our first Herald-Mage, **Hedge-Wizard Herald Kayla Riordan**! *Elena Zupko* has fulfilled the requirements to the satisfaction of the Guardian of the Web.
+
   - Welcome, **Herald Kaitren McClenahana**, Chosen by Riqui and gifted with strong Mindspeech and a little Empathy. *Dawn Taylor* sent persona information, an essay on caring for a horse in winter, a story, three drawings, and proof of her community service (208 volunteer hours) as well as her martial arts skills and knowledge of CPR.****
   - Welcome, **Herald Raksha Nagaino**, Chosen by Audre and gifted with Mindspeech, Farsight, and Fetching. *Rebecca Sims* submitted information on Raksha and eight of her friends, and drawings of Raksha's friend Kaje and their coat of arms.
   - From *Melanie Aron* comes **Gwyneth Myrna Firefeather**, a nomadic trader/merchant. Melanie sent descriptions of Gwyneth and her family, a recipe, a drawing of Gwyn's wagon, a list of her wares, and a painting.
   - Welcome, **Herald Tobias Mider**, Chosen by Suzon and gifted with Mindspeech and Empathy, *Coy A. Stout II* sent information on Toby and his best friend, a sketch, a chart of Vanyel's genealogy, and proof of community service and blood donations.
   - Welcome, **Herald Thryssera shena Vyusher'edras**, Chosen by Andyberon. *Stephanie Medlock* sent information on Thryssera and her family and friends, a drawing, a photo of herself on horsebaa v, and is a volunteer at her school.
   - From *Lisa Chemleski* comes the **Bard Max Harper**, gifted with all three Bardic talents. Lisa sent background information on Max, a sketch, and a tape that included an original ballad.
+
   ## FAN MESSAGES:
+
   [Ed. note 2005: Content withheld.]
+
   ## Personals:
+
   [Ed. note 2005: Content withheld.]
+
   Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+
   Next Mailing Day: March 13; call [Ed. note 2005: Out-of-date content withheld.] for directions.
+
   Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Archivist and Organizer extraordinaire - Patricia Riggs, [Ed. note 2005: Out-of-date content withheld.] Herald-Mage Registrar - Guardian of the Web, [Ed. note 2005: Out-of-date content withheld.] (Send proof of completed I-Ierald-Mage criteria directly to the Web address, not to NJ.) Mailing Day Helpers (last issue) - Cherie Lombardi, Steve Louvis. We need helpers! We have over 1000 newsletters to fold, staple, address and stamp.
+
   Why is Nyara part cat and part human? It's a purr-fect combination! Jeanette Browning.
+
   Wind to thy wings, Judith
+
   [End Excerpt]
+
   <img alt="" loading="lazy" src="/barcomp.gif"/>
+
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+
   Newsletters are published on (or near) the first of each month.
+
   Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+
   Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
+
   Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
+
   Zhai'helleva,
+
   Herald-Mage Adept Danya Winterborn
+
   <img alt="" loading="lazy" src="/barcomp.gif"/>
+
   <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
+
   <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

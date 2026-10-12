@@ -33,6 +33,7 @@ Here are links of interest to fans of the Valdemar series.
 - [Kera's Keep](http://www.angelfire.com/ak3/valdemar/index.html) (Lists, trivia and links)
 - [Mercedes Lackey's Official Website](http://mercedeslackey.com)
 - [Mercedes Lackey Mailing List](http://www.herald.co.uk/local_info/lackey_list.html) (A UK-based mailing list.)
+
   - [Archives](http://lists.herald.co.uk/old-archives/mercedes-lackey/)
 - [Penguin-Putnam's Mercedes Lackey page](http://www.penguinputnam.com/static/packages/us/mercedeslackey/start.html)
 - [The Vanyel Fan Club](/vanyel-fan-club/) (The homepage for the Vanyel Fan Club chat list.)
@@ -45,4 +46,4 @@ If you know of a link you would like me to add, message me at [shashtah@gmail.co
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](https://dragonlords.fans/index.htm)

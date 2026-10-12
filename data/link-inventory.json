@@ -361,11 +361,6 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "fun-stuff/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "garb-faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
@@ -529,11 +524,6 @@
           "page": "mercedes-lackey-links/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "mercedes-lackey-links/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "mercedes-lackey-release-form/index.html",
@@ -6656,6 +6646,11 @@
         },
         {
           "page": "newsletters/2001/february/index.html",
+          "attribute": "href",
+          "url": "/children-of-velgarth/"
+        },
+        {
+          "page": "newsletters/2001/january/index.html",
           "attribute": "href",
           "url": "/children-of-velgarth/"
         },
@@ -14259,6 +14254,11 @@
         },
         {
           "page": "newsletters/2001/february/index.html",
+          "attribute": "href",
+          "url": "/golden-grove/"
+        },
+        {
+          "page": "newsletters/2001/january/index.html",
           "attribute": "href",
           "url": "/golden-grove/"
         },
@@ -25858,6 +25858,11 @@
           "url": "http://127.0.0.1:1111/newsletters/2000/december"
         },
         {
+          "page": "newsletters/2001/january/index.html",
+          "attribute": "href",
+          "url": "/newsletters/2000/december/"
+        },
+        {
           "page": "persona-directory/index.html",
           "attribute": "href",
           "url": "/newsletters/2000/december/"
@@ -29459,6 +29464,11 @@
           "url": "/pacific-northwest-collegium/"
         },
         {
+          "page": "newsletters/2001/january/index.html",
+          "attribute": "href",
+          "url": "/pacific-northwest-collegium/"
+        },
+        {
           "page": "newsletters/2001/july/index.html",
           "attribute": "href",
           "url": "/pacific-northwest-collegium/"
@@ -29880,6 +29890,11 @@
         },
         {
           "page": "newsletters/2001/february/index.html",
+          "attribute": "href",
+          "url": "/persona-handouts/"
+        },
+        {
+          "page": "newsletters/2001/january/index.html",
           "attribute": "href",
           "url": "/persona-handouts/"
         },
@@ -41854,6 +41869,11 @@
           "url": "/release-form-instructions/"
         },
         {
+          "page": "newsletters/2001/january/index.html",
+          "attribute": "href",
+          "url": "/release-form-instructions/"
+        },
+        {
           "page": "newsletters/2001/july/index.html",
           "attribute": "href",
           "url": "/release-form-instructions/"
@@ -42771,6 +42791,11 @@
         },
         {
           "page": "newsletters/2001/february/index.html",
+          "attribute": "href",
+          "url": "/vanyel-fan-club/"
+        },
+        {
+          "page": "newsletters/2001/january/index.html",
           "attribute": "href",
           "url": "/vanyel-fan-club/"
         },

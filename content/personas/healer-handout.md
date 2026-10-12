@@ -102,14 +102,19 @@ There are several ways to go up in rank as a Healer.
 You can earn a specialty by creating an approved Healer persona, and then
 
 1. Write a 20-page paper on one of the following topics:
+
   - Herbs and their medicinal uses.
   - Medieval medicine.
   - Modern Healthcare in the United States.
 2. After you have written your paper, roll on the appropriate chart below.
+
   - <a id="low"></a>
+
     ### Low Strength Healing Specialties
+
     If you have a Low Strength Healing Gift, roll on this chart:
-    <table class="border-2 cellpadding-2 cellspacing-2">
+
+    <table class="cellpadding-2 cellspacing-2 border-2">
     <tr>
     <th class="align-center valign-middle">Roll</th>
     <th class="align-center valign-middle">Specialty</th>
@@ -132,9 +137,12 @@ You can earn a specialty by creating an approved Healer persona, and then
     </tr>
     </table>
   - <a id="high"></a>
+
     ### Normal and High Strength Healing Specialties
+
     If you have a Normal or High Strength Healing Gift, roll on this chart:
-    <table class="border-2 cellpadding-2 cellspacing-2">
+
+    <table class="cellpadding-2 cellspacing-2 border-2">
     <tr>
     <th class="align-center valign-middle">Roll</th>
     <th class="align-center valign-middle">Specialty</th>

@@ -24,7 +24,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 3, No. 10 October 1, 2002
 
-<img alt="Cat Leisure by Gibel Encarnacion" class="float-center border-5" loading="lazy" src="/qo132.jpg"/>
+<img alt="Cat Leisure by Gibel Encarnacion" class="border-5 float-center" loading="lazy" src="/qo132.jpg"/>
 
 Heyla, Misty fans!
 
@@ -325,7 +325,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Cat Stretch by Gibel Encarnacion" class="float-center border-5" loading="lazy" src="/qo133.jpg"/>
+<img alt="Cat Stretch by Gibel Encarnacion" class="border-5 float-center" loading="lazy" src="/qo133.jpg"/>
 
 ## Member News:
 
@@ -350,7 +350,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Cel Bow by Gibel Encarnacion" class="float-right border-5" loading="lazy" src="/qo134.jpg"/>
+<img alt="Cel Bow by Gibel Encarnacion" class="border-5 float-right" loading="lazy" src="/qo134.jpg"/>
 
 ## Other Fandoms:
 
@@ -366,7 +366,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Come and Play by Gibel Encarnacion" class="float-left border-5" loading="lazy" src="/qo135.jpg"/>
+<img alt="Come and Play by Gibel Encarnacion" class="border-5 float-left" loading="lazy" src="/qo135.jpg"/>
 
 ### Collegium News:
 
@@ -434,9 +434,11 @@ Danya
 ## Personals:
 
 - **From Herald-Mage Danya. To: All. Re: Help Wanted!** We need:
+
   - Monthly help compiling the list of Ren. Faires and Cons.
   - People to type in old newsletters.
   - Child care for Danya so she can code.
+
   If you can be of assistance, please contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.

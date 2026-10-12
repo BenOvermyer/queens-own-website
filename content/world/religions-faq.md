@@ -41,6 +41,7 @@ Misty is in the process of describing a bunch of other religions. The ones we kn
 
 1. Anathei of the Purifying Flame
 2. Astera (also called "The Star Eyed", Lady, Goddess of the Four Winds, Lady Trine)
+
   - Lady Trine (includes Agnetha, Agnira--Crone)
   - The Star Eyed (includes Maiden, Mother, Warrior, Crone--Agnoma)
 3. Bastet (ancient Battle Goddess)
@@ -108,4 +109,6 @@ The deities of Valdemar come from other planes. The same is true for various oth
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/) [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
+
+[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

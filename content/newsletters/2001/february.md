@@ -43,31 +43,41 @@ Zhai'helleva,
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
+
   1992, I think.
 2. **What got you hooked on Misty's books?**
+
   The characters, mainly. They're vivid people, and it can hook you in no time :-).
 3. **What else do you read?**
+
   I enjoy a good vampire novel, but it's mostly fantasy that I read, like Piers Anthony, Terry Brooks, and Graham Masterson.
 4. **What types of music do you listen to?**
+
   I'm pretty eclectic when it comes to music. I listen to anything from Slipknot to Loreena McKennit, Enya to Green Day.
 5. **What was the first con you went to?**
+
   Never been to one YET, but I'm going to try to attend one in late August, called Con'Fur'ence.
 6. **Do you sell your work at cons?**
+
   I've been asked to send in some of my pieces, but it never seems like I can find the time or money to do it of yet. But I hope to!
 7. **Who or what inspires your art?**
+
   Robin Woods is wonderful. Music can also stir the creativity juices.
 8. **Do you have any formal training or mentors?**
+
   I'm completely self-taught. I remember in high school my art teacher getting onto me for helping other classmates 'cuz she can always tell its me by my own unique way of drawing.
 9. **Describe the process you go through when you create a piece of art.**
+
   Oye! I never know what I'm drawing in the beginning. I usually just start with basic body outline and go from there. People think I'm strange when they ask what I'm drawing and I can only say "I'll know when I'm finished." Hehe . . .
 10. **What other projects besides Queen's Own occupy your time?**
+
   I use to be an avid contributor to Karen Bertke's *The Herald's Companion* and Patricia Roe's *The Unicorn Vale*. . . as well as the past fanzine called *Betes Noires* dedicated to vampires, werewolves and other creatures of fantasy and horror . . . You could also find some of my work in past issues of *Companions' Grove* . . . I always look for others that I enjoy sending my work to.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
-<img alt="Eagle by Jan Tallevast" class="float-left border-2" loading="lazy" src="/qo57.jpg"/>
+<img alt="Eagle by Jan Tallevast" class="border-2 float-left" loading="lazy" src="/qo57.jpg"/>
 
 Here are the faires we know about that are happening in February. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com)
 
@@ -237,7 +247,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [/pacific-northwest-collegium/](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
 - **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
-<img alt="Healer by Jan Tallevast" class="float-right border-3" loading="lazy" src="/qo60.jpg"/>
+<img alt="Healer by Jan Tallevast" class="border-3 float-right" loading="lazy" src="/qo60.jpg"/>
 
 ### Zines and Newsletters:
 
@@ -279,7 +289,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 - Welcome to **Tayledras Scout Brightshadow k'Vala** (Bondbird Ahnshee, a Saker Falcon), Gifted with Mindspeech with his Bondbird and Non-Human Races. **Jaime Paz** wrote a story and submitted it to three of our 'zines, created a new Pelagris race (firehounds), and composed a piece of music.
 - **Cassandra Vuksa** brings us NPC **Bard Tiernan Ava**, Gifted with Talent and Creativity. Cassandra wrote about her Bard and his family and friends, composed lyrics to a song, and sent a story and two poems to one of our 'zines.
 
-<img alt="Flying Gryphon by Jan Tallevast" class="float-right border-5" loading="lazy" src="/qo58.jpg"/>
+<img alt="Flying Gryphon by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo58.jpg"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 

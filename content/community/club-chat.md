@@ -59,7 +59,7 @@ Only subscribers may post to this list. If you are a subscriber and wish to post
 
 I *think* all personae that have been submitted to date have been read and either approved or replied to for a rewrite. If you have submitted a persona and have not heard from me, please contact me at [Legend@malcor.com](mailto:Legend@malcor.com). Here is a list of the current personae in our approval process:
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2 border-2" style="width:100%">
 <tr>
 <th class="align-center valign-middle">Persona Type</th>
 <th class="align-center valign-middle">Persona Name</th>

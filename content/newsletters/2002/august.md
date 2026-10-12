@@ -24,7 +24,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 3, No. 8 August 1, 2002
 
-<img alt="Desari by Natasha Williams" class="float-center border-5" loading="lazy" src="/qo126.jpg"/>
+<img alt="Desari by Natasha Williams" class="border-5 float-center" loading="lazy" src="/qo126.jpg"/>
 
 Heyla, Misty fans!
 
@@ -63,25 +63,36 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
+
   May 2001 (my birthday present to myself).
 2. **What got you hooked on Misty's books?**
+
   Talia . . . plain and simple. I discovered her when I was a freshman in High School. I could really identify with her since I myself was a bit of an outcast from my family and my peers. The only problem was that they ONLY had Arrows of the Queen in the library. It took me another year before I finally got my hands on the rest of Talia's story.
+
   After that, it was fairly obvious what I was going to have to do. I sat down and DEVOURED every book by Mercedes Lackey that I could get my hands onto.
 3. **What else do you read?**
+
   I read Misty's dark fiction, her Free Bards books, Anne Rice, Anne McCaffrey, um . . . basically, if it's fantasy or scifi related, I'll at least give it a try.
 4. **What types of music do you listen to?**
+
   80's rock, classical, showtunes, filk (when I can find it).
 5. **What movies do you enjoy?**
+
   Do you really want the list? :-) *Labyrinth*, *The Crow*, *Bram Stoker's Dracula*, *Sleepy Hollow*, *Edward Scissorhands*, *Nightmare Before Christmas*, *Dragonheart*, *First Knight*, A*Knight's Tale*, *Dark Crystal*, most anime, the horror version of *Snow White* that I got to see, *Flight of Dragons*, *Les Miserable*, *Joseph and the Amazing Technicolor Dreamcoat*, *Fiddler on the Roof, Cats* . . . The list goes on and on. I like a lot of different movies.
 6. **What was the first con you went to?**
+
   Haven't ever been to one. They never seem to have one in Boise, Idaho, where I live.
 7. **Why did you get involved in fandom?**
+
   Because it was something I wanted to do. I never really got interested enough in the other books I'd read to get involved in their fan circles. But with Misty, I actually RELATED to her characters and to the world she'd created for them. I absolutely loved them and really wanted to be a part of it. It took me six years before I finally managed to join Queen's Own, but I did.
 8. **What do you like best about fandom?**
+
   Getting to know other people who like the books I do.
 9. **What other things besides Queen's Own occupy your time?**
+
   School, job hunting, working occasionally for a temp agency, my fianc�, and helping my mom take care of my sister's two children.
 10. **What types of things would you like to see Queen's Own do in the coming years?**
+
   Certainly I'd like to see more things for the members to do. But then, Queen's Own is already very good the way it is so I'm not sure if there really is anything I'd like to see them do. Hmmmmm....
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
@@ -348,7 +359,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Desari's Friend by Natasha Williams" class="float-center border-5" loading="lazy" src="/qo127.jpg"/>
+<img alt="Desari's Friend by Natasha Williams" class="border-5 float-center" loading="lazy" src="/qo127.jpg"/>
 
 ## Member News:
 
@@ -373,7 +384,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Desari's Court Dress by Natasha Williams" class="float-center border-5" loading="lazy" src="/qo128.jpg"/>
+<img alt="Desari's Court Dress by Natasha Williams" class="border-5 float-center" loading="lazy" src="/qo128.jpg"/>
 
 ## Other Fandoms:
 

@@ -204,8 +204,12 @@ def rewrite_body(body, source, aliases, dragon_routes):
     attribute = re.compile(r'(\b(?:href|src|background|data-unavailable-target)\s*=\s*")([^"]*)(")', re.I)
     body = attribute.sub(lambda m: m[1] + rewrite_url(m[2], source, aliases, dragon_routes) + m[3], body)
     # Historical URL labels should point readers at the same canonical destinations.
-    old_url = re.compile(r'https?://(?:www\.)?(?:queensown\.org|dragonlords\.fans|dragonlordsnet\.com)/[^\s<>"\)]+')
+    old_url = re.compile(r'https?://(?:www\.)?(?:queensown\.org|dragonlords\.fans|dragonlordsnet\.com)/[^\s<>"\]\)]+')
     body = old_url.sub(lambda m: rewrite_url(m[0], source, aliases, dragon_routes), body)
+    # Markdown link destinations carry the same legacy paths; canonicalize them so a
+    # reimport does not undo the organizer's redirect mapping.
+    markdown_link = re.compile(r'\]\(([^\s\)]+)')
+    body = markdown_link.sub(lambda m: '](' + rewrite_url(m.group(1), source, aliases, dragon_routes), body)
     # Some source buttons say Queen's Own but were mistakenly split onto Dragonlords' home.
     if 'dragonlords.fans/index.htm' in body:
         soup = BeautifulSoup(body, 'lxml')

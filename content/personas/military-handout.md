@@ -143,6 +143,7 @@ There are several advanced ranks available for military-type personae.
 For those of you who would like to qualify as a Captain of a mercenary company or Guard unit, complete the requirements for your military persona first. Then do one of the following:
 
 - Write a 20-page paper on tactics and strategies for the specific type of unit (Guard, Mercenary or Other) that you wish to lead.
+
   OR
 - Start a local [chapter of Queen's Own](/chapters/).
 

@@ -36,7 +36,44 @@ For this month's feature article, we are starting a series of interviews with th
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-Note: Cassandra Vuksa is Australian, so we have chosen to preserve the Australian spellings in her responses. 1. When did you join Queen's Own? February 1995. 2. What got you hooked on Misty's books? The first thing I read of hers was a combined book that she and Anne McCaffrey wrote. Then one of my friends bought the Vanyel trilogy and loaned it to me, and, well, how could anyone resist Vanyel? He's been my favourite ever since, although Talia is pretty cool too. 3. What else do you read? Anne McCaffrey, David Eddings, Robin Hobbs, Raymond E. Feist, Terry Pratchett, Douglas Adams, Stephen King, JRR Tolkien, Stephen Lawhead, and loads more that I am probably forgetting. Pretty much all fantasy, with a sprinkling of mild horror and very mild science fiction. I also read a fair few White Wolf roleplaying books. &#42;grins&#42; 4. What types of music do you listen to? Lots. We have an alternative station here called JJJ, and I mostly listen to that. The only things I don't like are your standard Top 40 pop stuff, and the extremes (hard core rap, hard core metal, hard core opera…!). 5. What was the first con you went to? A convention called Phenomenon here in Canberra, Australia, in July 1997. It was much fun! Our team even won an award - "Best Killers", I think it was. (hee, hee) 6. What do you like the best about Queen's Own? The personals can be interesting! 7. Why did you choose to the editor of a Queen's Own fanzine/newsletter? Originally it was because I was doing a Technical Writing unit for my degree, and we had to do an analysis/report. I decided to do mine on the feasibility of starting up a Queens Own chapter in Australia. And, after I'd done all that research… Well, here we are, five years later, and still going. 8. What does putting out an issue of your fanzine/newsletter involve? Whenever I get a submission on paper, I either scan it or key it in as soon as possible, so that way I have a whole bunch of electronic documents - poems, stories, pictures, etc. That way when the newsletter is due, I just have to sit down with Word and put it all together, including writing the introductions and doing the layout of pictures and stuff. So long as all of the preparation is done, it only takes a couple of hours to do. (I suppose I should use a desktop publishing program, really, but I can make Word 97 and 2000 sing and dance! &#42;grins&#42;) Then I have to copy it and write on all the envelopes… 9. What do you like to see in the way of story and/or art submissions to your fanzine/newsletter? Characterisation. Originality. A faint grasp of the English language is preferable but not required (I can edit to get rid of spelling mistakes, etc). It's nice if it's Misty related, but any fantasy will find a place if it's good. 10. What other projects besides Queen's Own occupy your time? I am a member of the White Wolf fan club called the Camarilla, which is, amongst other things, a live-action roleplaying society. I have a couple of characters that I play once a month, and there is an awful lot of e-mail roleplaying done too. (If you're interested, the main site is located at: http://vampire.tamu.edu/camarilla/index.html &lt;— shameless plug, shameless plug!!) I also do Tai Chi and am studying IT part time. I work full time in the Department of Defence doing contracting, am a volunteer Emergency Control Organisation member in my building, and the small amount of time I have left after all of that I spend with my boyfriend, Jamie. (He made me type that!)
+Note: Cassandra Vuksa is Australian, so we have chosen to preserve the Australian spellings in her responses.
+
+1. When did you join Queen's Own?
+
+  February 1995.
+2. What got you hooked on Misty's books?
+
+  The first thing I read of hers was a combined book that she and Anne McCaffrey wrote. Then one of my friends bought the Vanyel trilogy and loaned it to me, and, well, how could anyone resist Vanyel? He's been my favourite ever since, although Talia is pretty cool too.
+3. What else do you read?
+
+  Anne McCaffrey, David Eddings, Robin Hobbs, Raymond E. Feist, Terry Pratchett, Douglas Adams, Stephen King, JRR Tolkien, Stephen Lawhead, and loads more that I am probably forgetting. Pretty much all fantasy, with a sprinkling of mild horror and very mild science fiction. I also read a fair few White Wolf roleplaying books. &#42;grins&#42;
+4. What types of music do you listen to?
+
+  Lots. We have an alternative station here called JJJ, and I mostly listen to that. The only things I don't like are your standard Top 40 pop stuff, and the extremes (hard core rap, hard core metal, hard core opera…!).
+5. What was the first con you went to?
+
+  A convention called Phenomenon here in Canberra, Australia, in July 1997. It was much fun! Our team even won an award - "Best Killers", I think it was. (hee, hee)
+6. What do you like the best about Queen's Own?
+
+  The personals can be interesting!
+7. Why did you choose to the editor of a Queen's Own fanzine/newsletter?
+
+  Originally it was because I was doing a Technical Writing unit for my degree, and we had to do an analysis/report. I decided to do mine on the feasibility of starting up a Queens Own chapter in Australia. And, after I'd done all that research…
+
+  Well, here we are, five years later, and still going.
+8. What does putting out an issue of your fanzine/newsletter involve?
+
+  Whenever I get a submission on paper, I either scan it or key it in as soon as possible, so that way I have a whole bunch of electronic documents - poems, stories, pictures, etc. That way when the newsletter is due, I just have to sit down with Word and put it all together, including writing the introductions and doing the layout of pictures and stuff. So long as all of the preparation is done, it only takes a couple of hours to do. (I suppose I should use a desktop publishing program, really, but I can make Word 97 and 2000 sing and dance! &#42;grins&#42;)
+
+  Then I have to copy it and write on all the envelopes…
+9. What do you like to see in the way of story and/or art submissions to your fanzine/newsletter?
+
+  Characterisation. Originality. A faint grasp of the English language is preferable but not required (I can edit to get rid of spelling mistakes, etc). It's nice if it's Misty related, but any fantasy will find a place if it's good.
+10. What other projects besides Queen's Own occupy your time?
+
+  I am a member of the White Wolf fan club called the Camarilla, which is, amongst other things, a live-action roleplaying society. I have a couple of characters that I play once a month, and there is an awful lot of e-mail roleplaying done too. (If you're interested, the main site is located at: http://vampire.tamu.edu/camarilla/index.html &lt;— shameless plug, shameless plug!!)
+
+  I also do Tai Chi and am studying IT part time. I work full time in the Department of Defence doing contracting, am a volunteer Emergency Control Organisation member in my building, and the small amount of time I have left after all of that I spend with my boyfriend, Jamie. (He made me type that!)
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -217,6 +254,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 ## Personals:
 
 - From **Anna King** to **Misty Fans** everywhere: I have eleven matted photoprints signed and numbered by Jody A. Lee and would like to find a new home or homes for them. I am asking $50.00 (includes shipping) for each of the first nine:
+
   1. By The Sword - 30/200
   2. Witch and Wombat - 28/350
   3. Winds of Fury - 56/500
@@ -226,11 +264,16 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
   7. Magic Pawn - 320/350 (Sold.)
   8. Magic Promise - 327/350 (Sold.)
   9. Last of the Renshai - 40/100
+
   I am asking $75.00 (includes shipping) for each of the last two.
+
   1. The Oathbound - 6/250
   2. The Oathbound - AP 25/25 (Artist's Proof)
+
   I prefer payment by Money Order but will accept a Personal Check. Payment by Personal Check will delay shipping by ten business days. I sell some items on eBay (My user I.D. is the same as my e-mail address.), and anyone can check my feedback to see that I am a sincere and honest seller.
+
   If anyone is interested, they can e-mail me at [A1595king@aol.com](mailto:A1595king@aol.com). I can e-mail a graphic of any of these prints.
+
   This offer is good until August 31, 2000.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>

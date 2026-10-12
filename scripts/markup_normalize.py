@@ -2,7 +2,8 @@
 """Repair legacy HTML and convert the preserved content to Markdown.
 
 `markup_normalize.run()` reads each preserved page, applies `markup_repairs`,
-`normalize_soup` (heading order, anchor nesting, duplicate ids, pseudo-tags), and
+`normalize_soup` (heading order, anchor nesting, duplicate ids, personas' `<g>`-style
+emoticons), and
 `destyle_soup` (presentational markup inside retained HTML), then converts the body to
 Markdown with `html_to_markdown`. The raw-text `<xmp>` element becomes a fenced code
 block, and `data/html-exceptions.json` lists any pages to leave untouched (currently
@@ -61,7 +62,11 @@ def normalize_headings(soup):
 
 
 def _unescape_unknown(soup):
-    """Turn unescaped pseudo-tags (emoticons such as <g>, malformed links) back into text."""
+    """Turn `<g>`-style emoticons (and malformed link fragments like `<http:>`) back to text.
+
+    ``<g>`` and friends predate emoji: they are shorthand for "grin", not tags, but a
+    lenient HTML parser reads them as unknown elements and nests later content inside them.
+    """
     while True:
         unknown = [element for element in soup.find_all(True) if element.name not in KNOWN_HTML_ELEMENTS]
         if not unknown:
@@ -69,6 +74,26 @@ def _unescape_unknown(soup):
         for element in unknown:
             element.insert_before(NavigableString(f'<{element.name}>'))
             element.unwrap()
+
+
+def _repair_nested_lists(soup):
+    """Release list items nested inside an earlier item when a `<g>` emoticon was read as a tag."""
+    while True:
+        moved = False
+        for outer in soup.find_all('li'):
+            outer_list = outer.find_parent(['ul', 'ol'])
+            nested = [item for item in outer.find_all('li')
+                      if item.find_parent(['ul', 'ol']) is outer_list]
+            if not nested:
+                continue
+            anchor = outer
+            for item in nested:
+                item.extract()
+                anchor.insert_after(item)
+                anchor = item
+                moved = True
+        if not moved:
+            return
 
 
 def normalize_soup(soup):
@@ -83,6 +108,7 @@ def normalize_soup(soup):
                     seen_ids.add(element[attribute])
     normalize_headings(soup)
     _unescape_unknown(soup)
+    _repair_nested_lists(soup)
     for anchor in list(soup.find_all('a')):
         if not anchor.get('href') and not anchor.get('id') and not anchor.get('name'):
             if not anchor.find(True) and not anchor.get_text(strip=True):

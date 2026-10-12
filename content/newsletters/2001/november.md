@@ -64,7 +64,7 @@ Sincerely, Herald Belprin Shandy P. Smith RPCV [spsmith@wt.net](mailto:spsmith@w
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Tor by L.A. Malcor" class="float-left border-3" loading="lazy" src="/tor2.jpg"/>
+<img alt="Tor by L.A. Malcor" class="border-3 float-left" loading="lazy" src="/tor2.jpg"/>
 
 ## Ren Faires:
 
@@ -322,7 +322,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Red Bluff Castle by L.A. Malcor" class="float-right border-3" loading="lazy" src="/redb.jpg"/>
+<img alt="Red Bluff Castle by L.A. Malcor" class="border-3 float-right" loading="lazy" src="/redb.jpg"/>
 
 ## Member News:
 
@@ -350,7 +350,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Dragonquest by L.A. Malcor" class="float-right border-3" loading="lazy" src="/wdquest.gif"/>
+<img alt="Dragonquest by L.A. Malcor" class="border-3 float-right" loading="lazy" src="/wdquest.gif"/>
 
 ## Other Fandoms:
 
@@ -377,7 +377,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 We have no new personae to announce at this time (although three people are very close to approval). Several former members, however, have returned. Check out [/persona-directory/](/persona-directory/) as well as our Delphi forum to see who has reappeared! (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 
-<img alt="Krin's Base Camp by L.A. Malcor" class="float-left border-3" loading="lazy" src="/ocbc1a.gif"/>
+<img alt="Krin's Base Camp by L.A. Malcor" class="border-3 float-left" loading="lazy" src="/ocbc1a.gif"/>
 
 ### From Healer Adept Moonstar:
 

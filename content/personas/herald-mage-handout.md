@@ -51,6 +51,7 @@ Topic: Analyze the Constitution, without the Amendments, and explain how the Ame
 **And**
 
 1. Learn the following stage-magic tricks:
+
   - Dancing Handkerchief
   - Multiplying Coins
   - Restoring Cut Newspaper, and
@@ -63,6 +64,7 @@ Topic: Analyze the Constitution, without the Amendments, and explain how the Ame
 To earn the rank of Herald-Mage, Master, first qualify for Hedge-Wizard and Journeyman. Then
 
 1. Write a 20-page paper on one of the following subjects:
+
   - Machiavelli's *The Prince*
   - the Bill of Rights
   - Elizabeth I as a ruler
@@ -78,6 +80,7 @@ Submit it to an essay contest or your History teacher for extra credit.
 **And**
 
 1. Learn the following stage-magic tricks:
+
   - Hat and Egg
   - Escape from Ropes
   - Appearing/Multiplying Ping Pong Balls, and
@@ -90,6 +93,7 @@ Submit it to an essay contest or your History teacher for extra credit.
 To earn the rank of Herald-Mage, Adept, first qualify for Hedge-Wizard, Journeyman, and Master. Then
 
 1. Write a 20-page paper on one of the following subjects:
+
   - King Arthur as a historical figure
   - the importance and obligations of the liege-lord in feudal society
   - Plato's *Republic*
@@ -108,6 +112,7 @@ Submit your paper to an essay contest or your History Teacher for extra credit.
 **And**
 
 1. Learn the following stage-magic tricks:
+
   - Cutting a Person in Two Or More Pieces
   - Appearing Dove
   - your choice of Card Tricks you don't already know, and

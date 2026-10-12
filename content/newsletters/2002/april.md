@@ -24,7 +24,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 3, No. 4 April 1, 2002
 
-<img alt="Morrigan 2 by Laura Cameron" class="float-center border-5" loading="lazy" src="/qo116.jpg"/>
+<img alt="Morrigan 2 by Laura Cameron" class="border-5 float-center" loading="lazy" src="/qo116.jpg"/>
 
 Heyla, Misty fans!
 
@@ -64,24 +64,34 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
+
   I have been involved since the early 90�s now [Ed. Note: Herald Auric was approved in July of 1991.]. I got the privilege of helping out with one mailing day when Judith was doing the newsletter, and she is a wonderful/caring person. I met a boyfriend from Queen�s Own, and we long distance dated for 4 months, and then he moved to be with me for four months before we broke up. (Don�t do long distance relationships! They are very hard, and you don�t really get to see the real, day-to-day person that way. (I�ve also recently had the pleasure of meeting our two hard working managers/runners of QO now.
 2. **What got you hooked on Misty's books?**
+
   Vanyel and the Last Herald-Mage Trilogy. I was captivated by one of the covers in the store, and when I realized the character was gay . . . I was amazed and overjoyed. Then I went back and found everything else Misty had written. Vanyel touched my heart and made me cry, but, most importantly, he made me see that there were other people who were gay out there. For that I�ll always love Misty. I grew up in small town USA, being sheltered, and so it was a wonderful moment to discover these books. Finding that book changed my life and made me realize I could do something like that. So I�ve been working on my own book ever since, between school and working and all the other ups and downs in life. Misty really changed my life.
 3. **What else do you read?**
+
   I read gay books, biographies, sometimes scifi, murder mysteries, too. I like *Murder She Wrote* books, the Tek series by Shatner, Raymond Fiest�s early works, Tanya Huff and her many books and series, Richard Knaack�s Dragon series, Robin Wayne Bailey�s *Brothers of the Dragon*, David Eddings many wonderful books, Robert Aspirin�s Myth books, Sharon Green�s Blending series, Armistead Maupin�s Tales of the Cities series, books on *I Love Lucy* and Lucille Ball, Gay Astrology, lots of comic book stuff (I have over 10,000 of them), cartoon series things (I like super hero ones and Scooby Doo). I also like Vampire stories.
 4. **What types of music do you listen to?**
+
   I just saw Madonna in concert. Like dance and pop music. Samantha Fox, Gloria Estefan, Debbie Gibson, Cyndi Lauper, Ace of Base, Cher, Abba, soundtracks--all kinds of stuff.
 5. **What movies do you enjoy?**
+
   *Beaches*, *Miss Congeniality*, *Mrs. Doubtfire*, *Galaxy Quest*, *Star Wars*, *Star Trek*, *Starblazers*, Japanese Anime, *Gatchaman*, *Charlie�s Angels*, *Bounce*, *Broken Hearts� Club*, *Lord of the Rings* and *Harry Potter*.
 6. **What was the first con you went to?**
+
   It was this summer, San Diego Comic Con International. I�ve never been to anything up till then but I�ve been collecting comics since I could read.
 7. **Why did you get involved in fandom?**
+
   Always loved escaping from reality into a comic book or a fantasy book, and it saved my sanity at times in my dysfunctional childhood.
 8. **What do you like best about fandom?**
+
   Creativity, the wide worlds of ideas and fantasies that every one can enjoy.
 9. **What other things besides Queen's Own occupy your time?**
+
   Gosh, I just graduated in December with a BA in psychology. It took me 11 years of college to finally get a degree in something. Now I work full time and a weekend job, so seven days a week to pay the loans and debts I have. I moved to San Francisco, CA, 6 years ago without a job and not knowing how to budget, so its been a learning and growing experience since then. I write articles for a gay comics zine and I also am working on my own book/series. I like to read, read comics, hang out, biking, romance, friends, the movies, plays--all kinds of things.
 10. **What types of things would you like to see Queen�s Own do in the coming years?**
+
   I�ve already suggested some things to our editors/owners. I would love to see more interaction. Have Misty answer questions, write a note for each or every other newsletter. How about an article from Judith? Why she did it, how it felt doing all that hard work, what she felt was rewarding. How did it feel giving it all up? Does she keep in touch with anyone? More stuff than what we have now. Reviews of Misty�s books, opinions, other authors people think are great and why. I think it should all be in one thing not spread out all over the place. We have chat groups, the newsletter and minizines everywhere. How about coming together to make this list the best and brightest. How about Q&A with other fantasy authors? What they are into? What are their latest books, etc.? There are lots of authors on the Net out there, or there should be ways to contact them. The old list used to get me excited when I saw a preview for something that was coming out from Misty. I also met and got to meet a lot of cool people through the fan messages section. I still talk to some of them now. I know Misty has lots of fans out there. Why not advertise our group in the back of her books? [Ed. Note: We�ve asked DAW about that several times, updating those ads in the back of the books and adding the ad to the new books. DAW has not responded to our queries.] That�s how I found out about QO and Judith. It seems like there is a disconnect between Misty and the group. I also belong to a Tanya Huff group, and there we get info on where she is appearing what books she is working on next and an estimated time of arrival. I also used to belong to P.N. Elrod�s fan club, and she would write in each newsletter, answer fan questions and interact. She even wrote me a letter once, which was really great and exciting. I just want this group to be the best that it can be and Linda and Kenny can�t do it alone; it needs to be everyone pitching in. What do other people want to see? What are your ideas for bringing in new blood and making people interested enough? Anyway, that�s enough about me and my opinions. Feel free to E-mail me at [massage@ericdooley.com](mailto:massage@ericdooley.com) with comments or questions.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>

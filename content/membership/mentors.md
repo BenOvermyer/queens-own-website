@@ -25,7 +25,7 @@ Joining Queen's Own is the first thing many of our members have done by way of p
 
 ## The Mentors
 
-<table class="border-2 cellpadding-2 cellspacing-2">
+<table class="cellpadding-2 cellspacing-2 border-2">
 <tr>
 <th class="align-left valign-top">Have Questions about . . . </th>
 <th class="align-left valign-top">Contact . . . </th>

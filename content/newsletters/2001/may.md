@@ -43,31 +43,41 @@ Zhai'helleva,
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
+
   Wow. I'm pretty sure I was a junior in High School, so that'd make it around 1994-1995-ish. My persona was approved in May of 1995.
 2. **What got you hooked on Misty's books?**
+
   Well, the first book of Misty's I ever read was *Winds of Fate*. How confused was I! I bought it because I liked the cover, and at the time, I hadn't gotten myself used to looking inside the covers to see if it was part of a series. But I ended up &#42;really&#42;, &#42;really&#42; liking it and from there, it was history. I had to get my hands on every Valdemar book I could. Later, I started reading some from her other series.
 3. **What else do you read?**
+
   I read anything from New Age and Self-Help books to Erotica, Dark Fantasy (which is one of my most favorite things to read. Me without a Laurell K. Hamilton and/or Tanya Huff book to read is torture. :)~), and pure good old fashioned fiction. If it looks and sounds good, I'll give it a try. Especially if it was recommended to me.
 4. **What types of music do you listen to?**
+
   I'm a rock/alternative kinda gal, but again, like books, my music collection is very eclectic. Filk mingles with rock and Middle Eastern, and Celtic rubs shoulders with classical and folk. :)
 5. **What was the first con you went to?**
+
   Dragon&#42;Con, 1996. :)
 6. **Do you sell your work at cons?**
+
   No, and likely never will, for a couple different reasons, but mostly because there's no desire for me to do that. It's purely hobby and not exactly sell-worthy. :)
 7. **Who or what inspires your art?**
+
   Anything fantasy, or fantasy-like because it's different from the "norm". If it doesn't exist, you can let your imagination run wild.
 8. **Do you have any formal training or mentors?**
+
   Nope.
 9. **How often do you draw?**
+
   When I get that little tickle in my head and itching in my fingers. So, not too often. :) I have to feel like drawing, or otherwise, chances are it won't turn out to good.
 10. **What other projects besides Queen's Own occupy your time?**
+
   Lately, just life. ::chuckle:: I've been trying to get some of my own writing done, but there just isn't the time. Eventually. :)
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
-<img alt="Dragon by Laura Felton" class="float-right border-2" loading="lazy" src="/qo73.jpg"/>
+<img alt="Dragon by Laura Felton" class="border-2 float-right" loading="lazy" src="/qo73.jpg"/>
 
 Here are the faires we know about that are happening in May. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com)
 
@@ -360,7 +370,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [/pacific-northwest-collegium/](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
 - **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
-<img alt="Breena by Michell Cornette" class="float-right border-3" loading="lazy" src="/qo75.jpg"/>
+<img alt="Breena by Michell Cornette" class="border-3 float-right" loading="lazy" src="/qo75.jpg"/>
 
 ### Zines and Newsletters:
 
@@ -403,7 +413,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 - Welcome to **Herald Jhenna Leisater**, Chosen by Aelyssa and Gifted with Mindspeech and Foresight! **Alison Steele** wrote about Jhenna and her family and her friends, created a recipe and wrote a poem.
 - Congratulations to **Herald-Mage Apprentice Ryhannon Gaia Degent**! She rolled her double sixes before the year was out &lt;g>!
 
-<img alt="Cyril of Nightglade by Michelle Cornette" class="float-right border-5" loading="lazy" src="/qo77.jpg"/>
+<img alt="Cyril of Nightglade by Michelle Cornette" class="border-5 float-right" loading="lazy" src="/qo77.jpg"/>
 
 ### From Healer Adept Moonstar:
 

@@ -78,7 +78,7 @@ Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Ally by Laura Felton" class="float-left border-5" loading="lazy" src="/qo151.jpg"/>
+<img alt="Ally by Laura Felton" class="border-5 float-left" loading="lazy" src="/qo151.jpg"/>
 
 ## Ren Faires:
 
@@ -102,11 +102,211 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Alabama
 
-**Con†Stellation XXII: Pegasus.** E-mail: [constell@con-stellation.org](mailto:constell@con-stellation.org). Address: Con&#42;Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857. Site Address: Holiday Inn Express, Huntsville, Alabama. Dates: 10/10/03-10/12/03. **Note: &#42; Guest of Honor: Mercedes Lackey, &#42; Master of Ceremonies: Larry Dixon!**### California **CONDOR X.** Website: [http://www.condorcon.org](http://www.condorcon.org). E-mail: [info@condorcon.org](mailto:info@condorcon.org). Address: Doubletree Hotel, Del Mar, San Diego, California. Dates: 2/28/03 - 3/2/03. **CONSONANCE 2003.** Website: [http://www.rahul.net/figmo/consonance/](http://www.rahul.net/figmo/consonance/). E-mail: [figmo@rahul.net](mailto:figmo@rahul.net). Where: Crowne Plaza Silicon Valley, Milpitas, California. Dates: 3/7/03 - 3/9/03. **LEFT COAST CRIME 13.** Website: http://www.LeftCoastCrime.com/. E-mail: [lcc2003@aol.com](mailto:lcc2003@aol.com). Address: Pasadena Hilton, Pasadena, California. Dates: 2/28/03 - 3/2/03. **STAR TREK GRAND SLAM.** Website: [http://www.creationent.com/](http://www.creationent.com/). E-mail: [tickets@creationent.com](mailto:tickets@creationent.com). Where: Pasadena Center, Pasadena, California. Dates: 3/28/03 - 3/30/03. ### Connecticut **CONNCON 2003.** Website: [http://www.conncon.com/ConnCon.htm](http://www.conncon.com/ConnCon.htm). E-mail: [Willi@ConnCon.com](mailto:Willi@ConnCon.com). Where: Holiday Inn Select, Stamford, Connecticut. Dates: 3/21/03 - 3/23/03. ### Florida **ANIME EXPRESS 6.**Website: http://www.db.erau.edu/campus/student/clubs/anime/Convention.html. E-mail: [winarto@erau.edu](mailto:winarto@erau.edu). Where: IC (Instructional Center) building, at the Embry Riddle Aeronautical University (ERAU,)Daytona Beach, Florida. Dates: 3/21/03 - 3/23/03. **INTERNATIONAL CONFERENCE ON THE FANTASTIC IN THE ARTS 24.** Website: [http://www.iafa.org/](http://www.iafa.org/). E-mail: [mbartter@truman.edu](mailto:mbartter@truman.edu). Where: Ft. Lauderdale Airport Hilton, Ft. Lauderdale, Florida. Dates: 3/19/03 - 3/23/03. **MEGACON.**Website: [http://www.megaconvention.com/](http://www.megaconvention.com/). E-mail: [info@megaconvention.com](mailto:info@megaconvention.com). Address: Orange County Convention Center, Orlando, Florida. Dates: 2/28/03 - 3/2/03. **SLEUTHFEST 9.** Website: [http://www.mwa-florida.org/sleuthfest.htm](http://www.mwa-florida.org/sleuthfest.htm). E-mail: [Rwymer55@aol.com](mailto:Rwymer55@aol.com). Where: The Deerfield Beach/Boca Raton Hilton Hotel, Boca Raton, Florida. Dates: 3/13/03 - 3/16/03. ### Georgia **STARFLEET REGION 2.** Website: [http://www.omnifacets.com/region2/](http://www.omnifacets.com/region2/). E-mail: [pdmohney@aol.com](mailto:pdmohney@aol.com). Where: Sheraton Inn Columbus Airport, Columbus, Georgia. Dates: 3/7/03 - 3/9/03. ### Illinois **CHICAGO COMICFEST.** Website: [http://motorcityconventions.com/chicago_comic_fest/index.html](http://motorcityconventions.com/chicago_comic_fest/index.html). E-mail: [info@motorcityconventions.com](mailto:info@motorcityconventions.com). Where: Ramada Plaza Hotel O'Hare, Rosemont, Illinois. Dates: 3/8/03 - 3/9/03. **THE IDES OF MARCH.** Website: [http://www.idesofmarchcon.com](http://www.idesofmarchcon.com). E-mail: [Idescon@aol.com](mailto:Idescon@aol.com). Where: Holiday Inn O'Hare International, Rosemont, Illinois. Dates: 3/14/03 - 3/16/03. ### Kentucky **CONCAVE 24.** Website: http://www.con-stellation.org/links.html. E-mail: [grrobe@chartertn.net](mailto:grrobe@chartertn.net). Address: Horse Cave, Kentucky. Dates: 2/28/03 - 3/2/03. ### Louisiana **GOTHCON.** Website: [http://www.gothcon.com/](http://www.gothcon.com/). E-mail: [Info4GothCon@aol.com](mailto:Info4GothCon@aol.com). Where: New Orleans Marriott, New Orleans, Louisiana. Dates: 3/27/03 - 3/30/03. **INTERNATIONAL WARGAMES FEDERATION 6TH WORLD INDIVIDUAL CHAMPIONSHIPS.** Website: [http://www.nasamw.org/CompAppForm.htm](http://www.nasamw.org/CompAppForm.htm). E-mail: [hiltonmcm@aol.com](mailto:hiltonmcm@aol.com). Where: Quality Inn in Metairie, New Orleans, Louisiana. Dates: 3/7/03 - 3/9/03. ### Maryland **ENLIGHTENMENT 6.** Website: [http://www.boardgamers.org/specific/aor02.htm](http://www.boardgamers.org/specific/aor02.htm). E-mail: [doncon99@toad.net](mailto:doncon99@toad.net). Where: Hampton Inn, Hunt Valley, Maryland. Dates: 3/14/03 - 3/16/03. **GALAXY CON I.** Website: [http://www.galaxycon.com/](http://www.galaxycon.com/). E-mail: [galaxy@galaxycon.com](mailto:galaxy@galaxycon.com). Where: BWI Airport Marriott, Baltimore, Maryland. Dates: 3/7/03 - 3/9/03. **GAMES WORKSHOP BALTIMORE GRAND TOURNAMENT.** Website: [http://www.games-workshop.com/news/us/events/events.htm](http://www.games-workshop.com/news/us/events/events.htm). E-mail: [Custserv@Games-Workshop.com](mailto:Custserv@Games-Workshop.com). Where: Baltimore Convention Center Hall A, Baltimore, Maryland. Dates: 3/7/03 - 3/9/03. **JOHNCON.**Website: [http://www.jhu.edu/~johncon](http://www.jhu.edu/~johncon). E-mail: [johncon@jhu.edu](mailto:johncon@jhu.edu). Address: Johns Hopkins University Campus, Baltimore, Maryland. Dates: 2/28/03 - 3/2/03. ### Massachusetts **INTERCON C.**Website: http://www.InteractiveLiterature.com/C/. E-mail: [mdm@haven.org](mailto:mdm@haven.org). Address: Radisson Hotel And Suites, Chelmsford, Massachusetts. Dates: 2/28/03 - 3/2/03. ### Michigan **AMBERCON US.** Website: [http://acus.ambercons.com/](http://acus.ambercons.com/). E-mail: [ambercon@juno.com](mailto:ambercon@juno.com). Where: Embassy Suites Detroit-Livonia, Detroit, Michigan. Dates: 3/27/03 - 3/30/03. **DEMENTIA.** Website: [http://www.thelandofdementia.com/](http://www.thelandofdementia.com/). E-mail: [2001@TheLandOfDementia.com](mailto:2001@TheLandOfDementia.com). Where: Holiday Inn, Southfield, Michigan. Dates: 3/03. **FOUNDATION GAMING CONVENTION.** Website: [http://www.foundation-games.com](http://www.foundation-games.com). E-mail: [timhunt@foundation-games.com](mailto:timhunt@foundation-games.com). Where: Okemos Holiday Inn, Lansing, Michigan. Dates: 3/14/03 - 3/16/03. **MARMALADE DOG 8: GAMEFEST 2003.** Website: http://www.wmgg.org/marmaladedog/. E-mail: [eboard@wmgg.org](mailto:eboard@wmgg.org). Where: Western Michigan University, Kalamazoo, Michigan. Dates: 3/29/03 - 3/30/03. ### Mississippi **COASTCON XXVI.** Website: [http://coastcon.org](http://coastcon.org). E-mail: [chairman@coastcon.org](mailto:chairman@coastcon.org). Where: MS Gulf Coast Coliseum & Convention Center, Biloxi, Mississippi. Dates: 3/21/03 - 3/23/03. ### Missouri **BRANSCON.** Website: http://www.wizard-guild.com/branscon/. E-mail: [lauriefox@mail.com](mailto:lauriefox@mail.com). Address: Settle Inn, Branson, Missouri. Dates: 2/28/03 - 3/2/03. **KANSAS CITY COMICON.** Website: [http://kansascitycomicon.com/](http://kansascitycomicon.com/). E-mail: [yrogerg@ukans.edu](mailto:yrogerg@ukans.edu). Where: KCI Expo Center, Kansas City, Missouri. Dates: 3/15/03 - 3/16/03. **STORMIE-CON.** Website: [http://www.stormie.net](http://www.stormie.net). E-mail: [stormie@swbell.net](mailto:stormie@swbell.net). Where: Ramada Inn, St. Louis Airport - Bridgeton, St. Louis, Missouri. Dates: 3/14/03 - 3/16/03. ### New Hampshire **KAMECON.** Website: [http://www.kamecon.com](http://www.kamecon.com). E-mail: [j1atomic@mail.com](mailto:j1atomic@mail.com). Where: Manchester Memorial High, Manchester, New Hampshire. Dates: 3/1/03. ### New Jersey **PRINCECON 28.**Website: [http://www.princetongames.org/princecon](http://www.princetongames.org/princecon). E-mail: [princecon@princetongames.org](mailto:princecon@princetongames.org). Where: Princeton University, Princeton, New Jersey. Dates: 3/14/03 - 3/16/03. ### New York **I-CON 22.** Website: [http://www.iconsf.org/](http://www.iconsf.org/). E-mail: [info@iconsf.org](mailto:info@iconsf.org). Where: Stony Brook University, Stony Brook, New York. Dates: 3/28/03 - 3/30/03. **LUNACON 2003.**Website: [http://www.lunacon.org](http://www.lunacon.org). E-mail: [lunacon@lunacon.org](mailto:lunacon@lunacon.org). Where: Ryetown Hilton, Ryebrook, New York. Dates: 3/21/03 - 3/23/03. **SIMCON XXV.** Website: [http://www.simcon.org](http://www.simcon.org). E-mail: [chair@simcon.org](mailto:chair@simcon.org). Where: University Of Rochester, Rochester, New York. Dates: 3/20/03 - 3/23/03. **UB CON 2003.** Website: [http://www.ubsarpa.com](http://www.ubsarpa.com). E-mail: [condir@keegan.ws](mailto:condir@keegan.ws). Where: University at Buffalo, Buffalo, New York. Dates: 3/28/03 - 3/30/03. ### North Carolina **STELLARCON 27.** Website: [http://www.stellarcon.org](http://www.stellarcon.org). E-mail: [info@stellarcon.org](mailto:info@stellarcon.org). Where: The Radisson Hotel, High Point, North Carolina. Dates: 3/14/03 - 3/16/03. ### Ohio **CLEVELAND COLOSSAL CONVENTION 2.** Website: [http://colossalcon.com](http://colossalcon.com). E-mail: [nostalgiaconventio@prodigy.net](mailto:nostalgiaconventio@prodigy.net). Where: Holiday Inn, Independence, Ohio. Dates: 3/14/03 - 3/16/03. **DAYS OF HONOR.** Website: [http://www.kag.org/events/doh.htm](http://www.kag.org/events/doh.htm). E-mail: [qoltar@aol.com](mailto:qoltar@aol.com). Where: Cincinnati, Ohio. Dates: 3/23/03 - 3/26/03. **FRIGHTVISION 2003.** Website: http://www.frightvision.com. E-mail: [FrightVisioninfo@aol.com](mailto:FrightVisioninfo@aol.com). Where: Holiday Inn Independence, Independence, Ohio. Dates: 3/28/03 - 3/30/03. ### Oregon **GAMESTORM 2003.** Website: [http://www.pdxgames.com](http://www.pdxgames.com). E-mail: [aaroncurtis@attbi.com](mailto:aaroncurtis@attbi.com). Where: Doubletree Columbia River At Jantzen Beach On Hayden Island, Portland, Oregon. Dates: 3/14/03 - 3/16/03. ### Pennsylvania **ADVENTURE CON 2003.** Website: [http://www.radiomoments.com](http://www.radiomoments.com). E-mail: [angelo@radiomoments.com](mailto:angelo@radiomoments.com). Where: Merchant Square Mall S. 12th St. & Vultee St., Allentown, Pennsylvania. Dates: 3/8/03. **COLD WARS 2003.** Website: [http://www.coldwars.org](http://www.coldwars.org). E-mail: [jdrye@spa-inc.net](mailto:jdrye@spa-inc.net). Where: Lancaster Host Resort Hotel, Lancaster, Pennsylvania. Dates: 3/7/03 - 3/9/03. **COSCON XV.** Website: [http://www.circleofswords.com/](http://www.circleofswords.com/). E-mail: [cosguild@circleofswords.com](mailto:cosguild@circleofswords.com). Where: Days Inn, Butler, Pennsylvania. Dates: 3/14/03 - 3/16/03. **EAST COAST HOBBY SHOW 2003.**Website: [http://www.hobbyshow.com/](http://www.hobbyshow.com/). E-mail: [info@hobbyshow.com](mailto:info@hobbyshow.com). Where: Ft. Washington Expo Center, Philadelphia, Pennsylvania. Dates: 3/22/03 - 3/24/03. ### South Carolina **SPARTACON III.** Website: [http://www.angelfire.com/rpg/spartacon/](http://www.angelfire.com/rpg/spartacon/). E-mail: [b29349@yahoo.com](mailto:b29349@yahoo.com). Where: Ramada Inn, Spartanburg, South Carolina. Dates: 3/1/03. ### Tennesee **CHAOS CON.** Website: http://www.chaoscon.org. E-mail: [chaos@gamemastersguild.org](mailto:chaos@gamemastersguild.org). Where: Music and Mass Comm. Bldg, Austin Peay State University Campus, Clarksville, Tennessee. Dates: 3/7/03 - 3/9/03. **GALACTICON 2003.** Website: [http://www.thewebfool.com/galacticon/](http://www.thewebfool.com/galacticon/). E-mail: [galacticon@vei.net](mailto:galacticon@vei.net). Where: Ramada Inn South, Chattanooga, Tennessee. Dates: 3/21/03 - 3/23/03. **MIDSOUTHCON 21.**Website: [http://www.midsouthcon.org/](http://www.midsouthcon.org/). E-mail: [info@midsouthcon.org](mailto:info@midsouthcon.org). Where: Sheraton Four Points Hotel, Memphis, Tennessee. Dates: 3/28/03 - 3/30/03. ### Texas **AGGIECON 34.** Website: [http://aggiecon.tamu.edu](http://aggiecon.tamu.edu). E-mail: [YaruGL@tamu.edu](mailto:YaruGL@tamu.edu). Where: Memorial Student Center, Texas A&M University, College Station, Texas. Dates: 3/20/03 - 3/23/03. ### Virginia **MADICON 12.** Website: [http://www.madicon.org/](http://www.madicon.org/). E-mail: [conchair@madicon.org](mailto:conchair@madicon.org). Where: James Madison University, Harrisonburg, Virginia. Dates: 3/28/03 - 3/30/03. **TECHNICON 20.** Website: [http://www.technicon.org/](http://www.technicon.org/). E-mail: [info@technicon.org](mailto:info@technicon.org). Where: Best Western Red Lion Inn, Blacksburg, Virginia. Dates: 3/14/03 - 3/16/03. **VIRGINIA FESTIVAL OF THE BOOK.** Website: [http://www.vabook.org/](http://www.vabook.org/). E-mail: [vabook@virginia.edu](mailto:vabook@virginia.edu). Where: University of Virginia, Charlottesville, Virginia. Dates: 3/19/03 - 3/23/03. ### Washington **CREATION SALUTES STAR TREK, BUFFY: THE VAMPIRE SLAYER AND SCI-FI MEDIA.** Website: [http://www.creationent.com/](http://www.creationent.com/). E-mail: [tickets@creationent.com](mailto:tickets@creationent.com). Address: The Doubletree Hotel Bellevue, Seattle, Washington. Dates: 2/28/03 - 3/2/03. ### Wisconsin **CONGENIAL.** Website: [http://www.congenial.org/](http://www.congenial.org/). E-mail: [info@congenial.org](mailto:info@congenial.org). Where: Racine Marriott, Racine, Wisconsin. Dates: 3/7/03 - 3/9/03. **MIDWEST OPEN 2003 - VICTORY IN THE PACIFIC TOURNAMENT.** Website: [http://www.washingtongamers.org/conventions.asp](http://www.washingtongamers.org/conventions.asp). E-mail: [gelp@juno.com](mailto:gelp@juno.com). Where: Executive Inn - Best Western, Kenosha, Wisconsin. Dates: 3/1/03 - 3/2/03. ### Canada **AD ASTRA.** Website: [http://www.ad-astra.org](http://www.ad-astra.org). E-mail: [info@ad-astra.org](mailto:info@ad-astra.org). Where: Toronto Colony Hotel, Toronto, Ontario. Dates: 3/21/03 - 3/23/03. **DPG EXPO IX.** Website: [http://is2.dal.ca/~dpg/](http://is2.dal.ca/~dpg/). E-mail: [dpg@is2.dal.ca](mailto:dpg@is2.dal.ca). Where: The Common Room, Daltech (Sexton Campus), Halifax, Nova Scotia. Dates: 3/15/03. **FILKONTARIO.** Website: http://www.bserv.com/community/fkoa.htm. E-mail: [hayman@bserv.com](mailto:hayman@bserv.com). Where: Four Points Hotel Toronto Airport, Mississauga, Ontario. Dates: 3/28/03 - 3/30/03. **GLORANTHACON VIII.** Website: [http://www.gloranthacon.com](http://www.gloranthacon.com). E-mail: [gloranthacon@glorantha.com](mailto:gloranthacon@glorantha.com). Where: Toronto Colony Hotel, Toronto, Ontario. Dates: 3/7/03 - 3/9/03. **HOTLEAD 2003.** Website: [http://www.quadro.net/~hotlead/](http://www.quadro.net/~hotlead/). E-mail: [mantofam@quadro.net](mailto:mantofam@quadro.net). Where: Victorian Inn, Stratford, Ontario. Dates: 3/28/03 - 3/30/03. **ORION 2003.** Website: [http://www.rigelgroup.org](http://www.rigelgroup.org). E-mail: [info@rigel.cx](mailto:info@rigel.cx). Where: The Colony Hotel, 89 Chestnut Street, Toronto, Ontario. Dates: 3/21/03 - 3/23/03. **TRUMPETER SALUTE 2003.** Website: [http://www.trumpeterclub.com](http://www.trumpeterclub.com). E-mail: [big_dog@telus.net](mailto:big_dog@telus.net). Where: Bonsor Community Centre (Metrotown,)Burnaby (Vancouver), British Columbia. Dates: 3/14/03 - 3/16/03. ### Ireland **DOMINICON.** Website: [http://www.dominicon.ie/](http://www.dominicon.ie/). E-mail: [info@dominicon.ie](mailto:info@dominicon.ie). Where: NUI Maynooth, Co. Kildare, Ireland. Dates: 3/28/03. ### Italy **DEEPCON 4.** Website: [http://www.deepcon.it/](http://www.deepcon.it/). E-mail: [mmartini@italway.it](mailto:mmartini@italway.it). Where: Hotel Ambasciatori, Fiuggi Terme, Italy. Dates: 3/6/03 - 3/9/03. ### United Kingdom **ACTION REPLAY 2003.** Website: [http://www.scificonventions.com/](http://www.scificonventions.com/). E-mail: [jipster@actionreplay2003.com](mailto:jipster@actionreplay2003.com). Where: Bournemouth, UK. Dates: 3/1/03 - 3/2/03. **ASCENDANT.** Website: [http://www.starfury.co.uk](http://www.starfury.co.uk). E-mail: [SeanHarry@aol.com](mailto:SeanHarry@aol.com). Where: Thistle Hotel, Heathrow, London, England, UK. Dates: 3/28/03 - 3/30/03. **CHILLER FEST.** Website: [http://www.scifishows.com/](http://www.scifishows.com/). E-mail: [info@scifishows.com](mailto:info@scifishows.com). Where: Radisson Edwardian Hotel, Heathrow, London, UK. Dates: 3/22/03 - 3/23/03. **CONPULSION.** Website: [http://www.conpulsion.org](http://www.conpulsion.org). E-mail: [fiona@vascotland.org.uk](mailto:fiona@vascotland.org.uk). Where: Teviot Row Union Building, Edinburgh, Scotland, UK. Dates: 3/15/03 - 3/16/03. **PORTMERICON 2003.** Website: [http://www.portmeiricon.com/](http://www.portmeiricon.com/). E-mail: [sixofone@netreach.net](mailto:sixofone@netreach.net). Where: Hotel Portmeirion, Northern Wales, UK. Dates: 3/28/03 - 3/30/03. **STAR WARS DAY VII.** Website: [http://www.exewing.btinternet.co.uk](http://www.exewing.btinternet.co.uk). E-mail: [exewing@btinternet.com](mailto:exewing@btinternet.com). Where: Honiton Sports Centre, Honiton, Devon, UK. Dates: 3/2/03. **TOWERCON 2003.** Website: [http://www.philm.demon.co.uk/RPGs/conventions.htm](http://www.philm.demon.co.uk/RPGs/conventions.htm). E-mail: [dictator@towercon.co.uk](mailto:dictator@towercon.co.uk). Where: Norbreck Castle Hotel, Blackpool, UK. Dates: 3/21/03 - 3/23/03. For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
+**Con†Stellation XXII: Pegasus.** E-mail: [constell@con-stellation.org](mailto:constell@con-stellation.org). Address: Con&#42;Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857. Site Address: Holiday Inn Express, Huntsville, Alabama. Dates: 10/10/03-10/12/03. **Note: &#42; Guest of Honor: Mercedes Lackey, &#42; Master of Ceremonies: Larry Dixon!**
+
+### California
+
+**CONDOR X.** Website: [http://www.condorcon.org](http://www.condorcon.org). E-mail: [info@condorcon.org](mailto:info@condorcon.org). Address: Doubletree Hotel, Del Mar, San Diego, California. Dates: 2/28/03 - 3/2/03.
+
+**CONSONANCE 2003.** Website: [http://www.rahul.net/figmo/consonance/](http://www.rahul.net/figmo/consonance/). E-mail: [figmo@rahul.net](mailto:figmo@rahul.net). Where: Crowne Plaza Silicon Valley, Milpitas, California. Dates: 3/7/03 - 3/9/03.
+
+**LEFT COAST CRIME 13.** Website: http://www.LeftCoastCrime.com/. E-mail: [lcc2003@aol.com](mailto:lcc2003@aol.com). Address: Pasadena Hilton, Pasadena, California. Dates: 2/28/03 - 3/2/03.
+
+**STAR TREK GRAND SLAM.** Website: [http://www.creationent.com/](http://www.creationent.com/). E-mail: [tickets@creationent.com](mailto:tickets@creationent.com). Where: Pasadena Center, Pasadena, California. Dates: 3/28/03 - 3/30/03.
+
+### Connecticut
+
+**CONNCON 2003.** Website: [http://www.conncon.com/ConnCon.htm](http://www.conncon.com/ConnCon.htm). E-mail: [Willi@ConnCon.com](mailto:Willi@ConnCon.com). Where: Holiday Inn Select, Stamford, Connecticut. Dates: 3/21/03 - 3/23/03.
+
+### Florida
+
+**ANIME EXPRESS 6.**Website: http://www.db.erau.edu/campus/student/clubs/anime/Convention.html. E-mail: [winarto@erau.edu](mailto:winarto@erau.edu). Where: IC (Instructional Center) building, at the Embry Riddle Aeronautical University (ERAU,)Daytona Beach, Florida. Dates: 3/21/03 - 3/23/03.
+
+**INTERNATIONAL CONFERENCE ON THE FANTASTIC IN THE ARTS 24.** Website: [http://www.iafa.org/](http://www.iafa.org/). E-mail: [mbartter@truman.edu](mailto:mbartter@truman.edu). Where: Ft. Lauderdale Airport Hilton, Ft. Lauderdale, Florida. Dates: 3/19/03 - 3/23/03.
+
+**MEGACON.**Website: [http://www.megaconvention.com/](http://www.megaconvention.com/). E-mail: [info@megaconvention.com](mailto:info@megaconvention.com). Address: Orange County Convention Center, Orlando, Florida. Dates: 2/28/03 - 3/2/03.
+
+**SLEUTHFEST 9.** Website: [http://www.mwa-florida.org/sleuthfest.htm](http://www.mwa-florida.org/sleuthfest.htm). E-mail: [Rwymer55@aol.com](mailto:Rwymer55@aol.com). Where: The Deerfield Beach/Boca Raton Hilton Hotel, Boca Raton, Florida. Dates: 3/13/03 - 3/16/03.
+
+### Georgia
+
+**STARFLEET REGION 2.** Website: [http://www.omnifacets.com/region2/](http://www.omnifacets.com/region2/). E-mail: [pdmohney@aol.com](mailto:pdmohney@aol.com). Where: Sheraton Inn Columbus Airport, Columbus, Georgia. Dates: 3/7/03 - 3/9/03.
+
+### Illinois
+
+**CHICAGO COMICFEST.** Website: [http://motorcityconventions.com/chicago_comic_fest/index.html](http://motorcityconventions.com/chicago_comic_fest/index.html). E-mail: [info@motorcityconventions.com](mailto:info@motorcityconventions.com). Where: Ramada Plaza Hotel O'Hare, Rosemont, Illinois. Dates: 3/8/03 - 3/9/03.
+
+**THE IDES OF MARCH.** Website: [http://www.idesofmarchcon.com](http://www.idesofmarchcon.com). E-mail: [Idescon@aol.com](mailto:Idescon@aol.com). Where: Holiday Inn O'Hare International, Rosemont, Illinois. Dates: 3/14/03 - 3/16/03.
+
+### Kentucky
+
+**CONCAVE 24.** Website: http://www.con-stellation.org/links.html. E-mail: [grrobe@chartertn.net](mailto:grrobe@chartertn.net). Address: Horse Cave, Kentucky. Dates: 2/28/03 - 3/2/03.
+
+### Louisiana
+
+**GOTHCON.** Website: [http://www.gothcon.com/](http://www.gothcon.com/). E-mail: [Info4GothCon@aol.com](mailto:Info4GothCon@aol.com). Where: New Orleans Marriott, New Orleans, Louisiana. Dates: 3/27/03 - 3/30/03.
+
+**INTERNATIONAL WARGAMES FEDERATION 6TH WORLD INDIVIDUAL CHAMPIONSHIPS.** Website: [http://www.nasamw.org/CompAppForm.htm](http://www.nasamw.org/CompAppForm.htm). E-mail: [hiltonmcm@aol.com](mailto:hiltonmcm@aol.com). Where: Quality Inn in Metairie, New Orleans, Louisiana. Dates: 3/7/03 - 3/9/03.
+
+### Maryland
+
+**ENLIGHTENMENT 6.** Website: [http://www.boardgamers.org/specific/aor02.htm](http://www.boardgamers.org/specific/aor02.htm). E-mail: [doncon99@toad.net](mailto:doncon99@toad.net). Where: Hampton Inn, Hunt Valley, Maryland. Dates: 3/14/03 - 3/16/03.
+
+**GALAXY CON I.** Website: [http://www.galaxycon.com/](http://www.galaxycon.com/). E-mail: [galaxy@galaxycon.com](mailto:galaxy@galaxycon.com). Where: BWI Airport Marriott, Baltimore, Maryland. Dates: 3/7/03 - 3/9/03.
+
+**GAMES WORKSHOP BALTIMORE GRAND TOURNAMENT.** Website: [http://www.games-workshop.com/news/us/events/events.htm](http://www.games-workshop.com/news/us/events/events.htm). E-mail: [Custserv@Games-Workshop.com](mailto:Custserv@Games-Workshop.com). Where: Baltimore Convention Center Hall A, Baltimore, Maryland. Dates: 3/7/03 - 3/9/03.
+
+**JOHNCON.**Website: [http://www.jhu.edu/~johncon](http://www.jhu.edu/~johncon). E-mail: [johncon@jhu.edu](mailto:johncon@jhu.edu). Address: Johns Hopkins University Campus, Baltimore, Maryland. Dates: 2/28/03 - 3/2/03.
+
+### Massachusetts
+
+**INTERCON C.**Website: http://www.InteractiveLiterature.com/C/. E-mail: [mdm@haven.org](mailto:mdm@haven.org). Address: Radisson Hotel And Suites, Chelmsford, Massachusetts. Dates: 2/28/03 - 3/2/03.
+
+### Michigan
+
+**AMBERCON US.** Website: [http://acus.ambercons.com/](http://acus.ambercons.com/). E-mail: [ambercon@juno.com](mailto:ambercon@juno.com). Where: Embassy Suites Detroit-Livonia, Detroit, Michigan. Dates: 3/27/03 - 3/30/03.
+
+**DEMENTIA.** Website: [http://www.thelandofdementia.com/](http://www.thelandofdementia.com/). E-mail: [2001@TheLandOfDementia.com](mailto:2001@TheLandOfDementia.com). Where: Holiday Inn, Southfield, Michigan. Dates: 3/03.
+
+**FOUNDATION GAMING CONVENTION.** Website: [http://www.foundation-games.com](http://www.foundation-games.com). E-mail: [timhunt@foundation-games.com](mailto:timhunt@foundation-games.com). Where: Okemos Holiday Inn, Lansing, Michigan. Dates: 3/14/03 - 3/16/03.
+
+**MARMALADE DOG 8: GAMEFEST 2003.** Website: http://www.wmgg.org/marmaladedog/. E-mail: [eboard@wmgg.org](mailto:eboard@wmgg.org). Where: Western Michigan University, Kalamazoo, Michigan. Dates: 3/29/03 - 3/30/03.
+
+### Mississippi
+
+**COASTCON XXVI.** Website: [http://coastcon.org](http://coastcon.org). E-mail: [chairman@coastcon.org](mailto:chairman@coastcon.org). Where: MS Gulf Coast Coliseum & Convention Center, Biloxi, Mississippi. Dates: 3/21/03 - 3/23/03.
+
+### Missouri
+
+**BRANSCON.** Website: http://www.wizard-guild.com/branscon/. E-mail: [lauriefox@mail.com](mailto:lauriefox@mail.com). Address: Settle Inn, Branson, Missouri. Dates: 2/28/03 - 3/2/03.
+
+**KANSAS CITY COMICON.** Website: [http://kansascitycomicon.com/](http://kansascitycomicon.com/). E-mail: [yrogerg@ukans.edu](mailto:yrogerg@ukans.edu). Where: KCI Expo Center, Kansas City, Missouri. Dates: 3/15/03 - 3/16/03.
+
+**STORMIE-CON.** Website: [http://www.stormie.net](http://www.stormie.net). E-mail: [stormie@swbell.net](mailto:stormie@swbell.net). Where: Ramada Inn, St. Louis Airport - Bridgeton, St. Louis, Missouri. Dates: 3/14/03 - 3/16/03.
+
+### New Hampshire
+
+**KAMECON.** Website: [http://www.kamecon.com](http://www.kamecon.com). E-mail: [j1atomic@mail.com](mailto:j1atomic@mail.com). Where: Manchester Memorial High, Manchester, New Hampshire. Dates: 3/1/03.
+
+### New Jersey
+
+**PRINCECON 28.**Website: [http://www.princetongames.org/princecon](http://www.princetongames.org/princecon). E-mail: [princecon@princetongames.org](mailto:princecon@princetongames.org). Where: Princeton University, Princeton, New Jersey. Dates: 3/14/03 - 3/16/03.
+
+### New York
+
+**I-CON 22.** Website: [http://www.iconsf.org/](http://www.iconsf.org/). E-mail: [info@iconsf.org](mailto:info@iconsf.org). Where: Stony Brook University, Stony Brook, New York. Dates: 3/28/03 - 3/30/03.
+
+**LUNACON 2003.**Website: [http://www.lunacon.org](http://www.lunacon.org). E-mail: [lunacon@lunacon.org](mailto:lunacon@lunacon.org). Where: Ryetown Hilton, Ryebrook, New York. Dates: 3/21/03 - 3/23/03.
+
+**SIMCON XXV.** Website: [http://www.simcon.org](http://www.simcon.org). E-mail: [chair@simcon.org](mailto:chair@simcon.org). Where: University Of Rochester, Rochester, New York. Dates: 3/20/03 - 3/23/03.
+
+**UB CON 2003.** Website: [http://www.ubsarpa.com](http://www.ubsarpa.com). E-mail: [condir@keegan.ws](mailto:condir@keegan.ws). Where: University at Buffalo, Buffalo, New York. Dates: 3/28/03 - 3/30/03.
+
+### North Carolina
+
+**STELLARCON 27.** Website: [http://www.stellarcon.org](http://www.stellarcon.org). E-mail: [info@stellarcon.org](mailto:info@stellarcon.org). Where: The Radisson Hotel, High Point, North Carolina. Dates: 3/14/03 - 3/16/03.
+
+### Ohio
+
+**CLEVELAND COLOSSAL CONVENTION 2.** Website: [http://colossalcon.com](http://colossalcon.com). E-mail: [nostalgiaconventio@prodigy.net](mailto:nostalgiaconventio@prodigy.net). Where: Holiday Inn, Independence, Ohio. Dates: 3/14/03 - 3/16/03.
+
+**DAYS OF HONOR.** Website: [http://www.kag.org/events/doh.htm](http://www.kag.org/events/doh.htm). E-mail: [qoltar@aol.com](mailto:qoltar@aol.com). Where: Cincinnati, Ohio. Dates: 3/23/03 - 3/26/03.
+
+**FRIGHTVISION 2003.** Website: http://www.frightvision.com. E-mail: [FrightVisioninfo@aol.com](mailto:FrightVisioninfo@aol.com). Where: Holiday Inn Independence, Independence, Ohio. Dates: 3/28/03 - 3/30/03.
+
+### Oregon
+
+**GAMESTORM 2003.** Website: [http://www.pdxgames.com](http://www.pdxgames.com). E-mail: [aaroncurtis@attbi.com](mailto:aaroncurtis@attbi.com). Where: Doubletree Columbia River At Jantzen Beach On Hayden Island, Portland, Oregon. Dates: 3/14/03 - 3/16/03.
+
+### Pennsylvania
+
+**ADVENTURE CON 2003.** Website: [http://www.radiomoments.com](http://www.radiomoments.com). E-mail: [angelo@radiomoments.com](mailto:angelo@radiomoments.com). Where: Merchant Square Mall S. 12th St. & Vultee St., Allentown, Pennsylvania. Dates: 3/8/03.
+
+**COLD WARS 2003.** Website: [http://www.coldwars.org](http://www.coldwars.org). E-mail: [jdrye@spa-inc.net](mailto:jdrye@spa-inc.net). Where: Lancaster Host Resort Hotel, Lancaster, Pennsylvania. Dates: 3/7/03 - 3/9/03.
+
+**COSCON XV.** Website: [http://www.circleofswords.com/](http://www.circleofswords.com/). E-mail: [cosguild@circleofswords.com](mailto:cosguild@circleofswords.com). Where: Days Inn, Butler, Pennsylvania. Dates: 3/14/03 - 3/16/03.
+
+**EAST COAST HOBBY SHOW 2003.**Website: [http://www.hobbyshow.com/](http://www.hobbyshow.com/). E-mail: [info@hobbyshow.com](mailto:info@hobbyshow.com). Where: Ft. Washington Expo Center, Philadelphia, Pennsylvania. Dates: 3/22/03 - 3/24/03.
+
+### South Carolina
+
+**SPARTACON III.** Website: [http://www.angelfire.com/rpg/spartacon/](http://www.angelfire.com/rpg/spartacon/). E-mail: [b29349@yahoo.com](mailto:b29349@yahoo.com). Where: Ramada Inn, Spartanburg, South Carolina. Dates: 3/1/03.
+
+### Tennesee
+
+**CHAOS CON.** Website: http://www.chaoscon.org. E-mail: [chaos@gamemastersguild.org](mailto:chaos@gamemastersguild.org). Where: Music and Mass Comm. Bldg, Austin Peay State University Campus, Clarksville, Tennessee. Dates: 3/7/03 - 3/9/03.
+
+**GALACTICON 2003.** Website: [http://www.thewebfool.com/galacticon/](http://www.thewebfool.com/galacticon/). E-mail: [galacticon@vei.net](mailto:galacticon@vei.net). Where: Ramada Inn South, Chattanooga, Tennessee. Dates: 3/21/03 - 3/23/03.
+
+**MIDSOUTHCON 21.**Website: [http://www.midsouthcon.org/](http://www.midsouthcon.org/). E-mail: [info@midsouthcon.org](mailto:info@midsouthcon.org). Where: Sheraton Four Points Hotel, Memphis, Tennessee. Dates: 3/28/03 - 3/30/03.
+
+### Texas
+
+**AGGIECON 34.** Website: [http://aggiecon.tamu.edu](http://aggiecon.tamu.edu). E-mail: [YaruGL@tamu.edu](mailto:YaruGL@tamu.edu). Where: Memorial Student Center, Texas A&M University, College Station, Texas. Dates: 3/20/03 - 3/23/03.
+
+### Virginia
+
+**MADICON 12.** Website: [http://www.madicon.org/](http://www.madicon.org/). E-mail: [conchair@madicon.org](mailto:conchair@madicon.org). Where: James Madison University, Harrisonburg, Virginia. Dates: 3/28/03 - 3/30/03.
+
+**TECHNICON 20.** Website: [http://www.technicon.org/](http://www.technicon.org/). E-mail: [info@technicon.org](mailto:info@technicon.org). Where: Best Western Red Lion Inn, Blacksburg, Virginia. Dates: 3/14/03 - 3/16/03.
+
+**VIRGINIA FESTIVAL OF THE BOOK.** Website: [http://www.vabook.org/](http://www.vabook.org/). E-mail: [vabook@virginia.edu](mailto:vabook@virginia.edu). Where: University of Virginia, Charlottesville, Virginia. Dates: 3/19/03 - 3/23/03.
+
+### Washington
+
+**CREATION SALUTES STAR TREK, BUFFY: THE VAMPIRE SLAYER AND SCI-FI MEDIA.** Website: [http://www.creationent.com/](http://www.creationent.com/). E-mail: [tickets@creationent.com](mailto:tickets@creationent.com). Address: The Doubletree Hotel Bellevue, Seattle, Washington. Dates: 2/28/03 - 3/2/03.
+
+### Wisconsin
+
+**CONGENIAL.** Website: [http://www.congenial.org/](http://www.congenial.org/). E-mail: [info@congenial.org](mailto:info@congenial.org). Where: Racine Marriott, Racine, Wisconsin. Dates: 3/7/03 - 3/9/03.
+
+**MIDWEST OPEN 2003 - VICTORY IN THE PACIFIC TOURNAMENT.** Website: [http://www.washingtongamers.org/conventions.asp](http://www.washingtongamers.org/conventions.asp). E-mail: [gelp@juno.com](mailto:gelp@juno.com). Where: Executive Inn - Best Western, Kenosha, Wisconsin. Dates: 3/1/03 - 3/2/03.
+
+### Canada
+
+**AD ASTRA.** Website: [http://www.ad-astra.org](http://www.ad-astra.org). E-mail: [info@ad-astra.org](mailto:info@ad-astra.org). Where: Toronto Colony Hotel, Toronto, Ontario. Dates: 3/21/03 - 3/23/03.
+
+**DPG EXPO IX.** Website: [http://is2.dal.ca/~dpg/](http://is2.dal.ca/~dpg/). E-mail: [dpg@is2.dal.ca](mailto:dpg@is2.dal.ca). Where: The Common Room, Daltech (Sexton Campus), Halifax, Nova Scotia. Dates: 3/15/03.
+
+**FILKONTARIO.** Website: http://www.bserv.com/community/fkoa.htm. E-mail: [hayman@bserv.com](mailto:hayman@bserv.com). Where: Four Points Hotel Toronto Airport, Mississauga, Ontario. Dates: 3/28/03 - 3/30/03.
+
+**GLORANTHACON VIII.** Website: [http://www.gloranthacon.com](http://www.gloranthacon.com). E-mail: [gloranthacon@glorantha.com](mailto:gloranthacon@glorantha.com). Where: Toronto Colony Hotel, Toronto, Ontario. Dates: 3/7/03 - 3/9/03.
+
+**HOTLEAD 2003.** Website: [http://www.quadro.net/~hotlead/](http://www.quadro.net/~hotlead/). E-mail: [mantofam@quadro.net](mailto:mantofam@quadro.net). Where: Victorian Inn, Stratford, Ontario. Dates: 3/28/03 - 3/30/03.
+
+**ORION 2003.** Website: [http://www.rigelgroup.org](http://www.rigelgroup.org). E-mail: [info@rigel.cx](mailto:info@rigel.cx). Where: The Colony Hotel, 89 Chestnut Street, Toronto, Ontario. Dates: 3/21/03 - 3/23/03.
+
+**TRUMPETER SALUTE 2003.** Website: [http://www.trumpeterclub.com](http://www.trumpeterclub.com). E-mail: [big_dog@telus.net](mailto:big_dog@telus.net). Where: Bonsor Community Centre (Metrotown,)Burnaby (Vancouver), British Columbia. Dates: 3/14/03 - 3/16/03.
+
+### Ireland
+
+**DOMINICON.** Website: [http://www.dominicon.ie/](http://www.dominicon.ie/). E-mail: [info@dominicon.ie](mailto:info@dominicon.ie). Where: NUI Maynooth, Co. Kildare, Ireland. Dates: 3/28/03.
+
+### Italy
+
+**DEEPCON 4.** Website: [http://www.deepcon.it/](http://www.deepcon.it/). E-mail: [mmartini@italway.it](mailto:mmartini@italway.it). Where: Hotel Ambasciatori, Fiuggi Terme, Italy. Dates: 3/6/03 - 3/9/03.
+
+### United Kingdom
+
+**ACTION REPLAY 2003.** Website: [http://www.scificonventions.com/](http://www.scificonventions.com/). E-mail: [jipster@actionreplay2003.com](mailto:jipster@actionreplay2003.com). Where: Bournemouth, UK. Dates: 3/1/03 - 3/2/03.
+
+**ASCENDANT.** Website: [http://www.starfury.co.uk](http://www.starfury.co.uk). E-mail: [SeanHarry@aol.com](mailto:SeanHarry@aol.com). Where: Thistle Hotel, Heathrow, London, England, UK. Dates: 3/28/03 - 3/30/03.
+
+**CHILLER FEST.** Website: [http://www.scifishows.com/](http://www.scifishows.com/). E-mail: [info@scifishows.com](mailto:info@scifishows.com). Where: Radisson Edwardian Hotel, Heathrow, London, UK. Dates: 3/22/03 - 3/23/03.
+
+**CONPULSION.** Website: [http://www.conpulsion.org](http://www.conpulsion.org). E-mail: [fiona@vascotland.org.uk](mailto:fiona@vascotland.org.uk). Where: Teviot Row Union Building, Edinburgh, Scotland, UK. Dates: 3/15/03 - 3/16/03.
+
+**PORTMERICON 2003.** Website: [http://www.portmeiricon.com/](http://www.portmeiricon.com/). E-mail: [sixofone@netreach.net](mailto:sixofone@netreach.net). Where: Hotel Portmeirion, Northern Wales, UK. Dates: 3/28/03 - 3/30/03.
+
+**STAR WARS DAY VII.** Website: [http://www.exewing.btinternet.co.uk](http://www.exewing.btinternet.co.uk). E-mail: [exewing@btinternet.com](mailto:exewing@btinternet.com). Where: Honiton Sports Centre, Honiton, Devon, UK. Dates: 3/2/03.
+
+**TOWERCON 2003.** Website: [http://www.philm.demon.co.uk/RPGs/conventions.htm](http://www.philm.demon.co.uk/RPGs/conventions.htm). E-mail: [dictator@towercon.co.uk](mailto:dictator@towercon.co.uk). Where: Norbreck Castle Hotel, Blackpool, UK. Dates: 3/21/03 - 3/23/03.
+
+For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Ally by Laura Felton" class="float-left border-5" loading="lazy" src="/qo149.jpg"/>
+<img alt="Ally by Laura Felton" class="border-5 float-left" loading="lazy" src="/qo149.jpg"/>
 
 ## Member News:
 
@@ -128,9 +328,13 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Austral'a'in*:** Editor: Cassandra Vuksa. We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption. *Austral'a'in* is up for adoption. If you are interested in adopting the chapter, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [/children-of-velgarth/](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
 - ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists�particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I�ve had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
+
   *- Companions' Grove Volume One - $4.00 ($4.75 with color cover) - Companions' Grove Volume Two - $5.60 ($6.35 with color cover) - Companions' Grove Volume Three - $5.20 ($5.95 with color cover) - Companions' Grove Volume Four - $4.20 ($4.95 with color cover) - Companions' Grove Volume Five - $7.00 ($7.75 with color cover) - Companions' Grove Volume Six - $5.80 ($6.55 with color cover) - Companions' Grove Volume Seven - $5.20 ($5.95 with color cover) - The Danya Winterborn Saga - $5.20 - Endgame - $3.85 - Fire Eyes - $4.40 - Shards of Autumn - $3.90 - The Sum of Duty - $5.80 - Do or Dye: A Guide to Companion Camouflage - $1.25 - Cat's Cradle - $7.60*
+
   For orders shipping in the US, I've instituted a maximum shipping cost of $3.85. Multi-zine orders which can be shipped in a flat rate envelope will be sent Priority Mail; larger orders will be sent Media Mail Insured, which is only slightly slower and doesn't have the zone rates (which wouldn't work with my shopping cart). Smaller orders will be sent First Class.
+
   I take credit cards via PayPal, which is the cart's only payment option, but the cart can be used to calculate shipping, and checks/money orders mailed to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St, Pahrump, NV 89060.
+
   Zines are printed on high-quality, bright white paper, comb bound, with cardstock covers. Story excerpts and cover art-as well as international pricing, submission guidelines, and PayPal ordering information-can be found at [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm) . To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N. Kelishan St., Pahrump, NV 89060. People outside the US should go directly to [http://www.greendragonpress.net/international.htm](http://www.greendragonpress.net/international.htm) and check out the price break for buying zines in threes, before they go to the main page and get scared by the per-zine shipping.
 - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [/golden-grove/](/golden-grove/) for more information.
@@ -140,7 +344,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Companion by Laura Felton" class="float-right border-5" loading="lazy" src="/qo150.jpg"/>
+<img alt="Companion by Laura Felton" class="border-5 float-right" loading="lazy" src="/qo150.jpg"/>
 
 ## Other Fandoms:
 
@@ -223,11 +427,13 @@ Moonstar
 - **From: Herald Jhenna Leisater.** I'm looking for members of Queen's Own who reside in Southern Idaho. Where I live there aren't all that many Misty fans, and I'd love to talk to people who appreciate her books as much as I do. You can reach me at my general e-mailing address: [heraldjhennaleisater@yahoo.com](mailto:heraldjhennaleisater@yahoo.com).
 - **From Jennifer M. Mackay/Herald Mallea D'Lar.** My interests are wide and long, so write me to find out more! Currently, I enjoy reading mostly Fantasy and SF. Some of my favorite authors are: Misty, JRR Tolkien, C.S. Lewis, Kate Elliott, Patricia Kenneally-Morrison, Morgan Llewellyn, and many more! I am an unpublished author working on an SF novel and a fantasy novel, plus various short stories. I enjoy watching movies, going to the beach, the mountains, and the bookstore! I also love listening to music (My tastes vary.). If you write or e-mail, I'm sure we can find something in common! Letters via Post Awful: Jennifer M. Mackay, P.O. Box 66408, Portland, OR 97290-6408. E-mail: [mackayjennifer@netscape.net](mailto:mackayjennifer@netscape.net), [mackayjenn@hotmail.com](mailto:mackayjenn@hotmail.com).
 - **From Herald-Mage Danya. To: All. Re: Help Wanted!** We need:
+
   - Monthly help compiling the list of Ren. Faires and Cons.
   - People to type in old newsletters.
   - People to proofread the website.
   - People to pull information from the old newsletters that we would like to add to the website.
   - Child care for Danya so she can code.
+
   If you can be of assistance, please contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.

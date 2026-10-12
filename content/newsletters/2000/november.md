@@ -35,24 +35,34 @@ This month we conclude our series of interviews with the editors of the various 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. When did you join Queen's Own?
+
   Too long ago to actually remember, (approx. 10 years ago) in a galaxy far, far away.
 2. What got you hooked on Misty's books?
+
   I read them, and they were good.
 3. What else do you read?
+
   Everything: Sci-fi, History, Mystery, Romance etc.
 4. What types of music do you listen to?
+
   Filk, Classical, some pop, Celtic, Japanese music, whatever else suits my fancy.
 5. What was the first con you went to?
+
   Bashcon, Incidentally, the first con I ever helped run. I was Donations/Head gopher.
 6. What do you like the best about Queen's Own?
+
   That people of similar interest and get together and make friends.
 7. Why did you choose to the editor of a Queen's Own fanzine/newsletter?
+
   Well, my sister and Celeste started this and then had no time for it, so I inherited it by default, but it is fun and a great way to meet new people.
 8. What does putting out an issue of your fanzine/newsletter involve?
+
   Lots and lots of work!! Time and creative people.
 9. What do you like to see in the way of story and/or art submissions to your fanzine/newsletter?
+
   I would like to see stories that aren't highly sexually orientated, unless it adds to the story because I have younger readers.
 10. What other projects besides Queen's Own occupy your time?
+
   Work, work, work, reading, costuming, Anime, Ren. Faires, cons, Historiean for Millennicon. I'm putting in my plug for having a 10-year celebration for *Herald's Companion* at Millennicaon in March 2001. Do you think anyone would be interested in having a Queen's Own get together at the convention? (*Ed. note*: If you are interested, contact Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).)
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
@@ -91,7 +101,7 @@ TEXAS RENAISSANCE FESTIVAL. Fax: 936-894-2391. E-mail: [info@texrenfest.com](mai
 
 For additional Ren Faire information, visit the Renaissance Faire Homepage at [http://www.renfaire.com/](http://www.renfaire.com/) and the Renaissance Magazine site at [http://www.renaissancemagazine.com](http://www.renaissancemagazine.com).
 
-<img alt="Directions by Herald Alora" class="float-right border-5" loading="lazy" src="/qo35.jpg"/>
+<img alt="Directions by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo35.jpg"/>
 
 ## Conventions:
 
@@ -335,7 +345,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 - Welcome, **Tayledras Scout Skyfire k'Chona** and his bondbirds gray Gyrfalcon Krellin and brown Red-tailed Hawk Koten. Skyfire is gifted with Mindspeech with his bondbirds, humans and non-human races. **Adam King** wrote about Skyfire and his friends, drew a picture of Koten and created a new Peligirs race.
 
-<img alt="Companions and Bondbirds by Herald Alora" class="float-right border-5" loading="lazy" src="/qo39.jpg"/>
+<img alt="Companions and Bondbirds by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo39.jpg"/>
 
 ### From Healer Adept Moonstar:
 
@@ -363,7 +373,7 @@ Moonstar
 
 ## Fan Messages:
 
-<img alt="Cleric and Star by Herald Alora" class="float-left border-3" loading="lazy" src="/qo38.jpg"/>
+<img alt="Cleric and Star by Herald Alora" class="border-3 float-left" loading="lazy" src="/qo38.jpg"/>
 
 The newsletter is routinely posted to the Net. If you are concerned about your address falling into unfriendly hands, don't place a fan message! You may answer fan messages without ever placing one yourself. The editors reserve the right to edit--and shorten!--all messages. (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 

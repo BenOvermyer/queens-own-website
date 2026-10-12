@@ -56,6 +56,7 @@ This fanzine accepts:
 
 - All current personae (May 2000 and later) WILL be included unless requested otherwise.
 - Past personae materials accepted by Queen's Own must include:
+
   - Month/year accepted
   - Gifts/Bondbird/etc. your persona may have
   - Your e-mail address

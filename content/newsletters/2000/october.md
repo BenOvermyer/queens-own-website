@@ -35,25 +35,36 @@ This month we continue series of interviews with the editors of the various Quee
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. When did you join Queen's Own?
+
   "Unofficially," around 8 years ago. Er . . . Umm . . . I'm now in the process of "officially" joining. Really.
 2. What got you hooked on Misty's books?
+
   I picked up *Arrow's Flight* in the library because I'm a sucker for good cover art, and went out and bought the whole series because I'm also a sucker for a good story. I enjoy Misty's stories because she's not afraid to spotlight alternative lifestyles and beliefs and treat them as commonplace. Her use of strong female protagonists in many of her books--especially Diana Tregarde, Tarma and Kerowyn--kept me reading and wishing that I could meet these women in person!
 3. What else do you read?
+
   Everything I can get my hands on--mostly fantasy and science fiction. Cross-genre works are my absolute favorite. I also read indie comics like *A Distant Soil* by Colleen Doran, *The Desert Peach* and *Stintz* by Donna Barr, *Strangers in Paradise* by Terry Moore and *Bone* by Jeff Smith. After the demise of *The Sandman*, mainstream just doesn't cut it for me anymore. Non-fiction such as History, Arts & Crafts, Mythology, etc.
 4. What types of music do you listen to?
+
   Depends on my current mood: Loreena McKennitt, Dead Can Dance, Classical, Nine Inch Nails, Various Soundtracks, Ethnic/World, Bluegrass, Folk, "New Age"--the occasional attack of 80's nostalgia--In other words, I have a wide range and eclectic taste.
 5. What was the first con you went to?
+
   Not counting the occasional Star Trek convention, the first con that had any fantasy leanings was the DreamCon-I-don't-remember-the-number) in Everett, WA where Misty was GoH. This is where I picked up a brochure about Pacific Northwest Collegium and learned about QO. The rest, they say, is history . . .
 6. What do you like the best about Queen's Own?
+
   QO is a great opportunity to meet people of like mind who have a love of fantasy in general and of Misty's work in particular. Plus, it's a chance to meet and connect with people throughout the USA--and beyond.
 7. Why did you choose to the editor of a Queen's Own fanzine/newsletter?
+
   PNWC was about to end after a lengthy six year run. I had the means and access to a computer, plus I had background in editing and a direction of where I wanted The Collegium Chronicles to go. Initially, I wanted to focus more on stories and art. So far (knock on wood), I've been lucky to have such a solid core base of talented folks to draw from.
 8. What does putting out an issue of your fanzine/newsletter involve?
+
   Lots of blood--paper cuts and fingernail chewing; sweat--when I'm way behind on publication dates or am fighting for computer time with the rest of the family; tears--when the computer crashes before I have a chance to print out a master copy--or find a really dumb mistake after I've printed a whole run.
+
   Seriously, the amount of time I spend on the newsletter sometimes comes in conflict with other aspects of my life. One sometimes cancels the other out.
 9. What do you like to see in the way of story and/or art submissions to your fanzine/newsletter?
+
   Ideally? Good stories that I don't have to spend the time deciphering or correcting grammar. While they don't have to be set in Velgarth, persona stories (with the appropriate release forms) are welcome. Preferably, the authors would be contacted online so I can correspond with any questions. E-mailed submissions are strongly encouraged. Makes it easier for me to save to a disk and cut-and-paste later! As for artwork, fellow member Herald Alora and I supply the pictures. However, I would like to see fresh talent, and am always eager when someone is interested in submitting graphics or something new. As usual, black and white pictures are best.
 10. What other projects besides Queen's Own occupy your time?
+
   I'm an artist by calling, and have started to participate in Con Art Shows mainly in the Seattle and Portland area. Costuming is also fun, especially at Cons where you can be as creative and weird looking as you like! My writing, alas, has taken the creative back burner for the time being, but I continually explore new ideas through my art. Just recently, I bought a previously-owned wire-strung Celtic harp and am in the process of taking lessons. It's one of the things I've always wanted to do and didn't want to keep putting off forever. It's harder than it looks--talk about my right had not knowing what my left hand is doing! Even so, I'm right proud to be carrying on an ancient and honorable tradition.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
@@ -142,7 +153,7 @@ WEST TEXAS RENAISSANCE FAIRE. E-mail: [renfaire@camalott.com](mailto:renfaire@ca
 
 For additional Ren Faire information, visit the Renaissance Faire Homepage at [http://www.renfaire.com/](http://www.renfaire.com/) and the Renaissance Magazine site at [http://www.renaissancemagazine.com](http://www.renaissancemagazine.com).
 
-<img alt="Woman Border by Herald Alora" class="float-right border-5" loading="lazy" src="/qo30.jpg"/>
+<img alt="Woman Border by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo30.jpg"/>
 
 ## Conventions:
 
@@ -215,7 +226,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 - Welcome, **Tayledras Mage Silentheart k'Chona**. Her bondbird is a black Northern Hawk Owl named Ty'lire, and she has Mindspeech with her bondbird only. **Michelle Brumley** wrote about her persona and friends, drew a picture of Silentheart, and drew a picture of Ty'lire.
 - Welcome, **Tayledras Healer Adept Crystalwren k'Sheyna**. Her bondbird is a Grey Goshawk named Perdue, and she has Mindspeech with her bondbird and non-human races. **Caitlyn Wilkinson** wrote about her persona and friends, drew a picture of Crystalwren, and drew a picture of Perdue.
 
-<img alt="Tayledras Border by Herald Alora" class="float-right border-5" loading="lazy" src="/qo31.jpg"/>
+<img alt="Tayledras Border by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo31.jpg"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 

@@ -146,7 +146,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Christmas 2001 Greetings by L.A. Malcor" class="float-center border-5" loading="lazy" src="/qo141.jpg"/>
+<img alt="Christmas 2001 Greetings by L.A. Malcor" class="border-5 float-center" loading="lazy" src="/qo141.jpg"/>
 
 ## Member News:
 
@@ -171,7 +171,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Christmas 2000 by L.A. Malcor" class="float-right border-5" loading="lazy" src="/qo142.jpg"/>
+<img alt="Christmas 2000 by L.A. Malcor" class="border-5 float-right" loading="lazy" src="/qo142.jpg"/>
 
 ## Other Fandoms:
 
@@ -257,9 +257,11 @@ Danya
 
 - **From Jennifer M. Mackay/Herald Mallea D'Lar. To all my old (and new) pen pals:** I moved back to Oregon in November of 2001. I am now using my maiden name (getting a divorce). Somehow I managed to lose track of Queen's Own and life in fandom due to Mundania Madness . . . and now that I've escaped, I'm back! My interests are wide and long, so write me to find out more! Currently, I enjoy reading mostly Fantasy and SF. I will read other genres and Classical Literature, plus nonfiction. Some of my favorite authors are: Misty, JRR Tolkien, Kate Elliott, Patricia Kenneally-Morrison, Morgan Llewellyn, Ursula K. LeGuin, Margaret Weiss and Tracy Hickman (DragonLance books), Edgar Allan Poe, and many more! I've been reading new authors, too. Mindy L. Klasky (Glasswright's Apprentice saga), Kristin Britian (The Greenrider), and I'm currently reading Elizabeth Haydon's Rhapsody. I am an unpublished author working on an SF novel and a fantasy novel, plus various short stories. I write in my spare time and whenever I can squeeze a line or two on paper if I'm away from the computer. I enjoy watching movies, going to the beach, the mountains, and the bookstore! I also like listening to music: Classical, soft Jazz, Techno, '80's Pop/New Wave, Folk/World, New Age, Celtic, and Soundtracks. I like some Oldies and Classic Rock, too. I used to do comics (money constraints hold me back but still have my old ones) and RPG's like D&D and others. I still enjoy doing the Scottish Games, SF/F cons, and I went to my first Ren. Faire this autumn! I'm very interested in my Scottish Highland Clan heritage. I've got my traditional garb (in Mackay tartan) ready for next year's games! If you write or E-mail, I'm sure we can find something in common! Letters via Post Awful: Jennifer M. Mackay, P.O. Box 66408, Portland, OR 97290-6408. E-mail: [mackayjennifer@netscape.net](mailto:mackayjennifer@netscape.net), [mackayjenn@hotmail.com](mailto:mackayjenn@hotmail.com).
 - **From Herald-Mage Danya. To: All. Re: Help Wanted!** We need:
+
   - Monthly help compiling the list of Ren. Faires and Cons.
   - People to type in old newsletters.
   - Child care for Danya so she can code.
+
   If you can be of assistance, please contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.

@@ -84,7 +84,7 @@ Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="So Shoot Me by Stephanie Blackwell" class="float-left border-5" loading="lazy" src="/qo190.jpg"/>
+<img alt="So Shoot Me by Stephanie Blackwell" class="border-5 float-left" loading="lazy" src="/qo190.jpg"/>
 
 ## Ren. Faires:
 
@@ -204,7 +204,7 @@ For additional Convention information, visit Convention Outpost by Jenga at [htt
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<img alt="Herald Sitara by Stephanie Blackwell" class="float-right border-5" loading="lazy" src="/qo188.jpg"/>
+<img alt="Herald Sitara by Stephanie Blackwell" class="border-5 float-right" loading="lazy" src="/qo188.jpg"/>
 
 ## Member News:
 
@@ -227,6 +227,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Austral'a'in*:** Editor: Cassandra Vuksa. We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption. *Austral'a'in* is up for adoption. If you are interested in adopting the chapter, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [/children-of-velgarth/](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
 - ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **&#42;&#42; If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don�t hear from you by September 2003, I will have to drop your contribution from the zine. &#42;&#42;** Volume Nine is open to submissions. Current prices (not including shipping) are:
+
   - *Companions' Grove* Volume One - $4.75 (40 pages, color cover)
   - *Companions' Grove* Volume Two - $6.35 (56 pages, color cover)
   - *Companions' Grove* Volume Three - $5.95 (51 pages, color cover)
@@ -241,9 +242,13 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
   - *The Sum of Duty* - $5.80 (57 pages, b/w cover)
   - *Do or Dye: A Guide to Companion Camouflage* - $1.25 (20 pages, digest size, b/w cover, saddle stapled)
   - *Cat's Cradle* - $7.60 (76 pages, monochrome green cover)
+
   For orders shipping in the US, I've instituted a maximum shipping cost of $3.85. Multi-zine orders, which can be shipped in a flat rate envelope (usually 3 of the smaller zines, or 2 of the larger zines), will be sent Priority Mail; larger orders will be sent Media Mail Insured, which is only slightly slower and doesn't have the zone rates (which wouldn't work with my shopping cart). Smaller orders will be sent First Class.
+
   I take credit cards via PayPal, which is the cart's only payment option, but the cart can be used to calculate shipping, and checks/money orders mailed to Green Dragon Press, c/o Devin Harris, 4531 N. Kelishan St., Pahrump, NV 89060.
+
   Except as noted, zines are printed on high-quality, bright white paper, comb bound, with cardstock covers. Story excerpts and cover art-as well as submission guidelines and PayPal ordering information-can be found at [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm). To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N. Kelishan St., Pahrump, NV 89060.
+
   **Note regarding *Shards of Autumn*:** While this zine is officially out of print and no longer available on the website, a few copies are left over from convention appearances. Any remaining copies from MediaWest will be available at that con until they sell out; the others are being returned to me and will be auctioned off at [http://www.auctionfen.com](http://www.auctionfen.com) until they are gone. I also occasionally auction off zines which returned from cons a bit shopworn, so it�s a good site to check periodically.
 - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [/golden-grove/](/golden-grove/) for more information.
@@ -298,13 +303,17 @@ One of the challenges running an online club is that people don�t always leave
 - Herald Ian Hawkwood (ianhawke1@aol.com)
 - Herald Kendryl Shadowwolf (kscarpat@altavista.com)
 - Herald Lisbeth Maye (wizardshome@hotmail.com)
-- Herald Liselle Aravon (rusalka@nac.net [) Herald Miracle Oceanfire (rhyme_reason@hotmail.com>) Herald Paf (jaro@attbi.com) Herald Taras Taltos (billernoe@hotmail.com) Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)](mailto:rusalka@nac.net)
+- Herald Liselle Aravon (rusalka@nac.net [)](mailto:rusalka@nac.net)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Herald Paf (jaro@attbi.com)
+- Herald Taras Taltos (billernoe@hotmail.com)
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
 
 Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
 
 If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
 
-<img alt="Lavan and Kalira by Stephanie Blackwell" class="float-left border-5" loading="lazy" src="/qo189.jpg"/>
+<img alt="Lavan and Kalira by Stephanie Blackwell" class="border-5 float-left" loading="lazy" src="/qo189.jpg"/>
 
 ### From Herald-Mage Adept Danya Winterborn:
 
