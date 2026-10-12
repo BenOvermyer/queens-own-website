@@ -14,9 +14,9 @@ canonical_path = "/religions-faq/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Religions FAQ</h2></center>
-<center><h2>(Revised 5/30/05)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Religions FAQ</h2></div>
+<div class="center"><h2>(Revised 5/30/05)</h2></div>
 <p>
 There are two types of Kal'enedral:  those Sworn to the Warrior and those Sworn to the Crone.  Those Sworn to the Warrior wear black.  Those Sworn to the Crone wear blue.
 </p><p>
@@ -120,12 +120,12 @@ The deities of Valdemar come from other planes.  The same is true for various ot
 <li>Abyssal
 </li></ul>
 <p>
-</p><center><img alt="" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<font face="Harem">
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<span class="ff-harem">
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 <p>
-<a href="/world-reference-guide/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></font>
+<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
+</p></span>
 </p>
 </div>

@@ -15,29 +15,29 @@ canonical_path = "/compass-rose/spring-2002/arthurian-tales/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
-</p></font><center><font size="7">The Arthurian Tales</font></center>
+</p></span><div class="center"><span class="fs-7">The Arthurian Tales</span></div>
 <p>
-</p><center><h2>by</h2></center>
+</p><div class="center"><h2>by</h2></div>
 <p>
-</p><center><h2><a href="mailto:Legend@malcor.com">Linda A. Malcor (née Peterson)</a></h2></center>
+</p><div class="center"><h2><a href="mailto:Legend@malcor.com">Linda A. Malcor (née Peterson)</a></h2></div>
 <p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="75%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:75%">
 <tr>
-<td align="left" valign="middle"><font face="Times New Roman" size="4"><i>Ed. Note:  This paper is actually more of a historical artifact than anything else.  It is the first research paper I ever wrote on the Arthurian legends.  Penned May 19, 1977, when I was fifteen years old, the paper asked these questions:  (1) What are the sources of the Arthurian tales? (2) What parts are true? (3) What parts were added later and by whom?</i></font></td>
+<td class="align-left valign-middle"><span class="ff-times fs-4"><i>Ed. Note:  This paper is actually more of a historical artifact than anything else.  It is the first research paper I ever wrote on the Arthurian legends.  Penned May 19, 1977, when I was fifteen years old, the paper asked these questions:  (1) What are the sources of the Arthurian tales? (2) What parts are true? (3) What parts were added later and by whom?</i></span></td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 </p><h2>The Background of the Period</h2>
 <p>
@@ -77,12 +77,12 @@ As can be clearly seen by now, the real Arthur was a far cry from the Arthur of 
 <p>
 These faces, fantasies, additions, confused and tangled bits of truth, and exaggerations are those that make up the body of the Arthurian tales.  This paper just covers a few of these.  Volumes can be, and in fact have been, written on this subject.  Actually, it is up to the individual to determine where the fact stops and the legend begins because, in many places, the web is so tangled that it is just a matter of beliefs as to whether the stories are true or false.  I have found this subject to be very interesting as I have done extensive research in this area, and I hope to look into the subject further in the future.
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/diversity-in-libraries/">Next</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/arthurian-tales/references/">Notes</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/arthurian-tales/references/#ref">References Cited</a></font></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/diversity-in-libraries/">Next</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/arthurian-tales/references/">Notes</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/arthurian-tales/references/#ref">References Cited</a></span></td>
 </tr>
 <tr>
 <td> </td>
@@ -90,13 +90,13 @@ These faces, fantasies, additions, confused and tangled bits of truth, and exagg
 <td> </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></font></td>
-<td width="33%"> </td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td></tr>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></span></td>
+<td style="width:33%"> </td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© Linda A. Peterson 1977.  All rights reserved.</center>
+</p><div class="center">© Linda A. Peterson 1977.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</div>
 </div>

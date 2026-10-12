@@ -15,8 +15,8 @@ canonical_path = "/mercedes-lackey-release-form/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Release Form for Mercedes Lackey</h2></center>
+<span class="fs-4">
+</span><div class="center"><h2>Release Form for Mercedes Lackey</h2></div>
 <p>
 Date:  _______________________________
 </p><p>
@@ -52,14 +52,14 @@ If said material is submitted by more than one person, all of said persons shall
 <p>
 Very truly yours,
 </p><p>
-</p><table border="0" width="100%">
+</p><table style="width:100%">
 <tr>
-<td align="left">_______________________________________</td>
-<td align="left">________________________________________</td>
+<td class="align-left">_______________________________________</td>
+<td class="align-left">________________________________________</td>
 </tr>
 <tr>
-<td align="left">Signature</td>
-<td align="left">Witness</td>
+<td class="align-left">Signature</td>
+<td class="align-left">Witness</td>
 </tr>
 </table>
 <p>
@@ -69,14 +69,14 @@ Print name
 ______________________________________________________________________________________<br/>
 Address
 </p><p>
-</p><table border="0" width="100%">
+</p><table style="width:100%">
 <tr>
-<td align="left">_______________________________________</td>
-<td align="left">________________________________________</td>
+<td class="align-left">_______________________________________</td>
+<td class="align-left">________________________________________</td>
 </tr>
 <tr>
-<td align="left">Telephone</td>
-<td align="left">Date of Birth</td>
+<td class="align-left">Telephone</td>
+<td class="align-left">Date of Birth</td>
 </tr>
 </table>
 <p>

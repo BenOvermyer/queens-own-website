@@ -14,16 +14,16 @@ canonical_path = "/northern-barbarian-handout/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>The Helpful Handout of How to Become a Northern Barbarian</h2></center>
-<center><h3>Criteria established by Mercedes Lackey</h3></center>
-<center><h3>Based on the <b>Darian's Tale</b> trilogy.</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>The Helpful Handout of How to Become a Northern Barbarian</h2></div>
+<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
+<div class="center"><h3>Based on the <b>Darian's Tale</b> trilogy.</h3></div>
 <p>
 Distributed by:
 </p><p>
-</p><center><h3>Queen's Own
+</p><div class="center"><h3>Queen's Own
 <br/>
-The Official Mercedes Lackey Fan Club</h3></center>
+The Official Mercedes Lackey Fan Club</h3></div>
 <p>
 </p><h2>Basic Requirements</h2>
 <p>
@@ -36,7 +36,7 @@ Honor applies; what you roll is what you get.
 Determine your Clan by rolling two six-sided dice or one die twice and add the
 numbers.
 </p><p>
-</p><table border="0">
+</p><table>
 <tr>
 <td>2-3:</td>
 <td>Ghost Cat Clan</td>
@@ -74,7 +74,7 @@ Note:  QO does not accept personae for the Blood Bear, Wolf-Head and Wolverine C
 Determine your Position within the clan by rolling one six-sided die.
 </p><p>
 </p><p>
-</p><table border="0">
+</p><table>
 <tr>
 <td>1:</td>
 <td>Clan Healer</td>
@@ -95,7 +95,7 @@ Determine your Position within the clan by rolling one six-sided die.
 <p>
 *If you roll a result of Clan Member, please specify your role:  artisan, blacksmith, hunter, food gatherer, weaver, potter, fisher, trapper, or some other suitable job.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 </p><h2>II.  Develop a Character</h2>
 <p>
@@ -108,13 +108,13 @@ developing your persona.  You can't write your story without knowing who you are
 </p><p>
 (10 points)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 </p><h2>III.  Develop One or More Friend or Relative Characters</h2>
 <p>
 You needn't be quite so detailed in your descriptions of these other characters.  But remember, you are writing about people you know well.  Describe what your family and/or friends look like, their own character traits, etc.  Again, a minimum of 3 pages.  (5 points)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 </p><h2>IV. Extra Point Requirements (5 points each)</h2>
 <p>
@@ -140,11 +140,11 @@ Choose and complete the requirements for two (minimum) of the following:
 </li><li>Send a story, poem, or art to one of our <a href="/fan-fiction/">zines</a>.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
-</p><center><h2>After you have acquired 25 points, you may become a full clan member!</h2></center>
+</p><div class="center"><h2>After you have acquired 25 points, you may become a full clan member!</h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 </p><h2>Special Notes for Northern Barbarians</h2>
 <p>
@@ -189,11 +189,11 @@ If you have an approved Warleader, you may try for Warleader.  To become a Clan 
 <li>Write a 20-page paper on the Constitution of the Iroquois Federation.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 Zhai'helleva,<br/>
 <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

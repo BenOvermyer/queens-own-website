@@ -14,18 +14,18 @@ canonical_path = "/sorcerer-handout/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>The Helpful Handout of How to Become a Sorcerer/Sorceress</h2></center>
-<center><h3>Criteria established by Mercedes Lackey</h3></center>
-<center><h3>Based on the <b>Vows and Honor</b> duology<br/>
-and the <b>Winds</b> and <b>Mage Storms</b> trilogies</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>The Helpful Handout of How to Become a Sorcerer/Sorceress</h2></div>
+<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
+<div class="center"><h3>Based on the <b>Vows and Honor</b> duology<br/>
+and the <b>Winds</b> and <b>Mage Storms</b> trilogies</h3></div>
 <p>
 Distributed by:
 </p><p>
-</p><center><h3>Queen's Own
+</p><div class="center"><h3>Queen's Own
 <br/>
 The Official Mercedes Lackey Fan Club
-</h3></center>
+</h3></div>
 <p>
 </p><h2>Basic Requirements</h2>
 <p>
@@ -39,16 +39,16 @@ This is a biography.  Describe your persona's physical and emotional
 characteristics, likes and dislikes, whatever makes you uniquely you.
 You may use first or third person.
 </p><p>
-Remember, write about your persona <font color="red">before</font> s/he became a sorcerer/sorceress.  A sorcerer/sorceress must learn to cope with his/her magic, not have his/her life built around it.  Mage Gift usually manifests during puberty; it is not evident
+Remember, write about your persona <span class="c-red">before</span> s/he became a sorcerer/sorceress.  A sorcerer/sorceress must learn to cope with his/her magic, not have his/her life built around it.  Mage Gift usually manifests during puberty; it is not evident
 at birth.  (10 points.)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
 </p><h2>II.  Develop One or More Friend or Relative Characters</h2>
 <p>
 You needn't be quite so detailed in your descriptions of these other characters.  But remember, you are writing about people you know well.  Describe what your family and/or friends look like, their own character traits, etc.  Again, a minimum of 3 pages.  (5 points)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
 </p><h2>III.  Extra Point Requirements (5 points each)</h2>
 <p>
@@ -75,11 +75,11 @@ Choose and complete the requirements for two (minimum) of the following:
 </li><li>Send a story, poem, or art to one of our <a href="/fan-fiction/">zines</a>.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
-</p><center><h2>After you have acquired 25 points, you may begin your Hedge-Wizard period.</h2></center>
+</p><div class="center"><h2>After you have acquired 25 points, you may begin your Hedge-Wizard period.</h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
 </p><h2>Special Notes for Sorcerors/Sorceresses</h2>
 <p>
@@ -91,7 +91,7 @@ Choose and complete the requirements for two (minimum) of the following:
 <p>
 If you have additional questions, check out <a href="/magic-of-velgarth/">The Magic of Velgarth</a> FAQ.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
 </p><h2>Advanced Rank</h2>
 <p>
@@ -111,45 +111,33 @@ To earn one of these specialties, first create an approved Sorcerer/Sorceress pe
 <p>
 If you want your character to receive formal training in the magical arts, there are three schools that I know about.  Choose which school you want to join.  Complete the requirements in that column for each rank.  Do not switch columns.  If you start in the White Winds column, you need to stay there.
 </p><p>
-</p><center>
-<table border="5" cellpadding="2" cellspacing="2" width="90%">
+</p><div class="center">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:90%">
 <tr>
-<th align="center" valign="middle"><font="bookman face="4">Rank</font="bookman></th>
-<th align="center" valign="middle"><font="bookman face="4">Blue Mountain</font="bookman></th>
-<th align="center" valign="middle"><font="bookman face="4">Twin Suns</font="bookman></th>
-<th align="center" valign="middle"><font="bookman face="4">White Winds</font="bookman></th>
-</tr>
-<tr>
-<th align="left" valign="middle"><font="bookman face="4">Apprentice</font="bookman></th>
-<td align="left" valign="middle"><font="bookman face="4">Write a story (minimum of 10 pages) about how your persona decided to train at a Blue Mountain school, and send it to one of the QO zines.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a story (minimum of 10 pages) about how your persona decided to train at a Twin Suns school, and send it to one of the QO zines.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a story (minimum of 10 pages) about how your persona decided to train at a White Winds school, and send it to one of the QO zines.</font="bookman></td>
-</tr>
-<tr>
-<th align="left" valign="middle"><font="bookman face="4">Journeyman</font="bookman></th>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper the environmental issue of your choice.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper comparing and contrasting priestly and secular magic.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper about how stage-magic can be used to simulate the most common "mediumistic powers" (manifesting spirits, moving tables, voices and objects from nowhere, appearance of ectoplasm, etc.).</font="bookman></td>
-</tr>
-<tr>
-<th align="left" valign="middle"><font="bookman face="4">Master</font="bookman></th>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper on the ethical use of magic as taught by the Blue Mountain school.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper on the ethical use of magic as taught by the Twin Suns school.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper on the ethical use of magic as taught by the White Winds school.</font="bookman></td>
-</tr>
-<tr>
-<th align="left" valign="middle"><font="bookman face="4">Adept</font="bookman></th>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper explaining how "unexplained phenomena" (Floating Lights, Phantom Headlights, etc.) can be explained by purely mundane means.<p>AND</p><p>Start a local <a href="/chapters/">chapter of Queen's Own</a>.</p></font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper on televangelism, and how the miracles shown on a particular show can be explained by mundane means.<p>AND</p><p>Start a local <a href="/chapters/">chapter of Queen's Own</a>.</p></font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper about urban legends (the Hitchhiking Ghost, Ghost Lights, Kentucky Fried Rat, the Haunted Dormitory, the Lover's Lane Stalker, etc.).<p>AND</p><p>Start a local <a href="/chapters/">chapter of Queen's Own</a>.</p></font="bookman></td>
-</tr>
-</table>
-</center>
-<p>
+<th class="align-center valign-middle"><span class="fs-4">Rank</span>
+</th><th class="align-center valign-middle"><span class="fs-4">Blue Mountain</span>
+</th><th class="align-center valign-middle"><span class="fs-4">Twin Suns</span>
+</th><th class="align-center valign-middle"><span class="fs-4">White Winds</span>
+</th><th class="align-left valign-middle"><span class="fs-4">Apprentice</span>
+</th><td class="align-left valign-middle"><span class="fs-4">Write a story (minimum of 10 pages) about how your persona decided to train at a Blue Mountain school, and send it to one of the QO zines.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a story (minimum of 10 pages) about how your persona decided to train at a Twin Suns school, and send it to one of the QO zines.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a story (minimum of 10 pages) about how your persona decided to train at a White Winds school, and send it to one of the QO zines.</span>
+</td><th class="align-left valign-middle"><span class="fs-4">Journeyman</span>
+</th><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper the environmental issue of your choice.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper comparing and contrasting priestly and secular magic.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper about how stage-magic can be used to simulate the most common "mediumistic powers" (manifesting spirits, moving tables, voices and objects from nowhere, appearance of ectoplasm, etc.).</span>
+</td><th class="align-left valign-middle"><span class="fs-4">Master</span>
+</th><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper on the ethical use of magic as taught by the Blue Mountain school.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper on the ethical use of magic as taught by the Twin Suns school.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper on the ethical use of magic as taught by the White Winds school.</span>
+</td><th class="align-left valign-middle"><span class="fs-4">Adept</span>
+</th><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper explaining how "unexplained phenomena" (Floating Lights, Phantom Headlights, etc.) can be explained by purely mundane means.<p>AND</p><p>Start a local <a href="/chapters/">chapter of Queen's Own</a>.</p></span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper on televangelism, and how the miracles shown on a particular show can be explained by mundane means.<p>AND</p><p>Start a local <a href="/chapters/">chapter of Queen's Own</a>.</p></span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper about urban legends (the Hitchhiking Ghost, Ghost Lights, Kentucky Fried Rat, the Haunted Dormitory, the Lover's Lane Stalker, etc.).<p>AND</p><p>Start a local <a href="/chapters/">chapter of Queen's Own</a>.</p></span>
 These papers will be published in <a href="/compass-rose/about/"><i>The Compass Rose</i></a>.
-</p><p>
-</p><center><img alt="" loading="lazy" src="/barstar.gif"/></center>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
+<p>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
-</div>
+</td></tr></table></div></div>

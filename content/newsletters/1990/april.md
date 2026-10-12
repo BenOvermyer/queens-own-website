@@ -17,13 +17,13 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. III, No. 4<br/>
-April 1990</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. III, No. 4<br/>
+April 1990</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
@@ -35,23 +35,23 @@ Queen's Own was formed over two years ago because Misty's books are very special
 </p><p>
 The purpose of this newsletter is to keep you informed of new books and tapes by Misty, to tell you of her convention appearances, and to allow her to communicate with all of you.  And to allow all of us to become friends.
 </p><p>
-</p><center><h2>Book Release Dates</h2></center>
+</p><div class="center"><h2>Book Release Dates</h2></div>
 <p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="75%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:75%">
 <tr>
-<th align="left" valign="top"><font size="4">Coming in July:</font></th>
-<th align="left" valign="top"><font size="4">Coming in August:</font></th>
+<th class="align-left valign-top"><span class="fs-4">Coming in July:</span></th>
+<th class="align-left valign-top"><span class="fs-4">Coming in August:</span></th>
 </tr><tr>
-<td align="left" valign="top"><font size="4"><i>Knight of Ghosts and Shadows</i></font></td>
-<td align="left" valign="top"><font size="4"><i>Children of the Night</i></font></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Knight of Ghosts and Shadows</i></span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Children of the Night</i></span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4"><i>Magic's Price</i></font></td>
-<td align="left" valign="top"><font size="4"> </font></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Magic's Price</i></span></td>
+<td class="align-left valign-top"><span class="fs-4"> </span></td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 <b>Misty's birthday is June 24th.</b>  Send your cards to the Queen's Own address, with Misty's name on them, in time for me to forward them.
 </p><p>
@@ -124,34 +124,34 @@ information they contained.]
 </p><p>
 </p><h2>Dates to Remember</h2>
 <p>
-</p><table border="0" cellpadding="2" cellspacing="2" width="75%">
+</p><table class="cellpadding-2 cellspacing-2" style="width:75%">
 <tr>
-<td align="left" valign="top"><font size="4">Memorial Day Weekend</font></td>
-<td align="left" valign="top"><font size="4">"Once Upon a Con"</font></td>
+<td class="align-left valign-top"><span class="fs-4">Memorial Day Weekend</span></td>
+<td class="align-left valign-top"><span class="fs-4">"Once Upon a Con"</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">June 1-3</font></td>
-<td align="left" valign="top"><font size="4">"Springfest 90"</font></td>
+<td class="align-left valign-top"><span class="fs-4">June 1-3</span></td>
+<td class="align-left valign-top"><span class="fs-4">"Springfest 90"</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">June 5th</font></td>
-<td align="left" valign="top"><font size="4">the next QO newsletter</font></td>
+<td class="align-left valign-top"><span class="fs-4">June 5th</span></td>
+<td class="align-left valign-top"><span class="fs-4">the next QO newsletter</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">June 24th</font></td>
-<td align="left" valign="top"><font size="4"><b>Misty's birthday</b></font></td>
+<td class="align-left valign-top"><span class="fs-4">June 24th</span></td>
+<td class="align-left valign-top"><span class="fs-4"><b>Misty's birthday</b></span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">July 6-8</font></td>
-<td align="left" valign="top"><font size="4">"OurCon"</font></td>
+<td class="align-left valign-top"><span class="fs-4">July 6-8</span></td>
+<td class="align-left valign-top"><span class="fs-4">"OurCon"</span></td>
 </tr>
 </table>
 <p>
-</p><center><hr/></center>
+</p><div class="center"><hr/></div>
 A Question from the Outlander:
 <p>
 How about a persona who goes about exposing corruption in Valdemar?  Can you call him Heraldic Rivera??
-</p><center><hr/></center>
+</p><div class="center"><hr/></div>
 <p>
 P.S. Bright blessings to you all!
 </p><p>
@@ -159,7 +159,7 @@ Judith
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -179,10 +179,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

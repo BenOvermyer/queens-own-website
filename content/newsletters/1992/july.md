@@ -17,23 +17,23 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. V, No. 10<br/>
-July 1992</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. V, No. 10<br/>
+July 1992</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="flowers" border="0" loading="lazy" src="/qo227.jpg"/>Good news for you Wing Commander fans! The promo from Baen books reads: "One of Baen's Biggest Stars and a Team Leader from Wing Commander Team Up on a Tie-In to the Bestselling Computer Game of all Time!" Yes, it's another collaboration from Misty and Ellen Guon, and it's a Wing Commander book, to be released in time for Christmas.
+<img alt="flowers" class="float-right" loading="lazy" src="/qo227.jpg"/>Good news for you Wing Commander fans! The promo from Baen books reads: "One of Baen's Biggest Stars and a Team Leader from Wing Commander Team Up on a Tie-In to the Bestselling Computer Game of all Time!" Yes, it's another collaboration from Misty and Ellen Guon, and it's a Wing Commander book, to be released in time for Christmas.
 </p><p>
 <i>WING COMMANDER: FREEDOM FLIGHT</i> features Ralgha nar Rhallas, captain of a war cruiser, noble lord of the Kilrathi Empire - and a rebel.... Captain K'Kai of Firekka, first of her winged species to leave her planet for the stars . . . .  Captain Ian St. John, call sign "Hunter," hotshot human pilot - he thinks he's just in it for the hot flying . . . . Rikik, K'Kai's niece, hereditary leader of her clan - all she wants to do is follow in her notorious relative's footsteps and fly the stars . . . . They were as disreputable a gang of misfits as ever flew between the stars. But together they could free a world . . . . WOW!
 </p><p>
@@ -122,7 +122,7 @@ Have a glorious summer! Judith
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -140,10 +140,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

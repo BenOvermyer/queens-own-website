@@ -14,12 +14,12 @@ canonical_path = "/how-to-join/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>Membership Information</h2></center>
-<center><h3>(Revised 6/15/05)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>Membership Information</h2></div>
+<div class="center"><h3>(Revised 6/15/05)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/pegasus.gif"/></div>
 <p>
 Membership in Queen's Own is free!  All you have to do is create a <a href="/persona-handouts/">club persona</a> and submit it according to the instructions on your chosen handout.
 </p><p>
@@ -32,8 +32,8 @@ Periodically the club will publish volumes of persona materials that have been s
 Zhai'helleva,<br/>
 <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

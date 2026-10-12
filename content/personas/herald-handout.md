@@ -14,17 +14,17 @@ canonical_path = "/herald-handout/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>The Helpful Handout of How to Become a Herald</h2></center>
-<center><h3>Criteria established by Mercedes Lackey</h3></center>
-<center><h3>Based on the <b>Heralds of Valdemar</b> trilogy</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>The Helpful Handout of How to Become a Herald</h2></div>
+<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
+<div class="center"><h3>Based on the <b>Heralds of Valdemar</b> trilogy</h3></div>
 <p>
 Distributed by:
 </p><p>
-</p><center><h3>Queen's Own
+</p><div class="center"><h3>Queen's Own
 <br/>
 The Official Mercedes Lackey Fan Club
-</h3></center>
+</h3></div>
 <p>
 </p><h2>Basic Requirements</h2>
 <p>
@@ -32,8 +32,8 @@ The Official Mercedes Lackey Fan Club
 <p>
 Determine your Gifts by rolling a six-sided die.  Honor applies; what you roll is what you get.  If you roll the same number twice, it means you have that Gift in double strength.  Do not roll again for a different Gift.
 </p><p>
-</p><center>
-<table border="0">
+</p><div class="center">
+<table>
 <tr>
 <td>1-3 = one Gift</td>
 <td> </td>
@@ -44,13 +44,13 @@ Determine your Gifts by rolling a six-sided die.  Honor applies; what you roll i
 <td>6 = three Gifts</td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 </p><h3>Gifts</h3>
 <p>
 Roll two dice, or one die twice, and add the numbers.
 </p><p>
-</p><table border="0">
+</p><table>
 <tr>
 <td>2-8:</td>
 <td>Mindspeech (Also called Mindtouch, Mindreaching, Mindcalling and Farspeaking)</td>
@@ -69,7 +69,7 @@ Roll two dice, or one die twice, and add the numbers.
 <p>
 Roll one die.
 </p><p>
-</p><table border="0">
+</p><table>
 <tr>
 <td>1:</td>
 <td>Empathy</td>
@@ -102,8 +102,8 @@ Regardless of your roll, you will always have limited Mindspeech with your Compa
 <p>
 Determine the strength of your Gifts by rolling a six-sided die:
 </p><p>
-</p><center>
-<table border="0">
+</p><div class="center">
+<table>
 <tr>
 <td>1 = Low</td>
 <td> </td>
@@ -114,9 +114,9 @@ Determine the strength of your Gifts by rolling a six-sided die:
 <td>6 = Strong</td>
 </tr>
 </table>
-</center>
+</div>
 <p>
-</p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
+</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
 <p>
 </p><h2>II.  Develop a Character</h2>
 <p>
@@ -125,15 +125,15 @@ and write about him/her.  Prepare a minimum of 3 pages.
 </p><p>
 This is a biography.  Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you.  You may use first or third person.
 </p><p>
-Remember, to write about your persona <font color="red">before</font> s/he became a Herald and his/her Gifts manifested.  A Chosen must learn to cope with his/her Gifts, not have his/her life built around them.  Most Gifts manifest themselves around puberty; they are not evident at birth. (10 points)
+Remember, to write about your persona <span class="c-red">before</span> s/he became a Herald and his/her Gifts manifested.  A Chosen must learn to cope with his/her Gifts, not have his/her life built around them.  Most Gifts manifest themselves around puberty; they are not evident at birth. (10 points)
 </p><p>
-</p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
+</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
 <p>
 </p><h2>III.  Develop One or More Friend or Relative Characters</h2>
 <p>
 You needn't be quite so detailed in your descriptions of these other characters.  But remember, you are writing about people you know well.  Describe what your family and/or friends look like, their own character traits, etc.  Again, a minimum of 3 pages.  (5 points)
 </p><p>
-</p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
+</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
 <p>
 </p><h2>IV. Extra Point Requirements (5 points each)</h2>
 <p>
@@ -160,11 +160,11 @@ Choose and complete the requirements for two (minimum) of the following:
 </li><li>Send a story, poem, or art to one of our <a href="/fan-fiction/">zines</a>.
 </li></ol>
 <p>
-</p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
+</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
 <p>
-</p><center><h2>After you have acquired 25 points, you may be Chosen.</h2></center>
+</p><div class="center"><h2>After you have acquired 25 points, you may be Chosen.</h2></div>
 <p>
-</p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
+</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
 <p>
 </p><h2>Special Notes for Heralds</h2>
 <p>
@@ -179,7 +179,7 @@ Choose and complete the requirements for two (minimum) of the following:
 <p>
 If you have additional questions, check out <a href="/heralds-faq/">The Heralds of Valdemar</a> FAQ.
 </p><p>
-</p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
+</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
 <p>
 </p><h2>Advanced Rank</h2>
 <p>
@@ -204,7 +204,7 @@ To attain a specialty as a Herald:
 <p>
 </p></li><li><a id="history" name="history"></a>Historian:  Write a 20-page paper on the real historical event of your choice.
 <p>
-<font color="red">Exception</font>:  If you already a teacher of history at the Elementary, Junior High or Senior High level, you may automatically claim Herald-Historian status.  However, please develop your Velgarth persona so others may interact with you in character.
+<span class="c-red">Exception</span>:  If you already a teacher of history at the Elementary, Junior High or Senior High level, you may automatically claim Herald-Historian status.  However, please develop your Velgarth persona so others may interact with you in character.
 </p></li></ul>
 </li></ol>
 <p>
@@ -212,10 +212,10 @@ To attain a specialty as a Herald:
 <p>
 You may work for <a href="/herald-mage-handout/">Herald-Mage</a> status once you've completed your Herald requirements.
 </p><p>
-</p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" border="0" loading="lazy" src="/ml2.gif"/></a></center>
+</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml2.gif"/></a></div>
 <p>
-</p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
+</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

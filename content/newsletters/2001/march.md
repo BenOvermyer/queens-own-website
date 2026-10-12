@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 2, No. 3<br/>
-March 1, 2001</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 2, No. 3<br/>
+March 1, 2001</h2></div>
 <p>
-</p><center><img alt="Breena the Raven by Michelle Cornette" border="3" loading="lazy" src="/qo62.jpg"/></center>
+</p><div class="center"><img alt="Breena the Raven by Michelle Cornette" class="border-3" loading="lazy" src="/qo62.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -47,7 +47,7 @@ Zhai'helleva,
 </p><p>
 <b>Herald-Mage Master Danya Winterborn</b> and <b>Healer Adept Moonstar</b>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><ol>
 <li><b>When did you join Queen's Own?</b>
@@ -91,11 +91,11 @@ The process I go through is I usually have an idea, which I sketch out or write 
 Besides projects for QO I also produce art for the club N3F, other newsletters and amateur presses, and some charities as well (animal-related). Mainly I try to draw for myself and for my own need for expression, self-exploration and well being. I do like having others to share my creations with through fandom and beyond.
 </p></li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
-</p><center><img align="left" alt="Ivory Crow by Michelle Cornette" border="2" loading="lazy" src="/qo63.jpg"/></center>
+</p><div class="center"><img alt="Ivory Crow by Michelle Cornette" class="float-left border-2" loading="lazy" src="/qo63.jpg"/></div>
 <p>
 Here are the faires we know about that are happening in March.  Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
 </p><p>
@@ -373,9 +373,9 @@ Dates: 3/16/01 - 3/18/01.
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Fox by Michelle Cornette" border="3" loading="lazy" src="/qo66.jpg"/></center>
+</p><div class="center"><img alt="Fox by Michelle Cornette" class="border-3" loading="lazy" src="/qo66.jpg"/></div>
 <p>
 </p><h2>Member News:</h2>
 <p>
@@ -401,7 +401,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b>The Vanyel Fan Club</b>: The <i>Vanyel Fan Club</i> is a chapter of QO that started out as an independent fan organization.  The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage Trilogy</i> by Mercedes Lackey. E-mail: Herald Bastian, President aka Western Guardian (<a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian (<a href="mailto:Legend@malcor.com">Legend@malcor.com</a>); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian (<a href="mailto:healermoon@gmail.com">healermoon@gmail.com</a>).  (The position of Southern Guardian, editor of the VFC newsletter, is currently open.  Several people are interviewing for it.)  There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine.  For more information, see the VFC website at <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.
 </li></ul>
 <p>
-</p><center><img align="right" alt="Anthro Cat by Michelle Cornette" border="3" loading="lazy" src="/qo65.jpg"/></center>
+</p><div class="center"><img alt="Anthro Cat by Michelle Cornette" class="float-right border-3" loading="lazy" src="/qo65.jpg"/></div>
 <p>
 </p><h3>Zines and Newsletters:</h3>
 <p>
@@ -426,13 +426,13 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
-</p><center>
-<img alt="Naga by Michelle Cornette" border="5" loading="lazy" src="/qo64.jpg"/>
-</center>
+</p><div class="center">
+<img alt="Naga by Michelle Cornette" class="border-5" loading="lazy" src="/qo64.jpg"/>
+</div>
 <p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
@@ -473,7 +473,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 <li>Welcome to <b>Devyn Aeryn</b>, our very first Blue!  <b>Devin Harris</b> wrote about Devyn, her family and her friends, sent two stories to one of our fanzines, and drew a picture of her persona.
 </li></ul>
 <p>
-<img align="left" alt="Great Talon by Michelle Cornette" border="5" loading="lazy" src="/qo67.jpg"/></p><h3>From Healer Adept Moonstar:</h3>
+<img alt="Great Talon by Michelle Cornette" class="float-left border-5" loading="lazy" src="/qo67.jpg"/></p><h3>From Healer Adept Moonstar:</h3>
 <p>
 This morning I noticed that my email box was woefully empty.  That is that I have no submissions for the Art Contest.  With all of our wonderful artists this is a little surprising to me.  You have two more weeks to submit.  In case you missed the details of the contest here they are again.
 </p><p>
@@ -499,11 +499,11 @@ Hugs-
 </p><p>
 Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
-The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <span class="c-red">don't place a fan message</span>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
 </p><p>
@@ -514,7 +514,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li>From <b>Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc</b> <a href="mailto:dragonfodder@gmail.com">dragonfodder@gmail.com</a>.  22-year-old college grad going back for her Master's in Ecology in the fall.  Loves reading, writing, fandom, Scooby-Doo and comic books.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -527,7 +527,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></g></g></li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -550,10 +550,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

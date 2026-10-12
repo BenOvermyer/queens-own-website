@@ -17,13 +17,13 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. VIII, No. 5<br/>
-February 1995</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. VIII, No. 5<br/>
+February 1995</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
@@ -31,7 +31,7 @@ February 1995</h2></center>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="border by Hanna Bruin" border="0" loading="lazy" src="/qo110.jpg"/>Lots of news from Misty in this issue.
+<img alt="border by Hanna Bruin" class="float-right" loading="lazy" src="/qo110.jpg"/>Lots of news from Misty in this issue.
 </p><p>
 First, a note of warning: Misty says, "If you see a flyer with our names on it, as apparently happened for a convention called CONJUNCTION in Arkansas in January, the con committee is either lying or has been approached by my imposter.  Yes, I have an imposter out there.  If you meet someone claiming to be me at a convention, turn her in to the convention committee immediately!  As for convention committees, evidently some people are convinced that if they claim we are going to be a guest we will be 'forced' to attend.  We are not even going to the Queen's Own mini-con at *NASFIC this year . . . . it's right in the middle of hacking-out season for my rehab birds, and stupid-fledgling season when young birds get hurt a lot.  No matter what you see or hear, if you don't hear about it from us, here, it isn't true. If we decide to start attending conventions, I will announce it first here, but at the moment, it is not very likely, as the birds need us more."
 </p><p>
@@ -178,7 +178,7 @@ Mailing Day Helpers (last issue) - Meredith Baldino, Frank Burkhead, Helen Edwar
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -198,10 +198,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

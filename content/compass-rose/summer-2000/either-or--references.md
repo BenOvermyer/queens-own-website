@@ -15,24 +15,24 @@ canonical_path = "/compass-rose/summer-2000/either-or/references/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <p>
 </p><hr/>
 <p>
-</p></font><center><h2>Either Or</h2></center>
+</p></span><div class="center"><h2>Either Or</h2></div>
 <p>
-</p><center><h3>by</h3></center>
+</p><div class="center"><h3>by</h3></div>
 <p>
-</p><center><h2><a href="mailto:healermoon@gmail.com">Kendra Renaud</a></h2></center>
+</p><div class="center"><h2><a href="mailto:healermoon@gmail.com">Kendra Renaud</a></h2></div>
 <p>
-</p><center><h2>References Cited</h2></center>
+</p><div class="center"><h2>References Cited</h2></div>
 <p>
 <a id="albrecht" name="albrecht"></a>
 Albrecht-Samarashina, Leah Lilith. 1997. "Bi-femme: On Being a Traitor and/or Revolutionary." <a href="http://www.artnet.net/~scorpio/Moondance/Nonfiction/bifemme.htm">http://www.artnet.net/~scorpio/Moondance/Nonfiction/bifemme.htm</a>. Accessed 27 August 2000.
@@ -55,17 +55,17 @@ Newitz, Annalee and Jillian Sandell. 1994.  "Bisexuality and how to use it: Towa
 <a id="toufexis" name="toufexis"></a>
 Toufexis, Anastasia. 1992.  "Bisexuality: What is it?" <i>Time</i> 17:49-51.
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/reviews/">Next</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/reviews/">Next</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td>
 </tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© Kendra Renaud.  All rights reserved.</center>
+</p><div class="center">© Kendra Renaud.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</div>
 </div>

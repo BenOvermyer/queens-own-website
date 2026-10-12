@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 5, No. 6<br/>
-June 1, 2004</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 5, No. 6<br/>
+June 1, 2004</h2></div>
 <p>
-</p><center><img alt="Three Horse Heads by Jan Tellevast" border="5" loading="lazy" src="/qo208.jpg"/></center>
+</p><div class="center"><img alt="Three Horse Heads by Jan Tellevast" class="border-5" loading="lazy" src="/qo208.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -277,7 +277,7 @@ Dates: 6/3/04 - 6/6/04.
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://www.geocities.com/jengacons/"> http://www.geocities.com/jengacons/</a>.
 </p><p>
-<img align="right" alt="Bronze Dragon by Jan Tellevast" border="5" loading="lazy" src="/qo209.gif"/>
+<img alt="Bronze Dragon by Jan Tellevast" class="float-right border-5" loading="lazy" src="/qo209.gif"/>
 </p><p>
 </p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.37 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
@@ -348,7 +348,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </li><li><b>Tales of the Southern Bard:</b>  TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at <a href="mailto:SouthernBard@eudoramail.com">SouthernBard@eudoramail.com</a> for submission guidelines and information on how to join or visit TOTSB's homepage: <a href="http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm">http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm</a>. <br/>
 <br/>
 </li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.<br/>
-</li></ul><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><h2>Other Fandoms:</h2><ul>
+</li></ul><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div><h2>Other Fandoms:</h2><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.<br/>
 <br/>
 </li><li>CrossGen Comics: Exciting New Fantasy Comic Books.  Follow Prince Ethan's adventures the third Wednesday of each month as he gains the powerful sigil and accidentally puts his world on the brink of war. Meridian, on sale the fourth Wednesday of each month, is the fantastic saga of a teenage girl and her plight to save her floating island home. Go to <a href="http://www.crossgen.com">http://www.crossgen.com</a>, or call 1-888-COMICBOOK for details on a retail location near you.<br/>
@@ -368,7 +368,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </li><li>Star Trek: The <b>USS Starfire</b> is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at <a href="http://www.epix.net/~ckocher/starfire.html ">http://www.epix.net/~ckocher/starfire.html</a> or e-mail us at <a href="mailto:trek01@epix.net">trek01@epix.net</a>. <br/>
 <br/>
 </li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
-</li></ul><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><h3>Collegium News:</h3><p>We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
+</li></ul><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div><h3>Collegium News:</h3><p>We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 
 </p><p>You need a release form (online at <a href="/release-form-instructions/">/release-form-instructions/</a>) if you write a story set in Misty's worlds or using any of her characters.  You do not need a release for a character sketch, poem or filk.  All Misty wants to do is protect her characters and her worlds.  Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  Do NOT include the <i>original</i> of the release form with your persona material; send it to Misty.  Send a <i>copy</i> to us.
 
@@ -405,7 +405,7 @@ If you were working on a persona who is no longer listed at <a href="/club-chat/
 </ul>
 <p>If you know any of these folks, please have them contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> with a current e-mail address.
 </p><p>
-<img align="right" alt="Lalloria by Jan Tellevast" border="5" loading="lazy" src="/qo210.jpg"/>
+<img alt="Lalloria by Jan Tellevast" class="float-right border-5" loading="lazy" src="/qo210.jpg"/>
 </p><p>
 </p><h3>From Herald-Mage Adept Danya Winterborn:</h3>
 <p>
@@ -427,7 +427,7 @@ Zhai�helleva,
 </p><p>
 Danya
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <h2>Personals:</h2> <br/>
 <br/>
 <ul>
@@ -443,7 +443,7 @@ Danya
 <li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks! </li>
 </ul>
 <br/>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 </p><p>Newsletters are published on (or near) the first of each month.
@@ -466,10 +466,10 @@ Claremore, OK 74017
 
 </p><p>Healer Adept Moonstar
 
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></g></g></p></g></p>
 </div>

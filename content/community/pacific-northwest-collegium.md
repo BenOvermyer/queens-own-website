@@ -15,11 +15,11 @@ canonical_path = "/pacific-northwest-collegium/"
 +++
 
 <div class="original-page">
-<font size="5">
-</font><center><img alt="" loading="lazy" src="/cc1.gif"/></center>
-<center><h2>(Revised 3/09/10)</h2></center>
+<span class="fs-5">
+</span><div class="center"><img alt="" loading="lazy" src="/cc1.gif"/></div>
+<div class="center"><h2>(Revised 3/09/10)</h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/pegasus.gif"/></div>
 <p>
 The Collegium Chronicles is the official newsletter for members of the Pacific Northwest Collegium, a Mercedes Lackey
 Fan Club serving primarily Washington, Oregon, Idaho, California, and other various and sundry places.  We are
@@ -29,11 +29,11 @@ news of Velgarth and other "Misty" realms.  The chapter is currently up for adop
 Send correspondence to <b>Laura Cameron, Pacific Northwest Collegium,
  <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.
 </b></p><p>
-</p><center><img alt="Danya and Kestran" border="5" loading="lazy" src="/cc2a.gif"/></center>
+</p><div class="center"><img alt="Danya and Kestran" class="border-5" loading="lazy" src="/cc2a.gif"/></div>
 <p>
-</p><center><b>"Danya Winterborn and Bard Kestran"</b></center>
-<center><b>by</b></center>
-<center><b>Laura Cameron</b></center>
+</p><div class="center"><b>"Danya Winterborn and Bard Kestran"</b></div>
+<div class="center"><b>by</b></div>
+<div class="center"><b>Laura Cameron</b></div>
 <p>
 </p><h2>The Newsletter</h2>
 <p>
@@ -54,11 +54,11 @@ story to <i>The Collegium Chronicles</i>.)
 </li><li>Art (You do not need a release to submit art.)
 </li></ul>
 <p>
-</p><center><img alt="Danya and Terrill" border="5" loading="lazy" src="/cc3a.gif"/></center>
+</p><div class="center"><img alt="Danya and Terrill" class="border-5" loading="lazy" src="/cc3a.gif"/></div>
 <p>
-</p><center><b>"Danya and Terrill"</b></center>
-<center><b>by</b></center>
-<center><b>Laura Cameron</b></center>
+</p><div class="center"><b>"Danya and Terrill"</b></div>
+<div class="center"><b>by</b></div>
+<div class="center"><b>Laura Cameron</b></div>
 <p>
 </p><h2>Staff</h2>
 <p>
@@ -68,11 +68,11 @@ story to <i>The Collegium Chronicles</i>.)
 </li><li>Linda A. Malcor:  Contributer, Website Design
 </li></ul>
 <p>
-</p><center><img alt="Yarik and Companions" border="5" loading="lazy" src="/cc8a.gif"/></center>
+</p><div class="center"><img alt="Yarik and Companions" class="border-5" loading="lazy" src="/cc8a.gif"/></div>
 <p>
-</p><center><b>"Herald Yarik in the Companions' Field"</b></center>
-<center><b>by</b></center>
-<center><b>Laura Cameron</b></center>
+</p><div class="center"><b>"Herald Yarik in the Companions' Field"</b></div>
+<div class="center"><b>by</b></div>
+<div class="center"><b>Laura Cameron</b></div>
 <p>
 </p><h2>Art Samples from <i>The Collegium Chronicles</i></h2>
 <p>
@@ -142,11 +142,11 @@ images were in black-and-white.):
 </li><li><a href="/cc29.gif">Threesomes</a>
 </li></ul>
 <p>
-</p><center><img alt="Danya, Yarik and Kaylan" border="5" loading="lazy" src="/cc10a.gif"/></center>
+</p><div class="center"><img alt="Danya, Yarik and Kaylan" class="border-5" loading="lazy" src="/cc10a.gif"/></div>
 <p>
-</p><center><b>"Danya, Yarik and Kaylan"</b></center>
-<center><b>by</b></center>
-<center><b>Laura Cameron</b></center>
+</p><div class="center"><b>"Danya, Yarik and Kaylan"</b></div>
+<div class="center"><b>by</b></div>
+<div class="center"><b>Laura Cameron</b></div>
 <p>
 </p><h2>Copyright Notices:</h2>
 <p>
@@ -160,35 +160,35 @@ this page were designed by L.A. Malcor, using images that were
 offered for free from the former <i>Here Be Dragons</i> site and
 various archive sites.  The buttons themselves are original designs
 by L.A. Malcor, and you need to <a href="mailto:Legend@malcor.com">contact her</a>
-for permission information if you wish to use the buttons on your own site.  <font color="red"><i>Please do not
-link to artwork on this page.</i></font>  If an image is in the public domain, feel
+for permission information if you wish to use the buttons on your own site.  <span class="c-red"><i>Please do not
+link to artwork on this page.</i></span>  If an image is in the public domain, feel
 free to download it and upload it to your own site.  We have a bandwidth
 limit, however, and if people use it up by linking to our images, we will
 have to remove the art.
 </p><p>
 </p><p>
-</p><center><img alt="Danya, Yarik and Kaylan Exchange Rings" border="5" loading="lazy" src="/cc16.gif"/></center>
+</p><div class="center"><img alt="Danya, Yarik and Kaylan Exchange Rings" class="border-5" loading="lazy" src="/cc16.gif"/></div>
 <p>
-</p><center><b>"Danya, Yarik and Kaylan Exchange Rings"</b></center>
-<center><b>by</b></center>
-<center><b>Laura Cameron</b></center>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><b>"Danya, Yarik and Kaylan Exchange Rings"</b></div>
+<div class="center"><b>by</b></div>
+<div class="center"><b>Laura Cameron</b></div>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2>Additional Artwork by Laura Cameron</h2></center>
+</p><div class="center"><h2>Additional Artwork by Laura Cameron</h2></div>
 <p>
-</p><center><img alt="Female Warrior" border="5" loading="lazy" src="/fwarrior.jpg"/></center>
+</p><div class="center"><img alt="Female Warrior" class="border-5" loading="lazy" src="/fwarrior.jpg"/></div>
 <p>
-</p><center><h3>Original Sold at Norwescon 1998</h3></center>
+</p><div class="center"><h3>Original Sold at Norwescon 1998</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 <!--Begin Queen's Own Official Webring Fragment-->
 </p><p>
-</p><table align="center" border="5" cellpadding="2" cellspacing="2" width="50%">
+</p><table class="border-5 cellpadding-2 cellspacing-2 table-align-center" style="width:50%">
 <tr>
-<td align="center" valign="middle" width="20%"><font face="Harem" size="2">
-<a href="/club-webring/"><img alt="Queen's Own" border="0" height="100" loading="lazy" src="/qoq.gif" width="80"/></a></font></td>
-<td align="center" valign="middle" width="60%">
+<td class="align-center valign-middle" style="width:20%"><span class="ff-harem fs-2">
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a></span></td>
+<td class="align-center valign-middle" style="width:60%">
 This<br/>
 <a href="/club-webring/">Queen's Own</a><br/>
 site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;prev5">Previous 5 Sites</a>
@@ -197,24 +197,24 @@ site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href=
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;next5">Next 5 Sites</a><br/>
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;random">Random Site</a>
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;list">List Sites</a>]</p></td>
-<td align="center" valign="middle" width="20%"><font face="Harem" size="2">
-<a href="/club-webring/"><img alt="Queen's Own" border="0" height="100" loading="lazy" src="/qoo.gif" width="80"/></a></font></td>
+<td class="align-center valign-middle" style="width:20%"><span class="ff-harem fs-2">
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a></span></td>
 </tr>
 </table>
 <!--End Queen's Own Official Webring Fragment-->
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <!-- BEGIN LINKEXCHANGE CODE -->
-<center><br/>
-<a href="http://leader.linkexchange.com/30/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" border="0" height="16" ismap="" loading="lazy" src="http://leader.linkexchange.com/30/X513002/showlogo?" width="468"/></a><br/></center>
+<div class="center"><br/>
+<a href="http://leader.linkexchange.com/30/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/30/X513002/showlogo?" style="width:468px; height:16px"/></a><br/></div>
 <!-- END LINKEXCHANGE CODE -->
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<font face="Harem">
+<span class="ff-harem">
 <p>
-<a href="/danya-winterborn/"><img alt="" border="0" loading="lazy" src="/butback.gif"/></a> <a href="/danya-winterborn/">Back to Danya Winterborn's Page</a>
+<a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> <a href="/danya-winterborn/">Back to Danya Winterborn's Page</a>
 </p><p>
-</p></font>
+</p></span>
 </p>
 </div>

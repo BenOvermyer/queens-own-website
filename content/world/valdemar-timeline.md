@@ -15,15 +15,15 @@ canonical_path = "/valdemar-timeline/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Valdemar Timeline</h2></center>
-<center><h2>(Revised 2/7/02)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Valdemar Timeline</h2></div>
+<div class="center"><h2>(Revised 2/7/02)</h2></div>
 <p>
 Here is the timeline for Misty's Valdemar Series.
 This timeline is adapted from the timeline that appears at the front of
 each of the Valdemar books.
 </p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <th>Beginning Date for the Period</th>
 <th>Reigning Monarch</th>
@@ -31,104 +31,104 @@ each of the Valdemar books.
 <th>Books</th>
 </tr>
 <tr>
-<td align="left" valign="top">1000 B.F.</td>
-<td align="left" valign="top">Prehistory:  Era of the Black Gryphon</td>
-<td align="left" valign="top">The Mage Wars</td>
-<td align="left" valign="top"><i>The Black Gryphon</i>,<br/>
+<td class="align-left valign-top">1000 B.F.</td>
+<td class="align-left valign-top">Prehistory:  Era of the Black Gryphon</td>
+<td class="align-left valign-top">The Mage Wars</td>
+<td class="align-left valign-top"><i>The Black Gryphon</i>,<br/>
 <i>The White Gryphon</i>,<br/>
 <i>The Silver Gryphon</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">0</td>
-<td align="left" valign="top">Founding of Valdemar</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
+<td class="align-left valign-top">0</td>
+<td class="align-left valign-top">Founding of Valdemar</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
 </tr>
 <tr>
-<td align="left" valign="top">750 A.F.</td>
-<td align="left" valign="top">Elspeth the Peacemaker</td>
-<td align="left" rowspan="2" valign="top">The Last Herald Mage Trilogy</td>
-<td align="left" valign="top"><i>Magic's Pawn</i></td>
+<td class="align-left valign-top">750 A.F.</td>
+<td class="align-left valign-top">Elspeth the Peacemaker</td>
+<td class="align-left valign-top" rowspan="2">The Last Herald Mage Trilogy</td>
+<td class="align-left valign-top"><i>Magic's Pawn</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">798 A.F.</td>
-<td align="left" valign="top">Randale</td>
-<td align="left" valign="top"><i>Magic's Promise</i>,<br/>
+<td class="align-left valign-top">798 A.F.</td>
+<td class="align-left valign-top">Randale</td>
+<td class="align-left valign-top"><i>Magic's Promise</i>,<br/>
 <i>Magic's Price</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">1077 A.F.</td>
-<td align="left" valign="top">Theran</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"><i>Brightly Burning</i></td>
+<td class="align-left valign-top">1077 A.F.</td>
+<td class="align-left valign-top">Theran</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"><i>Brightly Burning</i></td>
 </tr>
 <tr>
-<td align="left" rowspan="2" valign="top">1270 A.F.</td>
-<td align="left" rowspan="2" valign="top">Co-Consorts Arden &amp; Leesa</td>
-<td align="left" valign="top">Vows and Honor Duology</td>
-<td align="left" valign="top"><i>The Oathbound</i><br/>
+<td class="align-left valign-top" rowspan="2">1270 A.F.</td>
+<td class="align-left valign-top" rowspan="2">Co-Consorts Arden &amp; Leesa</td>
+<td class="align-left valign-top">Vows and Honor Duology</td>
+<td class="align-left valign-top"><i>The Oathbound</i><br/>
 <i>Oathbreakers</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">Short Stories</td>
-<td align="left" valign="top"><i>Oathblood</i></td>
+<td class="align-left valign-top">Short Stories</td>
+<td class="align-left valign-top"><i>Oathblood</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">1315 A.F.</td>
-<td align="left" valign="top">Roald</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
+<td class="align-left valign-top">1315 A.F.</td>
+<td class="align-left valign-top">Roald</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
 </tr>
 <tr>
-<td align="left" valign="top">1355 A.F.</td>
-<td align="left" valign="top">Sendar</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
+<td class="align-left valign-top">1355 A.F.</td>
+<td class="align-left valign-top">Sendar</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
 </tr>
 <tr>
-<td align="left" rowspan="7" valign="top">1376 A.F.</td>
-<td align="left" rowspan="7" valign="top">Selenay</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"><i>Take a Thief</i></td>
+<td class="align-left valign-top" rowspan="7">1376 A.F.</td>
+<td class="align-left valign-top" rowspan="7">Selenay</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"><i>Take a Thief</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">The Heralds of Valdemar Trilogy</td>
-<td align="left" valign="top"><i>Arrows of the Queen</i><br/>
+<td class="align-left valign-top">The Heralds of Valdemar Trilogy</td>
+<td class="align-left valign-top"><i>Arrows of the Queen</i><br/>
 <i>Arrow's Flight</i><br/>
 <i>Arrow's Fall</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">Kerowyn's Tale</td>
-<td align="left" valign="top"><i>By the Sword</i></td>
+<td class="align-left valign-top">Kerowyn's Tale</td>
+<td class="align-left valign-top"><i>By the Sword</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">The Mage Winds Trilogy</td>
-<td align="left" valign="top"><i>Winds of Fate</i><br/>
+<td class="align-left valign-top">The Mage Winds Trilogy</td>
+<td class="align-left valign-top"><i>Winds of Fate</i><br/>
 <i>Winds of Change</i><br/>
 <i>Winds of Fury</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">The Mage Storms Trilogy</td>
-<td align="left" valign="top"><i>Storm Warning</i><br/>
+<td class="align-left valign-top">The Mage Storms Trilogy</td>
+<td class="align-left valign-top"><i>Storm Warning</i><br/>
 <i>Storm Rising</i><br/>
 <i>Storm Breaking</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">Darian's Tale</td>
-<td align="left" valign="top"><i>Owlflight</i><br/>
+<td class="align-left valign-top">Darian's Tale</td>
+<td class="align-left valign-top"><i>Owlflight</i><br/>
 <i>Owlsight</i><br/>
 <i>Owlknight</i></td>
 </tr>
 <tr>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">"A Herald's Journey" in <i>The Valdemar Companion</i></td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">"A Herald's Journey" in <i>The Valdemar Companion</i></td>
 </tr>
 </table>
 <p>
 <i>Sword of Ice</i> does not fall neatly onto the timeline.  It containes
 tales that stretch from just before Vanyel's time (Savil's first encounter with the Tayledras) up through Selenay's reign.
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Copyright Order</h2>
 <p>
@@ -181,9 +181,9 @@ This is the order in which Mercedes Lackey copyrighted the various works:
 </li><li>"A Herald's Journey" in <i>The Valdemar Companion</i> 2001
 </li></ul>
 <p>
-</p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bardrgn2.gif"/></div>
 <p>
-<font face="Harem">
-</font>
+<span class="ff-harem">
+</span>
 </p>
 </div>

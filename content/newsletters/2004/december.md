@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 5, No. 12<br/>
-December 1, 2004</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 5, No. 12<br/>
+December 1, 2004</h2></div>
 <p>
-</p><center><img alt="Holiday Greetings from Danya and Moonstar" border="5" loading="lazy" src="/xmas2004.jpg"/></center>
+</p><div class="center"><img alt="Holiday Greetings from Danya and Moonstar" class="border-5" loading="lazy" src="/xmas2004.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -85,7 +85,7 @@ Zhai'helleva,
 
 </p><p>Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>Here are the Faires we know about for December.  Faires are indexed alphabetically by state. Have any information about any other Renaissance Faires in your area?  Send it to us at <a href="mailto:legend@malcor.com"> Legend@malcor.com.</a>
@@ -126,7 +126,7 @@ For additional Ren. Faire information, visit the Renaissance Faire Homepage at <
  </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://www.geocities.com/jengacons/"> http://www.geocities.com/jengacons/</a>.
 </p><p>
-<img align="right" alt="Changling by Cassandra Vuksa (image unavailable in archive)" border="5" data-unavailable-target="https://queensown.org/qo231.jpg" loading="lazy"/>
+<img alt="Changling by Cassandra Vuksa (image unavailable in archive)" class="float-right border-5" data-unavailable-target="https://queensown.org/qo231.jpg" loading="lazy"/>
 </p><p>
 </p><h2>Member News:</h2>
 <p>
@@ -184,7 +184,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 <li>E-mail:it to <a href="mailto:gbertke@fuse.net">gbertke@fuse.net</a>.  (This is my father's e-mail address.  Use it for submissions for Herald's Companion only.)</li>
 </ol>
 </li></ul>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <h2>Other Fandoms:</h2>
 <ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.<br/>
@@ -208,9 +208,9 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul><br/>
 <br/>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <br/>
-<img align="left" alt="Markov by Cassandra Vuksa" border="5" loading="lazy" src="/qo232.jpg"/>
+<img alt="Markov by Cassandra Vuksa" class="float-left border-5" loading="lazy" src="/qo232.jpg"/>
 <p>
 </p><h3>Collegium News:</h3><br/>
 <br/>
@@ -277,7 +277,7 @@ Zha'helleva,
 </p><p>
 Danya
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <h2>Personals:</h2> <br/>
 <br/>
 <ul>
@@ -291,7 +291,7 @@ Danya
 </li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <br/>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 </p><p>Newsletters are published on (or near) the first of each month.
@@ -314,10 +314,10 @@ Claremore, OK 74017
 
 </p><p>Healer Adept Moonstar
 
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></g></p>
 </div>

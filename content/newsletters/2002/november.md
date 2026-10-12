@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 3, No. 11<br/>
-November 1, 2002</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 3, No. 11<br/>
+November 1, 2002</h2></div>
 <p>
-</p><center><img alt="Ranger Blue by Gibel Encarnacion" border="5" loading="lazy" src="/qo136.jpg"/></center>
+</p><div class="center"><img alt="Ranger Blue by Gibel Encarnacion" class="border-5" loading="lazy" src="/qo136.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -33,10 +33,10 @@ Well, October proved to be filled with more highs and lows than either of us had
 </p><p>
 Teri Lee has given us permission to reprint the following notice from Misty:
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="90%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:90%">
 <tr>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">
 After being sworn to secrecy, I have just been permitted to release this information. One of the seminal authors of our field, Andre Norton, is gravely ill. She was admitted to the hospital last Monday for surgery, and is still there. More to the point, her spirits have sunk to a life-threatening low. She needs to know just how highly regarded she is in our community, and she needs to know now.
 <p>
 "We" are keeping the location of the hospital and room "secret", because she cannot have visitors and we don't want to overwhelm her with autograph-hounds when she needs to be getting stronger, not being disturbed---this is already a problem as word of her illness has percolated into the local community in Tennessee. The hospital in question will deny that she is there.
@@ -69,9 +69,9 @@ Please feel free to re-post this message to any appropriate list, discussion gro
 </p><p>
 Thanks,<br/>
 Teri Lee<br/>
-Firebird Arts &amp; Music</p></font></td></tr>
+Firebird Arts &amp; Music</p></span></td></tr>
 </table>
-</center>
+</div>
 <p>
 Teri Lee also reports that "Another book in progress is <i>Joust</i>, a brand new project in a brand new fantasy setting, in which two kingdoms, the desert kingdom of Tia and the marsh-land/island kingdom of Alta are at war, and the 'superweapon' of both sides is---the dragon! Vetch, a young Altan serf bound into a state worse than slavery to one Khefti-the-fat, is plucked from his miserable existence by the Jouster Ari, and taken into his service as dragon-boy to his great---and very unusual---dragon Kashet."  Also, "The Map of Valdemar has been printed, and is in the process of being trimmed and shipped.  We should have them in hand in a couple of weeks.  Ken, our long time printer did a very nice job turning a cranky computer file into a lovely map that should please all the Valdemar fan, and gamers out there.  Printed in brown ink on a parchement type paper, the new map would be a home in a Herald's pouch or in a Shin'a'in market.  $15.00 plus shipping."  You can find purchasing information at  <a href="http://www.firebirdarts.com/indexmlackey.shtml">http://www.firebirdarts.com/indexmlackey.shtml</a>.
 </p><p>
@@ -192,7 +192,7 @@ I think it would be great if we could all meet somewhere, like a giant Misty fan
 
 </p><p>
 </p></li></ol><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div><p>
 </p><h2>Ren Faires:</h2><p>
 Here are the faires we know about that are happening in November.  Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
 </p><p>
@@ -371,8 +371,8 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
-</p><center><img align="center" alt="Elven Lady by Gibel Encarnacion" border="5" loading="lazy" src="/qo137.jpg"/></center><p>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div><p>
+</p><div class="center"><img alt="Elven Lady by Gibel Encarnacion" class="float-center border-5" loading="lazy" src="/qo137.jpg"/></div><p>
 </p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 </p><p>
@@ -415,8 +415,8 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>. The Typo-Dragon Giveaway contest has begun. To win you need to be a member of HC and send in something to print (story, recipe etc.) with your name, address, city, state and zip. (Phone number optional).  Deadline is Dec. 15, 2001.  Also, if anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 
 </li></ul><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
-<img align="right" alt="Celith by Gibel Encarnacion" border="5" loading="lazy" src="/qo138.jpg"/>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div><p>
+<img alt="Celith by Gibel Encarnacion" class="float-right border-5" loading="lazy" src="/qo138.jpg"/>
 </p><h2>Other Fandoms:</h2><p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
@@ -442,7 +442,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <p>
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul><p>
-<img align="left" alt="Darkell by Gibel Encarnacion" border="5" loading="lazy" src="/qo139.jpg"/>
+<img alt="Darkell by Gibel Encarnacion" class="float-left border-5" loading="lazy" src="/qo139.jpg"/>
 </p><h3>Collegium News:</h3><p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 </p><p>
@@ -504,7 +504,7 @@ Love to all--
 </p><p>
 Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -525,7 +525,7 @@ If you can be of assistance, please contact Danya at <a href="mailto:Legend@malc
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -548,10 +548,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></grin></p></g></p>
 </div>

@@ -14,16 +14,16 @@ canonical_path = "/guild-handout/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>The Helpful Handout of How to Become a Guild Member</h2></center>
-<center><h3>Criteria established by Mercedes Lackey</h3></center>
-<center><h3>Based on <b>Brightly Burning</b>, the <b>Vows and Honor</b> duology, and <i>By the Sword</i></h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>The Helpful Handout of How to Become a Guild Member</h2></div>
+<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
+<div class="center"><h3>Based on <b>Brightly Burning</b>, the <b>Vows and Honor</b> duology, and <i>By the Sword</i></h3></div>
 <p>
 Distributed by:
 </p><p>
-</p><center><h3>Queen's Own
+</p><div class="center"><h3>Queen's Own
 <br/>
-The Official Mercedes Lackey Fan Club</h3></center>
+The Official Mercedes Lackey Fan Club</h3></div>
 <p>
 </p><h2>Basic Requirements</h2>
 <p>
@@ -51,15 +51,15 @@ Develop a character (your persona--Who would you be if you could daydream yourse
 </p><p>
 This is a biography. Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you. You may use first or third person.
 </p><p>
-Remember to identify your Guild <font color="red">first</font>, then write your stories.  Most people go into a Guild that one of their parents or another close relative is in.  (10 points.)
+Remember to identify your Guild <span class="c-red">first</span>, then write your stories.  Most people go into a Guild that one of their parents or another close relative is in.  (10 points.)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>III.  Develop One or More Friend or Relative Characters</h2>
 <p>
 You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>IV.  Extra Point Requirements (5 points each)</h2>
 <p>
@@ -86,11 +86,11 @@ Choose and complete the requirements for two (minimum) of the following:
 </li><li>Build a piece of furniture.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
-</p><center><h2>After you have acquired 25 points, you may become a Guild Apprentice!</h2></center>
+</p><div class="center"><h2>After you have acquired 25 points, you may become a Guild Apprentice!</h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 <a id="special" name="special"></a>
 </p><h2>Special Notes for Guild Members</h2>
@@ -103,7 +103,7 @@ Choose and complete the requirements for two (minimum) of the following:
 <p>
 If you have additional questions, check out the <a href="/guilds-faq/">Guild</a> FAQ.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 <a id="advance" name="advance"></a>
 </p><h2>Advanced Rank</h2>
@@ -129,8 +129,8 @@ To become a Master Guilder, first complete the requirements for Journeyman Guild
 </li><li>Write a 20-page paper explaining what you made and how you made it.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

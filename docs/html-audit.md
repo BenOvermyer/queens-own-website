@@ -20,62 +20,71 @@ verification. Regression tests live in `scripts/test_audit_html.py`.
 
 ## Result
 
-The imported markup is well-formed at the tag-token level and has **no unresolved
-structural errors**: no unclosed or mismatched tags, no malformed attributes, no
-duplicate anchor ids, and no escaped markup outside the acknowledged exceptions
-below. Heading order is consistent and anchors no longer wrap block content.
+The imported markup has **no unresolved structural errors**: no unclosed or
+mismatched tags, no malformed attributes, no duplicate anchor ids, and no escaped
+markup outside the acknowledged exceptions below. Obsolete and presentation-only
+markup has been moved out of the content into shared stylesheet classes.
 
 ## Repairs applied
 
-The source of the corruption was mismatched or missing attribute quotes in the
-original pages (for example `href='page.htm">`, `href="mailto:a@b.com>a@b.com</a>`,
-or a link whose `href` swallowed its own `</a>`). A lenient parser read the value as
-everything up to the next quote, swallowing the link text and following markup; on
-serialization the swallowed tags returned as escaped `&lt;`/`&gt;` text. This
-affected the 2000–2005 convention listings most heavily.
+**Malformed markup.** The original pages contained mismatched or missing attribute
+quotes (for example `href='page.htm">`, `href="mailto:a@b.com>a@b.com</a>`, or a link
+whose `href` swallowed its own `</a>`), plus a handful of malformed `<font>` tags. A
+lenient parser read the value as everything up to the next quote, swallowing the link
+text and following markup; on serialization the swallowed tags returned as escaped
+`&lt;`/`&gt;` text. This affected the 2000–2005 convention listings most heavily.
 
-- `scripts/markup_repairs.py` normalizes those quotes and a few exact broken
-  fragments on the raw archive bytes. `scripts/migrate.py` and
-  `scripts/migrate_dragonlords.py` apply it before parsing, so a reimport no longer
-  restores the broken markup. The importer also drops duplicate named anchors
-  instead of emitting a duplicate `id`.
+- `scripts/markup_repairs.py` normalizes those quotes and fragments on the raw archive
+  bytes. `scripts/migrate.py` and `scripts/migrate_dragonlords.py` apply it before
+  parsing, so a reimport no longer restores the broken markup. The importer also drops
+  duplicate named anchors instead of emitting a duplicate `id`.
+
+**Nesting and headings.**
+
 - `scripts/markup_normalize.py` repairs invalid block-in-anchor nesting and heading
   order: named anchors and table-of-contents links that wrapped headings become
-  headings carrying the id or containing the link; stray anchors that swallowed
-  whole sections release that content; targetless anchors are removed; content
-  headings start at `<h2>` (the templates already render the page `<h1>`) with no
-  skipped levels and no empty headings. Both importers apply it before writing a
-  page, and it is idempotent over existing content
-  (`python3 scripts/markup_normalize.py`).
-- The affected content pages were regenerated from the repaired source. Four pages
-  needed a targeted edit beyond the general rules: the display-name `mailto:` on the
-  chapters page, the Vanyel Fan Club chat link, a duplicate `special` anchor, and a
-  Michigan Renaissance Festival link whose opening `<` had a space after it. The two
-  `<xmp>` code-sample pages were edited by hand so their escaped contents survive
-  verbatim.
+  headings carrying the id or containing the link; stray anchors that swallowed whole
+  sections release that content; targetless anchors are removed; content headings
+  start at `<h2>` (the templates already render the page `<h1>`) with no skipped
+  levels and no empty headings.
+
+**Presentation.**
+
+- `scripts/markup_destyle.py` replaces obsolete and presentational markup with classes
+  defined in `static/css/site.css`: `<font face size color>` becomes `<span>` with
+  `ff-*`, `fs-*` and `c-*` classes; `<center>` becomes `<div class="center">`;
+  `align`/`valign` become `align-*`/`valign-*` (or `float-*` on images and
+  `table-align-*` on tables); table `border`/`cellpadding`/`cellspacing` become
+  matching classes; and one-off `width`/`height`/`bgcolor` values become inline
+  styles. Valid `<u>`/`<s>` and the intentional `<xmp>` code-sample element are left
+  alone.
+
+`markup_normalize.run()` applies all three transforms and is idempotent over existing
+content (`python3 scripts/markup_normalize.py`). The two `<xmp>` pages are processed
+with their `<xmp>` blocks protected, so their escaped contents survive verbatim.
+
+Four pages needed a targeted edit beyond the general rules: the display-name
+`mailto:` on the chapters page, the Vanyel Fan Club chat link, a duplicate `special`
+anchor, and a Michigan Renaissance Festival link whose opening `<` had a space after
+it.
 
 A content-preservation check compares each changed page against its committed
-version: every page keeps its prose, links, images, and anchors, or gains them.
+version: every page keeps its prose, links, images, and anchors, or gains them. Every
+generated class is defined in `static/css/site.css`.
 
 ## Remaining warnings
 
-These are reported but are not structural errors. Each is either presentational work
-owned by the redesign (#3) or needs editorial judgment; none is a regression.
+These are reported but are not structural errors.
 
 | Rule | Occurrences | Files | Disposition |
 | --- | ---: | ---: | --- |
-| `obsolete_element` (`center`, `font`, `xmp`) | 3563 | 248 | Redesign (#3): replace with shared styles. `xmp` is the intentional code-sample element. |
-| `presentational_attribute` (`align`, `valign`, `size`, `border`, `face`…) | 8783 | 248 | Redesign (#3): move into shared styles. |
-| `block_in_paragraph` | 1540 | 62 | Redesign (#3): caused by presentational `<font>`/`<center>` wrappers and implicit `<p>` closing; browsers render it correctly, so it follows the same wrapper cleanup. |
+| `block_in_paragraph` | 1540 | 62 | Editorial: a block opens while a `<p>` is open; browsers close the paragraph implicitly and render correctly. Candidate for a dedicated semantics pass. |
 | `table_without_header` | 150 | 62 | Editorial: most are genuine data tables with no header row (recipe ingredient lists, schedule grids); adding `<th>` automatically would corrupt data. |
 | `nested_table` | 2 | 2 | Acceptable: a webring badge and one nested data table; retained. |
 
 Every image carries an `alt` attribute (many are intentionally empty decorative
 spacers), and no migrated image lacks `src`; unavailable-image placeholders use
 `data-unavailable-target` and are recognized rather than reported.
-
-A deliberate exception is made for obsolete `u` and `s`, which are valid in HTML5
-and carry semantics, so they are not treated as obsolete here.
 
 ## Intentional exceptions
 
@@ -87,11 +96,10 @@ survive verbatim. Each entry names the file, the rule, and a reason.
 | `content/membership/club-seal.md` | `escaped_markup_in_text` | The page intentionally shows the seal's HTML fragment as escaped text to copy. |
 | `content/community/webring-code.md` | `escaped_markup_in_text` | The page intentionally shows the webring HTML fragment as escaped text to copy. |
 
-The normalizer skips these files (and any file using `<xmp>`) so their escaped
-contents are not re-serialized.
+`<xmp>` is retained deliberately as the code-sample element, so it is not treated as
+obsolete, and the two pages that use it are handled with the block protected.
 
 ## Not yet covered
 
 Rendering on desktop and mobile is a manual check against the built site; the audit
-inspects source markup only. The presentational warnings above belong to the
-redesign (#3), and the table classification is editorial.
+inspects source markup only. The table classification is editorial.

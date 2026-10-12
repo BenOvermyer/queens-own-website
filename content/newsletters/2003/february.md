@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 4, No. 2<br/>
-February 1, 2003</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 4, No. 2<br/>
+February 1, 2003</h2></div>
 <p>
-</p><center><img alt="Welmoon by Lass Starchild De'tempest" border="5" loading="lazy" src="/qo146.jpg"/></center>
+</p><div class="center"><img alt="Welmoon by Lass Starchild De'tempest" class="border-5" loading="lazy" src="/qo146.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -54,7 +54,7 @@ Zhai'helleva and Happy Valentine�s Day,
 </p><p>
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><ol>
 <b><li>When did you join Queen's Own?</li></b>
@@ -98,7 +98,7 @@ Well, besides being the mother of an energetic 2-1/2-year-old daughter, I work p
 I'd like to see more conventions and clubs organized or hosted by members of QO.  I think it'd be fun to be able to meet some of you face-to-face and get to know each other better, swap stories, and generally have a good time.  We also need to advertise somehow, and get more members, so that we can have the resources and manpower to <i>do</i> these things.
 </p></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
@@ -276,9 +276,9 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="left" alt="Companion by Lass Starchild De'tempest" border="5" loading="lazy" src="/qo147.jpg"/>
+<img alt="Companion by Lass Starchild De'tempest" class="float-left border-5" loading="lazy" src="/qo147.jpg"/>
 </p><p>
 </p><h2>Member News:</h2>
 <p>
@@ -356,9 +356,9 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable).
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="right" alt="Companion by Allison Rapp" border="5" loading="lazy" src="/qo148.jpg"/>
+<img alt="Companion by Allison Rapp" class="float-right border-5" loading="lazy" src="/qo148.jpg"/>
 </p><p>
 </p><h2>Other Fandoms:</h2>
 <p>
@@ -386,7 +386,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h3>Collegium News:</h3>
 <p>
@@ -449,7 +449,7 @@ Zhai�helleva,
 </p><p>
 Danya
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -471,7 +471,7 @@ If you can be of assistance, please contact Danya at <a href="mailto:Legend@malc
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -494,10 +494,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></g></p>
 </div>

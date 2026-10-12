@@ -17,23 +17,23 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. IX, No. 9<br/>
-August 1996</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. IX, No. 9<br/>
+August 1996</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="Storm Breaking" border="0" loading="lazy" src="/ml20.gif"/>
+<img alt="Storm Breaking" class="float-right" loading="lazy" src="/ml20.gif"/>
 Coming this fall is Misty's long awaited <i>Storm Breaking</i>, Book Three of <i>The Mage Storms</i>, with this beautiful Jody Lee cover and interior illustrations by Larry Dixon.
 </p><p>
 "As <i>Storm Breaking</i> opens, the western allies, led by Karal, Karsite Sun�priest and delegate to the Valdemaran Court, and the Adepts Firesong and An'desha, have traveled deep into the Dorisha Plains to locate the ancient ruins of the Tower of Urtho, Mage of Silence, creator of the gryphous: Legend has it that below the Tower, deeply buried beneath the plains, is Urtho's Vault, hidden stronghold of some of the most powerful magical weapons ever devised - weapons that Urtho himself felt were too dangerous to use. With the help of the Shin'a'in plainsmeu, they have successfully excavated this ancient arsenal, and risked their lives triggering one of these antique but potent tools of death to unleash a monstrous burst of mage-energy.
@@ -153,7 +153,7 @@ Mailing Day Helpers (last issue)--Jake Adamo, Arielle Amethyst Willow'Wind &amp;
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -171,10 +171,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

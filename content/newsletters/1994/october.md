@@ -17,23 +17,23 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. VIII, No. 2<br/>
-October 1994</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. VIII, No. 2<br/>
+October 1994</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="Border art" border="0" loading="lazy" src="/qo262.jpg"/>
+<img alt="Border art" class="float-right" loading="lazy" src="/qo262.jpg"/>
 Congratulations, Misty! <i>Storm Warning</i> is #1 on LOCUS, B.Dalton, and Walden lists. <i>Winds of Fury</i> and <i>Chrome Circle</i> are among the top five paperbacks on all three lists.
 </p><p>
 <i>Bardic Voices III: The Eagle &amp; the Nightingales</i> has a January/February release date: "Why is the High King of the Human kingdoms not doing his job - and thereby allowing the Church to fill the power vacuum in the human lands of Alanda? This is a matter of some concern to Nightingale and her friends; the Church is becoming ever more overtly hostile to non-human sentients (of which there are several species in Alanda) as well as to anything that it does not at least indirectly control, such as gypsies and Free Bards.
@@ -75,9 +75,9 @@ PHILCON 94 November 18-20, Philadelphia, PA. GoH, Larry Niven. Jody Lee will be 
 </p><p>
 LOSCON 21 November 25-27 Airport Hilton, Burbank CA. GoH Lois McMaster Bujold, Artist GoH, Alicia Austin. LOSCON 21 [Ed. note 2005:  Out-of-date info withheld.].
 </p><p>
-</p><center>**Remember to include a SASE or a self-addressed envelope and an IRC when requesting information.**</center>
+</p><div class="center">**Remember to include a SASE or a self-addressed envelope and an IRC when requesting information.**</div>
 <p>
-<img align="right" alt="Border" border="0" loading="lazy" src="/qo263.jpg"/></p><h2>COLLEGIUM NEWS:</h2>
+<img alt="Border" class="float-right" loading="lazy" src="/qo263.jpg"/></p><h2>COLLEGIUM NEWS:</h2>
 <p>
 Anyone interested in joining the Mercenaries Guild and working on a mercenary persona can send a SASE for persona guidelines to Mercenaries Guild [Ed. note 2005:  Out-of-date info withheld.].
 </p><p>
@@ -178,7 +178,7 @@ Judith
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -196,10 +196,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

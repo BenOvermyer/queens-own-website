@@ -14,9 +14,9 @@ canonical_path = "/heralds-faq/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>The Heralds of Valdemar FAQ</h2></center>
-<center><h2>(Revised 10/18/20)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>The Heralds of Valdemar FAQ</h2></div>
+<div class="center"><h2>(Revised 10/18/20)</h2></div>
 <p>
 Gifts (Heraldic Mind Magic) tend to run in families.  It is also curious to note that there are usually several sets of twins who are attending the Collegium at the same time.  Twins are usually Chosen at the same time, but there are rare cases where one twin is Chosen later than the other and where one of the twins is not Chosen at all.
 </p><p>
@@ -205,12 +205,12 @@ There are Herald Waystations scattered throughout Valdemar.  These are stand-alo
 </li><li>Errold's Grove
 </li></ul>
 <p>
-</p><center><img alt="" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<font face="Harem">
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<span class="ff-harem">
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 <p>
-<a href="/world-reference-guide/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></font>
+<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
+</p></span>
 </p>
 </div>

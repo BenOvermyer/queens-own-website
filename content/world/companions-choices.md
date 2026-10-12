@@ -15,11 +15,11 @@ canonical_path = "/companions-choices/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Companions' Choices</h2></center>
-<center><h3>or</h3></center>
-<center><h2>Why Companions Choose the Heralds They Do</h2></center>
-<center><h2>(Revised 10/15/98)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Companions' Choices</h2></div>
+<div class="center"><h3>or</h3></div>
+<div class="center"><h2>Why Companions Choose the Heralds They Do</h2></div>
+<div class="center"><h2>(Revised 10/15/98)</h2></div>
 <p>
 This is a list grew out of my discussion with a fan who was preparing
 a persona for Queens Own.  If you have questions or comments about the
@@ -43,9 +43,9 @@ very nice, unGifted people in the world, and they can't become Heralds.
 </li><li>The Companions will only choose people who can be spared from their current life.  A Companion won't choose the only possible heir for a farm, someone who has Bardic or Healer talent (and who is needed in those Schools), or someone who is the sole means of support for a family.  In other words, if a person has a much-needed skill in another area or is needed by his/her family and/or fellow villagers (like the only blacksmith in a town), etc., then that person will not be Chosen.
 </li></ol>
 <p>
-</p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bardrgn2.gif"/></div>
 <p>
-<font face="Harem">
-</font>
+<span class="ff-harem">
+</span>
 </p>
 </div>

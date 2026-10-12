@@ -17,155 +17,155 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. VI, No. 1<br/>
-September 1992</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. VI, No. 1<br/>
+September 1992</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
-</p><center><h2>Short Stories by Mercedes Lackey</h2></center>
-<center>(By publication date - or at least, I tried)</center>
+</p><div class="center"><h2>Short Stories by Mercedes Lackey</h2></div>
+<div class="center">(By publication date - or at least, I tried)</div>
 <p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top">"A Different Kind of Courage"</td>
-<td align="left" valign="top"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley, 1985 (This was Misty's first professional sale.)</td>
+<td class="align-left valign-top">"A Different Kind of Courage"</td>
+<td class="align-left valign-top"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley, 1985 (This was Misty's first professional sale.)</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Fiddler Fair"</td>
-<td align="left" valign="top"><i>Magic in Ithkar</i>, 3 ed. by Andre Norton, 1986</td>
+<td class="align-left valign-top">"Fiddler Fair"</td>
+<td class="align-left valign-top"><i>Magic in Ithkar</i>, 3 ed. by Andre Norton, 1986</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Sword Sworn"</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i>, 3 ed. by MZB, 1986</td>
+<td class="align-left valign-top">"Sword Sworn"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i>, 3 ed. by MZB, 1986</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Tale of Heroes"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 4, 1987</td>
+<td class="align-left valign-top">"A Tale of Heroes"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 4, 1987</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Keys"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 5, 1988</td>
+<td class="align-left valign-top">"Keys"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 5, 1988</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Werehunter"</td>
-<td align="left" valign="top"><i>Tales of the Witchworld</i>, Vol 1 ed. by Andre Norton, 1987</td>
+<td class="align-left valign-top">"Werehunter"</td>
+<td class="align-left valign-top"><i>Tales of the Witchworld</i>, Vol 1 ed. by Andre Norton, 1987</td>
 </tr>
 <tr>
-<td align="left" valign="top">"DeathAngel" &amp; "Merovingen Ecology"</td>
-<td align="left" valign="top"><i>Merovingen Nights: Festival Moon</i>, ed. by C.J. Cherryh, 1987	</td>
+<td class="align-left valign-top">"DeathAngel" &amp; "Merovingen Ecology"</td>
+<td class="align-left valign-top"><i>Merovingen Nights: Festival Moon</i>, ed. by C.J. Cherryh, 1987	</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Plague on Your Houses"</td>
-<td align="left" valign="top"><i>MN2, Fever Season</i>, 1987</td>
+<td class="align-left valign-top">"A Plague on Your Houses"</td>
+<td class="align-left valign-top"><i>MN2, Fever Season</i>, 1987</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Tangled Web We Weave"</td>
-<td align="left" valign="top"><i>MN3 Troubled Waters</i>, 1988</td>
+<td class="align-left valign-top">"A Tangled Web We Weave"</td>
+<td class="align-left valign-top"><i>MN3 Troubled Waters</i>, 1988</td>
 </tr>
 <tr>
-<td align="left" valign="top">"More Than Meets the Eye"</td>
-<td align="left" valign="top"><i>MN4 Smuggler's Gold</i>, 1988</td>
+<td class="align-left valign-top">"More Than Meets the Eye"</td>
+<td class="align-left valign-top"><i>MN4 Smuggler's Gold</i>, 1988</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Merovingen Folklore"</td>
-<td align="left" valign="top"><i>MN4 Smuggler's Gold</i>, 1988</td>
+<td class="align-left valign-top">"Merovingen Folklore"</td>
+<td class="align-left valign-top"><i>MN4 Smuggler's Gold</i>, 1988</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Turning Point"</td>
-<td align="left" valign="top"><i>MNS Divine Right</i>, 1989</td>
+<td class="align-left valign-top">"Turning Point"</td>
+<td class="align-left valign-top"><i>MNS Divine Right</i>, 1989</td>
 </tr>
 <tr>
-<td align="left" valign="top">"The Enemy of My Enemy"</td>
-<td align="left" valign="top"><i>Friends of the Horseclans</i>, Vol 2 ed. by Robert Adams, 1989	</td>
+<td class="align-left valign-top">"The Enemy of My Enemy"</td>
+<td class="align-left valign-top"><i>Friends of the Horseclans</i>, Vol 2 ed. by Robert Adams, 1989	</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Balance" &amp; "Dragon's Teeth"</td>
-<td align="left" valign="top"><i>Spellsingers</i>, ed. by Alan Bard Newcomer</td>
+<td class="align-left valign-top">"Balance" &amp; "Dragon's Teeth"</td>
+<td class="align-left valign-top"><i>Spellsingers</i>, ed. by Alan Bard Newcomer</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Friend in Need"</td>
-<td align="left" valign="top"><i>Blood of Ten Chiefs, Vol 3: Winds of Change</i>, ed. by Richard Pini, 1988</td>
+<td class="align-left valign-top">"A Friend in Need"</td>
+<td class="align-left valign-top"><i>Blood of Ten Chiefs, Vol 3: Winds of Change</i>, ed. by Richard Pini, 1988</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Phantom of the Berry Patch"</td>
-<td align="left" valign="top"><i>BoTC, Vol 3: Winds of Change</i></td>
+<td class="align-left valign-top">"Phantom of the Berry Patch"</td>
+<td class="align-left valign-top"><i>BoTC, Vol 3: Winds of Change</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"SKitty"</td>
-<td align="left" valign="top"><i>Catfantastic</i> ed. by Andre Norton, 1989</td>
+<td class="align-left valign-top">"SKitty"</td>
+<td class="align-left valign-top"><i>Catfantastic</i> ed. by Andre Norton, 1989</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Nightside"</td>
-<td align="left" valign="top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> #6, Fall 1989</td>
+<td class="align-left valign-top">"Nightside"</td>
+<td class="align-left valign-top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> #6, Fall 1989</td>
 </tr>
 <tr>
-<td align="left" valign="top">"The Making of A Legend"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 6, 1990</td>
+<td class="align-left valign-top">"The Making of A Legend"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 6, 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Don't Look Back"</td>
-<td align="left" valign="top"><i>MN6 Flood Tide</i>, 1990</td>
+<td class="align-left valign-top">"Don't Look Back"</td>
+<td class="align-left valign-top"><i>MN6 Flood Tide</i>, 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Friends Like These"</td>
-<td align="left" valign="top"><i>MN6 Flood Tide</i></td>
+<td class="align-left valign-top">"Friends Like These"</td>
+<td class="align-left valign-top"><i>MN6 Flood Tide</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"An Object Lesson"</td>
-<td align="left" valign="top"><i>Domains of Darkover</i>, ed. by MZB, 1990</td>
+<td class="align-left valign-top">"An Object Lesson"</td>
+<td class="align-left valign-top"><i>Domains of Darkover</i>, ed. by MZB, 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"The Talisman"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 7, 1990</td>
+<td class="align-left valign-top">"The Talisman"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 7, 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Roadkill"</td>
-<td align="left" valign="top"><i>MZB's FANTASY Magazine</i> #9, Summer 1990</td>
+<td class="align-left valign-top">"Roadkill"</td>
+<td class="align-left valign-top"><i>MZB's FANTASY Magazine</i> #9, Summer 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Satanic, Versus"</td>
-<td align="left" valign="top"><i>MZB's FANTASY Magazine</i> #10, Fall 1990</td>
+<td class="align-left valign-top">"Satanic, Versus"</td>
+<td class="align-left valign-top"><i>MZB's FANTASY Magazine</i> #10, Fall 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Set A Thief"</td>
-<td align="left" valign="top"><i>Renunciates of Darkover</i>, ed. by MZB, 1991</td>
+<td class="align-left valign-top">"Set A Thief"</td>
+<td class="align-left valign-top"><i>Renunciates of Darkover</i>, ed. by MZB, 1991</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Stolen Silver"</td>
-<td align="left" valign="top"><i>Horse Fantastic</i>, ed. by Martin Greenberg, 1991</td>
+<td class="align-left valign-top">"Stolen Silver"</td>
+<td class="align-left valign-top"><i>Horse Fantastic</i>, ed. by Martin Greenberg, 1991</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Wings of Fire"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 8, 1991</td>
+<td class="align-left valign-top">"Wings of Fire"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 8, 1991</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Proving Ground"</td>
-<td align="left" valign="top"><i>MN7 Endgame</i>, 1991</td>
+<td class="align-left valign-top">"Proving Ground"</td>
+<td class="align-left valign-top"><i>MN7 Endgame</i>, 1991</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Woman's Weapon"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 9, 1992</td>
+<td class="align-left valign-top">"Woman's Weapon"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 9, 1992</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Ties That Bind"</td>
-<td align="left" valign="top"><i>Blood of Ten Chiefs, Vol 4: Against the Wind</i>, ed. by Richard Pini, 1992</td>
+<td class="align-left valign-top">"Ties That Bind"</td>
+<td class="align-left valign-top"><i>Blood of Ten Chiefs, Vol 4: Against the Wind</i>, ed. by Richard Pini, 1992</td>
 </tr>
 </table>
-</center>
+</div>
 <p>
-<img align="right" alt="Border art" border="0" loading="lazy" src="/qo228.jpg"/>Most of the books listed here are still available; back issues of <i>Marion Zimmer Bradley's FANTASY Magazine</i> can be ordered from [Ed. note 2004:  Out-of-date info. withheld.].
+<img alt="Border art" class="float-right" loading="lazy" src="/qo228.jpg"/>Most of the books listed here are still available; back issues of <i>Marion Zimmer Bradley's FANTASY Magazine</i> can be ordered from [Ed. note 2004:  Out-of-date info. withheld.].
 </p><p>
 For those of you who like to prowl through old book stores, Misty had short stories in <i>Fantasy Book</i>, September 1985, March 1986, September 1986, and December 1986. Also look for <i>American Fantasy</i>, Winter 1987. Happy Hunting - I've never been able to find them.
 </p><p>
@@ -264,7 +264,7 @@ Wind to thy Wings, Judith
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -282,10 +282,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

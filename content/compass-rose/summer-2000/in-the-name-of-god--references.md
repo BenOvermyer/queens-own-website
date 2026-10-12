@@ -15,24 +15,24 @@ canonical_path = "/compass-rose/summer-2000/in-the-name-of-god/references/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
 </p><p>
-</p></font><center><h2>In the Name of God</h2></center>
+</p></span><div class="center"><h2>In the Name of God</h2></div>
 <p>
-</p><center><h3>by</h3></center>
+</p><div class="center"><h3>by</h3></div>
 <p>
-</p><center><h2><a href="mailto:Legend@malcor.com">Linda A. Malcor</a></h2></center>
+</p><div class="center"><h2><a href="mailto:Legend@malcor.com">Linda A. Malcor</a></h2></div>
 <p>
-</p><center><h2>Notes and References</h2></center>
+</p><div class="center"><h2>Notes and References</h2></div>
 <p>
 </p><h3>Notes</h3>
 <p>
@@ -80,18 +80,18 @@ Malcor, Linda A. 1991. <a href="http://www.contentville.com/product/product.asp?
 <a id="ward" name="ward"></a>
 Ward, Donald J., ed. and trans.  1981.  <i>The German Legends of the Brothers Grimm</i>, 2 vols. Philadelphia, PA: Institute for the Study of Human Issues.
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/sink-or-swim/">Next</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td></tr>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/sink-or-swim/">Next</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© Linda A. Malcor 2000.  All rights reserved.</center>
+</p><div class="center">© Linda A. Malcor 2000.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</div>
 <p>
 </p><p>
 </p><p>

@@ -14,12 +14,12 @@ canonical_path = "/fan-fiction/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>Fan Fiction</h2></center>
-<center><h3>(Revised 1/5/2024)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>Fan Fiction</h2></div>
+<div class="center"><h3>(Revised 1/5/2024)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/qofanfic_files/ValdemarCrestsm.jpg"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/qofanfic_files/ValdemarCrestsm.jpg"/></div>
 <h2>The Fanzines</h2>
 <p>
 These are approved Mercedes Lackey Fanzines (Some are technically newsletters &lt;g&gt;.  They accept stories, art and poetry based on the works of Mercedes Lackey.
@@ -27,7 +27,7 @@ These are approved Mercedes Lackey Fanzines (Some are technically newsletters &l
 Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a href="mailto:healermoon@gmail.com">Healer Adept Moonstar</a> if an address is incorrect or if the fanzine no longer exists.  If you have an approved fanzine that you would like to have listed here, send <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a href="mailto:healermoon@gmail.com">Healer Adept Moonstar</a> the contact information.
 <br/>
 <br/>
-</p><table border="1" style="width:100%">
+</p><table class="border-1" style="width:100%">
 <tbody><tr>
 <th><h3><u>Golden Grove</u></h3></th>
 <th><h3><u><a href="/children-of-velgarth/">Children of Velgarth</a></u></h3></th>
@@ -63,9 +63,9 @@ Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a hr
 </tbody></table>
 <br/>
 <br/>
-<center><img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/></div>
 <br/>
-<center>
+<div class="center">
 <p>
 <a href="__PDF_BASE_URL__/Misty.pdf">Misty Vale</a>
 </p><p>
@@ -94,9 +94,9 @@ Please notify <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a> or <a hr
 <a href="__PDF_BASE_URL__/Triptych.pdf">Triptych</a>
 </p><p>
 <a href="__PDF_BASE_URL__/Potter.pdf">Potter Fahr's Wife</a>
-</p></center>
+</p></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/></div>
 <br/>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qofanfic_files/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qofanfic_files/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </div>

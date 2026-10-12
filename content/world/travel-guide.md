@@ -14,9 +14,9 @@ canonical_path = "/travel-guide/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Travel Guide FAQ</h2></center>
-<center><h2>(Revised 10/18/20)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Travel Guide FAQ</h2></div>
+<div class="center"><h2>(Revised 10/18/20)</h2></div>
 <p>
 Here we briefly survey a number of types of places that people ask about on a regular basis.  For geography, you really want to refer to the maps by Larry Dixon that are printed in the front of many of Misty's Velgarth novels.  There is also a partial map in <i>The Valdemar Companion</i> (pp. 205-210).  (We are told that efforts are underway to make the entire map of the known realms of Velgarth available as a poster.  Watch the QO <a href="/newsletter-guidance/">newsletter</a> for details.)  Kerrie Hughes has written a delightful piece, "A Travelers' Guide to Valdemar and the Surrounding Kingdoms", in <i>The Valdemar Companion</i> (pp. 81-108).  We highly recommend it to anyone who is writing fanfic about characters travelling on Velgarth.
 </p><p>
@@ -172,12 +172,12 @@ Misty has created many of her cultures by combining elements of various Terran c
 </li><li>Shin'a'in (Plains Indian and Mongol)
 </li></ul>
 <p>
-</p><center><img alt="" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<font face="Harem">
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<span class="ff-harem">
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 <p>
-<a href="/world-reference-guide/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></font>
+<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
+</p></span>
 </p>
 </div>

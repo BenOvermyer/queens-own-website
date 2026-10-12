@@ -17,23 +17,23 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. VI, No. 4<br/>
-January 1993</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. VI, No. 4<br/>
+January 1993</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="Border art" border="0" loading="lazy" src="/qo251.jpg"/><i>When the Bough Breaks</i>, co-written by Misty and Holly Lisle, is being shipped any day. It may be in your bookstores now. This is book three of the SERRAted Edge series and has a Larry Elmore cover.
+<img alt="Border art" class="float-right" loading="lazy" src="/qo251.jpg"/><i>When the Bough Breaks</i>, co-written by Misty and Holly Lisle, is being shipped any day. It may be in your bookstores now. This is book three of the SERRAted Edge series and has a Larry Elmore cover.
 </p><p>
 Some "definite" publication dates are April for <i>Bard's Tale 2: Fortress of Frost and Fire</i> and July for the Piers Anthony collaboration, <i>If I Pay Thee Not in Gold</i>. The hardcover edition of <i>Winds of Fury</i> (with a spectacular Jody Lee cover - her best yet, according to DAW) won't be in your bookstores until August first. At about the same time, the paperback edition of <i>Winds of Change</i> will be released. <i>Winds of Fury</i> is priced at $20.
 </p><p>
@@ -126,7 +126,7 @@ Judith
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -144,10 +144,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

@@ -14,17 +14,17 @@ canonical_path = "/healer-handout/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>The Helpful Handout of How to Become a Healer</h2></center>
-<center><h3>Criteria established by Mercedes Lackey</h3></center>
-<center><h3>Based on the <b>Heralds of Valdemar</b> and <i>Darian's Tale</i> trilogies</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>The Helpful Handout of How to Become a Healer</h2></div>
+<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
+<div class="center"><h3>Based on the <b>Heralds of Valdemar</b> and <i>Darian's Tale</i> trilogies</h3></div>
 <p>
 Distributed by:
 </p><p>
-</p><center><h3>Queen's Own
+</p><div class="center"><h3>Queen's Own
 <br/>
 The Official Mercedes Lackey Fan Club
-</h3></center>
+</h3></div>
 <p>
 </p><h2>Basic Requirements</h2>
 <p>
@@ -32,7 +32,7 @@ The Official Mercedes Lackey Fan Club
 <p>
 All Healers have Healing and Empathy.  Determine the nature of each Gift by rolling a six-sided die.  Healer's honor applies; what you roll is what you get.
 </p><p>
-</p><table border="0">
+</p><table>
 <tr>
 <td>1 = low strength Gift</td>
 </tr>
@@ -44,7 +44,7 @@ All Healers have Healing and Empathy.  Determine the nature of each Gift by roll
 </tr>
 </table>
 <p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 </p><h2>II.  Develop a Character</h2>
 <p>
@@ -52,15 +52,15 @@ Develop a character (your persona--Who would you be if you could daydream yourse
 </p><p>
 This is a biography.  Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you.  You may use first or third person.
 </p><p>
-Remember, to write about your persona <font color="red">before</font> his/her Gifts manifest.  A Healer must learn to cope with his/her Gifts, not have his/her life built around one skill.  Most Gifts manifest themselves late in life; they are not evident at birth.  (10 points)
+Remember, to write about your persona <span class="c-red">before</span> his/her Gifts manifest.  A Healer must learn to cope with his/her Gifts, not have his/her life built around one skill.  Most Gifts manifest themselves late in life; they are not evident at birth.  (10 points)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 </p><h2>III.  Develop One or More Friend or Relative Characters</h2>
 <p>
 You needn't be quite so detailed in your descriptions of these other characters.  But remember, you are writing about people you know well.  Describe what your family and/or friends look like, their own character traits, etc.  Again, a minimum of 3 pages.  (5 points)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 </p><h2>IV. Extra Point Requirements (5 points each)</h2>
 <p>
@@ -85,20 +85,20 @@ Choose and complete the requirements for two (minimum) of the following:
 </li><li>Send a story, poem, or art to one of our <a href="/fan-fiction/">zines</a>.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
-</p><center><h2>After you have acquired 25 points, you may earn your Greens!</h2></center>
+</p><div class="center"><h2>After you have acquired 25 points, you may earn your Greens!</h2></div>
 <p>
-<font color="red">Exception</font>:  If you work in the health care
+<span class="c-red">Exception</span>:  If you work in the health care
 field you may automatically claim full Healer status.  However, please
 develop your Velgarth persona so others may interact with you in character.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 </p><h2>Special Notes for Healers</h2>
 <p>
 </p><ul>
-<li>Do <font color="red"><i>not</i></font> combine your Healer persona with Herald or Bard.  Being a Healer is a full-time and valuable job.
+<li>Do <span class="c-red"><i>not</i></span> combine your Healer persona with Herald or Bard.  Being a Healer is a full-time and valuable job.
 <p>
 </p></li><li>For General Rules, click <a href="/persona-handouts/#rules">here</a>.<p>
 </p></li><li>For Submission Instructions, click <a href="/persona-handouts/#submit">here</a>.<p>
@@ -130,57 +130,57 @@ You can earn a specialty by creating an approved Healer persona, and then
 <p>
 If you have a Low Strength Healing Gift, roll on this chart:
 </p><p>
-</p><center>
-<table border="2" cellpadding="2" cellspacing="2">
+</p><div class="center">
+<table class="border-2 cellpadding-2 cellspacing-2">
 <tr>
-<th align="center" valign="middle"><font face="Bookman Old Style" size="4">Roll</font></th>
-<th align="center" valign="middle"><font face="Bookman Old Style" size="4">Specialty</font></th>
+<th class="align-center valign-middle"><span class="ff-bookman fs-4">Roll</span></th>
+<th class="align-center valign-middle"><span class="ff-bookman fs-4">Specialty</span></th>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">1</font></td>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">Herbwitch (Herb-wizard; serves in a remote area; actually ranks below true Healer in the books)</font></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">1</span></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">Herbwitch (Herb-wizard; serves in a remote area; actually ranks below true Healer in the books)</span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">2-3</font></td>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">Animal Healer</font></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">2-3</span></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">Animal Healer</span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">4-5</font></td>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">Herbalist (Herbsman/Herbswoman; Low-Level Healer; identifies and knows the use of herbs and other healing plants)</font></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">4-5</span></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">Herbalist (Herbsman/Herbswoman; Low-Level Healer; identifies and knows the use of herbs and other healing plants)</span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">6</font></td>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">Midwife</font></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">6</span></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">Midwife</span></td>
 </tr>
-</table></center>
+</table></div>
 <p>
 </p></li><li><a id="high"></a><h3>Normal and High Strength Healing Specialties</h3>
 <p>
 If you have a Normal or High Strength Healing Gift, roll on this chart:
 </p><p>
-</p><center>
-<table border="2" cellpadding="2" cellspacing="2">
+</p><div class="center">
+<table class="border-2 cellpadding-2 cellspacing-2">
 <tr>
-<th align="center" valign="middle"><font face="Bookman Old Style" size="4">Roll</font></th>
-<th align="center" valign="middle"><font face="Bookman Old Style" size="4">Specialty</font></th>
+<th class="align-center valign-middle"><span class="ff-bookman fs-4">Roll</span></th>
+<th class="align-center valign-middle"><span class="ff-bookman fs-4">Specialty</span></th>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">1</font></td>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">Healer Herbalist</font></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">1</span></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">Healer Herbalist</span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">2-3</font></td>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">Surgery</font></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">2-3</span></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">Surgery</span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">4-5</font></td>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">Trauma Healing</font></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">4-5</span></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">Trauma Healing</span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">6</font></td>
-<td align="left" valign="middle"><font face="Bookman Old Style" size="4">Mind Healing</font></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">6</span></td>
+<td class="align-left valign-middle"><span class="ff-bookman fs-4">Mind Healing</span></td>
 </tr>
-</table></center></li></ul>
+</table></div></li></ul>
 </li></ol>
 <p>
 </p><h2>Formal Training</h2>
@@ -205,8 +205,8 @@ To become a Master Healer, you must have an approved Journeyman Healer persona, 
 <li>Write a 20-page paper on a new medical procedure or drug that is being developed.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

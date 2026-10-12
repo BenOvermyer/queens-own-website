@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 4, No. 5<br/>
-May 1, 2003</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 4, No. 5<br/>
+May 1, 2003</h2></div>
 <p>
-</p><center><img alt="Unicorn 1 by Jennifer Williams" border="0" loading="lazy" src="/qo156.jpg"/></center>
+</p><div class="center"><img alt="Unicorn 1 by Jennifer Williams" loading="lazy" src="/qo156.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -54,9 +54,9 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="right" alt="Dragon by Jennifer Williams" border="5" loading="lazy" src="/qo157.jpg"/>
+<img alt="Dragon by Jennifer Williams" class="float-right border-5" loading="lazy" src="/qo157.jpg"/>
 </p><p>
 </p><h2>Ren Faires:</h2>
 <p>
@@ -130,7 +130,7 @@ Dates:  4/26/03 - 4/27/03.  Open/Close: 10:00 AM.
  </p><p>
 </p><h3>Oregon</h3>
 <p>
-<b>GLASTONBURY FAIRE.</b>  Website: <a href="http://www.coastarts.org/glastonbury">http://www.coastarts.org/glastonbury</a>.  Address: Oregon Coast Council for the Arts, PO Box 1315, Newport, OR, 97365.  Site Address: South Beach State Park, 5580 S. Coast Hwy, Newport, OR.  Dates:  5/10/03 - 5/11/03.  Open/Close: 10 AM - 5 PM.   <font color="red">Note:  Heather Alexander will attend.</font><font color="black">
+<b>GLASTONBURY FAIRE.</b>  Website: <a href="http://www.coastarts.org/glastonbury">http://www.coastarts.org/glastonbury</a>.  Address: Oregon Coast Council for the Arts, PO Box 1315, Newport, OR, 97365.  Site Address: South Beach State Park, 5580 S. Coast Hwy, Newport, OR.  Dates:  5/10/03 - 5/11/03.  Open/Close: 10 AM - 5 PM.   <span class="c-red">Note:  Heather Alexander will attend.</span><span class="c-black">
 <p>
 <b>HISTORIC BHEALLTAIN CELTIC REUNION FESTIVAL.</b>  E-mail: <a href="mailto:celtic@efn.org">celtic@efn.org</a>.  Website: <a href="http://www.efn.org/~celtic">http://www.efn.org/~celtic</a>. Address: Heather Thompson Pres. An Ceangal Mara Foundation, 27 West Fifth Ave, Eugene, OR, 97401.  Site Address: Buford Park, Mt. Pisgah, Eugene, OR.
 Dates:  5/10/03 - 5/11/03.  Open/Close:  10 AM - 10 PM, (Sun. 6 PM).
@@ -165,7 +165,7 @@ These are the upcoming cons we know about.  Have any information about conventio
 <p>
 <b>CHIBICON 2K3. </b> Website: <a href="http://www.geocities.com/chibicon2k3/">http://www.geocities.com/chibicon2k3/</a>.  E-mail: <a href="mailto:chibicon2k3@yahoo.com">chibicon2k3@yahoo.com</a>.  Address: Holiday Inn Huntsville, Madison, Alabama.  Dates: 5/2/03 - 5/4/03.
 </p><p>
-<b>Con†Stellation XXII: Pegasus. </b> E-mail:  <a href="mailto:constell@con-stellation.org">constell@con-stellation.org</a>.  Address:  Con*Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857.  Site Address:  Holiday Inn Express, Huntsville, Alabama.  Dates:  10/10/03-10/12/03.  <font color="red">Note:   * Guest of Honor: Mercedes Lackey, * Master of Ceremonies: Larry Dixon!</font><font color="black">
+<b>Con†Stellation XXII: Pegasus. </b> E-mail:  <a href="mailto:constell@con-stellation.org">constell@con-stellation.org</a>.  Address:  Con*Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857.  Site Address:  Holiday Inn Express, Huntsville, Alabama.  Dates:  10/10/03-10/12/03.  <span class="c-red">Note:   * Guest of Honor: Mercedes Lackey, * Master of Ceremonies: Larry Dixon!</span><span class="c-black">
 <p>
 <b>MOBICON VI.</b>  Website: <a href="http://www.mobicon.org">http://www.mobicon.org</a>.  E-mail:  <a href="mailto:webcrafter@mobicon.org">webcrafter@mobicon.org</a>.  Address: Airport Plaza Hotel, Mobile, Alabama.  Dates: 5/16/03 - 5/18/03.
 </p><p>
@@ -381,9 +381,9 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p></font></p></font></p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p></span></p></span></p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="right" alt="Skydance k'Shira by Jennifer Williams" border="5" loading="lazy" src="/qo158.jpg"/>
+<img alt="Skydance k'Shira by Jennifer Williams" class="float-right border-5" loading="lazy" src="/qo158.jpg"/>
 </p><p>
 </p><h2>Member News:</h2>
 <p>
@@ -462,9 +462,9 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="right" alt="Unicorn 2 by Jennifer Williams" border="5" loading="lazy" src="/qo159.jpg"/>
+<img alt="Unicorn 2 by Jennifer Williams" class="float-right border-5" loading="lazy" src="/qo159.jpg"/>
 </p><p>
 </p><h2>Other Fandoms:</h2>
 <p>
@@ -489,7 +489,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h3>Collegium News:</h3>
 <p>
@@ -547,7 +547,7 @@ Hugs-
 </p><p>
 Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -574,7 +574,7 @@ If you can be of assistance, please contact Danya at <a href="mailto:Legend@malc
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -597,10 +597,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></g></p></g></p>
 </div>

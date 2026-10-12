@@ -17,13 +17,13 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. I, No. 9<br/>
-June 1996</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. I, No. 9<br/>
+June 1996</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
@@ -31,170 +31,170 @@ June 1996</h2></center>
 </p><p>
 Dear Misty fans:
 </p><p>
-<img align="right" alt="Border by Jane Callard" border="0" loading="lazy" src="/qo294.jpg"/>Misty's Birthday is June 24, Larry's is July 28. Send cards to their business address: [Ed. note 2003:  The current address is Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017].
+<img alt="Border by Jane Callard" class="float-right" loading="lazy" src="/qo294.jpg"/>Misty's Birthday is June 24, Larry's is July 28. Send cards to their business address: [Ed. note 2003:  The current address is Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017].
 </p><p>
 Here is a list of short stories by Misty.
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top">"A Different Kind of Courage"</td>
-<td align="left" valign="top"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley</td>
+<td class="align-left valign-top">"A Different Kind of Courage"</td>
+<td class="align-left valign-top"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Set a Thief"</td>
-<td align="left" valign="top"><i>Renunciates of Darkover</i>, ed. by Marion Zimmer Bradley</td>
+<td class="align-left valign-top">"Set a Thief"</td>
+<td class="align-left valign-top"><i>Renunciates of Darkover</i>, ed. by Marion Zimmer Bradley</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Object Lesson"</td>
-<td align="left" valign="top"><i>Domains of Darkover</i>, ed. by Marion Zimmer Bradley</td>
+<td class="align-left valign-top">"Object Lesson"</td>
+<td class="align-left valign-top"><i>Domains of Darkover</i>, ed. by Marion Zimmer Bradley</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Sword Sworn"</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i> III, ed. by Marion Zimmer Bradley</td>
+<td class="align-left valign-top">"Sword Sworn"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> III, ed. by Marion Zimmer Bradley</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Tale of heroes"</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i> IV</td>
+<td class="align-left valign-top">"A Tale of heroes"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> IV</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Keys"</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i> V</td>
+<td class="align-left valign-top">"Keys"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> V</td>
 </tr>
 <tr>
-<td align="left" valign="top">"The Making of a Legend"</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i> VI</td>
+<td class="align-left valign-top">"The Making of a Legend"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> VI</td>
 </tr>
 <tr>
-<td align="left" valign="top">"The Talisman"</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i> VII</td>
+<td class="align-left valign-top">"The Talisman"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> VII</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Wings of Fire"</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i> VIII</td>
+<td class="align-left valign-top">"Wings of Fire"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> VIII</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Woman's Weapon"</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i> IX</td>
+<td class="align-left valign-top">"A Woman's Weapon"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> IX</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Friendly Fire"</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i> X</td>
+<td class="align-left valign-top">"Friendly Fire"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> X</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Dragon in Distress" (with Lisa Waters)</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i> XII</td>
+<td class="align-left valign-top">"A Dragon in Distress" (with Lisa Waters)</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i> XII</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Werehunter"</td>
-<td align="left" valign="top"><i>Tales of the Witchworld</i>, Vol 1, ed. by Andre Norton</td>
+<td class="align-left valign-top">"Werehunter"</td>
+<td class="align-left valign-top"><i>Tales of the Witchworld</i>, Vol 1, ed. by Andre Norton</td>
 </tr>
 <tr>
-<td align="left" valign="top">"DeathAngel" &amp; "Merovingen Ecology"</td>
-<td align="left" valign="top"><i>Merovingen Nights I - Festival Moon</i>, ed. by C.J. Cherryh</td>
+<td class="align-left valign-top">"DeathAngel" &amp; "Merovingen Ecology"</td>
+<td class="align-left valign-top"><i>Merovingen Nights I - Festival Moon</i>, ed. by C.J. Cherryh</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Plague on Your Houses"</td>
-<td align="left" valign="top"><i>Merovingen Nights 2, Fever Season</i></td>
+<td class="align-left valign-top">"A Plague on Your Houses"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 2, Fever Season</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Tangled Web We Weave"</td>
-<td align="left" valign="top"><i>Merovingen Nights 3, Troubled Waters</i></td>
+<td class="align-left valign-top">"A Tangled Web We Weave"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 3, Troubled Waters</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"More Than Meets The Eye"</td>
-<td align="left" valign="top"><i>Merovingen Nights 4, Smugglers Gold</i></td>
+<td class="align-left valign-top">"More Than Meets The Eye"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 4, Smugglers Gold</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Merovingen Folklore"</td>
-<td align="left" valign="top"><i>Merovingen Nights 4, Smugglers Gold</i></td>
+<td class="align-left valign-top">"Merovingen Folklore"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 4, Smugglers Gold</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Turning Point"</td>
-<td align="left" valign="top"><i>Merovingen Nights 5, Divine Right</i></td>
+<td class="align-left valign-top">"Turning Point"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 5, Divine Right</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Don't Look Back" &amp; "Friends Like These"</td>
-<td align="left" valign="top"><i>Merovingen Nights 6, Flood Tide</i></td>
+<td class="align-left valign-top">"Don't Look Back" &amp; "Friends Like These"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 6, Flood Tide</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Proving Ground"</td>
-<td align="left" valign="top"><i>Merovingen Nights 7, Endgame</i></td>
+<td class="align-left valign-top">"Proving Ground"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 7, Endgame</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Fiddler Fair"</td>
-<td align="left" valign="top"><i>Magic in Ithkar</i> 3, ed. by Andre Norton
+<td class="align-left valign-top">"Fiddler Fair"</td>
+<td class="align-left valign-top"><i>Magic in Ithkar</i> 3, ed. by Andre Norton
 </td></tr>
 <tr>
-<td align="left" valign="top">"Balance" &amp; "Dragon's Teeth"</td>
-<td align="left" valign="top"><i>Spellsingers</i> ed. by Alan Bard Newcomer</td>
+<td class="align-left valign-top">"Balance" &amp; "Dragon's Teeth"</td>
+<td class="align-left valign-top"><i>Spellsingers</i> ed. by Alan Bard Newcomer</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Friend in Need"</td>
-<td align="left" valign="top"><i>Winds of Change - Blood of Ten Chiefs</i>, Vol 3 ed. by R. Pini</td>
+<td class="align-left valign-top">"A Friend in Need"</td>
+<td class="align-left valign-top"><i>Winds of Change - Blood of Ten Chiefs</i>, Vol 3 ed. by R. Pini</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Phantom of the Berry Patch"</td>
-<td align="left" valign="top"><i>Winds of Change - Blood of Ten Chiefs</i>, Vol 3 - Pini</td>
+<td class="align-left valign-top">"Phantom of the Berry Patch"</td>
+<td class="align-left valign-top"><i>Winds of Change - Blood of Ten Chiefs</i>, Vol 3 - Pini</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Skitty"</td>
-<td align="left" valign="top"><i>Catfantastic</i>, ed. by Andre Norton</td>
+<td class="align-left valign-top">"Skitty"</td>
+<td class="align-left valign-top"><i>Catfantastic</i>, ed. by Andre Norton</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Nightside"</td>
-<td align="left" valign="top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 6, Fall '89</td>
+<td class="align-left valign-top">"Nightside"</td>
+<td class="align-left valign-top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 6, Fall '89</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Roadkill"</td>
-<td align="left" valign="top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 9, Summer '90</td>
+<td class="align-left valign-top">"Roadkill"</td>
+<td class="align-left valign-top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 9, Summer '90</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Satanic, Versus"</td>
-<td align="left" valign="top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 10, Fall '90</td>
+<td class="align-left valign-top">"Satanic, Versus"</td>
+<td class="align-left valign-top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 10, Fall '90</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Killer Byte"</td>
-<td align="left" valign="top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 24, Spring '94</td>
+<td class="align-left valign-top">"Killer Byte"</td>
+<td class="align-left valign-top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> # 24, Spring '94</td>
 </tr>
 <tr>
-<td align="left" valign="top">"The Cup and the Cauldron"</td>
-<td align="left" valign="top"><i>Grails: Quests, Visitations and other Occurrences</i>, reprinted as <i>Grails: Quests of Dawn</i></td>
+<td class="align-left valign-top">"The Cup and the Cauldron"</td>
+<td class="align-left valign-top"><i>Grails: Quests, Visitations and other Occurrences</i>, reprinted as <i>Grails: Quests of Dawn</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Last Rights" (with Larry Dixon)</td>
-<td align="left" valign="top"><i>Dinosaur Fantastic</i>, ed. by Mike Resnick &amp; Martin H. Greenberg</td>
+<td class="align-left valign-top">"Last Rights" (with Larry Dixon)</td>
+<td class="align-left valign-top"><i>Dinosaur Fantastic</i>, ed. by Mike Resnick &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Dumb Feast"</td>
-<td align="left" valign="top"><i>Christmas Ghosts</i>, ed. by Mike Resnick</td>
+<td class="align-left valign-top">"Dumb Feast"</td>
+<td class="align-left valign-top"><i>Christmas Ghosts</i>, ed. by Mike Resnick</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Dance Track" (with Larry Dixon)</td>
-<td align="left" valign="top"><i>By Any Other Fame</i>, ed. by Mike Resnick &amp; Martin H. Greenberg</td>
+<td class="align-left valign-top">"Dance Track" (with Larry Dixon)</td>
+<td class="align-left valign-top"><i>By Any Other Fame</i>, ed. by Mike Resnick &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Operation Desert Fox" (with Larry Dixon)</td>
-<td align="left" valign="top"><i>BOLOS: Honor of the Regiment</i>, created by Keith Laumer</td>
+<td class="align-left valign-top">"Operation Desert Fox" (with Larry Dixon)</td>
+<td class="align-left valign-top"><i>BOLOS: Honor of the Regiment</i>, created by Keith Laumer</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Tale of Two Skitties"</td>
-<td align="left" valign="top"><i>Catfantastic</i> III, ed. by Andre Norton &amp; Martin H. Greenberg</td>
+<td class="align-left valign-top">"A Tale of Two Skitties"</td>
+<td class="align-left valign-top"><i>Catfantastic</i> III, ed. by Andre Norton &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Jihad"</td>
-<td align="left" valign="top"><i>Alternate Warriors</i>, ed. by Mike Resnick</td>
+<td class="align-left valign-top">"Jihad"</td>
+<td class="align-left valign-top"><i>Alternate Warriors</i>, ed. by Mike Resnick</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Once and Future"</td>
-<td align="left" valign="top"><i>Excalibur</i>, ed. by Richard Gilliam, Martin H. Greenberg &amp; Edward E. Kramer</td>
+<td class="align-left valign-top">"Once and Future"</td>
+<td class="align-left valign-top"><i>Excalibur</i>, ed. by Richard Gilliam, Martin H. Greenberg &amp; Edward E. Kramer</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Hallowmas Night"</td>
-<td align="left" valign="top"><i>Lammas Night</i>, ed. by Josepha Sherman</td>
+<td class="align-left valign-top">"Hallowmas Night"</td>
+<td class="align-left valign-top"><i>Lammas Night</i>, ed. by Josepha Sherman</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Wet Wings"</td>
-<td align="left" valign="top"><i>Sisters in Fantasy</i> 2, ed. by Susan Schwartz &amp; Martin H. Greenberg</td>
+<td class="align-left valign-top">"Wet Wings"</td>
+<td class="align-left valign-top"><i>Sisters in Fantasy</i> 2, ed. by Susan Schwartz &amp; Martin H. Greenberg</td>
 </tr>
 </table>
 <p>
@@ -279,13 +279,13 @@ Editor, President, Dogsbody, Housemother--Judith Louvis [phone withheld]<br/>
 [snip]<br/>
 Mailing Day Helpers (last issue)--Helen Edwards and Rusty--Thank you, thank you, thank you, for your loyalty &amp; dependability!  Helen, enjoy your vacation in England!
 </p><p>
-</p><center>
-<img alt="Need by Jake Adamo" border="0" loading="lazy" src="/qo295.jpg"/>
-</center>
+</p><div class="center">
+<img alt="Need by Jake Adamo" loading="lazy" src="/qo295.jpg"/>
+</div>
 <p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -305,10 +305,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

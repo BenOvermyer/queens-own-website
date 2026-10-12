@@ -17,21 +17,21 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 4, No. 10<br/>
-October 1, 2003</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 4, No. 10<br/>
+October 1, 2003</h2></div>
 <p>
-</p><center><img alt="Ashansa Rishelle by Aislira Falcon" border="2" loading="lazy" src="/qo173.jpg"/></center>
+</p><div class="center"><img alt="Ashansa Rishelle by Aislira Falcon" class="border-2" loading="lazy" src="/qo173.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
 Hope this newsletter finds you all doing well.  Lots of stuff has been happening, so we�ll cut to the proverbial chase.
 </p><p>
-<b>Appearance Alert:</b>  This is a reminder that <font color="red"><b>Misty and Larry will be at CON†STELLATION XXII: PEGASUS</b></font>.  See the entry under �Alabama� in the Convention listing below for more details.
+<b>Appearance Alert:</b>  This is a reminder that <span class="c-red"><b>Misty and Larry will be at CON†STELLATION XXII: PEGASUS</b></span>.  See the entry under �Alabama� in the Convention listing below for more details.
 </p><p>
 <b>Mercedes Lackey Panel:</b>  The following notice was sent to us by Adept Starfeather k'Valdemar (Mary Wilson, president of the QO chapter Heartland Arrows):
 </p><p>
@@ -73,7 +73,7 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren. Faires:</h2>
 <p>
@@ -163,7 +163,7 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 </p><h3>Alabama</h3>
 <p>
-<b>Con†Stellation XXII: Pegasus. </b> E-mail:  <a href="mailto:constell@con-stellation.org">constell@con-stellation.org</a>.  Address:  Con*Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857.  Site Address:  Holiday Inn Express, Huntsville, Alabama.  Dates:  10/10/03-10/12/03.  <font color="red">Note:   * Guest of Honor: Mercedes Lackey, * Master of Ceremonies: Larry Dixon!</font><font color="black">
+<b>Con†Stellation XXII: Pegasus. </b> E-mail:  <a href="mailto:constell@con-stellation.org">constell@con-stellation.org</a>.  Address:  Con*Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857.  Site Address:  Holiday Inn Express, Huntsville, Alabama.  Dates:  10/10/03-10/12/03.  <span class="c-red">Note:   * Guest of Honor: Mercedes Lackey, * Master of Ceremonies: Larry Dixon!</span><span class="c-black">
 <p>
 </p><h3>California</h3>
 <p>
@@ -229,7 +229,7 @@ These are the upcoming cons we know about.  Have any information about conventio
 <p>
 <b>FIELDS OF HONOR.  </b>Website: <a href="http://www.regalminiatures.com">http://www.regalminiatures.com</a>.  E-mail: <a href="mailto:Darryl@RegalMiniatures.Com">Darryl@RegalMiniatures.Com</a>.  Address: Hotel Fort Des Moines, Des Moines, Iowa.  Dates: 10/3/03 - 10/5/03.
 </p><p>
-<b>ICON 28. </b> Website: <a href="http://www.mindbridge.org/icon">http://www.mindbridge.org/icon</a>.  E-mail: <a href="mailto:icon@mindbridge.org">icon@mindbridge.org</a>.  Address: Clarion Hotel, Cedar Rapids, Iowa.  Dates: 10/10/03 - 10/12/03.  <font color="red"><b>Note:  Adept Starfeather k'Valdemar (Mary Wilson), president of the QO chapter Heartland Arrows, will be offering a panel entitled "The Many Worlds of Mercedes Lackey."</b></font>
+<b>ICON 28. </b> Website: <a href="http://www.mindbridge.org/icon">http://www.mindbridge.org/icon</a>.  E-mail: <a href="mailto:icon@mindbridge.org">icon@mindbridge.org</a>.  Address: Clarion Hotel, Cedar Rapids, Iowa.  Dates: 10/10/03 - 10/12/03.  <span class="c-red"><b>Note:  Adept Starfeather k'Valdemar (Mary Wilson), president of the QO chapter Heartland Arrows, will be offering a panel entitled "The Many Worlds of Mercedes Lackey."</b></span>
 </p><p>
 </p><h3>Kansas</h3>
 <p>
@@ -483,9 +483,9 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p></font></p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p></span></p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="right" alt="Herald Sylla by Aislira Falcon" border="5" loading="lazy" src="/qo174.jpg"/>
+<img alt="Herald Sylla by Aislira Falcon" class="float-right border-5" loading="lazy" src="/qo174.jpg"/>
 </p><p>
 </p><h2>Member News:</h2>
 <p>
@@ -567,7 +567,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
@@ -592,7 +592,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h3>Collegium News:</h3>
 <p>
@@ -651,7 +651,7 @@ Zhai�helleva,
 </p><p>
 Danya
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -677,7 +677,7 @@ If you can be of assistance, please contact Danya at <a href="mailto:Legend@malc
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -700,10 +700,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></g></p></li></g></p>
 </div>

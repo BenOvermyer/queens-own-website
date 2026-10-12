@@ -17,23 +17,23 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. X, No. 2<br/>
-November 1996</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. X, No. 2<br/>
+November 1996</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="Border Art" border="0" loading="lazy" src="/qo270.jpg"/>
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo270.jpg"/>
 Coming in time for the holidays, Misty's <i>Firebird</i>, a coming-of-age fantasy set in Russia before the Tsars. This is the tale of the adventures of a young aristocrat in a fantastic Russian landscape and of his eventual confrontation with the fabled Firebird. <i>Firebird</i> is a TOR hardcover, priced at $24.95. It has a December release date but may be in some stores this month. Misty and Paul Espinoza of Golden Bough are writing songs for a <i>Firebird</i> album that should be ready in February.
 </p><p>
 Baen is re-issuing <i>The Lark &amp; the Wren, Knight of Ghosts and Shadows</i> by Misty and Ellen Guon, and <i>Born to Run</i>, by Misty and Larry, as well as the Wing Commander novel by Misty and Ellen, <i>Freedom Flight</i>, and the Misty/Piers Anthony collaboration, <i>If I Pay Thee Not in Gold</i>, all in paperback.
@@ -57,7 +57,7 @@ TEMPEST will be in Fremont at Club Kaos [Ed. note 2005: Out-of-date info withhel
 </p><p>
 Do you want to know what conventions are going to be held where and when? QO member Jason Burnett tells me that regretfully, Filthy Pierre's "SF Conventional Register" has ceased publication (after 22 years!). There are other sources. According to the October issue of <i>Science Fiction Chronicle</i>, conventions are listed in Scott Merritt's "ConTemporal." Subscription prices for that are $15 for 4 quarterly, $20 for 6 monthly, or $30 for 12 monthly issues. Make checks payable to "Pegasus Publis" and mail them to [Ed. note 2005: Out-of-date info withheld.] . SFC is "the science fiction and fantasy newsmagazine" and is available in bookstores and magazine stands. It has book reviews, release dates, a listing of markets for you would-be--wrlters, and some convention news. Single copy price is $3.50.
 </p><p>
-<img align="left" alt="Border Art" border="0" loading="lazy" src="/qo269.jpg"/>
+<img alt="Border Art" class="float-left" loading="lazy" src="/qo269.jpg"/>
 </p><h2>MEMBER NEWS:</h2>
 <p>
 For definitions of our fattnish jargon, read "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005: Out-of-date info withheld.]  to the QO address for this 12 page booklet.
@@ -92,8 +92,8 @@ with two wings? A difference of a pinion.
 </p><p>
 Under Kal'enel's Care--SHIN'A'IN!!! Come join your fellow clansmen with <i>Under Kal'enel's Care</i>. The bi-monthly newsletters are aimed specifically at the Slnn.'a'irr. Dues are 15 stamps per year; for a sample newsletter send SASE to [Ed. note 2005: Out-of-date info withheld.].
 </p><p>
-</p><center><img alt="Border Art" border="0" loading="lazy" src="/qo271.jpg"/>
-</center>
+</p><div class="center"><img alt="Border Art" loading="lazy" src="/qo271.jpg"/>
+</div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
@@ -149,7 +149,7 @@ SHIN'A'IN!!! Come join your fellow clansmen with <i>Under Kal'enel's Care</i>. T
 </p><p>
 Stamps For Life: Send your old/used postage stamps to White Deer [Ed. note 2005: Out-of-date info withheld.]. White Deer will send them on to the Manchester Children's Hospital in England where they will be redeemed to buy equipment and medication for the children in the Cancer Ward. Won't you help?
 </p><p>
-<img align="left" alt="Border Art" border="0" loading="lazy" src="/qo272.jpg"/>
+<img alt="Border Art" class="float-left" loading="lazy" src="/qo272.jpg"/>
 </p><h2>COLLEGIUM NEWS:</h2>
 <p>
 We have individual handout sheets for the aspiring Herald, Bard, Healer, Tayledras, Shin'a'in, White Winds Sorcerer/ess, and Mercenary, and instructions on how to work for Herald-Mage status if you are already a Herald. Not sure of what you want to be? Extra point requirements vary on each handout according to the skills needed, but basic requirements are the same.
@@ -197,7 +197,7 @@ Mailing Day Helpers (last issue)--Arielle Amethyst Willow'Wind and SpiritBlade.
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -215,10 +215,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

@@ -11,6 +11,7 @@ from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
 from inventory_dragonlords import INTERNAL_HOSTS
+from markup_destyle import destyle_soup
 from markup_normalize import normalize_soup
 from markup_repairs import repair_markup
 
@@ -235,6 +236,7 @@ def migrate(source):
                 if not node.has_attr('alt'):
                     node['alt'] = ''
         normalize_soup(body)
+        destyle_soup(body)
         title = soup.title.get_text(' ', strip=True) if soup.title else name
         front = '+++\ntitle = ' + json.dumps(title, ensure_ascii=False) + '\npath = ' + json.dumps(route.strip('/')) + '\ntemplate = "page.html"\n[extra]\nlegacy_source = ' + json.dumps(name) + '\nsource_site = "dragonlords.fans"\n'
         for key, default in [('bgcolor', 'blue'), ('text', 'white'), ('link', 'aqua'), ('vlink', 'silver')]:

@@ -17,13 +17,13 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. V, No. 1<br/>
-September 1991</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. V, No. 1<br/>
+September 1991</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
@@ -65,149 +65,149 @@ Misty and Larry will be Guests of Honor at <b>BFAC</b>, the Boise Fantasy Arts C
 </p><p>
 <b>Name that Con</b> in Saint Lois, Missouri May 1-3 will feature Misty as Guest of Honor.  Write to [Ed. note 2003:  Out-of-date information withheld.].
 </p><p>
-</p><center><h2>Stories of Misty's in Anthologies</h2></center>
+</p><div class="center"><h2>Stories of Misty's in Anthologies</h2></div>
 <p>
-</p><center><table border="2" cellpadding="2" cellspacing="2">
+</p><div class="center"><table class="border-2 cellpadding-2 cellspacing-2">
 <tr>
-<td align="left" valign="top"><font size="4">"A Different Kind of Courage"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"A Different Kind of Courage"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Set a Thief"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Renunciates of Darkover</i>, ed. by MZB
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Set a Thief"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Renunciates of Darkover</i>, ed. by MZB
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Object Lesson"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Domains of Darkover</i>, ed. by MZB
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Object Lesson"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Domains of Darkover</i>, ed. by MZB
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Sword Sworn"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Sword &amp; Sorceress 3</i>, ed. by MZB
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Sword Sworn"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Sword &amp; Sorceress 3</i>, ed. by MZB
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"A Tale of Heroes"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>S&amp;S 4</i>
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"A Tale of Heroes"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>S&amp;S 4</i>
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Keys"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>S&amp;S 5</i>
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Keys"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>S&amp;S 5</i>
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"The Making of a Legend"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>S&amp;S 6</i>
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"The Making of a Legend"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>S&amp;S 6</i>
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"The Talisman"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>S&amp;S 7</i>
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"The Talisman"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>S&amp;S 7</i>
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Wings of Fire"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>S&amp;S 8</i>--1991
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Wings of Fire"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>S&amp;S 8</i>--1991
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Werehunter"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Tales of the Witchworld, Vol. 1</i>, ed. by Andre Norton
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Werehunter"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Tales of the Witchworld, Vol. 1</i>, ed. by Andre Norton
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"DeathAngel" &amp; "Merovingian Ecology"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Merovingian Nights</i>, ed. by C.J. Cherryh
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"DeathAngel" &amp; "Merovingian Ecology"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Merovingian Nights</i>, ed. by C.J. Cherryh
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"A Plague on Your Houses"
-</font></td>
-<td align="left" valign="top"><font size="4">MN2, <i>Fever Season</i>
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"A Plague on Your Houses"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4">MN2, <i>Fever Season</i>
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"A Tangled Web We Weave"
-</font></td>
-<td align="left" valign="top"><font size="4">MN3, <i>Troubled Waters</i>
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"A Tangled Web We Weave"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4">MN3, <i>Troubled Waters</i>
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"More Than Meets the Eye" &amp; "Merovingian Folklore"
-</font></td>
-<td align="left" valign="top"><font size="4">MN4, <i>Smuggler's Gold</i>
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"More Than Meets the Eye" &amp; "Merovingian Folklore"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4">MN4, <i>Smuggler's Gold</i>
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Turning Point"
-</font></td>
-<td align="left" valign="top"><font size="4">MN5, <i>Divine Right</i>
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Turning Point"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4">MN5, <i>Divine Right</i>
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Don't Look Back" &amp; "Friends Like These"
-</font></td>
-<td align="left" valign="top"><font size="4">MN6, <i>Body Politic</i>
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Don't Look Back" &amp; "Friends Like These"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4">MN6, <i>Body Politic</i>
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Fiddler Fair"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Magic in Ithkar 3</i>, ed. by Andre Norton
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Fiddler Fair"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Magic in Ithkar 3</i>, ed. by Andre Norton
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Balance" &amp; "Dragon's Teeth"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Spellsingers</i>, ed. by Alan Bard Newcomer
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Balance" &amp; "Dragon's Teeth"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Spellsingers</i>, ed. by Alan Bard Newcomer
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"A Friend in Need" &amp; "Phantom of the Berry Patch"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Winds of Change--Blood of Ten Chiefs, Vol. 3</i>, ed. by Richard Pini
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"A Friend in Need" &amp; "Phantom of the Berry Patch"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Winds of Change--Blood of Ten Chiefs, Vol. 3</i>, ed. by Richard Pini
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Skitty"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Catfantastic</i>, ed. by Andre Norton
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Skitty"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Catfantastic</i>, ed. by Andre Norton
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Nightside"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>Marion Zimmer Bradley's FANTASY Magazine</i>, issue 6, Fall '89
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Nightside"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>Marion Zimmer Bradley's FANTASY Magazine</i>, issue 6, Fall '89
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Roadkill"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>MZB's FANTASY Magazine</i>, #9, Summer '90
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Roadkill"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>MZB's FANTASY Magazine</i>, #9, Summer '90
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="4">"Satanic, Versus"
-</font></td>
-<td align="left" valign="top"><font size="4"><i>MZB's FANTASY Magazine</i>, #10, Fall '90
-</font></td>
+<td class="align-left valign-top"><span class="fs-4">"Satanic, Versus"
+</span></td>
+<td class="align-left valign-top"><span class="fs-4"><i>MZB's FANTASY Magazine</i>, #10, Fall '90
+</span></td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 </p><h2>NEWS from CLUM MEMBERS</h2>
 <p>
@@ -310,7 +310,7 @@ Wind to thy Wings--Judith
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -328,10 +328,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

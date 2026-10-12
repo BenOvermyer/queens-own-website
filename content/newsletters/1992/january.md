@@ -17,19 +17,19 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. V, No. 5<br/>
-January 1992</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. V, No. 5<br/>
+January 1992</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="right" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>Dear Misty Fans,
+<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg"/>Dear Misty Fans,
 </p><p>
 One of Misty's closest friends, George Alec Effinger (author of <i>A Fire in the Sun</i>, <i>When Gravity Fails</i>, <i>Exile Kiss</i>, and a host of Hugo and Nebula winnters) has suffered from a serious debilitating illness most of his life.  Because his condition is chronic, no medical insurance is available to him, and his current medical bills stand at $40,000.  The Niagara Falls Science Fiction Association has created a special fund to help pay the illness-related expenses of Mr. Effinget.  (Among the trustees of this fund are Mary Stanton, Nancy Kress, and Joan D. Vinge.)  We in Queen's Own have been asked to participate in a raggle, open only to QO members and their friends.  There are no formal tickets to buy; write your name, address and phone number on a 3x5 piece of paper and send it with a dollar per ticket to [Ed. note 2003:  Out-of-date information withheld.]
 </p><p>
@@ -46,18 +46,18 @@ Here's news from Baen Books on books to come later this year:
 <dd>"<b>Born to Run</b> is the first of the SERRAted Edge series of novels (SERRA stands for the South Eastern Road Racing Association that the elves and humans have formed).  Each novel will take on some aspect of trouble that kids these days are facing, <i>and we will be running hotline numbers at the back of each novel so that real children in peril will be able to do something to help themselves.</i>  In <b>Born to Run</b> the problem is that of kids on the streets, runaways.  In <b>Wheels of Fire</b> (Misty and Mark Shepherd, October 1992) the issue is kidnappingg--missing children and cults; in <b>When the Bough Breaks</b> (Misty &amp; Holly Lisle, January 1993) the authors dissect child abuse.
 <p>
 "There are elves out there.  And more are coming.  But even elves need money to survive in the 'real' world.  The good elves in South Carolina, intrigued by the thrills of stock car racing, are manufacturing new, light-weight engines (with, incidentally, very little 'cold' iron); the bad elves run a kiddie-porn and nuff-film ring, with occasional forays into drugs.  Caught in the middle of an ages old vendetta are good kids already in serious trouble and about to get into more . . . Children in Peril--Elves to the Rescue."
-</p><p align="right">72110-0 *352 pages* $4.99
-</p><p align="left"></p></dd>
+</p><p class="align-right">72110-0 *352 pages* $4.99
+</p><p class="align-left"></p></dd>
 <dt><i>June 1</i>     <b>SUMMONED TO TOURNEY</b>--Mercedes Lackey &amp; Ellen Guon</dt>
 <dd>"You wrote and asked for it, here it is:  the sequel to <b>Knight of Ghosts and Shadows</b>!  Elves in San Francisco?  Where else would an elf go when L.A. got too hot?  All is well there with our elf-lord, his human companion and the mage who brought them all together--until it turns out that San Francisco is doomed to fall off the face of the continent.  Doomed, that is, unless our mage can summon the Nightflyers, the soul devouring shadow creatures from the dreaming world--creatures no one on earth could possibly control . . . (Set in the same world as the SERRATED Edge series, but featuring a different enclave of elves.)"
-<p align="right">72122-4 *320 pages* $4.99
-</p><p align="left"></p></dd>
+<p class="align-right">72122-4 *320 pages* $4.99
+</p><p class="align-left"></p></dd>
 <dt><i>August 1992</i>     <b>THE SHIP WHO SEARCHED</b>--Anne McCaffrey &amp; Mercedes Lackey</dt>
 <dd>"Set in the same universe as <b>The Ship Who Sang</b> and <b>Partnership, The Ship Who Searched</b> tells the story of a shellperson and her search for an ancient civilization, a star-faring race whose artifacts are scattered throughout the galaxy, but whose fate is forever a mystery.  Our story opens when Tia, a bright and spunky seven-year-old accompanying her archeologist parents on a dig to research the EsKays is afflicted by a paralyzing virus.  Because she has always prided herself on being 'grown-up' and never bothering her parents, she hides the progressing symptoms until so much time passes that she cannot be curded, or indeed given any life outside of some total mechanical support system.  Like Helva, <b>The Ship Who Sang</b>, Tia won't be satisfied to glide through life like a ghost in a glorified wheelchair:  like Helva, she would rather strap on a <b>spaceship</b>.
 <p>
 But Tia has a s[ecoa; ,ossopm:  to seek out whatever it was that laid her low, to come to understand and then eliminate it--so that no other little girl will ever suffer the fate of <b>The Ship Who Searched</b>."
-</p><p align="right">72129-1 *368 pages* $5.99
-</p><p align="left"></p></dd>
+</p><p class="align-right">72129-1 *368 pages* $5.99
+</p><p class="align-left"></p></dd>
 </dl>
 <p>
 Toni Weisskopf of Baen suggests "If you like Mercedes Lackey, you should also watch put for <b>Fire in the Mist</b> by Lackey collaborator <b>Holly Lisle</b>.  This, her first fantasy novel, appears in August 1992."
@@ -197,7 +197,7 @@ Judith
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -215,10 +215,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

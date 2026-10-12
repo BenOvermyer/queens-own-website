@@ -15,22 +15,22 @@ canonical_path = "/compass-rose/summer-2000/from-reptile-to-mammal/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
-</p></font><center><font size="7">From Reptile to Mammal:<br/>
-Evolution of Early Mammals</font></center>
+</p></span><div class="center"><span class="fs-7">From Reptile to Mammal:<br/>
+Evolution of Early Mammals</span></div>
 <p>
-</p><center><h2>by</h2></center>
+</p><div class="center"><h2>by</h2></div>
 <p>
-</p><center><h2><a href="mailto:dragonfodder@gmail.com">Katharine A. Knafelc</a></h2></center>
+</p><div class="center"><h2><a href="mailto:dragonfodder@gmail.com">Katharine A. Knafelc</a></h2></div>
 <p>
 Mammals are members of the Phylum Chordata.  Chordates are animals that at some point in their lives have a notochord, a dorsal hollow nerve cord, pharyngeal gill slits, and a muscular postanal tail.  Mammals are also part of the subphylum Vertebrata, which has the added characteristics of increased cephalization, the cranium and vertebral column has replaced the notochord as the main axis of the body, and the adaptations of vertebrate support greater metabolic rate and an increase in size and activity.
 </p><p>
@@ -103,17 +103,17 @@ Until the end of the Cretaceous, mammals remained tiny animals, hidden from the 
 </p><p>
 After the extinction of the dinosaurs the mammals were the quickest group to pick up the evolutionary torch.  They, along with the other endothermic vertebrate class, Aves (birds), expanded to all of the niches vacated by dinosaurs.  Today there are three living infraclasses and over forty-five different orders (<a href="/compass-rose/summer-2000/from-reptile-to-mammal/references/#eisenberg">Eisenberg 1981</a>).  Mammals are the dominant class of animal on earth.  From lumbering reptile to nocturnal shrews to ourselves, mammals have undergone a long and intense evolutionary origin.  Today we are undergoing an intense extinction event as disastrous as the one that killed the dinosaurs.  Mammals survived the last one and multiplied, but will we be able to do it again?
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="10%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/in-the-name-of-god/">Next</a></font></td>
-<td align="center" valign="top" width="25%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/from-reptile-to-mammal/references/">References Cited</a></font></td>
-<td align="center" valign="top" width="35%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></font></td>
-<td align="center" valign="top" width="30%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td></tr>
+<td class="align-center valign-top" style="width:10%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/in-the-name-of-god/">Next</a></span></td>
+<td class="align-center valign-top" style="width:25%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/from-reptile-to-mammal/references/">References Cited</a></span></td>
+<td class="align-center valign-top" style="width:35%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></span></td>
+<td class="align-center valign-top" style="width:30%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© Katharine A. Knafelc 2000.  All rights reserved.</center>
+</p><div class="center">© Katharine A. Knafelc 2000.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</div>
 </div>

@@ -14,13 +14,13 @@ canonical_path = "/bards-faq/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Bards FAQ</h2></center>
-<center><h2>(Revised 3/11/02)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Bards FAQ</h2></div>
+<div class="center"><h2>(Revised 3/11/02)</h2></div>
 <p>
 There are three basic types of musicians on Velgarth:  gleemen, minstrels and Bards.  They are distinguished mostly by their level of skill and the Gifts that they have.  In addition to entertaining, the musicians also function as a way of spreading news throughout the various lands.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>General Rules</h2>
 <p>
@@ -35,13 +35,13 @@ The wise performer will take requests before offering anything new or unfamiliar
 </p><p>
 It's an extremely good idea to know your audience and to be aware of what might offend them before you sing an inappropriate song or tell the wrong story in the wrong place at the wrong time.  (This is another good reason to take requests before offering anything original, since the requests will give you a feel for the crowd.)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>Gleemen</h2>
 <p>
 These are the vaudevillians of Velgarth.  In addition to music, they can juggle, act and perform sleight of hand magic tricks.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>Minstrels</h2>
 <p>
@@ -49,7 +49,7 @@ Minstrels are the popular singers of Velgarth.  They are often preferred over Ba
 </p><p>
 The minstrels have a guild.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>Bards</h2>
 <p>
@@ -57,8 +57,8 @@ Bards are the elite musicians of Velgarth.  The difference between minstrels and
 </p><p>
 All Bards have Bardic Gift.  To be accepted at the Bardic Collegium, a student must have either Talent or Creativity in addition to Bardic Gift.  These Gifts are called the "Musical Gifts".
 </p><p>
-</p><center>
-<table border="2" cellpadding="2" cellspacing="2" width="80%">
+</p><div class="center">
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:80%">
 <tr>
 <th>Musical Gift</th>
 <th>Description</th>
@@ -76,7 +76,7 @@ All Bards have Bardic Gift.  To be accepted at the Bardic Collegium, a student m
 <td>Projective Empathy; the ability to project a mood and influence an audience</td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 Bardic Trainees wear red-brown uniforms.  Full Bards wear scarlet-colored uniforms.
 </p><p>
@@ -95,7 +95,7 @@ Ranks for Bards include:
 <p>
 When Trainees are ready to advance in rank, they are judged by the Bardic Council.  The Bardic Council consists of seven members, who run the Bardic Collegium.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>Honors</h2>
 <p>
@@ -115,7 +115,7 @@ The Bardic Chronicles are the Collegium's archives.  They contain the stories an
 </li><li>Threes
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>Definitions</h2>
 <p>
@@ -125,7 +125,7 @@ These are some terms for the Helpful Handout for <a href="/bard-handout/">Bards<
 <li><b>Perform:</b>  How about going caroling?  Entertaining at a local nursing home?  Holding a song-circle party regularly?  Acting out stories at the local library or day care center?
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>Protocol</h2>
 <p>
@@ -137,7 +137,7 @@ Bards and minstrels on Velgarth stick to a rather strict protocol when they perf
 </li><li>Take requests before performing original work.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>Other Questions About Bardic Personae</h2>
 <p>
@@ -146,12 +146,12 @@ Bards and minstrels on Velgarth stick to a rather strict protocol when they perf
 <dd>Well, technically we can't stop you from rerolling &lt;g&gt;.  Nor can we force you to create a type of persona that you do not want.  Consider, however, the creative possibilities behind your roll.  Bardic Gift can get in the way of people enjoying the music.  Perhaps you have one of the most popular minstrels in Valdemar.  Or maybe your gleeman might help a Herald catch a thief because your persona knows sleight of hand.  Or consider the possibility of a gleeman as a spy; that acting skill could come in really handy, sleight of hand can be used to procure information, and juggling can provide misdirection or supply a source of weapons if you are juggling knives!  Don't let your disappointment in a roll stifle your creativity.  Some people actually prefer these character types to full Bards.</dd>
 </dl>
 <p>
-</p><center><img alt="" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<font face="Harem">
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<span class="ff-harem">
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 <p>
-<a href="/world-reference-guide/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></font>
+<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
+</p></span>
 </p>
 </div>

@@ -15,9 +15,9 @@ canonical_path = "/magic-of-velgarth/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>The Magic of Velgarth</h2></center>
-<center><h2>(Revised 5/30/05)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>The Magic of Velgarth</h2></div>
+<div class="center"><h2>(Revised 5/30/05)</h2></div>
 <p>
 As I work on making Danya a Herald-Mage in <a href="/">Queen's Own</a>,
 I'm compiling details about how various forms of magic work on Misty's
@@ -51,7 +51,7 @@ These are the types of magic in Misty's Valdemar books:
 The codes that follow the names tell which
 book mentions the pair.  The codes are:
 </p><p>
-</p><table border="1" cellpadding="2" cellspacing="1">
+</p><table class="border-1 cellpadding-2 cellspacing-1">
 <tr>
 <td>AFa</td>
 <td>Arrow's Fall</td>
@@ -119,7 +119,7 @@ magical items and the use of magic but no details about how the magic
 works, since the tale is told from Kerowyn's point of view, and she does
 not have Mage-Gift.
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
 <a id="mind" name="mind"></a>
 </p><h2>Mind Magic</h2>
@@ -223,7 +223,7 @@ investigate the use of true magic.
 The vrondi themselves are air elementals who cannot stand the emotional
 reaction caused by telling a lie (MPro, p. 159).
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
 <a id="horse" name="horse"></a>
 </p><h2>Companion Magic</h2>
@@ -247,7 +247,7 @@ and Divine Magic.)
 Groveborn Companions arrive in the Grove courtesy of a deity, who is most
 likely the Sun Lord, given the Star-Eyed's conversation with Tarma and Kethry about Companions (Obr).
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
 <a id="tm3" name="tm3"></a>
 </p><h2>True Magic (non-Herald; White Winds-type, etc.)</h2>
@@ -299,47 +299,47 @@ plane on which Velgarth exists.*
 <p>
 *The planes mentioned in the books are (OBo, p. 27):
 </p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<th align="left">Name of Plane</th>
-<th align="left">Known Denizens</th>
-<th align="left">Notes for Mages</th>
+<th class="align-left">Name of Plane</th>
+<th class="align-left">Known Denizens</th>
+<th class="align-left">Notes for Mages</th>
 </tr>
 <tr>
-<td align="left">Elemental Plane of Air</td>
-<td align="left">The vrondi</td>
-<td align="left">Can build credit with promises.</td>
+<td class="align-left">Elemental Plane of Air</td>
+<td class="align-left">The vrondi</td>
+<td class="align-left">Can build credit with promises.</td>
 </tr>
 <tr>
-<td align="left">Elemental Plane of Earth</td>
-<td align="left"> </td>
-<td align="left">Can build credit with promises.</td>
+<td class="align-left">Elemental Plane of Earth</td>
+<td class="align-left"> </td>
+<td class="align-left">Can build credit with promises.</td>
 </tr>
 <tr>
-<td align="left">Elemental Plane of Fire</td>
-<td align="left"> </td>
-<td align="left">Can build credit with promises.</td>
+<td class="align-left">Elemental Plane of Fire</td>
+<td class="align-left"> </td>
+<td class="align-left">Can build credit with promises.</td>
 </tr>
 <tr>
-<td align="left">Elemental Plane of Water</td>
-<td align="left"> </td>
-<td align="left">Can build credit with promises.</td>
+<td class="align-left">Elemental Plane of Water</td>
+<td class="align-left"> </td>
+<td class="align-left">Can build credit with promises.</td>
 </tr>
 <tr>
-<td align="left">Ethereal</td>
-<td align="left">Varirr</td>
-<td align="left">Can be coerced; mage can enter into a bond debt
+<td class="align-left">Ethereal</td>
+<td class="align-left">Varirr</td>
+<td class="align-left">Can be coerced; mage can enter into a bond debt
 with these creatures.</td>
 </tr>
 <tr>
-<td align="left">Abyssal</td>
-<td align="left">Demons</td>
-<td align="left">Feed on pain or death energy.</td>
+<td class="align-left">Abyssal</td>
+<td class="align-left">Demons</td>
+<td class="align-left">Feed on pain or death energy.</td>
 </tr>
 <tr>
-<td align="left">Empyreal</td>
-<td align="left">Gods; residents of the Havens</td>
-<td align="left">Cannot be coerced; offer aid or manifest only
+<td class="align-left">Empyreal</td>
+<td class="align-left">Gods; residents of the Havens</td>
+<td class="align-left">Cannot be coerced; offer aid or manifest only
 when they so desire.</td>
 </tr>
 </table>
@@ -361,83 +361,83 @@ of Heraldic Mind-Magic nor are they able to read a Herald's mind (AFa, p. 195).
 <p>
 Here are the spells that are mentioned in the books:
 </p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<th align="center">Spell</th>
-<th align="center">Effect</th>
-<th align="center">Cantrip</th>
-<th align="center">Components</th>
-<th align="center">Casting</th>
-<th align="center">Dismissing</th>
-<th align="center">Source</th>
+<th class="align-center">Spell</th>
+<th class="align-center">Effect</th>
+<th class="align-center">Cantrip</th>
+<th class="align-center">Components</th>
+<th class="align-center">Casting</th>
+<th class="align-center">Dismissing</th>
+<th class="align-center">Source</th>
 </tr>
 <tr>
-<td align="left" valign="top">Daggers of Light</td>
-<td align="left" valign="top">Creates daggers of light that do damage as
+<td class="align-left valign-top">Daggers of Light</td>
+<td class="align-left valign-top">Creates daggers of light that do damage as
 normal daggers, but they have to be hurled as normal daggers and have
 the same chance of striking.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">Requires hand motion.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 202</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">Requires hand motion.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 202</td>
 </tr>
 <tr>
-<td align="left" valign="top">Energy Blast</td>
-<td align="left" valign="top">Sends a blast of pure energy at the mage's opponent.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">Requires hand motion.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 203</td>
+<td class="align-left valign-top">Energy Blast</td>
+<td class="align-left valign-top">Sends a blast of pure energy at the mage's opponent.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">Requires hand motion.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 203</td>
 </tr>
 <tr>
-<td align="left" valign="top">Fire Balls</td>
-<td align="left" valign="top">Smoking, flaming balls thrown from air in front of mage's
+<td class="align-left valign-top">Fire Balls</td>
+<td class="align-left valign-top">Smoking, flaming balls thrown from air in front of mage's
 hand.  Damages as real fire on impact with target.</td>
-<td align="left" valign="top">Required; described as "guttural phrases."</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">Can be used by Hedgewizard and above.<br/>
+<td class="align-left valign-top">Required; described as "guttural phrases."</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">Can be used by Hedgewizard and above.<br/>
 <ol>
 <li>Say cantrip
 </li><li>Make throwing motion with hand.
 </li></ol></td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 65</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 65</td>
 </tr>
 <tr>
-<td align="left" valign="top">Firestarting</td>
-<td align="left" valign="top">Similar to the Heraldic Mind-Magic by the same name; "calls"
+<td class="align-left valign-top">Firestarting</td>
+<td class="align-left valign-top">Similar to the Heraldic Mind-Magic by the same name; "calls"
 a certain amount of fire, depending on the level and will of the mage.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">
 <ol>
 <li>Stare at target
 </li><li>Target bursts into flames
 </li></ol></td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 66</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 66</td>
 </tr>
 <tr>
-<td align="left" valign="top">Flame Elemental</td>
-<td align="left" valign="top">Creates a creature of fire with arms, etc.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"><ol>
+<td class="align-left valign-top">Flame Elemental</td>
+<td class="align-left valign-top">Creates a creature of fire with arms, etc.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"><ol>
 <li>Cast Wall of Flame
 </li><li>Concentrate
 </li></ol></td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 202</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 202</td>
 </tr>
 <tr>
-<td align="left" valign="top">Greater Wind of Air and Water</td>
-<td align="left" valign="top">A whirlwind circles the mage three times, then
+<td class="align-left valign-top">Greater Wind of Air and Water</td>
+<td class="align-left valign-top">A whirlwind circles the mage three times, then
 forms a shell of light and force.</td>
-<td align="left" valign="top">Required.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">Must be a Master or greater to cast.<br/>
+<td class="align-left valign-top">Required.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">Must be a Master or greater to cast.<br/>
 <ol>
 <li>Cast "Lesser Wind of Fire and Earth"
 </li><li>Raise hand over head
@@ -446,97 +446,97 @@ forms a shell of light and force.</td>
 (Cup and Mill)
 </li><li>Call wind from four directions
 </li></ol></td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 191</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 191</td>
 </tr>
 <tr>
-<td align="left" valign="top">Hide Magic</td>
-<td align="left" valign="top">Makes magic undetectable and invisible even to Mage Sight.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">Must be an Adept to cast.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 194</td>
+<td class="align-left valign-top">Hide Magic</td>
+<td class="align-left valign-top">Makes magic undetectable and invisible even to Mage Sight.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">Must be an Adept to cast.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 194</td>
 </tr>
 <tr>
-<td align="left" valign="top">Illusion</td>
-<td align="left" valign="top">Creates an illusion.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 193</td>
+<td class="align-left valign-top">Illusion</td>
+<td class="align-left valign-top">Creates an illusion.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 193</td>
 </tr>
 <tr>
-<td align="left" valign="top">Lesser Wind of Fire and Earth</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 191</td>
+<td class="align-left valign-top">Lesser Wind of Fire and Earth</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 191</td>
 </tr>
 <tr>
-<td align="left" valign="top">Lightning Storm</td>
-<td align="left" valign="top">Creates ball-lightning that strikes
+<td class="align-left valign-top">Lightning Storm</td>
+<td class="align-left valign-top">Creates ball-lightning that strikes
 where the mage wills.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">Must be an Adept to cast.<br/>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">Must be an Adept to cast.<br/>
 <ol>
 <li>Concentrate.
 </li><li>Make throwing motions with hands.
 </li></ol>
 </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 203</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 203</td>
 </tr>
 <tr>
-<td align="left" valign="top">Mage-Shield</td>
-<td align="left" valign="top">Appears as a glow; blurs "the edges of vision around
+<td class="align-left valign-top">Mage-Shield</td>
+<td class="align-left valign-top">Appears as a glow; blurs "the edges of vision around
 a mage and his mount"; does not deflect physical or magical missles;
 does make it hard to see (and, therefore, hard to hit) the mage.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 65</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 65</td>
 </tr>
 <tr>
-<td align="left" valign="top">Reverse Aging</td>
-<td align="left" valign="top">The mage grows younger.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">AFa, p. 192 (Hulda may have used this spell.)</td>
+<td class="align-left valign-top">Reverse Aging</td>
+<td class="align-left valign-top">The mage grows younger.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">AFa, p. 192 (Hulda may have used this spell.)</td>
 </tr>
 <tr>
-<td align="left" valign="top">Slow Aging</td>
-<td align="left" valign="top">Decreases the rate at which a mage ages.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">AFa, p. 192 (Hulda may have used this spell.)</td>
+<td class="align-left valign-top">Slow Aging</td>
+<td class="align-left valign-top">Decreases the rate at which a mage ages.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">AFa, p. 192 (Hulda may have used this spell.)</td>
 </tr>
 <tr>
-<td align="left" valign="top">Slumber</td>
-<td align="left" valign="top">Causes the target to fall into an instant, deep sleep; can
+<td class="align-left valign-top">Slumber</td>
+<td class="align-left valign-top">Causes the target to fall into an instant, deep sleep; can
 slow bleeding (probably because the heart slows).</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 70</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 70</td>
 </tr>
 <tr>
-<td align="left" valign="top">Spell of Adept Manifestation 1</td>
-<td align="left" valign="top">White Wind appears; creates a manifestation in the aura colors of the mage,
+<td class="align-left valign-top">Spell of Adept Manifestation 1</td>
+<td class="align-left valign-top">White Wind appears; creates a manifestation in the aura colors of the mage,
 signaling that the mage is an Adept.</td>
-<td align="left" valign="top">Required; must have near-perfect control of tone, tempo and cadence</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">Must be an Adept to cast.<br/>
+<td class="align-left valign-top">Required; must have near-perfect control of tone, tempo and cadence</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">Must be an Adept to cast.<br/>
 <ol>
 <li>Cast "Greater Wind of Air and Water"
 </li><li>Call the White Wind (Wind of the Five Elements)
@@ -545,58 +545,58 @@ and own power using your own will
 </li><li>Sing cantrip
 </li><li>Empty mind of everything except what you wish to build
 </li></ol></td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 191</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 191</td>
 </tr>
 <tr>
-<td align="left" valign="top">Spell of Adept Manifestation 2</td>
-<td align="left" valign="top">Creates a man-sized manifestation that can
+<td class="align-left valign-top">Spell of Adept Manifestation 2</td>
+<td class="align-left valign-top">Creates a man-sized manifestation that can
 battle another manifestation.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">Must be an Adept to cast.<br/>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">Must be an Adept to cast.<br/>
 <ol>
 <li>Cast "Spell of Adept Manifestation"
 </li><li>Concentrate on smaller version
 </li></ol></td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 201</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 201</td>
 </tr>
 <tr>
-<td align="left" valign="top">Spheres of Light</td>
-<td align="left" valign="top">Sends spheres of blinding light at the mage's opponent.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">Requires hand motion.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 203</td>
+<td class="align-left valign-top">Spheres of Light</td>
+<td class="align-left valign-top">Sends spheres of blinding light at the mage's opponent.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">Requires hand motion.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 203</td>
 </tr>
 <tr>
-<td align="left" valign="top">Stop Aging</td>
-<td align="left" valign="top">The mage ceases to age.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">AFa, p. 192 (Hulda may have used this spell.)</td>
+<td class="align-left valign-top">Stop Aging</td>
+<td class="align-left valign-top">The mage ceases to age.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">AFa, p. 192 (Hulda may have used this spell.)</td>
 </tr>
 <tr>
-<td align="left" valign="top">Summon Wind</td>
-<td align="left" valign="top">Calls a wind that is under the direction of the mage.  Starts in front of the mage as a six-foot high, white tornado.  Moves according to the mage's will and grows as it encounters and destroys spells of fire.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 202</td>
+<td class="align-left valign-top">Summon Wind</td>
+<td class="align-left valign-top">Calls a wind that is under the direction of the mage.  Starts in front of the mage as a six-foot high, white tornado.  Moves according to the mage's will and grows as it encounters and destroys spells of fire.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 202</td>
 </tr>
 <tr>
-<td align="left" valign="top">Wall of Flame</td>
-<td align="left" valign="top">Creates a wall of flame; does damage as normal fire.</td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top"> </td>
-<td align="left" valign="top">OBr, p. 202</td>
+<td class="align-left valign-top">Wall of Flame</td>
+<td class="align-left valign-top">Creates a wall of flame; does damage as normal fire.</td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top"> </td>
+<td class="align-left valign-top">OBr, p. 202</td>
 </tr>
 </table>
 <p>
@@ -608,26 +608,26 @@ To advance in rank, White Winds mages must prove that they can cast a series of
 spells.  These spells will only work if the mage has the skill and ability to
 cast them.
 </p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<th align="center">Rank</th>
-<th align="center">Spell</th>
-<th align="center">Proves Command Over</th>
+<th class="align-center">Rank</th>
+<th class="align-center">Spell</th>
+<th class="align-center">Proves Command Over</th>
 </tr>
 <tr>
-<td align="left">Journeyman*</td>
-<td align="left">Lesser Wind of Fire and Earth</td>
-<td align="left">The Stable Elements</td>
+<td class="align-left">Journeyman*</td>
+<td class="align-left">Lesser Wind of Fire and Earth</td>
+<td class="align-left">The Stable Elements</td>
 </tr>
 <tr>
-<td align="left">Master</td>
-<td align="left">Greater Wind of Air and Water</td>
-<td align="left">The Mutable Elements</td>
+<td class="align-left">Master</td>
+<td class="align-left">Greater Wind of Air and Water</td>
+<td class="align-left">The Mutable Elements</td>
 </tr>
 <tr>
-<td align="left">Adept</td>
-<td align="left">Spell of Adept Manifestation</td>
-<td align="left">The White Wind (Wind of the Five Elements)</td>
+<td class="align-left">Adept</td>
+<td class="align-left">Spell of Adept Manifestation</td>
+<td class="align-left">The White Wind (Wind of the Five Elements)</td>
 </tr>
 </table>
 <p>
@@ -656,11 +656,11 @@ the battle, the mages must stay within a circle.  Each mage puts up half of a do
 protects bystanders and the surrounding area from the effects of the battle.  Personal shields
 appear as smaller domes within the larger dome.
 </p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<th align="center">Round</th>
-<th align="center">Challenger</th>
-<th align="center">Defender</th>
+<th class="align-center">Round</th>
+<th class="align-center">Challenger</th>
+<th class="align-center">Defender</th>
 </tr>
 <tr>
 <td>1:  Issue and Acceptance of Challenge</td>
@@ -700,7 +700,7 @@ Challenger's response, cheats by using krakash hidden on person</td>
 Tarma slew the defending mage at that point by rather conventional means (using the sword, Need). Jadrek (Kethry's mate) slew the construct with earth magic (as described in the Construct
 section on this page).  Tarma then asked her goddess to restore Kethry to life.
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
 <a id="tm2" name="tm2"></a>
 </p><h2>True Magic (Herald-Mage)</h2>
@@ -708,7 +708,7 @@ section on this page).  Tarma then asked her goddess to restore Kethry to life.
 The Herald-Mage combines elements of Heraldic Mind Magic with True Magic
 as practiced by the White Winds and other schools.
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
 <a id="tm1" name="tm1"></a>
 </p><h2>True Magic (Blood-Path)</h2>
@@ -732,7 +732,7 @@ rank.  Regular mages who develop a taste for using death energies can
 become Blood-Path mages at whatever their normal skill level would be.
 Thus, you have characters like Falconsbane, who was an Adept Blood-Path Mage.
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barstar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barstar.gif"/></div>
 <p>
 <a id="tm4" name="tm4"></a>
 </p><h2>Other Forms of Magic</h2>
@@ -772,9 +772,9 @@ Given that the Karsites searched for people with Gifts (Mind Magic) and
 forced them into religious orders, priests and priestesses likely have
 a Gift akin to Mage Gift, which allows them to make use of spells.
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bardrgn2.gif"/></div>
 <p>
-<font face="Harem">
-</font>
+<span class="ff-harem">
+</span>
 </p>
 </div>

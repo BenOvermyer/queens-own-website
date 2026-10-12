@@ -14,14 +14,14 @@ canonical_path = "/bard-handout/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>The Helpful Handout of How to Become a Bard</h2></center>
-<center><h3>Criteria established by Mercedes Lackey</h3></center>
-<center><h3>Based on <b>The Last Herald-Mage</b> and <b>The Heralds of Valdemar</b> trilogies</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>The Helpful Handout of How to Become a Bard</h2></div>
+<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
+<div class="center"><h3>Based on <b>The Last Herald-Mage</b> and <b>The Heralds of Valdemar</b> trilogies</h3></div>
 <p>
 Distributed by:
 </p><p>
-</p><center><h3>Queen's Own
+</p><div class="center"><h3>Queen's Own
 <br/>
 The Official Mercedes Lackey Fan Club</h3>
 <p>
@@ -31,8 +31,8 @@ The Official Mercedes Lackey Fan Club</h3>
 <p>
 To be a gleeman, you need either Talent or Creativity.  To be a Minstrel, you need both Talent and Creativity (but you lack Bardic).  To be accepted at the Bardic Collegium you must have at least Talent or Creativity in addition to Bardic Gift. (All Bards have Bardic Gift.)  To determine your persona's skills, roll for the number of additional Gifts by throwing one six-sided die.  If you have two additional Gifts, you get both Talent and Creativity in addition to your Bardic Gift.  If you have one additional Gift, roll on the second chart to see whether you have Talent or Creativity.  Honor applies; what you roll is what you get.
 </p><p>
-</p><center>
-<table border="0">
+</p><div class="center">
+<table>
 <tr>
 <td>1 = One Gift</td>
 <td> </td>
@@ -41,7 +41,7 @@ To be a gleeman, you need either Talent or Creativity.  To be a Minstrel, you ne
 <td>6 = Three Gifts</td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 If you have only one Gift, you are a gleeman.  Roll on the table below to find out which Gift you have.  Gleemen ignore the result of Bardic Gift and roll again.
 </p><p>
@@ -49,7 +49,7 @@ If you have two Gifts, you <i>might</i> be a Bard.  Roll twice on the table belo
 </p><p>
 If you rolled a result of three Gifts, you have Talent, Creativity and Bardic.  You are a Bard, and you do not need to roll on this table.  Continue to the next section of the handout.
 </p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="80%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:80%">
 <tr>
 <th>Die Roll</th>
 <th>Musical Gift</th>
@@ -70,9 +70,9 @@ If you rolled a result of three Gifts, you have Talent, Creativity and Bardic.  
 <td>Projective Empathy</td>
 </tr>
 </table>
-</center>
+</div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>II. Develop a Character</h2>
 <p>
@@ -82,14 +82,14 @@ and write about him/her.  Prepare a minimum of 3 pages.
 </p><p>
 This is a biography.  Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you.  You may use first or third person.
 </p><p>
-Remember to roll for your Musical Gifts <font color="red">first</font>.  Most musical
+Remember to roll for your Musical Gifts <span class="c-red">first</span>.  Most musical
 ability manifests itself early in life.  Also, remember to include Bardic Gift on your list of Gifts when you send it to me.  (10 points.)
 </p><p>
 </p><h2>III.  Develop One or More Friend or Relative Characters</h2>
 <p>
 You needn't be quite so detailed in your descriptions of these other characters.  But remember, you are writing about people you know well.  Describe what your family and/or friends look like, their own character traits, etc.  Again, a minimum of 3 pages.  (5 points)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>IV.  Extra Point Requirements (5 points each)</h2>
 <p>
@@ -112,11 +112,11 @@ Choose and complete the requirements for two (minimum) of the following:
 </li><li>Draw a map.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
-</p><center><h2>After you have acquired 25 points, you may claim your scarlets or wear your ribbons!</h2></center>
+</p><div class="center"><h2>After you have acquired 25 points, you may claim your scarlets or wear your ribbons!</h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>Special Notes for Bards</h2>
 <p>
@@ -129,7 +129,7 @@ Choose and complete the requirements for two (minimum) of the following:
 <p>
 If you have additional questions, check out the <a href="/bards-faq/">Bards</a> FAQ.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
 </p><h2>Advanced Rank</h2>
 <p>
@@ -150,11 +150,11 @@ To attain a specialty as a Bard:
      </li><li>Relgion:  Write a 20-page paper on the real Religion of your choice.
      </li></ul>
 <p>
-<font color="red">Exception</font>:  If you already a teacher of history, literature or religion at the Elementary, Junior High or Senior High level, you may automatically claim Bardic Teacher status.  However, please develop your Velgarth persona so others may interact with you in character.
+<span class="c-red">Exception</span>:  If you already a teacher of history, literature or religion at the Elementary, Junior High or Senior High level, you may automatically claim Bardic Teacher status.  However, please develop your Velgarth persona so others may interact with you in character.
 </p><p>
 </p></li><li><a id="court" name="court"></a>Court Musician:  Become a professional performing musician at the venue of your choice.
 <p>
-<font color="red">Exception</font>:  If you already a professional musician, you may automatically claim Court Musician status.  However, please
+<span class="c-red">Exception</span>:  If you already a professional musician, you may automatically claim Court Musician status.  However, please
 develop your Velgarth persona so others may interact with you in character.</p><p>
 </p></li><li><a id="story" name="story"></a>Storyteller:  Become a volunteer reader at your local library.
 </li></ul>
@@ -175,8 +175,8 @@ To become a Master Bard, you must
 Zhai'helleva,<br/>
 <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barmusic.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barmusic.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

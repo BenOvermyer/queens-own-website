@@ -15,10 +15,10 @@ canonical_path = "/vanyel-fan-club/join/"
 +++
 
 <div class="original-page">
-<font face="New York" size="4">
-</font><center><span>Join the Vanyel Fan Club</span></center>
+<span class="ff-new-york fs-4">
+</span><div class="center"><span>Join the Vanyel Fan Club</span></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/rainbar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/rainbar.gif"/></div>
 <p>
 Quite easily, actually!
 </p><p>
@@ -26,8 +26,8 @@ If you wish to join the Vanyel Fan Club, please <a href="mailto:moonstar@healerm
 </p><p>
 We hope to hear from you soon!
 </p><p>
-</p><center><img alt="" loading="lazy" src="/rainbar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/rainbar.gif"/></div>
 <p>
-<a href="/vanyel-fan-club/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page</a>
+<a href="/vanyel-fan-club/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page</a>
 </p>
 </div>

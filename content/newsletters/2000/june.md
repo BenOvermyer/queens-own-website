@@ -17,17 +17,17 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 1, No. 2<br/>
-June 1, 2000</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 1, No. 2<br/>
+June 1, 2000</h2></div>
 <p>
-</p><center>
-<img alt="Aerolyn and Companion Kyler by Anthony Barton" border="5" loading="lazy" src="/qopic1.jpg"/>
-</center>
+</p><div class="center">
+<img alt="Aerolyn and Companion Kyler by Anthony Barton" class="border-5" loading="lazy" src="/qopic1.jpg"/>
+</div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -35,7 +35,7 @@ Many of you know Herald-Mage Master Danya and I from work we have done in other 
 </p><p>
 <b>Healer Adept Moonstar</b>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><ol>
 <li>Tell us about your family.
@@ -60,11 +60,11 @@ Many of you know Herald-Mage Master Danya and I from work we have done in other 
 <p>I adore the emphasis on education and social responsibility within the club.  I've participate in several other fandoms, and Misty's is quite unique in the way it encourages fans to become involved in the real world and to make a difference with their lives.
 </p></li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
-</p><center><img alt="Terrill Choosing Danya by Laura Cameron" border="2" loading="lazy" src="/cc3a.gif"/></center>
+</p><div class="center"><img alt="Terrill Choosing Danya by Laura Cameron" class="border-2" loading="lazy" src="/cc3a.gif"/></div>
 <p>
 Here are the faires we know about that are happening in June.  Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
 </p><p>
@@ -149,9 +149,9 @@ POLYCON XVIII. E-mail: <a href="mailto:polycon-info@polycon.punk.net">polycon-in
 </p><p>
 SLUG-A-THON 22: A GAMING CONVENTION. E-mail: <a href="mailto:slugathon@slugathon.com">slugathon@slugathon.com</a>. Website: <a href="http://www.slugathon.com/">http://www.slugathon.com</a>. Site Address: Santa Clara Convention Center, 5001 Great America Parkway, Santa Clara, CA.  Dates: 6/17/00.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Compass Rose Logo by Laura Cameron" border="3" loading="lazy" src="/comprose.jpg"/></center>
+</p><div class="center"><img alt="Compass Rose Logo by Laura Cameron" class="border-3" loading="lazy" src="/comprose.jpg"/></div>
 <p>
 </p><h2>Member News:</h2>
 <p>
@@ -178,11 +178,11 @@ Note:  <b>Arrows OnLine </b>has declared on its AOL message boards that it is no
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
-</p><center><img alt="Original Sold at Norwescon 1998--by Laura Cameron" border="3" loading="lazy" src="/fwarrior.jpg"/></center>
+</p><div class="center"><img alt="Original Sold at Norwescon 1998--by Laura Cameron" class="border-3" loading="lazy" src="/fwarrior.jpg"/></div>
 <p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.<p>
@@ -200,7 +200,7 @@ Note:  <b>Arrows OnLine </b>has declared on its AOL message boards that it is no
 <p>
 </p><h3>Collegium News:</h3>
 <p>
-</p><center><img alt="Danya and Yarik Riding to Save Kaylan by Laura Cameron" border="3" loading="lazy" src="/cc19.gif"/></center>
+</p><div class="center"><img alt="Danya and Yarik Riding to Save Kaylan by Laura Cameron" class="border-3" loading="lazy" src="/cc19.gif"/></div>
 <p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 </p><p>
@@ -215,9 +215,9 @@ All personae materials should be sent to the QO address.
 </li><li>Congratulations to <b>Herald-Mage Danya Winterborn </b>for earning the rank of Herald-Mage Master!  <b>L.A. Malcor</b> wrote a 20-page paper on the Crusades from a Christian point of view, wrote a 20-page paper on how magic on Velgarth is similar to nuclear fission/fusion, and learned the following stage magic tricks:  Hat and Egg, Appearing/Multiplying Ping Pong Balls, Escape from Ropes and a card trick ("The Four Heralds").
 </li></ul>
 <p>
-</p><center>
-<img alt="Kyler by Anthony Barton" border="5" loading="lazy" src="/qopic2.jpg"/>
-</center>
+</p><div class="center">
+<img alt="Kyler by Anthony Barton" class="border-5" loading="lazy" src="/qopic2.jpg"/>
+</div>
 <p>
 </p><h3>From Herald-Mage Master Danya Winterborn:</h3>
 <p>
@@ -233,13 +233,13 @@ As fans, I strongly urge you to go to Ren Faires and Conventions (and help work 
 </p><p>
 Finally, a plea for patronage &lt;g&gt;.  The Queen's Own site is hosted by Dragonlords of Dumnonia (<a href="https://dragonlords.fans/index.html">http://www.dragonlordsnet.com</a>), and the Dragonlords Bookstore (<a href="https://dragonlords.fans/bkstore.htm">http://www.dragonlordsnet.com/bkstore.htm</a>) is the means by which Dragonlords pays for bandwidth, the PO Box, webspace, postage and the zillion other little expenses that go into running a fan club.  A portion of every purchase made through the Dragonlords Bookstore goes to help defray these costs.  So when you buy books, videos, CDs, etc., please consider doing so through the Dragonlords Bookstore.  You'll be helping to support the group that is financially supporting Queen's Own.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Kaylan and Adele by Laura Cameron" border="3" loading="lazy" src="/cc12.gif"/></center>
+</p><div class="center"><img alt="Kaylan and Adele by Laura Cameron" class="border-3" loading="lazy" src="/cc12.gif"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
-The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <span class="c-red">don't place a fan message</span>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
 </p><p>
@@ -250,11 +250,11 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </li><li>From Healer Adept Moonstar.  To Eric: Thank you very much for the copies of April 91-October 95 newsletters!  Is there any way I can repay you?
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center>
-<img alt="Windrider by Anthony Barton" border="5" loading="lazy" src="/qopic3.jpg"/>
-</center>
+</p><div class="center">
+<img alt="Windrider by Anthony Barton" class="border-5" loading="lazy" src="/qopic3.jpg"/>
+</div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -263,7 +263,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </li><li>To <b>Herald Mage Journeyman Danya Winterborn</b> and <b>Healer Adept Moonstar</b> from <b>Jens</b>. Way to go on the new incarnation of Queen's Own!  I love it.
 </li><li>To <b>An'talyah Brighthawk</b> from <b>Jens</b>.  Just had to harass you a bit.  Thanks for being around through so many issues (and now the 3rd incarnation!) of QO for me.</li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -286,10 +286,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

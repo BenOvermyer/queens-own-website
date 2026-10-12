@@ -14,24 +14,24 @@ canonical_path = "/military-handout/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>The Helpful Handout of How to Become a Military Figure</h2></center>
-<center><h3>Criteria established by Mercedes Lackey</h3></center>
-<center><h3>Based on the <b>Heralds of Valdemar</b> series.</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>The Helpful Handout of How to Become a Military Figure</h2></div>
+<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
+<div class="center"><h3>Based on the <b>Heralds of Valdemar</b> series.</h3></div>
 <p>
 Distributed by:
 </p><p>
-</p><center><h3>Queen's Own
+</p><div class="center"><h3>Queen's Own
 <br/>
 The Official Mercedes Lackey Fan Club
 <br/>
 P.O. Box 749
 <br/>
-Laguna Beach, CA  92652 USA</h3></center>
+Laguna Beach, CA  92652 USA</h3></div>
 <p>
 This is the handout you want to use if you wish to develop a Guard, Mercenary or other soldier-type persona.  (Note:  There is a second way to develop a Guard persona using the <a href="/blues-handout/#guard">Blue Handout</a>.  There is a second way to develop a Mercenary on the <a href="/guild-handout/">Guild Handout</a>.)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>Basic Requirements</h2>
 <p>
@@ -39,8 +39,8 @@ This is the handout you want to use if you wish to develop a Guard, Mercenary or
 <p>
 Mercenaries, Guard recruits and common troopers might have a Gift of some sort, but it would be very rare (about 1 in 100). Roll percentile dice for your chance. If you get a 100, then you have a Gift. If you get a Gift, roll 2 six-sided die to determine which Gift you get.
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>2:</td>
 <td>Fire Starting</td>
@@ -74,13 +74,13 @@ Mercenaries, Guard recruits and common troopers might have a Gift of some sort, 
 <td>Foresight</td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 You are on your honor to roll one time and one time only for your persona's Gift. If you don't have percentile dice, check with one of your friends who plays role-playing games or check in a game- or bookstore that sells supplies for those games.
 </p><p>
 Note that all of these Gifts are extremely limited or at low strength, otherwise the character would have become a Healer, been Chosen as a Herald or wound up in some similar profession more appropriate to the Gift.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>II.  Develop a Character</h2>
 <p>
@@ -91,9 +91,9 @@ This biography should include appearance,
 personality, likes and dislikes, and emotional make-up. All the
 things that make you a unique character, in other words.
 </p><p>
-If you are one of those rare folks who has a Gift, remember to set your story <font color="red">before</font> your Gift manifests.  A mercenary or Guard or soldier must learn to deal with whatever Gift manifests; the character should not have his/her life designed around the Gift.  (10 Points.)
+If you are one of those rare folks who has a Gift, remember to set your story <span class="c-red">before</span> your Gift manifests.  A mercenary or Guard or soldier must learn to deal with whatever Gift manifests; the character should not have his/her life designed around the Gift.  (10 Points.)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>III.  Develop One or More Friend or Relative Characters</h2>
 <p>
@@ -101,7 +101,7 @@ Write a brief description of people close to you to help develop your character.
 </p><p>
 These are people you know well, so you know their traits, characteristics, faults, etc., but you don't need a great deal of detail.(5 Points)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>IV. Extra Point Requirements (5 points each)</h2>
 <p>
@@ -123,16 +123,16 @@ Choose and complete the requirements for two (minimum) of the following:
 </li><li>Learn to ride.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
-</p><center><h2>When you acquire 25 points, you will be considered
-a qualified trooper.</h2></center>
+</p><div class="center"><h2>When you acquire 25 points, you will be considered
+a qualified trooper.</h2></div>
 (Note:  As an alternative to describing yourself as a mercenary, you may identify a persona created according to this handout as a Guardsman or other basic type of military figure.)
 <p>
-<font color="red">Exception</font>:  If you are a police officer or firefighter you may automatically claim full Mercenary or Guard status.  However, please
+<span class="c-red">Exception</span>:  If you are a police officer or firefighter you may automatically claim full Mercenary or Guard status.  However, please
 develop your Velgarth persona so others may interact with you in character.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>Special Notes for Members of the Military</h2>
 <p>
@@ -144,7 +144,7 @@ develop your Velgarth persona so others may interact with you in character.
 <p>
 If you have additional questions, check out the <a href="/military-faq/">Military</a> FAQ.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><a id="advance"></a><h2>Advanced Rank</h2>
 <p>
@@ -172,21 +172,21 @@ For those of you who would like to qualify as a member of the Palace Guard, comp
 <li>Write a 20-page paper on the role of the Secret Service in protecting the President of the United States.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>Pending Chat List</h2>
 <p>
 Have additional questions about persona creation?  Join the "Pending List" at
 </p><p>
-</p><center>[This list is not currently working.  We hope to reestablish it soon.  In the meantime, you can send questions directly to Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.]</center>
+</p><div class="center">[This list is not currently working.  We hope to reestablish it soon.  In the meantime, you can send questions directly to Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.]</div>
 <p>
 The Pending list is a place for people to ask questions about the handouts, requirements, process of developing a persona, and so forth.  It is not a book discussion list.  The <a href="/club-chat/">QO list rules</a> apply to this list as well.
 </p><p>
 Zhai'helleva,<br/>
 <a href="mailto:Legend@malcor.com">Herald-Mage Adept Danya Winterborn</a>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

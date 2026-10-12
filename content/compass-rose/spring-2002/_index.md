@@ -16,24 +16,24 @@ canonical_path = "/compass-rose/spring-2002/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-</font><center><img alt="The Compass Rose" border="0" loading="lazy" src="/comprose.jpg"/></center>
+<span class="ff-times fs-4">
+</span><div class="center"><img alt="The Compass Rose" loading="lazy" src="/comprose.jpg"/></div>
 <p>
-</p><center><h2>The Compass Rose</h2></center>
-<center><h2>Volume 2, Issue 1</h2></center>
-<center><h2>Spring 2002</h2></center>
-<p align="right">
+</p><div class="center"><h2>The Compass Rose</h2></div>
+<div class="center"><h2>Volume 2, Issue 1</h2></div>
+<div class="center"><h2>Spring 2002</h2></div>
+<p class="align-right">
 ISSN [Pending]
-</p><p align="left">
-</p><center><hr/></center>
+</p><p class="align-left">
+</p><div class="center"><hr/></div>
 <p>
-</p><center>
-<table border="5" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<th align="left" valign="middle"><font face="Times New Roman" size="4"><h2><a href="/compass-rose/spring-2002/editorial/">A Letter from the Editor</a></h2></font></th>
+<th class="align-left valign-middle"><span class="ff-times fs-4"><h2><a href="/compass-rose/spring-2002/editorial/">A Letter from the Editor</a></h2></span></th>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Times New Roman" size="4"><h2>Articles</h2>
+<td class="align-left valign-middle"><span class="ff-times fs-4"><h2>Articles</h2>
 <ul>
 <li><h2><a href="/compass-rose/spring-2002/music-in-medieval-ireland/">Sources of Information on Music in Medieval Ireland</a></h2>
 by Laura Felton
@@ -50,10 +50,10 @@ by Kendra Renaud, Great Falls, MT
 Abstract:  Although censorship exists in every form of media in today's society, censorship in our public and school libraries is particularly offensive.  How does this kind of censorship sustain itself and how can its presence be explained?  What is the history of this phenomenon?  How did it evolve and become what it is now?  What kind of countermovement or backlash has arisen to oppose censorship?  These questions, as well as my own position on this issue will be discussed.
 </p><p>
 </p></li></ul>
-</font></td>
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font face="Times New Roman" size="4"><h2><a href="/compass-rose/spring-2002/reviews/">Reviews</a></h2>
+<td class="align-left valign-middle"><span class="ff-times fs-4"><h2><a href="/compass-rose/spring-2002/reviews/">Reviews</a></h2>
 <p>
 </p><h2><a href="/compass-rose/spring-2002/reviews/#fiction">Fiction</a></h2>
 <p>
@@ -79,25 +79,25 @@ Abstract:  Although censorship exists in every form of media in today's society,
 </p><ul>
 <li><h3><a href="/compass-rose/spring-2002/reviews/#restore"><i>Restoration</i></a></h3>
 </li></ul>
-</font></td>
+</span></td>
 </tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>
+</p><div class="center">
 <h2>Instructions for Navigating this Issue</h2>
-</center>
+</div>
 <p>
 There are a variety of ways that you can read <i>The Compass Rose</i>.  If you like to page through as you would a magazine, start with the link below, which takes you to the first item in the Table of Contents.  Articles are split into a file of text and a file of notes and references.  Click on note numbers to be taken to the appropriate note or the citation to be taken to the correct entry in the References Cited list.  The "Notes" link at the bottom of an article will take you to all the notes for that article, just as the "References" link will take you
 to the References Cited list.  "Next" links will take you to the next item on the Table of Contents.  The "Table of Contents" link brings you back to this page, and the "Return to Homepage" link takes you to the main index page for <i>The Compass Rose</i>.  If at any time you wish to return to the page you have just left (perhaps after viewing a note), simply click on your "Back" button on your browser.  If you have any questions about how to navigate the issue, please contact <a href="mailto:Legend@malcor.com?subject=Navigation">Legend@malcor.com</a>.
 </p><p>
-</p><center>
+</p><div class="center">
 <hr/>
-</center>
+</div>
 <p>
-</p><center>
+</p><div class="center">
 <h2>Legal Notices</h2>
-</center>
+</div>
 <p>
 All files in this issue are offered to Internet users free of charge under the following conditions:
 Internet users may maintain one electronic copy and one print copy of the file for use by members of the
@@ -116,7 +116,7 @@ USA
 </p><p>
 ©2002 <i>The Compass Rose</i>.  All rights reserved.
 </p><p>
-</p><center>
+</p><div class="center">
 <hr/>
-</center>
+</div>
 </div>

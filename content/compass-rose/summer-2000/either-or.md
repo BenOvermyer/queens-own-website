@@ -15,23 +15,23 @@ canonical_path = "/compass-rose/summer-2000/either-or/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
-</p></font><center><font size="7">Either Or</font></center>
+</p></span><div class="center"><span class="fs-7">Either Or</span></div>
 <p>
-</p><center><h2>by</h2></center>
+</p><div class="center"><h2>by</h2></div>
 <p>
-</p><center><h2><a href="mailto:healermoon@gmail.com">Kendra Renaud</a></h2></center>
+</p><div class="center"><h2><a href="mailto:healermoon@gmail.com">Kendra Renaud</a></h2></div>
 <p>
-[<font color="red">Warning</font><font face="Times New Roman" size="4">: Because of the nature of this topic, some of the material in this paper may be deemed unsuitable for children to read. Discretion is advised.]
+[<span class="c-red">Warning</span><span class="ff-times fs-4">: Because of the nature of this topic, some of the material in this paper may be deemed unsuitable for children to read. Discretion is advised.]
 <p>
 [Contextual note:  This paper was written in 1997 when <i>Ellen</i> was still on the air.  Some of the details contained herein are now out of date.]
 </p><p>
@@ -52,17 +52,17 @@ Even those interested in both sexes, such as actress Anne Heche whom is now open
 <p>
 What is it that makes us who we are?  By what means do we define ourselves?  Is it through our relationships that meaning is found?  Is it through defining our maleness and femaleness?  We are raised in our time, in our culture, to believe that we should be attracted to one sex, and even then only to the opposite sex.  While being attracted to the same sex can be difficult to come to terms with, a community exists in which even these individuals can find support and perhaps even a sense of self.  What happens if someone finds themselves attracted to both sexes?  Where would these individuals fit into our society?  These are the fence sitters that are attracted to the inside, the true makings of the person, not necessarily the outside covering or gender.  These are the bisexuals.
 </p><p>
-</p></font></p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p></span></p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="10%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/reviews/">Next</a></font></td>
-<td align="center" valign="top" width="25%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/either-or/references/">References Cited</a></font></td>
-<td align="center" valign="top" width="35%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></font></td>
-<td align="center" valign="top" width="30%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td></tr>
+<td class="align-center valign-top" style="width:10%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/reviews/">Next</a></span></td>
+<td class="align-center valign-top" style="width:25%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/either-or/references/">References Cited</a></span></td>
+<td class="align-center valign-top" style="width:35%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></span></td>
+<td class="align-center valign-top" style="width:30%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© Kendra Renaud 2000.  All rights reserved.</center>
+</p><div class="center">© Kendra Renaud 2000.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</div>
 </div>

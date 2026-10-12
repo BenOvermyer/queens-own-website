@@ -14,53 +14,53 @@ canonical_path = "/world-reference-guide/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>Just the FAQs</h2></center>
-<center><h3>(Revised 3/26/02)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>Just the FAQs</h2></div>
+<div class="center"><h3>(Revised 3/26/02)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/pegasus.gif"/></div>
 <p>
 We don't claim to have the answer to everything you've ever wanted to know about Velgarth, but we think we've made a respectable dent &lt;g&gt;:
-</p><p></p><center>
-<table border="5" cellpadding="2" cellspacing="2" width="90%">
+</p><p></p><div class="center">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:90%">
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/bards-faq/">Bards and Music</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/blues-and-blue-bloods-faq/">Blues and Blue Bloods</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/cooking-velgarth-style/">Cooking, Velgarth Style</a></font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/bards-faq/">Bards and Music</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/blues-and-blue-bloods-faq/">Blues and Blue Bloods</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/cooking-velgarth-style/">Cooking, Velgarth Style</a></span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/fauna-faq/">Fauna</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/plants-faq/">Flora</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/garb-faq/">Garb</a></font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/fauna-faq/">Fauna</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/plants-faq/">Flora</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/garb-faq/">Garb</a></span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/gifts-faq/">Gifts</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/guilds-faq/">Guilds</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/healers-faq/">Healers and Healing</a></font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/gifts-faq/">Gifts</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/guilds-faq/">Guilds</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/healers-faq/">Healers and Healing</a></span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/heralds-faq/">The Heralds of Valdemar</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/magic-of-velgarth/">The Magic of Velgarth</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/military-faq/">Military Units</a></font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/heralds-faq/">The Heralds of Valdemar</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/magic-of-velgarth/">The Magic of Velgarth</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/military-faq/">Military Units</a></span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/northern-barbarians-faq/">Northern Barbarians</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/club-faq/">Queen's Own</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/religions-faq/">Religion</a></font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/northern-barbarians-faq/">Northern Barbarians</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/club-faq/">Queen's Own</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/religions-faq/">Religion</a></span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/shina-in-faq/">The Shin'a'in</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/tayledras-faq/">The Tayledras</a></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"><a href="/travel-guide/">Travel Guide</a></font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/shina-in-faq/">The Shin'a'in</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/tayledras-faq/">The Tayledras</a></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"><a href="/travel-guide/">Travel Guide</a></span></td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 Still can't find what you want to know?  Try our Queen's Own <a href="/fun-stuff/">Funstuff</a> page!
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

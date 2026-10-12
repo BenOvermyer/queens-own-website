@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 3, No. 4<br/>
-April 1, 2002</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 3, No. 4<br/>
+April 1, 2002</h2></div>
 <p>
-</p><center><img align="center" alt="Morrigan 2 by Laura Cameron" border="5" loading="lazy" src="/qo116.jpg"/></center>
+</p><div class="center"><img alt="Morrigan 2 by Laura Cameron" class="float-center border-5" loading="lazy" src="/qo116.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -67,7 +67,7 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><ol>
 <li><b>When did you join Queen's Own?</b>
@@ -111,7 +111,7 @@ Gosh, I just graduated in December with a BA in psychology.  It took me 11 years
 I�ve already suggested some things to our editors/owners.  I would love to see more interaction.  Have Misty answer questions, write a note for each or every other newsletter.  How about an article from Judith?  Why she did it, how it felt doing all that hard work, what she felt was rewarding.  How did it feel giving it all up?  Does she keep in touch with anyone?  More stuff than what we have now.  Reviews of Misty�s books, opinions, other authors people think are great and why.  I think it should all be in one thing not spread out all over the place.  We have chat groups, the newsletter and minizines everywhere.  How about coming together to make this list the best and brightest.  How about Q&amp;A with other fantasy authors?  What they are into?  What are their latest books, etc.?  There are lots of authors on the Net out there, or there should be ways to contact them.  The old list used to get me excited when I saw a preview for something that was coming out from Misty.  I also met and got to meet a lot of cool people through the fan messages section.  I still talk to some of them now.  I know Misty has lots of fans out there.  Why not advertise our group in the back of her books? [Ed. Note:  We�ve asked DAW about that several times, updating those ads in the back of the books and adding the ad to the new books.  DAW has not responded to our queries.]  That�s how I found out about QO and Judith.  It seems like there is a disconnect between Misty and the group.  I also belong to a Tanya Huff group, and there we get info on where she is appearing what books she is working on next and an estimated time of arrival.  I also used to belong to P.N. Elrod�s fan club, and she would write in each newsletter, answer fan questions and interact. She even wrote me a letter once, which was really great and exciting.   I just want this group to be the best that it can be and Linda and Kenny can�t do it alone; it needs to be everyone pitching in.  What do other people want to see?  What are your ideas for bringing in new blood and making people interested enough?   Anyway, that�s enough about me and my opinions.  Feel free to E-mail me at <a href="mailto:massage@ericdooley.com">massage@ericdooley.com</a> with comments or questions.
 </p></li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
@@ -430,7 +430,7 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div><p>
 </p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 </p><p>
@@ -472,8 +472,8 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>. The Typo-Dragon Giveaway contest has begun. To win you need to be a member of HC and send in something to print (story, recipe etc.) with your name, address, city, state and zip. (Phone number optional).  Deadline is Dec. 15, 2001.  Also, if anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 
 </li></ul><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
-</p><center><img alt="Forest by Laura Cameron" border="5" loading="lazy" src="/qo117.jpg"/></center><p>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div><p>
+</p><div class="center"><img alt="Forest by Laura Cameron" class="border-5" loading="lazy" src="/qo117.jpg"/></div><p>
 </p><h2>Other Fandoms:</h2><p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
@@ -557,11 +557,11 @@ Zhai�helleva,
 </p><p>
 Danya
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
-The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <span class="c-red">don't place a fan message</span>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
 </p><p>
@@ -572,7 +572,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li>From <b>Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc</b> <a href="mailto:dragonfodder@gmail.com">dragonfodder@gmail.com</a>.  22-year-old college grad going back for her Master's in Ecology in the fall.  Loves reading, writing, fandom, Scooby-Doo and comic books.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -583,7 +583,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -606,10 +606,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></g></p>
 </div>

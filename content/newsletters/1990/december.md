@@ -17,13 +17,13 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. IV, No. 3<br/>
-December 1990</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. IV, No. 3<br/>
+December 1990</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
@@ -91,42 +91,42 @@ Your archivist, <b>Patricia Riggs</b>, has emerged from her record keeping long 
 </p><p>
 According to Pat, the number of Heralds with each gift is:
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2" width="30%">
+</p><table class="cellpadding-2 cellspacing-2" style="width:30%">
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4">Mindspeech</font></td>
-<td align="right" valign="top"><font face="Bookman Old Style" size="4">51</font></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4">Mindspeech</span></td>
+<td class="align-right valign-top"><span class="ff-bookman fs-4">51</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4">Fetching </font></td>
-<td align="right" valign="top"><font face="Bookman Old Style" size="4">23</font></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4">Fetching </span></td>
+<td class="align-right valign-top"><span class="ff-bookman fs-4">23</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4">Farsight </font></td>
-<td align="right" valign="top"><font face="Bookman Old Style" size="4">15</font></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4">Farsight </span></td>
+<td class="align-right valign-top"><span class="ff-bookman fs-4">15</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4">Foresight </font></td>
-<td align="right" valign="top"><font face="Bookman Old Style" size="4">10</font></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4">Foresight </span></td>
+<td class="align-right valign-top"><span class="ff-bookman fs-4">10</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4">Empathy </font></td>
-<td align="right" valign="top"><font face="Bookman Old Style" size="4">12</font></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4">Empathy </span></td>
+<td class="align-right valign-top"><span class="ff-bookman fs-4">12</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4">Animal Mindspeech </font></td>
-<td align="right" valign="top"><font face="Bookman Old Style" size="4">11</font></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4">Animal Mindspeech </span></td>
+<td class="align-right valign-top"><span class="ff-bookman fs-4">11</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4">Firestarting </font></td>
-<td align="right" valign="top"><font face="Bookman Old Style" size="4">7</font></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4">Firestarting </span></td>
+<td class="align-right valign-top"><span class="ff-bookman fs-4">7</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4">Healing </font></td>
-<td align="right" valign="top"><font face="Bookman Old Style" size="4">6</font></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4">Healing </span></td>
+<td class="align-right valign-top"><span class="ff-bookman fs-4">6</span></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4">Mindhealing </font></td>
-<td align="right" valign="top"><font face="Bookman Old Style" size="4">5</font></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4">Mindhealing </span></td>
+<td class="align-right valign-top"><span class="ff-bookman fs-4">5</span></td>
 </tr>
 </table>
 <p>
@@ -195,7 +195,7 @@ Happy Holidays from the Louvis Family
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -213,10 +213,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

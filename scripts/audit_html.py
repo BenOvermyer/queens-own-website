@@ -37,11 +37,12 @@ BLOCK_ELEMENTS = {
     'main', 'nav', 'ol', 'p', 'pre', 'section', 'table', 'ul',
 }
 # Obsolete or presentation-only elements that modern HTML replaced with CSS.
-# `u` and `s` are intentionally excluded: they remain valid HTML5 elements.
+# `u` and `s` remain valid HTML5 elements; `xmp` is retained deliberately as the
+# code-sample element, so both are excluded.
 OBSOLETE_ELEMENTS = {
     'applet', 'basefont', 'big', 'blink', 'center', 'dir', 'font', 'frame',
     'frameset', 'isindex', 'marquee', 'menu', 'nobr', 'noembed', 'noframes',
-    'plaintext', 'strike', 'tt', 'xmp',
+    'plaintext', 'strike', 'tt',
 }
 # Attributes that carry presentation rather than meaning.
 PRESENTATIONAL_ATTRIBUTES = {

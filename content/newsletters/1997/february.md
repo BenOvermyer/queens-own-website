@@ -17,23 +17,23 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. X, No. 5<br/>
-February 1997</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. X, No. 5<br/>
+February 1997</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="Border Art" border="0" loading="lazy" src="/qo289.jpg"/>
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo289.jpg"/>
 <i>The Faces of Fantasy</i> is a collection of photographs of fantasy writers taken by Patti Perret.  Each author has a full page picture and a chance to say a few words.  There are photos of Marion Zimmer Bradley, Anne McCaffrey, Peter Beagle, Storm Constantine, Barbara Hambly, Emma Bull, Charles de Lint, Melanie Rawn and many, many more. Misty's photo shows her holding 'Kaika, her umbrella cockatoo.  Her write-up speaks of the importance of "paying forward.".  She and Larry feel that htere is no way for anyone to ever pay back all the good things that come along, so the best response is to pay <i>forward</i>, to give of oneself when needed.  This philosophy is reflected in their writing and in their care of wild birds.
 </p><p>
 <i>The Faces of Fantasy</i> is a large size paperback published by Tor and priced at [Ed. note 2005:  Out-of-date info withheld.].  For information of Tor Books on the World Wide Web, use [Ed. note 2005:  Out-of-date info withheld.].  (Buy <i>Faces</i> before Dragon*Con and play spot the author.)
@@ -120,7 +120,7 @@ The Pacific Northwest Collegium is looking for a new editor!  Charlene Ryan is r
 </p><p>
 Support our local chapters and our zines.  They can be an outlet for your talent as well as a great place to play and make more friends.
 </p><p>
-<img align="right" alt="Border Art" border="0" loading="lazy" src="/qo290.jpg"/>
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo290.jpg"/>
 </p><h2>COLLEGIUM NEWS:</h2>
 <p>
 We have individual handout sheets for the aspiring Herald, Bard, Healer, Tayledras, Shin'a'in, White Winds Sorcerer/ess, and Mercenary, and instructions on how to work for Herald-Mage status if you are already a Herald.  Not sure of what you want to be?  Extra point requirements vary on each handout according to the skills needed, but basic requirements are the same.  Create your persona's background and family and friends and let him/her grow.  You'll soon know.
@@ -161,7 +161,7 @@ Mailing Day Helper (last issue)--Steve Louvis.
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -179,10 +179,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

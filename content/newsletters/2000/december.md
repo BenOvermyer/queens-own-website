@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 1, No. 8<br/>
-December 1, 2000</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 1, No. 8<br/>
+December 1, 2000</h2></div>
 <p>
-</p><center><img alt="Herald Auralynn and Sabyll Riding Circuit by Jan Tallevast" border="3" loading="lazy" src="/qo40.jpg"/></center>
+</p><div class="center"><img alt="Herald Auralynn and Sabyll Riding Circuit by Jan Tallevast" class="border-3" loading="lazy" src="/qo40.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -43,7 +43,7 @@ Happy Hanukah, Merry Christmas, Blessed Yule, and Holiday Greetings to one and a
 </p><p>
 <b>Herald-Mage Master Danya Winterborn</b> and <b>Healer Adept Moonstar</b>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 From Mercedes Lackey:
 </p><p>
@@ -59,11 +59,11 @@ Thanks to all of you for good times in the last Millennium, and may there be mor
 </p><p>
 Misty
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
-</p><center><img align="left" alt="Herald Auralynn by Jan Tallevast" border="2" loading="lazy" src="/qo41.jpg"/></center>
+</p><div class="center"><img alt="Herald Auralynn by Jan Tallevast" class="float-left border-2" loading="lazy" src="/qo41.jpg"/></div>
 <p>
 Here are the faires we know about that are happening in December.  Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
 </p><p>
@@ -88,7 +88,7 @@ INGLESIDE RENAISSANCE FAIRE AND CHRISTMAS CRAFT BAZAAR.  E-mail: <a href="mailto
 </p><p>
 For additional Ren Faire information, visit the Renaissance Faire Homepage at <a href="http://www.renfaire.com/">http://www.renfaire.com/</a> and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
 </p><p>
-<img align="right" alt="Companions and Friends by Jan Tallevast" border="5" loading="lazy" src="/qo42.jpg"/></p><h2>Conventions:</h2>
+<img alt="Companions and Friends by Jan Tallevast" class="float-right border-5" loading="lazy" src="/qo42.jpg"/></p><h2>Conventions:</h2>
 <p>
 These are the upcoming cons we know about.  Have any information about conventions in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
@@ -148,9 +148,9 @@ HOGMANAYCON. E-mail: <a href="mailto:andy.nimmo@net.ntl.com">andy.nimmo@net.ntl.
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Frostbite by Jan Tallevast" border="3" loading="lazy" src="/qo43.jpg"/></center>
+</p><div class="center"><img alt="Frostbite by Jan Tallevast" class="border-3" loading="lazy" src="/qo43.jpg"/></div>
 <p>
 </p><h2>Member News:</h2>
 <p>
@@ -168,7 +168,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li><b>The Vanyel Fan Club</b>: The <i>Vanyel Fan Club</i> is a chapter of QO that started out as an independent fan organization.  The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage Trilogy</i> by Mercedes Lackey. E-mail: Herald Bastian, President aka Western Guardian (<a href="mailto:herald_bastian@hotmail.com">herald_bastian@hotmail.com</a>); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian (<a href="mailto:Legend@malcor.com">Legend@malcor.com</a>); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian (<a href="mailto:healermoon@gmail.com">healermoon@gmail.com</a>).  (The position of Southern Guardian, editor of the VFC newsletter, is currently open.  Several people are interviewing for it.)  There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine.  For more information, see the VFC website at <a href="/vanyel-fan-club/">/vanyel-fan-club/</a>.
 </li></ul>
 <p>
-</p><center><img align="right" alt="Flying Gryphon by Jan Tallevast" border="3" loading="lazy" src="/qo44.jpg"/></center>
+</p><div class="center"><img alt="Flying Gryphon by Jan Tallevast" class="float-right border-3" loading="lazy" src="/qo44.jpg"/></div>
 <p>
 </p><h3>Zines and Newsletters:</h3>
 <p>
@@ -182,19 +182,19 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li><b><i>Dreamscape</i></b>.  Editor: Laura Cameron, Pacific Northwest Collegium.  E-mail: <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.  A 'zine totally devoted to fantasy art and artists is looking for submissions: black &amp; white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world.  The frequency--and size of the 'zine depends on the amount of submissions and interest.  The first issue will be out in the Spring of 2001! Approx.  20 pp., $10. Contributors get a $2 discount!  If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at the above address (Please include a SASE when requesting information via snail mail.).  Please stay tuned for more information!
 <p>
 </p></li><li><b><i>Golden Grove</i>:</b> Editor: Theresa Young.  E-mail: <a href="mailto:minna@adelphia.net">minna@adelphia.net</a>.  A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year.  Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at <a href="/golden-grove/">/golden-grove/</a> for more information.<p>
-</p><center>
-<img alt="Merry X-mas from GG" border="5" loading="lazy" src="/qoxmasgg.jpg"/>
-</center>
+</p><div class="center">
+<img alt="Merry X-mas from GG" class="border-5" loading="lazy" src="/qoxmasgg.jpg"/>
+</div>
 <p>
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
-</p><center><img align="right" alt="Purple Gryphon by Jan Tallevast" border="5" loading="lazy" src="/qo46.jpg"/>
-</center>
+</p><div class="center"><img alt="Purple Gryphon by Jan Tallevast" class="float-right border-5" loading="lazy" src="/qo46.jpg"/>
+</div>
 <p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
@@ -232,7 +232,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 </li></ul>
 <p>
-<img align="left" alt="Gryphonlet by Jan Tallevast" border="5" loading="lazy" src="/qo45.jpg"/></p><h3>From Herald-Mage Master Danya Winterborn:</h3>
+<img alt="Gryphonlet by Jan Tallevast" class="float-left border-5" loading="lazy" src="/qo45.jpg"/></p><h3>From Herald-Mage Master Danya Winterborn:</h3>
 <p>
 Heyla and Happy Holidays, One and All!
 </p><p>
@@ -250,12 +250,12 @@ Zhai'helleva,
 </p><p>
 Danya
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
-<img align="right" alt="Kearie by Jan Tallevast" border="3" loading="lazy" src="/qo47.jpg"/></p><p>
-The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+<img alt="Kearie by Jan Tallevast" class="float-right border-3" loading="lazy" src="/qo47.jpg"/></p><p>
+The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <span class="c-red">don't place a fan message</span>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
 </p><p>
@@ -267,7 +267,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </li><li>From <b>Healer Adept Moonstar</b>. Needed February '88 through March '91, Queen's Own newletters.  I am creating an archive for the club, and as you can see we are listing all the approved personas on the site.  Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA  92652.  Thank you very much.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -279,7 +279,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 <li>Heyla to <b>all</b> :) From <b>Kathleen McGaw</b> aka <b>Herald Gwen Katran</b>: Happy Holidays! To all those I have lost touch with. Through a huge mess of packing up, moving, taking boards and my computer crashing, I have lost touch (and e-mail addresses) with people I was writing this summer. Please write me at my new address (as my school one will be deleted next month): <a href="mailto:LadyKent@wildmail.com">LadyKent@wildmail.com</a>. Hope everyone enjoys this festive season no matter what your affiliations or beliefs. WTTW.
 </li></ahref="mailto:garou@netspeed.com.au"></li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -302,10 +302,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

@@ -17,27 +17,27 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 2, Vol. I, No. 4<br/>
-March 13, 1999</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 2, Vol. I, No. 4<br/>
+March 13, 1999</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-</p><center><img alt="Queen's Own/Merging of the Ways" border="0" loading="lazy" src="/qo179.jpg"/></center>
-<center><h2>The Official Mercedes Lackey Fan Club</h2></center>
+</p><div class="center"><img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/></div>
+<div class="center"><h2>The Official Mercedes Lackey Fan Club</h2></div>
 <p>
-<img align="right" alt="Queen's Own/Merging of the Ways" border="0" loading="lazy" src="/qo226.jpg"/>The Official Mercedes Lackey Fan Club I PO Box 56956, Sherman Oaks, CA 91403 1 Volume I #4, January 23, 1999
+<img alt="Queen's Own/Merging of the Ways" class="float-right" loading="lazy" src="/qo226.jpg"/>The Official Mercedes Lackey Fan Club I PO Box 56956, Sherman Oaks, CA 91403 1 Volume I #4, January 23, 1999
 Release date 4/99, Baen Paperback $6.99
 Lope through the night with a young woman who has been given the power to transform herself into a leop�ard, but who now finds herself pursued by a hunter who is more than human. Follow the adventures of Skitty, ship's cat extraordinaire, and telepathic problem-solver. Ride with a late night driver on a soli�tary road who learns that what appears to be a piece of cardboard blowing across the road is actually some�thing very sinister in disguise. Join Lackey's cele�
 brated occult detective Diana Tregarde as she attends a gathering of romance writ�ers and encounters a visitor whose passionate desire is for fresh, warm blood. Re�turn to the world of the Heralds of Valdemar. And there's much more.
 </p><p>
-<img align="left" alt="Werehunter" border="0" loading="lazy" src="/ml55.gif"/>In the short span of a few years, Mercedes Lackey has risen from an exciting new talent to a reigning super�star of fantasy. Last year's Fiddler Fair was a show�case of the wide scope of her talent, ranging from fan�tasy to science fiction, from screwball humor to macabre supernatural terror. Now comes the successor to that top-selling volume, <i>Werehunter</i>.
+<img alt="Werehunter" class="float-left" loading="lazy" src="/ml55.gif"/>In the short span of a few years, Mercedes Lackey has risen from an exciting new talent to a reigning super�star of fantasy. Last year's Fiddler Fair was a show�case of the wide scope of her talent, ranging from fan�tasy to science fiction, from screwball humor to macabre supernatural terror. Now comes the successor to that top-selling volume, <i>Werehunter</i>.
 </p><p>
 <i>Urban Nightmares</i>, paperback Baen $5.99.  Your darkest fears are lurking in your building lobby, in the mall parking lot, on the street where you live, or be�low those same streets.  You may be wondering why Josepha Sherman is in�cluded in this issue of the newsletter. Well, I spoke with Misty and she would like me to include some of my other favorite authors, which are Josepha Sherman, Mark Shepherd and Holly Lisle. You will see more of their re�leases and convention schedules as I get information. I personally am glad to expand the focus of this newsletter to include such wonderful writers. I hope you don't mind the change too much!
 </p><p>
@@ -45,25 +45,25 @@ Robin - Herald Seneschal
 </p><p>
 Remember, the newsletter is now available in email format for only $4.00 per year, no matter where you are in the world. If you would like to change to emaii format, either email me or mail me with your snail mail and your email address?!
 </p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top"> Firebird Arts and Music carries all of Misty's books and lots of other merchandise. From Babylon 5 soundtracks to I  Larry's art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood  ! characters to doll-size costume patterns for Heralds &amp; Shin'a in.	From Oneida Indian Nation T-shirts to Celtic-design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music. [Ed. note 2004: Out-of-date contact info. withheld.]  Firebird does not answer inquiries from prison addresses. Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.</td>
+<td class="align-left valign-top"> Firebird Arts and Music carries all of Misty's books and lots of other merchandise. From Babylon 5 soundtracks to I  Larry's art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood  ! characters to doll-size costume patterns for Heralds &amp; Shin'a in.	From Oneida Indian Nation T-shirts to Celtic-design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music. [Ed. note 2004: Out-of-date contact info. withheld.]  Firebird does not answer inquiries from prison addresses. Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.</td>
 </tr>
 <tr>
-<td align="left" valign="top">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at tempest <a href="mailto:rock@hotmail.com">rock@hotmail.com</a>.</td>
+<td class="align-left valign-top">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at tempest <a href="mailto:rock@hotmail.com">rock@hotmail.com</a>.</td>
 </tr>
 <tr>
-<td align="left" valign="top">For definitions of our fannish jargon, read "Pros &amp;am[; Cons: An Introduction to Fandom" written by Elizabeth Barrette. [Ed. note 2004:  Out-of-date oder info. withheld.] to the QO address for this 12 page booklet.	   </td>
+<td class="align-left valign-top">For definitions of our fannish jargon, read "Pros &amp;am[; Cons: An Introduction to Fandom" written by Elizabeth Barrette. [Ed. note 2004:  Out-of-date oder info. withheld.] to the QO address for this 12 page booklet.	   </td>
 </tr>
 <tr>
-<td align="left" valign="top"><i>Flights of Fantasy</i> [Ed. note 2004:  Out-of-date info. withheld.] specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games.	 Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list -
+<td class="align-left valign-top"><i>Flights of Fantasy</i> [Ed. note 2004:  Out-of-date info. withheld.] specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games.	 Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list -
 she'll do her best for you! For orders outside the 518 area code, [Ed. note 2004:  Out-of-date oder info. withheld.]. Webpage <a href="http://www.fof.net">http://www.fof.net</a>, E-mail: <a href="mailto:fof@albany.net">fof@albany.net</a>. <i>Flights of Fantasy</i> accepts orders from inmates.</td>
 </tr>
 <tr>
-<td align="left" valign="top">The release of the booklet <i>Sink or Swim</i>, a helpful guide for aspiring editors, is temporarily postponed. If you are an editor whose submission did not make it in (either you missed the deadline, never answered the questionnaire, or never received a questionnaire), you still have a chance. Copies of the questionnaire are available for free, no SASE needed (you do need a letter saying that you'd like a copy, though). Send your advice, questions, or requests to: Aurora Nelson/Rea Wildfire [Ed. note 2004:  Out-of-date oder info. withheld.]. The new deadline is February	1, 1999. The booklet will be available starting March 1, 1999 for between one and two dollars.</td>
+<td class="align-left valign-top">The release of the booklet <i>Sink or Swim</i>, a helpful guide for aspiring editors, is temporarily postponed. If you are an editor whose submission did not make it in (either you missed the deadline, never answered the questionnaire, or never received a questionnaire), you still have a chance. Copies of the questionnaire are available for free, no SASE needed (you do need a letter saying that you'd like a copy, though). Send your advice, questions, or requests to: Aurora Nelson/Rea Wildfire [Ed. note 2004:  Out-of-date oder info. withheld.]. The new deadline is February	1, 1999. The booklet will be available starting March 1, 1999 for between one and two dollars.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Come one! Come all! If you haven't seen the wonders created by Ellen Million Graphics and her band of artists yet, then this is the moment to do so! The new `981'99 full catalog is out. and it is a MUST SEE! Come, experience the enchantment when fantasy be� comes reality on quality, affordable FANTASY STATIONARY from EMG! An assortment of new designs in beautiful ink and pen� cil artwork, exclusively ours, on an array of partly recycled colored paper! We offer: stationary, cards, bookmarks, magnets, address	labels, scratch pads, (new!) coloring books, and growing!! We are your source for quality fantasy products!!! No SASE needed; just write and ask for your first FREE catalog! Custom work available; all inquiries:Ellen Million Graphics [Ed. note 2004:  Out-of-date oder info. withheld.  See a current newsletter for oder details]. (Dealer inquiries welcome!)</td>
+<td class="align-left valign-top">Come one! Come all! If you haven't seen the wonders created by Ellen Million Graphics and her band of artists yet, then this is the moment to do so! The new `981'99 full catalog is out. and it is a MUST SEE! Come, experience the enchantment when fantasy be� comes reality on quality, affordable FANTASY STATIONARY from EMG! An assortment of new designs in beautiful ink and pen� cil artwork, exclusively ours, on an array of partly recycled colored paper! We offer: stationary, cards, bookmarks, magnets, address	labels, scratch pads, (new!) coloring books, and growing!! We are your source for quality fantasy products!!! No SASE needed; just write and ask for your first FREE catalog! Custom work available; all inquiries:Ellen Million Graphics [Ed. note 2004:  Out-of-date oder info. withheld.  See a current newsletter for oder details]. (Dealer inquiries welcome!)</td>
 </tr>
 </table>
 <p>
@@ -71,9 +71,9 @@ PERS0NALS -	[Ed. note 2004:  Personals withheld because of their private and out
 </p><p>
 PEN-PALS [Ed. note 2004:  Pen-Pals section withheld because of their private and out-dated content.]
 </p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 <h2> LOCAL CHAPTERS</h2>
 <p>
 <b>Arrows OnLine</b> - [Ed. note 2004:  Out-dated contact information withheld.]
@@ -95,9 +95,9 @@ A slender woman, Healer Cinnamon, with long curly hair the colour of her name, s
 </p><h2>Heralds, Healers and other now recognized personas!!</h2><p>
 Alas, there are no new personas to recognize this newsletter ...</p><p>
 Do you too want to become a Herald, Healer, or another of Misty's characters?? Please write me for the infor�mation sheets and I will be glad to send them to you. If possible, please send a SASE for my reply!!</p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 <h2>Other Fandoms</h2>
 <p>
 <i>Marion Zimmer Bradley's Fantasy Magazine</i>. Open it up and find stories that transport you from everyday into a magical place populated by fantastic beings and governed by mystical forces. [Ed. note 2004:  Out-of-date subscription information withheld.]</p><p>
@@ -131,7 +131,7 @@ Editor and President - Robin Ready [Ed. note 2004:  Out-of-date info. withheld.]
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -151,10 +151,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></td></tr></table>
 </div>

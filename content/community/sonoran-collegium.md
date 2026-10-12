@@ -15,12 +15,12 @@ canonical_path = "/sonoran-collegium/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Sonoran Collegium</h2></center>
-<center><h2>The Southwest Chapter of Queen's Own</h2></center>
-<center><h3>(Revised 7/17/02)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Sonoran Collegium</h2></div>
+<div class="center"><h2>The Southwest Chapter of Queen's Own</h2></div>
+<div class="center"><h3>(Revised 7/17/02)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/pegasus.gif"/></div>
 <p>
 Our Region:     THE SOUTHWEST<br/>
 (Arizona, New Mexico, Oklahoma, Texas)<br/>
@@ -52,23 +52,23 @@ get together a filk group? Maybe have our own
 gathering just to jam and share music?!
 </li></ul>
 <p>
-<font size="3">
+<span class="fs-3">
 Sonoran Collegium is the Southwest chapter of <a href="/">Queen's Own</a>, the official
 Mercedes Lackey Appreciation newsletter.  No infringements of her or
 anyone else's copyrights is intended.  Sonoran Collegium's not-for-profit
 fan newsletter will be published by Laura Felton.
 <p>
-</p></font>
+</p></span>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 <!--Begin Queen's Own Official Webring Fragment-->
 </p><p>
-</p><table align="center" border="5" cellpadding="2" cellspacing="2" width="50%">
+</p><table class="border-5 cellpadding-2 cellspacing-2 table-align-center" style="width:50%">
 <tr>
-<td align="center" valign="middle" width="20%"><font face="Harem" size="2">
-<a href="/club-webring/"><img alt="Queen's Own" border="0" height="100" loading="lazy" src="/qoq.gif" width="80"/></a></font></td>
-<td align="center" valign="middle" width="60%">
+<td class="align-center valign-middle" style="width:20%"><span class="ff-harem fs-2">
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a></span></td>
+<td class="align-center valign-middle" style="width:60%">
 This<br/>
 <a href="/club-webring/">Queen's Own</a><br/>
 site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;prev5">Previous 5 Sites</a>
@@ -77,18 +77,18 @@ site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href=
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;next5">Next 5 Sites</a><br/>
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;random">Random Site</a>
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;list">List Sites</a>]</p></td>
-<td align="center" valign="middle" width="20%"><font face="Harem" size="2">
-<a href="/club-webring/"><img alt="Queen's Own" border="0" height="100" loading="lazy" src="/qoo.gif" width="80"/></a></font></td>
+<td class="align-center valign-middle" style="width:20%"><span class="ff-harem fs-2">
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a></span></td>
 </tr>
 </table>
 <!--End Queen's Own Official Webring Fragment-->
 <p>
-</p><center><img alt="" loading="lazy" src="/bardrgn2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bardrgn2.gif"/></div>
 <p>
-<font face="Harem">
+<span class="ff-harem">
 <p>
-<a href="/danya-winterborn/"><img alt="" border="0" loading="lazy" src="/butback.gif"/></a> <a href="/danya-winterborn/">Back to Danya Winterborn's Page</a>
+<a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> <a href="/danya-winterborn/">Back to Danya Winterborn's Page</a>
 </p><p>
-</p></font>
+</p></span>
 </p>
 </div>

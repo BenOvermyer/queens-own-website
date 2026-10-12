@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 3, No. 2<br/>
-February 1, 2002</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 3, No. 2<br/>
+February 1, 2002</h2></div>
 <p>
-</p><center><img align="center" alt="Gwen 1 by Gwenaelle Durand" border="0" loading="lazy" src="/qo101.jpg"/></center>
+</p><div class="center"><img alt="Gwen 1 by Gwenaelle Durand" class="float-center" loading="lazy" src="/qo101.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -47,7 +47,7 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><ol>
 <li><b>When did you join Queen's Own?</b>
@@ -90,9 +90,9 @@ At the time I ran QO, nothing!  My family was very tolerant of my "hobby."  Now 
 <p>
 Ah, that's for you young folks to decide. I would like to see fandom in general return to the goal of having fun and being an outlet for creativity.  Fandom is NOT a way of life; it's a way of play. All intelligent species need play!
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="left" alt="Gwen 2 by Gwenaelle Durand" border="5" loading="lazy" src="/qo102.jpg"/>
+<img alt="Gwen 2 by Gwenaelle Durand" class="float-left border-5" loading="lazy" src="/qo102.jpg"/>
 </p><p>
 </p><h2>Ren Faires:</h2>
 <p>
@@ -258,9 +258,9 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="right" alt="Tantris by Gwenaelle Durand" border="5" loading="lazy" src="/qo103.jpg"/></p><p>
+<img alt="Tantris by Gwenaelle Durand" class="float-right border-5" loading="lazy" src="/qo103.jpg"/></p><p>
 </p><h2>Member News:</h2>
 <p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
@@ -307,9 +307,9 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable).
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Lestat by Laura Felton" border="0" loading="lazy" src="/qo104.jpg"/></center>
+</p><div class="center"><img alt="Lestat by Laura Felton" loading="lazy" src="/qo104.jpg"/></div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
@@ -356,7 +356,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 </p></li><li>Welcome <b>Tayledras Mage Flameheart k�Chona</b> and her Bondbird Choni!  Flameheart has very strong Mindspeech and the ability to communicate with her bondbird, humans and other races.  <b>Rachel Kory</b> wrote about her persona and Flameheart�s family and friends, drew a picture of her bondbird and sent a poem.
 </li></ul>
 <p>
-<img align="right" alt="Davad by Janetta Maxwell" border="0" loading="lazy" src="/qo105.jpg"/></p><p>
+<img alt="Davad by Janetta Maxwell" class="float-right" loading="lazy" src="/qo105.jpg"/></p><p>
 </p><h3>From Herald-Mage Master Danya Winterborn:</h3>
 <p>
 Heyla, all!
@@ -376,11 +376,11 @@ Zhai�helleva,
 
 Danya
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
-The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <span class="c-red">don't place a fan message</span>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
 </p><p>
@@ -391,9 +391,9 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li>From <b>Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc</b> <a href="mailto:dragonfodder@gmail.com">dragonfodder@gmail.com</a>.  22-year-old college grad going back for her Master's in Ecology in the fall.  Loves reading, writing, fandom, Scooby-Doo and comic books.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="right" alt="Kiera by Janetta Maxwell" border="0" loading="lazy" src="/qo106.jpg"/></p><p></p><h2>Personals:</h2>
+<img alt="Kiera by Janetta Maxwell" class="float-right" loading="lazy" src="/qo106.jpg"/></p><p></p><h2>Personals:</h2>
 <p>
 </p><ul>
 <li><b>From White Winds Sorceress Cime Shadow Weaver.  To All.</b>  Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:)   I offer new items weekly.  <a href="http://www.ebaystores.com/shadowsofthegoddess">http://www.ebaystores.com/shadowsofthegoddess</a>.  My e-mail address is <a href="mailto:cimeshadow@aol.com">cimeshadow@aol.com</a>.<p>
@@ -403,7 +403,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -426,10 +426,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></li></ol>
 </div>

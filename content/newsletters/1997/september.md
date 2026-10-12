@@ -17,212 +17,212 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. XI, No. 1<br/>
-September 1997</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. XI, No. 1<br/>
+September 1997</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
 Here is the annual list of short stories by Misty:
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="90%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:90%">
 <tr>
-<td align="left" valign="top">"A Different Kind of Courage"</td>
-<td align="left" valign="top"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley, 1985 (This was Misty's first professional sale.)</td>
+<td class="align-left valign-top">"A Different Kind of Courage"</td>
+<td class="align-left valign-top"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley, 1985 (This was Misty's first professional sale.)</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Set a Thief"</td>
-<td align="left" valign="top"><i>Renunciates of Darkover</i>, ed. by MZB</td>
+<td class="align-left valign-top">"Set a Thief"</td>
+<td class="align-left valign-top"><i>Renunciates of Darkover</i>, ed. by MZB</td>
 </tr>
 <tr>
-<td align="left" valign="top">"An Object Lesson"</td>
-<td align="left" valign="top"><i>Domains of Darkover</i>, ed. by MZB, 1990</td>
+<td class="align-left valign-top">"An Object Lesson"</td>
+<td class="align-left valign-top"><i>Domains of Darkover</i>, ed. by MZB, 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Sword Sworn"</td>
-<td align="left" valign="top"><i>Sword &amp; Sorceress</i>, 3 ed. by MZB, 1986</td>
+<td class="align-left valign-top">"Sword Sworn"</td>
+<td class="align-left valign-top"><i>Sword &amp; Sorceress</i>, 3 ed. by MZB, 1986</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Tale of Heroes"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 4, 1987</td>
+<td class="align-left valign-top">"A Tale of Heroes"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 4, 1987</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Keys"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 5, 1988</td>
+<td class="align-left valign-top">"Keys"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 5, 1988</td>
 </tr>
 <tr>
-<td align="left" valign="top">"The Making of A Legend"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 6, 1990</td>
+<td class="align-left valign-top">"The Making of A Legend"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 6, 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"The Talisman"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 7, 1990</td>
+<td class="align-left valign-top">"The Talisman"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 7, 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Wings of Fire"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 8, 1991</td>
+<td class="align-left valign-top">"Wings of Fire"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 8, 1991</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Woman's Weapon"</td>
-<td align="left" valign="top"><i>S&amp;S</i> 9, 1992</td>
+<td class="align-left valign-top">"Woman's Weapon"</td>
+<td class="align-left valign-top"><i>S&amp;S</i> 9, 1992</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Friendly Fire"</td>
-<td align="left" valign="top"><i>S&amp;S10</i></td>
+<td class="align-left valign-top">"Friendly Fire"</td>
+<td class="align-left valign-top"><i>S&amp;S10</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Werehunter"</td>
-<td align="left" valign="top"><i>Tales of the Witchworld</i>, Vol 1 ed. by Andre Norton, 1987</td>
+<td class="align-left valign-top">"Werehunter"</td>
+<td class="align-left valign-top"><i>Tales of the Witchworld</i>, Vol 1 ed. by Andre Norton, 1987</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Death Angel" &amp; "Merovingen Ecology"</td>
-<td align="left" valign="top"><i>Merovingen Nights 1--Festival Moon</i>, ed. by C.J. Cherryh</td>
+<td class="align-left valign-top">"Death Angel" &amp; "Merovingen Ecology"</td>
+<td class="align-left valign-top"><i>Merovingen Nights 1--Festival Moon</i>, ed. by C.J. Cherryh</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Plague on Your Houses"</td>
-<td align="left" valign="top"><i>MN2, Fever Season</i>, 1987</td>
+<td class="align-left valign-top">"A Plague on Your Houses"</td>
+<td class="align-left valign-top"><i>MN2, Fever Season</i>, 1987</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Tangled Web We Weave"</td>
-<td align="left" valign="top"><i>MN3 Troubled Waters</i>, 1988</td>
+<td class="align-left valign-top">"A Tangled Web We Weave"</td>
+<td class="align-left valign-top"><i>MN3 Troubled Waters</i>, 1988</td>
 </tr>
 <tr>
-<td align="left" valign="top">"More Than Meets the Eye" &amp; "Merovingen Folklore"</td>
-<td align="left" valign="top"><i>MN4 Smuggler's Gold</i>, 1988</td>
+<td class="align-left valign-top">"More Than Meets the Eye" &amp; "Merovingen Folklore"</td>
+<td class="align-left valign-top"><i>MN4 Smuggler's Gold</i>, 1988</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Turning Point"</td>
-<td align="left" valign="top"><i>MNS Divine Right</i>, 1989</td>
+<td class="align-left valign-top">"Turning Point"</td>
+<td class="align-left valign-top"><i>MNS Divine Right</i>, 1989</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Don't Look Back" &amp; "Friends Like These"</td>
-<td align="left" valign="top"><i>MN6 Flood Tide</i>, 1990</td>
+<td class="align-left valign-top">"Don't Look Back" &amp; "Friends Like These"</td>
+<td class="align-left valign-top"><i>MN6 Flood Tide</i>, 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Proving Ground"</td>
-<td align="left" valign="top"><i>MN7 Endgame</i>, 1991</td>
+<td class="align-left valign-top">"Proving Ground"</td>
+<td class="align-left valign-top"><i>MN7 Endgame</i>, 1991</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Fiddler Fair"</td>
-<td align="left" valign="top"><i>Magic in Ithkar</i>, 3 ed. by Andre Norton, 1986</td>
+<td class="align-left valign-top">"Fiddler Fair"</td>
+<td class="align-left valign-top"><i>Magic in Ithkar</i>, 3 ed. by Andre Norton, 1986</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Balance" &amp; "Dragon's Teeth"</td>
-<td align="left" valign="top"><i>Spellsingers</i>, ed. by Alan Bard Newcomer</td>
+<td class="align-left valign-top">"Balance" &amp; "Dragon's Teeth"</td>
+<td class="align-left valign-top"><i>Spellsingers</i>, ed. by Alan Bard Newcomer</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Friend in Need" &amp; "Phantom of the Berry Patch"</td>
-<td align="left" valign="top"><i>Blood of Ten Chiefs, Vol 3: Winds of Change</i>, ed. by Richard Pini, 1988</td>
+<td class="align-left valign-top">"A Friend in Need" &amp; "Phantom of the Berry Patch"</td>
+<td class="align-left valign-top"><i>Blood of Ten Chiefs, Vol 3: Winds of Change</i>, ed. by Richard Pini, 1988</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Ties That Bind"</td>
-<td align="left" valign="top"><i>Blood of Ten Chiefs, Vol 4: Against the Wind</i>, ed. by Richard Pini, 1992</td>
+<td class="align-left valign-top">"Ties That Bind"</td>
+<td class="align-left valign-top"><i>Blood of Ten Chiefs, Vol 4: Against the Wind</i>, ed. by Richard Pini, 1992</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Riders of the Storm"</td>
-<td align="left" valign="top"><i>Dark Hours:  Blood of Ten Chiefs, Vol. 5</i>, ed. by Richard Pini, 1992</td>
+<td class="align-left valign-top">"Riders of the Storm"</td>
+<td class="align-left valign-top"><i>Dark Hours:  Blood of Ten Chiefs, Vol. 5</i>, ed. by Richard Pini, 1992</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Skitty"</td>
-<td align="left" valign="top"><i>Catfantastic</i> ed. by Andre Norton, 1989</td>
+<td class="align-left valign-top">"Skitty"</td>
+<td class="align-left valign-top"><i>Catfantastic</i> ed. by Andre Norton, 1989</td>
 </tr>
 <tr>
-<td align="left" valign="top">"A Tale of Two Skitties"</td>
-<td align="left" valign="top"><i>Catfantastic III</i> ed. by Andre Norton &amp; Martin H. Greenberg</td>
+<td class="align-left valign-top">"A Tale of Two Skitties"</td>
+<td class="align-left valign-top"><i>Catfantastic III</i> ed. by Andre Norton &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Scat"</td>
-<td align="left" valign="top"><i>Catfantastic IV</i> ed. by Andre Norton &amp; Martin H. Greenberg</td>
+<td class="align-left valign-top">"Scat"</td>
+<td class="align-left valign-top"><i>Catfantastic IV</i> ed. by Andre Norton &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Nightside"</td>
-<td align="left" valign="top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> #6, Fall 1989</td>
+<td class="align-left valign-top">"Nightside"</td>
+<td class="align-left valign-top"><i>Marion Zimmer Bradley's FANTASY Magazine</i> #6, Fall 1989</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Roadkill"</td>
-<td align="left" valign="top"><i>MZB's FANTASY Magazine</i> #9, Summer 1990</td>
+<td class="align-left valign-top">"Roadkill"</td>
+<td class="align-left valign-top"><i>MZB's FANTASY Magazine</i> #9, Summer 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Satanic, Versus"</td>
-<td align="left" valign="top"><i>MZB's FANTASY Magazine</i> #10, Fall 1990</td>
+<td class="align-left valign-top">"Satanic, Versus"</td>
+<td class="align-left valign-top"><i>MZB's FANTASY Magazine</i> #10, Fall 1990</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Killer Byte"</td>
-<td align="left" valign="top"><i>MZB's FANTASY Magazine</i> #23, Spring 1994</td>
+<td class="align-left valign-top">"Killer Byte"</td>
+<td class="align-left valign-top"><i>MZB's FANTASY Magazine</i> #23, Spring 1994</td>
 </tr>
 <tr>
-<td align="left" valign="top">"The Cup and the Cauldron"</td>
-<td align="left" valign="top"><i>Grails: Quests, Visitations and other Occurrences</i></td>
+<td class="align-left valign-top">"The Cup and the Cauldron"</td>
+<td class="align-left valign-top"><i>Grails: Quests, Visitations and other Occurrences</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Last Rights" (with Larry Dixon)</td>
-<td align="left" valign="top"><i>Dinosaur Fantastic</i></td>
+<td class="align-left valign-top">"Last Rights" (with Larry Dixon)</td>
+<td class="align-left valign-top"><i>Dinosaur Fantastic</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Last Rights" (with Larry Dixon)</td>
-<td align="left" valign="top"><i>Dinosaur Fantastic</i></td>
+<td class="align-left valign-top">"Last Rights" (with Larry Dixon)</td>
+<td class="align-left valign-top"><i>Dinosaur Fantastic</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Jiliad"</td>
-<td align="left" valign="top"><i>Alternate Heroes</i></td>
+<td class="align-left valign-top">"Jiliad"</td>
+<td class="align-left valign-top"><i>Alternate Heroes</i></td>
 </tr>
 <tr>
-<td align="left" valign="top">"Dumb Feast"</td>
-<td align="left" valign="top"><i>Christmas Ghosts</i>, ed. by Mike Resnick</td>
+<td class="align-left valign-top">"Dumb Feast"</td>
+<td class="align-left valign-top"><i>Christmas Ghosts</i>, ed. by Mike Resnick</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Dance Track" (w/Larry Dixon)</td>
-<td align="left" valign="top"><i>By Any Other Fame</i>, ed. by Mike Resnick &amp; Martin H. Greenberg</td>
+<td class="align-left valign-top">"Dance Track" (w/Larry Dixon)</td>
+<td class="align-left valign-top"><i>By Any Other Fame</i>, ed. by Mike Resnick &amp; Martin H. Greenberg</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Operation Desert Fox" (w/Larry Dixon)</td>
-<td align="left" valign="top"><i>BOLOS: Honor of the Reginment</i>, created by Keith Laumer</td>
+<td class="align-left valign-top">"Operation Desert Fox" (w/Larry Dixon)</td>
+<td class="align-left valign-top"><i>BOLOS: Honor of the Reginment</i>, created by Keith Laumer</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Once and Future"</td>
-<td align="left" valign="top"><i>Excalibur</i>, ed. by Richard Gilliam, Martin H. Greenberg, &amp; Edward E. Kramer</td>
+<td class="align-left valign-top">"Once and Future"</td>
+<td class="align-left valign-top"><i>Excalibur</i>, ed. by Richard Gilliam, Martin H. Greenberg, &amp; Edward E. Kramer</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Quest of the Dream Warrior"</td>
-<td align="left" valign="top">A musical story by Misty &amp; David Arkenstone on CD or cassette, avail. from Firebird</td>
+<td class="align-left valign-top">"Quest of the Dream Warrior"</td>
+<td class="align-left valign-top">A musical story by Misty &amp; David Arkenstone on CD or cassette, avail. from Firebird</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Return of the Guardians"</td>
-<td align="left" valign="top">A musical story by Misty &amp; David Arkenstone, Narada Publications</td>
+<td class="align-left valign-top">"Return of the Guardians"</td>
+<td class="align-left valign-top">A musical story by Misty &amp; David Arkenstone, Narada Publications</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Stolen Silver"</td>
-<td align="left" valign="top"><i>Horse Fantastic</i>, ed. by Martin Greenberg, 1991</td>
+<td class="align-left valign-top">"Stolen Silver"</td>
+<td class="align-left valign-top"><i>Horse Fantastic</i>, ed. by Martin Greenberg, 1991</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Small Print"</td>
-<td align="left" valign="top"><i>Deals with the Devil</i>, ed. by Mike Resnick, Martin H. Greenberg &amp; Loren D. Estleman</td>
+<td class="align-left valign-top">"Small Print"</td>
+<td class="align-left valign-top"><i>Deals with the Devil</i>, ed. by Mike Resnick, Martin H. Greenberg &amp; Loren D. Estleman</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Wet Wings"</td>
-<td align="left" valign="top"><i>Sisters in Fantasy 2</i>, ed. by Susan Shwartz &amp;. Martin H. Greenberg</td>
+<td class="align-left valign-top">"Wet Wings"</td>
+<td class="align-left valign-top"><i>Sisters in Fantasy 2</i>, ed. by Susan Shwartz &amp;. Martin H. Greenberg</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Lammas Night" (song), "Hallowmas Night"</td>
-<td align="left" valign="top"><i>Lammas Night</i>, ed. by Josepha Sherman</td>
+<td class="align-left valign-top">"Lammas Night" (song), "Hallowmas Night"</td>
+<td class="align-left valign-top"><i>Lammas Night</i>, ed. by Josepha Sherman</td>
 </tr>
 <tr>
-<td align="left" valign="top">"Sprint Plowing at Forst Reach" &amp; "Oathblood"</td>
-<td align="left" valign="top"><i>Oathblood: A Collection of Tarma &amp; Kethry Stories</i>, Spring 1998</td>
+<td class="align-left valign-top">"Sprint Plowing at Forst Reach" &amp; "Oathblood"</td>
+<td class="align-left valign-top"><i>Oathblood: A Collection of Tarma &amp; Kethry Stories</i>, Spring 1998</td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 </p><p>
 "Nightside" and "Satanic, Versus" are included in <i>The Best of Marion Zimmer Bradley's FANTASY Magazine</i>, Volumes I &amp; II respectively (ed. by MZB and Elisabeth Waters). <i>Sword of Ice and Other Tales of Valdemar</i>, edited by Misty, contains 3 stories co-written by Misty.
@@ -345,7 +345,7 @@ Welcome to all new members, and a warm thank you to all who have renewed.
 </p><p>
 Like you, I'm eagerly awaiting Owlflight. For anyone who reads SF as well as Fantasy I recommend Holly Lisle's <i>Hunting the Corrigan's Blood</i> (paperback--$5.99) and David Weber's latest Honor Harrington adventure, <i>In Enemy Hands</i> (hardcover--$22).
 </p><p>
-</p><center><img alt="Border Art" border="0" loading="lazy" src="/qo275.jpg"/></center>
+</p><div class="center"><img alt="Border Art" loading="lazy" src="/qo275.jpg"/></div>
 <p>
 </p><h2>FAN MESSAGES:</h2>
 <p>
@@ -368,7 +368,7 @@ Mailing Day Helper (last issue)--Barbara Leflar Jackson, Steve Louvis.
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -386,10 +386,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

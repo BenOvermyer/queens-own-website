@@ -15,21 +15,21 @@ canonical_path = "/compass-rose/summer-2000/in-the-name-of-god/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
-</p></font><center><font size="7">In the Name of God</font></center>
+</p></span><div class="center"><span class="fs-7">In the Name of God</span></div>
 <p>
-</p><center><h2>by</h2></center>
+</p><div class="center"><h2>by</h2></div>
 <p>
-</p><center><h2><a href="mailto:Legend@malcor.com">Linda A. Malcor</a></h2></center>
+</p><div class="center"><h2><a href="mailto:Legend@malcor.com">Linda A. Malcor</a></h2></div>
 <p>
 The Crusades.<a href="/compass-rose/summer-2000/in-the-name-of-god/references/#note1"><sup>1</sup></a>  The very name calls to mind images of knights in shining armor, riding off to do battle for the Holy Land against the evil "Saracens."  The reality, however, fell far short of the holy wars that the Church's propaganda portrayed.  Seven of the conflicts were officially numbered;<a href="/compass-rose/summer-2000/in-the-name-of-god/references/#note2"><sup>2</sup></a>  some of the uglier campaigns were not included in the ranking.  These military actions form one of the defining features of the Middle Ages, yet they are among the bloodiest chapters of what humans are willing to do to each other in the name of God.
 </p><p>	The Christian religious map of the early Middle Ages was divided roughly in two.  The Eastern Roman (or Byzantine) Empire was ruled by the Greek (Eastern Orthodox) Church from Constantinople.  The Latin (Roman Catholic) Church reigned over the Holy Roman Empire from Rome.  Curiously, the situation that set the stage for the terrifying religious wars was political in nature.  The Seljuk Turks rose to power in Central Asia.  This tribe converted to the Muslim religion and went to war against the Byzantine Empire.  At the battle of Manzikert (1071) the Seljuks delivered a crushing blow to the Byzantine army under Emperor Romanus IV.  The Byzantines made several appeals to their Western cousins for aid, to no avail.  Then several elements coalesced to form an explosive situation.
@@ -100,12 +100,12 @@ But a dispute between the Knights Hospitalers and the Knights Templars tore the 
 </p><p>	One of the few positive things to come out of the Crusades developed out of the Crusader motive of greed.  Trade between East and West flourished.  Western Europe was exposed to spices, fabrics, medical knowledge, advanced mathematics, and many other things that changed the lives of the Christian countries forever.
 </p><p>	Hollister argued that medieval spirituality, a knightly need to find an outlet for their martial skills, and the basic human greed of land-owning nobles were all needed in order for the Crusades to happen.<a href="/compass-rose/summer-2000/in-the-name-of-god/references/#note18"><sup>18</sup></a>   Essentially the greed provided the motive, the knights provided the means, and the shifting nature of medieval spirituality provided the opportunity for one of the most protracted incidents of bloodshed in human history, all committed in the name of the Christian God of love and peace.
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/sink-or-swim/">Next</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/in-the-name-of-god/references/">Notes</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/in-the-name-of-god/references/#ref">References Cited</a></font></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/sink-or-swim/">Next</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/in-the-name-of-god/references/">Notes</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/in-the-name-of-god/references/#ref">References Cited</a></span></td>
 </tr>
 <tr>
 <td> </td>
@@ -113,13 +113,13 @@ But a dispute between the Knights Hospitalers and the Knights Templars tore the 
 <td> </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></font></td>
-<td width="33%"> </td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td></tr>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></span></td>
+<td style="width:33%"> </td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© Linda A. Malcor 2000.  All rights reserved.</center>
+</p><div class="center">© Linda A. Malcor 2000.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</div>
 </div>

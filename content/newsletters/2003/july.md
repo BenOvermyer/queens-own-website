@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 4, No. 7<br/>
-July 1, 2003</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 4, No. 7<br/>
+July 1, 2003</h2></div>
 <p>
-</p><center><img alt="Warden by Gibel Encarnacion" border="0" loading="lazy" src="/qo163.jpg"/></center>
+</p><div class="center"><img alt="Warden by Gibel Encarnacion" loading="lazy" src="/qo163.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -47,7 +47,7 @@ Zhai'helleva and Happy Fourth of July,
 </p><p>
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
@@ -138,7 +138,7 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 </p><h3>Alabama</h3>
 <p>
-<b>Con†Stellation XXII: Pegasus. </b> E-mail:  <a href="mailto:constell@con-stellation.org">constell@con-stellation.org</a>.  Address:  Con*Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857.  Site Address:  Holiday Inn Express, Huntsville, Alabama.  Dates:  10/10/03-10/12/03.  <font color="red">Note:   * Guest of Honor: Mercedes Lackey, * Master of Ceremonies: Larry Dixon!</font><font color="black">
+<b>Con†Stellation XXII: Pegasus. </b> E-mail:  <a href="mailto:constell@con-stellation.org">constell@con-stellation.org</a>.  Address:  Con*Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857.  Site Address:  Holiday Inn Express, Huntsville, Alabama.  Dates:  10/10/03-10/12/03.  <span class="c-red">Note:   * Guest of Honor: Mercedes Lackey, * Master of Ceremonies: Larry Dixon!</span><span class="c-black">
 <p>
 <b>HAVEN 2003. </b> Website: <a href="http://www.haven-con.com">http://www.haven-con.com</a>.  E-mail: <a href="mailto:staff@haven-con.com">staff@haven-con.com</a>.  Address: Montgomery Civic Center, Montgomery, Alabama.  Dates: 7/3/03 - 7/6/03.
 </p><p>
@@ -289,7 +289,7 @@ These are the upcoming cons we know about.  Have any information about conventio
 <b>WESTERCON 56: SEATAC 2003.  </b>Website: <a href="http://www.webwitch.com/westercon56/">http://www.webwitch.com/westercon56/</a>.  E-mail: <a href="mailto:info@wester56.org">info@wester56.org</a>.  Address: DoubleTree Hotel Seattle Airport, SeaTac, Washington.  Dates: 7/3/03 - 7/6/03.
 </p><p>
 <b>WRITER'S WEEKEND.</b>  Website:  <a href="http://www.WritersWeekend.com">http://www.WritersWeekend.com</a>.  E-mail:  <a href="mailto:info@annamoss.com">info@annamoss.com</a>.  Address:  P.O. Box 1063
-Mercer Island, WA 98040.  Dates:  7/25/03 - 7/27/03.  <font color='red"'>Note:   * Guest of Honor: Mercedes Lackey!</font><font color="black" face="Bookman Old Style" size="4">
+Mercer Island, WA 98040.  Dates:  7/25/03 - 7/27/03.  <span>Note:   * Guest of Honor: Mercedes Lackey!</span><span class="ff-bookman fs-4 c-black">
 <p>
 </p><h3>Australia</h3>
 <p>
@@ -333,9 +333,9 @@ Mercer Island, WA 98040.  Dates:  7/25/03 - 7/27/03.  <font color='red"'>Note:  
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p></font></p></font></p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p></span></p></span></p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="left" alt="Cat Leisure by Gibel Encarnacion" border="0" loading="lazy" src="/qo164.jpg"/>
+<img alt="Cat Leisure by Gibel Encarnacion" class="float-left" loading="lazy" src="/qo164.jpg"/>
 </p><p>
 </p><h2>Member News:</h2>
 <p>
@@ -414,7 +414,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
@@ -439,9 +439,9 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="right" alt="Cat Stretch by Gibel Encarnacion" border="5" loading="lazy" src="/qo165.jpg"/>
+<img alt="Cat Stretch by Gibel Encarnacion" class="float-right border-5" loading="lazy" src="/qo165.jpg"/>
 </p><p>
 </p><h3>Collegium News:</h3>
 <p>
@@ -498,7 +498,7 @@ Hugs-
 </p><p>
 Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -526,7 +526,7 @@ If you can be of assistance, please contact Danya at <a href="mailto:Legend@malc
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -549,10 +549,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></g></p></g></p>
 </div>

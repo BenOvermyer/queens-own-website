@@ -15,10 +15,10 @@ canonical_path = "/vanyel-fan-club/newsletter/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>The Valdemaran Herald</h2></center>
+<span class="fs-4">
+</span><div class="center"><h2>The Valdemaran Herald</h2></div>
 <p>
-</p><center><h3>(Revised 10/18/20)</h3></center>
+</p><div class="center"><h3>(Revised 10/18/20)</h3></div>
 <p>
 <i>The Valdemaran Herald</i> is the newsletter of the Vanyel Fan Club, an official chapter of <a href="/">Queen's Own</a>. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from <i>The Last Herald-Mage</i> trilogy by Mercedes Lackey.
 </p><p>
@@ -77,6 +77,6 @@ The Valdemaran Herald Staff and Contributors
 </p><p>
 <img alt="" loading="lazy" src="/rainbar.gif"/>
 </p><p>
-<a href="/vanyel-fan-club/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page</a>
+<a href="/vanyel-fan-club/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page</a>
 </p>
 </div>

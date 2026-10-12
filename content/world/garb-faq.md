@@ -14,93 +14,93 @@ canonical_path = "/garb-faq/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Garb FAQ</h2></center>
-<center><h2>(Revised 2/5/02)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Garb FAQ</h2></div>
+<div class="center"><h2>(Revised 2/5/02)</h2></div>
 <p>
 What are the best-dressed personae on Velgarth wearing these days &lt;g&gt;?  Here's what we know about the outfits worn by personae of different ranks:
 </p><p>
-</p><center>
-<table border="5" cellpadding="2" cellspacing="2" width="95%">
+</p><div class="center">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:95%">
 <tr>
-<th align="center" valign="middle"><font face="Comic Sans MS" size="4">Persona Type</font></th>
-<th align="center" valign="middle"><font face="Comic Sans MS" size="4">Trainee</font></th>
-<th align="center" valign="middle"><font face="Comic Sans MS" size="4">Full Rank</font></th>
-<th align="center" valign="middle"><font face="Comic Sans MS" size="4">Advanced Rank</font></th>
+<th class="align-center valign-middle"><span class="ff-comic-sans fs-4">Persona Type</span></th>
+<th class="align-center valign-middle"><span class="ff-comic-sans fs-4">Trainee</span></th>
+<th class="align-center valign-middle"><span class="ff-comic-sans fs-4">Full Rank</span></th>
+<th class="align-center valign-middle"><span class="ff-comic-sans fs-4">Advanced Rank</span></th>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Bard</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Red-brown</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Scarlet</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"> </font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Bard</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Red-brown</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Scarlet</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"> </span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Guard</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Light Blue<br/>("Blues":  Unaffiliated Students--Artificers and Scholars, Noble Blood)</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Blue</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Royal Blue<br/>(Royal Guard)</font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Guard</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Light Blue<br/>("Blues":  Unaffiliated Students--Artificers and Scholars, Noble Blood)</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Blue</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Royal Blue<br/>(Royal Guard)</span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Herald<br/>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Herald<br/>
 <ul>
 <li>Undershirt (wool or ramie)
 </li><li>Overtunic
 </li><li>Breeches or Split Skirt
 </li><li>Riding boots or Leather Shoes
 </li><li>Cape or Cloak
-</li></ul></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Grey</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">White</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">White, but fancier fabrics; silk brocade with silver thread.</font></td>
+</li></ul></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Grey</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">White</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">White, but fancier fabrics; silk brocade with silver thread.</span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Herald-Mage<nr>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Herald-Mage<nr>
 <ul>
 <li>Undershirt (wool or ramie)
 </li><li>Overtunic
 </li><li>Breeches or Split Skirt
 </li><li>Riding boots or Leather Shoes
 </li><li>Cape or Cloak
-</li></ul></nr></font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Yellow</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Golden-Brown</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Golden-Brown, but fancier fabrics; silk brocade with gold thread</font></td>
+</li></ul></nr></span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Yellow</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Golden-Brown</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Golden-Brown, but fancier fabrics; silk brocade with gold thread</span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Healer</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Pale Green</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Emerald Green</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"> </font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Healer</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Pale Green</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Emerald Green</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"> </span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Kal'enedral*</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Black<br/>(Warrior Sworn/Swordsworn on Blood Feud)</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Sable Brown<br/>(Warrior Sworn/Swordsworn not on Blood Feud)</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Dark Midnight Blue<br/>(Crone Sworn/Scroll Sworn)</font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Kal'enedral*</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Black<br/>(Warrior Sworn/Swordsworn on Blood Feud)</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Sable Brown<br/>(Warrior Sworn/Swordsworn not on Blood Feud)</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Dark Midnight Blue<br/>(Crone Sworn/Scroll Sworn)</span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Shin'a'in</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Bright Colors</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Bright Colors</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Bright Colors</font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Shin'a'in</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Bright Colors</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Bright Colors</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Bright Colors</span></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Sun Priests</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4"> </font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Black Robes</font></td>
-<td align="center" valign="middle"><font face="Comic Sans MS" size="4">Red Robes</font></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Sun Priests</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4"> </span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Black Robes</span></td>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Red Robes</span></td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 *There is no heirarchy between these ranks.  You cannot advance from one to the other.  They are different types of the same rank.
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<font face="Harem">
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<span class="ff-harem">
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 <p>
-<a href="/world-reference-guide/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></font>
+<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
+</p></span>
 </p>
 </div>

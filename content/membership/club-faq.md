@@ -14,9 +14,9 @@ canonical_path = "/club-faq/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Queen's Own FAQ</h2></center>
-<center><h2>(Revised 7/22/08)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Queen's Own FAQ</h2></div>
+<div class="center"><h2>(Revised 7/22/08)</h2></div>
 <p>
 To quote the original editors of the Queen's Own newsletter, "Questions, we get questions . . . "  This FAQ is for all those questions about stuff in the "real world" related to Misty or the club that keep cropping up . . .
 </p><p>
@@ -38,12 +38,12 @@ Judith also called the club "the official Mercedes Lackey Appreciation Society" 
 </p><p>
 Membership in QO is free these days.  Instead of dues we ask that you create a persona.  The persona types available are listed at <a href="/persona-handouts/">/persona-handouts/</a>. Anyone may use the site for free.  You need to create a persona, however, to get to the private portions of the club.
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<font face="Harem">
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<span class="ff-harem">
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 <p>
-<a href="/world-reference-guide/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></font>
+<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
+</p></span>
 </p>
 </div>

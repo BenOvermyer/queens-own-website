@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 5, No. 7<br/>
-July 1, 2004</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 5, No. 7<br/>
+July 1, 2004</h2></div>
 <p>
-</p><center><img alt="Horse Head by Jan Tellevast" border="5" loading="lazy" src="/qo211.jpg"/></center>
+</p><div class="center"><img alt="Horse Head by Jan Tellevast" class="border-5" loading="lazy" src="/qo211.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -216,7 +216,7 @@ Dates: 7/11/04.
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://www.geocities.com/jengacons/"> http://www.geocities.com/jengacons/</a>.
 </p><p>
-<img align="right" alt="Dragonflight by Jan Tellevast" border="5" loading="lazy" src="/qo212.gif"/>
+<img alt="Dragonflight by Jan Tellevast" class="float-right border-5" loading="lazy" src="/qo212.gif"/>
 </p><p>
 </p><h2>Member News:</h2>
 <p>
@@ -292,7 +292,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <br/>
 </li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.<br/>
 </li></ul>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <h2>Other Fandoms:</h2>
 <ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.<br/>
@@ -316,7 +316,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul><br/>
 <br/>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <br/>
 <h3>Collegium News:</h3><br/>
 <br/>
@@ -359,7 +359,7 @@ If you were working on a persona who is no longer listed at <a href="/club-chat/
 </ul>
 <p>If you know any of these folks, please have them contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> with a current e-mail address.
 </p><p>
-<img align="right" alt="Mely by Jan Tellevast" border="5" loading="lazy" src="/qo213.jpg"/>
+<img alt="Mely by Jan Tellevast" class="float-right border-5" loading="lazy" src="/qo213.jpg"/>
 </p><p>
 </p><h3>From Healer Adept Moonstar:</h3>
 <p>
@@ -379,7 +379,7 @@ Hugs-
 </p><p>
 Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <h2>Personals:</h2> <br/>
 <br/>
 <ul>
@@ -395,7 +395,7 @@ Moonstar
 <li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks! </li>
 </ul>
 <br/>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 </p><p>Newsletters are published on (or near) the first of each month.
@@ -418,10 +418,10 @@ Claremore, OK 74017
 
 </p><p>Healer Adept Moonstar
 
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></g></p>
 </div>

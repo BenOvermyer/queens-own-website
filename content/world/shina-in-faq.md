@@ -14,9 +14,9 @@ canonical_path = "/shina-in-faq/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Shin'a'in FAQ</h2></center>
-<center><h2>(Revised 2/7/02)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Shin'a'in FAQ</h2></div>
+<div class="center"><h2>(Revised 2/7/02)</h2></div>
 <p>
 Misty has described the Shin'a'in culture as being "a combination of Plains Indian and Mongols" (<i>The Valdemar Companion</i> 2001:61).  All of the Shin'a'in have dark hair, golden skin and blue eyes.  They wear bright garments, except for the Kal'enedril.  The Kal'enedril who are Sword Sworn but not on Blood Feud wear sable brown.  Those who are Sword Sworn and on Blood Feud wear black.  Those who are Crone Sworn were dark midnight blue.  There are only thirteen Crone Sworn Kal'enedril.
 </p><p>
@@ -34,12 +34,12 @@ Known clans of the Shin'a'in are:
 </li><li>Wolf
 </li></ul>
 <p>
-</p><center><img alt="" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<font face="Harem">
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<span class="ff-harem">
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 <p>
-<a href="/world-reference-guide/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></font>
+<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
+</p></span>
 </p>
 </div>

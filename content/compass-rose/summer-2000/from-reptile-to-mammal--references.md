@@ -15,24 +15,24 @@ canonical_path = "/compass-rose/summer-2000/from-reptile-to-mammal/references/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
 </p><p>
-</p></font><center><h2>From Reptile to Mammal</h2></center>
+</p></span><div class="center"><h2>From Reptile to Mammal</h2></div>
 <p>
-</p><center><h3>by</h3></center>
+</p><div class="center"><h3>by</h3></div>
 <p>
-</p><center><h2><a href="mailto:dragonfodder@gmail.com">Katharine A. Knafelc</a></h2></center>
+</p><div class="center"><h2><a href="mailto:dragonfodder@gmail.com">Katharine A. Knafelc</a></h2></div>
 <p>
-</p><center><h2>References Cited</h2></center>
+</p><div class="center"><h2>References Cited</h2></div>
 <p>
 <a id="benton" name="benton"></a>
 Benton, Michael J.  1991.  <i>The Rise of the Mammals</i>.  New York: Outlet Book Company, Inc.
@@ -62,19 +62,19 @@ Strickberger, Monroe W.  1995.  <i>Evolution</i>.  2nd Edition. Boston: Jones an
 <a id="wuetrich" name="wuetrich"></a>
 Wuetrich, Bernice. 1997.  "Will Fossil From Down Under Upend Mammal Evolution?"  <i>Science</i> 278:1401-1402.
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/in-the-name-of-god/">Next</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/in-the-name-of-god/">Next</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td>
 </tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© Katharine A. Knafelc 2000.  All rights reserved.</center>
+</p><div class="center">© Katharine A. Knafelc 2000.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</div>
 <p>
 </p><p>
 </p><p>

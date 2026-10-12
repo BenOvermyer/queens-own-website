@@ -14,10 +14,10 @@ canonical_path = "/herald-mage-handout/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Herald-Mage Handout</h2></center>
-<center><h3>Criteria established by Mercedes Lackey</h3></center>
-<center><h3>Based on the <b>Heralds of Valdemar</b> series</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Herald-Mage Handout</h2></div>
+<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
+<div class="center"><h3>Based on the <b>Heralds of Valdemar</b> series</h3></div>
 <p>
 </p><h2>To become a Herald-Mage:</h2>
 <p>
@@ -28,7 +28,7 @@ canonical_path = "/herald-mage-handout/"
 <p>
 You are now at the Apprentice stage.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barblln.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barblln.gif"/></div>
 <p>
 </p><h2>Herald-Mage, Hedge-Wizard</h2>
 <p>
@@ -42,7 +42,7 @@ tricks well enough to fool your friends:
 </li><li>a simple Escape Trick.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barblln.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barblln.gif"/></div>
 <p>
 </p><h2>Herald-Mage, Journeyman</h2>
 <p>
@@ -69,7 +69,7 @@ world.
      </li></ul>
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barblln.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barblln.gif"/></div>
 <p>
 </p><h2>Herald-Mage, Master</h2>
 <p>
@@ -106,7 +106,7 @@ Submit it to an essay contest or your History teacher for extra credit.
      </li></ul>
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barblln.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barblln.gif"/></div>
 <p>
 </p><h2>Herald-Mage, Adept</h2>
 <p>
@@ -153,7 +153,7 @@ that both Ellen Guon and myself qualify for Adept.  Like aspiring
 to <a href="/kalen-edral-handout/">Kal'enedral</a>, if you want something extraordinary, you will have to make an
 extraordinary effort.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barblln.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barblln.gif"/></div>
 <p>
 </p><h2>Special Notes for Herald-Mages</h2>
 <p>
@@ -171,8 +171,8 @@ If you have additional questions, check out <a href="/magic-of-velgarth/">The Ma
 Zhai'helleva,<br/>
 <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barblln.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barblln.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

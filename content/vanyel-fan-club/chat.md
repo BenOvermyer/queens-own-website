@@ -15,12 +15,12 @@ canonical_path = "/vanyel-fan-club/chat/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><img alt="" loading="lazy" src="/vfcmail.jpg"/></center>
+<span class="fs-4">
+</span><div class="center"><img alt="" loading="lazy" src="/vfcmail.jpg"/></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/rainbar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/rainbar.gif"/></div>
 <p>
-</p><center>You can join the Vanyel Fan Club by subscribing to the VFC List.</center>
+</p><div class="center">You can join the Vanyel Fan Club by subscribing to the VFC List.</div>
 <p>
 </p><h2>The list rules are:</h2>
 <p>
@@ -35,7 +35,7 @@ canonical_path = "/vanyel-fan-club/chat/"
 <p>
 Go to:
 </p><p>
-</p><center><a href="https://dragonlords.fans/mailman/listinfo/vanyelfanclub_dragonlordsnet.com">http://www.dragonlordsnet.com/mailman/listinfo/vanyelfanclub_dragonlordsnet.com</a></center>
+</p><div class="center"><a href="https://dragonlords.fans/mailman/listinfo/vanyelfanclub_dragonlordsnet.com">http://www.dragonlordsnet.com/mailman/listinfo/vanyelfanclub_dragonlordsnet.com</a></div>
 <p>
 and follow the inscructions.
 </p><p>
@@ -43,18 +43,18 @@ Note:  Please keep your e-mail address up-to-date.  If your mail bounces because
 </p><p>
 To send e-mail to the mailinglist, write to the following address:
 </p><p>
-</p><center><a href="mailto:Vanyelfanclub@dragonlordsnet.com">Vanyelfanclub@dragonlordsnet.com</a></center>
+</p><div class="center"><a href="mailto:Vanyelfanclub@dragonlordsnet.com">Vanyelfanclub@dragonlordsnet.com</a></div>
 <p>
 </p><h2>Removal Instructions:</h2>
 <p>
 To unsubscribe from the mailinglist (and leave the club), follow the instructions on the general information page at:
 </p><p>
-</p><center><a href="https://dragonlords.fans/mailman/listinfo/vanyelfanclub_dragonlordsnet.com">http://www.dragonlordsnet.com/mailman/listinfo/vanyelfanclub_dragonlordsnet.com</a></center>
+</p><div class="center"><a href="https://dragonlords.fans/mailman/listinfo/vanyelfanclub_dragonlordsnet.com">http://www.dragonlordsnet.com/mailman/listinfo/vanyelfanclub_dragonlordsnet.com</a></div>
 <p>
 If you have any problems, message Herald-Mage Adept Danya Winterborn at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/rainbar.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/rainbar.gif"/></div>
 <p>
-<a href="/vanyel-fan-club/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page</a>
+<a href="/vanyel-fan-club/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page</a>
 </p>
 </div>

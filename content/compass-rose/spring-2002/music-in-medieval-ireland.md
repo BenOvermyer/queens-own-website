@@ -15,21 +15,21 @@ canonical_path = "/compass-rose/spring-2002/music-in-medieval-ireland/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
-</p></font><center><font size="7">Sources of Information on<br/> Music in Medieval Ireland</font></center>
+</p></span><div class="center"><span class="fs-7">Sources of Information on<br/> Music in Medieval Ireland</span></div>
 <p>
-</p><center><h2>by</h2></center>
+</p><div class="center"><h2>by</h2></div>
 <p>
-</p><center><h2><a href="mailto:hrldryha@yahoo.com">Laura Felton</a></h2></center>
+</p><div class="center"><h2><a href="mailto:hrldryha@yahoo.com">Laura Felton</a></h2></div>
 <p>
 The study of music in medieval Ireland is anything but straightforward. Direct sources are few and far between and what is known must be derived by using creative detective work. However, the exploration is extremely rewarding because there is so much material that can be tapped into. This paper focuses on where that information can be found and demonstrates how creative thought can pull it out.
 </p><p>
@@ -91,12 +91,12 @@ Buckley also cautions against falling into certain traps of assumption that comm
 </p><p>
 The more looking and reading done in exploring medieval Irish music, the more information is uncovered. Hopefully, with the resurgence of interest in Irish music since the 1950's and 60's more people will delve into discovering the truth of medieval Irish music. Anything that could be so all embracing (references to music can be found in almost all types of medieval Irish surviving materials, ie stonework, metalwork, mythology, oral tradition, writings by visitors and the writings of the monks themselves) is definitely worth the trouble to take some time and wade through remnants of the society. Perhaps the Irish people's love for music can teach us something about our own society.
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/arthurian-tales/">Next</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/">Notes</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#ref">References Cited</a></font></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/arthurian-tales/">Next</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/">Notes</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#ref">References Cited</a></span></td>
 </tr>
 <tr>
 <td> </td>
@@ -104,13 +104,13 @@ The more looking and reading done in exploring medieval Irish music, the more in
 <td> </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></font></td>
-<td width="33%"> </td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td></tr>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></span></td>
+<td style="width:33%"> </td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© Laura Felton 2000.  All rights reserved.</center>
+</p><div class="center">© Laura Felton 2000.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</div>
 </div>

@@ -23,6 +23,12 @@ import re
 # which always close with the matching quote, never match.
 QUOTE_RULES = [
     # An anchor whose opening "<" was followed by spaces, so it parsed as text: "< a href=".
+    # A malformed font element: source "<font="Bookman Old Style" face=4>" or the
+    # parser-mangled "<font="bookman face="4">" both meant face + size.
+    (re.compile(rb'<font="([^"]*)"\s+face="(\w+)">'), rb'<font face="\1" size="\2">'),
+    (re.compile(rb'<font="([^"]*)"\s+face=(\w+)>'), rb'<font face="\1" size="\2">'),
+    (re.compile(rb'<font="(\w+)\s+face="(\w+)">'), rb'<font face="\1" size="\2">'),
+    (re.compile(rb'</font="[^"]*>"?'), rb'</font>'),
     (re.compile(rb'<\s+a\s+href=', re.I), rb'<a href='),
     (re.compile(rb'=\s*"([^"\'<>]*)\'>'), rb'="\1">'),
     (re.compile(rb'=\s*"([^"\'<>]*)>'), rb'="\1">'),

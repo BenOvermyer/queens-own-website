@@ -14,20 +14,20 @@ canonical_path = "/military-faq/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Military FAQ</h2></center>
-<center><h2>(Revised 2/5/02)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Military FAQ</h2></div>
+<div class="center"><h2>(Revised 2/5/02)</h2></div>
 <p>
 There are a variety of military-type characters on Velgarth.  The ones we know the most about are the Guard and the Mercenaries.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>Gifts:</h2>
 <p>
 Mercenaries, Guard recruits and common troopers might have a Gift of some sort.  All of these Gifts are extremely limited or at low strength, otherwise the character would have become a Healer, been Chosen as a Herald or wound up in some similar profession more appropriate to the Gift.  Here are the possible Gifts for a military persona:
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>Fire Starting</td>
 <td>This is not the type of Fire Starting where a merc is going to send his opponent up in flames.  This is the type where you probably won't need flint and tinder to get your campfire started.</td>
@@ -61,15 +61,15 @@ Mercenaries, Guard recruits and common troopers might have a Gift of some sort. 
 <td>This is that limited type that's useful on the battlefield.  You might sense a coming shift in battle in time to meet it or to get your unit out of the way of something they won't survive.  You are not going to ForeSee a war that will happen five years in the future.  Most people with this type of Gift can only see something an hour or less before it happens.</td>
 </tr>
 </table>
-</center>
+</div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>Valdemar's Guard</h2>
 <p>
 Members of the Guard wear blue uniforms.  Members of the Palace Guard wear Royal Blue.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>Mercenaries</h2>
 <p>
@@ -88,7 +88,7 @@ Mercenaries are organized into "companies" that are stationed at various places.
 </li><li>Wolfstone's Pack
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
 </p><h2>Other FAQs for the Military Handout</h2>
 <p>
@@ -105,12 +105,12 @@ Milpitas, CA 95036-0743</p><p>
 or online at <a href="http://www.sca.org">http://www.sca.org</a>.</p><p></p></dd>
 </dl>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcastl.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcastl.gif"/></div>
 <p>
-<font face="Harem">
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<span class="ff-harem">
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 <p>
-<a href="/world-reference-guide/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></font>
+<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
+</p></span>
 </p>
 </div>

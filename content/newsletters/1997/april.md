@@ -17,25 +17,25 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. X, No. 6<br/>
-April 1997</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. X, No. 6<br/>
+April 1997</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
 Good news! <i>Marion Zimmer Bradley's FANTASY Magazine</i> has bought a new story by Misty. You'll learn more about it in future newsletters. <i>FANTASY Magazine</i> has excellent prose and artwork. Subscriptions are only $20 a year for four issues. Make your check payable to [Ed. note 2005: Out-of-date info withheld.] and mail your order to [Ed. note 2005: Out-of-date info withheld.]. (Artists and writers, send a SASE for magazine guidelines.)
 </p><p>
-</p><center>*** Announcing TEMPEST's Spring Tour of the Midwest and the Pacific Northwest! ***</center>
+</p><div class="center">*** Announcing TEMPEST's Spring Tour of the Midwest and the Pacific Northwest! ***</div>
 "Dear Friends,
 <p>
 "The spring is upon us and we're hitting the road with a bunch of new songs . . . This new material will be recorded in May, for our second album on Magna Carta, scheduled for release in August. So come on out and celebrate spring with us - we'll be in your town soon!"  April 9, Minneapolis MN at Kieran's Irish Pub, [Ed. note 2005: Out-of-date info withheld.]; April 10, Madison WI at Regent Street Retreat, [Ed. note 2005: Out-of-date info withheld.]; 4/11, Milwaukee WI at Alverno College The Pipeline, [Ed. note 2005: Out-of-date info withheld.]; 4/12 Chicago IL at Fitzgerald's [Ed. note 2005: Out-of-date info withheld.]; 4/13, Sault Ste. Marie MI at Hollywood Cafe [Ed. note 2005: Out-of-date info withheld.]; 4/16, Columbus OH at Stache's [Ed. note 2005: Out-of-date info withheld.]; 4/17 Pittsburgh PA Charlie's Bar [Ed. note 2005: Out-of-date info withheld.]; 4/18, Newport KY at Southgate House [Ed. note 2005: Out-of-date info withheld.]; 4/19, Dayton OH at Canal Street Tavern [Ed. note 2005: Out-of-date info withheld.]; 4/23 Eugene OR at The Wild Duck [Ed. note 2005: Out-of-date info withheld.]; 4/24, Portland OR at Key Largo [Ed. note 2005: Out-of-date info withheld.]; 4/25 Bellingham WA at Cosmos Cafe [Ed. note 2005: Out-of-date info withheld.]; 4/26 Vancouver BC Celtic Festival at The Gate [Ed. note 2005: Out-of-date info withheld.].
@@ -143,7 +143,7 @@ Mailing Day Helpers (last issue)--Arielle Amethyst Willow'Wind and SpiritBlade.
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -161,10 +161,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 1, No. 5<br/>
-September 1, 2000</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 1, No. 5<br/>
+September 1, 2000</h2></div>
 <p>
-</p><center><img alt="Starry Eye by Danielle DiFronzo" border="3" loading="lazy" src="/qo23.jpg"/></center>
+</p><div class="center"><img alt="Starry Eye by Danielle DiFronzo" class="border-3" loading="lazy" src="/qo23.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -33,7 +33,7 @@ This month we continue series of interviews with the editors of the various Quee
 </p><p>
 <b>Herald-Mage Master Danya Winterborn</b> and <b>Healer Adept Moonstar</b>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><ol>
 <li>When did you join Queen's Own?
@@ -68,11 +68,11 @@ Well, before I took over Golden Grove, I ran a 'zine called <i>Don't Argue With 
 <p>Nothing else fandom at the moment, really.  If I can get enough interest generated, I'd like to start up a 'zine again.  That's what those "Rea's Mysterious Project" ads a while ago were about.  I'd like to see about thirty responses first, though.  What it would turn out to be would depend on the people interested.  I have several concepts in mind.  Other than that, the only projects I'm working on are relearning how to 'blade, prepping to move, and putting my room back together now that I've torn it apart looking for old QO issues to answer the first questions.  ::grin::  On a side note, if anyone wants to contact me, the best way to do so now will be by e-mail, but I won't check that until mid-September.  My current addy will be good until the start of September, after which I'll let everyone know the new one.
 </p></li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
-</p><center><img alt="The Kindly Sisters by Laura Cameron" border="2" loading="lazy" src="/qo19.jpg"/></center>
+</p><div class="center"><img alt="The Kindly Sisters by Laura Cameron" class="border-2" loading="lazy" src="/qo19.jpg"/></div>
 <p>
 Here are the faires we know about that are happening in September.  Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
 </p><p>
@@ -177,9 +177,9 @@ These are the upcoming cons we know about.  (Living in California, that's what I
 <p>
 WORLDCON (Chicon2000).  Website:  <a href="http://www.chicon.org">http://www.chicon.org</a>.  Where:  Chicago.  Dates: 8/3100 - 9/04/00.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Moonmaid by Jon Myre" border="3" loading="lazy" src="/qo20.jpg"/></center>
+</p><div class="center"><img alt="Moonmaid by Jon Myre" class="border-3" loading="lazy" src="/qo20.jpg"/></div>
 <p>
 </p><h2>Member News:</h2>
 <p>
@@ -195,7 +195,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li><b>Pacific Northwest Collegium:</b>  Newsletter: <i>Collegium Chronicles</i>. $8 per year/$4 for a half-year, $2 per issue.  Website: <a href="/pacific-northwest-collegium/">/pacific-northwest-collegium/</a>. General inquiries to: <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.  (See ad below for more details.) <i>Collegium Chronicles</i> Back Issues:  The Danya Winterborn Saga:  4 B&amp;W issues: $4.00  each, 2 Full color issues: $6.00.  Please allow 2-4 week delivery. <b>PNWC Members:</b> Yes, indeed, Vol.9 issue 4 WILL be out in late August/early September, with another issue immediately following. Mundane worldly issues have gobbled up my time and energies these past few months, making it impossible to devote to other projects. Never fear--PNWC and the <i>Chronicles</i> are still alive and kicking! <b>Laura/Moonglade</b>, editor.
 </li></ul>
 <p>
-</p><center><img alt="Bondbird by Jamie Dutton" border="3" loading="lazy" src="/qo21.jpg"/></center>
+</p><div class="center"><img alt="Bondbird by Jamie Dutton" class="border-3" loading="lazy" src="/qo21.jpg"/></div>
 <p>
 </p><h3>Zines and Newsletters:</h3>
 <p>
@@ -212,12 +212,12 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
-</p><center><img alt="Pele by Laura Cameron" border="0" loading="lazy" src="/qo18.jpg"/>
-</center>
+</p><div class="center"><img alt="Pele by Laura Cameron" loading="lazy" src="/qo18.jpg"/>
+</div>
 <p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
@@ -242,7 +242,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul>
 <p>
-</p><center><img alt="Grounded by Jamie Dutton" border="3" loading="lazy" src="/qo22.jpg"/></center>
+</p><div class="center"><img alt="Grounded by Jamie Dutton" class="border-3" loading="lazy" src="/qo22.jpg"/></div>
 <p>
 </p><h3>Collegium News:</h3>
 <p>
@@ -262,11 +262,11 @@ I love seeing all the new art coming our way.  Queen�s Own is lucky to have so
 </p><p>
 I also want announce the first issue of <i>The Compass Rose</i>.  You can view the new Queen's Own-sponsored nonfiction journal online at <a href="/compass-rose/summer-2000/">/compass-rose/summer-2000/</a>.  This journal includes great articles on a variety of topics and several reviews of books, movies, a CD, and more!  If you have something you would like to contribute to a future issue, you can find our guidelines at <a href="/compass-rose/about/">/compass-rose/about/</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
-The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <span class="c-red">don't place a fan message</span>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
 </p><p>
@@ -277,7 +277,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </li><li>From <b>Healer Adept Moonstar</b>. Needed February '88 through March '91, Queen's Own newletters.  I am creating an archive for the club, and as you can see we are listing all the approved personas on the site.  Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA  92652.  Thank you very much.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -287,7 +287,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li>To <b>Filk and Anne McCaffrey fans</b>, from <b>Cassandra Vuksa</b>.  Visit <a href="http://members.aol.com/opland/index.htm">http://members.aol.com/opland/index.htm</a>. Tania Opland and Mike Freeman have produced a very cool CD, which has songs like "Lessa's Ride" and "The Question Song" on it.  I bought the CD and have never regretted it.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -310,10 +310,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

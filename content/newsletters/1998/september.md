@@ -17,22 +17,22 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 2, Vol. I, No. 1<br/>
-September 1998</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 2, Vol. I, No. 1<br/>
+September 1998</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="Left border" border="0" loading="lazy" src="/qo297.jpg"/>
-<img align="right" alt="Right border" border="0" loading="lazy" src="/qo298.jpg"/>
-</p><center><img alt="Queen's Own/Merging of the Ways" border="0" loading="lazy" src="/qo179.jpg"/></center>
-<center><h2>The Official Mercedes Lackey Fan Club</h2></center>
+<img alt="Left border" class="float-left" loading="lazy" src="/qo297.jpg"/>
+<img alt="Right border" class="float-right" loading="lazy" src="/qo298.jpg"/>
+</p><div class="center"><img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/></div>
+<div class="center"><h2>The Official Mercedes Lackey Fan Club</h2></div>
 <p>
 Heyla all!!! I'm pleased to be bringing you the first issue as editor of Queen's Own. In the last newsletter, Judith gave us some insight as to how this all began and grew into what it is to what it is today. Since all of us have "known" Judith as Herald Housemother, I'd like to present the mundane side of her, in her own words. Remember, she will always be THE Herald Housemother, she has more than earned that title.
 </p><p>
@@ -54,8 +54,8 @@ Now for some news. If you look at the top of the newsletter, you will see that t
 </p><p>
 Also, in case you didn't know, Judith is and always will be Herald Housemother, I prefer she keep that title as she has earned it. If you must call me by a title, please use Herald Seneschal, in the SCA it is considered the title of President, so it is fitting.
 </p><p>
-<img align="left" alt="Left border" border="0" loading="lazy" src="/qo299.jpg"/>
-<img align="right" alt="Left border" border="0" loading="lazy" src="/qo299.jpg"/>
+<img alt="Left border" class="float-left" loading="lazy" src="/qo299.jpg"/>
+<img alt="Left border" class="float-right" loading="lazy" src="/qo299.jpg"/>
 For now, I'm having too much fun putting this together, so please forgive me if the newsletter is different than what you are used to. I love to play on the computer, and I love graphics . . . so . . . Please send any and all artwork you think I might like.
 </p><p>
 Firebird Arts and Music carries all of Misty's books and lots of other merchandise. From Babylon 5 soundtracks to Larry's art prints. From music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin'a'in. From Oneida Indian Nation T-shirts to Celtic design gift wraps. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268. to place an order, call 1-800-752-0494. for more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
@@ -113,7 +113,7 @@ Editor and President - Robin Ready [Ed. Note 2002: Out-of-date address withheld.
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -133,10 +133,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

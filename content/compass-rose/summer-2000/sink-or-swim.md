@@ -15,22 +15,22 @@ canonical_path = "/compass-rose/summer-2000/sink-or-swim/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
-</p></font><center><font size="7">Excerpts from<br/>
-<i>Sink or Swim</i></font></center>
+</p></span><div class="center"><span class="fs-7">Excerpts from<br/>
+<i>Sink or Swim</i></span></div>
 <p>
-</p><center><h2>Compiled by</h2></center>
+</p><div class="center"><h2>Compiled by</h2></div>
 <p>
-</p><center><h2><a href="mailto:evillurking@gmail.com">Aurora Nelson</a></h2></center>
+</p><div class="center"><h2><a href="mailto:evillurking@gmail.com">Aurora Nelson</a></h2></div>
 <p>
 </p><h2>Aurora Nelson (pp. 1-3)</h2>
 <p>
@@ -120,9 +120,9 @@ Running a newsletter/fanclub takes an enormous amount of energy and time.  I pro
 </p><p>
 The first few issues are always the hardest.  Be patient, and don't be afraid to tinker with the format or requirements until you settle on what works.  Most people like variety (I know I do), lots of pictures and an easy-to-read format.  Nobody likes small print!  The average newsletter should take about ten minutes to read through, if that.  One last thing:  be prepared for long hours and frenzied nailbiting when everything goes wrong.  Give yourself plenty of time to work (and sleep and eat).  Don't procrastinate like I do and wait until the last minute!
 </p><p>
-</p><center>
+</p><div class="center">
 <hr/>
-</center>
+</div>
 <p>
 This booklet is not-for-profit and intended only as a guide to help aspiring editors of preferably non-profit publications.  If you are an editor and wish to have an article added in the next publication, please use the e-mail address <a href="mailto:evillurking@gmail.com">evillurking@gmail.com"</a>. [Ed. note: Use "Sink or Swim" on the subject line.]
 </p><p>
@@ -143,16 +143,16 @@ PMB #189<br/>
 2843 Hopyard Road<br/>
 Pleasanton, CA  94588
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/either-or/">Next</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td></tr>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/either-or/">Next</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© the Authors 2000.  All rights reserved.</center>
+</p><div class="center">© the Authors 2000.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</div>
 </div>

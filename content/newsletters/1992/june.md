@@ -17,98 +17,98 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. V, No. 9<br/>
-June 1992</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. V, No. 9<br/>
+June 1992</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
-</p><center><h2>Books by Mercedes Lackey</h2></center>
+</p><div class="center"><h2>Books by Mercedes Lackey</h2></div>
 <p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="85%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:85%">
 <tr>
-<th align="left" valign="top"><font face="Bookman Old Style" size="4">
-The Heralds of Valdemar series:</font></th>
-<th align="left" valign="top"><font face="Bookman Old Style" size="4">Vows and Honor:</font></th>
+<th class="align-left valign-top"><span class="ff-bookman fs-4">
+The Heralds of Valdemar series:</span></th>
+<th class="align-left valign-top"><span class="ff-bookman fs-4">Vows and Honor:</span></th>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4"><i>Arrows of the Queen</i><br/>
+<td class="align-left valign-top"><span class="ff-bookman fs-4"><i>Arrows of the Queen</i><br/>
 <i>Arrow's Flight</i><br/>
-<i>Arrow's Fall</i></font></td>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4"><i>Oathbound</i> <br/>
-<i>Oathbreakers</i> </font></td>
+<i>Arrow's Fall</i></span></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4"><i>Oathbound</i> <br/>
+<i>Oathbreakers</i> </span></td>
 </tr>
 <tr>
-<th align="left" valign="top"><font face="Bookman Old Style" size="4">The Last Herald-Mage:</font></th>
-<th align="left" valign="top"><font face="Bookman Old Style" size="4"> </font></th>
+<th class="align-left valign-top"><span class="ff-bookman fs-4">The Last Herald-Mage:</span></th>
+<th class="align-left valign-top"><span class="ff-bookman fs-4"> </span></th>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4"><i>Magic's Pawn</i><br/>
+<td class="align-left valign-top"><span class="ff-bookman fs-4"><i>Magic's Pawn</i><br/>
 <i>Magic's Promise</i><br/>
-<i>Magic's Price</i></font></td>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4"><i>By the Sword </i></font></td>
+<i>Magic's Price</i></span></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4"><i>By the Sword </i></span></td>
 </tr>
 <tr>
-<th align="left" colspan="2" valign="top"><font face="Bookman Old Style" size="4">The Mage Winds trilogy:</font></th>
+<th class="align-left valign-top" colspan="2"><span class="ff-bookman fs-4">The Mage Winds trilogy:</span></th>
 </tr>
 <tr>
-<td align="left" colspan="2" valign="top"><font face="Bookman Old Style" size="4"><i>Winds of Fate</i> (paperback to be released this summer) <br/>
+<td class="align-left valign-top" colspan="2"><span class="ff-bookman fs-4"><i>Winds of Fate</i> (paperback to be released this summer) <br/>
 <i>Winds of Change</i> (available late 1992)<br/>
-<i>Winds of War	</i> (available late 1993)</font></td>
+<i>Winds of War	</i> (available late 1993)</span></td>
 </tr>
 <tr>
-<th align="left" colspan="2" valign="top"><font face="Bookman Old Style" size="4">Diana Tregarde adventures:</font></th>
+<th class="align-left valign-top" colspan="2"><span class="ff-bookman fs-4">Diana Tregarde adventures:</span></th>
 </tr>
 <tr>
-<td align="left" colspan="2" valign="top"><font face="Bookman Old Style" size="4"> <i>Burning Water</i> <br/>
+<td class="align-left valign-top" colspan="2"><span class="ff-bookman fs-4"> <i>Burning Water</i> <br/>
 <i>Children of the Night</i><br/>
 <i>Jinx High</i><br/>
 <i>Areanum 101</i> (hardcover, available late 1992) [Ed. note 2004:  Never published]<br/>
-<i>Triangle Park</i> (hardcover, available 1993) [Ed note. 2004:  Never published]</font></td>
+<i>Triangle Park</i> (hardcover, available 1993) [Ed note. 2004:  Never published]</span></td>
 </tr>
 <tr>
-<th align="left" colspan="2" valign="top"><font face="Bookman Old Style" size="4">Bardic Voices:</font></th>
+<th class="align-left valign-top" colspan="2"><span class="ff-bookman fs-4">Bardic Voices:</span></th>
 </tr>
 <tr>
-<td align="left" colspan="2" valign="top"><font face="Bookman Old Style" size="4">
+<td class="align-left valign-top" colspan="2"><span class="ff-bookman fs-4">
 <i>The Lark &amp; the Wren</i><br/>
 <i>The Robin &amp; the Kestrel</i> (NRD)*<br/>
-<i>The Eagle and the Nightingales</i> (NRD)*</font></td>
+<i>The Eagle and the Nightingales</i> (NRD)*</span></td>
 </tr>
 <tr>
-<th align="left" valign="top"><font face="Bookman Old Style" size="4">with Ellen Guon:</font></th>
-<th align="left" valign="top"><font face="Bookman Old Style" size="4">The SERRAted Edge series:</font></th>
+<th class="align-left valign-top"><span class="ff-bookman fs-4">with Ellen Guon:</span></th>
+<th class="align-left valign-top"><span class="ff-bookman fs-4">The SERRAted Edge series:</span></th>
 </tr>
 <tr>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4"><i>Knight of Ghost and Shadows</i><br/>
+<td class="align-left valign-top"><span class="ff-bookman fs-4"><i>Knight of Ghost and Shadows</i><br/>
 <i>Summoned to Tourney</i><br/>
-<i>Leagues Beyond</i> (NRD)*</font></td>
-<td align="left" valign="top"><font face="Bookman Old Style" size="4"><i>Bom to Run</i>, with Larry Dixon<br/>
+<i>Leagues Beyond</i> (NRD)*</span></td>
+<td class="align-left valign-top"><span class="ff-bookman fs-4"><i>Bom to Run</i>, with Larry Dixon<br/>
 <i>Wheels of Fire</i>, with Mark Shepherd (October release date)<br/>
-<i>When the Bough Breaks</i>, with Holly Lisle (November release date)</font></td>
+<i>When the Bough Breaks</i>, with Holly Lisle (November release date)</span></td>
 </tr>
 <tr>
-<th align="left" colspan="2" valign="top"><font face="Bookman Old Style" size="4">Other Collaborations:</font></th>
+<th class="align-left valign-top" colspan="2"><span class="ff-bookman fs-4">Other Collaborations:</span></th>
 </tr>
 <tr>
-<td align="left" colspan="2" valign="top"><font face="Bookman Old Style" size="4"><i>Reap the Whirlwind</i>, with C.J. Cherryh	(Book three of The Sword of Knowledge series) <br/>
+<td class="align-left valign-top" colspan="2"><span class="ff-bookman fs-4"><i>Reap the Whirlwind</i>, with C.J. Cherryh	(Book three of The Sword of Knowledge series) <br/>
 <i>The Elvenbane</i>, with Andre Norton<br/>
 <i>Castle of Deception</i>, with Josepha Sherman (June/July)<br/>
 <i>The Ship Who Searched</i>, with Anne McCaffrey (July/August release date) <br/>
 <i>If I Pay Thee Not in Gold</i>, with Piers Anthony (NRD) *<br/>
-<i>Rediscovery</i>, a Darkover novel with Marion Zimmer Bradley (1993)</font></td>
+<i>Rediscovery</i>, a Darkover novel with Marion Zimmer Bradley (1993)</span></td>
 </tr>
 </table>
-</center>
+</div>
 
 *NRD - no release date
 <p>
@@ -216,7 +216,7 @@ They all have a "Misty-cal" heritage.
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -234,10 +234,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

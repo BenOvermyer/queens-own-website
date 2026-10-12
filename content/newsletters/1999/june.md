@@ -17,22 +17,22 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 2, Vol. I, No. 7<br/>
-June 12, 1999</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 2, Vol. I, No. 7<br/>
+June 12, 1999</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-</p><center><img alt="Queen's Own/Merging of the Ways" border="0" loading="lazy" src="/qo179.jpg"/></center>
-<center><h2>The Official Mercedes Lackey Fan Club</h2></center>
+</p><div class="center"><img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/></div>
+<div class="center"><h2>The Official Mercedes Lackey Fan Club</h2></div>
 <p>
-<a href="http://www.amazon.com/exec/obidos/ASIN/0886778336/dragonlordsofdumA/"><img align="left" alt="" border="0" loading="lazy" src="/ml54.gif"/></a><img align="right" alt="Border by Herald Alora" border="0" loading="lazy" src="/qo113.jpg"/>Black Swan - DAW released May 1999 ISBN 0886778336
+<a href="http://www.amazon.com/exec/obidos/ASIN/0886778336/dragonlordsofdumA/"><img alt="" class="float-left" loading="lazy" src="/ml54.gif"/></a><img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo113.jpg"/>Black Swan - DAW released May 1999 ISBN 0886778336
 </p><p>
 After his wife's untimely death, a powerful sorcerer dedicates his life to
 seeking revenge against all womankind. Scouring his lands to capture
@@ -64,59 +64,59 @@ source material--the actual rules could be written by someone else, if she didn'
 </p><p>
 A: Okay, here is the scoop on the possibility of a commercial Valdemar RPG. We have absolutely no objection to having a commercial RPG, but so far no one has been willing to pay the money it would take to license the property for an RPG. It's that simple. If the gaming public displays overwhelming support to a game company for such a game, perhaps one might consider licensing Valdemar. Licensing rights are a valuable commodity, and are essentially in the hands of my agent; he's not going to give them away. However, I must point out that in terms of sheer numbers, the <i>Lord Of The Rings</i> trilogy has sold over 10 MILLION copies, making it one of the all-time best sellers; we haven't even made it to the New York Times best-seller list even once. And I absolutely do not intend to write, publish, and distribute one myself. Why? Simple; it would take a year or more just to write it, which would mean a year in which I would write no books, and get no income, and there would be three less books by us out---probably an entire year without new books on the shelves. Then it would TAKE money we do not have to publish it. Then we would have to somehow convince stores to stock it. Then we would have to ship it, deal with the accounting, the returns, etc, etc, etc. And all of these other things would take time we would have to take away from writing books, because we cannot afford to hire someone else to do it for us.
 </p><p>
-</p><center>
-<table border="5" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle"><font size="4">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268.
+<td class="align-left valign-middle"><span class="fs-4">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268.
 To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
 <p>
 Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.
-</p></font></td>
+</p></span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font size="4">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at <a href="mailto:tempest_rock@hotmail.com">tempest_rock@hotmail.com</a>.
+<td class="align-left valign-middle"><span class="fs-4">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at <a href="mailto:tempest_rock@hotmail.com">tempest_rock@hotmail.com</a>.
 <tr>
-<td align="left" valign="middle"><font size="4">[Ed. note 2002:  Old text replaced with:  "For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
+<td class="align-left valign-middle"><span class="fs-4">[Ed. note 2002:  Old text replaced with:  "For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
 ".]
-</font></td></tr>
+</span></td></tr>
 <tr>
-<td align="left" valign="middle"><font size="4"><b>Flights of Fantasy</b> [Ed. note 2002:  Old contact information withheld.] specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002:  Old contact information withheld.]. Webpage <a href="http://www.fof.net">http://www.fof.net</a>, E-mail: <a href="mailto:fof@albany.net">fof@albany.net</a>. Flights of Fantasy accepts orders from inmates.
-</font></td>
+<td class="align-left valign-middle"><span class="fs-4"><b>Flights of Fantasy</b> [Ed. note 2002:  Old contact information withheld.] specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002:  Old contact information withheld.]. Webpage <a href="http://www.fof.net">http://www.fof.net</a>, E-mail: <a href="mailto:fof@albany.net">fof@albany.net</a>. Flights of Fantasy accepts orders from inmates.
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font size="4"><i>Sink or Swim</i> is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: <a href="mailto:temarrea@Yahoo.com ">temarrea@Yahoo.com</a>, or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002:  Address withheld.].
-</font></td>
+<td class="align-left valign-middle"><span class="fs-4"><i>Sink or Swim</i> is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: <a href="mailto:temarrea@Yahoo.com ">temarrea@Yahoo.com</a>, or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002:  Address withheld.].
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font size="4">Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&amp;W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002:  Ellen Million Graphics can now be found at <a href="http://www.ellenmilliongraphics.com">http://www.ellenmilliongraphics.com</a>.]. (Dealer inquiries welcome)
-</font></td>
+<td class="align-left valign-middle"><span class="fs-4">Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&amp;W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002:  Ellen Million Graphics can now be found at <a href="http://www.ellenmilliongraphics.com">http://www.ellenmilliongraphics.com</a>.]. (Dealer inquiries welcome)
+</span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font size="4">
+<td class="align-left valign-middle"><span class="fs-4">
 <b>Charities, Auctions and others . . .</b>
 <p>
 From Herald Alora . . . .
 </p><p>
 BEST FRIENDS ANIMAL SANCTUARY-The nation�s largest sanctuary for abused and abandoned animals is a non-profit organization and a part of the "no-kill" movement. Ten years ago, 17 million dogs and cats were being put to death each year. Last year, less than 5 million homeless pets were destroyed in shelters--a dramatic improvement, though still 5 million too many. You can become a part of this wonderful organization which supports no less than 1,500 animals (not just dogs and cats, but horses, bunnies and birds too!) and encourages visitors/volunteers to its sanctuary. As a member you sponsor an animal, receive a photo of the animal and receive a year�s subscription to their informative and touching magazine. I�m helping to spread the word, so if you�d like to receive a BEST FRIENDS promotional booklet, please send a SASE (large envelopes needed, please) to: [Ed. note 2002:  Old contact information withheld.]
-</p></font></td>
+</p></span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font size="4"><b>NOTICE</b> ~ I would like to see a new logo or letterhead for Queen�s Own. I know that there are lots of creative minds in this club
+<td class="align-left valign-middle"><span class="fs-4"><b>NOTICE</b> ~ I would like to see a new logo or letterhead for Queen�s Own. I know that there are lots of creative minds in this club
 and I would like to see what you can come up with. Full credit will go to the artist as usual. The logo/letterhead must contain
 "Queen�s Own - Merging of the Ways". Winner will receive a full year subscription FREE! Please send to the QO PO Box, and
-mark the envelope "Logo". Thanks in advance for your participation. Deadline for submissions is August 1, 1999.</font></td>
+mark the envelope "Logo". Thanks in advance for your participation. Deadline for submissions is August 1, 1999.</span></td>
 </tr>
-</font></td></tr></table>
-</center>
+</span></td></tr></table>
+</div>
 <p>
-</p><center>
-<img alt="Companions and Crossed Swords by Herald Alora" border="0" loading="lazy" src="/qo114.jpg"/>
-</center>
+</p><div class="center">
+<img alt="Companions and Crossed Swords by Herald Alora" loading="lazy" src="/qo114.jpg"/>
+</div>
 <p>
-</p><center>
-<table border="5" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle"><font size="4">
+<td class="align-left valign-middle"><span class="fs-4">
 <h2>LOCAL CHAPTERS</h2>
 <p>
 </p><p>
@@ -136,19 +136,19 @@ or 15 IRC�s.<p>
 am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002:  Address withheld; no longer published.]<p>
 </p></li><li><b>Golden Grove</b> , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld.  See new info at <a href="/golden-grove/">/golden-grove/</a>.<p>
 </p></li><li><b>Sonoran Collegium</b> is currently organizing itself!  Although we are geographically in Southern Arizona, all are welcome here!  The 'zine will be published bi-monthly, and dues are currently $4 US or 6 IRC's elsewhere.  If you are interested, please send SASE to us at: [Ed. note 2002: Out-of-date Address withheld.]
-</li></ul></font></td>
+</li></ul></span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font size="4">
+<td class="align-left valign-middle"><span class="fs-4">
 I am still taking suggestions regarding the following: What would you like to see in this newsletter? Are there any additional items you would like in this newsletter? Would you like something removed from the newsletter? What would you like me to do to make this newsletter everything you ever imagined? Please write me or email with any suggestions, comments or concerns as soon as possible.
 <p>
 Also, as a new touch, I would like to have member artwork to include in a gift pack to new and renewing members of QO. I will pay for everything but the postage to get it to me. Please submit your artwork. All artists will get full credit for their work, all I ask
 in return is that the artwork be in black and white, or one color and white. If possible, it be camera ready (if you are not familiar with this term, don�t worry, I can make it camera ready!) and the artist clearly writes their name somewhere in the package so that credit may be given correctly. Please send all artwork to the Queen�s Own PO box and label the envelope "Artwork". I�m hoping to have some stationary, bookmarks, postcards and whatever else takes my fancy!!
-</p><p align="right">
-Your editor and president ~ Robin</p></font></td>
+</p><p class="align-right">
+Your editor and president ~ Robin</p></span></td>
 </tr>
 <tr>
-<td align="left" valign="middle"><font size="4">
+<td class="align-left valign-middle"><span class="fs-4">
 <h2>Heralds, Bards, Healers and MORE!!!</h2>
 <p>
 Let�s congratulate our newest members who passed their requirements!!!!!!!
@@ -156,12 +156,12 @@ Let�s congratulate our newest members who passed their requirements!!!!!!!
 <b>Emily Watts</b> turned in requirements for <b>Ta�hanya shena Liha�irden</b>. This is a Kal�enedral Shin�a�in by choice. She wrote a couple of short stories, an article on Plains Jewelry and an article on Archery.
 </p><p>
 <b>Melissa Lake</b>: turned in requirements for Herald Dela. Chosen by Atreyu. She is gifted with Mindspeech. She turned in a wonderful map and a short story.
-</p></font></td></tr></table>
-</center>
+</p></span></td></tr></table>
+</div>
 <p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle"><font size="4"><h2>Other Fandoms</h2>
+<td class="align-left valign-middle"><span class="fs-4"><h2>Other Fandoms</h2>
 <p>
 </p><ul>
 <li><b>Marion Zimmer Bradley�s Fantasy Magazine.</b> Open it up and find stories that transport you from everyday into a
@@ -176,7 +176,7 @@ magical place populated by fantastic beings and governed by mystical forces. Fou
 </p></li><li><b>Pandemonium</b> - The official Melanie Rawn club invites you to join their ranks. SASE for more information:
 Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
 </p></li><li><b>Dragonlords of Dumnonia</b> - Contact L.A. Malcor at legend@oxy.edu or visit the website at <a href="http://wwww.dragonlordsnet.com">http://wwww.dragonlordsnet.com</a> for more information.
-</li></ul></font></td>
+</li></ul></span></td>
 </tr>
 </table>
 <p>
@@ -195,7 +195,7 @@ Editor and President - Robin Ready [Ed. Note 2002:  Contact info withheld.
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -215,10 +215,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

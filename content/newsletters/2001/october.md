@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 2, No. 10<br/>
-October 1, 2001</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 2, No. 10<br/>
+October 1, 2001</h2></div>
 <p>
-</p><center><img alt="Elven Queen by Michell Cornette" border="3" loading="lazy" src="/qo96.jpg"/></center>
+</p><div class="center"><img alt="Elven Queen by Michell Cornette" class="border-3" loading="lazy" src="/qo96.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -43,9 +43,9 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="left" alt="Loki by Michell Cornette" border="3" loading="lazy" src="/qo97.jpg"/>
+<img alt="Loki by Michell Cornette" class="float-left border-3" loading="lazy" src="/qo97.jpg"/>
 </p><p>
 </p><h2>Ren Faires:</h2>
 <p>
@@ -423,9 +423,9 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="right" alt="Necromancer by Michell Cornette" border="3" loading="lazy" src="/qo98.jpg"/>
+<img alt="Necromancer by Michell Cornette" class="float-right border-3" loading="lazy" src="/qo98.jpg"/>
 </p><p>
 </p><h2>Member News:</h2>
 <p>
@@ -477,10 +477,10 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><p>
-<img align="right" alt="Watching the Flames by Michell Cornette" border="3" loading="lazy" src="/qo100.jpg"/>
+<img alt="Watching the Flames by Michell Cornette" class="float-right border-3" loading="lazy" src="/qo100.jpg"/>
 </p><p>
 </p><h2>Other Fandoms:</h2>
 <p>
@@ -521,7 +521,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 </p><p>
 We have no new personae to announce at this time (although three people are very close to approval).  Several former members, however, have returned.  Check out <a href="/persona-directory/">/persona-directory/</a> as well as our Delphi forum to see who has reappeared!  (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 </p><p>
-<img align="left" alt="Reverse Kitsuni by Michell Cornette" border="3" loading="lazy" src="/qo99.jpg"/>
+<img alt="Reverse Kitsuni by Michell Cornette" class="float-left border-3" loading="lazy" src="/qo99.jpg"/>
 </p><p>
 </p><h3>From Herald-Mage Master Danya Winterborn:</h3>
 <p>
@@ -543,11 +543,11 @@ Zhai�helleva,
 </p><p>
 Danya
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
-The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <span class="c-red">don't place a fan message</span>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
 </p><p>
@@ -558,7 +558,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li>From <b>Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc</b> <a href="mailto:dragonfodder@gmail.com">dragonfodder@gmail.com</a>.  22-year-old college grad going back for her Master's in Ecology in the fall.  Loves reading, writing, fandom, Scooby-Doo and comic books.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -568,7 +568,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -591,10 +591,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></http:></p>
 </div>

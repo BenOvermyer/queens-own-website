@@ -15,21 +15,21 @@ canonical_path = "/compass-rose/spring-2002/diversity-in-libraries/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
-</p></font><center><font size="7">The Death of Diversity in our Nation's Libraries</font></center>
+</p></span><div class="center"><span class="fs-7">The Death of Diversity in our Nation's Libraries</span></div>
 <p>
-</p><center><h2>by</h2></center>
+</p><div class="center"><h2>by</h2></div>
 <p>
-</p><center><h2><a href="mailto:healermoon@gmail.com">Kendra Renaud</a></h2></center>
+</p><div class="center"><h2><a href="mailto:healermoon@gmail.com">Kendra Renaud</a></h2></div>
 <p>
 </p><blockquote><blockquote>
 <i>A young boy wandered into the local branch library in Boulder, Colorado.  Earlier that day his mother had told him of a book she loved to read as a child.  That book was <i>Charlie and the Chocolate Factory</i> by Roald Dahl.  After spending over an hour wandering among the shelves, he brushed a lock of brown hair out of his face and went in search of a librarian.  At the front desk the old librarian smiled down at him and asked if he needed help.  He nodded shyly and asked for the book his mother had told him about.  Her smile soured so fast at the mention of the title the boy was glad he didn't have a glass of milk.  Then she told him the library would never have that book in its collection.  When he asked why, she answered, "the book [espouses] a poor philosophy of life" (<a href="/compass-rose/spring-2002/diversity-in-libraries/references/#marsh">Marsh 1991:38</a>).</i></blockquote></blockquote>
@@ -66,17 +66,17 @@ Censorship in any form, whether it be for the "protection or advancement of corr
 <i>The boy visiting his friend in Cheyenne wandered through the county library.  Spotting the book he couldn't find in his own town, he gleefully grabbed it from the shelf and began to read.  Much to his dismay, he found the book too dull for his liking.  "Why did they ban this?" he wondered, "It's not bad, at least in anyway I can tell."  Wondering how many libraries banned books from their shelves for no real reason, he placed the book back on the red return shelf.  He also wondered how long it would be until this library banned the book.</i>
 </blockquote></blockquote>
 <p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/reviews/">Next</a></font></td>
-<td align="center" valign="top"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/diversity-in-libraries/references/#ref">References Cited</a></font></td>
-<td align="center" valign="top"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></font></td>
-<td align="center" valign="top"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td></tr>
+<td class="align-center valign-top"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/reviews/">Next</a></span></td>
+<td class="align-center valign-top"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/diversity-in-libraries/references/#ref">References Cited</a></span></td>
+<td class="align-center valign-top"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></span></td>
+<td class="align-center valign-top"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© Kendra Renaud 2000.  All rights reserved.</center>
+</p><div class="center">© Kendra Renaud 2000.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</div>
 </div>

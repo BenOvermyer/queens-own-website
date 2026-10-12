@@ -17,23 +17,23 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. VIII, No. 3<br/>
-November/December 1994</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. VIII, No. 3<br/>
+November/December 1994</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="The Eagle and the Nightingales" border="0" loading="lazy" src="/ml25.gif"/>
+<img alt="The Eagle and the Nightingales" class="float-right" loading="lazy" src="/ml25.gif"/>
 <i>Bardic Voices:  The Eagle &amp; the Nightingales</i> has a January/February release date: "Why is the High King of the Human kingdoms not doing his job - and thereby allowing the Church to fill the power vacuum in the human lands of Alanda? This is a matter of some concern to Nightingale and her friends; the Church is becoming ever more overtly hostile to non-human sentients (of which there are several species in Alanda) as well as to anything that it does not at least indirectly control, such as gypsies and Free Bards.
 </p><p>
 "To discover just what is going on, Nightingale will join forces with T'tyrr, a birdman with the visage of a raptor and the voice of an angelic choir. And before the King - and through him the gypsies, Free Bards and non-humans of the twenty kingdoms - is saved, the Eagle and the Nightingale will have become if not quite lovers than far more than friends . . . "
@@ -79,7 +79,7 @@ Holly Lisle is having more than her share of problems. You can send her good wis
 </p><p>
 Elizabeth Barrette's <i>Pros &amp; Cons: an Introduction to Fandom</i>  can be yours [Ed. note 2005: Out-of-date info withheld.]. Don't send a SASE because I have envelopes just the right size. This little booklet has definitions of most of the "fan jargon" used in the newsletter and at cons and is especially valuable for new members.
 </p><p>
-</p><center><img alt="Border art" border="0" loading="lazy" src="/qo264.jpg"/></center>
+</p><div class="center"><img alt="Border art" loading="lazy" src="/qo264.jpg"/></div>
 <p>
 </p><h2>MEMBER NEWS:</h2>
 <p>
@@ -127,7 +127,7 @@ For information on joining The Westerfield Club, the official fan club of <i>The
 </p><p>
 Star Trek Welcommittee is a service organization and central information center, not a club to join. Its volunteer workers answer fans' questions about ST and ST fandom. All they ask is a SASE. Questions about ST clubs, zines, conventions, merchandise? Ask the Welcommittee! Star Trek Welcommittee [Ed. note 2005: Out-of-date info withheld.].
 </p><p>
-<img align="right" alt="Border art" border="0" loading="lazy" src="/qo265.jpg"/></p><h3>From Herald Housemother:</h3>
+<img alt="Border art" class="float-right" loading="lazy" src="/qo265.jpg"/></p><h3>From Herald Housemother:</h3>
 <p>
 Brightest blessings on you all during this holiday season - and during 1995 too for that matter. Queen's Own is very important to me, and has enriched my life in many ways. Club membership is nearly a thousand, and it is a lot of work for one person. I am sometimes slow to answer letters, and I apologize. Another apology is in order: While preparing for a houseful of people for Thanksgiving Day I packed away QO material - neatly and orderly, I thought--but I do seem to have misplaced some mail. It isn't last, it's just here "someplace" and will be discovered in time for the January newsletter I'm sure. Your patience and kindness are appreciated.
 </p><p>
@@ -187,13 +187,13 @@ Herald-Mage Registrar and Dispenser of handout sheets--Guardian of the Web, [Ed.
 Newsletter Border Designs - Gibel Encarnacion<br/>
 Mailing Day Helpers (last issue)--Helen Edwards and Rusty, and of course, Steve Louvis.
 </p><p>
-</p><center>Happy Holidays! May the coming year be filled with fun &amp; friendship.</center>
+</p><div class="center">Happy Holidays! May the coming year be filled with fun &amp; friendship.</div>
 <p>
-</p><center>Love &amp; laughter, Steve &amp; Judith Louvis</center>
+</p><div class="center">Love &amp; laughter, Steve &amp; Judith Louvis</div>
 <p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -211,10 +211,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

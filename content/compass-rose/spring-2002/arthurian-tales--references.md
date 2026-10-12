@@ -15,23 +15,23 @@ canonical_path = "/compass-rose/spring-2002/arthurian-tales/references/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
-</p></font><center><h2>The Arthurian Tales</h2></center>
+</p></span><div class="center"><h2>The Arthurian Tales</h2></div>
 <p>
-</p><center><h3>by</h3></center>
+</p><div class="center"><h3>by</h3></div>
 <p>
-</p><center><h2><a href="mailto:Legend@malcor.com">Linda A. Malcor</a></h2></center>
+</p><div class="center"><h2><a href="mailto:Legend@malcor.com">Linda A. Malcor</a></h2></div>
 <p>
-</p><center><h2>Notes and References</h2></center>
+</p><div class="center"><h2>Notes and References</h2></div>
 <p>
 </p><h3>Notes</h3>
 <p>
@@ -65,18 +65,18 @@ Tennyson, Alfred Lord.  No date.  "Morte D'Arthur", "Sir Galahad", "Sir Launcelo
 </p><p>
 Mason, Eugene, trans.  1928.  Wace, <i>Roman de Brut</i> in <i>Arthurian Chronicles</i>. Edited by Ernest Rhys. New York: Dutton.
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/diversity-in-libraries/">Next</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></font></td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td></tr>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/diversity-in-libraries/">Next</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></span></td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© Linda A. Peterson 1977.  All rights reserved.</center>
+</p><div class="center">© Linda A. Peterson 1977.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</div>
 <p>
 </p><p>
 </p><p>

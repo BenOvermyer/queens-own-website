@@ -17,13 +17,13 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. I, No. 7<br/>
-September 1988</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. I, No. 7<br/>
+September 1988</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The club's name changed from Queens' Own to Queen's Own in January 1989.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
@@ -37,9 +37,9 @@ Wait 'til you see the cover of OATHBREAKERS (coming out January 1989) from the V
 </p><p>
 Editor's poll:  How many of you would be interested in a limited edition hardcover of Misty's book(s)?  Misty has the name of a very reputable small press.  If enough of us were willing to pay ±$17 a copy, we might be able to convince them to buy the hardcover rights from DAW.  Or perhaps you'd rather exercise your pens/typewriters and write the Science Fiction Book Club urging them to buy the book rights.  [Editor's note: I prefer the latter as it would give Misty more exposure, not to mention $$$.]
 </p><p>
-<i>Beware Thor Records!</i>  They have produced a new tape by Kathy Mar called "Plus ca Change" with a song Misty wrote the lyrics for called "Little Green Eyes" and have neither applied for a mechanical license from Firebird nor paid the licensing fee.  Therefore, at this time, they are to all intents and purposes plagiarizing Misty's work. <font color="red">Don't buy it!</font> [Ed. note 2002:  The October 1988 newsletter announced that Thor Records had paid for the rights.]
+<i>Beware Thor Records!</i>  They have produced a new tape by Kathy Mar called "Plus ca Change" with a song Misty wrote the lyrics for called "Little Green Eyes" and have neither applied for a mechanical license from Firebird nor paid the licensing fee.  Therefore, at this time, they are to all intents and purposes plagiarizing Misty's work. <span class="c-red">Don't buy it!</span> [Ed. note 2002:  The October 1988 newsletter announced that Thor Records had paid for the rights.]
 </p><p>
-ESPECIAL NOTE:  <font color="red">Off Centaur is now Firebird Arts and Music</font> [Ed. Note 2002: <a href="http://firebirdarts.com/">http://firebirdarts.com/</a>), and they are going to try to do a "Mercedes Lackey--Live" tape as well as revamping the "Murder, Mystery and Mayhem" tape with about a third new material and new, better (to quote Misty) background on the rest.  We'll let you know when they're available.
+ESPECIAL NOTE:  <span class="c-red">Off Centaur is now Firebird Arts and Music</span> [Ed. Note 2002: <a href="http://firebirdarts.com/">http://firebirdarts.com/</a>), and they are going to try to do a "Mercedes Lackey--Live" tape as well as revamping the "Murder, Mystery and Mayhem" tape with about a third new material and new, better (to quote Misty) background on the rest.  We'll let you know when they're available.
 </p><p>
 Some of you have asked Misty for copies of her songbook.  With so many of you, the time, paper, ribbon and postage make doing this prohibitive.  Think about it.  Wouldn't you rather she spent her time, energy and money writing more books?  Perhaps, just perhaps, if all continues to go well, Firebird Arts and Music will consider doing something about this.  Again, if this is what you want, exercise your pens/typewriters and let them know.  [Ed. Note 2002: Old address withheld.]
 </p><p>
@@ -59,7 +59,7 @@ Judith Louvis and Sally Paduch
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -79,10 +79,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

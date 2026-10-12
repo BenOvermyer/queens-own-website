@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 6, No. 1<br/>
-January 1, 2005</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 6, No. 1<br/>
+January 1, 2005</h2></div>
 <p>
-</p><center><img alt="by Devin Harris" border="5" loading="lazy" src="/qo233.jpg"/></center>
+</p><div class="center"><img alt="by Devin Harris" class="border-5" loading="lazy" src="/qo233.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -71,7 +71,7 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
@@ -93,16 +93,16 @@ For additional Ren. Faire information, visit the Renaissance Faire Homepage at <
 </p><h3>California</h3>
 <p>
 <b>DIRK BENEDICT CRUISE.</b>  Website:
-<ahref="http:>http://www.swainworldcruises.com/benedict.  E-mail: <a href="mailto:Susan@Swaintours.com">Susan@Swaintours.com</a>.  Address: Los Angeles, California.  Dates: 1/18/05 � 1/25/05.
+<ahref="http:">http://www.swainworldcruises.com/benedict.  E-mail: <a href="mailto:Susan@Swaintours.com">Susan@Swaintours.com</a>.  Address: Los Angeles, California.  Dates: 1/18/05 � 1/25/05.
 <p>
 </p><h3>Minnesota</h3>
 <p>
-<b>CONVERGENCE.</b>  E-mail: <a href="maito:info@convergence-con.org">info@convergence-con.org</a>.  Website:  <a href="http://www.convergence-con.org/">http://www.convergence-con.org/</a>.  Address: 1437 Marshall Avenue, Suite 203, St. Paul, MN, 55104.  Site Address:  Sheraton South, 7800 Normandale Blvd., Bloomington, MN, 55435.  Dates:  7/1/05 � 7/3/05.  <font color="red"><b>Guests: Mercedes Lackey and Larry Dixon!</b></font>
-<font face="Bookman Old Style" size="4">
+<b>CONVERGENCE.</b>  E-mail: <a href="maito:info@convergence-con.org">info@convergence-con.org</a>.  Website:  <a href="http://www.convergence-con.org/">http://www.convergence-con.org/</a>.  Address: 1437 Marshall Avenue, Suite 203, St. Paul, MN, 55104.  Site Address:  Sheraton South, 7800 Normandale Blvd., Bloomington, MN, 55435.  Dates:  7/1/05 � 7/3/05.  <span class="c-red"><b>Guests: Mercedes Lackey and Larry Dixon!</b></span>
+<span class="ff-bookman fs-4">
 <p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://www.geocities.com/jengacons/"> http://www.geocities.com/jengacons/</a>.
 </p><p>
-<img align="right" alt="by Devin Harris" border="5" loading="lazy" src="/qo234.jpg"/></p><p>
+<img alt="by Devin Harris" class="float-right border-5" loading="lazy" src="/qo234.jpg"/></p><p>
 </p><h2>Member News:</h2>
 <p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.37 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
@@ -157,7 +157,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 <li>E-mail:it to <a href="mailto:gbertke@fuse.net">gbertke@fuse.net</a>.  (This is my father's e-mail address.  Use it for submissions for Herald's Companion only.)</li>
 </ol>
 </li></ul>
-</font></p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</span></p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <h2>Other Fandoms:</h2>
 <p>
 By way of news from other fandoms, we were saddened to learn of the death of Douglas Adams, the author of <i>The Hitchhiker's Guide to the Galaxy</i> and other works.  He had a heart attack at the age of 49.  One of our members has alerted us to a wonderful eulogy for Adams by Richard Dawkins: <a href="http://www.edge.org/documents/adams_index.html">http://www.edge.org/documents/adams_index.html</a>.
@@ -184,9 +184,9 @@ By way of news from other fandoms, we were saddened to learn of the death of Dou
 </li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul><br/>
 <br/>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <br/>
-<img align="right" alt="by Devin Harris" border="5" loading="lazy" src="/qo236.jpg"/>
+<img alt="by Devin Harris" class="float-right border-5" loading="lazy" src="/qo236.jpg"/>
 <p>
 </p><h3>Collegium News:</h3><br/>
 <br/>
@@ -236,7 +236,7 @@ If you were working on a persona who is no longer listed at <a href="/club-chat/
 </li></ul>
 <p>If you know any of these folks, please have them contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> with a current e-mail address.
 </p><p>
-<img align="left" alt="by Devin Harris" border="5" loading="lazy" src="/qo235.jpg"/></p><h3>From Healer Adept Moonstar:</h3>
+<img alt="by Devin Harris" class="float-left border-5" loading="lazy" src="/qo235.jpg"/></p><h3>From Healer Adept Moonstar:</h3>
 <p>
 I first want to wish for hope and safety to all those in the affected regions from the Indian Ocean disaster. My thoughts are with them, and I am relieved to see aid trickling into the areas. Especially this time of year when our thoughts are focused on our family, we really are thankful for the blessings that we have and pray for those who are not as lucky. I continue to watch for the individual miracles in that part of the world and rejoiced when the lost little Swedish boy was reunited with his father.
 </p><p>
@@ -248,7 +248,7 @@ Hugs-
 </p><p>
 Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <h2>Personals:</h2> <br/>
 <br/>
 <ul>
@@ -262,7 +262,7 @@ Moonstar
 </li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <br/>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 </p><p>Newsletters are published on (or near) the first of each month.
@@ -284,10 +284,10 @@ Claremore, OK 74017
 
 </p><p>Healer Adept Moonstar
 
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></ahref="http:></p>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+</p></g></p></ahref="http:"></p>
 </div>

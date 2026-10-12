@@ -15,9 +15,9 @@ canonical_path = "/reincarnated-characters/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Herald List</h2></center>
-<center><h2>(Revised 4/10/03)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Herald List</h2></div>
+<div class="center"><h2>(Revised 4/10/03)</h2></div>
 <p>
 This is a list of characters who have been reincarnated in Misty's
 Valdemar series.  The basic list was taken from my
@@ -28,7 +28,7 @@ has been helpling to add to it.
 The codes that follow the names tell which book or story mentions the character.
 The codes are:
 </p><p>
-</p><table border="1" cellpadding="2" cellspacing="1">
+</p><table class="border-1 cellpadding-2 cellspacing-1">
 <tr>
 <td>AFa</td>
 <td>Arrow's Fall</td>
@@ -108,13 +108,13 @@ If you spot any glitches or if you have information you'd like me to add
 (such a new "match" you've spotted or information about where you can find
 listed pairs), message me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Reincarnation List</h2>
 <p>
 Here are the reincarnated characters of Valdemar and environs.
 </p><p>
-</p><table border="1" cellpadding="2" cellspacing="1">
+</p><table class="border-1 cellpadding-2 cellspacing-1">
 <tr>
 <th colspan="2">First Incarnation</th>
 <th colspan="2">Second Incarnation</th>
@@ -178,9 +178,9 @@ Here are the reincarnated characters of Valdemar and environs.
 I put question marks after the pairs that I'm uncertain about.
 They may or may not be reincarnations. If you know, please <a href="mailto:Legend@malcor.com">tell me</a>!
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bardrgn2.gif"/></div>
 <p>
-<font face="Harem">
-</font>
+<span class="ff-harem">
+</span>
 </p>
 </div>

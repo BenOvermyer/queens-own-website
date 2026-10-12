@@ -14,22 +14,21 @@ canonical_path = "/club-seal/"
 +++
 
 <div class="original-page">
-
-<font size="4">
-</font><center><h2>Queen's Own Seal</h2></center>
-<center><h3>(Revised 9/28/03)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own Seal</h2></div>
+<div class="center"><h3>(Revised 9/28/03)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/pegasus.gif"/></div>
 <p>
 Members of Queen's Own are granted permission to display this seal on their websites and personal computers.  All other use of this seal and permission for nonmembers to display the seal are expressly denied.  The original artwork is ©2003 Hope Nickel, who has granted QO permission for the use of this art in our seal.
 </p><p>
-</p><center><img alt="Queen's Own Seal, 2003-2004" border="0" loading="lazy" src="/qoseal.jpg"/></center>
+</p><div class="center"><img alt="Queen's Own Seal, 2003-2004" loading="lazy" src="/qoseal.jpg"/></div>
 <p>
 </p><h2>Instructions</h2>
 <p>
 </p><ol>
 <li>Right click on the image and use the "Save Image As" option to save the file to your disk.  Post the copy of the
-image to your site.)  <font color="red">Do not steal our bandwidth or permission to display this seal will be revoked.</font><p>
+image to your site.)  <span class="c-red">Do not steal our bandwidth or permission to display this seal will be revoked.</span><p>
 </p></li><li>Paste this code on the page where you want the image to appear:
 <p>
 </p><xmp>
@@ -52,6 +51,6 @@ to the link list (below).
 </li><li><a href="http://valdemarwaystation.iwarp.com/">Valdemar Estate Waystation</a>
 </li></ul>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

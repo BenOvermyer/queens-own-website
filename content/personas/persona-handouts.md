@@ -14,12 +14,12 @@ canonical_path = "/persona-handouts/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>Handouts</h2></center>
-<center><h3>(Revised 10/16/20)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>Handouts</h2></div>
+<div class="center"><h3>(Revised 10/16/20)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/></div>
 <p>
 There are several types of persona available.  You may only have one persona at a time.  If you create a new persona, your current persona will be moved to the <a href="/npc-directory/">Non-Player Character</a> (NPC) status when your new persona is recognized in the club newsletter.  The types of persona available are:
 </p><p>
@@ -94,17 +94,17 @@ There are several types of persona available.  You may only have one persona at 
 </li></ul>
 </li></ul>
 <p>
-</p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" border="0" loading="lazy" src="/ml19.gif"/></a></center>
+</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml19.gif"/></a></div>
 <p>
 If you do not see a persona type listed here, that is because some types have not been approved for play.  Many of the main characters in the books are "Misty Only" types.  That means that they are types that only Misty may write about; they are not available for persona creation.  For instance, you may not play a kestra'chern or an assassin Herald.  From time to time new persona handouts are approved and old ones are revised.  I announce such updates in the <a href="/newsletter-guidance/">Queen's Own Newsletter</a>.
 </p><p>
-</p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" border="0" loading="lazy" src="/ml1.gif"/></a></center>
+</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml1.gif"/></a></div>
 <p>
 <a id="rules" name="rules"></a>
 </p><h2>General Rules</h2>
 <p>
 </p><ul>
-<li>Each individual is free to develop material in accordance with the setting described in Misty's books; however, <font color="red"><i>her copyrighted characters may not be used for this purpose.  You may <b>not</b> claim to be directly related to any of Misty's characters</i></font>.  In other words, you can't be Elcarth's son or Ancar's daughter.  Make your <i>own</i> status.  You also cannot use Misty's copyrighted characters as major characters in any story you may write. If they're just passing through, that's okay.
+<li>Each individual is free to develop material in accordance with the setting described in Misty's books; however, <span class="c-red"><i>her copyrighted characters may not be used for this purpose.  You may <b>not</b> claim to be directly related to any of Misty's characters</i></span>.  In other words, you can't be Elcarth's son or Ancar's daughter.  Make your <i>own</i> status.  You also cannot use Misty's copyrighted characters as major characters in any story you may write. If they're just passing through, that's okay.
 <p>
 </p></li><li>If you wish to write a story set in Misty's worlds, you need to do so under the <a href="https://creativecommons.org/">Creative Commons</a> license.
 <p>
@@ -125,7 +125,7 @@ Characters should stay within Talia's time and use an alternate time-line in whi
 </p></li><li>If you draw, design or create something for a requirement, your work <i>must</i> be original.  Designing something means that I expect to see a picture or drawing; creating something means that I expect to see something that you actually sewed or made with your hands.
 </li></ul>
 <p>
-</p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" border="0" loading="lazy" src="/ml3.gif"/></a></center>
+</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml3.gif"/></a></div>
 <p>
 <a id="submit" name="submit"></a>
 </p><h2>Submission Instructions</h2>
@@ -151,7 +151,7 @@ Remember, we can't contact you with questions or approval if we don't have a val
 </p></li><li>Submit personae materials via e-mail, if possible.  Send persona sketches, stories, poems and other written text in either MS Word or .txt/ASCII format.  Send proof that you have filled your other requirements.  You can scan your CPR cards, pictures, costume designs, drawings and so forth, and send them either as .jpgs or .gifs.
 </li></ul>
 <p>
-</p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" border="0" loading="lazy" src="/ml2.gif"/></a></center>
+</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml2.gif"/></a></div>
 <p>
 <a id="help" name="help"></a>
 </p><h2>Helpful Hints</h2>
@@ -168,8 +168,8 @@ will be more likely to hear when "I am" sounds a bit stilted and "I'm" would rea
 Zhai'helleva,<br/>
 <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>
 </p><p>
-</p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
+</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

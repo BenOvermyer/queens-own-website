@@ -14,16 +14,16 @@ canonical_path = "/kalen-edral-handout/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Kal'enedral Handout</h2></center>
-<center><h3>Criteria established by Mercedes Lackey</h3></center>
-<center><h3>Based on the <b>Vows and Honor</b> duology</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Kal'enedral Handout</h2></div>
+<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
+<div class="center"><h3>Based on the <b>Vows and Honor</b> duology</h3></div>
 <p>
 Distributed by:
 </p><p>
-</p><center><h3>Queens Own<br/>
+</p><div class="center"><h3>Queens Own<br/>
 The Official Mercedes Lackey Fan Club
-</h3></center>
+</h3></div>
 <p>
 </p><h2>To become a Kal'enedral:</h2>
 <p>
@@ -34,7 +34,7 @@ The Official Mercedes Lackey Fan Club
 <p>
 You are now at the Student stage.  A Leshya'e Kal'enedral appears to teach you.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 </p><h2>Kal'enedral, Beginner</h2>
 <p>
@@ -49,7 +49,7 @@ OR
 <li>Join a martial arts class and attain the first rank
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 </p><h2>Kal'enedral, Advanced</h2>
 <p>
@@ -68,7 +68,7 @@ And
 <li>Advance to the next rank in your Re-enactment Group or martial arts class.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 </p><h2>Kal'enedral, Priest/Priestess</h2>
 <p>
@@ -91,7 +91,7 @@ And
 <li>Advance to the next rank in your Re-enactment Group or martial arts class.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 </p><h2>Kal'enedral, Shaman</h2>
 <p>
@@ -123,7 +123,7 @@ And
 <li>Advance to the next rank in your Re-enactment Group or martial arts class.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 </p><h2>Kal'enedral, Leshya'e</h2>
 <p>
@@ -164,7 +164,7 @@ And
 <p>
 Remember, if Kal'enedral are rare, Leshya'e Kal'enedral are a hundred times rarer, so the effort is that much more.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
 </p><h2>Special Notes for Kal'enedral</h2>
 <p>
@@ -183,8 +183,8 @@ If you have additional questions, check out the <a href="/religions-faq/">Religi
 Zhai'helleva,<br/>
 <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/bargrass.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bargrass.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

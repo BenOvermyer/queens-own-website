@@ -17,19 +17,19 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. VIII, No. 6<br/>
-March 1995</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. VIII, No. 6<br/>
+March 1995</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="right" alt="Border Art" border="0" loading="lazy" src="/qo282.jpg"/>
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo282.jpg"/>
 Dear Misty Fans,
 </p><p>
 Last month we learned about some of the birst that share the "Eerie Aerie," Misty and LArry's home: a Blue-Streak Lory named Visyr; Jayde, a Yellow-Collar Mini Macaw; Harlie Quinn, a Blue-And-Gold Macaw; and Ikaika, an Umbrella Cockatoo.  There are more!
@@ -183,10 +183,10 @@ Herald-Mage Registrar/Dispenser of handout sheets - Guardian of the Web [Ed. Not
 Newsletter Border Design - Page 1 Heather l. Wedo; page 6 Meredith Hulka<br/>
 Mailing Day Helpers (last issue) - Meredith Baldino, Helen Edwards and Rusty, Barbara Leflar Jackson, and Steve Louvis.
 </p><p>
-</p><center><img alt="Border Art" border="0" loading="lazy" src="/qo283.jpg"/></center>
+</p><div class="center"><img alt="Border Art" loading="lazy" src="/qo283.jpg"/></div>
 [End Excerpt]
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -206,10 +206,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 5, No. 1<br/>
-January 1, 2004</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 5, No. 1<br/>
+January 1, 2004</h2></div>
 <p>
-</p><center><img alt="Battle by Devin Harris" border="5" loading="lazy" src="/qo191.jpg"/></center>
+</p><div class="center"><img alt="Battle by Devin Harris" class="border-5" loading="lazy" src="/qo191.jpg"/></div>
 <p>Heyla, Misty fans!
 
 </p><p>Happy New Year!  We hope you all had a wonderful holiday season.  It's looking as if 2004 will be an exciting (and hectic &lt;g&gt;) year as the club continues to grow.  We are very grateful to all the wonderful people who have stepped forward to help us out.  A thousand thanks!  We couldn't run QO without you!
@@ -104,22 +104,22 @@ Laguna Beach, CA 92652
 
 </p><p><b>January 10 - NOVA</b><br/>
 Geo.Mason Regional Library<br/>
-<font color="#0000ff">7001 Little River Turnpike, Annandale, VA 22003-5975</font>
+<span class="c-blue">7001 Little River Turnpike, Annandale, VA 22003-5975</span>
 </p><p><b>January 24 - Richmond</b><br/>
 Atlee Community Church<br/>
-<font color="#0000ff">7171 Verdi Lane<br/>
-Mechanicsville, VA 23116 </font>
+<span class="c-blue">7171 Verdi Lane<br/>
+Mechanicsville, VA 23116 </span>
 </p><p><b>February 7 -Fredericksburg</b><br/>
 C Melvin Snow Library<br/>
-<font color="#0000ff">8800 Courthouse Rd<br/>
-Spotsylvania, VA</font>
+<span class="c-blue">8800 Courthouse Rd<br/>
+Spotsylvania, VA</span>
 <b>All auditions:  10 am- 3 pm</b>
 </p><p>Scripted and Nonscripted Parts.  All ages encouraged to audition. All training provided.  Volunteer &amp; Crew applications also accepted: EMT, Security, Grounds, &amp; Sales.  Renaissance Faire runs weekends 5/1/04-6/13/04.  Rehearsals begin in March.  Our Faire has a family and educational focus.  <b>Produced by Out of the Woodwork Productions, a 501(c)3 volunteer educational entertainment non-profit organization.</b>  For more information  call (703) 508-5036 or visit <a href="http://www.VaRF.org">http://www.VaRF.org.</a>
 </p><p>Zhai'helleva,
 
 </p><p>Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 </p><p>
-<img align="right" alt="Calling Down the Moon by Devin Harris" border="5" loading="lazy" src="/qo192.jpg"/>
+<img alt="Calling Down the Moon by Devin Harris" class="float-right border-5" loading="lazy" src="/qo192.jpg"/>
 </p><h2>Ren Faires:</h2>
 <p>Here are the Faires we know about for January.  Faires are indexed alphabetically by state. Have any information about any other Renaissance Faires in your area?  Send it to us at <a href="mailto:legend@malcor.com"> Legend@malcor.com.</a>
 </p><h3>Arizona</h3>
@@ -236,7 +236,7 @@ Dates:  2/07/04 - 3/28/04.  Open/Close: 10:00 AM - 6:00 PM.
 
 </p><p>For additional Convention information, visit Convention Outpost by Jenga at <a href="http://www.geocities.com/jengacons/"> http://www.geocities.com/jengacons/</a>.
 </p><p>
-<img align="left" alt="Dragons by Devin Harris" border="5" loading="lazy" src="/qo193.jpg"/>
+<img alt="Dragons by Devin Harris" class="float-left border-5" loading="lazy" src="/qo193.jpg"/>
 </p><p>
 </p><h2>Member News:</h2>
 <p>
@@ -312,7 +312,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <br/>
 </li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.<br/>
 </li></ul>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <h2>Other Fandoms:</h2>
 <ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.<br/>
@@ -336,7 +336,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul><br/>
 <br/>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <br/>
 <h3>Collegium News:</h3><br/>
 <br/>
@@ -379,7 +379,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 </ul>
 <p>If you know any of these folks, please have them contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> with a current e-mail address.
 </p><p>
-<img align="right" alt="Fear Me by Devin Harris" border="5" loading="lazy" src="/qo194.jpg"/>
+<img alt="Fear Me by Devin Harris" class="float-right border-5" loading="lazy" src="/qo194.jpg"/>
 </p><p>
 </p><h3>From Healer Adept Moonstar:</h3>
 <p>Happy New Year!  I hope everyone's Winter Celebrations, whatever they may be, were wonderful, festive and spent with family and friends. I hope we were all good boys and girls this year. Santa's sleigh was guided to my door with Magical Reindeer Food that my son made at school.
@@ -405,7 +405,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 
 </p><p>Moonstar
 
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <h2>Personals:</h2> <br/>
 <br/>
 <ul>
@@ -420,7 +420,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks! </li>
 </ul>
 <br/>
-<center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+<div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 </p><p>Newsletters are published on (or near) the first of each month.
@@ -443,10 +443,10 @@ Claremore, OK 74017
 
 </p><p>Healer Adept Moonstar
 
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></grin></p></g></p></g></p>
 </div>

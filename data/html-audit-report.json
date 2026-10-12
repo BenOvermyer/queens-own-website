@@ -14,14 +14,6 @@
         "occurrences": 2,
         "files": 2
       },
-      "obsolete_element": {
-        "occurrences": 3563,
-        "files": 248
-      },
-      "presentational_attribute": {
-        "occurrences": 8783,
-        "files": 248
-      },
       "table_without_header": {
         "occurrences": 150,
         "files": 62
@@ -47,27 +39,7 @@
     },
     {
       "path": "content/community/chapters.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "center x7",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "border x2",
-            "align x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "99a7eab400d6fd24b88df5593a456bc5c87db4975e0bf03784192b86dce9363d",
         "links": 10,
@@ -93,31 +65,7 @@
     },
     {
       "path": "content/community/club-chat.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x8",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 203,
-          "examples": [
-            "align x99",
-            "valign x98",
-            "border x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "size x1",
-            "width x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "ce63a1e832e699797401fa2dcd25a5da673ff902aecddff65c8540d3765daca4",
         "links": 9,
@@ -143,30 +91,6 @@
     {
       "path": "content/community/club-webring.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "center x6",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "align x7",
-            "border x5",
-            "size x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "face x1",
-            "height x1",
-            "width x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -208,30 +132,6 @@
             "h2"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 84,
-          "examples": [
-            "font x43",
-            "center x41"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 185,
-          "examples": [
-            "align x36",
-            "face x27",
-            "size x24",
-            "valign x24",
-            "border x22",
-            "width x21",
-            "height x16",
-            "cellspacing x7"
-          ]
         },
         {
           "rule": "table_without_header",
@@ -308,30 +208,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 42,
-          "examples": [
-            "center x22",
-            "font x20"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 86,
-          "examples": [
-            "border x20",
-            "face x19",
-            "cellpadding x16",
-            "cellspacing x16",
-            "align x7",
-            "valign x5",
-            "height x1",
-            "size x1"
-          ]
         },
         {
           "rule": "table_without_header",
@@ -431,27 +307,7 @@
     },
     {
       "path": "content/community/delphi-forum.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "center x7",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "align x1",
-            "border x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "d8271227471c7a31c7dd0ba7a4fadc82b1cf66b36d9c719723c79f2cca8429af",
         "links": 4,
@@ -469,30 +325,6 @@
     {
       "path": "content/community/fun-stuff.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x9",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 60,
-          "examples": [
-            "border x32",
-            "align x8",
-            "width x5",
-            "height x4",
-            "valign x4",
-            "size x3",
-            "face x2",
-            "cellpadding x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -533,30 +365,6 @@
       "path": "content/community/golden-grove.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "center x8",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 28,
-          "examples": [
-            "width x6",
-            "align x4",
-            "border x4",
-            "size x4",
-            "face x3",
-            "valign x3",
-            "height x2",
-            "cellpadding x1"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 1,
@@ -584,27 +392,7 @@
     },
     {
       "path": "content/community/mercedes-lackey-links.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "center x7",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "border x3",
-            "align x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "2c2e0a40bc8f8c691bc89736798b887ce7f0b2cb5787095ab4f6e123620db193",
         "links": 17,
@@ -622,30 +410,6 @@
     {
       "path": "content/community/pacific-northwest-collegium.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 36,
-          "examples": [
-            "center x31",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 37,
-          "examples": [
-            "border x11",
-            "width x7",
-            "align x4",
-            "face x3",
-            "height x3",
-            "size x3",
-            "valign x3",
-            "cellpadding x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -676,27 +440,7 @@
     },
     {
       "path": "content/community/role-playing.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "center x6",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "border x2",
-            "align x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "d0e3bbb472c7ee5c98962a96821935f3c1a8d59dc23b867339996021d6feafee",
         "links": 3,
@@ -725,30 +469,6 @@
             "h2"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 37,
-          "examples": [
-            "align x12",
-            "valign x12",
-            "face x3",
-            "width x3",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2",
-            "height x1"
-          ]
         }
       ],
       "baseline": {
@@ -772,30 +492,6 @@
     {
       "path": "content/community/sonoran-collegium.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "center x6",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 28,
-          "examples": [
-            "width x6",
-            "align x4",
-            "border x4",
-            "size x4",
-            "face x3",
-            "valign x3",
-            "height x2",
-            "cellpadding x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -842,31 +538,6 @@
           "acknowledged": "The page intentionally shows the webring HTML fragment as escaped text for members to copy."
         },
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x8",
-            "font x5",
-            "xmp x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 33,
-          "examples": [
-            "border x7",
-            "align x6",
-            "width x6",
-            "size x4",
-            "valign x3",
-            "face x2",
-            "height x2",
-            "cellpadding x1"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 1,
@@ -893,29 +564,6 @@
     {
       "path": "content/compass-rose/about.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x9",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "valign x2",
-            "cellspacing x1",
-            "width x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -944,32 +592,7 @@
     },
     {
       "path": "content/compass-rose/spring-2002/_index.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x10",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 21,
-          "examples": [
-            "align x5",
-            "face x4",
-            "size x4",
-            "valign x3",
-            "border x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "width x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "0dec7dbd8bc83dfdcb44d88aa895bad50b5255c689269cc466eb7db1a3d52b4b",
         "links": 17,
@@ -1004,30 +627,6 @@
     {
       "path": "content/compass-rose/spring-2002/arthurian-tales--references.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x7",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 36,
-          "examples": [
-            "width x9",
-            "align x5",
-            "face x5",
-            "size x5",
-            "valign x5",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -1072,30 +671,6 @@
       "path": "content/compass-rose/spring-2002/arthurian-tales.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "font x9",
-            "center x7"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 56,
-          "examples": [
-            "width x13",
-            "size x9",
-            "align x8",
-            "face x8",
-            "valign x8",
-            "border x3",
-            "cellpadding x3",
-            "cellspacing x3"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 3,
@@ -1128,30 +703,6 @@
     {
       "path": "content/compass-rose/spring-2002/diversity-in-libraries--references.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "center x6",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 36,
-          "examples": [
-            "width x9",
-            "align x5",
-            "face x5",
-            "size x5",
-            "valign x5",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -1202,30 +753,6 @@
       "path": "content/compass-rose/spring-2002/diversity-in-libraries.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "font x7",
-            "center x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 38,
-          "examples": [
-            "size x7",
-            "align x6",
-            "face x6",
-            "valign x6",
-            "width x6",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -1253,30 +780,6 @@
       "path": "content/compass-rose/spring-2002/editorial.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "font x5",
-            "center x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 37,
-          "examples": [
-            "width x9",
-            "align x5",
-            "face x5",
-            "size x5",
-            "valign x5",
-            "border x3",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -1302,30 +805,6 @@
     {
       "path": "content/compass-rose/spring-2002/music-in-medieval-ireland--references.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x7",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 36,
-          "examples": [
-            "width x9",
-            "align x5",
-            "face x5",
-            "size x5",
-            "valign x5",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -1403,30 +882,6 @@
       "path": "content/compass-rose/spring-2002/music-in-medieval-ireland.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "font x8",
-            "center x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 48,
-          "examples": [
-            "width x12",
-            "size x8",
-            "align x7",
-            "face x7",
-            "valign x7",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -1453,30 +908,6 @@
     {
       "path": "content/compass-rose/spring-2002/reviews.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "font x9",
-            "center x7"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 57,
-          "examples": [
-            "width x14",
-            "size x9",
-            "align x8",
-            "face x8",
-            "valign x8",
-            "border x3",
-            "cellpadding x3",
-            "cellspacing x3"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -1535,32 +966,7 @@
     },
     {
       "path": "content/compass-rose/summer-2000/_index.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "center x13",
-            "font x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 27,
-          "examples": [
-            "align x5",
-            "face x5",
-            "size x5",
-            "border x3",
-            "valign x3",
-            "width x2",
-            "cellpadding x1",
-            "cellspacing x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "5b5c9c5978602e7551db2894915d65f6ff16402acc1621a02bb58abf3c2eab92",
         "links": 23,
@@ -1601,30 +1007,6 @@
       "path": "content/compass-rose/summer-2000/editorial.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "font x5",
-            "center x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 37,
-          "examples": [
-            "width x9",
-            "align x5",
-            "face x5",
-            "size x5",
-            "valign x5",
-            "border x3",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -1650,30 +1032,6 @@
     {
       "path": "content/compass-rose/summer-2000/either-or--references.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x7",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 36,
-          "examples": [
-            "width x9",
-            "align x5",
-            "face x5",
-            "size x5",
-            "valign x5",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -1729,30 +1087,6 @@
           "note": "Block element opened while a <p> is open; close the paragraph first."
         },
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "font x9",
-            "center x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 45,
-          "examples": [
-            "width x10",
-            "size x8",
-            "face x7",
-            "align x6",
-            "valign x6",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -1779,30 +1113,6 @@
     {
       "path": "content/compass-rose/summer-2000/from-reptile-to-mammal--references.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x7",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 36,
-          "examples": [
-            "width x9",
-            "align x5",
-            "face x5",
-            "size x5",
-            "valign x5",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -1852,30 +1162,6 @@
       "path": "content/compass-rose/summer-2000/from-reptile-to-mammal.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "font x7",
-            "center x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 42,
-          "examples": [
-            "width x10",
-            "size x7",
-            "align x6",
-            "face x6",
-            "valign x6",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -1902,30 +1188,6 @@
     {
       "path": "content/compass-rose/summer-2000/in-the-name-of-god--references.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x7",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 36,
-          "examples": [
-            "width x9",
-            "align x5",
-            "face x5",
-            "size x5",
-            "valign x5",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -2010,30 +1272,6 @@
       "path": "content/compass-rose/summer-2000/in-the-name-of-god.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "font x8",
-            "center x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 48,
-          "examples": [
-            "width x12",
-            "size x8",
-            "align x7",
-            "face x7",
-            "valign x7",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -2071,30 +1309,6 @@
     {
       "path": "content/compass-rose/summer-2000/reviews.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "font x11",
-            "center x8"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 67,
-          "examples": [
-            "width x16",
-            "size x11",
-            "align x10",
-            "face x10",
-            "valign x10",
-            "border x3",
-            "cellpadding x3",
-            "cellspacing x3"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -2162,30 +1376,6 @@
       "path": "content/compass-rose/summer-2000/sink-or-swim.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "center x7",
-            "font x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 37,
-          "examples": [
-            "width x9",
-            "size x6",
-            "align x5",
-            "face x5",
-            "valign x5",
-            "border x2",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -2224,30 +1414,6 @@
             "h2"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x5",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 503,
-          "examples": [
-            "align x245",
-            "valign x245",
-            "border x4",
-            "face x3",
-            "width x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "height x1"
-          ]
         }
       ],
       "baseline": {
@@ -2276,30 +1442,6 @@
             "h2"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x5",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 530,
-          "examples": [
-            "align x258",
-            "valign x258",
-            "border x4",
-            "face x4",
-            "width x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "height x1"
-          ]
         }
       ],
       "baseline": {
@@ -2328,30 +1470,6 @@
             "h2"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x5",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 421,
-          "examples": [
-            "align x204",
-            "valign x204",
-            "border x4",
-            "face x3",
-            "width x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "height x1"
-          ]
         }
       ],
       "baseline": {
@@ -2370,27 +1488,7 @@
     },
     {
       "path": "content/fan-fiction/_index.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "center x7",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "border x2",
-            "align x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "eaa3cc8507304549c32d9b194376e1f8671cdb4d29ecedcec77cd300554307f5",
         "links": 27,
@@ -2411,28 +1509,7 @@
     },
     {
       "path": "content/fan-fiction/children-of-velgarth.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x9",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "color x2",
-            "align x1",
-            "border x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "87d4e4e793f797ff10daed1fc5053e1042b5b189b4b84bf10fd9a2eec1222260",
         "links": 8,
@@ -2460,26 +1537,6 @@
       "path": "content/fan-fiction/mercedes-lackey-release-form.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "center x1",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "align x8",
-            "border x2",
-            "width x2",
-            "size x1"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -2504,28 +1561,7 @@
     },
     {
       "path": "content/fan-fiction/release-form-instructions.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "06c028d2c85fd1815c66c1af7bc3ce25e4d07c46cbe2e7e9f91dd47623fcadd2",
         "links": 6,
@@ -2540,27 +1576,7 @@
     },
     {
       "path": "content/membership/club-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "ae4456578536918ef2552ab8e0c666e608d52c928c36a81140321fe5b84c869c",
         "links": 4,
@@ -2589,27 +1605,6 @@
           ],
           "note": "Escaped tags in text; usually a link or element whose source was already broken.",
           "acknowledged": "The page intentionally shows the seal's HTML fragment as escaped text for members to copy."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "center x4",
-            "font x2",
-            "xmp x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "border x2",
-            "align x1",
-            "color x1",
-            "size x1"
-          ]
         }
       ],
       "baseline": {
@@ -2629,27 +1624,7 @@
     },
     {
       "path": "content/membership/how-to-join.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 6,
-          "examples": [
-            "center x5",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "align x1",
-            "border x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "9fba2fcd2639b349a7cf65a0caef3e53946a02bcd636d810fff19f5a0547bf5b",
         "links": 7,
@@ -2666,31 +1641,7 @@
     },
     {
       "path": "content/membership/mentors.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "font x15",
-            "center x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 62,
-          "examples": [
-            "align x15",
-            "size x15",
-            "face x14",
-            "valign x14",
-            "border x2",
-            "cellpadding x1",
-            "cellspacing x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "3aa38739649ff36969a86b7429bf44438bab1f493b437ccaca6696279940e1b7",
         "links": 11,
@@ -2709,29 +1660,7 @@
     },
     {
       "path": "content/newsletters/1988/april.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "6ecbf6d912617af5f001bc7ef852592da8fe1678e05a7d06ead48b0ace25cb85",
         "links": 8,
@@ -2747,29 +1676,7 @@
     },
     {
       "path": "content/newsletters/1988/july.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "259b6cea1b9e70d5a5cd39342f04444e565cf82fa3b0576cdc64419430eb4bbd",
         "links": 8,
@@ -2785,29 +1692,7 @@
     },
     {
       "path": "content/newsletters/1988/june.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "c0266c44cd8b5f3e83283f640a5e7793de823e5185a2abcbe0a2f882cbf25aef",
         "links": 7,
@@ -2823,29 +1708,7 @@
     },
     {
       "path": "content/newsletters/1988/may.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "a0f4f925c3002a07cdfaaf8f43bbe359e479554e626b3473e5f5cb57c9069902",
         "links": 7,
@@ -2861,29 +1724,7 @@
     },
     {
       "path": "content/newsletters/1988/november.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "7cb925fa2e61fedaeadb395ede163d00df8be17bff8778640362cb7f8853a21f",
         "links": 8,
@@ -2899,29 +1740,7 @@
     },
     {
       "path": "content/newsletters/1988/october.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "72fd3df791489ddac1d7e644c6c79e2d267a2b4597f0dc67ab556f397e4fb17a",
         "links": 8,
@@ -2937,29 +1756,7 @@
     },
     {
       "path": "content/newsletters/1988/september.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "center x6",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "color x4",
-            "size x3",
-            "align x2",
-            "border x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "ada695a9abaa2738f9fe801d86c99a61383c18587860b37015cb254ab70881bd",
         "links": 8,
@@ -2975,29 +1772,7 @@
     },
     {
       "path": "content/newsletters/1989/april.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "0c56bb8c68f6cc22d33ee8de7a2c3a2deac1d3403fd2f47c58d0013eb12c9706",
         "links": 9,
@@ -3015,30 +1790,6 @@
     {
       "path": "content/newsletters/1989/august.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "valign x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "face x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -3067,29 +1818,7 @@
     },
     {
       "path": "content/newsletters/1989/february.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "ec95d20a4a27532e79e57b6f384f84886aff9fa3bbf18ea993024bced7ab96fc",
         "links": 7,
@@ -3106,29 +1835,7 @@
     },
     {
       "path": "content/newsletters/1989/january.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "e284980e7a2f4599f67fb971b161065fb9a590e5b61e438cf7f555d5af29a36e",
         "links": 7,
@@ -3144,29 +1851,7 @@
     },
     {
       "path": "content/newsletters/1989/june.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "6374de5158eab744151f4853a082b43fdfbe1f3409f85869965547ab225407b8",
         "links": 11,
@@ -3183,29 +1868,7 @@
     },
     {
       "path": "content/newsletters/1989/march.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "3c632d8176847e25b3c2b7ec1ef72452d5aaf81419e54923b7b5aa7396e27c89",
         "links": 9,
@@ -3223,29 +1886,7 @@
     },
     {
       "path": "content/newsletters/1989/may.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "04de6ce6a6f655134436e4a209a27ced8d8b7a4845f1d8c124de7d6bc26963ff",
         "links": 9,
@@ -3262,29 +1903,7 @@
     },
     {
       "path": "content/newsletters/1989/november.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "0138ba585126683ad003c177fd64bbc863f0bc7209a04ea334b3fe116f5988e1",
         "links": 9,
@@ -3302,29 +1921,7 @@
     },
     {
       "path": "content/newsletters/1989/october.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "9b701b64fd74464f62f1723ab1a4dcf4dcab90b049840a4e0156bebfbd292ef1",
         "links": 12,
@@ -3343,30 +1940,6 @@
     {
       "path": "content/newsletters/1990/april.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 29,
-          "examples": [
-            "font x19",
-            "center x10"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 66,
-          "examples": [
-            "size x19",
-            "align x18",
-            "valign x16",
-            "border x4",
-            "cellpadding x2",
-            "cellspacing x2",
-            "color x2",
-            "width x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -3402,30 +1975,6 @@
       "path": "content/newsletters/1990/december.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 27,
-          "examples": [
-            "font x21",
-            "center x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 86,
-          "examples": [
-            "size x21",
-            "align x20",
-            "face x19",
-            "valign x18",
-            "border x3",
-            "color x2",
-            "cellpadding x1",
-            "cellspacing x1"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 1,
@@ -3456,29 +2005,7 @@
     },
     {
       "path": "content/newsletters/1990/february.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "bcb78b61a68ed46d8c92a6b70ca07c0b0b90f9bfc920c1c478f9f0609c1ce3e2",
         "links": 13,
@@ -3496,29 +2023,7 @@
     },
     {
       "path": "content/newsletters/1990/january.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "ee0bbb78ff25a2f4a1fb066870b8d65e3278fd98fbf772e7192a7356a5b769d7",
         "links": 10,
@@ -3544,34 +2049,10 @@
           "examples": [
             "h2",
             "h2",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 52,
-          "examples": [
-            "font x45",
-            "center x7"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 182,
-          "examples": [
-            "size x45",
-            "align x44",
-            "face x43",
-            "valign x42",
-            "border x3",
-            "color x2",
-            "cellpadding x1",
-            "cellspacing x1"
-          ]
         },
         {
           "rule": "table_without_header",
@@ -3605,29 +2086,7 @@
     },
     {
       "path": "content/newsletters/1990/june.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "9ee80ba03e53a27b70056f31fb2c20109c589fe98c24bc5abd754f7e68ef8a26",
         "links": 9,
@@ -3649,29 +2108,7 @@
     },
     {
       "path": "content/newsletters/1990/march.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x6",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "color x3",
-            "size x3",
-            "align x2",
-            "border x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "64e7bfa531dcc76eba20f578de444a111833dd288775ce966af6d3babec65837",
         "links": 13,
@@ -3687,29 +2124,7 @@
     },
     {
       "path": "content/newsletters/1990/october.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "fc71b94b5da996480b0fa7dd9c6291434898bc1b722accd681f825b0a3bfcf53",
         "links": 9,
@@ -3740,31 +2155,10 @@
             "h3",
             "h2",
             "h2",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -3796,31 +2190,10 @@
             "h3",
             "h2",
             "h2",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "border x3",
-            "size x3",
-            "align x2",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -3843,29 +2216,7 @@
     },
     {
       "path": "content/newsletters/1991/december.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "76eeb8cb6cfe8de955a17441f0ce5d2d7b1865dadb55e862211dbff589d70ede",
         "links": 7,
@@ -3887,29 +2238,7 @@
     },
     {
       "path": "content/newsletters/1991/february.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "9b8285b1e723d10ef728d89e9ad89aabaf38ec93e907a4ad9af548247dcbe3fa",
         "links": 8,
@@ -3931,29 +2260,7 @@
     },
     {
       "path": "content/newsletters/1991/january.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "3c9df1884037aa6ddc373b4857c424ee0904bdf86e7b15c27819193f1b2ed553",
         "links": 9,
@@ -3976,29 +2283,7 @@
     },
     {
       "path": "content/newsletters/1991/july.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "4fa3884dd66418368532c876cf51e015bdde16e4521e453220a59af8caedd298",
         "links": 7,
@@ -4019,29 +2304,7 @@
     },
     {
       "path": "content/newsletters/1991/june.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "border x3",
-            "size x3",
-            "align x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "b5c0bcb7289bc10ba591fcfd291c8ad54ad9becdc98395ec5dda8a8be2eb7458",
         "links": 6,
@@ -4064,29 +2327,7 @@
     },
     {
       "path": "content/newsletters/1991/march.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "size x3",
-            "align x2",
-            "border x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "c3e681a58ea1c558a9cce2b043d9f7958d9e1985f78b774fba34c6e452462fc1",
         "links": 9,
@@ -4109,29 +2350,7 @@
     },
     {
       "path": "content/newsletters/1991/may.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "border x3",
-            "size x3",
-            "align x2",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "49e91ee0d88e3cc577a21b4053a0906a6ecd928ea93b6c3e2201a00c084dc5ec",
         "links": 7,
@@ -4154,29 +2373,7 @@
     },
     {
       "path": "content/newsletters/1991/november.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "border x4",
-            "align x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "156c60d3382adcae4dc757ddc0470994a6eda940d3dd0f04cc5a7798cae9eea3",
         "links": 7,
@@ -4198,29 +2395,7 @@
     },
     {
       "path": "content/newsletters/1991/october.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "ef7e69f35e097fe91a1c22509e0b591aeefa77165fe12d04e15ebe0d9edd3c85",
         "links": 7,
@@ -4242,30 +2417,6 @@
     {
       "path": "content/newsletters/1991/september.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 57,
-          "examples": [
-            "font x49",
-            "center x8"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 151,
-          "examples": [
-            "size x49",
-            "align x48",
-            "valign x46",
-            "border x3",
-            "color x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "face x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -4297,29 +2448,7 @@
     },
     {
       "path": "content/newsletters/1992/april.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "1814d6a0180e61518ae650abadca84393543638d511bc793bee070ef06890e04",
         "links": 7,
@@ -4341,29 +2470,7 @@
     },
     {
       "path": "content/newsletters/1992/december.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "c0ac7edfc4701ed4b52824dac4f1804c63ba67f82754636e8654deed3495bac1",
         "links": 8,
@@ -4385,29 +2492,7 @@
     },
     {
       "path": "content/newsletters/1992/february.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "55699d498338786d5cb1f310d0df38c9951073888119dd2f2262eadb05112a14",
         "links": 11,
@@ -4430,29 +2515,7 @@
     },
     {
       "path": "content/newsletters/1992/january.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "align x9",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "98dc0076d2d010db7c088c4198e1dde198727ffa77fc784f2d80ccf546ff23a1",
         "links": 10,
@@ -4475,29 +2538,7 @@
     },
     {
       "path": "content/newsletters/1992/july.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "56d490b4430ba0277cd19e9b816468a2b1c4f9bb66165291b8c2dcb52887efae",
         "links": 7,
@@ -4518,32 +2559,7 @@
     },
     {
       "path": "content/newsletters/1992/june.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 31,
-          "examples": [
-            "font x23",
-            "center x8"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 96,
-          "examples": [
-            "align x23",
-            "size x23",
-            "face x21",
-            "valign x20",
-            "border x4",
-            "color x2",
-            "cellpadding x1",
-            "cellspacing x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "735dd7417662a08fa162be96e225f3deb42b776721d33a8ef319cc6221c62201",
         "links": 6,
@@ -4565,29 +2581,7 @@
     },
     {
       "path": "content/newsletters/1992/may.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "463c73eaa840b771805e1869533af0cb9b1b1484c091dcfddb33ddf237bfc1c7",
         "links": 7,
@@ -4610,29 +2604,7 @@
     },
     {
       "path": "content/newsletters/1992/october.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "8f650a8e4a194464ab67a43ac1b1dcf37467e6b1a389386e15347d43011727ba",
         "links": 8,
@@ -4654,30 +2626,6 @@
     {
       "path": "content/newsletters/1992/september.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x9",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 142,
-          "examples": [
-            "align x66",
-            "valign x62",
-            "border x5",
-            "size x3",
-            "color x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "face x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -4710,29 +2658,7 @@
     },
     {
       "path": "content/newsletters/1993/february.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "8d57c99466da63cf5c8574f80fa3dc7c0571ee755b38711d369ced7e83781182",
         "links": 9,
@@ -4754,29 +2680,7 @@
     },
     {
       "path": "content/newsletters/1993/january.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "412d848d63731216aa5d535c7ce21bc2ca4abf96ff1e3f3f4a34bcd6c6a9014b",
         "links": 9,
@@ -4797,29 +2701,7 @@
     },
     {
       "path": "content/newsletters/1994/february.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "5b74e53b1ae694fb64e39ab0a529096e43f0207f8a71307a3d8830f38630473b",
         "links": 7,
@@ -4841,29 +2723,7 @@
     },
     {
       "path": "content/newsletters/1994/january.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "018c31fca209e5fe639711d58ef430950a6264ad5b6b44d859a6959310edf78e",
         "links": 7,
@@ -4885,29 +2745,7 @@
     },
     {
       "path": "content/newsletters/1994/july.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "center x8",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "align x5",
-            "border x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "e9f185b25a08a4999cf4c0a7ec6150e94192539727a28ad7918fbed600483657",
         "links": 7,
@@ -4931,29 +2769,7 @@
     },
     {
       "path": "content/newsletters/1994/march.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "036aa3dcb5328a72926ecec1a921d7834034b682d0816a07b66f1550b5b4d594",
         "links": 6,
@@ -4976,29 +2792,7 @@
     },
     {
       "path": "content/newsletters/1994/may.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "30efc978412af627bb44357cd7efb69e28d1529635af1850e1c65b7fbca2149b",
         "links": 7,
@@ -5021,29 +2815,7 @@
     },
     {
       "path": "content/newsletters/1994/november.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x9",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "border x6",
-            "align x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "37e8fc7a66d0e73a3f60e1b7e3792e8bd41a4b1e2312b907f789aa83d67766c2",
         "links": 6,
@@ -5065,29 +2837,7 @@
     },
     {
       "path": "content/newsletters/1994/october.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "align x5",
-            "border x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "7c8c80e8c0a73c3a06075db0117dbe5a206280af426c175fa91642a99c9d00c5",
         "links": 6,
@@ -5109,29 +2859,7 @@
     },
     {
       "path": "content/newsletters/1995/february.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "8fb659ade008e5856dbfd5f00aca1acc75836c2a28d1bdd0d43f15309b1d3c72",
         "links": 8,
@@ -5156,29 +2884,7 @@
     },
     {
       "path": "content/newsletters/1995/january.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "9578487816b8a9fd00d6225e6e37aa46cf146c07c107b41f3ebd112eedce9bce",
         "links": 7,
@@ -5201,29 +2907,7 @@
     },
     {
       "path": "content/newsletters/1995/march.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "border x4",
-            "align x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "fd9cf9548aa649f779fded05767a589dd5eb6f22b4bbb3cbe2fdc0bf387f6a6a",
         "links": 8,
@@ -5248,29 +2932,7 @@
     },
     {
       "path": "content/newsletters/1995/may.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "c201e4019fd87da38f6e05ab5f6469e70c1ff1664c2ea5844d60226f684d4f5c",
         "links": 8,
@@ -5294,29 +2956,7 @@
     },
     {
       "path": "content/newsletters/1996/april.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "ca137eff7f399fb88b22c56f01b8b4bf0fe8ff75b450f56abe8bce6aa2e7fb4b",
         "links": 7,
@@ -5339,29 +2979,7 @@
     },
     {
       "path": "content/newsletters/1996/august.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "2b3e2f35eef10f5a7bcfd2fa0778aa34204c13d8aac8f63883bae460ed710255",
         "links": 6,
@@ -5383,29 +3001,7 @@
     },
     {
       "path": "content/newsletters/1996/december.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "9bef2b8180f804689db5ff2af1cf7de5583932e53eedd2bd646eea0d6035442c",
         "links": 6,
@@ -5428,29 +3024,7 @@
     },
     {
       "path": "content/newsletters/1996/january.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "d2d5b0d43526f99766aaacc56d3d5a9d99110b54f8bbeb27b585b0bb3dc6a602",
         "links": 7,
@@ -5473,29 +3047,7 @@
     },
     {
       "path": "content/newsletters/1996/july.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "c79fe18e68c560fcb73e292ce604b59bb17f71de212e42b9c71740d0ca8c8e0b",
         "links": 9,
@@ -5525,30 +3077,6 @@
     {
       "path": "content/newsletters/1996/june.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 177,
-          "examples": [
-            "align x83",
-            "valign x80",
-            "border x5",
-            "size x3",
-            "color x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "face x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -5589,31 +3117,10 @@
           "examples": [
             "h2",
             "h2",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -5640,29 +3147,7 @@
     },
     {
       "path": "content/newsletters/1996/november.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "border x7",
-            "align x6",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "97c71debc69348cba6a32fced46941ca31360c13f8388f8ea36e1d57a586d67c",
         "links": 6,
@@ -5685,29 +3170,7 @@
     },
     {
       "path": "content/newsletters/1996/september.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "eb2f2aa3aebe2bfa0686f02131c87865a93ffd20895c0283a42e7613bc17aadf",
         "links": 6,
@@ -5731,29 +3194,7 @@
     },
     {
       "path": "content/newsletters/1997/april.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "9ff9833c0aae0a69a43e79dec959ab0376659ccdadef925f4a759d5a8318af89",
         "links": 7,
@@ -5775,29 +3216,7 @@
     },
     {
       "path": "content/newsletters/1997/august.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "align x5",
-            "border x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "a38d8e5a237cf75cd183ff2330a32516a912938685c5bf2993ce3059ef48eeb9",
         "links": 6,
@@ -5820,29 +3239,7 @@
     },
     {
       "path": "content/newsletters/1997/december.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "8ab784ef37eb76455ad113fa10ef30d509e93fcdd725a962d5b35bbcbe9475dc",
         "links": 7,
@@ -5866,29 +3263,7 @@
     },
     {
       "path": "content/newsletters/1997/february.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "align x5",
-            "border x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "fbf69d6eaa00415538cdd7d78a7b42e792effed96502933758177620b8e93050",
         "links": 6,
@@ -5911,29 +3286,7 @@
     },
     {
       "path": "content/newsletters/1997/january.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "align x4",
-            "border x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "6c4e2d5f142462faafb81dc718f7cdf2cda120be439be5ccea52649150dcadca",
         "links": 6,
@@ -5955,29 +3308,7 @@
     },
     {
       "path": "content/newsletters/1997/june.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "d73b8ed69c3c101120182723c9f953be3c9deb4f145fd2dbb31cf3ccb14423aa",
         "links": 9,
@@ -6006,29 +3337,7 @@
     },
     {
       "path": "content/newsletters/1997/may.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x7",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "61406dea5d16ada31036a1e376e72f21aa661df37695c9bc59b2cea49bce837a",
         "links": 6,
@@ -6051,29 +3360,7 @@
     },
     {
       "path": "content/newsletters/1997/october.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "align x5",
-            "border x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "0612644eb042daf8a5a418a3922c15a86a50825bae56371930e8e3b07a7ce6d9",
         "links": 6,
@@ -6097,30 +3384,6 @@
     {
       "path": "content/newsletters/1997/september.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "center x8",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 201,
-          "examples": [
-            "align x95",
-            "valign x92",
-            "border x5",
-            "size x3",
-            "color x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "face x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -6153,29 +3416,7 @@
     },
     {
       "path": "content/newsletters/1998/april.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "center x6",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "align x3",
-            "border x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "9de43500750db5c8d49e38ea566c1c4b8076636be53e74fc95c006ab40a00630",
         "links": 13,
@@ -6207,35 +3448,11 @@
             "table",
             "h2",
             "ul",
-            "center",
-            "center",
+            "div",
+            "div",
             "h2"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "center x10",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 45,
-          "examples": [
-            "align x14",
-            "border x9",
-            "cellpadding x4",
-            "cellspacing x4",
-            "valign x4",
-            "width x4",
-            "size x3",
-            "color x2"
-          ]
         },
         {
           "rule": "table_without_header",
@@ -6272,30 +3489,6 @@
     {
       "path": "content/newsletters/1998/february.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x11",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 54,
-          "examples": [
-            "align x18",
-            "border x10",
-            "cellpadding x5",
-            "cellspacing x5",
-            "valign x5",
-            "width x5",
-            "size x3",
-            "color x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -6334,30 +3527,6 @@
       "path": "content/newsletters/1998/january.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x9",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 29,
-          "examples": [
-            "align x8",
-            "border x7",
-            "size x3",
-            "cellpadding x2",
-            "cellspacing x2",
-            "color x2",
-            "valign x2",
-            "width x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -6391,30 +3560,6 @@
     {
       "path": "content/newsletters/1998/june.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x9",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 40,
-          "examples": [
-            "align x10",
-            "border x8",
-            "cellpadding x4",
-            "cellspacing x4",
-            "valign x4",
-            "width x4",
-            "size x3",
-            "color x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -6452,30 +3597,6 @@
     {
       "path": "content/newsletters/1998/may.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "center x8",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 52,
-          "examples": [
-            "align x15",
-            "border x11",
-            "cellpadding x5",
-            "cellspacing x5",
-            "valign x5",
-            "width x5",
-            "size x3",
-            "color x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -6515,29 +3636,7 @@
     },
     {
       "path": "content/newsletters/1998/september.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "center x8",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "border x7",
-            "align x6",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "5dcb4c2c3f300dc3f3a125cc23661c4c293a5d82e7f1e59f4680e4c3bac066c0",
         "links": 11,
@@ -6559,30 +3658,6 @@
     {
       "path": "content/newsletters/1999/december.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 125,
-          "examples": [
-            "font x111",
-            "center x14"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 478,
-          "examples": [
-            "align x115",
-            "size x111",
-            "face x108",
-            "valign x108",
-            "border x14",
-            "cellpadding x7",
-            "cellspacing x7",
-            "width x6"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -6636,30 +3711,6 @@
       "path": "content/newsletters/1999/january.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "center x8",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 43,
-          "examples": [
-            "align x12",
-            "border x8",
-            "valign x8",
-            "cellpadding x3",
-            "cellspacing x3",
-            "size x3",
-            "width x3",
-            "color x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 3,
@@ -6691,30 +3742,6 @@
     {
       "path": "content/newsletters/1999/july.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 24,
-          "examples": [
-            "font x14",
-            "center x10"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 60,
-          "examples": [
-            "align x16",
-            "size x14",
-            "valign x11",
-            "border x7",
-            "cellpadding x3",
-            "cellspacing x3",
-            "width x3",
-            "color x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -6748,30 +3775,6 @@
       "path": "content/newsletters/1999/june.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 26,
-          "examples": [
-            "font x15",
-            "center x11"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 65,
-          "examples": [
-            "align x17",
-            "size x15",
-            "valign x12",
-            "border x9",
-            "cellpadding x3",
-            "cellspacing x3",
-            "width x3",
-            "color x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 3,
@@ -6804,30 +3807,6 @@
       "path": "content/newsletters/1999/march.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 26,
-          "examples": [
-            "font x14",
-            "center x12"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 69,
-          "examples": [
-            "align x18",
-            "size x14",
-            "valign x13",
-            "border x9",
-            "cellpadding x4",
-            "cellspacing x4",
-            "width x4",
-            "color x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 4,
@@ -6859,30 +3838,6 @@
     {
       "path": "content/newsletters/1999/may.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x8",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 82,
-          "examples": [
-            "align x19",
-            "valign x15",
-            "border x14",
-            "cellpadding x9",
-            "cellspacing x9",
-            "width x9",
-            "size x4",
-            "color x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -6920,30 +3875,6 @@
     {
       "path": "content/newsletters/1999/september.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 26,
-          "examples": [
-            "font x15",
-            "center x11"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 62,
-          "examples": [
-            "align x16",
-            "size x15",
-            "valign x12",
-            "border x7",
-            "cellpadding x3",
-            "cellspacing x3",
-            "width x3",
-            "color x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -6983,27 +3914,6 @@
             "ol"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 26,
-          "examples": [
-            "center x20",
-            "font x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 22,
-          "examples": [
-            "border x10",
-            "color x4",
-            "size x4",
-            "align x2",
-            "face x2"
-          ]
         }
       ],
       "baseline": {
@@ -7048,29 +3958,7 @@
     },
     {
       "path": "content/newsletters/2000/december.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 22,
-          "examples": [
-            "center x18",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 26,
-          "examples": [
-            "border x11",
-            "align x8",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "fe7f22d056a1080d7c66d7c81984aa45b2d2b91434d25ee487d556473448e246",
         "links": 75,
@@ -7111,29 +3999,7 @@
     },
     {
       "path": "content/newsletters/2000/july.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 22,
-          "examples": [
-            "center x18",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "border x8",
-            "color x3",
-            "size x3",
-            "align x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "b2c6494c95ab134153e6bb2d5ac84e0f21337c2190022cca5deb7e0510d9646d",
         "links": 65,
@@ -7176,29 +4042,7 @@
     },
     {
       "path": "content/newsletters/2000/june.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 24,
-          "examples": [
-            "center x20",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "border x10",
-            "color x3",
-            "size x3",
-            "align x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "8155daf1f7f62304c4d21cf961b15b0d2739858c9ce347d2b0068bb6f99e2e0a",
         "links": 76,
@@ -7245,36 +4089,15 @@
           "count": 16,
           "examples": [
             "ul",
-            "center",
+            "div",
             "h2",
             "h2",
             "ul",
             "h2",
             "ul",
-            "center"
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 24,
-          "examples": [
-            "center x21",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 31,
-          "examples": [
-            "border x20",
-            "align x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -7314,29 +4137,7 @@
     },
     {
       "path": "content/newsletters/2000/november.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 21,
-          "examples": [
-            "center x17",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 22,
-          "examples": [
-            "border x10",
-            "align x5",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "00db0e94365a3066935b82d760a6d53281913ec06ecb5ae63ffaeb1d9fde47ba",
         "links": 159,
@@ -7399,29 +4200,7 @@
     },
     {
       "path": "content/newsletters/2000/october.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 22,
-          "examples": [
-            "center x18",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 21,
-          "examples": [
-            "border x10",
-            "align x4",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "c955558b85eb75b34982262eef22adcc315a109833e803210178221547dfa501",
         "links": 78,
@@ -7466,29 +4245,7 @@
     },
     {
       "path": "content/newsletters/2000/september.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 22,
-          "examples": [
-            "center x18",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "border x8",
-            "color x3",
-            "size x3",
-            "align x2",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "2f28d5fc72e9a8bedd7fb8374400057cf14de5b885dbd76e1272963a9569e19f",
         "links": 80,
@@ -7540,37 +4297,16 @@
           "severity": "warning",
           "count": 8,
           "examples": [
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "center x15",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "border x6",
-            "align x3",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -7645,29 +4381,7 @@
     },
     {
       "path": "content/newsletters/2001/august.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x12",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "border x6",
-            "align x5",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "02fe57daf350addfd7723d4d37327d6aaa880a2fcc4b958fa058e36f90b66333",
         "links": 208,
@@ -7744,29 +4458,7 @@
     },
     {
       "path": "content/newsletters/2001/december.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "center x14",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 21,
-          "examples": [
-            "align x7",
-            "border x7",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "96229b25b5fd91ff05f5d239d4e997c8ff33ccdbce9d5edce80709629d549f98",
         "links": 109,
@@ -7811,37 +4503,16 @@
           "severity": "warning",
           "count": 8,
           "examples": [
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 21,
-          "examples": [
-            "center x17",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "border x8",
-            "align x5",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -7893,29 +4564,7 @@
     },
     {
       "path": "content/newsletters/2001/january.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 21,
-          "examples": [
-            "center x17",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 24,
-          "examples": [
-            "border x10",
-            "align x7",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "1d19c9f0675d553f6810b022e341fe5c1e8753aec7059d716d775ea5efd2a0a7",
         "links": 121,
@@ -7983,27 +4632,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x13",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "border x7",
-            "align x5",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -8075,30 +4703,6 @@
     {
       "path": "content/newsletters/2001/june.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "center x15",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 26,
-          "examples": [
-            "border x7",
-            "align x6",
-            "size x4",
-            "color x3",
-            "face x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "valign x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -8172,29 +4776,7 @@
     },
     {
       "path": "content/newsletters/2001/march.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 21,
-          "examples": [
-            "center x17",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "border x8",
-            "align x5",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "2af93cf14298699b3485114568d6f322993346272ceda5907274a680f4773fb6",
         "links": 222,
@@ -8258,29 +4840,7 @@
     },
     {
       "path": "content/newsletters/2001/may.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "center x16",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "border x8",
-            "align x5",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "7f3bf7635f244b1e763f0cd42d25014a3e2a02a70d69d56dc010aae518d56209",
         "links": 222,
@@ -8349,29 +4909,7 @@
     },
     {
       "path": "content/newsletters/2001/november.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x13",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "border x7",
-            "align x6",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "ad6ecdd1b5728daeae4e8b614ebc5367db16976716450cc13e0237da33817aab",
         "links": 214,
@@ -8444,27 +4982,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x12",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "border x7",
-            "align x6",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -8567,27 +5084,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "center x14",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "border x6",
-            "align x5",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -8679,35 +5175,14 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
+            "div",
             "h2",
             "ul"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "center x14",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "border x4",
-            "align x3",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -8787,34 +5262,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "center x15",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "align x6",
-            "border x6",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -8897,35 +5351,14 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x14",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -8966,29 +5399,7 @@
     },
     {
       "path": "content/newsletters/2002/february.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "center x14",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 22,
-          "examples": [
-            "border x8",
-            "align x7",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "c049c6379528d127a2d14d57f0bb3ca5bab18892df821d5c4c90018c1f755920",
         "links": 174,
@@ -9044,7 +5455,7 @@
           "severity": "warning",
           "count": 46,
           "examples": [
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -9054,27 +5465,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x12",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 21,
-          "examples": [
-            "align x7",
-            "border x7",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -9132,9 +5522,9 @@
           "severity": "warning",
           "count": 72,
           "examples": [
-            "center",
+            "div",
             "ol",
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -9142,27 +5532,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x13",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "border x4",
-            "align x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -9242,9 +5611,9 @@
           "severity": "warning",
           "count": 84,
           "examples": [
-            "center",
+            "div",
             "ol",
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -9252,27 +5621,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "center x15",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x3",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -9355,29 +5703,7 @@
     },
     {
       "path": "content/newsletters/2002/march.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "center x14",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "border x5",
-            "align x4",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "5d99e5d990ba82ce4fadba9fbdcef407de9e355d1fa90cd9c1853b231af30517",
         "links": 266,
@@ -9454,35 +5780,14 @@
           "examples": [
             "ul",
             "h3",
-            "center",
-            "center",
+            "div",
+            "div",
             "h2",
             "ul",
-            "center",
+            "div",
             "h2"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "center x15",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x3",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -9572,38 +5877,14 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x13",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 25,
-          "examples": [
-            "border x7",
-            "align x6",
-            "size x4",
-            "color x2",
-            "face x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "valign x1"
-          ]
         },
         {
           "rule": "table_without_header",
@@ -9682,35 +5963,14 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "center x12",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "align x6",
-            "border x6",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -9793,7 +6053,7 @@
           "examples": [
             "ul",
             "ol",
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -9801,27 +6061,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x13",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "align x5",
-            "border x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -9906,7 +6145,7 @@
           "severity": "warning",
           "count": 67,
           "examples": [
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -9916,27 +6155,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x12",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "border x6",
-            "align x5",
-            "color x4",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -10022,27 +6240,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "center x12",
-            "font x7"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 22,
-          "examples": [
-            "border x6",
-            "align x5",
-            "color x5",
-            "size x4",
-            "face x2"
-          ]
         }
       ],
       "baseline": {
@@ -10131,34 +6328,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x12",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "border x6",
-            "align x5",
-            "color x4",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -10216,34 +6392,13 @@
             "ul",
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
             "ul",
-            "center"
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x13",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -10305,34 +6460,13 @@
             "ul",
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
             "ul",
-            "center"
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x13",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -10388,7 +6522,7 @@
           "severity": "warning",
           "count": 73,
           "examples": [
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -10398,27 +6532,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "center x12",
-            "font x7"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 21,
-          "examples": [
-            "color x6",
-            "border x5",
-            "align x4",
-            "size x4",
-            "face x2"
-          ]
         }
       ],
       "baseline": {
@@ -10510,27 +6623,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x12",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "border x5",
-            "align x4",
-            "color x4",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -10615,7 +6707,7 @@
           "severity": "warning",
           "count": 57,
           "examples": [
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -10625,27 +6717,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x12",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "border x6",
-            "align x5",
-            "color x4",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -10711,7 +6782,7 @@
           "severity": "warning",
           "count": 76,
           "examples": [
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -10721,27 +6792,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "center x12",
-            "font x7"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 21,
-          "examples": [
-            "border x6",
-            "color x6",
-            "align x5",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -10827,35 +6877,14 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "center x12",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -10945,27 +6974,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "center x12",
-            "font x7"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "color x6",
-            "border x4",
-            "align x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -11061,7 +7069,7 @@
           "severity": "warning",
           "count": 85,
           "examples": [
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -11071,27 +7079,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x12",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "border x5",
-            "align x4",
-            "color x4",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -11186,34 +7173,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "center x10",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -11281,34 +7247,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x11",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -11367,34 +7312,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x11",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -11445,27 +7369,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "center x10",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "border x6",
-            "align x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -11535,27 +7438,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x10",
-            "font x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "border x6",
-            "align x5",
-            "color x5",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -11616,34 +7498,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "center x10",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -11712,34 +7573,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "center x10",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -11823,27 +7663,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x10",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "border x6",
-            "align x5",
-            "color x3",
-            "size x3",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -11908,34 +7727,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "center x10",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -12004,34 +7802,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x11",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "border x4",
-            "align x3",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -12090,34 +7867,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x11",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -12191,34 +7947,13 @@
           "examples": [
             "ul",
             "h3",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x11",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -12298,27 +8033,6 @@
             "ul"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x12",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x4",
-            "color x3",
-            "face x2"
-          ]
         }
       ],
       "baseline": {
@@ -12367,34 +8081,13 @@
           "examples": [
             "ul",
             "h2",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "center x12",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "align x5",
-            "border x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -12466,27 +8159,6 @@
             "ol"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x11",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "border x6",
-            "align x5",
-            "size x4",
-            "color x3",
-            "face x2"
-          ]
         }
       ],
       "baseline": {
@@ -12534,27 +8206,6 @@
             "ol"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x11",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "border x6",
-            "align x5",
-            "size x4",
-            "color x3",
-            "face x2"
-          ]
         }
       ],
       "baseline": {
@@ -12601,27 +8252,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x12",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "align x6",
-            "border x5",
-            "size x4",
-            "color x3",
-            "face x2"
-          ]
         }
       ],
       "baseline": {
@@ -12689,35 +8319,14 @@
           "examples": [
             "h3",
             "h3",
-            "center",
-            "center",
+            "div",
+            "div",
             "h2",
             "h3",
             "h3",
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "center x12",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "align x6",
-            "border x5",
-            "size x4",
-            "color x3",
-            "face x2"
-          ]
         }
       ],
       "baseline": {
@@ -12789,7 +8398,7 @@
           "severity": "warning",
           "count": 29,
           "examples": [
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -12799,27 +8408,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x11",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 20,
-          "examples": [
-            "border x6",
-            "align x5",
-            "size x4",
-            "color x3",
-            "face x2"
-          ]
         }
       ],
       "baseline": {
@@ -12858,7 +8446,7 @@
           "severity": "warning",
           "count": 54,
           "examples": [
-            "center",
+            "div",
             "h2",
             "h3",
             "h3",
@@ -12868,27 +8456,6 @@
             "h3"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x11",
-            "font x5"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "border x5",
-            "align x4",
-            "size x4",
-            "color x3",
-            "face x2"
-          ]
         }
       ],
       "baseline": {
@@ -12955,34 +8522,13 @@
           "examples": [
             "ul",
             "h2",
-            "center",
+            "div",
             "h2",
             "ul",
-            "center",
-            "center"
+            "div",
+            "div"
           ],
           "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x11",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "align x5",
-            "border x5",
-            "size x3",
-            "color x2",
-            "face x1"
-          ]
         }
       ],
       "baseline": {
@@ -13025,30 +8571,6 @@
     {
       "path": "content/newsletters/newsletter-guidance.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 58,
-          "examples": [
-            "font x42",
-            "center x16"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 214,
-          "examples": [
-            "align x50",
-            "width x50",
-            "valign x48",
-            "size x41",
-            "border x12",
-            "height x8",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -13144,29 +8666,6 @@
       "path": "content/personas/bard-handout.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "center x12",
-            "font x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "border x3",
-            "color x3",
-            "align x1",
-            "cellpadding x1",
-            "cellspacing x1",
-            "size x1",
-            "width x1"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 1,
@@ -13213,28 +8712,7 @@
     },
     {
       "path": "content/personas/blues-handout.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x11",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "color x2",
-            "align x1",
-            "border x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "9f55538aaacf7ffea324e492d0ef44602453f4ba309b94fb8d368cddc1a5a0be",
         "links": 17,
@@ -13270,28 +8748,7 @@
     },
     {
       "path": "content/personas/guild-handout.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "center x11",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "align x1",
-            "border x1",
-            "color x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "749363e11118cbc83c427453f1d5823eeac26a89f56bed245265378deabc0982",
         "links": 12,
@@ -13329,30 +8786,6 @@
     {
       "path": "content/personas/healer-handout.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 37,
-          "examples": [
-            "font x24",
-            "center x13"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 93,
-          "examples": [
-            "align x21",
-            "size x21",
-            "face x20",
-            "valign x20",
-            "border x4",
-            "color x3",
-            "cellpadding x2",
-            "cellspacing x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -13405,26 +8838,6 @@
       "path": "content/personas/herald-handout.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "center x15",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "border x13",
-            "color x2",
-            "align x1",
-            "size x1"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 4,
@@ -13474,27 +8887,7 @@
     },
     {
       "path": "content/personas/herald-mage-handout.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x9",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "align x1",
-            "border x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "294994ed68ce5c07d3033d0632b66a29d6aa059fea6267f79f2ced183f48da4c",
         "links": 9,
@@ -13517,27 +8910,7 @@
     },
     {
       "path": "content/personas/kalen-edral-handout.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x11",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "align x1",
-            "border x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "80a4ae919d7f47e9b146ac2298c8d2624acc70ea7b033e92a70688fb663644a6",
         "links": 8,
@@ -13563,28 +8936,6 @@
     {
       "path": "content/personas/military-handout.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 19,
-          "examples": [
-            "center x16",
-            "font x3"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "border x2",
-            "color x2",
-            "align x1",
-            "cellpadding x1",
-            "cellspacing x1",
-            "size x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -13630,25 +8981,6 @@
     {
       "path": "content/personas/northern-barbarian-handout.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x11",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "border x3",
-            "align x1",
-            "size x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -13697,27 +9029,7 @@
     },
     {
       "path": "content/personas/npc-directory.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 24,
-          "examples": [
-            "center x23",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "border x4",
-            "align x3",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "f5c7f15d66a0ca7e8859719078cc8a4ff9c80e29dbd77e7634a2faf6acb0e1d8",
         "links": 49,
@@ -13743,27 +9055,7 @@
     },
     {
       "path": "content/personas/persona-directory.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 37,
-          "examples": [
-            "center x36",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "border x4",
-            "align x3",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "c09c82fe96e417859c2b408df1e129151e34468da583af1e39936f60b5d0dc31",
         "links": 705,
@@ -13795,28 +9087,7 @@
     },
     {
       "path": "content/personas/persona-handouts.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "center x9",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "border x6",
-            "align x1",
-            "color x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "b0c4e23053b7fb766cc064a20c31f77188ec6a2a88c24a7f6d686690b354aeb5",
         "links": 56,
@@ -13843,32 +9114,7 @@
     },
     {
       "path": "content/personas/priest-and-priestess-handout.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "center x13",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 68,
-          "examples": [
-            "align x21",
-            "face x20",
-            "valign x20",
-            "border x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "color x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "dad3e408e8d7f481b3232e6489ca394755412b2b2680eac438beb857fa974990",
         "links": 13,
@@ -13896,25 +9142,6 @@
     {
       "path": "content/personas/shina-in-handout.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 13,
-          "examples": [
-            "center x12",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "border x3",
-            "align x1",
-            "size x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -13964,32 +9191,7 @@
     },
     {
       "path": "content/personas/sorcerer-handout.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x12",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 68,
-          "examples": [
-            "align x21",
-            "face x20",
-            "valign x20",
-            "border x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "color x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "4a920418ccd2383f5458eff569891a54581f1b37fe8f672dc1780936e01ec2f7",
         "links": 13,
@@ -14021,25 +9223,6 @@
     {
       "path": "content/personas/tayledras-handout.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 12,
-          "examples": [
-            "center x11",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "border x2",
-            "align x1",
-            "size x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -14080,28 +9263,7 @@
     },
     {
       "path": "content/vanyel-fan-club/_index.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "center x3",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "border x2",
-            "align x1",
-            "face x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "bb32ed03d0f4321d6fe1232249a0730bd33c1ba8f8379d708d961bd7eecfb636",
         "links": 6,
@@ -14114,27 +9276,7 @@
     },
     {
       "path": "content/vanyel-fan-club/chat.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "center x7",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "align x1",
-            "border x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "d95a31d3a092547fe0a7b99cf64c019a22d1f206e6fa270638809901c9d3546a",
         "links": 5,
@@ -14151,28 +9293,7 @@
     },
     {
       "path": "content/vanyel-fan-club/faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 39,
-          "examples": [
-            "font x35",
-            "center x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 38,
-          "examples": [
-            "size x35",
-            "align x1",
-            "border x1",
-            "face x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "3126cf1ff26625319d170bf18b5b5fc235bac6c356ed6cd544dbab97a1ede76d",
         "links": 9,
@@ -14185,28 +9306,7 @@
     },
     {
       "path": "content/vanyel-fan-club/heralds-haven-gate.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "center x6",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "border x2",
-            "align x1",
-            "face x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "6b444a19a9a150899d2ce0a3a8405de9e0e3f5c8d656a2773ca924bb5a017ad5",
         "links": 4,
@@ -14219,25 +9319,7 @@
     },
     {
       "path": "content/vanyel-fan-club/heralds-haven.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "center x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "align x1",
-            "border x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "21f872b199bed85fcf71230677bf66ab635bd43a8ffe75cc0f38be748d12bbe8",
         "links": 6,
@@ -14250,28 +9332,7 @@
     },
     {
       "path": "content/vanyel-fan-club/join.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "center x3",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "align x1",
-            "border x1",
-            "face x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "44f46c649e2c774b4da1aba09b5ebcf5818e9007237056c07796fc22bbeecd02",
         "links": 3,
@@ -14284,27 +9345,7 @@
     },
     {
       "path": "content/vanyel-fan-club/newsletter.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "center x2",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "align x1",
-            "border x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "8c49b477124401d3588463e9eefa3bf7ca6be6891fa2d80a0ee2944f0860dbf6",
         "links": 8,
@@ -14323,28 +9364,7 @@
     },
     {
       "path": "content/vanyel-fan-club/president.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "center x3",
-            "font x1"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "align x1",
-            "border x1",
-            "face x1",
-            "size x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "bfedcd1f16af18242605e56ee891156ae6d00bf180ae8bb63f6d71971e0765bf",
         "links": 2,
@@ -14357,30 +9377,7 @@
     },
     {
       "path": "content/world/bards-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "center x12",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "border x4",
-            "align x2",
-            "face x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "width x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "43fc7239753b30cae7524e842865653484d5e02dfe0cc55051fa0adf4fd9f962",
         "links": 3,
@@ -14405,27 +9402,7 @@
     },
     {
       "path": "content/world/blues-and-blue-bloods-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "757e6d57e9e276decdfae2e67bf1d8bf2405a0f6916dcd584650b188039f56fb",
         "links": 2,
@@ -14441,26 +9418,7 @@
     },
     {
       "path": "content/world/companions-choices.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "center x5",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "face x2",
-            "border x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "0db95c2778cedd64bce558b06dbba89c459c24fe0978d81b9fb3185c78cd927a",
         "links": 1,
@@ -14478,27 +9436,7 @@
     },
     {
       "path": "content/world/cooking-velgarth-style.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "df961a80fe0e10be44150a2e5013c3b566c2d47962ac962775dc6a449ff4575e",
         "links": 3,
@@ -14515,27 +9453,7 @@
     },
     {
       "path": "content/world/fauna-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "ff28756d1aaeeea61695db8c0a52612a7d1697bf7e40af4d0beb73b0015e8b02",
         "links": 5,
@@ -14564,32 +9482,7 @@
     },
     {
       "path": "content/world/garb-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 42,
-          "examples": [
-            "font x38",
-            "center x4"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 155,
-          "examples": [
-            "align x38",
-            "face x38",
-            "size x36",
-            "valign x36",
-            "border x4",
-            "cellpadding x1",
-            "cellspacing x1",
-            "width x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "12c422465501976575138ec4299f78d4b4f80c59c851b492179dc64066252aa8",
         "links": 2,
@@ -14605,27 +9498,7 @@
     },
     {
       "path": "content/world/gifts-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "7db570a54c136e0c6c17bbe1487839203003d3d2190f5fcfc7af2e9ed7bb0723",
         "links": 3,
@@ -14642,27 +9515,7 @@
     },
     {
       "path": "content/world/guilds-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "82635fb71c02e9cc5c82bc0424e178c84e7ca86eccdda1b1f0896e6399fadec0",
         "links": 2,
@@ -14681,27 +9534,7 @@
     },
     {
       "path": "content/world/healers-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "3d20a6a733452154e448f1f4150cd420f5d6d355bd3e381a62f5fca6538eb710",
         "links": 3,
@@ -14720,26 +9553,6 @@
     {
       "path": "content/world/heralds-and-companions.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "center x5",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 6,
-          "examples": [
-            "border x2",
-            "face x2",
-            "cellpadding x1",
-            "cellspacing x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -14770,27 +9583,7 @@
     },
     {
       "path": "content/world/heralds-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "e01f9615695976aa6e7fb47691ec0d59237293524d9daff7933fe998dc98ee26",
         "links": 8,
@@ -14817,29 +9610,6 @@
     {
       "path": "content/world/magic-of-velgarth.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "center x9",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 354,
-          "examples": [
-            "align x186",
-            "valign x140",
-            "border x12",
-            "cellpadding x5",
-            "cellspacing x5",
-            "width x4",
-            "face x2"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -14897,27 +9667,6 @@
       "path": "content/world/military-faq.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "center x8",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2",
-            "cellpadding x1",
-            "cellspacing x1"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 1,
@@ -14946,27 +9695,7 @@
     },
     {
       "path": "content/world/northern-barbarians-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "d265d6d19715862620713a4040e3acd0836c72b094001f2fdf408a0b02471223",
         "links": 2,
@@ -14982,27 +9711,7 @@
     },
     {
       "path": "content/world/plants-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "e8812bd039082679062fd7902b28b0773e83a38f76c83b3ff7ad96990addf4b0",
         "links": 2,
@@ -15018,26 +9727,7 @@
     },
     {
       "path": "content/world/proverbs-of-velgarth.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "center x6",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "face x2",
-            "border x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "a62500d1994464bd46312b6fa6151be12375d5e6a59748a416e776a605e1dc18",
         "links": 0,
@@ -15064,26 +9754,6 @@
       "path": "content/world/reincarnated-characters.md",
       "findings": [
         {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 6,
-          "examples": [
-            "center x4",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "border x3",
-            "cellpadding x2",
-            "cellspacing x2",
-            "face x2"
-          ]
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 1,
@@ -15109,27 +9779,7 @@
     },
     {
       "path": "content/world/religions-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "1845403f3c9c1d42daa5f64f8178be71d14bf8a4e3b9a5b7ecc433bfcec3bbc9",
         "links": 2,
@@ -15151,27 +9801,7 @@
     },
     {
       "path": "content/world/shina-in-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "505e3207b85522853645b3f7f66ecd48db41f0112ed55047e01dcf2b5e8feea7",
         "links": 2,
@@ -15187,27 +9817,7 @@
     },
     {
       "path": "content/world/tayledras-faq.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "ea08a436eb6b91c07baceb8735f5907267cea5a65b7b702a3beab60407f8f396",
         "links": 6,
@@ -15229,27 +9839,7 @@
     },
     {
       "path": "content/world/travel-guide.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "center x3",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "border x3",
-            "align x2",
-            "face x2"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "8d51001c84cbaafd905fbc2b3aed1d67994ff68cc01c08c2bd16f1a6d65917a6",
         "links": 3,
@@ -15275,31 +9865,7 @@
     },
     {
       "path": "content/world/valdemar-timeline.md",
-      "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 6,
-          "examples": [
-            "center x4",
-            "font x2"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 106,
-          "examples": [
-            "align x49",
-            "valign x49",
-            "border x3",
-            "face x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "width x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "8ebf3bd3975e748ef27bc2a2fb3638079a8543c17cf9b5dbe1dd7f130e9d30e8",
         "links": 0,
@@ -15317,30 +9883,6 @@
     {
       "path": "content/world/world-reference-guide.md",
       "findings": [
-        {
-          "rule": "obsolete_element",
-          "severity": "warning",
-          "count": 25,
-          "examples": [
-            "font x19",
-            "center x6"
-          ]
-        },
-        {
-          "rule": "presentational_attribute",
-          "severity": "warning",
-          "count": 79,
-          "examples": [
-            "align x19",
-            "size x19",
-            "face x18",
-            "valign x18",
-            "border x2",
-            "cellpadding x1",
-            "cellspacing x1",
-            "width x1"
-          ]
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",

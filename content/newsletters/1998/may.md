@@ -17,31 +17,31 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. XI, No. 7<br/>
-May 1998</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. XI, No. 7<br/>
+May 1998</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 </p><p>
 </p><p>
 </p><p>
-<img align="right" alt="Border Art" border="0" loading="lazy" src="/qo286.jpg"/>
-<img align="left" alt="Border Art" border="0" loading="lazy" src="/qo287.jpg"/>
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo286.jpg"/>
+<img alt="Border Art" class="float-left" loading="lazy" src="/qo287.jpg"/>
 Dear Misty Fans,
 </p><p>
-</p><table align="right" border="2" cellpadding="2" cellspacing="2" width="35%">
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
 <tr>
-<td align="left" valign="top">
-<center><h2>Misty's birthday is June 24</h2></center>
+<td class="align-left valign-top">
+<div class="center"><h2>Misty's birthday is June 24</h2></div>
 <p>
 (Larry's is July 28).  Cards can be sent to them at Highflight [Ed. note 2005: Out-of-date info withheld.].  if you would like to do more than send a card, consider a donation to <b>The Alex Foundation</b>, [Ed. note 2005: Out-of-date info withheld.].
 </p><p>
@@ -69,9 +69,9 @@ Send your ideas to Robin at Queens Own--Merging of the Ways (MTW) [Ed. note 2005
 </p><p>
 Firebird Arts and Music carries all of Misty's books and lots of other merchandise, from Babylon 5 sountracks to LArry's art prints, from the music of Frank Hayes to porcelain jewelry, from kits for plastic knights and Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin'a'in, from Oneida Indian Nation T-shirts to Celtic design gift wrap.  Visit their website at [Ed. note 2005: Out-of-date info withheld.].  Firebird does not answer inquiries from prison addresses.
 </p><p>
-</p><table align="right" border="2" cellpadding="2" cellspacing="2" width="35%">
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 <h2>Convention News:</h2>
 <p>
 June 12-14 B'HAMACON 4/Deep South Con 36, Parliament House hotel, Birmingham, Alabama.  Guests of Honor are Michael Bishop and Buck &amp; Juanita Coulson.  [Ed. note 2005: Out-of-date info withheld.].
@@ -120,9 +120,9 @@ A woman like no other, on an ever racing mare.  She leads you to a temple in the
 Re NIGHT RUNES:  Shadow Dancer would like you to know that the stories sent to him for the zine NIGHT RUNES <b>will</b> be published.  He has moved six times in the past few years and lost a few addresses.  For more information, write to Shadow Dancer [Ed. note 2005: Out-of-date info withheld.].
 </p><p>
 DERYNI ARCHIVES, the MAGAZINE is the longrunning zine based on Katherine Kurtz's series of fantasy novels about the kingdom of Gwynedd adnthe Deryni.  The latest issue, number 15, contains fifty pages of Deryni stories, poetry, and artwork, as well as a PRogress Report from KAtherine and an editorial introduction from the new editors.  Back issues are also available.  Cost is [Ed. note 2005: Out-of-date info withheld.].  For more information, send a SASE to [Ed. note 2005: Out-of-date info withheld.].
-</p><p></p><table align="right" border="2" cellpadding="2" cellspacing="2" width="35%">
+</p><p></p><table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 <h3>Greetings from Herald Housemother:</h3>
 <p>
 Congratulations, graduates!
@@ -151,17 +151,17 @@ Queen's Own ahs been an important part of my life for over ten years.  In three 
 </p><p>
 <i>Marion Zimmer Bradley's FANTASY Magazine</i> is having a clearance sale!  Back issues will be available for just [Ed. note 2005: Out-of-date info withheld.] until June 30.  To see what issues are in print, visit their web page at [Ed. note 2005: Out-of-date info withheld.].  A T-shirt with artwork by George Barr, based on the cover of issue #1, is just [Ed. note 2005: Out-of-date info withheld.].  A subscription to <i>MZB's FANTASY Magazine</i> is [Ed. note 2005: Out-of-date info withheld.].  When writing to request artist or writer guidelines, be sure to include a SASE.  THe magazine welcomes free-lance submissions "from people who have read our guidelines."
 </p><p>
-</p><center>
-<table border="5" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 Stamps For Life is still collecting used postage stamps used postage stamps from all countries but has a new address.  The cash from teh sale of these stamps is used to purchase equipment and medication for children in the Cancer Ward of Manchester Children's Hospital in England.  Simply remove the stamps from all your mail and send them to [Ed. note 2005: Out-of-date info withheld.].  They will be sent to England.  Send a few, send a lot, all will help.  If you lose the Pittsburgh address, send the stamps to [Ed. note 2005: Out-of-date info withheld.]; I'll mail them on.
 </td>
 </tr>
 </table>
-</center>
+</div>
 <p>
-<img align="left" alt="Border Art" border="0" loading="lazy" src="/qo288.jpg"/>
+<img alt="Border Art" class="float-left" loading="lazy" src="/qo288.jpg"/>
 </p><h2>Collegium News:</h2>
 <p>
 Are you interested in creating a persona who will be recognized in the QO newsletter?  All it takes is your imagination and your time.  Develop your persona by daydreaming yourself into the world of Velgarth.  you can be the real you or as different as you please.  Write at least three pages about yourself; what are your emotional characteristics?  what do you look like?  what makes you happy?  what are you afraid of?
@@ -184,9 +184,9 @@ Come, enroll in the Collegium!
 <p>
 [Ed. note 2005:  Content withheld.]
 </p><p>
-</p><table align="right" border="2" cellpadding="2" cellspacing="2" width="35%">
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 <h2>Other Fandoms</h2>
 <p>
 </p><ul>
@@ -220,7 +220,7 @@ Mailing Day Helper--Arielle Amethyst, Willow'Wind, SpiritBlade, and Barbara Lefl
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -238,10 +238,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

@@ -14,12 +14,12 @@ canonical_path = "/mercedes-lackey-links/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>Misty Links</h2></center>
-<center><h3>(Revised 10/18/20)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>Misty Links</h2></div>
+<div class="center"><h3>(Revised 10/18/20)</h3></div>
 <p>
-</p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" border="0" loading="lazy" src="/ml1.gif"/></a></center>
+</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml1.gif"/></a></div>
 <p>
 Here are links of interest to fans of the Valdemar series.
 </p><ul>
@@ -43,15 +43,15 @@ Mailing List</a> (A UK-based mailing list.)
 (The homepage for the Vanyel Fan Club chat list.)
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" border="0" loading="lazy" src="/ml2.gif"/></a></center>
+</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml2.gif"/></a></div>
 <p>
 If you know of a link you would like me to add, message me at <a href="mailto:shashtah@gmail.com">shashtah@gmail.com</a>.
 I'll review the site, and, if I like it, I'll add the link.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

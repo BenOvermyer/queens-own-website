@@ -15,17 +15,17 @@ canonical_path = "/danyas-cookbook/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Herald Danya's Cookbook</h2>
+<span class="ff-harem">
+</span><div class="center"><h2>Herald Danya's Cookbook</h2>
 <p>
 </p><h2>Created by</h2>
 <h2>L.A. Malcor</h2>
-<h3>(Revised 10/30/98)</h3></center>
-<font size="4">
+<h3>(Revised 10/30/98)</h3></div>
+<span class="fs-4">
 <p>
-<font face="Harem">
+<span class="ff-harem">
 <h2>Copyright Notices</h2>
-</font>
+</span>
 </p><p>
 Herald Danya is L.A. Malcor's persona in <a href="/danya-winterborn/#Herald">Queen's Own</a>, the
 official Mercedes Lackey fanclub.  The recipes in this collection were
@@ -38,11 +38,11 @@ The information on this page is intended solely for the enjoyment of
 fans of the Mercedes Lackey.  It is not
 intended to infringe in any way upon the rights held by her.
 </p><p>
-</p></font><center><img alt="" loading="lazy" src="/barflow.gif"/></center>
+</p></span><div class="center"><img alt="" loading="lazy" src="/barflow.gif"/></div>
 <p>
-<font face="Harem">
+<span class="ff-harem">
 <h2>Notes on the Collection</h2>
-</font>
+</span>
 </p><p>
 When Danya was still a Herald-to-be, she and Bard Kestran were severely
 limited in the ingredients they could actually use.  Spicing depended on
@@ -56,33 +56,33 @@ to their taste.  All of these recipes can be cooked in a wood-burning
 oven/stove or over a campfire, but results are probably better in ovens
 such as those available to the cooks at the Collegium.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barflow.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barflow.gif"/></div>
 <p>
-</p><center><h2>Contents</h2></center>
+</p><div class="center"><h2>Contents</h2></div>
 <p>
-</p><table align="center" border="2" cellpadding="2" cellspacing="2">
-<th align="left" valign="top"><a href="/danyas-cookbook/#appetize">Appetizers</a></th>
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-center">
+<th class="align-left valign-top"><a href="/danyas-cookbook/#appetize">Appetizers</a></th>
 <td><a href="/danyas-cookbook/#apc">Potato Cakes</a><br/>
 <a href="/danyas-cookbook/#aps">Potato Skins</a></td>
 <tr>
-<th align="left" valign="top"><a href="/danyas-cookbook/#soup">Soups</a></th>
+<th class="align-left valign-top"><a href="/danyas-cookbook/#soup">Soups</a></th>
 <td><a href="/danyas-cookbook/#sps">Potato Soup</a><br/>
 <a href="/danyas-cookbook/#srgs">Roasted Garlic Soup</a></td>
 </tr>
 <tr>
-<th align="left" valign="top"><a href="/danyas-cookbook/#bread">Breads</a></th>
+<th class="align-left valign-top"><a href="/danyas-cookbook/#bread">Breads</a></th>
 <td><a href="/danyas-cookbook/#bpb">Potato Biscuits</a><br/>
 <a href="/danyas-cookbook/#bpd">Potato Dumplings</a></td>
 </tr>
 <tr>
-<th align="left" valign="top"><a href="/danyas-cookbook/#main">Main Dishes</a></th>
+<th class="align-left valign-top"><a href="/danyas-cookbook/#main">Main Dishes</a></th>
 <td><a href="/danyas-cookbook/#mgp">Garlic Potatoes</a><br/>
 <a href="/danyas-cookbook/#mpp">Potato Pancakes</a><br/>
 <a href="/danyas-cookbook/#msp">Shepherd's Pies</a><br/>
 <a href="/danyas-cookbook/#mtbp">Twice-Baked Potatoes</a></td>
 </tr>
 <tr>
-<th align="left" valign="top"><a href="/danyas-cookbook/#side">Side Dishes</a></th>
+<th class="align-left valign-top"><a href="/danyas-cookbook/#side">Side Dishes</a></th>
 <td><a href="/danyas-cookbook/#sbp">Baked Potatoes</a><br/>
 <a href="/danyas-cookbook/#skfp">Kestran's Favorite Potatoes</a><br/>
 <a href="/danyas-cookbook/#spp">Parsleyed Potatoes</a><br/>
@@ -91,21 +91,21 @@ such as those available to the cooks at the Collegium.
 </tr>
 </table>
 <p>
-</p><center><img alt="" loading="lazy" src="/barflow.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barflow.gif"/></div>
 <p>
 <a id="appetize" name="appetize"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h2>Appetizers</h2>
-</font>
+</span>
 </p><p>
 <a id="apc" name="apc"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Potato Cakes</h3>
-</font>
+</span>
 </p><p>
 Servings:  6
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>2</td>
 <td>cups</td>
@@ -150,16 +150,16 @@ Heat oil in large skillet over medium high heat.  When hot, put about
 2 tablespoons potato mixture for each cake into skillet.  Cook until
 well browned, then turn and brown other side.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 <a id="aps" name="aps"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Potato Skins</h3>
-</font>
+</span>
 </p><p>
 Servings:  6
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>6</td>
 <td> </td>
@@ -191,21 +191,21 @@ Sprinkle skins with pepper and cheese.
 Broil for 4 minutes.  (Same effect can be achieved by cooking in oven at
 a low temperature until cheese melts.)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barflow.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barflow.gif"/></div>
 <p>
 <a id="soup" name="soup"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h2>Soups</h2>
-</font>
+</span>
 </p><p>
 <a id="sps" name="sps"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Potato Soup</h3>
-</font>
+</span>
 </p><p>
 Servings: 4
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>2</td>
 <td>med.</td>
@@ -272,16 +272,16 @@ boil).
 </p><p>
 Ladle into soup bowls, and sprinkle with chopped parsley.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 <a id="srgs" name="srgs"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Roasted Garlic Soup</h3>
-</font>
+</span>
 </p><p>
 Servings:  8
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>1</td>
 <td>head</td>
@@ -335,7 +335,7 @@ Add milk.  Puree and strain soup (can be done with a hand-masher and
 cheesecloth--it just takes a while).  Add salt and pepper to taste.
 Pour soup into bowls and serve.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barflow.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barflow.gif"/></div>
 <p>
 <a id="bread" name="bread"></a>
 </p><h2>Breads</h2>
@@ -345,7 +345,7 @@ Pour soup into bowls and serve.
 <p>
 Servings:  8
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>1-1/4</td>
 <td>lbs.</td>
@@ -383,16 +383,16 @@ Divide dough in half.  Roll half of dough into an 8-inch circle, about 1/4-inch 
 </p><p>
 In large skillet, heat half of oil over medium-high heat (add more oil or butter if needed to prevent sticking).  Cook dough quarters in batches, 2 minutes on each side or until golden brown.  Serve warm.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 <a id="bpd" name="bpd"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Potato Dumplings</h3>
-</font>
+</span>
 </p><p>
 Servings:  4
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>8</td>
 <td>med.</td>
@@ -429,21 +429,21 @@ Peel potatoes and boil in salted water until very tender.  Drain, and mash until
 </p><p>
 Roll each dumpling in flour and drop into rapidly boiling water.  Cover and cook for about 15 or 20 minutes.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barflow.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barflow.gif"/></div>
 <p>
 <a id="main" name="main"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h2>Main Dishes</h2>
-</font>
+</span>
 </p><p>
 <a id="mgp" name="mgp"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Garlic Potatoes</h3>
-</font>
+</span>
 </p><p>
 Servings:  4
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>4</td>
 <td> </td>
@@ -463,16 +463,16 @@ Servings:  4
 <p>
 Boil whole or quartered potatoes for 5 minutes.  Roast potatoes, smeared with oil, in pan with whole garlic cloves at 400 (medium-high oven) for 45 minutes.  Serve warm.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 <a id="mpp" name="mpp"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Potato Pancakes</h3>
-</font>
+</span>
 </p><p>
 Servings:  4 (1 dozen)
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>3</td>
 <td>lg.</td>
@@ -531,14 +531,14 @@ Heat 1 tablespoon butter and 1 tablespoon oil in large skillet over medium heat 
 </p><p>
 Arrange pancakes in single layer on large, flat pan.  Bake at 300 (low oven) for 10 minutes.  Turn.  Bake 10 minutes longer.  Serve warm.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 <a id="msp" name="msp"></a>
 </p><h3>Shepherd's Pie</h3>
 <p>
 Servings:  4
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>4</td>
 <td>Slices</td>
@@ -589,16 +589,16 @@ In small bowl beat together eggs and milk; pour over potato mixture.  Cover and 
 </p><p>
 Sprinkle with bacon, and serve hot from skillet.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 <a id="mtbp" name="mtbp"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Twice-Baked Potatoes</h3>
-</font>
+</span>
 </p><p>
 Servings:  2
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>2</td>
 <td>med.</td>
@@ -645,21 +645,21 @@ Bake potatoes until tender, about 1 hour in medium oven.  Cut a lengthwise slice
 </p><p>
 Place filled skins in shallow baking dish.  Bake at 350 (medium oven) until cheese melts and potato mixture is heated through, about 15-20 minutes.  Sprinkle with paprika, if desired.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barflow.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barflow.gif"/></div>
 <p>
 <a id="side" name="side"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h2>Side Dishes</h2>
-</font>
+</span>
 </p><p>
 <a id="sbp" name="sbp"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Baked Potatoes</h3>
-</font>
+</span>
 </p><p>
 Servings:  4
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>4</td>
 <td>lg.</td>
@@ -691,14 +691,14 @@ Wash potatoes, and pat dry with towel.  Rub surfaces with oil.  Place potatoes a
 </p><p>
 Brown butter in small skillet over high heat, about 2-3 minutes.  Remove from heat.  Stir in garlic.  Cut each potato part way through and scrunch ends toward center (classic baked potato look).  Drizzle with garlic butter.  Garnish with onions.  Serve hot.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 <a id="skfp" name="skfp"></a>
 </p><h3>Kestran's Favorite Potatoes</h3>
 <p>
 Servings:  10
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td> 5</td>
 <td>lbs.</td>
@@ -739,16 +739,16 @@ Bake, covered, at 350 (medium oven) until potatoes are tender, about 1 hour.
 </p><p>
 Uncover and bake an additional 15 minutes or until slightly browned on top.  Let stand about 5 minutes before serving.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 <a id="spp" name="spp"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Parsleyed Potatoes</h3>
-</font>
+</span>
 </p><p>
 Servings:  5
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>15</td>
 <td> </td>
@@ -768,14 +768,14 @@ Servings:  5
 <p>
 Cook potatoes 20 minutes in boiling water.  Drain well.  Toss with butter and parsley.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 <a id="ssp" name="ssp"></a>
 </p><h3>Scalloped Potatoes</h3>
 <p>
 Servings: 6
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>2</td>
 <td>lbs.</td>
@@ -817,16 +817,16 @@ Preheat oven to 400 (medium-high).  Grease a 2-quart casserole.  Arrange potatoe
 </p><p>
 Bake 20 minutes then reduce heat to 350 (medium) and bake 50 to 60 minutes longer or until tender.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barholly.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barholly.gif"/></div>
 <p>
 <a id="ssph" name="ssph"></a>
-<font face="Harem">
+<span class="ff-harem">
 <h3>Scalloped Potatoes with Herbs</h3>
-</font>
+</span>
 </p><p>
 Servings:  8
 </p><p>
-</p><table border="0" cellpadding="2" cellspacing="2">
+</p><table class="cellpadding-2 cellspacing-2">
 <tr>
 <td>3</td>
 <td>med.</td>
@@ -894,19 +894,19 @@ Melt remaining 1 tablespoon butter in small saucepan over low heat.  Stir in cru
 </p><p>
 Remove potatoes from oven.  Sprinkle with reserved leeks.  Sprinkle top with crumb mixture.  Broil 2-3 minutes or until golden (same effect can be achieved by cooking in low-temperature oven for a longer time).
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barflow.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barflow.gif"/></div>
 <p>
 <!-- BEGIN LINKEXCHANGE CODE -->
-</p><center>
+</p><div class="center">
 <br/><a href="http://leader.linkexchange.com/20/X513002/clicklogo" target="_top">
-<img alt="" border="0" height="16" ismap="" loading="lazy" src="http://leader.linkexchange.com/20/X513002/showlogo?" width="468"/></a><br/></center>
+<img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/20/X513002/showlogo?" style="width:468px; height:16px"/></a><br/></div>
 <!-- END LINKEXCHANGE CODE -->
 <p>
-</p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bardrgn2.gif"/></div>
 <p>
-<font face="Harem">
-<a href="https://dragonlords.fans/index.htm"><img align="center" alt="" border="0" loading="lazy" src="/butback.gif"/>Return to Danya Winterborn's Page</a>
+<span class="ff-harem">
+<a href="https://dragonlords.fans/index.htm"><img alt="" class="float-center" loading="lazy" src="/butback.gif"/>Return to Danya Winterborn's Page</a>
 <p>
-</p></font>
+</p></span>
 </p>
 </div>

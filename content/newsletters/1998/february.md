@@ -17,25 +17,25 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. XI, No. 5<br/>
-February 1998</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. XI, No. 5<br/>
+February 1998</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 </p><p>
 </p><p>
 </p><p>
-<img align="left" alt="Border Art" border="0" loading="lazy" src="/qo280.jpg"/>
-<img align="right" alt="Border Art" border="0" loading="lazy" src="/qo281.jpg"/>
+<img alt="Border Art" class="float-left" loading="lazy" src="/qo280.jpg"/>
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo281.jpg"/>
 Dear Misty Fans,
 </p><p>
 Coming in March from Baen is <i>Bedlam's Bard</i>, a reissue of the Misty/Ellen Guon collaborations <i>Knight of Ghost and Shadows</i> and <i>Summoned to Tourney</i> in one volume. April is the release date for the short story collection <i>Fiddler Fair</i>.
@@ -60,10 +60,10 @@ Firebird has recently moved into a new location and is experiencing construction
 </p><p>
 TEMPEST will be appearing March 14 &amp; 15 at the Calaveras Celtic Faire [Ed. note 2005: Out-of-date info withheld.]. Call [Ed. note 2005: Out-of-date info withheld.] for more information. During the month of December Lief and Michael were in the studio with producer Berry recording the first CALIBAN CD. The release date is set for Saint Patrick's Day. In 1997 TEMPEST played huge festivals in England, Canada, and the US, and toured across the continent four times! They're looking forward to lots more wonderful adventures in 1998. Visit their web page [Ed. note 2005: Out-of-date info withheld.].
 </p><p>
-</p><table align="right" border="2" cellpadding="2" cellspacing="2" width="35%">
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
 <tr>
-<td align="left" valign="top">
-<center><h2>Conventrion News</h2></center>
+<td class="align-left valign-top">
+<div class="center"><h2>Conventrion News</h2></div>
 <p>
 MILLENIVICON is March 20-22 at The Blue Ash Hotel and Convention Center in Cincinnati Ohio. Guest of Honor is author Mike Resnick, Science Guest of Honor is Dr. Bill Breuer. Among others attending a.re Hai Clement and Buck &amp; Juanita Coulsan. Gaming, a masquerade, entertainment, benefit auction, art show . . . Cost is $30 at the door (sorry, no early registration after February 28) and $72.93 per night for a hotel room. Call [Ed. note 2005: Out-of-date info withheld.] for room reservations. For more convention information, call [Ed. note 2005: Out-of-date info withheld.].
 </p><p>
@@ -111,32 +111,32 @@ A new 'zine is on tile rise and it's aimed specifically at women!!! It's GIRL PO
 </p><p>
 For definitions of our fannish jargon. read "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005:  Out-of-date info withheld.] to the QO address for this 12 page booklet.
 </p><p>
-</p><center><table border="5" cellpadding="2" cellspacing="2" width="60%">
+</p><div class="center"><table class="border-5 cellpadding-2 cellspacing-2" style="width:60%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 "The efficiency of a general is inversely proportional to the number of medals he wears."
-<p align="right"><i>Mercedes Lackey</i></p></td>
+<p class="align-right"><i>Mercedes Lackey</i></p></td>
 </tr>
 </table>
-</center>
-<p align="left">
+</div>
+<p class="align-left">
 </p><h2>Fan Messages</h2>
 <p>
 [Ed. note 2005:  Content withheld.]
 </p><p>
-</p><center><table border="5" cellpadding="2" cellspacing="2" width="60%">
+</p><div class="center"><table class="border-5 cellpadding-2 cellspacing-2" style="width:60%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 "Never sit down at the table with your sword at your side. Strap it to your back for a faster draw."
-<p align="right"><i>Mercedes Lackey,</i></p></td>
+<p class="align-right"><i>Mercedes Lackey,</i></p></td>
 </tr>
 </table>
-</center>
-<p align="left">
-</p><table align="right" border="2" cellpadding="2" cellspacing="2" width="50%">
+</div>
+<p class="align-left">
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:50%">
 <tr>
-<td align="left" valign="top">
-<center><h2>Other Fandoms</h2></center>
+<td class="align-left valign-top">
+<div class="center"><h2>Other Fandoms</h2></div>
 <p>
 Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
 </p><p>
@@ -169,16 +169,16 @@ Stamps For Life is still collecting used postage stamps from all countries.  THe
 </p><p>
 Anne McCaffrey's <i>Robinton: Master Harper of Pern</i> is available now from Del Ray.  If you liked <i>Tailchaser's Song</i>, you'll probably like Gabriel King's <i>The Wild Road</i>, coming in March.
 </p><p>
-</p><center>
-<table border="5" cellpadding="2" cellspacing="2" width="35%">
+</p><div class="center">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:35%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 "Dragons are best approached by messenger."
-<p align="right"><i>Mercedes Lackey</i></p></td>
+<p class="align-right"><i>Mercedes Lackey</i></p></td>
 </tr>
 </table>
-</center>
-<p align="left">
+</div>
+<p class="align-left">
 Queen's Own [Ed. note 2005:  Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005:  Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005:  Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 </p><p>
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005:  Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
@@ -193,7 +193,7 @@ Mailing Day Helpers--Because my mom was rushed to the hospital for a pacemaker o
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -211,10 +211,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

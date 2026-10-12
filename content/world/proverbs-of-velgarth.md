@@ -15,11 +15,11 @@ canonical_path = "/proverbs-of-velgarth/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Proverbs from Velgarth</h2></center>
-<center><h3>Compiled by</h3></center>
-<center><h2>Danielle DiFronzo</h2></center>
-<center><h2>(Revised 10/2/99)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Proverbs from Velgarth</h2></div>
+<div class="center"><h3>Compiled by</h3></div>
+<div class="center"><h2>Danielle DiFronzo</h2></div>
+<div class="center"><h2>(Revised 10/2/99)</h2></div>
 <p>
 I finally got around to typing up all those proverbs from Misty's books.  There's probably more than I missed, or haven't gotten to (I haven't read all the Kethry/Tarma short stories yet . . .).  When I started it, it was just for the Shin'a'in proverbs, then it spread to Tayledras and Skan . . . &lt;g&gt; So there's likely Valdemaran and other ones I just didn't bother writing down.  And I'm just a little over halfway done with <i>Owlknight</i>; one has popped up, but it's always possible there's more.  Eventually I plan to reread all of them since it's been <i>so</i> long.  Anyway, I thought other Misty fans might like
 to see this.
@@ -27,7 +27,7 @@ to see this.
 The information contained here is intended solely for the enjoyment of
 Velgarth fans everywhere and as an aid to writers of fan fiction set on Velgarth. It is not intended to infringe in any way upon the rights held by Mercedes Lackey.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>GRYPHONS</h2>
 <p>
@@ -132,9 +132,9 @@ well-meaning and paved with their good intentions.
 </li><li>No arrow shot at a target is ever wasted, no matter how many break.
 </li></ul>
 <p>
-</p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bardrgn2.gif"/></div>
 <p>
-<font face="Harem">
-</font>
+<span class="ff-harem">
+</span>
 </p>
 </div>

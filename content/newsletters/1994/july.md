@@ -17,23 +17,23 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. VII, No. 9<br/>
-July/August 1994</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. VII, No. 9<br/>
+July/August 1994</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="Border art" border="0" loading="lazy" src="/qo260.jpg"/>
+<img alt="Border art" class="float-right" loading="lazy" src="/qo260.jpg"/>
 By now I hope you're happily reading <i>Chrome Circle</i> and <i>Storm Warning</i>. If your bookstore doesn't have copies, remember that both can be ordered from Firebird Arts and Music. Also available this summer are the paperback editions of <i>Winds of Fury</i> and <i>If I Pay Thee Not in Gold</i>.
 </p><p>
 My most recent conversation with Misty was interrupted by her cries of "Ouch! Ouch! Stop that!" as the mini-macaw Jayde determinedly nibbled on her hair. Being called "for the birds" is not an insult at the Aerie. Besides Jayde, Misty and Larry own (or are owned by) a blue and gold macaw named HarlieQuinn; Ikaika, an umbrella cockatoo; Elsie, a female African grey parrot; a Goffin's cockatoo named Kechara; male and female blue-streak lorikeets named Visyr and Syri; three nameless society finches (won as a door prize when Larry went shopping for bird toys); and a budgie named Snack. (In Aboriginal language "budgerigar" means "good food.")
@@ -67,9 +67,9 @@ Here as promised are some of the dates of TEMPEST's "Surfing to Mecca Tour '94:"
 <p>
 </p></li></ul>
 <p>
-</p><center>(Additional tour dates will be in the September newsletter.)</center>
+</p><div class="center">(Additional tour dates will be in the September newsletter.)</div>
 <p>
-</p><center>Tempest is wonderful on tape or CD and positively amazing in a live performance. Do see them if you can.</center>
+</p><div class="center">Tempest is wonderful on tape or CD and positively amazing in a live performance. Do see them if you can.</div>
 <p>
 Watch for Mark Shepherd's <i>Elvendude</i> in October/November; <i>The Eagle and the Nightingales</i> and the paperback version of <i>The Robin and the Kestrel</i> in January, and HOORAY!, <i>The White Gryphon</i>, March/April 1995.
 </p><p>
@@ -188,7 +188,7 @@ You need a <a href="/release-form-instructions/">release form</a> (send the Guar
 </p></li><li>From <i>Julie Persinger</i> comes <b>Blackwolf k'Vala</b>. Blackwolf's bondbird is a harpy eagle named Kirrth. Julie sent background information, two poems, drawings, and details on her volunteer work at the SPCA.<p>
 </p></li></ul>
 <p>
-<img align="right" alt="Border" border="0" loading="lazy" src="/qo261.jpg"/>
+<img alt="Border" class="float-right" loading="lazy" src="/qo261.jpg"/>
 </p><h2>MEMBER NEWS:</h2>
 <p>
 
@@ -276,7 +276,7 @@ Judith
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -294,10 +294,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

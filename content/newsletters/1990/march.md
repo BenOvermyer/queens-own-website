@@ -17,13 +17,13 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. III, No. 3<br/>
-March 1990</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. III, No. 3<br/>
+March 1990</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
@@ -75,7 +75,7 @@ Judith and I once again thank Chris for making the difficult look easy, and poin
 </p><p>
 <b>A QUICK THANK YOU</b> to those who sent us St. Patrick's Day cards.  It's one of those times when the unexpected elicits a smile.
 </p><p>
-<b>IF YOU WISH TO SEND SOMETHING TO MISTY</b>, Judith asks that you address it to [Ed. Note 2002: Out-of-date contact info omitted.  See contact information below.] "Leave me room on the right side of the envelope for the forwarding address, and I will take care of it before I leave the post office.  I DO NOT open Misty's mail!  When I receive something addressed to 'Queen's Own' that has scribbled on the back, 'To be given directly to Mrs. Lackey, no interference please,' I am insulted enough to be tempted to throw it in the trash.  Of course I didn't, but I would like that person to at least reimburse me the 65¢ for the stamp and envelope I had to use.  You may do it anonymously.  I don't care to know who you are." [Ed. Note 2002:  <font color="red">Please <i>do not</i> send personal mail for Misty to the Queen's Own address.  Send all fanmail for Mercedes Lackey to High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  Anything that comes to the QO mailbox in California addressed to Queen's Own is opened on the assumption that it is really for Queen's Own.  (We trust you to follow instructions and use the correct address for the correct type of mail.)  If, however, the contents turn out to be fanmail, we send it on to Misty at High Flight instead of returning it to the person who sent it.  That, however, costs us money.  Since we don't charge dues, the money for the postage and envelopes required to forward misaddressed mail comes out of our pockets (plus, we don't feel comfortable opening mail that really isn't for us.).  Please, help us by sending Misty's mail to the High Flight address and QO mail to the QO address.</font>]
+<b>IF YOU WISH TO SEND SOMETHING TO MISTY</b>, Judith asks that you address it to [Ed. Note 2002: Out-of-date contact info omitted.  See contact information below.] "Leave me room on the right side of the envelope for the forwarding address, and I will take care of it before I leave the post office.  I DO NOT open Misty's mail!  When I receive something addressed to 'Queen's Own' that has scribbled on the back, 'To be given directly to Mrs. Lackey, no interference please,' I am insulted enough to be tempted to throw it in the trash.  Of course I didn't, but I would like that person to at least reimburse me the 65¢ for the stamp and envelope I had to use.  You may do it anonymously.  I don't care to know who you are." [Ed. Note 2002:  <span class="c-red">Please <i>do not</i> send personal mail for Misty to the Queen's Own address.  Send all fanmail for Mercedes Lackey to High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  Anything that comes to the QO mailbox in California addressed to Queen's Own is opened on the assumption that it is really for Queen's Own.  (We trust you to follow instructions and use the correct address for the correct type of mail.)  If, however, the contents turn out to be fanmail, we send it on to Misty at High Flight instead of returning it to the person who sent it.  That, however, costs us money.  Since we don't charge dues, the money for the postage and envelopes required to forward misaddressed mail comes out of our pockets (plus, we don't feel comfortable opening mail that really isn't for us.).  Please, help us by sending Misty's mail to the High Flight address and QO mail to the QO address.</span>]
 </p><p>
 It seems that it is time for another reminder that Judith and I, with occasional help from her friends with the mailing of the fanletter, <i>are</i> Queen's Own.  There is no <i>staff</i> and <i>we</i> aren't staff--no one, neither Misty nor DAW Books, Inc., pays us.  To date the cost to <i>us</i> has not been covered, even with some of the generous contributions many of you have sent--for <a href="/newsletters/1990/february/">February's issue</a> alone, ± 2,000 sheets of paper, ±500 envelopes, ±500 mailing labels, xerox machine supplies, not to mention Post Office Box rent, etc.
 </p><p>
@@ -150,7 +150,7 @@ Judith
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -170,10 +170,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

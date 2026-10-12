@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 1, No. 1<br/>
-May 1, 2000</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 1, No. 1<br/>
+May 1, 2000</h2></div>
 <p>
-</p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="Burning Brightly, Misty's Latest Release!" border="0" loading="lazy" src="/ml55.jpg"/></a></center>
+</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="Burning Brightly, Misty's Latest Release!" loading="lazy" src="/ml55.jpg"/></a></div>
 <p>
 Heyla, Misty Fans!
 </p><p>
@@ -37,15 +37,15 @@ We're taking the club and the newsletter back to the old format developed by the
 </p><p>
 Speaking of things going into the newsletter, we would be happy to consider items that you wish to submit for publication.  Have you done an interview with anyone of interest to members of Queen's Own?  Do you have information about upcoming cons, local Queen's Own chapters, or other fandoms?  Visit <a href="/newsletter-guidance/">/newsletter-guidance/</a> for instructions on how to send your material to us!
 </p><p>
-</p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
+</p><div class="center"><img alt="Bar" loading="lazy" src="/bar2.gif"/></div>
 <p>
-</p><center><h2>From the Archives</h2></center>
+</p><div class="center"><h2>From the Archives</h2></div>
 <p>
-</p><center><a href="/pacific-northwest-collegium/"><img alt="Danya and Bard Kestran by Laura Cameron" border="0" loading="lazy" src="/cc2.gif"/></a></center>
+</p><div class="center"><a href="/pacific-northwest-collegium/"><img alt="Danya and Bard Kestran by Laura Cameron" loading="lazy" src="/cc2.gif"/></a></div>
 <p>
 Here's an updated version of a piece that used to be sent to everyone who inquired about Queen's Own.  The original author is Judith Louvis.  Updates were made by L.A. Malcor.
 </p><p>
-</p><center><img alt="Bar" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="Bar" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 "Queen's Own" is the official Mercedes Lackey Appreciation Society, formed with the permission of Misty and DAW soon after <a href="https://dragonlords.fans/bkmlvs.htm#arrows"><i>Arrows of the Queen</i></a> appeared.
 </p><p>
@@ -69,12 +69,12 @@ Do you dream of being a Herald? A Healer? A Bard?  Queen's Own members can earn 
 </p><p>
 In the past we've had local chapters, zine, a cookbook, writer's circles, role playing games, mentors to answer questions in other areas of fandom, even a worst pun contest.  Is there something you'd like to see us do?  Message us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> or post a message in the Queen's Own Private Delphi Forum (<a href="/delphi-forum/">/delphi-forum/</a>).  Share your ideas and enthusiasm!
 </p><p>
-</p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
+</p><div class="center"><img alt="Bar" loading="lazy" src="/bar2.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
 </p><p>
-<a href="/pacific-northwest-collegium/"><img align="right" alt="Yarik in the Companion's Field by Laura Cameron" border="0" loading="lazy" src="/cc8.gif"/></a>
+<a href="/pacific-northwest-collegium/"><img alt="Yarik in the Companion's Field by Laura Cameron" class="float-right" loading="lazy" src="/cc8.gif"/></a>
 Here are the faires we know about that are happening in May.  Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
 </p><h2>California</h2>
@@ -152,12 +152,12 @@ Here are the faires we know about that are happening in May.  Faires are indexed
 <p>
 For additional Ren Faire information, visit the Renaissance Faire Homepage at <a href="http://www.renfaire.com/">http://www.renfaire.com/</a>.
 </p><p>
-</p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
+</p><div class="center"><img alt="Bar" loading="lazy" src="/bar2.gif"/></div>
 <p>
 </p><h2>Conventions:</h2>
 <p>
 </p><p>
-<a href="/pacific-northwest-collegium/"><img align="right" alt="Danya and Yarik Sparring by Laura Cameron" border="0" loading="lazy" src="/cc18.gif"/></a>
+<a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik Sparring by Laura Cameron" class="float-right" loading="lazy" src="/cc18.gif"/></a>
 Have any information about conventions in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
 </p><h2>California</h2>
@@ -173,11 +173,11 @@ Have any information about conventions in your area?  Send it to us at <a href="
 </p></li><li>TWINCON.  Website: <a href="http://www.io.com/~gorta/rpga/">http://www.io.com/~gorta/rpga/</a> (See entry for Twincon.)  When: 5/26/2000 - 5/29/2000.
 </li></ul>
 <p>
-</p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
+</p><div class="center"><img alt="Bar" loading="lazy" src="/bar2.gif"/></div>
 <p>
 </p><h2>Member News:</h2>
 <p>
-</p><center><a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik by Laura Cameron" border="0" loading="lazy" src="/cc5.gif"/></a></center>
+</p><div class="center"><a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik by Laura Cameron" loading="lazy" src="/cc5.gif"/></a></div>
 <p>
 For definitions of our fannish jargon, read "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  (Judith is sending us a copy, and we hope to be able to make it available to you soon.)
 </p><p>
@@ -217,11 +217,11 @@ For definitions of our fannish jargon, read "Pros &amp; Cons: An Introduction to
 </li><li><b>Doctor Who and other Media:</b> <b>The Prydonians of Prynceton</b>, P.O. Box 3194, Princeton, NJ  08543-3194.
 
 <p>
-</p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
+</p><div class="center"><img alt="Bar" loading="lazy" src="/bar2.gif"/></div>
 <p>
 </p><h2>Collegium News:</h2>
 <p>
-</p><center><a href="/pacific-northwest-collegium/"><img alt="Danya, Yarik and Dean Terren by Laura Cameron" border="0" loading="lazy" src="/cc7.gif"/></a></center>
+</p><div class="center"><a href="/pacific-northwest-collegium/"><img alt="Danya, Yarik and Dean Terren by Laura Cameron" loading="lazy" src="/cc7.gif"/></a></div>
 <p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
 </p><p>
@@ -233,7 +233,7 @@ All personae materials should be sent to the QO address.
 <li>Welcome, <b><a href="mailto:Hkiara@aol.com">Herald Kiara Roisdaughter</a></b>, Chosen by Amberlyn and gifted with Mindspeech and Mindhealing.  <b>Lia Talmas</b> wrote about her persona and friends, wrote a story and learned CPR.
 </li></ul>
 <p>
-</p><center><img alt="Bar" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="Bar" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>From Healer Adept Moonstar:</h2>
 <p>
@@ -241,12 +241,12 @@ The very first issue of Queen�s Own newsletter was mailed in February 1988.  I
 </p><p>
 The Queen�s Own mailing list was at one time about 1,100 members strong, and we can only hope for the same. One of the main reasons we now have an online newsletter is to keep the club in the hands of the fans and make it more responsive to them.  We see free memberships as an important part of that effort.  If you know someone who doesn�t have e-mail access and still wants a copy of the newsletter, please let us know, and we will try our best to work something out.
 </p><p>
-</p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
+</p><div class="center"><img alt="Bar" loading="lazy" src="/bar2.gif"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
 </p><p>
-<a href="/pacific-northwest-collegium/"><img align="right" alt="Yarik, Danya and Sherrill by Laura Cameron" border="0" loading="lazy" src="/cc9.gif"/></a>
+<a href="/pacific-northwest-collegium/"><img alt="Yarik, Danya and Sherrill by Laura Cameron" class="float-right" loading="lazy" src="/cc9.gif"/></a>
 The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <b>don't place a fan message</b>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
@@ -254,11 +254,11 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p><ul>
 <li>From <u>Danya Winterborn, P.O. Box 749, Laguna Beach, CA  92652</u>, E-mail: <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.  Heyla, all!  I am a tremendously busy "mom" &lt;g&gt;, but I do try to answer all messages that are sent to me.  (Sometimes it takes me a few days, but I do answer them.)  Feel free to write if you have any questions or even if you just want to chat!</li></ul>
 <p>
-</p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
+</p><div class="center"><img alt="Bar" loading="lazy" src="/bar2.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
-</p><center><a href="/pacific-northwest-collegium/"><img alt="Healing Session by Laura Cameron" border="0" loading="lazy" src="/cc27.gif"/></a></center>
+</p><div class="center"><a href="/pacific-northwest-collegium/"><img alt="Healing Session by Laura Cameron" loading="lazy" src="/cc27.gif"/></a></div>
 <p>
 </p><ul>
 <li>To <b>Herald Jensen Redstart</b> and <b>Herald An'Talyah Brighthawk</b> from <b>Herald-Mage Journeyman Danya Winterborn</b>.  Thanks for helping us get the new incarnation of Queen's Own off the ground!<p>
@@ -266,7 +266,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li>From: <b>Erin Samantha Frost/Ariya Nightsun</b>, To: Everyone who remembers/knows me.  I'm in college now!  I'm a student at the University of California at Santa Cruz.  I have a new e-mail address: <a href="mailto:erynf@cats.ucsc.edu">erynf@cats.ucsc.edu</a>. Please e-mail me! I respond better to e-mail now. Hugs and Roses to you all, and it's nice to have QO back!
 </li></ul>
 <p>
-</p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
+</p><div class="center"><img alt="Bar" loading="lazy" src="/bar2.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -283,10 +283,10 @@ Mercedes Lackey<br/>
 c/o High Flight Arts and Letters <br/>
 P.O. Box 2970 <br/>
 Claremore, OK 74017</p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></li>
 </div>

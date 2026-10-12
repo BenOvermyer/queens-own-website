@@ -14,12 +14,12 @@ canonical_path = "/role-playing/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>Role-Playing Instructions</h2></center>
-<center><h3>(Revised 10/16/20)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>Role-Playing Instructions</h2></div>
+<div class="center"><h3>(Revised 10/16/20)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/></div>
 <p>
 Queen's Own has been granted permission to hold private online Role-Playing Events (RPs) in our Secret Room on Facebook.  Below are the rules for these events.  Please follow these rules at all times.  If there is a problem with people not following the rules, our permission to hold the online RPs will be revoked.
 </p><p>
@@ -47,15 +47,15 @@ While in the Secret Room, you may play your approved QO persona and approved NPC
 </p><p>
 To join play, come up with some likely explanation for your persona to be passing through:  You are on leave from a mercenary unit or the Guard, you have a brief vacation from your duties as a Herald and are spending it with friends, you are researching a rare herb at the Healing Temple, you are helping a Tayledras unit clean-up some Change Circles, you are part of a group trying to help stabilize an unstable fault beneath the local hotsprings, you are passing through on your way to an assignment in Hardorn or Karse . . . Be creative, but remember to stay within the rules of the books!
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>The Setting</h2>
 <p>
 Queen's Own RPs take place in the village of Hotsprings on our alternate timeline (the one where Herald Kris does not die) unless otherwise announced.  Hotsprings is located on a spur off the East Trade Road, which puts it at the base of the Armor Hills (You'll find those near where the borders of Hardorn, Karse and Valdemar meet.).  All events are set <i>after</i> the conclusion of the <i>Mage Storms</i> trilogy.
 </p><p>
-</p><center>
-<img alt="Hotsprings" border="5" loading="lazy" src="/qohot.jpg"/>
-</center>
+</p><div class="center">
+<img alt="Hotsprings" class="border-5" loading="lazy" src="/qohot.jpg"/>
+</div>
 <p>
 Hotsprings has about 300 full time residents who are mainly engaged in the farming and herding industries.  Most of these families live on the edge of town, traveling out to the fields and herds as needed.  They share a bakehouse, blacksmith and townhall.
 </p><p>
@@ -66,6 +66,6 @@ Hotsprings is also home to a Healers' Temple.  Several orders of male and female
 </p><p>
 The Mayor of Hotsprings is Kelton Hill.  Kel is head of a local clan of vintners, who produce some rather fine red, white and rose wines.  He is still unmarried at thirty years of age, and the villagers consider him to be one of the most eligible bachelors in Valdemar.  The Mayor's House is attached to the Townhall.
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

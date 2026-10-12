@@ -17,22 +17,22 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 2, Vol. I, No. 6<br/>
-May 13, 1999</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 2, Vol. I, No. 6<br/>
+May 13, 1999</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-</p><center><img alt="Queen's Own/Merging of the Ways" border="0" loading="lazy" src="/qo179.jpg"/></center>
-<center><h2>The Official Mercedes Lackey Fan Club</h2></center>
+</p><div class="center"><img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/></div>
+<div class="center"><h2>The Official Mercedes Lackey Fan Club</h2></div>
 <p>
-<img align="left" alt="Misty with her race car at Hallett Motor Racing Circuit Hallett, Oklahoma" border="0" loading="lazy" src="/qo111.jpg"/><img align="right" alt="Border by Herald Alora" border="0" loading="lazy" src="/qo112.jpg"/>
+<img alt="Misty with her race car at Hallett Motor Racing Circuit Hallett, Oklahoma" class="float-left" loading="lazy" src="/qo111.jpg"/><img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo112.jpg"/>
 Just got word from Firebird that "Black Swan" is out in hardback. The cost is $24.95 + s/h. Firebird�s address and website are listed
 on page 2 of this newsletter. Black Swan will be the feature for the next Newsletter.
 This latest from Misty was found on the High Flight website, under the link
@@ -84,35 +84,35 @@ future, for I know by experience that patterns don't stay in print for very long
 </p><p>
 That's all for now; everyone keep well and safe in the new year! Yours, Mercedes Lackey
 </p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268. To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses. Also new from Firebird is an email list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.</td>
+<td class="align-left valign-middle">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268. To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses. Also new from Firebird is an email list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.</td>
 </tr>
 <tr>
-<td align="left" valign="middle">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at <a href="mailto:tempest_rock@hotmail.com">tempest_rock@hotmail.com</a>.
+<td class="align-left valign-middle">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at <a href="mailto:tempest_rock@hotmail.com">tempest_rock@hotmail.com</a>.
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">For definitions of our fannish jargon, read "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send a dollar and a 32 cent stamp (or a dollar and 2 IRC�s) to the QO address for this 12 page booklet.
+<td class="align-left valign-middle">For definitions of our fannish jargon, read "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send a dollar and a 32 cent stamp (or a dollar and 2 IRC�s) to the QO address for this 12 page booklet.
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle"><i>Flights of Fantasy</i> 217 Central Avenue, Albany, NY 12206 (phone 518-433-8803) specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list - she�ll do her best for you! For orders outside the 518 area code, call 1-800-300-READ (7323) . Webpage <a href="http://www.fof.net">http://www.fof.net</a>, Email: <a href="mailto:fof@albany.net">fof@albany.net</a>. <i>Flights of Fantasy</i> accepts orders from inmates.
+<td class="align-left valign-middle"><i>Flights of Fantasy</i> 217 Central Avenue, Albany, NY 12206 (phone 518-433-8803) specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list - she�ll do her best for you! For orders outside the 518 area code, call 1-800-300-READ (7323) . Webpage <a href="http://www.fof.net">http://www.fof.net</a>, Email: <a href="mailto:fof@albany.net">fof@albany.net</a>. <i>Flights of Fantasy</i> accepts orders from inmates.
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle"><i>Sink or Swim</i> is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: <a href="mailto:temarrea@Yahoo.com ">temarrea@Yahoo.com</a>, or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002:  Address withheld.].
+<td class="align-left valign-middle"><i>Sink or Swim</i> is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: <a href="mailto:temarrea@Yahoo.com ">temarrea@Yahoo.com</a>, or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002:  Address withheld.].
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&amp;W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002:  Ellen Million Graphics can now be found at <a href="http://www.ellenmilliongraphics.com">http://www.ellenmilliongraphics.com</a>.]. (Dealer inquiries welcome)
+<td class="align-left valign-middle">Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&amp;W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002:  Ellen Million Graphics can now be found at <a href="http://www.ellenmilliongraphics.com">http://www.ellenmilliongraphics.com</a>.]. (Dealer inquiries welcome)
 </td>
 </tr>
 </table>
 <p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle"><b>PERSONALS</b> - for the time being, personals will be "free". I would like to see more of these please.
+<td class="align-left valign-middle"><b>PERSONALS</b> - for the time being, personals will be "free". I would like to see more of these please.
 <p>
 Herald and Misty Fans! Remember when Firebird used to sell those beautiful, handmade, soft sculpture Companions?
 Well, I have a stallion that I�m looking to sell. ::Hey:: He�s looking for a home which can give him more
@@ -122,23 +122,23 @@ love than I can. He�s available for $40 or best offer. Please write to Jaila S
 </tr>
 </table>
 <p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle"><b>PEN-PALS</b>. A sample copy of the newsletter is sent to anyone who requests it. The newsletter is routinely sent to prisons. If you are concerned about your address falling into unfriendly hands don�t place a pen-pal message! You may answer messages without ever placing one yourself.
+<td class="align-left valign-middle"><b>PEN-PALS</b>. A sample copy of the newsletter is sent to anyone who requests it. The newsletter is routinely sent to prisons. If you are concerned about your address falling into unfriendly hands don�t place a pen-pal message! You may answer messages without ever placing one yourself.
 <p>
 [Ed. Note 2002:  The Pen-Pal messages have been withheld from the online version of the newsletter.]</p></td>
 </tr>
 </table>
 <p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle"><b>NOTICE</b> ~ I would like to see a new logo or letterhead for Queen�s Own. I know that there are lots of creative minds in this club and I would like to see what you can come up with. Full credit will go to the artist as usual. The logo/letterhead must contain "Queen�s Own - Merging of the Ways". Winner will receive a full year subscription FREE! Please send to the QO PO Box, and mark the envelope "Logo". Thanks in advance for your participation. Deadline for submissions is August 1, 1999.</td>
+<td class="align-left valign-middle"><b>NOTICE</b> ~ I would like to see a new logo or letterhead for Queen�s Own. I know that there are lots of creative minds in this club and I would like to see what you can come up with. Full credit will go to the artist as usual. The logo/letterhead must contain "Queen�s Own - Merging of the Ways". Winner will receive a full year subscription FREE! Please send to the QO PO Box, and mark the envelope "Logo". Thanks in advance for your participation. Deadline for submissions is August 1, 1999.</td>
 </tr>
 </table>
 <p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle"><h2>LOCAL CHAPTERS</h2>
+<td class="align-left valign-middle"><h2>LOCAL CHAPTERS</h2>
 <p>
 </p><ul>
 <li><b>Arrows OnLine</b> - To find Arrows OnLine on America OnLine, follow these directions: Keyword: books. Click on
@@ -159,12 +159,12 @@ am also accepting submissions, stories, art, poetry, etc. Please contact me at: 
 </tr>
 </table>
 <p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle">A word from the President: I�m sorry that my replies have not been very quick lately. I, like Judith, put family crises before QO-MTW. Lately, there have been a few. My husband needs surgery for possible cancer, our 7 month old kitten was put down, our 11 year old cat has possible kidney failure and my hamster is pregnant! Hopefully, life will calm down now and I can get caught up and remain that way. Thanks for your understanding.</td>
+<td class="align-left valign-middle">A word from the President: I�m sorry that my replies have not been very quick lately. I, like Judith, put family crises before QO-MTW. Lately, there have been a few. My husband needs surgery for possible cancer, our 7 month old kitten was put down, our 11 year old cat has possible kidney failure and my hamster is pregnant! Hopefully, life will calm down now and I can get caught up and remain that way. Thanks for your understanding.</td>
 </tr>
 <tr>
-<td align="left" valign="middle">With the above in mind, I hope to have the newsletter reformatted by the end of the year (that gives me only six more issues). The information content will remain the same, only the looks will change to protect from boredom! :-). At this time I would like to ask you all a favor. What would you like to see in this newsletter? Are there any additional items you would like in this newsletter? Would you like something removed from the newsletter? What would you like me to do to make this newsletter everything you ever imagined? Please write me or email with any suggestions, comments or concerns as soon as possible.
+<td class="align-left valign-middle">With the above in mind, I hope to have the newsletter reformatted by the end of the year (that gives me only six more issues). The information content will remain the same, only the looks will change to protect from boredom! :-). At this time I would like to ask you all a favor. What would you like to see in this newsletter? Are there any additional items you would like in this newsletter? Would you like something removed from the newsletter? What would you like me to do to make this newsletter everything you ever imagined? Please write me or email with any suggestions, comments or concerns as soon as possible.
 <p>
 Also, as a new touch, I would like to have member artwork to include in a gift pack to new and renewing members of QO. I will pay for everything but the postage to get it to me. Please submit your artwork. All artists will get full credit for their work, all I ask in return is that the artwork be in black and white, or one color and white. If possible, it be camera ready (if you are not familiar with this term, don�t worry, I can make it camera ready!) and the artist clearly writes their name somewhere in the package so that credit may be given correctly. Please send all artwork to the Queen�s Own PO box and label the envelope "Artwork". I�m hoping to have some stationary, bookmarks, postcards and whatever else takes my fancy!!
 </p><p>
@@ -172,26 +172,26 @@ Your editor and president ~ Robin</p></td>
 </tr>
 </table>
 <p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle"><h2>Charities, Auctions and others ~</h2>
+<td class="align-left valign-middle"><h2>Charities, Auctions and others ~</h2>
 The auction for the Alex Foundation, as far as I know the only auction in town that can boast hand made items by
 Misty herself cloaes on 4/30/99. The auction can be found from Firebird Arts &amp; Music website (http://
 www.firebirdarts.com). All proceeds go to aid the Alex foundation. For more information visit Firebird!</td>
 </tr>
 </table>
 <p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle">I have about 5 personas to recognize, but with life being so hectic lately, I�ve not had time to read them yet. There
+<td class="align-left valign-middle">I have about 5 personas to recognize, but with life being so hectic lately, I�ve not had time to read them yet. There
 should be a few in the next newsletter. If you wish to have a recognized persona and need the guidelines, please
 email or write me and I�ll be happy to send you what you need.</td>
 </tr>
 </table>
 <p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="middle"><font size="4"><h2>Other Fandoms</h2>
+<td class="align-left valign-middle"><span class="fs-4"><h2>Other Fandoms</h2>
 <p>
 </p><ul>
 <li><b>Marion Zimmer Bradley�s Fantasy Magazine.</b> Open it up and find stories that transport you from everyday into a
@@ -206,7 +206,7 @@ magical place populated by fantastic beings and governed by mystical forces. Fou
 </p></li><li><b>Pandemonium</b> - The official Melanie Rawn club invites you to join their ranks. SASE for more information:
 Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
 </p></li><li><b>Dragonlords of Dumnonia</b> - Contact L.A. Malcor at legend@oxy.edu or visit the website at <a href="http://wwww.dragonlordsnet.com">http://wwww.dragonlordsnet.com</a> for more information.
-</li></ul></font></td>
+</li></ul></span></td>
 </tr>
 </table>
 <p>
@@ -226,7 +226,7 @@ Editor and President - Robin Ready [Ed. Note 2002:  Contact info withheld.
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -246,10 +246,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

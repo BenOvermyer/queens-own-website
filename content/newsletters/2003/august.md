@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 4, No. 8<br/>
-August 1, 2003</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 4, No. 8<br/>
+August 1, 2003</h2></div>
 <p>
-</p><center><img alt="Elven Lady by Gibel Encarnacion" border="0" loading="lazy" src="/qo166.jpg"/></center>
+</p><div class="center"><img alt="Elven Lady by Gibel Encarnacion" loading="lazy" src="/qo166.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -59,7 +59,7 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren. Faires:</h2>
 <p>
@@ -159,9 +159,9 @@ Here are the Faires we know about for August.  Faires are indexed alphabetically
 </p><p>
 <b>KENT CANTERBURY FAIRE. </b> E-mail: <a href="mailto:lopsahi@ci.kent.wa.us">lopsahi@ci.kent.wa.us</a>. Website: <a href="http://www.ci.kent.wa.us/culturalprograms">http://www.ci.kent.wa.us/culturalprograms</a>.  Address:   Mark Hendrickson, Kent Parks, Rec. &amp; Community Center, 220 4th Ave S., Kent, WA, 98032.  Site Address: Mill Creek Canyon Earthworks Park, Senior Activities Center, 742 E. Titus St. Dates:  8/16/03 - 8/17/03.  Open/Close:  11 AM - 7 PM (Sun. until 6 PM.).
 </p><p>
-<b>WASHINGTON RENAISSANCE FANTASY FAIRE. </b> E-mail: <a href="mailto:bryonm@earthlink.net">bryonm@earthlink.net</a>.  Website: <a href="http://www.washingtonrenfaire.com">http://www.washingtonrenfaire.com/a&gt;.  Address: 12016 134th Ave. KPN, Gig Harbor, WA, 98329.  Site Address:   Minter Creek Ranch, 10215 State Road 302 NW, Gig Harbor, WA, 98329.  Dates:  8/02/03 - 8/10/03.  Open/Close: 10:00 AM - 6:00 PM.  <font color="red"><b>Note:  Misty and Larry will be here on August 2nd and 3rd!</b></font>
-<font face="Bookman Old Style" size="4">
-</font>
+<b>WASHINGTON RENAISSANCE FANTASY FAIRE. </b> E-mail: <a href="mailto:bryonm@earthlink.net">bryonm@earthlink.net</a>.  Website: <a href="http://www.washingtonrenfaire.com">http://www.washingtonrenfaire.com/a&gt;.  Address: 12016 134th Ave. KPN, Gig Harbor, WA, 98329.  Site Address:   Minter Creek Ranch, 10215 State Road 302 NW, Gig Harbor, WA, 98329.  Dates:  8/02/03 - 8/10/03.  Open/Close: 10:00 AM - 6:00 PM.  <span class="c-red"><b>Note:  Misty and Larry will be here on August 2nd and 3rd!</b></span>
+<span class="ff-bookman fs-4">
+</span>
 </a></p><p>
 </p><h3>Wisconsin</h3><p>
 <b>BRISTOL RENAISSANCE FAIRE. </b> FAX: 847-395-0547.  E-mail: <a href="mailto:lmcfeters@recfair.com">lmcfeters@recfair.com</a>.  Website: <a href="http://www.renfair.com">http://www.renfair.com</a>.  Address: 12550 120th Ave., Kenosha, WI, 53142-7337.  Dates:  6/28/03 - 8/24/03.  Open/Close: 10:00 AM - 7:00 PM.
@@ -179,7 +179,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 These are the upcoming cons we know about.  Have any information about conventions in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
 </p><h3>Alabama</h3><p>
-<b>Con†Stellation XXII: Pegasus. </b> E-mail:  <a href="mailto:constell@con-stellation.org">constell@con-stellation.org</a>.  Address:  Con*Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857.  Site Address:  Holiday Inn Express, Huntsville, Alabama.  Dates:  10/10/03-10/12/03.  <font color="red">Note:   * Guest of Honor: Mercedes Lackey, * Master of Ceremonies: Larry Dixon!</font><font color="black">
+<b>Con†Stellation XXII: Pegasus. </b> E-mail:  <a href="mailto:constell@con-stellation.org">constell@con-stellation.org</a>.  Address:  Con*Stellation XXII: Pegasus, P.O.Box 4857, Huntsville Alabama, 35815-4857.  Site Address:  Holiday Inn Express, Huntsville, Alabama.  Dates:  10/10/03-10/12/03.  <span class="c-red">Note:   * Guest of Honor: Mercedes Lackey, * Master of Ceremonies: Larry Dixon!</span><span class="c-black">
 <p>
 </p><h3>California</h3>
 <p>
@@ -391,8 +391,8 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p></font></p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
-<img align="left" alt="Come and Play by Gibel Encarnacion" border="0" loading="lazy" src="/qo167.jpg"/>
+</p></span></p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div><p>
+<img alt="Come and Play by Gibel Encarnacion" class="float-left" loading="lazy" src="/qo167.jpg"/>
 </p><p>
 </p><h2>Member News:</h2><p>
 For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.37 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
@@ -467,7 +467,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <p>
 </p></li><li><b><i>Tales of the Unicorn</i>:</b>  After a decade hiatus it's back . . . <i>Tales of the Unicorn</i>.  Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy.  Tales will be published quarterly with the first issue coming in late April.  Art and poetry are also welcome.  Visit our website at <a href="http://www.marymuse.com/HeartlandArrows/TotU.html">http://www.marymuse.com/HeartlandArrows/TotU.html</a> for more information.  Submissions may be sent to <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a> or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 </li></ul><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div><p>
 </p><h2>Other Fandoms:</h2><p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
@@ -489,8 +489,8 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <p>
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center><p>
-<img align="left" alt="Dark Elf by Gibel Encarnacion" border="5" loading="lazy" src="/qo168.jpg"/>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div><p>
+<img alt="Dark Elf by Gibel Encarnacion" class="float-left border-5" loading="lazy" src="/qo168.jpg"/>
 </p><p>
 </p><h3>Collegium News:</h3><p>
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in.  You can find these handouts online at <a href="/persona-handouts/">/persona-handouts/</a>.
@@ -550,9 +550,9 @@ Zhai�helleva,
 </p><p>
 Danya
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<img align="right" alt="Priestess by Gibel Encarnacion" border="5" loading="lazy" src="/qo169.jpg"/>
+<img alt="Priestess by Gibel Encarnacion" class="float-right border-5" loading="lazy" src="/qo169.jpg"/>
 </p><p>
 </p><h2>Personals:</h2>
 <p>
@@ -580,7 +580,7 @@ If you can be of assistance, please contact Danya at <a href="mailto:Legend@malc
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -603,10 +603,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></g></p></g></p>
 </div>

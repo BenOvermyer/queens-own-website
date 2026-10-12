@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 3, No. 8<br/>
-August 1, 2002</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 3, No. 8<br/>
+August 1, 2002</h2></div>
 <p>
-</p><center><img align="center" alt="Desari by Natasha Williams" border="5" loading="lazy" src="/qo126.jpg"/></center>
+</p><div class="center"><img alt="Desari by Natasha Williams" class="float-center border-5" loading="lazy" src="/qo126.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -38,7 +38,7 @@ The big news this month is that the Sonoran Collegium is back!  This QO chapter 
 for more information.  The first newsletter is scheduled to appear August 15th.
 </p><p>
 Misty�s latest,
-</p><center><a href="http://www.amazon.com/exec/obidos/ASIN/0312864566/dragonlordsofdumA/"><img align="center" alt="" border="0" loading="lazy" src="/ml69.jpg"/></a></center>
+</p><div class="center"><a href="http://www.amazon.com/exec/obidos/ASIN/0312864566/dragonlordsofdumA/"><img alt="" class="float-center" loading="lazy" src="/ml69.jpg"/></a></div>
 <i><a href="http://www.amazon.com/exec/obidos/ASIN/0312864566/dragonlordsofdumA/">Elvenborn</a> (Norton, Andre. Halfblood Chronicles, Bk. 3.) </i> with Andre Norton), is now available!  <i>Take a Thief</i> will be out in paperback in October, and <i>Exile�s Honor</i>, the long awaited novel about Alberich, is scheduled for publication in hardback in October as well.
  <p>
 Coding on the next issue of <i>The Compass Rose</i> is proceeding slowly, but it is proceeding.  With any luck, Danya will get the issue up within the next month (although we don�t take bets &lt;G&gt;.).
@@ -59,7 +59,7 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><ol>
 <li><b>When did you join Queen's Own?</b>
@@ -107,7 +107,7 @@ Certainly I'd like to see more things for the members to do.  But then, Queen's 
 
 </p></li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
@@ -244,7 +244,7 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 </p><h3>Louisiana</h3>
 <p>
-<b>CRESCENT CITY CON XVII. </b> Website: <a href="http://www.fatsnake.com/ccc/index.html">http://www.fatsnake.com/ccc/index.html</a>.  E-mail: <a href="mailto:CCCNO@aol.com">CCCNO@aol.com</a>.  Address: Landmark Best Western Hotel, New Orleans, Louisiana.  Dates: 8/9/02 - 8/11/02.  <font color="red">Note:  Mercedes Lackey and Larry Dixon plan to attend!</font>
+<b>CRESCENT CITY CON XVII. </b> Website: <a href="http://www.fatsnake.com/ccc/index.html">http://www.fatsnake.com/ccc/index.html</a>.  E-mail: <a href="mailto:CCCNO@aol.com">CCCNO@aol.com</a>.  Address: Landmark Best Western Hotel, New Orleans, Louisiana.  Dates: 8/9/02 - 8/11/02.  <span class="c-red">Note:  Mercedes Lackey and Larry Dixon plan to attend!</span>
 </p><p>
 </p><h3>Maryland</h3>
 <p>
@@ -370,9 +370,9 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 For additional Convention information, visit Convention Outpost by Jenga at <a href="http://go.to/conventions">http://go.to/conventions</a>.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img align="center" alt="Desari's Friend by Natasha Williams" border="5" loading="lazy" src="/qo127.jpg"/></center>
+</p><div class="center"><img alt="Desari's Friend by Natasha Williams" class="float-center border-5" loading="lazy" src="/qo127.jpg"/></div>
 <p>
 </p><h2>Member News:</h2>
 <p>
@@ -421,9 +421,9 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img align="center" alt="Desari's Court Dress by Natasha Williams" border="5" loading="lazy" src="/qo128.jpg"/></center>
+</p><div class="center"><img alt="Desari's Court Dress by Natasha Williams" class="float-center border-5" loading="lazy" src="/qo128.jpg"/></div>
 <p>
 </p><p>
 </p><h2>Other Fandoms:</h2>
@@ -519,7 +519,7 @@ Zhai�helleva,
 </p><p>
 Danya
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -530,7 +530,7 @@ Danya
 </p></li><li><b>From Herald-Mage Danya.  To: All.  Re: Cookbook.</b>  If you've read my persona submission in CoV, you know that I like making up medieval-style recipes.  I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series.  If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>?  Thanks!
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -553,10 +553,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></g></p></g></p></g></p>
 </div>

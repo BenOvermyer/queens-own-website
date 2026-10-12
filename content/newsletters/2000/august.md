@@ -17,17 +17,17 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 1, No. 4<br/>
-August 1, 2000</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 1, No. 4<br/>
+August 1, 2000</h2></div>
 <p>
-</p><center>
-<img alt="Birds in Flight by Herald Alora" border="5" loading="lazy" src="/qo13.jpg"/>
-</center>
+</p><div class="center">
+<img alt="Birds in Flight by Herald Alora" class="border-5" loading="lazy" src="/qo13.jpg"/>
+</div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -38,10 +38,10 @@ For this month's feature article, we are starting a series of interviews with th
 </p><p>
 <b>Herald-Mage Master Danya Winterborn</b> and <b>Healer Adept Moonstar</b>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<font color="red">Note: Cassandra Vuksa is Australian, so we have chosen to preserve the Australian spellings in her responses.</font>
-<font face="Bookman Old Style" size="4">
+<span class="c-red">Note: Cassandra Vuksa is Australian, so we have chosen to preserve the Australian spellings in her responses.</span>
+<span class="ff-bookman fs-4">
 <p>
 </p><ol>
 <li>When did you join Queen's Own?
@@ -80,11 +80,11 @@ I also do Tai Chi and am studying IT part time.  I work full time in the
 Department of Defence doing contracting, am a volunteer Emergency Control Organisation member in my building, and the small amount of time I have left after all of that I spend with my boyfriend, Jamie.  (He made me type that!)
 </p></li></ol>
 <p>
-</p></font></p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p></span></p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
-</p><center><img alt="Sophie-Diane by Laura Felton" border="2" loading="lazy" src="/qo10.jpg"/></center>
+</p><div class="center"><img alt="Sophie-Diane by Laura Felton" class="border-2" loading="lazy" src="/qo10.jpg"/></div>
 <p>
 Here are the faires we know about that are happening in August.  Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
 </p><p>
@@ -175,9 +175,9 @@ WORLDCON (Chicon2000).  Website:  <a href="http://www.chicon.org">http://www.chi
 <p>
 DRAGONFLIGHT GAME CONVENTION.  Website:  <a href="http://www.dragonflight.org">http://www.dragonflight.org</a>.  Seattle, WA.  Dates: 8/25/00-8/27/00.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Female Archer by Herald Alora" border="3" loading="lazy" src="/qo14.jpg"/></center>
+</p><div class="center"><img alt="Female Archer by Herald Alora" class="border-3" loading="lazy" src="/qo14.jpg"/></div>
 <p>
 </p><h2>Member News:</h2>
 <p>
@@ -192,7 +192,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li><b>Pacific Northwest Collegium:</b>  Newsletter: <i>Collegium Chronicles</i>. $8 per year/$4 for a half-year, $2 per issue.  Website: <a href="/pacific-northwest-collegium/">/pacific-northwest-collegium/</a>. General inquiries to: <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.  (See ad below for more details.) <i>Collegium Chronicles</i> Back Issues:  The Danya Winterborn Saga:  4 B&amp;W issues: $4.00  each, 2 Full color issues: $6.00.  Please allow 2-4 week delivery.
 </li></ul>
 <p>
-</p><center><img alt="Companions by Laura Felton" border="3" loading="lazy" src="/qo12.jpg"/></center>
+</p><div class="center"><img alt="Companions by Laura Felton" class="border-3" loading="lazy" src="/qo12.jpg"/></div>
 <p>
 </p><h3>Zines and Newsletters:</h3>
 <p>
@@ -208,11 +208,11 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
-</p><center><img alt="Lovers by Herald Alora" border="3" loading="lazy" src="/qo15.jpg"/></center>
+</p><div class="center"><img alt="Lovers by Herald Alora" class="border-3" loading="lazy" src="/qo15.jpg"/></div>
 <p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
@@ -237,7 +237,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul>
 <p>
-</p><center><img alt="Sorceress by Herald Alora" border="3" loading="lazy" src="/qo16.jpg"/></center>
+</p><div class="center"><img alt="Sorceress by Herald Alora" class="border-3" loading="lazy" src="/qo16.jpg"/></div>
 <p>
 </p><h3>Collegium News:</h3>
 <p>
@@ -259,13 +259,13 @@ We are also getting close to having enough material to put out the first issue o
 </p><p>
 Remember, you are all entitled to submit personals and fan messages.  We are also chronically in need of art for the online version of this newsletter.  Keep those submissions coming!  This is your club, and all of you are responsible for helping to make it a success!
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Companion by Laura Felton" border="3" loading="lazy" src="/qo11.jpg"/></center>
+</p><div class="center"><img alt="Companion by Laura Felton" class="border-3" loading="lazy" src="/qo11.jpg"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
-The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <span class="c-red">don't place a fan message</span>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
 </p><p>
@@ -275,9 +275,9 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </li><li>From <b>Healer Adept Moonstar</b>. Needed February '88 through March '91, Queen's Own newletters.  I am creating an archive for the club, and as you can see we are listing all the approved personas on the site.  Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA  92652.  Thank you very much.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Scout by Herald Alora" border="3" loading="lazy" src="/qo17.jpg"/></center>
+</p><div class="center"><img alt="Scout by Herald Alora" class="border-3" loading="lazy" src="/qo17.jpg"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -311,7 +311,7 @@ This offer is good until August 31, 2000.
 
 </p></li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -334,10 +334,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

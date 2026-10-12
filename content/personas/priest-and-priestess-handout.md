@@ -14,21 +14,21 @@ canonical_path = "/priest-and-priestess-handout/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>The Helpful Handout of How to Become a Priest/Priestess</h2></center>
-<center><h3>Criteria established by Mercedes Lackey</h3></center>
-<center><h3>Based on <b>The Valdemar Companion</b></h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>The Helpful Handout of How to Become a Priest/Priestess</h2></div>
+<div class="center"><h3>Criteria established by Mercedes Lackey</h3></div>
+<div class="center"><h3>Based on <b>The Valdemar Companion</b></h3></div>
 <p>
 Distributed by:
 </p><p>
-</p><center><h3>Queen's Own
+</p><div class="center"><h3>Queen's Own
 <br/>
 The Official Mercedes Lackey Fan Club
-</h3></center>
+</h3></div>
 <p>
 </p><h2>Basic Requirements</h2>
 <p>
-</p><center><img alt="" loading="lazy" src="/sun2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/sun2.gif"/></div>
 <p>
 </p><h2>I.  Develop a Character</h2>
 <p>
@@ -36,9 +36,9 @@ Develop a character (your persona--Who would you be if you could daydream yourse
 </p><p>
 This is a biography.  Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you.  You may use first or third person.
 </p><p>
-Remember, to write about your persona <font color="red">before</font> s/he joined his/her religious order.  Priests and Priestesses choose the religion in which they will train (or their deity chooses them, depending on how you want to look at it &lt;g&gt;); they are not born in their office.  (10 points)
+Remember, to write about your persona <span class="c-red">before</span> s/he joined his/her religious order.  Priests and Priestesses choose the religion in which they will train (or their deity chooses them, depending on how you want to look at it &lt;g&gt;); they are not born in their office.  (10 points)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/sun2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/sun2.gif"/></div>
 <p>
 </p><h2>II.  Develop One or More Friend or Relative Characters</h2>
 <p>
@@ -46,7 +46,7 @@ You needn't be quite so detailed in your descriptions of these other characters.
 you know well.  Describe what your family and/or friends look like,
 their own character traits, etc.  Again, a minimum of 3 pages.  (5 points)
 </p><p>
-</p><center><img alt="" loading="lazy" src="/sun2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/sun2.gif"/></div>
 <p>
 </p><h2>III. Extra Point Requirements (5 points each)</h2>
 <p>
@@ -72,11 +72,11 @@ Choose and complete the requirements for two (minimum) of the following:
 </li><li>Draw a symbol that represents your deity.
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/sun2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/sun2.gif"/></div>
 <p>
-</p><center><h2>After you have acquired 25 points, you may become a Hedge Priest of the religion of your choice.</h2></center>
+</p><div class="center"><h2>After you have acquired 25 points, you may become a Hedge Priest of the religion of your choice.</h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/sun2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/sun2.gif"/></div>
 <p>
 </p><h2>Special Notes for Priests/Priestesses</h2>
 <p>
@@ -91,7 +91,7 @@ Choose and complete the requirements for two (minimum) of the following:
 <p>
 If you have additional questions, check out the <a href="/religions-faq/">Religion</a> FAQ.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/sun2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/sun2.gif"/></div>
 <p>
 </p><a id="formal"></a><h2>Advanced Rank</h2>
 <p>
@@ -99,45 +99,33 @@ Hedge Priests have no formal training.  There are, however, several ways you can
 </p><p>
 If you want your character to receive formal training in religion, there are several organized religions that we know about on Velgarth.  Choose which religion you want to join.  Complete the requirements in that column for each rank.  Do not switch columns.  If you start in the Sun Priest column, you need to stay there.
 </p><p>
-</p><center>
-<table border="5" cellpadding="2" cellspacing="2" width="90%">
+</p><div class="center">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:90%">
 <tr>
-<th align="center" valign="middle"><font="bookman face="4">Rank Equivalent</font="bookman></th>
-<th align="center" valign="middle"><font="bookman face="4">Astera<br/>
-(See below for other names.)</font="bookman></th>
-<th align="center" valign="middle"><font="bookman face="4">Vkandis<br/>
-(See below for other names.)</font="bookman></th>
-<th align="center" valign="middle"><font="bookman face="4">Other*</font="bookman></th>
-</tr>
-<tr>
-<th align="left" valign="middle"><font="bookman face="4">Apprentice</font="bookman></th>
-<td align="left" valign="middle"><font="bookman face="4">Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of the Lady in your particular culture, and send it to one of the QO zines.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of the Lord in your particular culture, and send it to one of the QO zines.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of your particular diety in your particular culture, and send it to one of the QO zines.</font="bookman></td>
-</tr>
-<tr>
-<th align="left" valign="middle"><font="bookman face="4">Journeyman</font="bookman></th>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper the relationship between your religion and the environment.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper comparing and contrasting priestly and secular magic.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper comparing and contrasting any two "real world" religions of your choice.</font="bookman></td>
-</tr>
-<tr>
-<th align="left" valign="middle"><font="bookman face="4">Master</font="bookman></th>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper on the role of the religious leader as a counselor.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper on the role of religious leaders in the education of school-aged children.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper on the role of religious leaders in the culture of your choice.</font="bookman></td>
-</tr>
-<tr>
-<th align="left" valign="middle"><font="bookman face="4">Adept</font="bookman></th>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper comparing and contrasting shamanistic with organized religions.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper on the Crusades from either the Christian or the Muslim point of view.</font="bookman></td>
-<td align="left" valign="middle"><font="bookman face="4">Write a 20-page paper tolerance and intolerance in the religion of your choice.</font="bookman></td>
-</tr>
-</table>
-</center>
-<p>
+<th class="align-center valign-middle"><span class="fs-4">Rank Equivalent</span>
+</th><th class="align-center valign-middle"><span class="fs-4">Astera<br/>
+(See below for other names.)</span>
+</th><th class="align-center valign-middle"><span class="fs-4">Vkandis<br/>
+(See below for other names.)</span>
+</th><th class="align-center valign-middle"><span class="fs-4">Other*</span>
+</th><th class="align-left valign-middle"><span class="fs-4">Apprentice</span>
+</th><td class="align-left valign-middle"><span class="fs-4">Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of the Lady in your particular culture, and send it to one of the QO zines.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of the Lord in your particular culture, and send it to one of the QO zines.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a story (minimum of 10 pages) about how your persona decided to train as a priest/priests of your particular diety in your particular culture, and send it to one of the QO zines.</span>
+</td><th class="align-left valign-middle"><span class="fs-4">Journeyman</span>
+</th><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper the relationship between your religion and the environment.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper comparing and contrasting priestly and secular magic.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper comparing and contrasting any two "real world" religions of your choice.</span>
+</td><th class="align-left valign-middle"><span class="fs-4">Master</span>
+</th><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper on the role of the religious leader as a counselor.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper on the role of religious leaders in the education of school-aged children.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper on the role of religious leaders in the culture of your choice.</span>
+</td><th class="align-left valign-middle"><span class="fs-4">Adept</span>
+</th><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper comparing and contrasting shamanistic with organized religions.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper on the Crusades from either the Christian or the Muslim point of view.</span>
+</td><td class="align-left valign-middle"><span class="fs-4">Write a 20-page paper tolerance and intolerance in the religion of your choice.</span>
 These papers will be published in <a href="/compass-rose/about/"><i>The Compass Rose</i></a>.
-</p><p>
+<p>
 *Misty is in the process of describing a bunch of religions on Velgarth.  The ones we know about so far are:
 </p><p>
 </p><ol>
@@ -165,8 +153,8 @@ For more information, see the <a href="/religions-faq/">Religion</a> FAQ.
 Zhai'helleva,<br/>
 <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a> and <a href="mailto:healermoon@gmail.com">Healer Adept Moonstar</a>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/sun2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/sun2.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
-</div>
+</td></tr></table></div></div>

@@ -14,14 +14,14 @@ canonical_path = "/npc-directory/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>NPC List</h2></center>
-<center><h3>(Revised 7/13/08)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>NPC List</h2></div>
+<div class="center"><h3>(Revised 7/13/08)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/pegasus.gif"/></div>
 <p>
-<a href="https://dragonlords.fans/bkmlvs.htm"><img align="left" alt="" border="0" loading="lazy" src="/ml4.gif"/></a>These
+<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" class="float-left" loading="lazy" src="/ml4.gif"/></a>These
 are the approved additional personae (NPCs) for Queen's Own.  To create a recognized NPC, you have
 to do everything on a <a href="/persona-handouts/">handout</a>, just as you would if you were creating an initial persona.
 (You do not have to do this if you simply want to make up characters to use
@@ -34,7 +34,7 @@ If a name is not linked and does not have an asterisk (*), then we do not know h
 </p><p>
 *=e-mail withheld by request or unavailable.
 </p><p>
-<a href="https://dragonlords.fans/bkmlvs.htm"><img align="right" alt="" border="0" loading="lazy" src="/ml5.gif"/></a>Each
+<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" class="float-right" loading="lazy" src="/ml5.gif"/></a>Each
 person may have as many NPC personae as s/he wishes.  The NPC will only be
 listed on this page, however, if the club member has done all of the
 required work on the <a href="/persona-handouts/">handout</a> for that character
@@ -45,10 +45,10 @@ newsletter in which the persona was recognized.  Herald-Mages have
 multiple dates, indicating their date of acceptance as a Herald and
 the date they earned each of their Herald-Mage ranks.
 </p><p>
-</p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" border="0" loading="lazy" src="/ml7.gif"/></a>
-</center>
+</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml7.gif"/></a>
+</div>
 <p>
-</p><center><h2><a href="/herald-handout/">Heralds</a></h2></center>
+</p><div class="center"><h2><a href="/herald-handout/">Heralds</a></h2></div>
 <p>
 </p><ol>
 <li> Herald Adera shena Vyusher'edras (Coriyala) (<a href="/newsletters/1990/june/">June 1990</a>) (Mindspeech, Fetching, Empathy) (Also a Shin'a'in)
@@ -69,14 +69,14 @@ the date they earned each of their Herald-Mage ranks.
 </li><li> Herald Tassanta "Tass" Arah Tsornmar (Farlic) (<a href="/newsletters/1991/may/">May 1991</a>) (Mindspeech, Farsight, dollop of Empathy)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/herald-mage-handout/">Herald Mages</a></h2></center>
+</p><div class="center"><h2><a href="/herald-mage-handout/">Herald Mages</a></h2></div>
 <p>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/bard-handout/">Bards</a></h2></center>
+</p><div class="center"><h2><a href="/bard-handout/">Bards</a></h2></div>
 <p>
 </p><ol>
 <li> Bard Jarel Snowfyre (<a href="/newsletters/1991/september/">September 1991</a>)
@@ -85,9 +85,9 @@ the date they earned each of their Herald-Mage ranks.
 </li><li> <a href="mailto:garou@netspeed.com.au">Bard Tiernan Ava</a> (February 2001) (Talent, Creativity)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/healer-handout/">Healers</a></h2></center>
+</p><div class="center"><h2><a href="/healer-handout/">Healers</a></h2></div>
 <p>
 </p><ol>
 <li> <a href="mailto:garou@netspeed.com.au">Healer Cinnamon Ava</a> (<a href="/newsletters/1997/december/">December 1997</a>) (Very Strong Empathy)
@@ -96,22 +96,22 @@ the date they earned each of their Herald-Mage ranks.
 </li><li> Healer Vanni Taltos (<a href="/newsletters/1995/january/">January 1995</a>) (Physical Healing)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/military-handout/">Mercenaries</a></h2></center>
+</p><div class="center"><h2><a href="/military-handout/">Mercenaries</a></h2></div>
 <p>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/shina-in-handout/">Shin'a'in</a></h2></center>
+</p><div class="center"><h2><a href="/shina-in-handout/">Shin'a'in</a></h2></div>
 <p>
 </p><ol>
 <li> Herald Adera shena Vyusher'edras (Coriyala) (<a href="/newsletters/1990/june/">June 1990</a>) (Mindspeech, Fetching, Empathy) (Also a Herald)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/shina-in-handout/">Kal'enedral</a></h2></center>
+</p><div class="center"><h2><a href="/shina-in-handout/">Kal'enedral</a></h2></div>
 <p>
 Note:  Some details do not match the current handout because the characters were developed and approved prior to the creation of the handout.
 </p><p>
@@ -119,9 +119,9 @@ Note:  Some details do not match the current handout because the characters were
 <li> <a href="mailto:Sttawylime@hotmail.com">Shin'a'in Kal'enedral Ta'hanya shena Liha'irden</a> (<a href="/newsletters/1999/june/">June 1999</a>)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/tayledras-handout/">Tayledras</a></h2></center>
+</p><div class="center"><h2><a href="/tayledras-handout/">Tayledras</a></h2></div>
 <p>
 </p><ol>
 <li> <a href="mailto:evillurking@gmail.com">Scout Cometfire k'Vaia</a> (<a href="/newsletters/1998/may/">May 1998</a>) (Bondbird: Lyra; Kestral)
@@ -130,15 +130,15 @@ Note:  Some details do not match the current handout because the characters were
 </li><li> Scout Warwind k'Shador (June 1995) (Bondbird: Tralee)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/sorcerer-handout/">White Winds Sorcerers/Sorceresses</a></h2></center>
+</p><div class="center"><h2><a href="/sorcerer-handout/">White Winds Sorcerers/Sorceresses</a></h2></div>
 <p>
 </p><ol>
 </ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

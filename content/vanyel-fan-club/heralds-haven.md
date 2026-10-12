@@ -15,7 +15,7 @@ canonical_path = "/vanyel-fan-club/heralds-haven/"
 +++
 
 <div class="original-page">
-<center><img alt="" loading="lazy" src="/vfchgn.jpg"/>
+<div class="center"><img alt="" loading="lazy" src="/vfchgn.jpg"/>
 <p>
 Below are Gates to the homes of various Heralds of the Vanyel Fan Club:
 </p><p>
@@ -28,8 +28,8 @@ Winterborn</a><p>
 </p></li><li><a href="http://members.tripod.com/~firesong17">Firesong</a><p>
 <img alt="" loading="lazy" src="/rainbar.gif"/></p><p>
 If you are a member of the Vanyel Fan Club and wish a Gate to your site to be listed, <a href="mailto:Legend@malcor.com">e-mail</a> the VFC, and we'll be happy to post it!</p><p>
-<img alt="" loading="lazy" src="/rainbar.gif"/></p></li></ul></center>
+<img alt="" loading="lazy" src="/rainbar.gif"/></p></li></ul></div>
 <p>
-<a href="/vanyel-fan-club/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page</a>
+<a href="/vanyel-fan-club/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page</a>
 </p>
 </div>

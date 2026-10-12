@@ -17,23 +17,23 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. VII, No. 7<br/>
-May 1994</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. VII, No. 7<br/>
+May 1994</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 Dear Misty Fans,
 </p><p>
-<img align="right" alt="Border art" border="0" loading="lazy" src="/qo256.jpg"/>
+<img alt="Border art" class="float-right" loading="lazy" src="/qo256.jpg"/>
 No new books from Misty this month, but there are three short stories for you to add to your collection. The cover story in issue #23 of <i>Marion Zimmer Bradley's FANTASY Magazine</i> is "Killer Byte," a new Diana Tregarde/Andre adventure. <i>Snows of Darkover</i>, edited by Marion Zimmer Bradley, contains Misty's short story "Poetic License." "The Cup and the Cauldron" appears in <i>Grails: Quests of the Dawn</i>. This is a paperback version of a limited edition hardcover called <i>Grails: Quests, Visitations and other Occurrences</i> that was published in 1942. Both <i>Snows</i> and <i>Grails</i> should be in your local bookstore; <i>FANTASY</i> can be ordered from <i>Marion Zimmer Bradley's FANTASY Magazine</i> [Ed. note 2005: Out-of-date info withheld.] for a year's subscription or $4.95 plus $2.50 shipping and handling for individual issues. Make checks payable to Marion Zimmer Bradley.
 </p><p>
 <i>Storm Warning</i> and <i>Chrome Circle</i> have an August release date, as do the paper back editions of <i>Winds of Fury</i> and <i>If I Pay Thee Not in Gold</i>. MZB's <i>Sword &amp; Sorceress XI</i> (with a Tarma &amp; Kethry story) will be available this summer, too.
@@ -208,7 +208,7 @@ Judith
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -225,10 +225,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

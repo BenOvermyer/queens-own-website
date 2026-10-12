@@ -17,17 +17,17 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 1, No. 3<br/>
-July 1, 2000</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 1, No. 3<br/>
+July 1, 2000</h2></div>
 <p>
-</p><center>
-<img alt="Companion by Laura Felton" border="5" loading="lazy" src="/qopic4.jpg"/>
-</center>
+</p><div class="center">
+<img alt="Companion by Laura Felton" class="border-5" loading="lazy" src="/qopic4.jpg"/>
+</div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -35,7 +35,7 @@ This month it's my turn to play interviewer.  It is my pleasure to introduce you
 </p><p>
 <b>Herald-Mage Master Danya Winterborn</b>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><ol>
 <li>Tell us about your family.
@@ -70,11 +70,11 @@ Our little family is planning to leave the Air Force sometime between early-2001
 <p>For me it is all about the great people I get to meet and the wonderful writing I get to read.  I like getting in contact with all those people that share the same interests as I do.  As a military spouse, I don't really fit the mold, and I move too much.  Both of these things make it difficult to make many good friends.  Among Queen's Own I always have friends and people who help me through moves and trying to settle again.  Thanks everyone for helping us.  Without you, there wouldn't be a club.
 </p></li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
-</p><center><img alt="Companion 2 by Laura Felton" border="2" loading="lazy" src="/qopic6.jpg"/></center>
+</p><div class="center"><img alt="Companion 2 by Laura Felton" class="border-2" loading="lazy" src="/qopic6.jpg"/></div>
 <p>
 Here are the faires we know about that are happening in July.  Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
 </p><p>
@@ -159,9 +159,9 @@ WORLDCON (Chicon2000).  Website:  <a href="http://www.chicon.org">http://www.chi
 <p>
 STERLING GAME CON BY SGR. E-mail:  <a href="mailto:dweaver@integrityonline4.com">dweaver@integrityonline4.com</a>.  Where: Spokane.  Dates: 8/22/00 - 8/23/00.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Tayledras by Laura Felton" border="3" loading="lazy" src="/qopic7.jpg"/></center>
+</p><div class="center"><img alt="Tayledras by Laura Felton" class="border-3" loading="lazy" src="/qopic7.jpg"/></div>
 <p>
 </p><h2>Member News:</h2>
 <p>
@@ -186,11 +186,11 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
-</p><center><img alt="Mercenary by Laura Felton" border="3" loading="lazy" src="/qopic8.jpg"/></center>
+</p><div class="center"><img alt="Mercenary by Laura Felton" class="border-3" loading="lazy" src="/qopic8.jpg"/></div>
 <p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.<p>
@@ -228,13 +228,13 @@ Remember your stories need a release sent to High Flight.  Always make copies of
 </p><p>
 In short, keep writing!  I look forward to seeing your work.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Companion by Aurora Nelson" border="3" loading="lazy" src="/qopic9.jpg"/></center>
+</p><div class="center"><img alt="Companion by Aurora Nelson" class="border-3" loading="lazy" src="/qopic9.jpg"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
-The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <span class="c-red">don't place a fan message</span>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
 </p><p>
@@ -244,9 +244,9 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </li><li>From <b>Healer Adept Moonstar</b>. Needed February '88 through March '91, Queen's Own newletters.  I am creating an archive for the club, and as you can see we are listing all the approved personas on the site.  Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA  92652.  Thank you very much.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Companion Rolling in Companion's Field by Aurora Nelson" border="3" loading="lazy" src="/qopic5.jpg"/></center>
+</p><div class="center"><img alt="Companion Rolling in Companion's Field by Aurora Nelson" class="border-3" loading="lazy" src="/qopic5.jpg"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -256,7 +256,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li>From <b>Herald Kalendel</b> (<a href="mailto:Itsmyage@aol.com">Itsmyage@aol.com</a>).  In 1995, I met several people through a fan message in the Q.O. newsletter. I'm trying to find one in particular. Does anyone here possibly know where I could find a Dara Murphy? She had other pen-pals from here, I think. We fought over something silly and I'd really like to make up and see where she's at now.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -279,10 +279,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

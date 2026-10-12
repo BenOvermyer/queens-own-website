@@ -17,22 +17,22 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. XI, No. 7<br/>
-June 1998</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. XI, No. 7<br/>
+June 1998</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 </p><p>
-<img align="right" alt="Owlsight" border="0" loading="lazy" src="/ml22.gif"/>
+<img alt="Owlsight" class="float-right" loading="lazy" src="/ml22.gif"/>
 Dear Misty Fans,
 </p><p>
 Coming in October is <i>Owlsight</i>, the sequel to <i>Owlflight</i>.  <i>Owlsight</i> is co-authored by Misty and Larry and has a beautiful Jody A. Lee cover and interior illustrations by Larry.
@@ -49,10 +49,10 @@ Coming in October is <i>Owlsight</i>, the sequel to <i>Owlflight</i>.  <i>Owlsig
 </p><p>
 "And then Darian returns to Errold's Grove with a small contingent of Hawkbrothers to warn the townsfolk that another tribe of barbarians is approaching their village and advises them to evacuate their homes,. But Keisha and some of the villagers refuse to flee. As a Healer she knows she will be needed if there is bloodshed, and her Gift dictates that she stay, even if it puts her life in jeopardy. Yet how can one small band of Hawkbrothers and two Valdemaran teenagers with partially trained Gifts stand against the destructive might of a barbarian horde?"
 </p><p>
-</p><table align="right" border="2" cellpadding="2" cellspacing="2" width="35%">
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
 <tr>
-<td align="left" valign="top">
-<center><h2>Conventrion News</h2></center>
+<td class="align-left valign-top">
+<div class="center"><h2>Conventrion News</h2></div>
 <p>
 For you Canadian fans, <b>Toronto Trek 12</b> is July 10-12 at the Regal Constellation Hotel [Ed. note 2005: Out-of-date info withheld.].  Guests include Robert Beltran, Richard Hatch, Anne Lockhart, Jeff Conaway, and Jason Carter.  [Ed. note 2005: Out-of-date info withheld.].
 </p><p>
@@ -91,10 +91,10 @@ For you Canadian fans, <b>Toronto Trek 12</b> is July 10-12 at the Regal Constel
 </p></li><li>Lois Bujold can be reached at Imbujold([Ed. note 2005: Out-of-date info withheld.] "The Bujold Nexus" is at [Ed. note 2005: Out-of-date info withheld.].
 </li></ul>
 <p>
-</p><center>
-<table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top"><h2>Collegium News:</h2>
+<td class="align-left valign-top"><h2>Collegium News:</h2>
 <p>
 Who would you be if you could daydream yourself info Valdemar? Send a SASE to the QO address for a handout for a specific persona--Herald, Healer, Bard. Shin~a'in,.Tacledras, White Winds Sorceressier, Mercenarv. No non-human personas, please.
 </p><p>
@@ -104,7 +104,7 @@ Who would you be if you could daydream yourself info Valdemar? Send a SASE to th
 </td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 </p><h2>Member News</h2>
 <p>
@@ -119,9 +119,9 @@ What's your dream?  Ever imagined flying through the air on your very own dragon
 </p><p>
 <i>Sink or Swim</i> is a booklet intended to help aspiring non-profit zine and newsletter editors. It is compiled of the advice of several editors who have chosen to share their experiences in the world of Fandom. This booklet is produced by Rea Wildfire/Aurora Nelson. If you would like a copy, please send a postcard to [Ed. note 2005:  Out-of-date info withheld.] expressing your interest. More information in the next newsletter.
 </p><p>
-</p><table align="right" border="2" cellpadding="2" cellspacing="2" width="25%">
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:25%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 <h2>Fan Messages:</h2>
 <p>
 [Ed. note 2005:  Content withheld.]
@@ -137,10 +137,10 @@ Sunday July 12--Oregon Country Fair--1:30 pm [Ed. note 2005:  Out-of-date info w
 </p><p>
 For other appearance dates including CALIBAN shows (members of TEMPEST playing acoustic) check the TEMPEST web page:  [Ed. note 2005:  Out-of-date info withheld.]  E-mail can be sent to [Ed. note 2005:  Out-of-date info withheld.].
 </p><p>
-</p><center>
-<table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 <h3>Hello from Herald Housemother:</h3>
 <p>
 Did you send me a postcard with an Oriental theme? The post of�fice delivered half of one to me in a plastic bag. Unfortunately, it was a half with only my address, nothing else. I have no idea what your message was or even who you are so please write again.
@@ -148,7 +148,7 @@ Did you send me a postcard with an Oriental theme? The post of�fice delivered 
 Please note that the August mailing date has been changed to a week later because of family plans. The August issue will my last as editor and president. I hope you will be as generous with your friendship and support for Robin as you have for me. Queen's Own has been an important part of my life for over ten years and I plan to continue as a member and contributor. The September issue will be mailed from California!</p></td>
 </tr>
 </table>
-</center>
+</div>
 <p>
 </p><h2>PERSONALS:</h2>
 <p>
@@ -167,7 +167,7 @@ Mailing Day Helpers--Arielle Amethyst Willow'Wind and SpiritBlade, Barbara Lelfl
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -185,10 +185,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

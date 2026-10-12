@@ -14,16 +14,16 @@ canonical_path = "/chapters/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>Chapters</h2></center>
-<center><h3>(Revised 11/21/20)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>Chapters</h2></div>
+<div class="center"><h3>(Revised 11/21/20)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/book2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/book2.gif"/></div>
 <p>
 Looking for folks involved in Misty's fandom in your region?  Check out the chapters of Queen's Own!  (Note:  You do not need to be a member of Queen's Own in order to join most chapters.)
 </p><p>
-</p><center><h2>Chapters</h2></center>
+</p><div class="center"><h2>Chapters</h2></div>
 <p></p><h3><i>Golden Grove</i></h3>
 <p>Newsletter:  <i>Golden Grove</i> (e-copy)<br/>
 Editor: Sacre Noir
@@ -32,7 +32,7 @@ E-mail: <a href="mailto:sn.keeper@yahoo.com">Sacree Noir &lt;sn.keeper@yahoo.com
 Website: <a href="/golden-grove/">Golden Grove</a><br/>
 Note:  <i>Golden Grove</i> was formerly called <i>The Herald's Hall of California</i>, and it's publication was previously entitled <i>The California Arrow</i>.
 </p><p>
-</p><center><h2>Online Chapters</h2></center>
+</p><div class="center"><h2>Online Chapters</h2></div>
 <p>
 </p><h3><i>Valdemar Fan Club</i> (Facebook)</h3>
 E-mail: Patricia Nieves, Admin.
@@ -64,8 +64,8 @@ If you would rather start a chapter from scratch, contact <a href="mailto:shasht
 <p>
 A chapter may advertise for members in the QO newsletter and solicit members on the QO chatlist.  A chapter can also run an ad about the newsletter or fanzine (if any) that the group publishes.  Contact <a href="mailto:shashtah@gmail.com">Herald-Mage Adept Danya Winterborn</a> to place ads or if you would like me to interview you about your organization for the QO newsletter.
 </p><p>
-</p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
+</p><div class="center"><img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

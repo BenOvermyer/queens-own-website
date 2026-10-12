@@ -14,9 +14,9 @@ canonical_path = "/gifts-faq/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Gifts FAQ</h2></center>
-<center><h2>(Revised 2/7/02)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Gifts FAQ</h2></div>
+<div class="center"><h2>(Revised 2/7/02)</h2></div>
 <p>
 People often ask what characters with the various Gifts are capable of doing.  Here are the known Gifts and what they do:
 </p><p>
@@ -47,12 +47,12 @@ Earth mages can work minor spells.  These mages are also called Earth-Witches an
 </p><p>
 Most Earth Magic is tied to the state of the land and is used to heal land that has been damaged by magic (as well as by nonmagical means).
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<font face="Harem">
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<span class="ff-harem">
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 <p>
-<a href="/world-reference-guide/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
-</p></font>
+<a href="/world-reference-guide/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index</a>
+</p></span>
 </p>
 </div>

@@ -17,13 +17,13 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. II, No. 5<br/>
-May 1989</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. II, No. 5<br/>
+May 1989</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
@@ -53,9 +53,9 @@ Nina kindly sent us a flyer for Meg's PANDORA too.  You can get a copy yourself 
 </p><p>
 <b>Editor's Note to Julie Bowman:</b> Herewith our public acknowledgment that you were right!  We've finally broken down and put together a printed "thank you for inquiring about Queen's Own" letter to be sent to those who just send us a SASE in response to the blurbs in the backs of Misty's DAW books.
 </p><p>
-<img align="left" alt="Snow Leopard Lady by Mary Lynn Skirvin Johnson (image unavailable in archive)" border="0" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>And now, an explanation of the gorgeous SNOW LEOPARD LADY depicted below and left.  She's the product of the talented pen of Mary Lynn Skirvin Johnson, and was sent to us courtesy of Chris Dunn.  We'd admired the lady on some of Chris' envelopes, and he wrote to tell us how we, and you, could get some.  Ten of the envelopes cost [Ed. Note 2002:  Out-of-date contact information withheld.].  She also has Aurora stationery, showing a beauteous centaur, for writing those special letters.  For ten printed sheets, [Ed. Note 2002:  Out-of-date contact information withheld.].  Unfortunately, we don't have room to give you an example of her here.
+<img alt="Snow Leopard Lady by Mary Lynn Skirvin Johnson (image unavailable in archive)" class="float-left" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>And now, an explanation of the gorgeous SNOW LEOPARD LADY depicted below and left.  She's the product of the talented pen of Mary Lynn Skirvin Johnson, and was sent to us courtesy of Chris Dunn.  We'd admired the lady on some of Chris' envelopes, and he wrote to tell us how we, and you, could get some.  Ten of the envelopes cost [Ed. Note 2002:  Out-of-date contact information withheld.].  She also has Aurora stationery, showing a beauteous centaur, for writing those special letters.  For ten printed sheets, [Ed. Note 2002:  Out-of-date contact information withheld.].  Unfortunately, we don't have room to give you an example of her here.
 </p><p>
-<img align="left" alt="Queen's Own Arrow by Christa Miller (image unavailable in archive)" border="0" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>The art work to the left this time was done by our own Christa Miller.  She also included other designs, but we picked this one because it reminded us of the new ILLINOIS ARROWS Chapter . . .
+<img alt="Queen's Own Arrow by Christa Miller (image unavailable in archive)" class="float-left" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>The art work to the left this time was done by our own Christa Miller.  She also included other designs, but we picked this one because it reminded us of the new ILLINOIS ARROWS Chapter . . .
 </p><p>
 We have some additions to the pen pal list, which we are including here as a new list will not be sent out for some time:  [Ed. Note 2002:  Names and addresses withheld.]
 </p><p>
@@ -89,7 +89,7 @@ Judith Louvis and Sally Paduch
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -109,10 +109,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

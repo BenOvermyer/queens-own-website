@@ -14,12 +14,12 @@ canonical_path = "/club-chat/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>Chat List</h2></center>
-<center><h3>(Revised 7/23/08)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>Chat List</h2></div>
+<div class="center"><h3>(Revised 7/23/08)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/pegasus.gif"/></div>
 <p>
 Members of Queen's Own are invited to join this listserv to receive information that might come up between newsletters, including announcements of new memberships.  Greet new members, ask questions about Queen's Own, and keep abreast of the latest Misty news!
 </p><p>
@@ -35,11 +35,11 @@ Members of Queen's Own are invited to join this listserv to receive information 
 <p>
 If you are a <a href="/persona-directory/">member</a> of Queen's Own, you may subscribe to this chat list at:
 </p><p>
-</p><center>[This list is not currently working.  We hope to reestablish it soon.]</center>
+</p><div class="center">[This list is not currently working.  We hope to reestablish it soon.]</div>
 <p>
 If you are a list member, you may send e-mail to the mailinglist at:
 </p><p>
-</p><center>[This list is not currently working.  We hope to reestablish it soon.]</center>
+</p><div class="center">[This list is not currently working.  We hope to reestablish it soon.]</div>
 <p>
 Note:  Please keep your e-mail address up-to-date.  If your mail bounces, your subscription will be disabled, and you will have to resubscribe.  (Our server doesn't like bounced mail.)
 </p><p>
@@ -49,7 +49,7 @@ If you are a nonmember, you must first create an approved persona by following t
 <p>
 Nonmembers may join the "Pending List" at
 </p><p>
-</p><center>[This list is not currently working.  We hope to reestablish it soon.]</center>
+</p><div class="center">[This list is not currently working.  We hope to reestablish it soon.]</div>
 <p>
 Only subscribers may post to this list.  If you are a subscriber and wish to post a message, send your message to [This list is not currently working.  We hope to reestablish it soon.  In the meantime, you can send questions directly to Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.].
 </p><p>
@@ -57,133 +57,133 @@ Only subscribers may post to this list.  If you are a subscriber and wish to pos
 <p>
 I <i>think</i> all personae that have been submitted to date have been read and either approved or replied to for a rewrite.  If you have submitted a persona and have not heard from me, please contact me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.  Here is a list of the current personae in our approval process:
 </p><p>
-</p><table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<th align="center" valign="middle">Persona Type</th>
-<th align="center" valign="middle">Persona Name</th>
-<th align="center" valign="middle">E-mail Working?</th>
-<th align="center" valign="middle">Date Originally Received</th>
-<th align="center" valign="middle">Submission Contents:<br/>
+<th class="align-center valign-middle">Persona Type</th>
+<th class="align-center valign-middle">Persona Name</th>
+<th class="align-center valign-middle">E-mail Working?</th>
+<th class="align-center valign-middle">Date Originally Received</th>
+<th class="align-center valign-middle">Submission Contents:<br/>
 Bio, Family/Friends, Extra Points</th>
-<th align="center" valign="middle">Date Returned for Rewrite</th>
-<th align="center" valign="middle">Current Status</th>
+<th class="align-center valign-middle">Date Returned for Rewrite</th>
+<th class="align-center valign-middle">Current Status</th>
 </tr>
 <tr>
-<td align="left" valign="top">Bard</td>
-<td align="left" valign="top">Emerif</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">7/3/05</td>
-<td align="left" valign="top">Bio--a little skimpy, F/F, learned to play an instrument, drew a map.</td>
-<td align="left" valign="top">7/12/05</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Bard</td>
+<td class="align-left valign-top">Emerif</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">7/3/05</td>
+<td class="align-left valign-top">Bio--a little skimpy, F/F, learned to play an instrument, drew a map.</td>
+<td class="align-left valign-top">7/12/05</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Bard</td>
-<td align="left" valign="top">Tallis Shadowharper</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">1/24/04</td>
-<td align="left" valign="top">Bio, F/F, learned to play an instrument, performed.</td>
-<td align="left" valign="top">4/1/05</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Bard</td>
+<td class="align-left valign-top">Tallis Shadowharper</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">1/24/04</td>
+<td class="align-left valign-top">Bio, F/F, learned to play an instrument, performed.</td>
+<td class="align-left valign-top">4/1/05</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Herald</td>
-<td align="left" valign="top">Adela; Need Companion's name.</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">12/27/05 (?)</td>
-<td align="left" valign="top">Bio (Minor glitches), F/F, pictures of riding a horse, care and feeding of horses.</td>
-<td align="left" valign="top">7/18/08</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Herald</td>
+<td class="align-left valign-top">Adela; Need Companion's name.</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">12/27/05 (?)</td>
+<td class="align-left valign-top">Bio (Minor glitches), F/F, pictures of riding a horse, care and feeding of horses.</td>
+<td class="align-left valign-top">7/18/08</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Herald</td>
-<td align="left" valign="top">Aurelia Hartborne; Euros</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">12/27/05</td>
-<td align="left" valign="top">Bio, F/F, story, black belt.</td>
-<td align="left" valign="top">1/27/06</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Herald</td>
+<td class="align-left valign-top">Aurelia Hartborne; Euros</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">12/27/05</td>
+<td class="align-left valign-top">Bio, F/F, story, black belt.</td>
+<td class="align-left valign-top">1/27/06</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Herald</td>
-<td align="left" valign="top">Camille "Cami" Lederer</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">5/20/05</td>
-<td align="left" valign="top">Bio, F/F, picture of persona and Companion, learned CPR, became a volunteer.</td>
-<td align="left" valign="top">1/27/06</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Herald</td>
+<td class="align-left valign-top">Camille "Cami" Lederer</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">5/20/05</td>
+<td class="align-left valign-top">Bio, F/F, picture of persona and Companion, learned CPR, became a volunteer.</td>
+<td class="align-left valign-top">1/27/06</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Herald</td>
-<td align="left" valign="top">Ewyn; Ishe</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">10/13/06</td>
-<td align="left" valign="top">Bio (needs corrections), F/F (needs corrections), wrote poems, wrote lyrics, became a volunteer, attends martial arts classes.</td>
-<td align="left" valign="top">7/18/08</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Herald</td>
+<td class="align-left valign-top">Ewyn; Ishe</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">10/13/06</td>
+<td class="align-left valign-top">Bio (needs corrections), F/F (needs corrections), wrote poems, wrote lyrics, became a volunteer, attends martial arts classes.</td>
+<td class="align-left valign-top">7/18/08</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Herald</td>
-<td align="left" valign="top">Kadri Woodnote; Lucilla</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">10/11/07</td>
-<td align="left" valign="top">Bio (needs corrections), F/F (needs corrections), became a volunteer, created a recipe, wrote a poem.</td>
-<td align="left" valign="top">7/21/08</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Herald</td>
+<td class="align-left valign-top">Kadri Woodnote; Lucilla</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">10/11/07</td>
+<td class="align-left valign-top">Bio (needs corrections), F/F (needs corrections), became a volunteer, created a recipe, wrote a poem.</td>
+<td class="align-left valign-top">7/21/08</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Herald</td>
-<td align="left" valign="top">Katanya Windson</td>
-<td align="left" valign="top">No.  No postage to contact by snail mail.</td>
-<td align="left" valign="top">No postmark.</td>
-<td align="left" valign="top">Bio (needs corrections), F/F (needs corrections), missing extra point requirements.</td>
-<td align="left" valign="top">7/21/08</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Herald</td>
+<td class="align-left valign-top">Katanya Windson</td>
+<td class="align-left valign-top">No.  No postage to contact by snail mail.</td>
+<td class="align-left valign-top">No postmark.</td>
+<td class="align-left valign-top">Bio (needs corrections), F/F (needs corrections), missing extra point requirements.</td>
+<td class="align-left valign-top">7/21/08</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Herald</td>
-<td align="left" valign="top">Soria (Ria)</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">7/23/05</td>
-<td align="left" valign="top">Bio,F/F, poem, recipe.</td>
-<td align="left" valign="top">8/4/05</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Herald</td>
+<td class="align-left valign-top">Soria (Ria)</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">7/23/05</td>
+<td class="align-left valign-top">Bio,F/F, poem, recipe.</td>
+<td class="align-left valign-top">8/4/05</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Tayledras (Healer Adept)</td>
-<td align="left" valign="top">Earthshower</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">10/6/05</td>
-<td align="left" valign="top">Bio.  Missing rest of submission?</td>
-<td align="left" valign="top">1/27/06</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Tayledras (Healer Adept)</td>
+<td class="align-left valign-top">Earthshower</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">10/6/05</td>
+<td class="align-left valign-top">Bio.  Missing rest of submission?</td>
+<td class="align-left valign-top">1/27/06</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Tayledras</td>
-<td align="left" valign="top">Phoenix Serenity Firestorm</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">7/13/05</td>
-<td align="left" valign="top">Start of bio.  Rest of submission missing.</td>
-<td align="left" valign="top">7/18/05</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Tayledras</td>
+<td class="align-left valign-top">Phoenix Serenity Firestorm</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">7/13/05</td>
+<td class="align-left valign-top">Start of bio.  Rest of submission missing.</td>
+<td class="align-left valign-top">7/18/05</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Tayledras</td>
-<td align="left" valign="top">Whitestorm</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">2/24/05</td>
-<td align="left" valign="top">Bio, F/F, Herald List, Timeline (Last two not from Tayledras sheet).</td>
-<td align="left" valign="top">4/2/05</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Tayledras</td>
+<td class="align-left valign-top">Whitestorm</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">2/24/05</td>
+<td class="align-left valign-top">Bio, F/F, Herald List, Timeline (Last two not from Tayledras sheet).</td>
+<td class="align-left valign-top">4/2/05</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Tayledras</td>
-<td align="left" valign="top">Windreed</td>
-<td align="left" valign="top">Yes.</td>
-<td align="left" valign="top">12/7/06 ?</td>
-<td align="left" valign="top">Bio (Minor glitches), F/F (Minor glitches), song, story (Minor glitches).</td>
-<td align="left" valign="top">7/18/08</td>
-<td align="left" valign="top">Awaiting rewrite.</td>
+<td class="align-left valign-top">Tayledras</td>
+<td class="align-left valign-top">Windreed</td>
+<td class="align-left valign-top">Yes.</td>
+<td class="align-left valign-top">12/7/06 ?</td>
+<td class="align-left valign-top">Bio (Minor glitches), F/F (Minor glitches), song, story (Minor glitches).</td>
+<td class="align-left valign-top">7/18/08</td>
+<td class="align-left valign-top">Awaiting rewrite.</td>
 </tr>
 </table>
 <p>
@@ -193,12 +193,12 @@ Please note, that if your e-mail address is not working, then we have no way to 
 </p><p>
 We will wait for a year for a rewrite.  After a year, we will assume that life has interfered with your ability to complete your persona submission, and the unapproved persona submission will be moved to "deep storage".  To reactivate your submission, all you need to do is contact us at <a href="mailto:Legend@malcor.com?subject=Persona revival">Legend@malcor.com</a>.  Your persona will be returned to this list, and the submission process will continue from wherever we left off.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Removal Instructions for the Queen's Own Chat List</h2>
 <p>
 You may unsubscribe from the general information list for each list.  If you have trouble, message Herald-Mage Adept Danya Winterborn at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she will handle your request as soon as possible.
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

@@ -17,13 +17,13 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. II, No. 8<br/>
-October 1989</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. II, No. 8<br/>
+October 1989</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
@@ -45,7 +45,7 @@ For you <i>Blake's 7</i> fans, Amy Manring is again making crystal beaded Libera
 </p><p>
 Last, but not least, thanks to all who sent stamps, and a reminder that if you want a sample fanletter sent to a friend you should send me a stamped envelope addressed with the friend's name.
 </p><p>
-<img align="left." alt="Misty with Coacoochee, a Southern Bald Eagle, a member of Doris Mager's 'family' in Florida. (image unavailable in archive)" border="2" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/><b>WE ALSO GET REQUESTS, AND OFFERS OF HELP . . . </b> Some of you have asked for pictures of Misty and a brief biography.  Denise Park has been both generous and gracious enough to offer to send a copy of same from the August GenCon [Portland, OR] program for a SASE.  Write her at [Ed. Note 2002:  Address withheld.]  Thanks, Denise!
+<img alt="Misty with Coacoochee, a Southern Bald Eagle, a member of Doris Mager's 'family' in Florida. (image unavailable in archive)" class="border-2" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/><b>WE ALSO GET REQUESTS, AND OFFERS OF HELP . . . </b> Some of you have asked for pictures of Misty and a brief biography.  Denise Park has been both generous and gracious enough to offer to send a copy of same from the August GenCon [Portland, OR] program for a SASE.  Write her at [Ed. Note 2002:  Address withheld.]  Thanks, Denise!
 </p><p>
 <b>A REMINDER FROM SALLY,</b> to send requests for The Queen's Own--Mercedes Lackey buttons to our Post Office Box.  And please make the check/money order out to Sally Paduch, <i>not</i> to QO.  [We don't have a checking account.]  [Ed. Note 2002: Out-of-date pricing information omitted.]
 </p><p>
@@ -113,7 +113,7 @@ Judith Louvis and Sally Paduch
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -133,10 +133,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

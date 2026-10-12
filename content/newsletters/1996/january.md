@@ -17,13 +17,13 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. I, No. 4<br/>
-January 1996</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. I, No. 4<br/>
+January 1996</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
@@ -31,7 +31,7 @@ January 1996</h2></center>
 </p><p>
 Dear Misty fans:
 </p><p>
-<img align="right" alt="Border by Jenny Jo Reinhart" border="0" loading="lazy" src="/qo300.jpg"/>
+<img alt="Border by Jenny Jo Reinhart" class="float-right" loading="lazy" src="/qo300.jpg"/>
 </p><p>
 <i>The Silver Gryphon</i> has a March release date and is a hardcover.  Trout Printing did a fantastic job of reproducing Jody Lee's <i>Silver Gryphon</i> cover in the last newsletter, but wait until you see that cover in color!
 </p><p>
@@ -172,7 +172,7 @@ Please, please, PLEASE, type e-mail &amp; web page info!  I'll type in what I th
 </p><p>
 I think all of us who attended <b>Queen's Own Collegia</b> at Dragon*Con last year had a wonderful time and planned to return. Unfortunately, I can not.  Morgan and her committee are working hard ot make this year's gathering a success.  I hope you'll give her your enthusiastic support.
 </p><p>
-<img align="left" alt="Border by Jenny Jo Reinhart" border="0" loading="lazy" src="/qo301.jpg"/>
+<img alt="Border by Jenny Jo Reinhart" class="float-left" loading="lazy" src="/qo301.jpg"/>
 </p><h2>Fan Messages:</h2>
 <p>
 [Ed. Note 2002: Fan Messages are not being posted online because of the personal information they contained.]
@@ -193,7 +193,7 @@ Mailing Day Helpers (last issue)--Meredith Baldino, Helen Edwards and Rusty, Bar
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -213,10 +213,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

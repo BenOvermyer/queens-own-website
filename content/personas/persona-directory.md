@@ -14,30 +14,30 @@ canonical_path = "/persona-directory/"
 +++
 
 <div class="original-page">
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>Persona List</h2></center>
-<center><h3>(Revised 10/18/20)</h3></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>Persona List</h2></div>
+<div class="center"><h3>(Revised 10/18/20)</h3></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/></div>
 <p>
-<a href="https://dragonlords.fans/bkmlvs.htm"><img align="left" alt="" border="0" loading="lazy" src="/ml4.gif"/></a>These are the approved personae for Queen's Own.  If you have an approved persona who is not listed here, please contact <a href="mailto:Legend@malcor.com">me</a>.
+<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" class="float-left" loading="lazy" src="/ml4.gif"/></a>These are the approved personae for Queen's Own.  If you have an approved persona who is not listed here, please contact <a href="mailto:Legend@malcor.com">me</a>.
 </p><p>
 If a name is not linked and does not have an asterisk (*), then we do not know how to reach that person.  If you know him/her, please have him/her contact us with a current address!
 </p><p>
 *=e-mail withheld by request or unavailable.<br/>
 †=In memoriam; the member is deceased.
 </p><p>
-<a href="https://dragonlords.fans/bkmlvs.htm"><img align="right" alt="" border="0" loading="lazy" src="/ml5.gif"/></a>Each person may only have one persona on this list at a time.  Only the first-approved persona will be recognized in the newsletter.  (These rules exist simply for our record-keeping sanity.  You are perfectly free to develop as many personae as you please.)
+<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" class="float-right" loading="lazy" src="/ml5.gif"/></a>Each person may only have one persona on this list at a time.  Only the first-approved persona will be recognized in the newsletter.  (These rules exist simply for our record-keeping sanity.  You are perfectly free to develop as many personae as you please.)
 </p><p>
 Dates following the names indicate the date of publication of the newsletter in which the persona was recognized.  Herald-Mages have multiple dates, indicating their date of acceptance as a Herald and the date they earned each of their Herald-Mage ranks.
 </p><p>
 If you have any of the <a href="/newsletter-guidance/">newsletters</a> that we are missing, please let us know!
 </p><p>
-</p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" border="0" loading="lazy" src="/ml7.gif"/></a>
-</center>
+</p><div class="center"><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml7.gif"/></a>
+</div>
 <p>
-</p><center><h2><a href="/herald-handout/">Heralds</a></h2></center>
+</p><div class="center"><h2><a href="/herald-handout/">Heralds</a></h2></div>
 <p>
 Note: Some of the Gift details do not match the current handout because the handout has developed over the course of time.  The Gifts that are listed are those that appeared in the newsletter when the persona was approved.
 </p><p>
@@ -527,9 +527,9 @@ Note: Some of the Gift details do not match the current handout because the hand
 </li><li> Herald *** (***) (<a href="/newsletters/1990/march/">March 1990</a>) (***)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/herald-mage-handout/">Herald Mages</a></h2></center>
+</p><div class="center"><h2><a href="/herald-mage-handout/">Herald Mages</a></h2></div>
 <p>
 Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, even though they do not maintain personae in Queen's Own.
 </p><p>
@@ -545,9 +545,9 @@ Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, 
 </li><li> <a href="mailto:raeval23@yahoo.com">Herald Valana Dorrandale</a> (Orly) (<a href="/newsletters/2003/february/">February 2003</a>; <a href="/newsletters/2003/september/">September 2003</a>) (Mindspeech, Empathy, Farsight, Mage Gift)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/bard-handout/">Bards</a></h2></center>
+</p><div class="center"><h2><a href="/bard-handout/">Bards</a></h2></div>
 <p>
 </p><ol>
 <li> <a href="mailto:el1de@bellsouth.net">Bard Elarose</a> (<a href="/newsletters/2003/september/">September 2003</a>) (Bardic Gift, Creativity, Talent)
@@ -582,17 +582,17 @@ Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, 
 </li><li> Bard *** (<a href="/newsletters/1990/september/">September 1990</a>) (Bardic Gift, Creativity)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/blues-handout/">Blues</a></h2></center>
+</p><div class="center"><h2><a href="/blues-handout/">Blues</a></h2></div>
 <p>
 </p><ol>
 <li> <a href="mailto:devin@greendragonpress.net">Devyn Aeryn</a> (<a href="/newsletters/2001/march/">March 2001</a>)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/military-handout/">Guards</a></h2></center>
+</p><div class="center"><h2><a href="/military-handout/">Guards</a></h2></div>
 <p>
 </p><ol>
 <li> Guardsman Adoni Kitanomanjaro (<a href="/newsletters/1992/december/">December 1992</a>)
@@ -600,13 +600,13 @@ Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, 
 </li><li> <a href="mailto:eflynt@starrtech.net">Guardsman Vena LaRue</a> (<a href="/newsletters/2002/october/">October 2002</a>)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/guild-handout/">Guild Members</a></h2></center>
+</p><div class="center"><h2><a href="/guild-handout/">Guild Members</a></h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/healer-handout/">Healers</a></h2></center>
+</p><div class="center"><h2><a href="/healer-handout/">Healers</a></h2></div>
 <p>
 </p><ol>
 <li> <a href="mailto:elswyth@quietspaces.net">Healer Althaia</a> (<a href="/newsletters/1996/august/">August 1996</a>) (Very Strong Physical Healing)
@@ -633,9 +633,9 @@ Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, 
 </li><li> Healer Veraina Cellaya (<a href="/newsletters/1991/december/">December 1991</a>) (Trauma Healing)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/military-handout/">Mercenaries</a></h2></center>
+</p><div class="center"><h2><a href="/military-handout/">Mercenaries</a></h2></div>
 <p>
 </p><ol>
 <li> Mercenary Ma'ren'kar shena Vuysher'edras (<a href="/newsletters/1996/january/">January 1996</a>)
@@ -643,17 +643,17 @@ Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, 
 </li><li> Shin'a'in Scout/Captain Stephania shena Pretera'sedrin (Clan of the Shadow Cats) (<a href="/newsletters/1990/september/">September 1990</a>; <a href="/newsletters/1991/november/">November 1991</a>) (also Shin'a'in)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/northern-barbarian-handout/">Northern Barbarians</a></h2></center>
+</p><div class="center"><h2><a href="/northern-barbarian-handout/">Northern Barbarians</a></h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/priest-and-priestess-handout/">Priests/Priestesses</a></h2></center>
+</p><div class="center"><h2><a href="/priest-and-priestess-handout/">Priests/Priestesses</a></h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/shina-in-handout/">Shin'a'in</a></h2></center>
+</p><div class="center"><h2><a href="/shina-in-handout/">Shin'a'in</a></h2></div>
 <p>
 Note:  Some details do not match the current handout because the characters were developed and approved prior to the creation of the handout.
 </p><p>
@@ -672,13 +672,13 @@ Note:  Some details do not match the current handout because the characters were
 Foresight) (Also a Herald)
 </li><li> Shin'a'in Herald Thyria Lyrrithernnas shena Pretera'sedrin (Dahnri) (<a href="/newsletters/1991/february/">February 1991</a>) (Mindspeech, Fetching, Firestarting) (Also a Herald)</li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/shina-in-handout/">Kal'enedral</a></h2></center>
+</p><div class="center"><h2><a href="/shina-in-handout/">Kal'enedral</a></h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/sorcerer-handout/">Sorcerers/Sorceresses</a></h2></center>
+</p><div class="center"><h2><a href="/sorcerer-handout/">Sorcerers/Sorceresses</a></h2></div>
 <p>
 </p><ol>
 <li> <a href="mailto:Cimeshadow@aol.com">White Winds Sorceress Cime Shadow Weaver</a> (<a href="/newsletters/1996/june/">June 1996</a>) (Earth Magic, Sensual Power)
@@ -687,9 +687,9 @@ Foresight) (Also a Herald)
 </li><li> White Winds Sorceress Taylu (Gryphon: Brennon) (<a href="/newsletters/1990/october/">October 1990</a>)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2><a href="/tayledras-handout/">Tayledras</a></h2></center>
+</p><div class="center"><h2><a href="/tayledras-handout/">Tayledras</a></h2></div>
 <p>
 Note: Some of these names and details don't quite match the patterns on the <a href="/tayledras-handout/">Tayledras Handout</a> because the personae were approved before the Handout developed into its current form.
 </p><p>
@@ -732,9 +732,9 @@ Note: Some of these names and details don't quite match the patterns on the <a h
 </li><li> <a href="mailto:minna@adelphia.net">Healer Adept Willowstar k'Vala</a> (<a href="/newsletters/2002/march/">March 2002</a>) (Bondbird: Ameri; Sooty Owl) (Mindspeech with his Bondbird, Humans and Other Races)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><h2>Other</h2></center>
+</p><div class="center"><h2>Other</h2></div>
 <p>
 This list is for strange ranks that were approved in the past that we don't have handouts for.
 </p><p>
@@ -743,13 +743,13 @@ This list is for strange ranks that were approved in the past that we don't have
 </li><li> *Shadow Herald Gabrin (Pilane) (<a href="/newsletters/1990/april/">April 1990</a>) (No Gifts Listed)
 </li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 <a href="/npc-directory/">Click here</a> to see the list of additional personae that have been
 created by existing Queen's Own members.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

@@ -17,12 +17,14 @@ lost so it wraps the rest of the page. ``normalize_soup`` repairs those:
 Files listed in ``data/html-exceptions.json`` and files using the raw-text ``<xmp>``
 element (whose escaped contents must survive verbatim) are left untouched.
 """
-import json
+import re
 from difflib import SequenceMatcher
 from pathlib import Path
-import re
 
 from bs4 import BeautifulSoup
+
+from markup_destyle import destyle_soup
+from markup_repairs import repair_markup
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -106,25 +108,43 @@ def normalize_soup(soup):
     return soup
 
 
+def _protect_xmp(html):
+    """Replace <xmp> blocks with tokens so their escaped contents survive re-serialization."""
+    blocks = []
+
+    def replace(match):
+        blocks.append(match.group(0))
+        return f'@@XMP{len(blocks) - 1}@@'
+
+    return re.sub(r'<xmp\b.*?</xmp>', replace, html, flags=re.I | re.S), blocks
+
+
+def _restore_xmp(text, blocks):
+    for index, block in enumerate(blocks):
+        text = text.replace(f'@@XMP{index}@@', block)
+    return text
+
+
 def run():
-    """Apply normalize_soup to every content document and report what changed."""
-    exceptions = json.loads((ROOT / 'data/html-exceptions.json').read_text())
-    skip = {entry['file'] for entry in exceptions}
+    """Apply markup repair, normalization, and destyling to every content document."""
     changed = []
     for path in sorted((ROOT / 'content').rglob('*.md')):
         text = path.read_text()
         if '+++' not in text:
             continue
         front, html = text.split('+++', 2)[1:]
-        if '<' not in html or '<xmp' in html or path.relative_to(ROOT).as_posix() in skip:
+        if '<' not in html:
             continue
-        soup = BeautifulSoup(html, 'lxml')
+        protected, blocks = _protect_xmp(html)
+        soup = BeautifulSoup(protected, 'lxml')
         before = str(soup)
-        normalize_soup(soup)
-        if str(soup) == before:
+        repaired = BeautifulSoup(repair_markup(protected.encode()).decode(), 'lxml')
+        normalize_soup(repaired)
+        destyle_soup(repaired)
+        if str(repaired) == before:
             continue
-        content = soup.body.decode_contents() if soup.body else str(soup)
-        rendered = '+++' + front + '+++\n\n' + content.rstrip() + '\n'
+        content = repaired.body.decode_contents() if repaired.body else str(repaired)
+        rendered = '+++' + front + '+++\n\n' + _restore_xmp(content, blocks).rstrip() + '\n'
         original_lines = text.splitlines()
         lines = [line.rstrip() for line in rendered.splitlines()]
         matcher = SequenceMatcher(a=[line.rstrip() for line in original_lines], b=lines, autojunk=False)

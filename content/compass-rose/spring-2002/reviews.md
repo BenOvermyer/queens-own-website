@@ -15,36 +15,36 @@ canonical_path = "/compass-rose/spring-2002/reviews/"
 +++
 
 <div class="original-page">
-<font face="Times New Roman" size="4">
-<table cellpadding="2" cellspacing="2" width="100%">
+<span class="ff-times fs-4">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="left" valign="top" width="15%"><img alt="Compass Rose Logo" border="5" height="168" loading="lazy" src="/crlogo.jpg" width="168"/></td>
-<td align="left" valign="middle" width="50%"><font face="Times New Roman" size="4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></font></td>
-<td width="35%"> </td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><span class="ff-times fs-4"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></span></td>
+<td style="width:35%"> </td>
 </tr>
 </table>
 <hr/>
 <p>
-</p></font><center><font size="7">Reviews</font></center>
+</p></span><div class="center"><span class="fs-7">Reviews</span></div>
 <p>
-</p><center>
-<table border="5" cellpadding="2" cellspacing="2" width="60%">
+</p><div class="center">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:60%">
 <tr>
-<td align="center" valign="top" width="25%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/reviews/#fiction">Fiction</a></font></td>
-<td align="center" valign="top" width="25%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/reviews/#film">Film</a></font></td>
-<td align="center" valign="top" width="25%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/reviews/#nonfiction">Nonfiction</a></font></td>
-<td align="center" valign="top" width="25%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/reviews/#video">Video</a></font></td>
+<td class="align-center valign-top" style="width:25%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/reviews/#fiction">Fiction</a></span></td>
+<td class="align-center valign-top" style="width:25%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/reviews/#film">Film</a></span></td>
+<td class="align-center valign-top" style="width:25%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/reviews/#nonfiction">Nonfiction</a></span></td>
+<td class="align-center valign-top" style="width:25%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/reviews/#video">Video</a></span></td>
 </tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>
+</p><div class="center">
 <hr/>
-</center>
+</div>
 <p>
-</p><center>
+</p><div class="center">
 <hr/>
-</center>
+</div>
 <p>
 </p><h2><a id="fiction" name="fiction">Fiction</a></h2>
 <p>
@@ -112,16 +112,16 @@ Won Two Academy Awards for 1996, Best Costumes and Best Art Direction;
 DVD, VHS.
 <p>	A doctor must battle within himself to find a greater good.  He is overtaken by pitfalls of medicine of the seventeenth century, the plague, and the love of a king.  Every time I thought I knew where this movie was going, it changed course.  It kept me entertained, as well as my husband.  This was a movie dubbed "chick flick" at the theaters and then surprisingly gripped the men in the sweeping epic.  I highly recommend this one.
 </p><p>
-</p><center>
-<table border="0" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></font></td>
-<td width="33%"> </td>
-<td align="center" valign="top" width="33%"><font face="Times New Roman" size="4"><a href="/compass-rose/about/">Return to homepage</a></font></td></tr>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></span></td>
+<td style="width:33%"> </td>
+<td class="align-center valign-top" style="width:33%"><span class="ff-times fs-4"><a href="/compass-rose/about/">Return to homepage</a></span></td></tr>
 </table>
-</center>
+</div>
 <p>
-</p><center>© the Authors 2000.  All rights reserved.</center>
+</p><div class="center">© the Authors 2000.  All rights reserved.</div>
 <p>
-</p><center>This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</center>
+</p><div class="center">This edition © <i>The Compass Rose</i> 2002.  All rights reserved.</div>
 </div>

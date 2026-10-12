@@ -14,31 +14,30 @@ canonical_path = "/webring-code/"
 +++
 
 <div class="original-page">
-
-<font size="4">
-</font><center><h2>Queen's Own</h2></center>
-<center><h2>Official Webring</h2></center>
-<center><h2>HTML Code</h2></center>
+<span class="fs-4">
+</span><div class="center"><h2>Queen's Own</h2></div>
+<div class="center"><h2>Official Webring</h2></div>
+<div class="center"><h2>HTML Code</h2></div>
 <p>
 Before I can add you to the ring, you must add the ring graphics and the
-HTML code for the ring to your page.  <font color="aqua">Please do not
-link to these graphics!</font>  If you don't know how to upload the
+HTML code for the ring to your page.  <span class="c-aqua">Please do not
+link to these graphics!</span>  If you don't know how to upload the
 graphic to your own site, <a href="mailto:Legend@malcor.com">contact me</a>,
 and I will be happy to talk you through the process.
 </p><p>
 Graphic 1:
 </p><p>
-</p><center><img alt="Graphic 1" border="0" loading="lazy" src="/qoq.gif"/></center>
+</p><div class="center"><img alt="Graphic 1" loading="lazy" src="/qoq.gif"/></div>
 <p>
 Graphic 2:
 </p><p>
-</p><center><img alt="Graphic 2" border="0" loading="lazy" src="/qoo.gif"/></center>
+</p><div class="center"><img alt="Graphic 2" loading="lazy" src="/qoo.gif"/></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Copy this code to your page.  If you lose your generated code, here is the generic code:
 </p><p>
-<font size="2">
+<span class="fs-2">
 <xmp>
 &lt;P&gt;
 &lt;!--Begin Queen's Own Official Webring Fragment--&gt;
@@ -65,7 +64,7 @@ site is owned by &lt;a href="mailto:YOUR_EMAIL"&gt;YOUR_NAME&lt;/a&gt;.&lt;P&gt;
 &lt;P&gt;
 </xmp>
 <p>
-</p></font></p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p></span></p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Make the necessary substitutions for your site.
 </p><p>
@@ -73,11 +72,11 @@ Hopefully, the code will look like this when you are finished:
 </p><p>
 <!--Begin Queen's Own Official Webring Fragment-->
 </p><p>
-</p><table align="center" border="5" cellpadding="2" cellspacing="2" width="50%">
+</p><table class="cellpadding-2 cellspacing-2 border-5 table-align-center" style="width:50%">
 <tr>
-<td align="center" valign="middle" width="20%"><font face="Harem" size="2">
-<a href="/club-webring/"><img alt="Queen's Own" border="0" height="100" loading="lazy" src="/qoq.gif" width="80"/></a></font></td>
-<td align="center" valign="middle" width="60%">
+<td class="align-center valign-middle" style="width:20%"><span class="ff-harem fs-2">
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a></span></td>
+<td class="align-center valign-middle" style="width:60%">
 This<br/>
 <a href="/club-webring/">Queen's Own</a><br/>
 site is owned by <a href="mailto:YOUR_EMAIL">YOUR_NAME</a>.<p>[<a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;prev5">Previous 5 Sites</a>
@@ -86,8 +85,8 @@ site is owned by <a href="mailto:YOUR_EMAIL">YOUR_NAME</a>.<p>[<a href="http://w
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;next5">Next 5 Sites</a><br/>
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;random">Random Site</a>
 | <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;list">List Sites</a>]</p></td>
-<td align="center" valign="middle" width="20%"><font face="Harem" size="2">
-<a href="/club-webring/"><img alt="Queen's Own" border="0" height="100" loading="lazy" src="/qoo.gif" width="80"/></a></font></td>
+<td class="align-center valign-middle" style="width:20%"><span class="ff-harem fs-2">
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a></span></td>
 </tr>
 </table>
 <!--End Queen's Own Official Webring Fragment-->
@@ -95,10 +94,10 @@ site is owned by <a href="mailto:YOUR_EMAIL">YOUR_NAME</a>.<p>[<a href="http://w
 If you have any problems, <a href="mailto:Legend@malcor.com">message me</a>, and
 I will do my best to help.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/club-webring/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to Queen's Own Ring Page</a>
+<a href="/club-webring/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Queen's Own Ring Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
 </p>
 </div>

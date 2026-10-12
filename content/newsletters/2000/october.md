@@ -17,15 +17,15 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 3, Vol. 1, No. 6<br/>
-October 1, 2000</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">The Official Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 3, Vol. 1, No. 6<br/>
+October 1, 2000</h2></div>
 <p>
-</p><center><img alt="Sword Woman by Herald Alora" border="3" loading="lazy" src="/qo29.jpg"/></center>
+</p><div class="center"><img alt="Sword Woman by Herald Alora" class="border-3" loading="lazy" src="/qo29.jpg"/></div>
 <p>
 Heyla, Misty fans!
 </p><p>
@@ -33,7 +33,7 @@ This month we continue series of interviews with the editors of the various Quee
 </p><p>
 <b>Herald-Mage Master Danya Winterborn</b> and <b>Healer Adept Moonstar</b>
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><ol>
 <li>When did you join Queen's Own?
@@ -79,11 +79,11 @@ Ideally? Good stories that I don't have to spend the time deciphering or correct
 I'm an artist by calling, and have started to participate in Con Art Shows mainly in the Seattle and Portland area. Costuming is also fun, especially at Cons where you can be as creative and weird looking as you like! My writing, alas, has taken the creative back burner for the time being, but I continually explore new ideas through my art. Just recently, I bought a previously-owned wire-strung Celtic harp and am in the process of taking lessons. It's one of the things I've always wanted to do and didn't want to keep putting off forever. It's harder than it looks--talk about my right had not knowing what my left hand is doing! Even so, I'm right proud to be carrying on an ancient and honorable tradition.
 </p></li></ol>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Ren Faires:</h2>
 <p>
-</p><center><img alt="Crossed Swords by Herald Alora" border="2" loading="lazy" src="/qo24.jpg"/></center>
+</p><div class="center"><img alt="Crossed Swords by Herald Alora" class="border-2" loading="lazy" src="/qo24.jpg"/></div>
 <p>
 Here are the faires we know about that are happening in October.  Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>
 </p><p>
@@ -166,7 +166,7 @@ WEST TEXAS RENAISSANCE FAIRE.  E-mail: <a href="mailto:renfaire@camalott.com">re
 </p><p>
 For additional Ren Faire information, visit the Renaissance Faire Homepage at <a href="http://www.renfaire.com/">http://www.renfaire.com/</a> and the Renaissance Magazine site at <a href="http://www.renaissancemagazine.com">http://www.renaissancemagazine.com</a>.
 </p><p>
-<img align="right" alt="Woman Border by Herald Alora" border="5" loading="lazy" src="/qo30.jpg"/></p><h2>Conventions:</h2>
+<img alt="Woman Border by Herald Alora" class="float-right border-5" loading="lazy" src="/qo30.jpg"/></p><h2>Conventions:</h2>
 <p>
 These are the upcoming cons we know about.  (Living in California, that's what I usually get information on.)  Have any information about conventions in your area?  Send it to us at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
@@ -182,9 +182,9 @@ GAYLAXICON 2000.  Website: <a href="http://www.lambdasf.org/g2k/index.html">http
 <p>
 INCON 2000.  Website: http://incon.skywalk.com/.  Site Address: Spokane Shilo Hotel, E 923 Third Avenue, Spokane, WA  99202-2215.  Dates:  10/27/00 - 10/29/00.
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center><img alt="Mage by Herald Alora" border="3" loading="lazy" src="/qo26.jpg"/></center>
+</p><div class="center"><img alt="Mage by Herald Alora" class="border-3" loading="lazy" src="/qo26.jpg"/></div>
 <p>
 </p><h2>Member News:</h2>
 <p>
@@ -200,7 +200,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li><b>Pacific Northwest Collegium:</b>  Newsletter: <i>Collegium Chronicles</i>. $8 per year/$4 for a half-year, $2 per issue.  Website: <a href="/pacific-northwest-collegium/">/pacific-northwest-collegium/</a>. General inquiries to: <a href="mailto:anjakiya@hotmail.com">anjakiya@hotmail.com</a>.  (See ad below for more details.) <i>Collegium Chronicles</i> Back Issues:  The Danya Winterborn Saga:  4 B&amp;W issues: $4.00  each, 2 Full color issues: $6.00.  Please allow 2-4 week delivery. <b>PNWC Members:</b> Yes, indeed, Vol.9 issue 4 WILL be out in late August/early September, with another issue immediately following. Mundane worldly issues have gobbled up my time and energies these past few months, making it impossible to devote to other projects. Never fear--PNWC and the <i>Chronicles</i> are still alive and kicking! <b>Laura/Moonglade</b>, editor.
 </li></ul>
 <p>
-</p><center><img alt="Companion by Herald Alora" border="3" loading="lazy" src="/qo25.jpg"/></center>
+</p><div class="center"><img alt="Companion by Herald Alora" class="border-3" loading="lazy" src="/qo25.jpg"/></div>
 <p>
 </p><h3>Zines and Newsletters:</h3>
 <p>
@@ -217,12 +217,12 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li><b><i>Herald's Companion</i>:</b> Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: <a href="mailto:krbertke@bertke.com">krbertke@bertke.com</a>.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Other Fandoms:</h2>
 <p>
-</p><center><img alt="Dragon by Herald Alora" border="5" loading="lazy" src="/qo28.jpg"/>
-</center>
+</p><div class="center"><img alt="Dragon by Herald Alora" class="border-5" loading="lazy" src="/qo28.jpg"/>
+</div>
 <p>
 </p><ul>
 <li>Lois Bujold:  Lois Bujold can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>.  "The Bujold Nexus" is at <a href="http://www.dendarii.com/">http://www.dendarii.com</a>. You can receive information about their newsletter, the "Dendarii Dispatch" by contacting  Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
@@ -247,7 +247,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons
 </p></li><li>Doctor Who and other Media: <b>The Prydonians of Prynceton, </b>P.O. Box 3194, Princeton, NJ  08543-3194.
 </li></ul>
 <p>
-</p><center><img alt="Gem by Herald Alora" border="3" loading="lazy" src="/qo27.jpg"/></center>
+</p><div class="center"><img alt="Gem by Herald Alora" class="border-3" loading="lazy" src="/qo27.jpg"/></div>
 <p>
 </p><h3>Collegium News:</h3>
 <p>
@@ -263,7 +263,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 </p></li><li>Welcome, <b>Tayledras Healer Adept Crystalwren k'Sheyna</b>.  Her bondbird is a Grey Goshawk named Perdue, and she has Mindspeech with her bondbird and non-human races. <b>Caitlyn Wilkinson</b> wrote about her persona and friends, drew a picture of Crystalwren, and drew a picture of Perdue.
 </li></ul>
 <p>
-<img align="right" alt="Tayledras Border by Herald Alora" border="5" loading="lazy" src="/qo31.jpg"/></p><h3>From Herald-Mage Master Danya Winterborn:</h3>
+<img alt="Tayledras Border by Herald Alora" class="float-right border-5" loading="lazy" src="/qo31.jpg"/></p><h3>From Herald-Mage Master Danya Winterborn:</h3>
 <p>
 In the fanfiction world, Danya is the mother of triplet boys.  In the real world, I am the mother of a four-year-old son, and I am about to become the mother of . . . well, we don't know if the baby will be a boy or a girl.  What we are fairly certain about is that I will be induced in late October.  That means that I'm already working on the November QO newsletter and will likely be sending it out early . . . or possibly late, if my second child decides to show up early of his/her own accord ::grin::.  If you have anything for the November issue, make sure you send it to me as soon as possible!
 </p><p>
@@ -271,11 +271,11 @@ In other news, if you would like to stop by and say "Heyla", my coauthor, C. Sco
 </p><p>
 I also want to remind you that, as you prepare to do your holiday shopping, please consider purchasing from the Dragonlords' Bookstore at <a href="https://dragonlords.fans/bkstore.htm">http://www.dragonlordsnet.com/bkstore.htm</a>.  Books, videos, CDs, toys, electronics and much, much more are all available through this site, often at excellent discounts.  A portion of the proceeds from every purchase goes to support Dragonlords, and Dragonlords is the group that grants Queen's Own free webspace, access to a PO box, and the like, covering Queen's Own's expenses so that we no longer have to charge for memberships.  Your patronage is greatly appreciated!
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Fan Messages:</h2>
 <p>
-The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <font color="red">don't place a fan message</font>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+The newsletter is routinely posted to the Net.  If you are concerned about your address falling into unfriendly hands, <span class="c-red">don't place a fan message</span>!  You may answer fan messages without ever placing one yourself.  The editors reserve the right to edit--and shorten!--all messages.  (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 </p><p>
 The only "fee" for a fan message is to write to two other people.  If your mailbox is empty, don't complain--write letters!
 </p><p>
@@ -286,7 +286,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </li><li>From <b>Healer Adept Moonstar</b>. Needed February '88 through March '91, Queen's Own newletters.  I am creating an archive for the club, and as you can see we are listing all the approved personas on the site.  Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA  92652.  Thank you very much.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Personals:</h2>
 <p>
@@ -296,7 +296,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 </p></li><li>To <b>Filk and Anne McCaffrey fans</b>, from <b>Cassandra Vuksa</b>.  Visit <a href="http://members.aol.com/opland/index.htm">http://members.aol.com/opland/index.htm</a>. Tania Opland and Mike Freeman have produced a very cool CD, which has songs like "Lessa's Ride" and "The Question Song" on it.  I bought the CD and have never regretted it.
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -319,10 +319,10 @@ Herald-Mage Master Danya Winterborn and
 </p><p>
 Healer Adept Moonstar
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p>
 </div>

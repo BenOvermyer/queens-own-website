@@ -17,29 +17,29 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-<font face="Bookman Old Style" size="4">
-</font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
-<center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h2>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h2></center>
-<center><h2>Series 1, Vol. XI, No. 9<br/>
-August 1998</h2></center>
+<span class="ff-bookman fs-4">
+</span><div class="center"><span class="fs-7 c-blue"><b>Queen's Own</b></span></div>
+<div class="center"><span class="fs-6 c-blue">Mercedes Lackey Fan Club</span></div>
+<div class="center"><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></div>
+<div class="center"><h2>Series 1, Vol. XI, No. 9<br/>
+August 1998</h2></div>
 <p>
 <b>(Note:  These are excerpts from the original newsletter that was published on this date.  The Queen's Own address has been updated.  The current President of Queen's Own is Herald-Mage Adept Danya Winterborn.  For more information, see <a href="/">/</a>.)</b>
 </p><p>
 [Begin Excerpt]
 </p><p>
-<img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 </p><p>
 </p><p>
-<img align="right" alt="Border Art" border="0" loading="lazy" src="/qo284.jpg"/>
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo284.jpg"/>
 Dear Misty Fans,
 </p><p>
-</p><center>"I hope you have found a friend<br/>
+</p><div class="center">"I hope you have found a friend<br/>
 Closing time<br/>
-Every new beginning comes from some other beginning's end"</center>
-<p align="right">from <i>Closing Time</i> by Semisonic
-</p><p align="left">
+Every new beginning comes from some other beginning's end"</div>
+<p class="align-right">from <i>Closing Time</i> by Semisonic
+</p><p class="align-left">
 It's 1987, and two women who have little in common other than a love of reading have just finished <i>Arrows of the Queen</i>.  Both are so impressed that they write letters to its author, Mercedes Lackey.  Imagine their delight at getting handwritten replies, and their surprise at finding that Misty is not a full-time writer.  She is writing in her "spare" time, while working horrendous hours at American Airlines as a programmer.
 </p><p>
 "Aha," think the two women.  "We'll start a fan club for her and make her so famous she'll be able to quit that job and write full-time.  There will be even more books for us to enjoy."
@@ -52,9 +52,9 @@ After the MArch 1990 issue my partner went on to other interests and QO became c
 </p><p>
 The club continued to grow, as did the number of local chapters, zines, and Collegium entrants.  In December 1990 archivist Patricia Riggs reported that we had 62 Heralds, 1 Shin'a'in scout, 1 White Winds Sorceress, and 2 Bards.  We had members in Australia, Bermuda, Canada, Englang, Germany, Ireland, Japan, the Philippines, Scotland, and every state of the US.
 </p><p>
-</p><table align="right" border="2" cellpadding="2" cellspacing="2" width="35%">
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 <h3>Local Chapters:</h3>
 <p>
 <b>Arrows Online</b> [Ed. note 2005:  Out-of-date info withheld.].
@@ -94,9 +94,9 @@ Fan mail startled her, too.  She wrote "I was amazed and flattered no end by the
 </p><p>
 Yes, Misty, you are definitely something.  Something very special that brings out the best of your readers and allows them to be special, too.
 </p><p>
-</p><table align="right" border="2" cellpadding="2" cellspacing="2" width="35%">
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 <h2>Convention News:</h2>
 <p>
 Fantasy Worlds Festival is September 4-6 in Berkeley, California.  GoH is Barbara Hambly, Artist GoH is Alicia Austin.  Marion Zimmer Bradley will attend if her health permits.  Membership is limited to 300 and costs [Ed. note 2005: Out-of-date info withheld.].
@@ -114,9 +114,9 @@ Firebird Arts and Music carries all of Misty's books and lots of other merchandi
 </p><p>
 Firebird is sharing a building with Vacation RV.  Teri says, "Come visit and if you need car, truck or RV repairs, talk to Chris or Dan."
 </p><p>
-</p><table align="left" border="2" cellpadding="2" cellspacing="2" width="35%">
+</p><table class="border-2 cellpadding-2 cellspacing-2 table-align-left" style="width:35%">
 <tr>
-<td align="left" valign="top">
+<td class="align-left valign-top">
 <h2>Other Fandoms</h2>
 <p>
 </p><ul>
@@ -139,9 +139,9 @@ If you can't visit Portland, visit the Firebird website at [Ed. note 2005: Out-o
 </p><p>
 Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news.  If you would like to be included, send your e-mail address to Teri:  [Ed. note 2005: Out-of-date info withheld.].
 </p><p>
-</p><center>TEMPEST "The 10th Anniversary Tour 1998" Part One:</center>
+</p><div class="center">TEMPEST "The 10th Anniversary Tour 1998" Part One:</div>
 <p>
-</p><center>[Ed. note 2005: Out-of-date info withheld.]</center>
+</p><div class="center">[Ed. note 2005: Out-of-date info withheld.]</div>
 <p>
 Stamps for Life is still collecting used postage stamps from all countries but has a new address.  The cash from teh sale of these stamps is used to purchase equipment and medication for children in the Cancer Ward of Manchester Children's Hospital in England.  Simply remove the stamps from all your mail and send them to [Ed. note 2005: Out-of-date info withheld.].  They will be sent to England.  Send a few, send a lot, all will help.  If you lose the Pittsburgh address, send the stamps to [Ed. note 2005: Out-of-date info withheld.]; I'll mail them on.
 </p><p>
@@ -154,10 +154,10 @@ Stamps for Life is still collecting used postage stamps from all countries but h
 <p>
 [Ed. note 2005:  Content withheld.]
 </p><p>
-</p><center>
-<table border="2" cellpadding="2" cellspacing="2" width="100%">
+</p><div class="center">
+<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
-<td align="center" valign="top">
+<td class="align-center valign-top">
 The next newsleeter you receive will have a new name, new logo, new editor and a new<br/>
 mailing address.
 <p>
@@ -171,8 +171,8 @@ All news, ads, messages, personals, etc. shouldbe sent to the Winnetka address.
 </p></td>
 </tr>
 </table>
-</center>
-<img align="right" alt="Border Art" border="0" loading="lazy" src="/qo285.jpg"/>
+</div>
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo285.jpg"/>
 <p>
 Recommended reading:  everything by Lois McMaster Bujold--read the earlier Miles Vorkosigan adventures before reading <i>Mirror Dance</i>, <i>Memory</i>; and <i>Komarr</i>; David Weber, especially his Honor Harrington series again, best read in order.  Watch for <i>Echoes of Honor</i>, coming in October.
 </p><p>
@@ -193,7 +193,7 @@ Mailing Day Helper--SpiritBlade.
 </p><p>
 [End Excerpt]
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 Queen's Own is the official Mercedes Lackey Appreciation Society.  Our purpose is to share our enjoyment of Misty's worlds.  We are a fan-run not-for-profit organization, not a business.  Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA.  This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 </p><p>
@@ -211,10 +211,10 @@ Zhai'helleva,
 </p><p>
 Herald-Mage Adept Danya Winterborn
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
+<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
 </p></o></p>
 </div>

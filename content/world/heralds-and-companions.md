@@ -15,16 +15,16 @@ canonical_path = "/heralds-and-companions/"
 +++
 
 <div class="original-page">
-<font face="Harem">
-</font><center><h2>Herald List</h2></center>
-<center><h2>(Revised 4/10/02)</h2></center>
+<span class="ff-harem">
+</span><div class="center"><h2>Herald List</h2></div>
+<div class="center"><h2>(Revised 4/10/02)</h2></div>
 <p>
 Here are lists of Heralds and Companions mentioned in the various books
 of Misty's Valdemar series.  The Herald's name comes first; the second name
 is that of the Companion.  The codes that follow the names tell which
 book mentions the pair.  The codes are:
 </p><p>
-</p><table border="1" cellpadding="2" cellspacing="1">
+</p><table class="border-1 cellpadding-2 cellspacing-1">
 <tr>
 <td>AFa</td>
 <td>Arrow's Fall</td>
@@ -110,7 +110,7 @@ Heralds or Companions.  Let me know if you find any in them!
 </li><li><i>Owlflight</i>
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Heralds and Companions</h2>
 <p>
@@ -270,7 +270,7 @@ eventually.
 </li><li>Treyon (SI)
 </li></ul>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
 </p><h2>Companions and Heralds</h2>
 <p>
@@ -409,9 +409,9 @@ Vostel-?? (AFa)<br/>
 Wulf-??<br/>
 Wulgra-??<br/>
 </p><p>
-</p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/bardrgn2.gif"/></div>
 <p>
-<font face="Harem">
-</font>
+<span class="ff-harem">
+</span>
 </p>
 </div>

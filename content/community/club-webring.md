@@ -14,10 +14,10 @@ canonical_path = "/club-webring/"
 +++
 
 <div class="original-page">
-<font size="4">
-<a href="http://www.animfactory.com/"><img align="left" alt="Click to Visit Animfactory, the source of this image" border="0" loading="lazy" src="/qoq.gif"/></a><a href="http://www.animfactory.com/"><img align="right" alt="Click to Visit Animfactory, the source of this image" border="0" loading="lazy" src="/qoo.gif"/></a></font><center><h2>The Official Queen's Own Webring</h2></center>
+<span class="fs-4">
+<a href="http://www.animfactory.com/"><img alt="Click to Visit Animfactory, the source of this image" class="float-left" loading="lazy" src="/qoq.gif"/></a><a href="http://www.animfactory.com/"><img alt="Click to Visit Animfactory, the source of this image" class="float-right" loading="lazy" src="/qoo.gif"/></a></span><div class="center"><h2>The Official Queen's Own Webring</h2></div>
 <p>
-</p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/pegasus.gif"/></div>
 <p>
 Welcome to the homepage of the Official Queen's Own Webring!
 </p><p>
@@ -30,39 +30,39 @@ If you have any questions, message <a href="mailto:Legend@malcor.com">Danya</a>.
 </p><p>
 Thank you for your interest in Queen's Own!
 </p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-</p><center>
-<table border="0" cellpadding='2"' cellspacing="2">
+</p><div class="center">
+<table class="cellspacing-2">
 <tr>
-<td><img align="top" alt="" loading="lazy" src="/ball.gif"/> <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;edit">Edit Your Site Information</a><p> </p><p></p></td>
+<td><img alt="" loading="lazy" src="/ball.gif"/> <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;edit">Edit Your Site Information</a><p> </p><p></p></td>
 </tr>
 <tr>
-<td><img align="top" alt="" loading="lazy" src="/ball.gif"/> <a href="/webring-code/">Get HTML</a><p> </p><p></p></td>
+<td><img alt="" loading="lazy" src="/ball.gif"/> <a href="/webring-code/">Get HTML</a><p> </p><p></p></td>
 </tr>
 <tr>
-<td><img align="top" alt="" loading="lazy" src="/ball.gif"/> <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;index">View the Sites in the Ring</a><p> </p><p></p></td>
+<td><img alt="" loading="lazy" src="/ball.gif"/> <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;index">View the Sites in the Ring</a><p> </p><p></p></td>
 </tr>
 </table>
-</center>
-<center><table>
+</div>
+<div class="center"><table>
 <tr>
-<td align="right">
-<font face="helvetica" size="-2">
+<td class="align-right">
+<span class="ff-helvetica fs-minus2">
 The Queen's Own Official Webring<br/>
 is made possible by the <a href="http://www.webring.org/">Webring</a>.
- </font>
+ </span>
 </td>
 <td>
-<a href="http://www.webring.org/"><img alt="" border="0" height="66" loading="lazy" src="http://www.webring.org/images/webring2.gif" width="117"/></a>
+<a href="http://www.webring.org/"><img alt="" loading="lazy" src="http://www.webring.org/images/webring2.gif" style="width:117px; height:66px"/></a>
 </td>
 </tr>
 </table>
-</center>
+</div>
 <p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
+</p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the
 Queen's Own Home Page</a>
 </p>
 </div>
