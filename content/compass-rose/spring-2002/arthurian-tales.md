@@ -14,7 +14,15 @@ topic = "publications"
 canonical_path = "/compass-rose/spring-2002/arthurian-tales/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td> <td style="width:35%"> </td> </tr> </table> ---
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<tr>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
+<td style="width:35%"> </td>
+</tr>
+</table>
+
+---
 
 The Arthurian Tales
 
@@ -22,11 +30,7 @@ The Arthurian Tales
 
 ## [Linda A. Malcor (née Peterson)](mailto:Legend@malcor.com)
 
-<table class="cellpadding-2 cellspacing-2" style="width:75%">
-<tr>
-<td class="align-left valign-middle"><i>Ed. Note:  This paper is actually more of a historical artifact than anything else.  It is the first research paper I ever wrote on the Arthurian legends.  Penned May 19, 1977, when I was fifteen years old, the paper asked these questions:  (1) What are the sources of the Arthurian tales? (2) What parts are true? (3) What parts were added later and by whom?</i></td>
-</tr>
-</table>
+*Ed. Note: This paper is actually more of a historical artifact than anything else. It is the first research paper I ever wrote on the Arthurian legends. Penned May 19, 1977, when I was fifteen years old, the paper asked these questions: (1) What are the sources of the Arthurian tales? (2) What parts are true? (3) What parts were added later and by whom?*
 
 ## The Background of the Period
 

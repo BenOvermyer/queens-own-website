@@ -14,7 +14,15 @@ topic = "publications"
 canonical_path = "/compass-rose/summer-2000/sink-or-swim/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td> <td style="width:35%"> </td> </tr> </table> ---
+<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<tr>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td>
+<td style="width:35%"> </td>
+</tr>
+</table>
+
+---
 
 Excerpts from *Sink or Swim*
 

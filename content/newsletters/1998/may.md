@@ -32,19 +32,13 @@ Mercedes Lackey Fan Club
 
 <img alt="Border Art" class="float-right" loading="lazy" src="/qo286.jpg"/> <img alt="Border Art" class="float-left" loading="lazy" src="/qo287.jpg"/> Dear Misty Fans,
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
-<tr>
-<td class="align-left valign-top">
-<h2>Misty's birthday is June 24</h2>
-<p>
-(Larry's is July 28).  Cards can be sent to them at Highflight [Ed. note 2005: Out-of-date info withheld.].  if you would like to do more than send a card, consider a donation to <b>The Alex Foundation</b>, [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
-Alex is an African Grey Parrot who actually speaks more than a hundred words and understands their meaning.  To learn more about how scientists investigate animal thinking and communication, order <i>Alex and Friends<!--, [Ed. note 2005: Out-of-date info withheld.].  Make the check payable to <b-->The Alex Foudation.
-</i></p><p>
-A new video, <i>Training Your Parrot the Alex Way</i>, is available from Bird Lady Productions, [Ed. note 2005: Out-of-date info withheld.].
-</p></td>
-</tr>
-</table>
+## Misty's birthday is June 24
+
+(Larry's is July 28). Cards can be sent to them at Highflight [Ed. note 2005: Out-of-date info withheld.]. if you would like to do more than send a card, consider a donation to **The Alex Foundation**, [Ed. note 2005: Out-of-date info withheld.].
+
+Alex is an African Grey Parrot who actually speaks more than a hundred words and understands their meaning. To learn more about how scientists investigate animal thinking and communication, order *Alex and FriendsThe Alex Foudation.*
+
+A new video, *Training Your Parrot the Alex Way*, is available from Bird Lady Productions, [Ed. note 2005: Out-of-date info withheld.].
 
 It's time for you to meet the future president of Queen's Own. As of September 1998, Robin Ready will take over the leadership of the Mercedes Lackey Fan Club. Robin says "I was born in Madison, WI, over 21 years ago . . . (more like 30, but who's counting???). While I wasn't a military 'child,' my parents did move around a lot, and I've seen much of these United States. I do love to travel and see new sights, also meeting new people is a definite plus.
 
@@ -64,19 +58,15 @@ Send your ideas to Robin at Queens Own--Merging of the Ways (MTW) [Ed. note 2005
 
 Firebird Arts and Music carries all of Misty's books and lots of other merchandise, from Babylon 5 sountracks to LArry's art prints, from the music of Frank Hayes to porcelain jewelry, from kits for plastic knights and Robin Hood characters to doll-size costume patterns for Heralds & Shin'a'in, from Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at [Ed. note 2005: Out-of-date info withheld.]. Firebird does not answer inquiries from prison addresses.
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
-<tr>
-<td class="align-left valign-top">
-<h2>Convention News:</h2>
-<p>
-June 12-14 B'HAMACON 4/Deep South Con 36, Parliament House hotel, Birmingham, Alabama.  Guests of Honor are Michael Bishop and Buck &amp; Juanita Coulson.  [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
-July 2-5 CONCEPT/Westercon 51.  Mission Valley MArriott, San Diego, California.  Guests of Honor include Katherine Kurtz and J. Michael Straczynski.  [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
-Fantasy Worlds Festival is September 4-6 in Berkeley, California.  GoH is Barbara Hambly, Artist GoH is Alicia Austin.  Marion Zimmer Bradley will attend if her health permits.  Membership is limited to 300 and costs [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
-Josepha Sherman will be Guest of Honor at EerieCon 1 April 16-18, 1999 (Yes, that's NEXT year) in Niagra Falls, New York.  [Ed. note 2005: Out-of-date info withheld.]  The hotel is Fallsview Resort; [Ed. note 2005: Out-of-date info withheld.].  This is an ideal con for anyone new to fandom.  You can bring your family and sightsee, too.
-</p></td></tr></table>
+## Convention News:
+
+June 12-14 B'HAMACON 4/Deep South Con 36, Parliament House hotel, Birmingham, Alabama. Guests of Honor are Michael Bishop and Buck & Juanita Coulson. [Ed. note 2005: Out-of-date info withheld.].
+
+July 2-5 CONCEPT/Westercon 51. Mission Valley MArriott, San Diego, California. Guests of Honor include Katherine Kurtz and J. Michael Straczynski. [Ed. note 2005: Out-of-date info withheld.].
+
+Fantasy Worlds Festival is September 4-6 in Berkeley, California. GoH is Barbara Hambly, Artist GoH is Alicia Austin. Marion Zimmer Bradley will attend if her health permits. Membership is limited to 300 and costs [Ed. note 2005: Out-of-date info withheld.].
+
+Josepha Sherman will be Guest of Honor at EerieCon 1 April 16-18, 1999 (Yes, that's NEXT year) in Niagra Falls, New York. [Ed. note 2005: Out-of-date info withheld.] The hotel is Fallsview Resort; [Ed. note 2005: Out-of-date info withheld.]. This is an ideal con for anyone new to fandom. You can bring your family and sightsee, too.
 
 For news about TEMPEST, visit their web page [Ed. note 2005: Out-of-date info withheld.]. You can send e-mail to Lief and other band members at [Ed. note 2005: Out-of-date info withheld.].
 
@@ -116,18 +106,13 @@ Re NIGHT RUNES: Shadow Dancer would like you to know that the stories sent to hi
 
 DERYNI ARCHIVES, the MAGAZINE is the longrunning zine based on Katherine Kurtz's series of fantasy novels about the kingdom of Gwynedd adnthe Deryni. The latest issue, number 15, contains fifty pages of Deryni stories, poetry, and artwork, as well as a PRogress Report from KAtherine and an editorial introduction from the new editors. Back issues are also available. Cost is [Ed. note 2005: Out-of-date info withheld.]. For more information, send a SASE to [Ed. note 2005: Out-of-date info withheld.].
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
-<tr>
-<td class="align-left valign-top">
-<h3>Greetings from Herald Housemother:</h3>
-<p>
+### Greetings from Herald Housemother:
+
 Congratulations, graduates!
-</p><p>
-To everyone who has returned home from school (or has moved for any reason):  please send your new address to me at either [Ed. note 2005: Out-of-date info withheld.] or the Shiloh post office address.
-</p><p>
-Queen's Own ahs been an important part of my life for over ten years.  In three months it will be Robin's responsibility. I feel as if I'm sending a child off to college.  I like the idea of less work and more room, but oh, it will be lonely.</p></td>
-</tr>
-</table>
+
+To everyone who has returned home from school (or has moved for any reason): please send your new address to me at either [Ed. note 2005: Out-of-date info withheld.] or the Shiloh post office address.
+
+Queen's Own ahs been an important part of my life for over ten years. In three months it will be Robin's responsibility. I feel as if I'm sending a child off to college. I like the idea of less work and more room, but oh, it will be lonely.
 
 ## Fan Messages
 
@@ -147,13 +132,7 @@ Queen's Own ahs been an important part of my life for over ten years.  In three 
 
 *Marion Zimmer Bradley's FANTASY Magazine* is having a clearance sale! Back issues will be available for just [Ed. note 2005: Out-of-date info withheld.] until June 30. To see what issues are in print, visit their web page at [Ed. note 2005: Out-of-date info withheld.]. A T-shirt with artwork by George Barr, based on the cover of issue #1, is just [Ed. note 2005: Out-of-date info withheld.]. A subscription to *MZB's FANTASY Magazine* is [Ed. note 2005: Out-of-date info withheld.]. When writing to request artist or writer guidelines, be sure to include a SASE. THe magazine welcomes free-lance submissions "from people who have read our guidelines."
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-left valign-top">
-Stamps For Life is still collecting used postage stamps used postage stamps from all countries but has a new address.  The cash from teh sale of these stamps is used to purchase equipment and medication for children in the Cancer Ward of Manchester Children's Hospital in England.  Simply remove the stamps from all your mail and send them to [Ed. note 2005: Out-of-date info withheld.].  They will be sent to England.  Send a few, send a lot, all will help.  If you lose the Pittsburgh address, send the stamps to [Ed. note 2005: Out-of-date info withheld.]; I'll mail them on.
-</td>
-</tr>
-</table>
+Stamps For Life is still collecting used postage stamps used postage stamps from all countries but has a new address. The cash from teh sale of these stamps is used to purchase equipment and medication for children in the Cancer Ward of Manchester Children's Hospital in England. Simply remove the stamps from all your mail and send them to [Ed. note 2005: Out-of-date info withheld.]. They will be sent to England. Send a few, send a lot, all will help. If you lose the Pittsburgh address, send the stamps to [Ed. note 2005: Out-of-date info withheld.]; I'll mail them on.
 
 <img alt="Border Art" class="float-left" loading="lazy" src="/qo288.jpg"/>
 
@@ -176,26 +155,14 @@ Come, enroll in the Collegium!
 
 [Ed. note 2005: Content withheld.]
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
-<tr>
-<td class="align-left valign-top">
-<h2>Other Fandoms</h2>
-<p>
-</p><ul>
-<li>Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
-<p>
-</p></li><li>Doctor Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.]. Dues are $12 ($22 for first class postage) for their monthly newsletter, <i>The Prydonian Renegade</i>.
-<p>
-</p></li><li>Tanya Huff--NINE ABOVE! [Ed. note 2005: Out-of-date info withheld.].
-<p>
-</p></li><li>Anne McCaffrey/Pern: [Ed. note 2005: Out-of-date info withheld.].
-<p>
-</p></li><li>Lois Bujold can be reached at [Ed. note 2005: Out-of-date info withheld.] "The Bujold Nexus" is at [Ed. note 2005: Out-of-date info withheld.].  For a sample of the Dendarii Dispatch and information of Lois's fan club, send a SASE to [Ed. note 2005: Out-of-date info withheld.].
-<p>
-</p></li><li>Pandemonium--the official Melanie Rawn club invites you to join their ranks.  SASE for more information:  [Ed. note 2005: Out-of-date info withheld.].
-</li></ul></td>
-</tr>
-</table>
+## Other Fandoms
+
+- Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
+- Doctor Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.]. Dues are $12 ($22 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
+- Tanya Huff--NINE ABOVE! [Ed. note 2005: Out-of-date info withheld.].
+- Anne McCaffrey/Pern: [Ed. note 2005: Out-of-date info withheld.].
+- Lois Bujold can be reached at [Ed. note 2005: Out-of-date info withheld.] "The Bujold Nexus" is at [Ed. note 2005: Out-of-date info withheld.]. For a sample of the Dendarii Dispatch and information of Lois's fan club, send a SASE to [Ed. note 2005: Out-of-date info withheld.].
+- Pandemonium--the official Melanie Rawn club invites you to join their ranks. SASE for more information: [Ed. note 2005: Out-of-date info withheld.].
 
 Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 

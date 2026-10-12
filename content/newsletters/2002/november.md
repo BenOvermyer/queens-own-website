@@ -32,43 +32,33 @@ Well, October proved to be filled with more highs and lows than either of us had
 
 Teri Lee has given us permission to reprint the following notice from Misty:
 
-<table class="cellpadding-2 cellspacing-2" style="width:90%">
-<tr>
-<td class="align-left valign-middle">
 After being sworn to secrecy, I have just been permitted to release this information. One of the seminal authors of our field, Andre Norton, is gravely ill. She was admitted to the hospital last Monday for surgery, and is still there. More to the point, her spirits have sunk to a life-threatening low. She needs to know just how highly regarded she is in our community, and she needs to know now.
-<p>
+
 "We" are keeping the location of the hospital and room "secret", because she cannot have visitors and we don't want to overwhelm her with autograph-hounds when she needs to be getting stronger, not being disturbed---this is already a problem as word of her illness has percolated into the local community in Tennessee. The hospital in question will deny that she is there.
-</p><p>
+
 Please send cards and letters to:
-</p><p>
-Andre Norton <br/>
-114 Eventide Drive <br/>
-Murfreesboro TN 37130
-</p><p>
+
+Andre Norton 114 Eventide Drive Murfreesboro TN 37130
+
 If you wish to send flowers, you may also send them to this address, but direct the florist to leave them on the porch if no one is home. Andre's two friends who are caring for her will make sure they are brought to her, but they are spending most of the time at the hospital, and so may not be there. (If this gets to be a problem, arrangements will be made for frequent pick-up!) Please do not send food, as she is on a liquids-only diet.
-</p><p>
+
 You may send e-cards to:
-</p><p>
-Andre Norton<br/>
-E-mail Address(es):<br/>
-<a href="mailto:highhallack@mindspring.com">highhallack@mindspring.com</a>
-</p><p>
-[Ed. Note:  Andre Norton is better now and has requested that no further cards be sent at this time . . . She received over 800 e-cards the day this message went out!]
-</p><p>
+
+Andre Norton E-mail Address(es): [highhallack@mindspring.com](mailto:highhallack@mindspring.com)
+
+[Ed. Note: Andre Norton is better now and has requested that no further cards be sent at this time . . . She received over 800 e-cards the day this message went out!]
+
 Again, her friends will make sure she gets to see them.
-</p><p>
+
 Mercedes Lackey
-</p><p>
-That was the straight text of Misty's message.  I'm going to ask that people please take the time to respond by mail or via e-mail, this could be critical in letting Andre let her know that she is loved and cared about, something that it is very easy to loose sight of when hospitalized.
-</p><p>
-How many of you guys remember which of Andre's books you first read?  Take a moment and let her know just how important she has been in your life.  For those with the inclination please add Andre to your prayers/meditations/thoughts.  It certainly can't hurt and may help quite a bit.
-</p><p>
+
+That was the straight text of Misty's message. I'm going to ask that people please take the time to respond by mail or via e-mail, this could be critical in letting Andre let her know that she is loved and cared about, something that it is very easy to loose sight of when hospitalized.
+
+How many of you guys remember which of Andre's books you first read? Take a moment and let her know just how important she has been in your life. For those with the inclination please add Andre to your prayers/meditations/thoughts. It certainly can't hurt and may help quite a bit.
+
 Please feel free to re-post this message to any appropriate list, discussion group, e-mail list or website.
-</p><p>
-Thanks,<br/>
-Teri Lee<br/>
-Firebird Arts &amp; Music</p></td></tr>
-</table>
+
+Thanks, Teri Lee Firebird Arts & Music
 
 Teri Lee also reports that "Another book in progress is *Joust*, a brand new project in a brand new fantasy setting, in which two kingdoms, the desert kingdom of Tia and the marsh-land/island kingdom of Alta are at war, and the 'superweapon' of both sides is---the dragon! Vetch, a young Altan serf bound into a state worse than slavery to one Khefti-the-fat, is plucked from his miserable existence by the Jouster Ari, and taken into his service as dragon-boy to his great---and very unusual---dragon Kashet." Also, "The Map of Valdemar has been printed, and is in the process of being trimmed and shipped. We should have them in hand in a couple of weeks. Ken, our long time printer did a very nice job turning a cranky computer file into a lovely map that should please all the Valdemar fan, and gamers out there. Printed in brown ink on a parchement type paper, the new map would be a home in a Herald's pouch or in a Shin'a'in market. $15.00 plus shipping." You can find purchasing information at [http://www.firebirdarts.com/indexmlackey.shtml](http://www.firebirdarts.com/indexmlackey.shtml).
 

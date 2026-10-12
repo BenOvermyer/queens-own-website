@@ -42,23 +42,15 @@ Our very own Bard Magpie performed (with Minstrosity) at the Fantasy Faire in Wa
 
 And Cassandra Vuksa, editor of Austral�a�in, sends the following notice:
 
-<table class="cellpadding-2 cellspacing-2" style="width:80%">
-<tr>
-<td class="align-left valign-middle">I have decided to run a competition. Till the end of June (the 30th) I will be collecting submissions for Austral'a'in, and the best one will win its author/artist/poet/etc a year's free membership of said newsletter, regardless of where they are located in the world.
-<p>
-Tempted? E-mail me at <a href="mailtp:garou@netspeed.com.au">garou@netspeed.com.au</a> with your submission!
-</p><p>
+I have decided to run a competition. Till the end of June (the 30th) I will be collecting submissions for Austral'a'in, and the best one will win its author/artist/poet/etc a year's free membership of said newsletter, regardless of where they are located in the world.
+
+Tempted? E-mail me at [garou@netspeed.com.au](mailtp:garou@netspeed.com.au) with your submission!
+
 Incidentally, I had someone recently send me a US $10 for a subscription renewal and I discovered that the banks charge $5 (Australian) to convert it. This means that at the current exchange rate US $10 is enough to pay for a year's membership of the newsletter! (Just a thought for those who can't get IRCs or money orders . . . ) It does have to be a note, not change, however, because the banks don't change change! :)
-</p><p>
+
 So send all your money (::laughs::) to:
-</p><p>
-</p><b>   Austral'a'in <br/>
-   PO Box 1850 <br/>
-   Woden ACT 2606 <br/>
-   Australia</b>
-</td>
-</tr>
-</table>
+
+**Austral'a'in PO Box 1850 Woden ACT 2606 Australia**
 
 Until next month . . .
 

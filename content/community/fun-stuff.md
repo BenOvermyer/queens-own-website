@@ -32,7 +32,9 @@ Fun Stuff
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<a id="qo"></a> ## Fun Stuff at Queen's Own
+<a id="qo"></a>
+
+## Fun Stuff at Queen's Own
 
 <dl>
 <dt><a href="/persona-handouts/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/persona-handouts/">Helpful Handouts</a></dt>

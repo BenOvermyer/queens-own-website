@@ -60,15 +60,11 @@ Coming in April from DAW: *Oathblood*, an all-new Tarma and Kethry novel plus Mi
 
 **R.C.M.H.**--Contact Pam Dziedzic [Ed. note 2005: Out-of-date info withheld.].
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:25%">
-<tr>
-<td class="align-left valign-top"><h2>The Camel's Back</h2>
-<p>
-This news from Misty appeared on-line. <i>The Camel's Back</i> is a reference to the straw that broke the...
-</p><p>
-[Ed. note 2005:  You may read the text of <i>The Camel's Back</i> <a href="http://www.mercedeslackey.com/text/1mlback.shtml">here</a>.]</p></td>
-</tr>
-</table>
+## The Camel's Back
+
+This news from Misty appeared on-line. *The Camel's Back* is a reference to the straw that broke the...
+
+[Ed. note 2005: You may read the text of *The Camel's Back* [here](http://www.mercedeslackey.com/text/1mlback.shtml).]
 
 Rea begins her monologue from her newest perch atop the rood of her house, much to her parents' distress . . . "New stuff for me to say about DON'T ARGUE WITH THE VOICE, people! Issue 2 is out! Issues 3 & 4 are already in the works. A copy of Issue 1 or 2 costs $4. Subscriptions are $15 a year, contributors get special discounts. These rates apply to *everyone*! Cash is preferred, checks should be made out to 'Erin Frost.' Disk submissions (MAC or PC): Word, PowerPoint, Works, Write, or Notepad. Specify Artists' or Writers' guidelines. We negotiate with editors. Also, very important: DA has a new, final version of guidelines for writers that greatly differs from the original when Ariya and I first started advertising! For those of you who do not possess a copy of guidelines that says 'updated, November 1997,' and has subscription info in it, write to us or say something in the Personals, and we'll send you a new copy. You don't need to send a a SASE even, just a postcard. Please, because of the age of Ariya and I, no mail from inmates. So, what are you waiting for? A Gate to open beneath your feet and suck you in? Get involved today! Send your Velgarth or Fantasy stuff to DON'T ARGUE WITH THE VOICE c/o Rea Wildfire and/or Ariya Nightsun [Ed. note 2005: Out-of-date info withheld.]."
 
@@ -94,13 +90,9 @@ Pandemonium--the official Melanie Rawn club invites you to join their ranks. Sas
 
 For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005: Out-of-date info withheld.] to the Q0 address for this 12 page booklet.
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:25%">
-<tr>
-<td class="align-left valign-top"><h2>FAN MESSAGES:</h2>
-<p>
-[Ed. note 2005:  Content withheld.]</p></td>
-</tr>
-</table>
+## FAN MESSAGES:
+
+[Ed. note 2005: Content withheld.]
 
 ### Hello from Herald Housemother:
 

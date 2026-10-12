@@ -42,11 +42,18 @@ class ConvertTests(unittest.TestCase):
         self.assertEqual(md('<p>see <img src="a.gif" alt="a"/> now</p>'),
                          'see <img alt="a" src="a.gif"/> now')
 
-    def test_table_stays_html_without_presentational_wrappers(self):
-        out = md('<table border="2"><tr><td><span class="fs-4">x</span></td></tr></table>')
+    def test_data_table_stays_html_without_presentational_wrappers(self):
+        out = md('<table border="2"><tr><td><span class="fs-4">a</span></td><td>b</td></tr>'
+                 '<tr><td>c</td><td>d</td></tr></table>')
         self.assertTrue(out.startswith('<table'))
         self.assertNotIn('span', out)
-        self.assertIn('<td>x</td>', out)
+        self.assertIn('<td>a</td>', out)
+
+    def test_layout_table_is_converted_to_markdown(self):
+        out = md('<table><tr><td><h2>Title</h2><ul><li><a href="/x/">X</a></li></ul></td></tr></table>')
+        self.assertTrue(out.startswith('## Title'))
+        self.assertIn('- [X](/x/)', out)
+        self.assertNotIn('<table', out)
 
     def test_pre_and_xmp_become_code_blocks(self):
         self.assertEqual(md('<xmp>&lt;a href="/"&gt;</xmp>'), '```\n<a href="/">\n```')

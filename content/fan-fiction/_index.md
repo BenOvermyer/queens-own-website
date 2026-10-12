@@ -25,40 +25,17 @@ canonical_path = "/fan-fiction/"
 
 These are approved Mercedes Lackey Fanzines (Some are technically newsletters &lt;g>. They accept stories, art and poetry based on the works of Mercedes Lackey. Please notify [Herald Mage Danya](mailto:shashtah@gmail.com) or [Healer Adept Moonstar](mailto:healermoon@gmail.com) if an address is incorrect or if the fanzine no longer exists. If you have an approved fanzine that you would like to have listed here, send [Herald Mage Danya](mailto:shashtah@gmail.com) or [Healer Adept Moonstar](mailto:healermoon@gmail.com) the contact information.
 
-<table class="border-1" style="width:100%">
-<tbody><tr>
-<th><h3>Golden Grove</h3></th>
-<th><h3><a href="/children-of-velgarth/">Children of Velgarth</a></h3></th>
-<th><h3>The Valdemaran Herald</h3></th>
-</tr>
-<tr>
-<td>
-<p>
-		Editor: Sacree Noir<br/>
-		E-mail: <a href="mailto:sn.keeper@yahoo.com">Sacree Noir</a><br/>
-		Website: <a href="/golden-grove/">/golden-grove/</a>
-</p>
-</td>
-<td>
-<p>
-		The Official Queen's Own Fanzine<br/>
-		Editor: Healer Adept Moonstar<br/>
-		E-mail: <a href="mailto:healermoon@gmail.com">Healer Adept Moonstar</a><br/>
-		Website: <a href="/children-of-velgarth/">/children-of-velgarth/</a><br/>
-		Note:  Only accepts <a href="/persona-handouts/">personae materials</a> submitted through Queen's Own.<br/>
-</p>
-</td>
-<td>
-<p>
-		Co-editor: <br/>
-		Co-editor/Advisor: Herald Mage Danya<br/>
-		President/Advisor: Seeking Herald Bastian <br/>
-		E-mail: <a href="mailto:shashtah@gmail.com">Herald Mage Danya</a><br/>
-		Website: <a href="/vanyel-fan-club/newsletter/">/vanyel-fan-club/newsletter/</a></p><p>
-</p>
-</td>
-</tr>
-</tbody></table>
+### Golden Grove
+
+### [Children of Velgarth](/children-of-velgarth/)
+
+### The Valdemaran Herald
+
+Editor: Sacree Noir E-mail: [Sacree Noir](mailto:sn.keeper@yahoo.com) Website: [/golden-grove/](/golden-grove/)
+
+The Official Queen's Own Fanzine Editor: Healer Adept Moonstar E-mail: [Healer Adept Moonstar](mailto:healermoon@gmail.com) Website: [/children-of-velgarth/](/children-of-velgarth/) Note: Only accepts [personae materials](/persona-handouts/) submitted through Queen's Own.
+
+Co-editor: Co-editor/Advisor: Herald Mage Danya President/Advisor: Seeking Herald Bastian E-mail: [Herald Mage Danya](mailto:shashtah@gmail.com) Website: [/vanyel-fan-club/newsletter/](/vanyel-fan-club/newsletter/)
 
 <img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/>
 

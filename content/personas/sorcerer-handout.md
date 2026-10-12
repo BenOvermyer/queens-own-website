@@ -99,32 +99,60 @@ To earn one of these specialties, first create an approved Sorcerer/Sorceress pe
 
 If you want your character to receive formal training in the magical arts, there are three schools that I know about. Choose which school you want to join. Complete the requirements in that column for each rank. Do not switch columns. If you start in the White Winds column, you need to stay there.
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:90%">
-<tr>
-<th class="align-center valign-middle">Rank
-</th><th class="align-center valign-middle">Blue Mountain
-</th><th class="align-center valign-middle">Twin Suns
-</th><th class="align-center valign-middle">White Winds
-</th><th class="align-left valign-middle">Apprentice
-</th><td class="align-left valign-middle">Write a story (minimum of 10 pages) about how your persona decided to train at a Blue Mountain school, and send it to one of the QO zines.
-</td><td class="align-left valign-middle">Write a story (minimum of 10 pages) about how your persona decided to train at a Twin Suns school, and send it to one of the QO zines.
-</td><td class="align-left valign-middle">Write a story (minimum of 10 pages) about how your persona decided to train at a White Winds school, and send it to one of the QO zines.
-</td><th class="align-left valign-middle">Journeyman
-</th><td class="align-left valign-middle">Write a 20-page paper the environmental issue of your choice.
-</td><td class="align-left valign-middle">Write a 20-page paper comparing and contrasting priestly and secular magic.
-</td><td class="align-left valign-middle">Write a 20-page paper about how stage-magic can be used to simulate the most common "mediumistic powers" (manifesting spirits, moving tables, voices and objects from nowhere, appearance of ectoplasm, etc.).
-</td><th class="align-left valign-middle">Master
-</th><td class="align-left valign-middle">Write a 20-page paper on the ethical use of magic as taught by the Blue Mountain school.
-</td><td class="align-left valign-middle">Write a 20-page paper on the ethical use of magic as taught by the Twin Suns school.
-</td><td class="align-left valign-middle">Write a 20-page paper on the ethical use of magic as taught by the White Winds school.
-</td><th class="align-left valign-middle">Adept
-</th><td class="align-left valign-middle">Write a 20-page paper explaining how "unexplained phenomena" (Floating Lights, Phantom Headlights, etc.) can be explained by purely mundane means.<p>AND</p><p>Start a local <a href="/chapters/">chapter of Queen's Own</a>.</p>
-</td><td class="align-left valign-middle">Write a 20-page paper on televangelism, and how the miracles shown on a particular show can be explained by mundane means.<p>AND</p><p>Start a local <a href="/chapters/">chapter of Queen's Own</a>.</p>
-</td><td class="align-left valign-middle">Write a 20-page paper about urban legends (the Hitchhiking Ghost, Ghost Lights, Kentucky Fried Rat, the Haunted Dormitory, the Lover's Lane Stalker, etc.).<p>AND</p><p>Start a local <a href="/chapters/">chapter of Queen's Own</a>.</p>
-These papers will be published in <a href="/compass-rose/about/"><i>The Compass Rose</i></a>.
-<p>
-</p><img alt="" loading="lazy" src="/barstar.gif"/>
-<p>
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-</p>
-</td></tr></table>
+Rank
+
+Blue Mountain
+
+Twin Suns
+
+White Winds
+
+Apprentice
+
+Write a story (minimum of 10 pages) about how your persona decided to train at a Blue Mountain school, and send it to one of the QO zines.
+
+Write a story (minimum of 10 pages) about how your persona decided to train at a Twin Suns school, and send it to one of the QO zines.
+
+Write a story (minimum of 10 pages) about how your persona decided to train at a White Winds school, and send it to one of the QO zines.
+
+Journeyman
+
+Write a 20-page paper the environmental issue of your choice.
+
+Write a 20-page paper comparing and contrasting priestly and secular magic.
+
+Write a 20-page paper about how stage-magic can be used to simulate the most common "mediumistic powers" (manifesting spirits, moving tables, voices and objects from nowhere, appearance of ectoplasm, etc.).
+
+Master
+
+Write a 20-page paper on the ethical use of magic as taught by the Blue Mountain school.
+
+Write a 20-page paper on the ethical use of magic as taught by the Twin Suns school.
+
+Write a 20-page paper on the ethical use of magic as taught by the White Winds school.
+
+Adept
+
+Write a 20-page paper explaining how "unexplained phenomena" (Floating Lights, Phantom Headlights, etc.) can be explained by purely mundane means.
+
+AND
+
+Start a local [chapter of Queen's Own](/chapters/).
+
+Write a 20-page paper on televangelism, and how the miracles shown on a particular show can be explained by mundane means.
+
+AND
+
+Start a local [chapter of Queen's Own](/chapters/).
+
+Write a 20-page paper about urban legends (the Hitchhiking Ghost, Ghost Lights, Kentucky Fried Rat, the Haunted Dormitory, the Lover's Lane Stalker, etc.).
+
+AND
+
+Start a local [chapter of Queen's Own](/chapters/).
+
+These papers will be published in [*The Compass Rose*](/compass-rose/about/).
+
+<img alt="" loading="lazy" src="/barstar.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

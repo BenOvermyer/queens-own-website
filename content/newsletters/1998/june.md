@@ -46,19 +46,13 @@ Coming in October is *Owlsight*, the sequel to *Owlflight*. *Owlsight* is co-aut
 
 "And then Darian returns to Errold's Grove with a small contingent of Hawkbrothers to warn the townsfolk that another tribe of barbarians is approaching their village and advises them to evacuate their homes,. But Keisha and some of the villagers refuse to flee. As a Healer she knows she will be needed if there is bloodshed, and her Gift dictates that she stay, even if it puts her life in jeopardy. Yet how can one small band of Hawkbrothers and two Valdemaran teenagers with partially trained Gifts stand against the destructive might of a barbarian horde?"
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
-<tr>
-<td class="align-left valign-top">
-<h2>Conventrion News</h2>
-<p>
-For you Canadian fans, <b>Toronto Trek 12</b> is July 10-12 at the Regal Constellation Hotel [Ed. note 2005: Out-of-date info withheld.].  Guests include Robert Beltran, Richard Hatch, Anne Lockhart, Jeff Conaway, and Jason Carter.  [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
-<b>Novacon 8</b> is July 25-26 at the Westpark Hotel in Tysons Corner, Virginia.  In addition to Guests Roxann Dawson and Marc Alaimo, there will be a surprise Guest from Babylon 5.  Call [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
-<b>Fantasy Worlds Festival</b> is September 4-6 at the Radisson Hotel Berkeley Marina, Berkeley, Califonria.  GoH is Barbara Hambly, Artist GoH is Alicia Austin.  Membership is limited to 300.  [Ed. note 2005: Out-of-date info withheld.].  Festival begins Friday at 6:30 with a <b>Meet the Guests Party</b>, after which there will be dancing and then filking.  For more information, [Ed. note 2005: Out-of-date info withheld.].
-</p></td>
-</tr>
-</table>
+## Conventrion News
+
+For you Canadian fans, **Toronto Trek 12** is July 10-12 at the Regal Constellation Hotel [Ed. note 2005: Out-of-date info withheld.]. Guests include Robert Beltran, Richard Hatch, Anne Lockhart, Jeff Conaway, and Jason Carter. [Ed. note 2005: Out-of-date info withheld.].
+
+**Novacon 8** is July 25-26 at the Westpark Hotel in Tysons Corner, Virginia. In addition to Guests Roxann Dawson and Marc Alaimo, there will be a surprise Guest from Babylon 5. Call [Ed. note 2005: Out-of-date info withheld.].
+
+**Fantasy Worlds Festival** is September 4-6 at the Radisson Hotel Berkeley Marina, Berkeley, Califonria. GoH is Barbara Hambly, Artist GoH is Alicia Austin. Membership is limited to 300. [Ed. note 2005: Out-of-date info withheld.]. Festival begins Friday at 6:30 with a **Meet the Guests Party**, after which there will be dancing and then filking. For more information, [Ed. note 2005: Out-of-date info withheld.].
 
 ### Local Chapters
 
@@ -82,18 +76,11 @@ For you Canadian fans, <b>Toronto Trek 12</b> is July 10-12 at the Regal Constel
 - Pern--Third Pass Pern: [Ed. note 2005: Out-of-date info withheld.].
 - Lois Bujold can be reached at Imbujold([Ed. note 2005: Out-of-date info withheld.] "The Bujold Nexus" is at [Ed. note 2005: Out-of-date info withheld.].
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-left valign-top"><h2>Collegium News:</h2>
-<p>
+## Collegium News:
+
 Who would you be if you could daydream yourself info Valdemar? Send a SASE to the QO address for a handout for a specific persona--Herald, Healer, Bard. Shin~a'in,.Tacledras, White Winds Sorceressier, Mercenarv. No non-human personas, please.
-</p><p>
-</p><ul>
-<li>Welcome, <b>Sierra K'Treva</b>, Healer-Adept of the Falcon clan. <i>Karen T. Sanders</i> told of Sierra's family and childhood, and of her bondbird and friends. She wrote two poems and an essay on falconry.
-</li></ul>
-</td>
-</tr>
-</table>
+
+- Welcome, **Sierra K'Treva**, Healer-Adept of the Falcon clan. *Karen T. Sanders* told of Sierra's family and childhood, and of her bondbird and friends. She wrote two poems and an essay on falconry.
 
 ## Member News
 
@@ -107,15 +94,9 @@ What's your dream? Ever imagined flying through the air on your very own dragon,
 
 *Sink or Swim* is a booklet intended to help aspiring non-profit zine and newsletter editors. It is compiled of the advice of several editors who have chosen to share their experiences in the world of Fandom. This booklet is produced by Rea Wildfire/Aurora Nelson. If you would like a copy, please send a postcard to [Ed. note 2005: Out-of-date info withheld.] expressing your interest. More information in the next newsletter.
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:25%">
-<tr>
-<td class="align-left valign-top">
-<h2>Fan Messages:</h2>
-<p>
-[Ed. note 2005:  Content withheld.]
-</p></td>
-</tr>
-</table>
+## Fan Messages:
+
+[Ed. note 2005: Content withheld.]
 
 **TEMPEST** shows: (Call to verify performances.)
 
@@ -123,16 +104,11 @@ Friday July 10--Ashland Creek Bar & Grill--9:30 pm [Ed. note 2005: Out-of-date i
 
 For other appearance dates including CALIBAN shows (members of TEMPEST playing acoustic) check the TEMPEST web page: [Ed. note 2005: Out-of-date info withheld.] E-mail can be sent to [Ed. note 2005: Out-of-date info withheld.].
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-left valign-top">
-<h3>Hello from Herald Housemother:</h3>
-<p>
+### Hello from Herald Housemother:
+
 Did you send me a postcard with an Oriental theme? The post of�fice delivered half of one to me in a plastic bag. Unfortunately, it was a half with only my address, nothing else. I have no idea what your message was or even who you are so please write again.
-</p><p>
-Please note that the August mailing date has been changed to a week later because of family plans. The August issue will my last as editor and president. I hope you will be as generous with your friendship and support for Robin as you have for me. Queen's Own has been an important part of my life for over ten years and I plan to continue as a member and contributor. The September issue will be mailed from California!</p></td>
-</tr>
-</table>
+
+Please note that the August mailing date has been changed to a week later because of family plans. The August issue will my last as editor and president. I hope you will be as generous with your friendship and support for Robin as you have for me. Queen's Own has been an important part of my life for over ten years and I plan to continue as a member and contributor. The September issue will be mailed from California!
 
 ## PERSONALS:
 

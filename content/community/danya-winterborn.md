@@ -26,7 +26,26 @@ Terrill Choosing Danya by [Laura Cameron](/pacific-northwest-collegium/)
 
 (Page Revised 7/19/08)
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%"> <tr> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#cchron">Fan Fiction</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#spells">Magic</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#books">Mercedes Lackey's Books</a></td> </tr> <tr> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#rings">Mercedes Lackey Webrings</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#links">Misty Links</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#movie">Movie Project</a></td> </tr> <tr> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/">Queen's Own</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#recipes">Recipes</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#trivia">Trivia</a></td> </tr> </table>
+<table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%">
+<tr>
+<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#cchron">Fan Fiction</a></td>
+<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#spells">Magic</a></td>
+<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#books">Mercedes Lackey's
+Books</a></td>
+</tr>
+<tr>
+<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#rings">Mercedes Lackey
+Webrings</a></td>
+<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#links">Misty Links</a></td>
+<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#movie">Movie Project</a></td>
+</tr>
+<tr>
+<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/">Queen's
+Own</a></td>
+<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#recipes">Recipes</a></td>
+<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#trivia">Trivia</a></td>
+</tr>
+</table>
 
 <img alt="" loading="lazy" src="/barholly.gif"/>
 
@@ -97,23 +116,11 @@ This section is devoted to magic, some of it on Misty's world of Velgarth, some 
 
 Every fandom I've ever been a part of has, at one time or another, had fun with coming up with a "dream" cast to play the characters in beloved books. This endeavor is just for fun and is in no way intended to be serious. As far as I know, the movie rights belong to Misty, and there I imagine they shall remain until a real producer with real money decides to take on the project. The main benefit of this exercise, as I see it, is to compare the visions of characters as the author has managed to create them in our heads with images that we all know from the magical offerings of the big screen that have so enchanted us over the years. This particular version of the project was initiated by the [The Vanyel Fan Club](/vanyel-fan-club/) so the chosen books happen to be from Misty's Herald Mage Trilogy.
 
-<table class="cellpadding-2 cellspacing-2">
-<tr>
-<td class="align-center"></td>
-<td class="align-center"><h3><a href="/dream-casts/magics-pawn/">Dream Cast for <i>Magic's
-Pawn</i></a></h3></td>
-</tr>
-<tr>
-<td class="align-center"><h3><a href="/dream-casts/magics-promise/">Dream Cast for <i>Magic's
-Promise</i></a></h3></td>
-<td class="align-center"></td>
-</tr>
-<tr>
-<td class="align-center"></td>
-<td class="align-center"><h3><a href="/dream-casts/magics-price/">Dream Cast for <i>Magic's
-Price</i></a></h3></td>
-</tr>
-</table>
+### [Dream Cast for *Magic's Pawn*](/dream-casts/magics-pawn/)
+
+### [Dream Cast for *Magic's Promise*](/dream-casts/magics-promise/)
+
+### [Dream Cast for *Magic's Price*](/dream-casts/magics-price/)
 
 In The Valdemar Companion Misty registers her own votes for the Dream Cast list for her works. Here are her choices:
 
@@ -219,23 +226,13 @@ If you know of a link you would like me to add, message me at [Legend@malcor.com
 
 The following webrings are Valdemar-related.
 
-<table class="border-5 cellpadding-2 cellspacing-2 table-align-center" style="width:50%">
-<tr>
-<td class="align-center valign-middle" style="width:20%">
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a></td>
-<td class="align-center valign-middle" style="width:60%">
-This<br/>
-<a href="/club-webring/">Queen's Own</a><br/>
-site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;prev5">Previous 5 Sites</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;prev">Previous</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;next">Next</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;next5">Next 5 Sites</a><br/>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;random">Random Site</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;list">List Sites</a>]</p></td>
-<td class="align-center valign-middle" style="width:20%">
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a></td>
-</tr>
-</table>
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a>
+
+This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:Legend@malcor.com).
+
+[[Previous 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;prev5) | [Previous](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;prev) | [Next](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;next) | [Next 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;next5) | [Random Site](http://www.webring.org/cgi-bin/webring?ring=qsown;random) | [List Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;list)]
+
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a>
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -249,17 +246,11 @@ This site is part of the [Heraldic Circle](http://www.geocities.com/Area51/Vault
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<table class="border-1 cellpadding-3 cellspacing-3">
-<tr><td>
+<a href="http://hometown.aol.com/wntercloud/myhomepage/index.html"><img alt="" class="float-right" loading="lazy" src="http://www.angelfire.com/md2/BladeLibrary/falcon.gif" style="height:200px"/></a> This [Misty Alliance](http://hometown.aol.com/wntercloud/myhomepage/index.html) site is owned by [L.A. Malcor](mailto:Legend@malcor.com).
 
-<a href="http://hometown.aol.com/wntercloud/myhomepage/index.html"><img alt="" class="float-right" loading="lazy" src="http://www.angelfire.com/md2/BladeLibrary/falcon.gif" style="height:200px"/></a>
- This <a href="http://hometown.aol.com/wntercloud/myhomepage/index.html">Misty
- Alliance</a> site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>
- [<a href="http://www.bravenet.com/freelink/show.php?usernum=176813191">List
- Sites</a>]</p><p>
- Want to join <a href="http://hometown.aol.com/wntercloud/myhomepage/index.html">Misty
- Alliance</a>?<br/>
-</p></td></tr></table>
+[[List Sites](http://www.bravenet.com/freelink/show.php?usernum=176813191)]
+
+Want to join [Misty Alliance](http://hometown.aol.com/wntercloud/myhomepage/index.html)?
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 

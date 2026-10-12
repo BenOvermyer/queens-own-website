@@ -45,7 +45,9 @@ defined in `static/css/site.css`, and moves one-off dimensions to inline styles.
 **HTML → Markdown.** `scripts/html_to_markdown.py` converts each page body to
 Markdown: headings, paragraphs, lists, blockquotes, `<hr>`, emphasis, and links
 become Markdown; `<div>`, `<center>`, and presentational wrappers are removed;
-`<img>`, image-only links, named anchors, `<table>`, and `<dl>` stay HTML; `<xmp>`
+`<img>`, image-only links, named anchors, `<dl>`, and genuine **data tables** stay
+HTML; **layout tables** (single-column, or cells containing headings/lists) are
+converted to Markdown; `<xmp>`
 becomes a fenced code block. PDF links that carry the `__PDF_BASE_URL__` token stay
 HTML because the token is substituted after Markdown rendering. `markup_normalize`
 runs the whole sequence over existing content, and both importers (`migrate.py`,
@@ -60,8 +62,8 @@ These are reported but are not structural errors.
 
 | Rule | Occurrences | Files | Disposition |
 | --- | ---: | ---: | --- |
-| `table_without_header` | 149 | 62 | Editorial: most are genuine data tables with no header row (recipe ingredient lists, schedule grids); adding `<th>` automatically would corrupt data. |
-| `nested_table` | 2 | 2 | Acceptable: a webring badge and one nested data table; retained. |
+| `table_without_header` | 83 | 41 | Editorial: most are genuine data tables with no header row (recipe ingredient lists, schedule grids); adding `<th>` automatically would corrupt data. |
+| `nested_table` | 1 | 1 | Acceptable: one nested data table; retained. |
 
 Every image carries an `alt` attribute (many are intentionally empty decorative
 spacers), and no migrated image lacks `src`; unavailable-image placeholders use

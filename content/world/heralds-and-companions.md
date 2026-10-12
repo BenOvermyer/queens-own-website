@@ -20,66 +20,81 @@ canonical_path = "/heralds-and-companions/"
 
 Here are lists of Heralds and Companions mentioned in the various books of Misty's Valdemar series. The Herald's name comes first; the second name is that of the Companion. The codes that follow the names tell which book mentions the pair. The codes are:
 
-<table class="border-1 cellpadding-2 cellspacing-1">
-<tr>
-<td>AFa</td>
-<td>Arrow's Fall</td>
-<td>Of</td>
-<td>Owlflight</td>
-</tr>
-<tr>
-<td>AFl</td>
-<td>Arrow's Flight</td>
-<td>Os</td>
-<td>Owlsight</td>
-</tr>
-<tr>
-<td>AQ</td>
-<td>Arrows of the Queen</td>
-<td>SB</td>
-<td>Storm Breaking</td>
-</tr>
-<tr>
-<td>BB</td>
-<td>BBrightly Burning</td>
-<td>SI</td>
-<td>Sword of Ice: And Other Tales of Valdemar</td>
-</tr>
-<tr>
-<td>BS</td>
-<td>By the Sword</td>
-<td>SR</td>
-<td>Storm Rising</td>
-</tr>
-<tr>
-<td>MPa</td>
-<td>Magic's Pawn</td>
-<td>SW</td>
-<td>Storm Warning</td>
-</tr>
-<tr>
-<td>MPri</td>
-<td>Magic's Price</td>
-<td>WC</td>
-<td>Winds of Change</td>
-</tr>
-<tr>
-<td>MPro</td>
-<td>Magic's Promise</td>
-<td>WFa</td>
-<td>Winds of Fate</td>
-</tr>
-<tr>
-<td>Obo</td>
-<td>The Oathbound</td>
-<td>WFu</td>
-<td>Winds of Fury</td>
-</tr>
-<tr>
-<td>Obr</td>
-<td>Oathbreakers</td>
-</tr>
-</table>
+AFa
+
+Arrow's Fall
+
+Of
+
+Owlflight
+
+AFl
+
+Arrow's Flight
+
+Os
+
+Owlsight
+
+AQ
+
+Arrows of the Queen
+
+SB
+
+Storm Breaking
+
+BB
+
+BBrightly Burning
+
+SI
+
+Sword of Ice: And Other Tales of Valdemar
+
+BS
+
+By the Sword
+
+SR
+
+Storm Rising
+
+MPa
+
+Magic's Pawn
+
+SW
+
+Storm Warning
+
+MPri
+
+Magic's Price
+
+WC
+
+Winds of Change
+
+MPro
+
+Magic's Promise
+
+WFa
+
+Winds of Fate
+
+Obo
+
+The Oathbound
+
+WFu
+
+Winds of Fury
+
+Obr
+
+Oathbreakers
 
 SS = "Stolen Silver" (a short story about Alberich) &#42; = Grove-Born Companion
 

@@ -10,8 +10,9 @@ Rules:
 * ``<a>`` with an ``href`` becomes a Markdown link, except an image-only link, which
   stays HTML; a named anchor with no ``href`` stays HTML so fragment targets survive;
 * ``<img>`` stays HTML;
-* ``<table>`` and ``<dl>`` stay HTML (no Markdown equivalent), with presentational
-  wrappers removed;
+* ``<table>`` stays HTML when it is a genuine data table (consistent multi-column rows
+  with inline cells); a layout table (single-column or block-containing cells) is
+  converted to Markdown. ``<dl>`` stays HTML;
 * ``<xmp>`` becomes a fenced code block;
 * a ``<br>`` becomes a soft line break (joined text), and Markdown metacharacters in
   text are escaped with entities rather than backslashes.
@@ -131,9 +132,9 @@ def _list_item(item):
             continue
         if isinstance(child, NavigableString):
             buffer.append(_escape(str(child)))
-        elif child.name in BLOCK_TAGS:
+        elif child.name in BLOCK_TAGS or (child.name in WRAPPER_TAGS and child.find(LAYOUT_BLOCK_TAGS)):
             flush()
-            block = _block(child)
+            block = _block(child) if child.name in BLOCK_TAGS else _render(child)
             if block.strip():
                 parts.append(block)
         else:
@@ -176,6 +177,31 @@ def _list(element):
     return '\n'.join(lines)
 
 
+LAYOUT_BLOCK_TAGS = {'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'ul', 'ol', 'dl', 'table', 'blockquote', 'pre'}
+
+
+def _is_data_table(table):
+    """A genuine data table has consistent multi-column rows and no block-level cells."""
+    rows = table.find_all('tr')
+    if not rows:
+        return False
+    counts = [len(row.find_all(['td', 'th'], recursive=False)) for row in rows]
+    if min(counts) < 2 or len(set(counts)) > 1:
+        return False
+    return not any(cell.find(LAYOUT_BLOCK_TAGS) for cell in table.find_all(['td', 'th']))
+
+
+def _layout_table(table):
+    """Render a layout table's cells as Markdown blocks in document order."""
+    blocks = []
+    for row in table.find_all('tr'):
+        for cell in row.find_all(['td', 'th'], recursive=False):
+            rendered = _render(cell)
+            if rendered.strip():
+                blocks.append(rendered)
+    return '\n\n'.join(blocks)
+
+
 def _block(element):
     name = element.name
     if name == 'p':
@@ -186,7 +212,9 @@ def _block(element):
         return '---'
     if name in ('pre', 'xmp'):
         return _code_block(element)
-    if name in ('table', 'dl'):
+    if name == 'table':
+        return _html(element) if _is_data_table(element) else _layout_table(element)
+    if name == 'dl':
         return _html(element)
     if name in ('ul', 'ol'):
         return _list(element)
@@ -220,6 +248,11 @@ def _render(container):
         elif child.name in BLOCK_TAGS:
             flush()
             block = _block(child)
+            if block.strip():
+                blocks.append(block)
+        elif child.name in WRAPPER_TAGS and child.find(LAYOUT_BLOCK_TAGS):
+            flush()
+            block = _render(child)
             if block.strip():
                 blocks.append(block)
         else:

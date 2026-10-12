@@ -29,17 +29,11 @@ Distributed by:
 
 All Healers have Healing and Empathy. Determine the nature of each Gift by rolling a six-sided die. Healer's honor applies; what you roll is what you get.
 
-<table>
-<tr>
-<td>1 = low strength Gift</td>
-</tr>
-<tr>
-<td>2 - 5 = normal strength Gift</td>
-</tr>
-<tr>
-<td>6 = very strong Gift</td>
-</tr>
-</table>
+1 = low strength Gift
+
+2 - 5 = normal strength Gift
+
+6 = very strong Gift
 
 <img alt="" loading="lazy" src="/barholly.gif"/>
 

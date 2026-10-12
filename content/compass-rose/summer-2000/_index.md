@@ -27,80 +27,50 @@ ISSN [Pending]
 
 ---
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<th class="align-left valign-middle"><h2><a href="/compass-rose/summer-2000/editorial/">A Letter from the Editor</a></h2></th>
-</tr>
-<tr>
-<td class="align-left valign-middle"><h2>Articles</h2>
-<ul>
-<li><h2><a href="/compass-rose/summer-2000/from-reptile-to-mammal/">From Reptile to Mammal:
-Evolution of Early Mammals</a></h2>
-by Katharine A. Knafelc, Ambridge, PA
-<p>
-Abstract:  A study of the evolution of early mammals.
-</p><p>
-</p></li><li><h2><a href="/compass-rose/summer-2000/in-the-name-of-god/">In the Name of God</a></h2>
-by Linda A. Malcor, Aliso Viejo, CA
-<p>
-Abstract:  A survey of the Crusades from the Christian point of view, this essay was written as part of the requirements for the rank of Herald-Mage, Master, in Queen's Own, the Official Mercedes Lackey Fan Club.</p><p>
-</p></li><li><h2><a href="/compass-rose/summer-2000/sink-or-swim/">Excerpts from <i>Sink or Swim</i></a></h2>
-by Aurora Nelson, Pleasanton, California
-<p>
-Abstract: I've put this together in an attempt to increase the number of 'zines and newsletters that stay afloat.
-</p><p>
-</p></li><li><h2><a href="/compass-rose/summer-2000/either-or/">Either Or</a></h2>
-by Kendra Renaud, Great Falls, Montanna
-<p>
-Abstract:  A discussion of the concept of bisexuality.  [Warning: Because of the nature of this topic, some of the material in this paper may be deemed unsuitable for children to read. Discretion is advised.]<p>
-</p><p>
-</p></p></li></ul>
-</td>
-</tr>
-<tr>
-<td class="align-left valign-middle"><h2><a href="/compass-rose/summer-2000/reviews/">Reviews</a></h2>
-<p>
-</p><h2><a href="/compass-rose/summer-2000/reviews/#cd">CD</a></h2>
-<p>
-</p><ul>
-<li><h3><a href="/compass-rose/summer-2000/reviews/#roundworm">Roundworm</a></h3>
-</li></ul>
-<p>
-</p><h2><a href="/compass-rose/summer-2000/reviews/#fiction">Fiction</a></h2>
-<p>
-</p><ul>
-<li><h3><a href="/compass-rose/summer-2000/reviews/#bb">Brightly Burning</a></h3>
-</li></ul>
-<p>
-</p><h2><a href="/compass-rose/summer-2000/reviews/#film">Film</a></h2>
-<p>
-</p><ul>
-<li><h3><a href="/compass-rose/summer-2000/reviews/#g">Gladiator</a></h3>
-</li></ul>
-<p>
-</p><h2><a href="/compass-rose/summer-2000/reviews/#nonfiction">Nonfiction</a></h2>
-<p>
-</p><ul>
-<p>
-</p><li><h3><a href="/compass-rose/summer-2000/reviews/#comic">Comic Book Culture</a></h3><p>
-</p></li><li><h3><a href="/compass-rose/summer-2000/reviews/#sf20">Science Fiction of the 20th Century</a></h3>
-</li></ul>
-<p>
-</p><h2><a href="/compass-rose/summer-2000/reviews/#ren">Renaissance Faires</a></h2>
-<p>
-</p><ul>
-<li><h3><a href="/compass-rose/summer-2000/reviews/#smren">Smaller Renaissance Faires</a></h3>
-</li></ul>
-<p>
-</p><h2><a href="/compass-rose/summer-2000/reviews/#video">Video</a></h2>
-<p>
-</p><ul>
-<li><h3><a href="/compass-rose/summer-2000/reviews/#gq">Galaxy Quest</a></h3>
-</li></ul>
-<p>
-</p></td>
-</tr>
-</table>
+## [A Letter from the Editor](/compass-rose/summer-2000/editorial/)
+
+## Articles
+
+- ## [From Reptile to Mammal: Evolution of Early Mammals](/compass-rose/summer-2000/from-reptile-to-mammal/)
+  by Katharine A. Knafelc, Ambridge, PA
+  Abstract: A study of the evolution of early mammals.
+- ## [In the Name of God](/compass-rose/summer-2000/in-the-name-of-god/)
+  by Linda A. Malcor, Aliso Viejo, CA
+  Abstract: A survey of the Crusades from the Christian point of view, this essay was written as part of the requirements for the rank of Herald-Mage, Master, in Queen's Own, the Official Mercedes Lackey Fan Club.
+- ## [Excerpts from *Sink or Swim*](/compass-rose/summer-2000/sink-or-swim/)
+  by Aurora Nelson, Pleasanton, California
+  Abstract: I've put this together in an attempt to increase the number of 'zines and newsletters that stay afloat.
+- ## [Either Or](/compass-rose/summer-2000/either-or/)
+  by Kendra Renaud, Great Falls, Montanna
+  Abstract: A discussion of the concept of bisexuality. [Warning: Because of the nature of this topic, some of the material in this paper may be deemed unsuitable for children to read. Discretion is advised.]
+
+## [Reviews](/compass-rose/summer-2000/reviews/)
+
+## [CD](/compass-rose/summer-2000/reviews/#cd)
+
+- ### [Roundworm](/compass-rose/summer-2000/reviews/#roundworm)
+
+## [Fiction](/compass-rose/summer-2000/reviews/#fiction)
+
+- ### [Brightly Burning](/compass-rose/summer-2000/reviews/#bb)
+
+## [Film](/compass-rose/summer-2000/reviews/#film)
+
+- ### [Gladiator](/compass-rose/summer-2000/reviews/#g)
+
+## [Nonfiction](/compass-rose/summer-2000/reviews/#nonfiction)
+
+- 
+- ### [Comic Book Culture](/compass-rose/summer-2000/reviews/#comic)
+- ### [Science Fiction of the 20th Century](/compass-rose/summer-2000/reviews/#sf20)
+
+## [Renaissance Faires](/compass-rose/summer-2000/reviews/#ren)
+
+- ### [Smaller Renaissance Faires](/compass-rose/summer-2000/reviews/#smren)
+
+## [Video](/compass-rose/summer-2000/reviews/#video)
+
+- ### [Galaxy Quest](/compass-rose/summer-2000/reviews/#gq)
 
 ## Instructions for Navigating this Issue
 

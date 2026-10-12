@@ -31,17 +31,11 @@ Thank you for your interest in Queen's Own!
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<table class="cellspacing-2">
-<tr>
-<td><img alt="" loading="lazy" src="/ball.gif"/> <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;edit">Edit Your Site Information</a><p> </p><p></p></td>
-</tr>
-<tr>
-<td><img alt="" loading="lazy" src="/ball.gif"/> <a href="/webring-code/">Get HTML</a><p> </p><p></p></td>
-</tr>
-<tr>
-<td><img alt="" loading="lazy" src="/ball.gif"/> <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;index">View the Sites in the Ring</a><p> </p><p></p></td>
-</tr>
-</table>
+<img alt="" loading="lazy" src="/ball.gif"/> [Edit Your Site Information](http://www.webring.org/cgi-bin/webring?ring=qsown;edit)
+
+<img alt="" loading="lazy" src="/ball.gif"/> [Get HTML](/webring-code/)
+
+<img alt="" loading="lazy" src="/ball.gif"/> [View the Sites in the Ring](http://www.webring.org/cgi-bin/webring?ring=qsown;index)
 
 <table>
 <tr>

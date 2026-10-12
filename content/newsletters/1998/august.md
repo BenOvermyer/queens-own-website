@@ -48,25 +48,19 @@ After the MArch 1990 issue my partner went on to other interests and QO became c
 
 The club continued to grow, as did the number of local chapters, zines, and Collegium entrants. In December 1990 archivist Patricia Riggs reported that we had 62 Heralds, 1 Shin'a'in scout, 1 White Winds Sorceress, and 2 Bards. We had members in Australia, Bermuda, Canada, Englang, Germany, Ireland, Japan, the Philippines, Scotland, and every state of the US.
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
-<tr>
-<td class="align-left valign-top">
-<h3>Local Chapters:</h3>
-<p>
-<b>Arrows Online</b> [Ed. note 2005:  Out-of-date info withheld.].
-</p><p>
-<b>Austral'a'in</b>--For more information, write to Cassandra Vuksa [Ed. note 2005:  Out-of-date info withheld.].
-</p><p>
-<b>Companion's Choice</b>--Shanara Ravensong [Ed. note 2005:  Out-of-date info withheld.].
-</p><p>
-<b>The Herald's Companion</b>--Herald's Companion c/o Karen Bertke [Ed. note 2005:  Out-of-date info withheld.].
-</p><p>
-<b>The Messenger</b>--Joanne Thwaites [Ed. note 2005:  Out-of-date info withheld.].
-</p><p>
-<b>Pacific Northwest Collegium</b>--c/o Laura Cameron/Moonglade K'Shena [Ed. note 2005:  Out-of-date info withheld.].
-</p></td>
-</tr>
-</table>
+### Local Chapters:
+
+**Arrows Online** [Ed. note 2005: Out-of-date info withheld.].
+
+**Austral'a'in**--For more information, write to Cassandra Vuksa [Ed. note 2005: Out-of-date info withheld.].
+
+**Companion's Choice**--Shanara Ravensong [Ed. note 2005: Out-of-date info withheld.].
+
+**The Herald's Companion**--Herald's Companion c/o Karen Bertke [Ed. note 2005: Out-of-date info withheld.].
+
+**The Messenger**--Joanne Thwaites [Ed. note 2005: Out-of-date info withheld.].
+
+**Pacific Northwest Collegium**--c/o Laura Cameron/Moonglade K'Shena [Ed. note 2005: Out-of-date info withheld.].
 
 News in the October 1991 issue concerned Misty and Larry's new home. Larry described the transaction: "The closing went smoothly. To insure it would be fun for all, Misty went in a black suede skirt and blue satin and lace top, with her Aussie Digger hat, and I arrived in a white tux-and-tails. The paperwork took about half an hour, and the jokes lasted another half an hour. The moving has begun! And yes, for those wondering, I did wear my black sequined shoes." Their new home is known as the weirdest house in Oklahoma. It began life as a concrete dome (single piece, not geodesic); it then acquired an octagonal wooden shell, raising it from 2-1/2 stories tall to 5-1/2 stories tall, where it looms over the countryside. Misty &a,p; Larry call it hte "Eerie Aerie."
 
@@ -88,17 +82,11 @@ Fan mail startled her, too. She wrote "I was amazed and flattered no end by the 
 
 Yes, Misty, you are definitely something. Something very special that brings out the best of your readers and allows them to be special, too.
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
-<tr>
-<td class="align-left valign-top">
-<h2>Convention News:</h2>
-<p>
-Fantasy Worlds Festival is September 4-6 in Berkeley, California.  GoH is Barbara Hambly, Artist GoH is Alicia Austin.  Marion Zimmer Bradley will attend if her health permits.  Membership is limited to 300 and costs [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
-Josepha Sherman will be Guest of Honor at EerieCon 1 April 16-18, 1999 (Yes, that's NEXT year) in Niagra Falls, New York.  [Ed. note 2005: Out-of-date info withheld.].  THe hotel is Fallsview Resort; [Ed. note 2005: Out-of-date info withheld.].  This is an ideal con for anyone new to fandom.  You can bring your gamily and sightsee, too.
-</p></td>
-</tr>
-</table>
+## Convention News:
+
+Fantasy Worlds Festival is September 4-6 in Berkeley, California. GoH is Barbara Hambly, Artist GoH is Alicia Austin. Marion Zimmer Bradley will attend if her health permits. Membership is limited to 300 and costs [Ed. note 2005: Out-of-date info withheld.].
+
+Josepha Sherman will be Guest of Honor at EerieCon 1 April 16-18, 1999 (Yes, that's NEXT year) in Niagra Falls, New York. [Ed. note 2005: Out-of-date info withheld.]. THe hotel is Fallsview Resort; [Ed. note 2005: Out-of-date info withheld.]. This is an ideal con for anyone new to fandom. You can bring your gamily and sightsee, too.
 
 Queen's Own has been my introduction to new friends and new experiences, Ren Faires, conventions, zines, filk--these were all unknown to me before QO. Pen pals? I was too old for such nonsense, I thought. My thanks to all of you for making me feel young again, for letting me be your Housemother, and for sharing so much of your lives with me. Please be as generous and supportive of Robin. I hope you'll keep in touch--Love, Judith.
 
@@ -108,26 +96,14 @@ Firebird Arts and Music carries all of Misty's books and lots of other merchandi
 
 Firebird is sharing a building with Vacation RV. Teri says, "Come visit and if you need car, truck or RV repairs, talk to Chris or Dan."
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-left" style="width:35%">
-<tr>
-<td class="align-left valign-top">
-<h2>Other Fandoms</h2>
-<p>
-</p><ul>
-<li>Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
-<p>
-</p></li><li>Doctor Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.]. Dues are $12 ($22 for first class postage) for their monthly newsletter, <i>The Prydonian Renegade</i>.
-<p>
-</p></li><li>Tanya Huff--NINE ABOVE! [Ed. note 2005: Out-of-date info withheld.].
-<p>
-</p></li><li>Anne McCaffrey/Pern: [Ed. note 2005: Out-of-date info withheld.].
-<p>
-</p></li><li>Lois Bujold can be reached at [Ed. note 2005: Out-of-date info withheld.] "The Bujold Nexus" is at [Ed. note 2005: Out-of-date info withheld.].  For a sample of the Dendarii Dispatch and information of Lois's fan club, send a SASE to [Ed. note 2005: Out-of-date info withheld.].
-<p>
-</p></li><li>Pandemonium--the official Melanie Rawn club invites you to join their ranks.  SASE for more information:  [Ed. note 2005: Out-of-date info withheld.].
-</li></ul></td>
-</tr>
-</table>
+## Other Fandoms
+
+- Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
+- Doctor Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.]. Dues are $12 ($22 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
+- Tanya Huff--NINE ABOVE! [Ed. note 2005: Out-of-date info withheld.].
+- Anne McCaffrey/Pern: [Ed. note 2005: Out-of-date info withheld.].
+- Lois Bujold can be reached at [Ed. note 2005: Out-of-date info withheld.] "The Bujold Nexus" is at [Ed. note 2005: Out-of-date info withheld.]. For a sample of the Dendarii Dispatch and information of Lois's fan club, send a SASE to [Ed. note 2005: Out-of-date info withheld.].
+- Pandemonium--the official Melanie Rawn club invites you to join their ranks. SASE for more information: [Ed. note 2005: Out-of-date info withheld.].
 
 If you can't visit Portland, visit the Firebird website at [Ed. note 2005: Out-of-date info withheld.]. If you want a "real" catalog, [Ed. note 2005: Out-of-date info withheld.]. Firebird does not answer inquiries from prison addresses.
 
@@ -147,22 +123,17 @@ Stamps for Life is still collecting used postage stamps from all countries but h
 
 [Ed. note 2005: Content withheld.]
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-center valign-top">
-The next newsleeter you receive will have a new name, new logo, new editor and a new<br/>
-mailing address.
-<p>
-Watch for<br/>
-</p><h2>Merging of the Ways</h2><br/>
+The next newsleeter you receive will have a new name, new logo, new editor and a new mailing address.
+
+Watch for
+
+## Merging of the Ways
+
 [Ed. note 2005: Out-of-date info withheld.]
-<p>
+
 Coming in September!
-</p><p>
+
 All news, ads, messages, personals, etc. shouldbe sent to the Winnetka address.
-</p></td>
-</tr>
-</table>
 
 <img alt="Border Art" class="float-right" loading="lazy" src="/qo285.jpg"/>
 

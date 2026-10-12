@@ -46,38 +46,25 @@ Thanks to everyone who sent greetings and holiday cards. Everyone here loved the
 
 <img alt="Robin, Jason, Alara and Misty" class="float-left border-2" loading="lazy" src="/qo183.jpg"/>
 
-<table class="border-5 cellpadding-2 cellspacing-2 table-align-right">
-<tr>
-<td class="align-left valign-middle">Happy Holidays<br/> and Y2K, too!</td>
-</tr>
-</table>
+Happy Holidays and Y2K, too!
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-left valign-top" rowspan="2">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268.
-To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
-<p>
-Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.
-</p></td>
-<td class="align-left valign-top">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at <a href="mailto:tempest_rock@hotmail.com">tempest_rock@hotmail.com</a>.
-</td></tr>
-<tr>
-<td class="align-left valign-top">[Ed. note 2002:  Old text replaced with:  "For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
-".]
-</td>
-</tr>
-<tr>
-<td class="align-left valign-top"><b>Flights of Fantasy</b> [Ed. note 2002:  Old contact information withheld.] specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002:  Old contact information withheld.]. Webpage <a href="http://www.fof.net">http://www.fof.net</a>, E-mail: <a href="mailto:fof@albany.net">fof@albany.net</a>. Flights of Fantasy accepts orders from inmates.
-</td>
-<td class="align-left valign-top"><i>Sink or Swim</i> is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: <a href="mailto:temarrea@Yahoo.com ">temarrea@Yahoo.com</a>, or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002:  Address withheld.].
-</td>
-</tr>
-<tr>
-<td class="align-left valign-top">Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&amp;W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002:  Ellen Million Graphics can now be found at <a href="http://www.ellenmilliongraphics.com">http://www.ellenmilliongraphics.com</a>.]. (Dealer inquiries welcome)
-</td>
-<td class="align-left valign-top">Future mailing dates for the Newsletter:
-<p>
-</p><dl>
+Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds & Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at [http://firebirdarts.com](http://firebirdarts.com). If you want a "real" catalog, send $3 to Firebird Arts & Music, PO Box 3068, Portland OR 97294-3268. To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
+
+Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: [firebird@firebirdarts.com](mailto:firebird@firebirdarts.com).
+
+For news about TEMPEST, visit their web page [http://darkmoon.simplenet.com/tempest](http://darkmoon.simplenet.com/tempest). You can send e-mail to Lief and the other band members at [tempest_rock@hotmail.com](mailto:tempest_rock@hotmail.com).
+
+[Ed. note 2002: Old text replaced with: "For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652. Make checks payable to "Linda Malcor" in US funds only. ".]
+
+**Flights of Fantasy** [Ed. note 2002: Old contact information withheld.] specializes in new and used science fiction & fantasy, mystery & suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002: Old contact information withheld.]. Webpage [http://www.fof.net](http://www.fof.net), E-mail: [fof@albany.net](mailto:fof@albany.net). Flights of Fantasy accepts orders from inmates.
+
+*Sink or Swim* is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: [temarrea@Yahoo.com](mailto:temarrea@Yahoo.com), or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002: Address withheld.].
+
+Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002: Ellen Million Graphics can now be found at [http://www.ellenmilliongraphics.com](http://www.ellenmilliongraphics.com).]. (Dealer inquiries welcome)
+
+Future mailing dates for the Newsletter:
+
+<dl>
 <dt><b>January 29, 2000</b></dt>
 <dd>The deadline for submission is January 10, 2000.<p></p></dd>
 <dt><b>March 18, 2000</b></dt>
@@ -97,165 +84,85 @@ Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date 
 <dt><b>January 27, 2001</b></dt>
 <dd>The deadline for submission is January 5, 2001.<p></p></dd>
 </dl>
-</td>
-</tr>
-</table>
 
 <img alt="Doves" class="float-right" loading="lazy" src="/qo186.jpg"/>With all of the artwork, I have colorized or in same way altered the original. Ellen's work I made lighter so that it would appear to be a watermark. Herald Alora and Aubrey's work I shaded in blue. If for any reason you do not like what I have done, I solely take blame. The artwork, in my humble opinion, was worthy all on its own merit. I only changed what I felt was necessary to bring it all to a whole. Thanks to all the wonderful artists.
 
 This is the runner up. Aubrey Smith did this wonderful piece of work. Many thanks to the few who entered this contest.
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-left valign-middle">
-<h2>LOCAL CHAPTERS</h2>
-<p>
-</p><p>
-</p><ul>
-<li><b>Arrows OnLine</b> - To find Arrows OnLine on America OnLine, follow these directions: Keyword: books. Click on
-Chat &amp; Messages. The next window you see will have a scroll down box on the left side, scroll down until you see
-MERCEDES LACKEY. Once on the page, go to the listbox for MESSAGE BOARDS. Select: MERCEDES LACKEY FANDOM and there you are! For an Orientation Kit, meeting info, information on the chapter Fanzine and more, email [Ed. Note 2002:  Addresses withheld] and they�ll be there to help. <p>
-</p></li><li><b>Austral�a�in</b>, C/O Cassandra Vuksa PO Box 1850, Woden ACT 2606 AUSTRALIA . You get eight issues a year, of
-eight pages each. The costs are, for Australians, $8 a year or 8 x 45 cent stamps. For people overseas $12 Australian
-or 15 IRC�s.<p>
-</p></li><li><b>Companion�s Choice:</b> Emily Watts 3619 Mary Circle Ames IA 50014-3501.<p>
-</p></li><li><b>The Herald�s Companion</b> - Herald�s Companion C/O Karen Bertke 5694 Scarborough Drive Cincinnati OH
-45238.<p>
-</p></li><li><b>Pacific Northwest Collegium</b> - C/O Laura Cameron/Moonglade K�Shena [Ed. Note 2002:  Address withheld.]<p>
-</p></li><li><b>The Vales</b> is a yearly zine. Kendra Renaud,[Ed. Note 2002:  Address withheld; no longer published.]<p>
-</p></li><li><b>On The Wing</b> costs $2.00, and is nearly 20 pages in length. This zine is completely dedicated to the Tayledras. I
-am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002:  Address withheld; no longer published.]<p>
-</p></li><li><b>Golden Grove</b> , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld.  See new info at <a href="/golden-grove/">/golden-grove/</a>.<p>
-</p></li><li><b>Sonoran Collegium</b> is currently organizing itself!  Although we are geographically in Southern Arizona, all are welcome here!  The 'zine will be published bi-monthly, and dues are currently $4 US or 6 IRC's elsewhere.  If you are interested, please send SASE to us at: [Ed. note 2002: Out-of-date Address withheld.]
-</li></ul></td>
-</tr>
-</table>
+## LOCAL CHAPTERS
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-left valign-middle">
-<h2>Updated List of Misty Books--As of December 1999:</h2>
-<p>
-</p><h3>The World of Velgarth:  (Listed in historical order)</h3>
-<p>
-<b>The Mage Wars Series:</b><br/>
-<i>The Black Gryphon</i><br/>
-<i>The White Gryphon</i><br/>
-<i>The Silver Gryphon</i>
-</p><p>
-<b>The Heralds of Valdemar Series:</b><br/>
-<i>Arrows of the Queen</i><br/>
-<i>Arrow's Flight</i><br/>
-<i>Arrow's Fall</i>
-</p><p>
-<b>The Last Herald Mage Series:</b><br/>
-<i>Magic's Pawn</i><br/>
-<i>Magic's Promise</i><br/>
-<i>Magic's Price</i>
-</p><p>
-<b>Vows and Honor Series:</b><br/>
-<i>Oathbound</i><br/>
-<i>Oathbreakers</i><br/>
-<i>Oathblood</i>
-</p><p>
-<i>By the Sword</i>
-</p><p>
-<b>The Mage Winds Series:</b><br/>
-<i>Winds of Fate</i><br/>
-<i>Winds of Change</i><br/>
-<i>Winds of Fury</i>
-</p><p>
-<b>The Mage Storms Series:</b><br/>
-<i>Storm Warning</i><br/>
-<i>Storm Rising</i><br/>
-<i>Storm Breaking</i>
-</p><p>
-<i>OwlFlight</i><br/>
-<i>OwlSight</i><br/>
-<i>OwlKnight</i>
-</p><p>
-</p><h3>Diana Tregarde Series:</h3>
-<p>
-<i>Burning Water</i><br/>
-<i>Children of the Night</i><br/>
-<i>Jinx High</i><br/>
-*There will be no more Diana Tregarde books.
-</p><p>
-</p><h3>Bardic Voices Series:</h3>
-<p>
-<i>The Lark and the Wren</i><br/>
-<i>The Robin and the Kestrel</i><br/>
-<i>The Eagle and the Nightengales</i><br/>
-<i>Free Bards</i>: Includes all of the above titles of <i>Bardic Voices</i>.<br/>
-<i>Four and Twenty Black Birds</i>
-</p><p>
-<i>Brightly Burning</i>
-</p><p>
-</p><h3>Bardic Choices:</h3>
-<p>
-<i>A Cast of Corbies</i>, with Josepha Sherman
-</p><p>
-</p><h3>Fairy Tales Retold:</h3>
-<p>
-<i>The Fire Rose</i><br/>
-<i>The Black Swan</i><br/>
-<i>Gates of Sleep</i> (NRD).<br/>
-<i>Phoenix and Ashes</i> (NRD).<br/>
-<i>The Serpent's Shadow</i> (NRD).
-</p><p>
-<i>Sacred Ground</i>
-</p><p>
-</p><h3>Collaborations:</h3>
-<p>
-<b>With Ellen Guon:</b><br/>
-<i>Knight of Ghosts and Shadows</i><br/>
-<i>Summoned ot Tourney</i><br/>
-<i>Beyond World's End</i> (NRD).
-</p><p>
-<i>Wing Commander: Freedom Flight</i>
-</p><p>
-<b>The SERRAted Edge Series:</b><br/>
-<i>Born to Run</i> with Larry Dixon<br/>
-<i>Wheels of Fire</i> with Mark Shepherd<br/>
-<i>When the Bough Breaks</i> with Holly Lisle<br/>
-<i>Chrome Circle</i> with Larry Dixon<br/>
-<i>Tempus Fugit</i> (NRD). [Ed. note 2003: We don't think a book by this title ever came out.  Perhaps the real title is something else.]
-</p><p>
-<i>Reap the Whirlwind</i> with C.J. Cherryh (Book three of the Sword of Knowledge Series)<br/>
-<i>The Elvenbane</i>, <i>Elvenblood</i>, <i>Elvenborn</i> (NRD)., <i>Elven Bred</i> (NRD). with Andre Norton<br/>
-<i>The Bard's Tale</i> (based on the role playing computer game)
-     <i>Castle of Deception</i> with Josepha Sherman<br/>
-     <i>Fortress of Frost and Fire</i> with Run Emerson<br/>
-     <i>Prison of Souls</i> with Mark Shepherd
-</p><p>
-<i>The Ship who Searched</i> with Anne McCaffrey<br/>
-<i>If I Pay Thee Not in Gold</i> with Piers Anthony<br/>
-<i>Rediscovery</i> with Marion Zimmer Bradley<br/>
-<i>Tiger Burning Bright</i> with Andre Norton and Marion Zimmer Bradley
-</p><p>
-</p><h3>Compilations:</h3>
-<p>
-<i>The River's Gift</i><br/>
-<i>Werehunter</i><br/>
-<i>Lammas Night</i><br/>
-<i>Sword of Ice</i><br/>
-<i>Fiddler Fair</i><br/>
-<i>Firebird</i>
-</p><p>
-I have been asked many times to compile these books in the order they were published/written.  I apologize.  I can't.  If someone out there has the time, knowledge and the want to--kindly send me a copy with publication dates.
-</p><p>
+- **Arrows OnLine** - To find Arrows OnLine on America OnLine, follow these directions: Keyword: books. Click on Chat & Messages. The next window you see will have a scroll down box on the left side, scroll down until you see MERCEDES LACKEY. Once on the page, go to the listbox for MESSAGE BOARDS. Select: MERCEDES LACKEY FANDOM and there you are! For an Orientation Kit, meeting info, information on the chapter Fanzine and more, email [Ed. Note 2002: Addresses withheld] and they�ll be there to help.
+- **Austral�a�in**, C/O Cassandra Vuksa PO Box 1850, Woden ACT 2606 AUSTRALIA . You get eight issues a year, of eight pages each. The costs are, for Australians, $8 a year or 8 x 45 cent stamps. For people overseas $12 Australian or 15 IRC�s.
+- **Companion�s Choice:** Emily Watts 3619 Mary Circle Ames IA 50014-3501.
+- **The Herald�s Companion** - Herald�s Companion C/O Karen Bertke 5694 Scarborough Drive Cincinnati OH 45238.
+- **Pacific Northwest Collegium** - C/O Laura Cameron/Moonglade K�Shena [Ed. Note 2002: Address withheld.]
+- **The Vales** is a yearly zine. Kendra Renaud,[Ed. Note 2002: Address withheld; no longer published.]
+- **On The Wing** costs $2.00, and is nearly 20 pages in length. This zine is completely dedicated to the Tayledras. I am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002: Address withheld; no longer published.]
+- **Golden Grove** , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld. See new info at [/golden-grove/](/golden-grove/).
+- **Sonoran Collegium** is currently organizing itself! Although we are geographically in Southern Arizona, all are welcome here! The 'zine will be published bi-monthly, and dues are currently $4 US or 6 IRC's elsewhere. If you are interested, please send SASE to us at: [Ed. note 2002: Out-of-date Address withheld.]
+
+## Updated List of Misty Books--As of December 1999:
+
+### The World of Velgarth: (Listed in historical order)
+
+**The Mage Wars Series:** *The Black Gryphon* *The White Gryphon* *The Silver Gryphon*
+
+**The Heralds of Valdemar Series:** *Arrows of the Queen* *Arrow's Flight* *Arrow's Fall*
+
+**The Last Herald Mage Series:** *Magic's Pawn* *Magic's Promise* *Magic's Price*
+
+**Vows and Honor Series:** *Oathbound* *Oathbreakers* *Oathblood*
+
+*By the Sword*
+
+**The Mage Winds Series:** *Winds of Fate* *Winds of Change* *Winds of Fury*
+
+**The Mage Storms Series:** *Storm Warning* *Storm Rising* *Storm Breaking*
+
+*OwlFlight* *OwlSight* *OwlKnight*
+
+### Diana Tregarde Series:
+
+*Burning Water* *Children of the Night* *Jinx High* &#42;There will be no more Diana Tregarde books.
+
+### Bardic Voices Series:
+
+*The Lark and the Wren* *The Robin and the Kestrel* *The Eagle and the Nightengales* *Free Bards*: Includes all of the above titles of *Bardic Voices*. *Four and Twenty Black Birds*
+
+*Brightly Burning*
+
+### Bardic Choices:
+
+*A Cast of Corbies*, with Josepha Sherman
+
+### Fairy Tales Retold:
+
+*The Fire Rose* *The Black Swan* *Gates of Sleep* (NRD). *Phoenix and Ashes* (NRD). *The Serpent's Shadow* (NRD).
+
+*Sacred Ground*
+
+### Collaborations:
+
+**With Ellen Guon:** *Knight of Ghosts and Shadows* *Summoned ot Tourney* *Beyond World's End* (NRD).
+
+*Wing Commander: Freedom Flight*
+
+**The SERRAted Edge Series:** *Born to Run* with Larry Dixon *Wheels of Fire* with Mark Shepherd *When the Bough Breaks* with Holly Lisle *Chrome Circle* with Larry Dixon *Tempus Fugit* (NRD). [Ed. note 2003: We don't think a book by this title ever came out. Perhaps the real title is something else.]
+
+*Reap the Whirlwind* with C.J. Cherryh (Book three of the Sword of Knowledge Series) *The Elvenbane*, *Elvenblood*, *Elvenborn* (NRD)., *Elven Bred* (NRD). with Andre Norton *The Bard's Tale* (based on the role playing computer game)      *Castle of Deception* with Josepha Sherman      *Fortress of Frost and Fire* with Run Emerson      *Prison of Souls* with Mark Shepherd
+
+*The Ship who Searched* with Anne McCaffrey *If I Pay Thee Not in Gold* with Piers Anthony *Rediscovery* with Marion Zimmer Bradley *Tiger Burning Bright* with Andre Norton and Marion Zimmer Bradley
+
+### Compilations:
+
+*The River's Gift* *Werehunter* *Lammas Night* *Sword of Ice* *Fiddler Fair* *Firebird*
+
+I have been asked many times to compile these books in the order they were published/written. I apologize. I can't. If someone out there has the time, knowledge and the want to--kindly send me a copy with publication dates.
+
 Thanks!
 
-</p></td>
-</tr>
-</table>
+## Stories of Misty's in Anthologies
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-center valign-middle"><h2>Stories of Misty's in Anthologies</h2></td>
-</tr>
-<tr>
-<td>
 <table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
 <td class="align-left valign-top">"A Different Kind of Courage"</td>
@@ -450,28 +357,210 @@ Thanks!
 <td class="align-left valign-top"><i>Lammas Night</i>, ed. by Josepha Sherman</td>
 </tr>
 </table>
-</td>
-</tr>
-</table>
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-left valign-middle"><h2>Other Fandoms</h2>
-<p>
-</p><ul>
-<li><b>Marion Zimmer Bradley�s Fantasy Magazine.</b> Open it up and find stories that transport you from everyday into a magical place populated by fantastic beings and governed by mystical forces. Four issues a year, [Ed. Note 2002:  Old info withheld.]<p>
-</p></li><li><b>Michael Praed</b> - Michael Praed Network Newsletter C/O Kate Raymond PO Box 516 Midlothian IL 60445.<p> </p></li><li><b>Doctor Who and other Media</b> - The Prydonians of Prynceton PO Box 3194 Princeton NJ 08543-3194.  Dues are $12 ($22 for first class postage) for their monthly newsletter, <i>The Prydonian Renegade</i>.<p>
-</p></li><li><b>Tanya Huff</b> - NINE ABOVE! PO Box 204 Brattlenboro, VT 05302-0204.<p>
-</p></li><li><b>Anne McCafffrey/Pern</b> - Contact Weyrleader R�nier at <a href="mailto:dragonfodder@gmail.com">dragonfodder@gmail.com</a> for current information.<p>
-</p></li><li>Adrian Paul of <b>Highlander</b> - Peace APFC PO Box 4593 North Hollywood, CA 91617 or Peace APFC PO Box
-519 Bromley Kent BR2 9WX ENGLAND.<p>
-</p></li><li><b>Lois Bujold</b> can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>. "The Bujold Nexus" is at <a href="http://www.dendarii.com">http://www.dendarii.com</a>. For a sample issue of the Dendarii Dispatch and information of Lois�s fan club, send a SASE to Dendarii Dispatch C/O Kaye Carrasco PO Box 1414 Roswell NM 88202-1414 USA.<p>
-</p></li><li><b>Pandemonium</b> - The official Melanie Rawn club invites you to join their ranks. SASE for more information:
-Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
-</p></li><li><b>Dragonlords of Dumnonia</b> - Contact L.A. Malcor at legend@oxy.edu or visit the website at <a href="http://wwww.dragonlordsnet.com">http://wwww.dragonlordsnet.com</a> for more information.
-</li></ul></td>
-</tr>
-</table>
+"A Different Kind of Courage"
+
+*Free Amazons of Darkover*, ed. by Marion Zimmer Bradley
+
+"Set a Thief"
+
+*Renunciates of Darkover*, ed. by Marion Zimmer Bradley
+
+"Object Lesson"
+
+*Domains of Darkover*, ed. by Marion Zimmer Bradley
+
+"Sword Sworn"
+
+*Sword & Sorceress* III, ed. by Marion Zimmer Bradley
+
+"A Tale of heroes"
+
+*Sword & Sorceress* IV
+
+"Keys"
+
+*Sword & Sorceress* V
+
+"The Making of a Legend"
+
+*Sword & Sorceress* VI
+
+"The Talisman"
+
+*Sword & Sorceress* VII
+
+"Wings of Fire"
+
+*Sword & Sorceress* VIII
+
+"A Woman's Weapon"
+
+*Sword & Sorceress* IX
+
+"Friendly Fire"
+
+*Sword & Sorceress* X
+
+"A Dragon in Distress" (with Lisa Waters)
+
+*Sword & Sorceress* XII
+
+"Werehunter"
+
+*Tales of the Witchworld*, Vol 1, ed. by Andre Norton
+
+"DeathAngel" & "Merovingen Ecology"
+
+*Merovingen Nights I - Festival Moon*, ed. by C.J. Cherryh
+
+"A Plague on Your Houses"
+
+*Merovingen Nights 2, Fever Season*
+
+"A Tangled Web We Weave"
+
+*Merovingen Nights 3, Troubled Waters*
+
+"More Than Meets The Eye"
+
+*Merovingen Nights 4, Smugglers Gold*
+
+"Merovingen Folklore"
+
+*Merovingen Nights 4, Smugglers Gold*
+
+"Turning Point"
+
+*Merovingen Nights 5, Divine Right*
+
+"Don't Look Back" & "Friends Like These"
+
+*Merovingen Nights 6, Flood Tide*
+
+"Proving Ground"
+
+*Merovingen Nights 7, Endgame*
+
+"Fiddler Fair"
+
+*Magic in Ithkar* 3, ed. by Andre Norton
+
+"Balance" & "Dragon's Teeth"
+
+*Spellsingers* ed. by Alan Bard Newcomer
+
+"A Friend in Need"
+
+*Winds of Change - Blood of Ten Chiefs*, Vol 3 ed. by R. Pini
+
+"Phantom of the Berry Patch"
+
+*Winds of Change - Blood of Ten Chiefs*, Vol 3 - Pini
+
+"Ties that Bind"
+
+*Against the Wind - Blood of Ten Chiefs*, Vol 4 - Pini
+
+"Riders of the Storm"
+
+*Against the Wind - Blood of Ten Chiefs*, Vol 5 - Pini
+
+"Skitty"
+
+*Catfantastic*, ed. by Andre Norton
+
+"A Tail of Two Skitties"
+
+*Catfantastic III* ed. by Andre Norton & Martin H. Greenberg
+
+"Scat"
+
+*Catfantastic IV* ed. by Andre Norton & Martin H. Greenberg
+
+"Nightside"
+
+*Marion Zimmer Bradley's FANTASY Magazine* # 6, Fall '89
+
+"Roadkill"
+
+*Marion Zimmer Bradley's FANTASY Magazine* # 9, Summer '90
+
+"Satanic, Versus"
+
+*Marion Zimmer Bradley's FANTASY Magazine* # 10, Fall '90
+
+"Killer Byte"
+
+*Marion Zimmer Bradley's FANTASY Magazine* # 24, Spring '94
+
+"The Cup and the Cauldron"
+
+*Grails: Quests, Visitations and other Occurrences*, reprinted as *Grails: Quests of Dawn*
+
+"Last Rights" (with Larry Dixon)
+
+*Dinosaur Fantastic*, ed. by Mike Resnick & Martin H. Greenberg
+
+"Dumb Feast"
+
+*Christmas Ghosts*, ed. by Mike Resnick
+
+"Dance Track" (with Larry Dixon)
+
+*By Any Other Fame*, ed. by Mike Resnick & Martin H. Greenberg
+
+"Operation Desert Fox" (with Larry Dixon)
+
+*BOLOS: Honor of the Regiment*, created by Keith Laumer
+
+"A Tale of Two Skitties"
+
+*Catfantastic* III, ed. by Andre Norton & Martin H. Greenberg
+
+"Jihad"
+
+*Alternate Warriors*, ed. by Mike Resnick
+
+"Once and Future"
+
+*Excalibur*, ed. by Richard Gilliam, Martin H. Greenberg & Edward E. Kramer
+
+"Quest of the Dream Warrior: Kyla's Journey"
+
+A musical story by Misty & David Arkenstone on CD or cassette, avail. from Firebird.
+
+"Stolen Silver"
+
+*Horse Fantastic*, ed. by Martin H. Greenberg & Rosalind M. Greenberg
+
+"Small Print"
+
+*Deals with the Devil*, ed. by Mike Resnick, Marin H. Greenberg & Loren D. Estleman
+
+"Hallowmas Night"
+
+*Lammas Night*, ed. by Josepha Sherman
+
+"Wet Wings"
+
+*Sisters in Fantasy* 2, ed. by Susan Schwartz & Martin H. Greenberg
+
+"Lammas Night" (song), "Hallowmas Night"
+
+*Lammas Night*, ed. by Josepha Sherman
+
+## Other Fandoms
+
+- **Marion Zimmer Bradley�s Fantasy Magazine.** Open it up and find stories that transport you from everyday into a magical place populated by fantastic beings and governed by mystical forces. Four issues a year, [Ed. Note 2002: Old info withheld.]
+- **Michael Praed** - Michael Praed Network Newsletter C/O Kate Raymond PO Box 516 Midlothian IL 60445.
+- **Doctor Who and other Media** - The Prydonians of Prynceton PO Box 3194 Princeton NJ 08543-3194. Dues are $12 ($22 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
+- **Tanya Huff** - NINE ABOVE! PO Box 204 Brattlenboro, VT 05302-0204.
+- **Anne McCafffrey/Pern** - Contact Weyrleader R�nier at [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com) for current information.
+- Adrian Paul of **Highlander** - Peace APFC PO Box 4593 North Hollywood, CA 91617 or Peace APFC PO Box 519 Bromley Kent BR2 9WX ENGLAND.
+- **Lois Bujold** can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com). For a sample issue of the Dendarii Dispatch and information of Lois�s fan club, send a SASE to Dendarii Dispatch C/O Kaye Carrasco PO Box 1414 Roswell NM 88202-1414 USA.
+- **Pandemonium** - The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira PO Box 18A146 Los Angeles, CA 90018.
+- **Dragonlords of Dumnonia** - Contact L.A. Malcor at legend@oxy.edu or visit the website at [http://wwww.dragonlordsnet.com](http://wwww.dragonlordsnet.com) for more information.
 
 [Ed. Note 2002: Old pricing and contact information withheld. See below.]
 

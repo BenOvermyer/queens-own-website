@@ -41,23 +41,13 @@ Make the necessary substitutions for your site.
 
 Hopefully, the code will look like this when you are finished:
 
-<table class="cellpadding-2 cellspacing-2 border-5 table-align-center" style="width:50%">
-<tr>
-<td class="align-center valign-middle" style="width:20%">
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a></td>
-<td class="align-center valign-middle" style="width:60%">
-This<br/>
-<a href="/club-webring/">Queen's Own</a><br/>
-site is owned by <a href="mailto:YOUR_EMAIL">YOUR_NAME</a>.<p>[<a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;prev5">Previous 5 Sites</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;prev">Previous</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;next">Next</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;next5">Next 5 Sites</a><br/>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;random">Random Site</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;list">List Sites</a>]</p></td>
-<td class="align-center valign-middle" style="width:20%">
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a></td>
-</tr>
-</table>
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a>
+
+This [Queen's Own](/club-webring/) site is owned by [YOUR_NAME](mailto:YOUR_EMAIL).
+
+[[Previous 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;prev5) | [Previous](http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;prev) | [Next](http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;next) | [Next 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=YOUR_ID;next5) | [Random Site](http://www.webring.org/cgi-bin/webring?ring=qsown;random) | [List Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;list)]
+
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a>
 
 If you have any problems, [message me](mailto:Legend@malcor.com), and I will do my best to help.
 

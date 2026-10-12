@@ -27,60 +27,38 @@ ISSN [Pending]
 
 ---
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<th class="align-left valign-middle"><h2><a href="/compass-rose/spring-2002/editorial/">A Letter from the Editor</a></h2></th>
-</tr>
-<tr>
-<td class="align-left valign-middle"><h2>Articles</h2>
-<ul>
-<li><h2><a href="/compass-rose/spring-2002/music-in-medieval-ireland/">Sources of Information on Music in Medieval Ireland</a></h2>
-by Laura Felton
-<p>
-Abstract:  The study of music in medieval Ireland is anything but straightforward. Direct sources are few and far between and what is known must be derived by using creative detective work. However, the exploration is extremely rewarding because there is so much material that can be tapped into.
-</p><p>
-</p></li><li><h2><a href="/compass-rose/spring-2002/arthurian-tales/">The Arthurian Tales</a></h2>
-by Linda A. Malcor, Aliso Viejo, CA
-<p>
-Abstract:  This paper is actually more of a historical artifact than anything else.  It is the first research paper I ever wrote on the Arthurian legends.  Penned May 19, 1977, when I was fifteen years old, the paper asked these questions:  (1) What are the sources of the Arthurian tales? (2) What parts are true? (3) What parts were added later and by whom?</p><p>
-</p></li><li><h2><a href="/compass-rose/spring-2002/diversity-in-libraries/">The Death of Diversity in our Nation's Libraries</a></h2>
-by Kendra Renaud, Great Falls, MT
-<p>
-Abstract:  Although censorship exists in every form of media in today's society, censorship in our public and school libraries is particularly offensive.  How does this kind of censorship sustain itself and how can its presence be explained?  What is the history of this phenomenon?  How did it evolve and become what it is now?  What kind of countermovement or backlash has arisen to oppose censorship?  These questions, as well as my own position on this issue will be discussed.
-</p><p>
-</p></li></ul>
-</td>
-</tr>
-<tr>
-<td class="align-left valign-middle"><h2><a href="/compass-rose/spring-2002/reviews/">Reviews</a></h2>
-<p>
-</p><h2><a href="/compass-rose/spring-2002/reviews/#fiction">Fiction</a></h2>
-<p>
-</p><ul>
-<li><h3><a href="/compass-rose/spring-2002/reviews/#bwe"><i>Beyond World's End</i></a></h3>
-</li></ul>
-<p>
-</p><h2><a href="/compass-rose/spring-2002/reviews/#film">Film</a></h2>
-<p>
-</p><ul>
-<li><h3><a href="/compass-rose/spring-2002/reviews/#dungeon"><i>Dungeons and Dragons: The Movie</i></a></h3>
-</li><li><h3><a href="/compass-rose/spring-2002/reviews/#grinch"><i>The Grinch</i></a></h3>
-</li></ul>
-<p>
-</p><h2><a href="/compass-rose/spring-2002/reviews/#nonfiction">Nonfiction</a></h2>
-<p>
-</p><ul>
-<li><h3><a href="/compass-rose/spring-2002/reviews/#Ribchester"><i>The Romans at Ribchester: Discovery and Excavations</i></a></h3>
-</li></ul>
-<p>
-</p><h2><a href="/compass-rose/spring-2002/reviews/#video">Video</a></h2>
-<p>
-</p><ul>
-<li><h3><a href="/compass-rose/spring-2002/reviews/#restore"><i>Restoration</i></a></h3>
-</li></ul>
-</td>
-</tr>
-</table>
+## [A Letter from the Editor](/compass-rose/spring-2002/editorial/)
+
+## Articles
+
+- ## [Sources of Information on Music in Medieval Ireland](/compass-rose/spring-2002/music-in-medieval-ireland/)
+  by Laura Felton
+  Abstract: The study of music in medieval Ireland is anything but straightforward. Direct sources are few and far between and what is known must be derived by using creative detective work. However, the exploration is extremely rewarding because there is so much material that can be tapped into.
+- ## [The Arthurian Tales](/compass-rose/spring-2002/arthurian-tales/)
+  by Linda A. Malcor, Aliso Viejo, CA
+  Abstract: This paper is actually more of a historical artifact than anything else. It is the first research paper I ever wrote on the Arthurian legends. Penned May 19, 1977, when I was fifteen years old, the paper asked these questions: (1) What are the sources of the Arthurian tales? (2) What parts are true? (3) What parts were added later and by whom?
+- ## [The Death of Diversity in our Nation's Libraries](/compass-rose/spring-2002/diversity-in-libraries/)
+  by Kendra Renaud, Great Falls, MT
+  Abstract: Although censorship exists in every form of media in today's society, censorship in our public and school libraries is particularly offensive. How does this kind of censorship sustain itself and how can its presence be explained? What is the history of this phenomenon? How did it evolve and become what it is now? What kind of countermovement or backlash has arisen to oppose censorship? These questions, as well as my own position on this issue will be discussed.
+
+## [Reviews](/compass-rose/spring-2002/reviews/)
+
+## [Fiction](/compass-rose/spring-2002/reviews/#fiction)
+
+- ### [*Beyond World's End*](/compass-rose/spring-2002/reviews/#bwe)
+
+## [Film](/compass-rose/spring-2002/reviews/#film)
+
+- ### [*Dungeons and Dragons: The Movie*](/compass-rose/spring-2002/reviews/#dungeon)
+- ### [*The Grinch*](/compass-rose/spring-2002/reviews/#grinch)
+
+## [Nonfiction](/compass-rose/spring-2002/reviews/#nonfiction)
+
+- ### [*The Romans at Ribchester: Discovery and Excavations*](/compass-rose/spring-2002/reviews/#Ribchester)
+
+## [Video](/compass-rose/spring-2002/reviews/#video)
+
+- ### [*Restoration*](/compass-rose/spring-2002/reviews/#restore)
 
 ## Instructions for Navigating this Issue
 

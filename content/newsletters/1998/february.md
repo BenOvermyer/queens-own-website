@@ -54,20 +54,13 @@ Firebird has recently moved into a new location and is experiencing construction
 
 TEMPEST will be appearing March 14 & 15 at the Calaveras Celtic Faire [Ed. note 2005: Out-of-date info withheld.]. Call [Ed. note 2005: Out-of-date info withheld.] for more information. During the month of December Lief and Michael were in the studio with producer Berry recording the first CALIBAN CD. The release date is set for Saint Patrick's Day. In 1997 TEMPEST played huge festivals in England, Canada, and the US, and toured across the continent four times! They're looking forward to lots more wonderful adventures in 1998. Visit their web page [Ed. note 2005: Out-of-date info withheld.].
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:35%">
-<tr>
-<td class="align-left valign-top">
-<h2>Conventrion News</h2>
-<p>
-MILLENIVICON is March 20-22 at The Blue Ash Hotel and Convention Center in Cincinnati Ohio. Guest of Honor is author Mike Resnick, Science Guest of Honor is Dr. Bill Breuer. Among others attending a.re Hai Clement and Buck &amp; Juanita Coulsan. Gaming, a masquerade, entertainment, benefit auction, art show . . . Cost is $30 at the door (sorry, no early registration after February 28) and $72.93 per night for a hotel room. Call [Ed. note 2005: Out-of-date info withheld.] for room reservations. For more convention information, call [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
-REVELcon 9 is March 2Q-22 in Housior; Texas. This con emphasizes fanzines, fun, arid ;cod No speciai guests of honor, just a weekend with other- fara, a chance to meet old friends and discover new ones, discuss your favorite fandom, attend panels, enjoy the Saturday evening entertainment . . . For more information,write to [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
-Marcon 33 is May 1-3 at the Hyatt Regency in Cciumaus Ohio. Author Guest of Honor is Lois McMaster Bujavd. Robin Wood is Artist GoH, and Joel Rosenberg is Fartasy GoH. There will be panels, autograph sessions, an art show, filking, a dealer's roam, videos, masquerade . Cost is $32 through April 30 and $38 at the door. For more information [Ed. note 2005: Out-of-date info withheld.].
+## Conventrion News
 
-</p></td>
-</tr>
-</table>
+MILLENIVICON is March 20-22 at The Blue Ash Hotel and Convention Center in Cincinnati Ohio. Guest of Honor is author Mike Resnick, Science Guest of Honor is Dr. Bill Breuer. Among others attending a.re Hai Clement and Buck & Juanita Coulsan. Gaming, a masquerade, entertainment, benefit auction, art show . . . Cost is $30 at the door (sorry, no early registration after February 28) and $72.93 per night for a hotel room. Call [Ed. note 2005: Out-of-date info withheld.] for room reservations. For more convention information, call [Ed. note 2005: Out-of-date info withheld.].
+
+REVELcon 9 is March 2Q-22 in Housior; Texas. This con emphasizes fanzines, fun, arid ;cod No speciai guests of honor, just a weekend with other- fara, a chance to meet old friends and discover new ones, discuss your favorite fandom, attend panels, enjoy the Saturday evening entertainment . . . For more information,write to [Ed. note 2005: Out-of-date info withheld.].
+
+Marcon 33 is May 1-3 at the Hyatt Regency in Cciumaus Ohio. Author Guest of Honor is Lois McMaster Bujavd. Robin Wood is Artist GoH, and Joel Rosenberg is Fartasy GoH. There will be panels, autograph sessions, an art show, filking, a dealer's roam, videos, masquerade . Cost is $32 through April 30 and $38 at the door. For more information [Ed. note 2005: Out-of-date info withheld.].
 
 ### Local Chapters
 
@@ -105,47 +98,33 @@ A new 'zine is on tile rise and it's aimed specifically at women!!! It's GIRL PO
 
 For definitions of our fannish jargon. read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005: Out-of-date info withheld.] to the QO address for this 12 page booklet.
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:60%">
-<tr>
-<td class="align-left valign-top">
 "The efficiency of a general is inversely proportional to the number of medals he wears."
-<p class="align-right"><i>Mercedes Lackey</i></p></td>
-</tr>
-</table>
+
+*Mercedes Lackey*
 
 ## Fan Messages
 
 [Ed. note 2005: Content withheld.]
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:60%">
-<tr>
-<td class="align-left valign-top">
 "Never sit down at the table with your sword at your side. Strap it to your back for a faster draw."
-<p class="align-right"><i>Mercedes Lackey,</i></p></td>
-</tr>
-</table>
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:50%">
-<tr>
-<td class="align-left valign-top">
-<h2>Other Fandoms</h2>
-<p>
+*Mercedes Lackey,*
+
+## Other Fandoms
+
 Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
-Doctor Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.]. Dues are $12 ($22 for first class postage) for their monthly newsletter, <i>The Prydonian Renegade</i>.
-</p><p>
+
+Doctor Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.]. Dues are $12 ($22 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
+
 Tanya Huff--NINE ABOVE! [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
+
 Anne McCaffrey/Pern--Sunfall Weyr has a web site at [Ed. note 2005: Out-of-date info withheld.] or contact them c/o [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
+
 Adrian Paul of Highlander--Peace APFC [Ed. note 2005: Out-of-date info withheld.] or Peace-APFC [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
+
 Lois Bujold can be reached at Imbujold([Ed. note 2005: Out-of-date info withheld.] "The Bujold Nexus" is at [Ed. note 2005: Out-of-date info withheld.].
-</p><p>
+
 Pandemonium--the official Melanie Rawn club invites you to join their ranks. Sase for more information: Irena Pereira [Ed. note 2005: Out-of-date info withheld.].
-</p></td>
-</tr>
-</table>
 
 ## PERSONALS:
 
@@ -161,13 +140,9 @@ Stamps For Life is still collecting used postage stamps from all countries. THe 
 
 Anne McCaffrey's *Robinton: Master Harper of Pern* is available now from Del Ray. If you liked *Tailchaser's Song*, you'll probably like Gabriel King's *The Wild Road*, coming in March.
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:35%">
-<tr>
-<td class="align-left valign-top">
 "Dragons are best approached by messenger."
-<p class="align-right"><i>Mercedes Lackey</i></p></td>
-</tr>
-</table>
+
+*Mercedes Lackey*
 
 Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 

@@ -38,23 +38,13 @@ Golden Grove is the California chapter of [Queen's Own](/), the official Mercede
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<table class="border-5 cellpadding-2 cellspacing-2 table-align-center" style="width:50%">
-<tr>
-<td class="align-center valign-middle" style="width:20%">
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a></td>
-<td class="align-center valign-middle" style="width:60%">
-This<br/>
-<a href="/club-webring/">Queen's Own</a><br/>
-site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;prev5">Previous 5 Sites</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;prev">Previous</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;next">Next</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;next5">Next 5 Sites</a><br/>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;random">Random Site</a>
-| <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;list">List Sites</a>]</p></td>
-<td class="align-center valign-middle" style="width:20%">
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a></td>
-</tr>
-</table>
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a>
+
+This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:Legend@malcor.com).
+
+[[Previous 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;prev5) | [Previous](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;prev) | [Next](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;next) | [Next 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;next5) | [Random Site](http://www.webring.org/cgi-bin/webring?ring=qsown;random) | [List Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;list)]
+
+<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a>
 
 <img alt="" loading="lazy" src="/bardrgn2.gif"/>
 

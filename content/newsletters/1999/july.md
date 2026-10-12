@@ -44,100 +44,57 @@ The majority of you have been wonderful about my slow response time lately, and 
 
 Robin
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-left valign-middle">Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds &amp; Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at <a href="http://firebirdarts.com">http://firebirdarts.com</a>. If you want a "real" catalog, send $3 to Firebird Arts &amp; Music, PO Box 3068, Portland OR 97294-3268.
-To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
-<p>
-Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: <a href="mailto:firebird@firebirdarts.com">firebird@firebirdarts.com</a>.
-</p></td>
-</tr>
-<tr>
-<td class="align-left valign-middle">For news about TEMPEST, visit their web page <a href="http://darkmoon.simplenet.com/tempest">http://darkmoon.simplenet.com/tempest</a>. You can send e-mail to Lief and the other band members at <a href="mailto:tempest_rock@hotmail.com">tempest_rock@hotmail.com</a>.
-<tr>
-<td class="align-left valign-middle">[Ed. note 2002:  Old text replaced with:  "For definitions of our fannish jargon, read the 12-page booklet "Pros &amp; Cons: An Introduction to Fandom" written by Elizabeth Barrette.  Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652.  Make checks payable to "Linda Malcor" in US funds only.
-".]
-</td></tr>
-<tr>
-<td class="align-left valign-middle"><b>Flights of Fantasy</b> [Ed. note 2002:  Old contact information withheld.] specializes in new and used science fiction &amp; fantasy, mystery &amp; suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002:  Old contact information withheld.]. Webpage <a href="http://www.fof.net">http://www.fof.net</a>, E-mail: <a href="mailto:fof@albany.net">fof@albany.net</a>. Flights of Fantasy accepts orders from inmates.
-</td>
-</tr>
-<tr>
-<td class="align-left valign-middle"><i>Sink or Swim</i> is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: <a href="mailto:temarrea@Yahoo.com ">temarrea@Yahoo.com</a>, or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002:  Address withheld.].
-</td>
-</tr>
-<tr>
-<td class="align-left valign-middle">Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&amp;W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002:  Ellen Million Graphics can now be found at <a href="http://www.ellenmilliongraphics.com">http://www.ellenmilliongraphics.com</a>.]. (Dealer inquiries welcome)
-</td>
-</tr>
-<tr>
-<td class="align-left valign-middle">
-<b>Personal</b>
-<p>
-[Ed. Note 2002:  Personals have been withheld from the online version of this newsletter because of the private information they contained.]
-</p></td>
-</tr>
-<tr>
-<td class="align-left valign-middle">
-<h2>Pen-Pals</h2>
-<p>
-[Ed. Note 2002:  Pen-Pal messages have been withheld from the online version of this newsletter because of the private information they contained.]</p></td>
-</tr>
-<tr>
-<td class="align-left valign-middle">
-I am still taking suggestions.  I have some wonderful responses, but I haven't heard from enough people to justify a majority!  Please write me or e-mail with any suggestions, comments or concerns as soon as possible.
-<p>
-I am still looking for artwork and a new Queen's Own Logo.  Please send all artwork to the Queen's Own PO box and label the envelope "Artwork".  I'm hoping to have some stationary, bookmarks, postcards and whatever else takes my fancy!!
-</p><p class="align-right">
-Your editor and president ~ Robin</p></td>
-</tr></td></tr></table>
+Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds & Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at [http://firebirdarts.com](http://firebirdarts.com). If you want a "real" catalog, send $3 to Firebird Arts & Music, PO Box 3068, Portland OR 97294-3268. To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-left valign-middle">
-<h2>LOCAL CHAPTERS</h2>
-<p>
-</p><p>
-</p><ul>
-<li><b>Arrows OnLine</b> - To find Arrows OnLine on America OnLine, follow these directions: Keyword: books. Click on
-Chat &amp; Messages. The next window you see will have a scroll down box on the left side, scroll down until you see
-MERCEDES LACKEY. Once on the page, go to the listbox for MESSAGE BOARDS. Select: MERCEDES LACKEY FANDOM and there you are! For an Orientation Kit, meeting info, information on the chapter Fanzine and more, email [Ed. Note 2002:  Addresses withheld] and they�ll be there to help. <p>
-</p></li><li><b>Austral�a�in</b>, C/O Cassandra Vuksa PO Box 1850, Woden ACT 2606 AUSTRALIA . You get eight issues a year, of
-eight pages each. The costs are, for Australians, $8 a year or 8 x 45 cent stamps. For people overseas $12 Australian
-or 15 IRC�s.<p>
-</p></li><li><b>Companion�s Choice:</b> Emily Watts 3619 Mary Circle Ames IA 50014-3501.<p>
-</p></li><li><b>The Herald�s Companion</b> - Herald�s Companion C/O Karen Bertke 5694 Scarborough Drive Cincinnati OH
-45238.<p>
-</p></li><li><b>Pacific Northwest Collegium</b> - C/O Laura Cameron/Moonglade K�Shena [Ed. Note 2002:  Address withheld.]<p>
-</p></li><li><b>The Vales</b> is a yearly zine. Kendra Renaud,[Ed. Note 2002:  Address withheld; no longer published.]<p>
-</p></li><li><b>On The Wing</b> costs $2.00, and is nearly 20 pages in length. This zine is completely dedicated to the Tayledras. I
-am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002:  Address withheld; no longer published.]<p>
-</p></li><li><b>Golden Grove</b> , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld.  See new info at <a href="/golden-grove/">/golden-grove/</a>.<p>
-</p></li><li><b>Sonoran Collegium</b> is currently organizing itself!  Although we are geographically in Southern Arizona, all are welcome here!  The 'zine will be published bi-monthly, and dues are currently $4 US or 6 IRC's elsewhere.  If you are interested, please send SASE to us at: [Ed. note 2002: Out-of-date Address withheld.]
-</li></ul></td>
-</tr>
-</table>
+Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: [firebird@firebirdarts.com](mailto:firebird@firebirdarts.com).
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
-<tr>
-<td class="align-left valign-middle"><h2>Other Fandoms</h2>
-<p>
-</p><ul>
-<li><b>Marion Zimmer Bradley�s Fantasy Magazine.</b> Open it up and find stories that transport you from everyday into a
-magical place populated by fantastic beings and governed by mystical forces. Four issues a year, [Ed. Note 2002:  Old info withheld.]<p>
-</p></li><li><b>Michael Praed</b> - Michael Praed Network Newsletter C/O Kate Raymond PO Box 516 Midlothian IL 60445.<p>
-</p></li><li><b>Doctor Who and other Media</b> - The Prydonians of Prynceton PO Box 3194 Princeton NJ 08543-3194.  Dues are $12 ($22 for first class postage) for their monthly newsletter, <i>The Prydonian Renegade</i>.<p>
-</p></li><li><b>Tanya Huff</b> - NINE ABOVE! PO Box 204 Brattlenboro, VT 05302-0204.<p>
-</p></li><li><b>Anne McCafffrey/Pern</b> - Contact Weyrleader R�nier at <a href="mailto:dragonfodder@gmail.com">dragonfodder@gmail.com</a> for current information.<p>
-</p></li><li>Adrian Paul of <b>Highlander</b> - Peace APFC PO Box 4593 North Hollywood, CA 91617 or Peace APFC PO Box
-519 Bromley Kent BR2 9WX ENGLAND.<p>
-</p></li><li><b>Lois Bujold</b> can be reached at <a href="mailto:lois@dendarii.com">lois@dendarii.com</a>. "The Bujold Nexus" is at <a href="http://www.dendarii.com">http://www.dendarii.com</a>. For a sample issue of the Dendarii Dispatch and information of Lois�s fan club, send a SASE to Dendarii Dispatch C/O Kaye Carrasco PO Box 1414 Roswell NM 88202-1414 USA.<p>
-</p></li><li><b>Pandemonium</b> - The official Melanie Rawn club invites you to join their ranks. SASE for more information:
-Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
-</p></li><li><b>Dragonlords of Dumnonia</b> - Contact L.A. Malcor at legend@oxy.edu or visit the website at <a href="http://wwww.dragonlordsnet.com">http://wwww.dragonlordsnet.com</a> for more information.
-</li></ul></td>
-</tr>
-</table>
+For news about TEMPEST, visit their web page [http://darkmoon.simplenet.com/tempest](http://darkmoon.simplenet.com/tempest). You can send e-mail to Lief and the other band members at [tempest_rock@hotmail.com](mailto:tempest_rock@hotmail.com). &lt;tr>&lt;td>[Ed. note 2002: Old text replaced with: "For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652. Make checks payable to "Linda Malcor" in US funds only. ".] &lt;tr>&lt;td>**Flights of Fantasy** [Ed. note 2002: Old contact information withheld.] specializes in new and used science fiction & fantasy, mystery & suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002: Old contact information withheld.]. Webpage [http://www.fof.net](http://www.fof.net), E-mail: [fof@albany.net](mailto:fof@albany.net). Flights of Fantasy accepts orders from inmates. &lt;tr>&lt;td>*Sink or Swim* is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: [temarrea@Yahoo.com](mailto:temarrea@Yahoo.com), or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002: Address withheld.]. &lt;tr>&lt;td>Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002: Ellen Million Graphics can now be found at [http://www.ellenmilliongraphics.com](http://www.ellenmilliongraphics.com).]. (Dealer inquiries welcome) &lt;tr>&lt;td>**Personal** [Ed. Note 2002: Personals have been withheld from the online version of this newsletter because of the private information they contained.] &lt;tr>&lt;td>## Pen-Pals [Ed. Note 2002: Pen-Pal messages have been withheld from the online version of this newsletter because of the private information they contained.] &lt;tr>&lt;td>I am still taking suggestions. I have some wonderful responses, but I haven't heard from enough people to justify a majority! Please write me or e-mail with any suggestions, comments or concerns as soon as possible. I am still looking for artwork and a new Queen's Own Logo. Please send all artwork to the Queen's Own PO box and label the envelope "Artwork". I'm hoping to have some stationary, bookmarks, postcards and whatever else takes my fancy!! Your editor and president ~ Robin
+
+[Ed. note 2002: Old text replaced with: "For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652. Make checks payable to "Linda Malcor" in US funds only. ".]
+
+**Flights of Fantasy** [Ed. note 2002: Old contact information withheld.] specializes in new and used science fiction & fantasy, mystery & suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002: Old contact information withheld.]. Webpage [http://www.fof.net](http://www.fof.net), E-mail: [fof@albany.net](mailto:fof@albany.net). Flights of Fantasy accepts orders from inmates.
+
+*Sink or Swim* is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: [temarrea@Yahoo.com](mailto:temarrea@Yahoo.com), or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002: Address withheld.].
+
+Looking for stationery supplies that mirror your love of sword and sorcery? Questing for the perfect gift for that fantasy enthusiast in your life? Then give Ellen Million Graphics and her band of artist a try! We are your complete source for quality FANTASY STATIONERY! Discover the power of the "Sorceress" and drown in the dark "Bloodfest"; bask in the moment of "Precious Serenity", warmed by the softest "Butterfly Kisses"; enjoy a ride on the "Dragon Sled" while the pegasus are "Soaring", and find "Peace on Earth" with "The Christmas Unicorn" and "Betrothed Warriors". Recoiled products in B&W, single or full color. No SASE needed, just write and ask for your first FREE catalog! Custom work availableif you can dream it, we can draw it. Send inquiries to: Ellen Million Graphics, [Ed Note 2002: Ellen Million Graphics can now be found at [http://www.ellenmilliongraphics.com](http://www.ellenmilliongraphics.com).]. (Dealer inquiries welcome)
+
+**Personal**
+
+[Ed. Note 2002: Personals have been withheld from the online version of this newsletter because of the private information they contained.]
+
+## Pen-Pals
+
+[Ed. Note 2002: Pen-Pal messages have been withheld from the online version of this newsletter because of the private information they contained.]
+
+I am still taking suggestions. I have some wonderful responses, but I haven't heard from enough people to justify a majority! Please write me or e-mail with any suggestions, comments or concerns as soon as possible.
+
+I am still looking for artwork and a new Queen's Own Logo. Please send all artwork to the Queen's Own PO box and label the envelope "Artwork". I'm hoping to have some stationary, bookmarks, postcards and whatever else takes my fancy!!
+
+Your editor and president ~ Robin
+
+## LOCAL CHAPTERS
+
+- **Arrows OnLine** - To find Arrows OnLine on America OnLine, follow these directions: Keyword: books. Click on Chat & Messages. The next window you see will have a scroll down box on the left side, scroll down until you see MERCEDES LACKEY. Once on the page, go to the listbox for MESSAGE BOARDS. Select: MERCEDES LACKEY FANDOM and there you are! For an Orientation Kit, meeting info, information on the chapter Fanzine and more, email [Ed. Note 2002: Addresses withheld] and they�ll be there to help.
+- **Austral�a�in**, C/O Cassandra Vuksa PO Box 1850, Woden ACT 2606 AUSTRALIA . You get eight issues a year, of eight pages each. The costs are, for Australians, $8 a year or 8 x 45 cent stamps. For people overseas $12 Australian or 15 IRC�s.
+- **Companion�s Choice:** Emily Watts 3619 Mary Circle Ames IA 50014-3501.
+- **The Herald�s Companion** - Herald�s Companion C/O Karen Bertke 5694 Scarborough Drive Cincinnati OH 45238.
+- **Pacific Northwest Collegium** - C/O Laura Cameron/Moonglade K�Shena [Ed. Note 2002: Address withheld.]
+- **The Vales** is a yearly zine. Kendra Renaud,[Ed. Note 2002: Address withheld; no longer published.]
+- **On The Wing** costs $2.00, and is nearly 20 pages in length. This zine is completely dedicated to the Tayledras. I am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002: Address withheld; no longer published.]
+- **Golden Grove** , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld. See new info at [/golden-grove/](/golden-grove/).
+- **Sonoran Collegium** is currently organizing itself! Although we are geographically in Southern Arizona, all are welcome here! The 'zine will be published bi-monthly, and dues are currently $4 US or 6 IRC's elsewhere. If you are interested, please send SASE to us at: [Ed. note 2002: Out-of-date Address withheld.]
+
+## Other Fandoms
+
+- **Marion Zimmer Bradley�s Fantasy Magazine.** Open it up and find stories that transport you from everyday into a magical place populated by fantastic beings and governed by mystical forces. Four issues a year, [Ed. Note 2002: Old info withheld.]
+- **Michael Praed** - Michael Praed Network Newsletter C/O Kate Raymond PO Box 516 Midlothian IL 60445.
+- **Doctor Who and other Media** - The Prydonians of Prynceton PO Box 3194 Princeton NJ 08543-3194. Dues are $12 ($22 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
+- **Tanya Huff** - NINE ABOVE! PO Box 204 Brattlenboro, VT 05302-0204.
+- **Anne McCafffrey/Pern** - Contact Weyrleader R�nier at [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com) for current information.
+- Adrian Paul of **Highlander** - Peace APFC PO Box 4593 North Hollywood, CA 91617 or Peace APFC PO Box 519 Bromley Kent BR2 9WX ENGLAND.
+- **Lois Bujold** can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com). For a sample issue of the Dendarii Dispatch and information of Lois�s fan club, send a SASE to Dendarii Dispatch C/O Kaye Carrasco PO Box 1414 Roswell NM 88202-1414 USA.
+- **Pandemonium** - The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira PO Box 18A146 Los Angeles, CA 90018.
+- **Dragonlords of Dumnonia** - Contact L.A. Malcor at legend@oxy.edu or visit the website at [http://wwww.dragonlordsnet.com](http://wwww.dragonlordsnet.com) for more information.
 
 [Ed. Note 2002: Old pricing and contact information withheld. See below.]
 

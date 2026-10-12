@@ -22,7 +22,11 @@ canonical_path = "/danyas-cookbook/"
 
 ### (Revised 10/30/98)
 
-## Copyright Notices Herald Danya is L.A. Malcor's persona in [Queen's Own](/danya-winterborn/#Herald), the official Mercedes Lackey fanclub. The recipes in this collection were designed in partial fulfillment of the [Queen's Own](/) requirements for the rank of [Herald](https://dragonlords.fans/danyahh.htm). These recipes are copyright L.A. Malcor 1996 and may not be duplicated in any form without her permission. The information on this page is intended solely for the enjoyment of fans of the Mercedes Lackey. It is not intended to infringe in any way upon the rights held by her.
+## Copyright Notices
+
+Herald Danya is L.A. Malcor's persona in [Queen's Own](/danya-winterborn/#Herald), the official Mercedes Lackey fanclub. The recipes in this collection were designed in partial fulfillment of the [Queen's Own](/) requirements for the rank of [Herald](https://dragonlords.fans/danyahh.htm). These recipes are copyright L.A. Malcor 1996 and may not be duplicated in any form without her permission.
+
+The information on this page is intended solely for the enjoyment of fans of the Mercedes Lackey. It is not intended to infringe in any way upon the rights held by her.
 
 <img alt="" loading="lazy" src="/barflow.gif"/>
 

@@ -32,80 +32,43 @@ Mercedes Lackey Fan Club
 
 ## Books by Mercedes Lackey
 
-<table class="cellpadding-2 cellspacing-2" style="width:85%">
-<tr>
-<th class="align-left valign-top">
-The Heralds of Valdemar series:</th>
-<th class="align-left valign-top">Vows and Honor:</th>
-</tr>
-<tr>
-<td class="align-left valign-top"><i>Arrows of the Queen</i><br/>
-<i>Arrow's Flight</i><br/>
-<i>Arrow's Fall</i></td>
-<td class="align-left valign-top"><i>Oathbound</i> <br/>
-<i>Oathbreakers</i> </td>
-</tr>
-<tr>
-<th class="align-left valign-top">The Last Herald-Mage:</th>
-<th class="align-left valign-top"> </th>
-</tr>
-<tr>
-<td class="align-left valign-top"><i>Magic's Pawn</i><br/>
-<i>Magic's Promise</i><br/>
-<i>Magic's Price</i></td>
-<td class="align-left valign-top"><i>By the Sword </i></td>
-</tr>
-<tr>
-<th class="align-left valign-top" colspan="2">The Mage Winds trilogy:</th>
-</tr>
-<tr>
-<td class="align-left valign-top" colspan="2"><i>Winds of Fate</i> (paperback to be released this summer) <br/>
-<i>Winds of Change</i> (available late 1992)<br/>
-<i>Winds of War	</i> (available late 1993)</td>
-</tr>
-<tr>
-<th class="align-left valign-top" colspan="2">Diana Tregarde adventures:</th>
-</tr>
-<tr>
-<td class="align-left valign-top" colspan="2"> <i>Burning Water</i> <br/>
-<i>Children of the Night</i><br/>
-<i>Jinx High</i><br/>
-<i>Areanum 101</i> (hardcover, available late 1992) [Ed. note 2004:  Never published]<br/>
-<i>Triangle Park</i> (hardcover, available 1993) [Ed note. 2004:  Never published]</td>
-</tr>
-<tr>
-<th class="align-left valign-top" colspan="2">Bardic Voices:</th>
-</tr>
-<tr>
-<td class="align-left valign-top" colspan="2">
-<i>The Lark &amp; the Wren</i><br/>
-<i>The Robin &amp; the Kestrel</i> (NRD)*<br/>
-<i>The Eagle and the Nightingales</i> (NRD)*</td>
-</tr>
-<tr>
-<th class="align-left valign-top">with Ellen Guon:</th>
-<th class="align-left valign-top">The SERRAted Edge series:</th>
-</tr>
-<tr>
-<td class="align-left valign-top"><i>Knight of Ghost and Shadows</i><br/>
-<i>Summoned to Tourney</i><br/>
-<i>Leagues Beyond</i> (NRD)*</td>
-<td class="align-left valign-top"><i>Bom to Run</i>, with Larry Dixon<br/>
-<i>Wheels of Fire</i>, with Mark Shepherd (October release date)<br/>
-<i>When the Bough Breaks</i>, with Holly Lisle (November release date)</td>
-</tr>
-<tr>
-<th class="align-left valign-top" colspan="2">Other Collaborations:</th>
-</tr>
-<tr>
-<td class="align-left valign-top" colspan="2"><i>Reap the Whirlwind</i>, with C.J. Cherryh	(Book three of The Sword of Knowledge series) <br/>
-<i>The Elvenbane</i>, with Andre Norton<br/>
-<i>Castle of Deception</i>, with Josepha Sherman (June/July)<br/>
-<i>The Ship Who Searched</i>, with Anne McCaffrey (July/August release date) <br/>
-<i>If I Pay Thee Not in Gold</i>, with Piers Anthony (NRD) *<br/>
-<i>Rediscovery</i>, a Darkover novel with Marion Zimmer Bradley (1993)</td>
-</tr>
-</table>
+The Heralds of Valdemar series:
+
+Vows and Honor:
+
+*Arrows of the Queen* *Arrow's Flight* *Arrow's Fall*
+
+*Oathbound* *Oathbreakers*
+
+The Last Herald-Mage:
+
+*Magic's Pawn* *Magic's Promise* *Magic's Price*
+
+*By the Sword*
+
+The Mage Winds trilogy:
+
+*Winds of Fate* (paperback to be released this summer) *Winds of Change* (available late 1992) *Winds of War* (available late 1993)
+
+Diana Tregarde adventures:
+
+*Burning Water* *Children of the Night* *Jinx High* *Areanum 101* (hardcover, available late 1992) [Ed. note 2004: Never published] *Triangle Park* (hardcover, available 1993) [Ed note. 2004: Never published]
+
+Bardic Voices:
+
+*The Lark & the Wren* *The Robin & the Kestrel* (NRD)&#42; *The Eagle and the Nightingales* (NRD)&#42;
+
+with Ellen Guon:
+
+The SERRAted Edge series:
+
+*Knight of Ghost and Shadows* *Summoned to Tourney* *Leagues Beyond* (NRD)&#42;
+
+*Bom to Run*, with Larry Dixon *Wheels of Fire*, with Mark Shepherd (October release date) *When the Bough Breaks*, with Holly Lisle (November release date)
+
+Other Collaborations:
+
+*Reap the Whirlwind*, with C.J. Cherryh (Book three of The Sword of Knowledge series) *The Elvenbane*, with Andre Norton *Castle of Deception*, with Josepha Sherman (June/July) *The Ship Who Searched*, with Anne McCaffrey (July/August release date) *If I Pay Thee Not in Gold*, with Piers Anthony (NRD) &#42; *Rediscovery*, a Darkover novel with Marion Zimmer Bradley (1993)
 
 &#42;NRD - no release date
 

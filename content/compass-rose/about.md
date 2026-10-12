@@ -45,13 +45,9 @@ A special thanks to Laura Cameron for designing *The Compass Rose* logo!
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<table class="border-2 cellspacing-2" style="width:50%">
-<tr>
-<td class="align-center valign-middle"><a href="/compass-rose/summer-2000/">Vol. 1, No. 1</a>
-</td></tr>
-<tr>
-<td class="align-center valign-middle"><a href="/compass-rose/spring-2002/">Vol. 2, No. 1</a>
-</td></tr></table>
+[Vol. 1, No. 1](/compass-rose/summer-2000/)
+
+[Vol. 2, No. 1](/compass-rose/spring-2002/)
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 

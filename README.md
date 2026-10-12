@@ -3,9 +3,10 @@
 Zola source for the Queen's Own website, migrated from the hand-coded archive and
 organized into membership, personas, world reference, community, and publications.
 The original blue backgrounds, links, artwork, tables, text, and page anchors are
-preserved. Imported pages are TOML front matter plus Markdown; tables, images,
-`<dl>` lists, and named anchors stay HTML because Markdown has no equivalent for
-them. Shared templates live in `templates/`.
+preserved. Imported pages are TOML front matter plus Markdown; images, `<dl>` lists,
+named anchors, and genuine data tables stay HTML because Markdown has no equivalent for
+them, while layout tables are converted to Markdown. Shared templates live in
+`templates/`.
 
 ## Preview and build
 
