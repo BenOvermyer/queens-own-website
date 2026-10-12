@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. III, No. 5 June 1990
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -56,7 +56,7 @@ Intriguing, isn't it? Misty's story is set in LA and involves the Renaissance Fa
 
 The letters along the side of the page spell out "Queen's Own" in ancient Shin'a'in and were designed and drawn by Adrienne L. Travis. The runes used in the last newsletter were Seax, not Norse, and also spelled out "Queen's Own". Yes, in Seax runes, the "Q" and "O" are represented by the same symbol. Sneaky, wasn't it?
 
-Chris Johnson's "The Helpful Handout of How to Become a Herald" has proven to be very helpful--and very popular. [Ed. note 2002: Out-of-date info withheld; you can find the handout online at [/persona-handouts/](/persona-handouts/).] Thanks, Chris, from all of us. We appreciate your hard work.
+Chris Johnson's "The Helpful Handout of How to Become a Herald" has proven to be very helpful--and very popular. [Ed. note 2002: Out-of-date info withheld; you can find the handout online at [Persona handouts and submission instructions](/persona-handouts/).] Thanks, Chris, from all of us. We appreciate your hard work.
 
 Have you sent in your subscription to *Marion Zimmer Bradley's Fantasy Magazine*? You can back order the Fall 1989 issue which contains the Diana Tregarde story "Nightside." Appropriately enough, there will be another Diana Tregarde adventure at Halloween. [Ed. note 2002: Out-of-date subscription info withheld.]
 

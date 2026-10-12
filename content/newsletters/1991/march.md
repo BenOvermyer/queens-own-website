@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. IV, No. 6 March 1991
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -76,7 +76,7 @@ There are copies of **The Girebird Flyer**, the special Mercedes Lackey edition,
 
 ## Collegium Registry
 
-Those listed here have followed the guidelines set down in "The Helpful Handout of How to Become a Herald." If you would like to earn your Whites but don't know how, [Ed. note 2003: Out-of-date information withheld. Current information is located at [/persona-handouts/](/persona-handouts/).] There will be certificates for everyone who has met the requirements, but I honestly don't see how they will be ready before the summer. [Ed. note 2003: Did anyone ever receive these certificates? Your current editors have never seen a copy. If you have one, could you please scan the image and send it to Herald-Mage Adept Danya Winterborn at [Legend@malcor.com](mailto:Legend@malcor.com)?]
+Those listed here have followed the guidelines set down in "The Helpful Handout of How to Become a Herald." If you would like to earn your Whites but don't know how, [Ed. note 2003: Out-of-date information withheld. Current information is located at [Persona handouts and submission instructions](/persona-handouts/).] There will be certificates for everyone who has met the requirements, but I honestly don't see how they will be ready before the summer. [Ed. note 2003: Did anyone ever receive these certificates? Your current editors have never seen a copy. If you have one, could you please scan the image and send it to Herald-Mage Adept Danya Winterborn at [Legend@malcor.com](mailto:Legend@malcor.com)?]
 
 Welcome, **Herald Deborah of Aardanel**. **Deb Segal** tells us Deborah was chosen by the Companion Yasmin and has the gift of Mindspeech and can talk to any Companion. Debi sent stories of her persona and two other Heralds, two poems, and a map.
 

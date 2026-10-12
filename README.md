@@ -59,7 +59,10 @@ python3 -m unittest discover -s scripts -p 'test_*.py'
 ```
 
 The organizer preserves original bodies, credits, and anchors. It updates source
-metadata and internal URLs using explicit content rules. Month-only newsletter dates
+metadata and internal URLs using explicit content rules. Link text that was a legacy
+URL or path is replaced with the destination page's title, so labels stay readable and
+survive future path changes; a link whose text named a different page than its
+destination is pointed at the page it names. Month-only newsletter dates
 use the first day for sorting, with `date_precision = "month"`; the UI shows the
 known month/year, not an invented publication day. Missing issues retain unavailable
 notices and unresolved inventory statuses.

@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. VIII, No. 7 May 1995
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own are Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own are Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 

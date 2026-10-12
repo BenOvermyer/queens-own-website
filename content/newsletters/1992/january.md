@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. V, No. 5 January 1992
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -123,7 +123,7 @@ Librarian *Mary K. Chelton* is compiling a list called "If you like Mercedes Lac
 
 ## Collegium News:
 
-Those QO members whose names are listed here have fulfilled the requirements for becoming a Herald. If you are interested in joining their ranks, [Ed. note 2003: Out-of-date information withheld. Visit [/persona-handouts/](/persona-handouts/) for the current instructions.]. (Yes, Collegium members, you **will** receive the promised certificate some day. [Ed. note 2003: If you are a member who did receive one of those certificates, could you please send us the scanned image as a .jpg at [Legend@malcor.com](mailto:Legend@malcor.com) or as a photocopy to the QO PO Box, which is listed below? We'd love to revive this tradition, but we've never seen what the certificates looked like!])
+Those QO members whose names are listed here have fulfilled the requirements for becoming a Herald. If you are interested in joining their ranks, [Ed. note 2003: Out-of-date information withheld. Visit [Persona handouts and submission instructions](/persona-handouts/) for the current instructions.]. (Yes, Collegium members, you **will** receive the promised certificate some day. [Ed. note 2003: If you are a member who did receive one of those certificates, could you please send us the scanned image as a .jpg at [Legend@malcor.com](mailto:Legend@malcor.com) or as a photocopy to the QO PO Box, which is listed below? We'd love to revive this tradition, but we've never seen what the certificates looked like!])
 
 Welcome, **Herald Naire**, Chosen by Chisel and gifted with strong Farsight and "a gant's sneeze worth of Foresight." *Samantha Kunz* sent information on Naire and her family, a story and a recipe.
 

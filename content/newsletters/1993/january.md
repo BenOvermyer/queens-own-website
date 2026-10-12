@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. VI, No. 4 January 1993
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -98,7 +98,7 @@ From Rim Gray: The new address for both myself and club Vampyre is [Editor Note 
 
 ## COLLEGIUM NEWS:
 
-We have handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. [Ed. note 2005: Out-of-date info. withheld. The handouts are now online at [/persona-handouts/](/persona-handouts/).] and specify which handout you are requesting. Ask for a release form too if you expect to write a story. [Ed. note 2004: The release is available online at [/release-form-instructions/](/release-form-instructions/).] If you have completed Herald-Mage requirements, [Ed. note 2005: Out-of-date info. withheld.].
+We have handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. [Ed. note 2005: Out-of-date info. withheld. The handouts are now online at [Persona handouts and submission instructions](/persona-handouts/).] and specify which handout you are requesting. Ask for a release form too if you expect to write a story. [Ed. note 2004: The release is available online at [Release form instructions](/release-form-instructions/).] If you have completed Herald-Mage requirements, [Ed. note 2005: Out-of-date info. withheld.].
 
 - Welcome, **Herald Holleen**, Chosen by Synbar and gifted with double Mindspeech. *Sarah Evans* sent data on Holleen and her family and friends, a drawing, and two stories.
 - Welcome, **Herald Rojer**, Chosen by Barna and gifted with Fetching and some Mindspeech. *Roger Flores* sent information on Rojer and his family, a story, herbal remedies, and a Herald/Companion list

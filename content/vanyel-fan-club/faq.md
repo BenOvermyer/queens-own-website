@@ -44,7 +44,7 @@ canonical_path = "/vanyel-fan-club/faq/"
 
 **Q:** How do I join the Vanyel Fan Club? **A:** Merely by joining the [Vanyel Fan Club Chat List](/vanyel-fan-club/chat/). (We are an online-based organization, so this list is how we communicate with our members.)
 
-**Q:** Is there a mailing list for this club? **A:** Yes! You can add yourself to thlist at [/vanyel-fan-club/chat/](/vanyel-fan-club/chat/)!
+**Q:** Is there a mailing list for this club? **A:** Yes! You can add yourself to thlist at [Vanyel Fan Club--Chat List](/vanyel-fan-club/chat/)!
 
 Q: Are there any club dues? A: No. The VFC is a chapter of Queen's Own. Membership is free.
 

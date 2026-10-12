@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. I, No. 6 July 1988
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The club's name changed from Queens' Own to Queen's Own in January 1989. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The club's name changed from Queens' Own to Queen's Own in January 1989. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 

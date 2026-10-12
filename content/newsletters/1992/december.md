@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. VI, No. 3 December 1992
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -112,7 +112,7 @@ Misty and Larry are making very few con appearances next year but here is info o
 
 ## COLLEGIUM NEWS:
 
-We have handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. [Ed. note 2004: Out-of-date info. withheld. The handouts are now online at [/persona-handouts/](/persona-handouts/).] and specify which handout you are requesting. Ask for a release form too if you expect to write a story. [Ed. note 2004: The release is available online at [/release-form-instructions/](/release-form-instructions/).] If you have completed Herald-Mage requirements, [Ed. note 2004: Out-of-date info. withheld.].
+We have handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. [Ed. note 2004: Out-of-date info. withheld. The handouts are now online at [Persona handouts and submission instructions](/persona-handouts/).] and specify which handout you are requesting. Ask for a release form too if you expect to write a story. [Ed. note 2004: The release is available online at [Release form instructions](/release-form-instructions/).] If you have completed Herald-Mage requirements, [Ed. note 2004: Out-of-date info. withheld.].
 
 - Welcome, **Herald Rian Waridel**, Chosen by Cirah and gifted with Fetching and Animal Mindspeech. *Alex Diamond* sent the history of Rian and his family, four drawings, and a story.
 - Welcome, **Herald Arete Manixus**, Chosen by Mense and gifted with strong Mindspeech, Fetching, and very slight Foreseeing. *Debra Stansburv* sent character information on Arete and friends, a story, the family tree of Valdemar monarchy, a Herald/Companion list, and seven drawings.

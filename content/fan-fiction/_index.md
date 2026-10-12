@@ -31,11 +31,11 @@ These are approved Mercedes Lackey Fanzines (Some are technically newsletters &l
 
 ### The Valdemaran Herald
 
-Editor: Sacree Noir E-mail: [Sacree Noir](mailto:sn.keeper@yahoo.com) Website: [/golden-grove/](/golden-grove/)
+Editor: Sacree Noir E-mail: [Sacree Noir](mailto:sn.keeper@yahoo.com) Website: [Golden Grove](/golden-grove/)
 
-The Official Queen's Own Fanzine Editor: Healer Adept Moonstar E-mail: [Healer Adept Moonstar](mailto:healermoon@gmail.com) Website: [/children-of-velgarth/](/children-of-velgarth/) Note: Only accepts [personae materials](/persona-handouts/) submitted through Queen's Own.
+The Official Queen's Own Fanzine Editor: Healer Adept Moonstar E-mail: [Healer Adept Moonstar](mailto:healermoon@gmail.com) Website: [Children of Velgarth](/children-of-velgarth/) Note: Only accepts [personae materials](/persona-handouts/) submitted through Queen's Own.
 
-Co-editor: Co-editor/Advisor: Herald Mage Danya President/Advisor: Seeking Herald Bastian E-mail: [Herald Mage Danya](mailto:shashtah@gmail.com) Website: [/vanyel-fan-club/newsletter/](/vanyel-fan-club/newsletter/)
+Co-editor: Co-editor/Advisor: Herald Mage Danya President/Advisor: Seeking Herald Bastian E-mail: [Herald Mage Danya](mailto:shashtah@gmail.com) Website: [The Valdemaran Herald](/vanyel-fan-club/newsletter/)
 
 <img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/>
 

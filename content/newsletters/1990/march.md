@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. III, No. 3 March 1990
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -62,7 +62,7 @@ CHRIS JOHNSON, as mentioned in [February's issue](/newsletters/1990/february/), 
 
 Some of you will note some changes and/or adjustments from what Misty originally wrote. However, Judith and I think they are minor, and, as they were specifically, in the main, in regard to asking you to help us in one form or another, we felt able to make them with a clear conscience. Chris was understanding enough to edit his work accordingly.
 
-One area where we had some doubts, and therefore left it, was in the extra credit for starting a fan/newsletter. Before you consider trying this, I would suggest that you contact [Ed. Note 2002: Zines mentioned are no longer in existence. For current zines and their editors, see [/fan-fiction/](/fan-fiction/).] There's more involved than it may appear. Both newsletters were established as offshoots of fan clubs, and initially were a way to introduce and keep members in touch with one another and let them know of local cons and other areas of interest not covered herein.
+One area where we had some doubts, and therefore left it, was in the extra credit for starting a fan/newsletter. Before you consider trying this, I would suggest that you contact [Ed. Note 2002: Zines mentioned are no longer in existence. For current zines and their editors, see [Fan fiction archive](/fan-fiction/).] There's more involved than it may appear. Both newsletters were established as offshoots of fan clubs, and initially were a way to introduce and keep members in touch with one another and let them know of local cons and other areas of interest not covered herein.
 
 Nancy Sloop wrote, on behalf of herself and daughter Ginny. "We are really looking forward to the Persona Guide promised in the February issue--bless Chris Johnson's heart! That will be a big help to all of us potential Heralds. I tried to glean what I could from your newsletters and set it up in list form, but it will be wonderful to see if I missed anything."
 

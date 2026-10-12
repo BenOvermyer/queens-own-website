@@ -30,7 +30,7 @@ Official RPs are held on the fourth Wednesday of every month.
 ## General Rules
 
 1. All online RPs must take place in the Secret Room. No other online RPing is permitted.
-2. Danya or Moonstar (the co-Presidents of Queen's Own) must be in the chatroom for an official RPG event to take place. Danya will act as Gamemaster (GM). Her decisions about what may or may not be done are final. Nonmembers are not allowed. You can join QO by following the instructions at [/persona-handouts/](/persona-handouts/).
+2. Danya or Moonstar (the co-Presidents of Queen's Own) must be in the chatroom for an official RPG event to take place. Danya will act as Gamemaster (GM). Her decisions about what may or may not be done are final. Nonmembers are not allowed. You can join QO by following the instructions at [Persona handouts and submission instructions](/persona-handouts/).
 3. No logging of the RPs is allowed. You may use ideas generated during the RPs to write stories later on, but you may not record the RPs.
 4. Each individual is free to develop material in accordance with the setting described below.
 5. Misty's copyrighted characters may not be used during play (There is no reason for any of her characters to be "passing through" a village that exists only on our alternate timeline.).

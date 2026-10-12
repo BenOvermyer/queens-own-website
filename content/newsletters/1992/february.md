@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. V, No. 6 February 1992
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -120,7 +120,7 @@ To QO members in the NY/NJ metropolitan area: We are forming a social meeting gr
 
 ## Collegium News:
 
-Those QO members whose names are listed here have fulfilled the requirements for becoming a Herald. If you are interested in joining their ranks, [Ed. note 2003: Out-of-date information withheld. Visit [/persona-handouts/](/persona-handouts/) for the current instructions.].
+Those QO members whose names are listed here have fulfilled the requirements for becoming a Herald. If you are interested in joining their ranks, [Ed. note 2003: Out-of-date information withheld. Visit [Persona handouts and submission instructions](/persona-handouts/) for the current instructions.].
 
 Welcome, **Herald Shirel**, Chosen by Laravis and gifted with FarSight, Fetching, and Mindspeech. *Nicole Pinder* sent background information on her persona and borther, a story, a poem, sketches of her characters and floor plans of their old home, and a picture of herself on horseback.
 
@@ -150,7 +150,7 @@ For information on Robin of Sherwood (the series and the cast), the Robin Hood l
 
 Also offering help to fledgling writers and editors, and willing to supply addresses of non-Misty related zines, is *Patience Sibeal*, [Ed. note 2003: Out-of-date information withheld.].
 
-For help in writing your persona: *Courtney Crawford*, [Ed. note 2003: Out-of-date information withheld. People who currently need help developing a persona can join the Pending List by following the instructions at [/club-chat/](/club-chat/).]
+For help in writing your persona: *Courtney Crawford*, [Ed. note 2003: Out-of-date information withheld. People who currently need help developing a persona can join the Pending List by following the instructions at [Club chat guidance](/club-chat/).]
 
 For news of Pern fandom: *Hannah Blair*, [Ed. note 2003: Out-of-date information withheld.]. Hannah adds, "If anyone has contact addresses for any Weyr, please send them! I've got a lot, but I don't want to miss any."
 

@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. IV, No. 4 January 1991
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -130,11 +130,11 @@ In answer to the question of what "GRUPS" stands for, I've been told it's "Gamer
 
 Queen's Own buttons are no longer being mentioned in the newsletter because there are no more. How about a new design? The Companions are very, very special, but Misty's universe has expanded to hold much more. Do you have an idea? There is already a "Witch Brigade" design available at cons to honor Diana Tregarde.
 
-Chris Johnson's "The Helpful Herald Handout of How to Become a Herald" has proven to be very helpful--and very popular. [Ed. note 2002: Out-of-date information withheld. You can find the current handouts listed online at [/persona-handouts/](/persona-handouts/).].
+Chris Johnson's "The Helpful Herald Handout of How to Become a Herald" has proven to be very helpful--and very popular. [Ed. note 2002: Out-of-date information withheld. You can find the current handouts listed online at [Persona handouts and submission instructions](/persona-handouts/).].
 
 [Ed. note 2002: Out-of-date information withheld.]
 
-Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2002: Out-of-date information withheld.] Chancellor of the Exchequer--Steve Louvis Archivist, Registrar, Organizer *extraordinaire*--Patricia Riggs [Ed. note 2002: Out-of-date information withheld.]Register your Herald and Companion names with Pat (but send finished Herald material to me.) Pat serves as the answer lady. When asking for info from either Pat or me, remember your SASE! [Ed. note 2002: The current Registry of Heralds is now called the Approved Persona List and is available online at [/persona-directory/](/persona-directory/).] Mailing Day Helpers (last issue)--Suzanne Brenner, Ana Casacuberta, Robin Gladeau, Linda Gumkowski, Joanne Gise Mattern, Cristine Martins, and Sean Miller.
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2002: Out-of-date information withheld.] Chancellor of the Exchequer--Steve Louvis Archivist, Registrar, Organizer *extraordinaire*--Patricia Riggs [Ed. note 2002: Out-of-date information withheld.]Register your Herald and Companion names with Pat (but send finished Herald material to me.) Pat serves as the answer lady. When asking for info from either Pat or me, remember your SASE! [Ed. note 2002: The current Registry of Heralds is now called the Approved Persona List and is available online at [Persona directory](/persona-directory/).] Mailing Day Helpers (last issue)--Suzanne Brenner, Ana Casacuberta, Robin Gladeau, Linda Gumkowski, Joanne Gise Mattern, Cristine Martins, and Sean Miller.
 
 From Betsy Howland:
 

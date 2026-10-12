@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. III, No. 4 April 1990
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -56,7 +56,7 @@ I reluctantly made the decision some months ago that Queen's Own is going to hav
 
 Queen's Own membership buttons are still available. [Ed. note 2002: Out-of-date pricing info omitted, as well as checking account info and dues payment information. Memberships in the current incarnation of Queen's Own are free.] Your membership year will still start with the September issue.
 
-Patricia Riggs has volunteered her many organizational skills to become our archivist. She is the keeper of those bits and pieces of information you just have to know. If you have a question about Misty's books, filk, the club, or even about a zine or convention, send it to Patricia WITH A SASE. (Send requsts for Chris Johnson's [*The Helpful Handout of How to Become a Herald*](/herald-handout/) to me.) Please rememebr to include a Self Addressed Stamped Envelope whenever you write to anyone for information. And send Pat information on zines and cons so she can keep her records up to date. (Would you like to be her assistant? She could use some help.) Pat is also our Herald registrar. If you don't have time to finish your Herald requirements but know the names of your persona and Companion and want to make sure no one else has used them, send them to Pat. [Ed. note 2002: Out-of-date address withheld. The list is online at [/persona-directory/](/persona-directory/).]
+Patricia Riggs has volunteered her many organizational skills to become our archivist. She is the keeper of those bits and pieces of information you just have to know. If you have a question about Misty's books, filk, the club, or even about a zine or convention, send it to Patricia WITH A SASE. (Send requsts for Chris Johnson's [*The Helpful Handout of How to Become a Herald*](/herald-handout/) to me.) Please rememebr to include a Self Addressed Stamped Envelope whenever you write to anyone for information. And send Pat information on zines and cons so she can keep her records up to date. (Would you like to be her assistant? She could use some help.) Pat is also our Herald registrar. If you don't have time to finish your Herald requirements but know the names of your persona and Companion and want to make sure no one else has used them, send them to Pat. [Ed. note 2002: Out-of-date address withheld. The list is online at [Persona directory](/persona-directory/).]
 
 ## Convention News
 

@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. III, No. 1 January 1990
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -42,7 +42,7 @@ My persona Margreth, called Reth, made it *very* clear what she liked and didn't
 
 Before starting on my persona, I had worked on a map and some floor plans for the Hold and a Watch Tower, so I had some idea of where Margreth lived, [I've since noted which are her and Cathrin's rooms,] but I found out that, for me, it was also necessary to start a timeline in order to keep everyone's ages straight. So I've even got a start on my *Extra Points*. The only problem I've run into so far is that when I'm working on any part of this I lose track of time.
 
-It appears that we've embarked on a do-it-yourself creative writing course! Let me hasten to assure you though, *none of your efforts will be critiqued, corrected, or 'graded'!* [Ed. Note 2002: Things are a bit different these days. We work with you until you get a persona that really works with the rest of the approved personae. See the handouts at [/persona-handouts/](/persona-handouts/).] Whereas Misty established the requirements and guidelines for Heralds, my job is only to verify fulfillment of same and authorize your getting your Herald's certificate, [Suitable for framing, of course.]
+It appears that we've embarked on a do-it-yourself creative writing course! Let me hasten to assure you though, *none of your efforts will be critiqued, corrected, or 'graded'!* [Ed. Note 2002: Things are a bit different these days. We work with you until you get a persona that really works with the rest of the approved personae. See the handouts at [Persona handouts and submission instructions](/persona-handouts/).] Whereas Misty established the requirements and guidelines for Heralds, my job is only to verify fulfillment of same and authorize your getting your Herald's certificate, [Suitable for framing, of course.]
 
 At last! My son delivered my copy of MAGIC'S PROMISE. With the weekend ahead of me . . . .
 

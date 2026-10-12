@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. IV, No. 10 July 1991
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -60,7 +60,7 @@ For the Northwest, there's **dream 6**, November 1-3 a thte Quality Inn Hotel & 
 
 Like to plan ahead? Misty is listed as Special Guest of Honor at **Chattacon 17**, January 17-19 in Chattanooga. Memberships purchased [Ed. note 2003: Out-of-date contact information withheld.].
 
-Jacksonville is hodting **CrackerCon** March 13-15, 1992. The Guest of Honor is Misty, with Larry as Artist GoH and Doris Mager of Save Our American Raptors as special Guest on Saturday morning. Meberships are [Ed. note 2003: Out-of-date contact information withheld.].&lt;. ,P> Have you dreamed of becoming a Herald but aren't sure how to start? This topic was discussed in a number of previous newsletters, and most of the necessary information was compiled by Chris Johnson into one page, aptly titled "The Helpful Haldout of How to Become a Herald." [Ed. note 2003: Out-of-date contact information withheld. Current handouts can be found at [/persona-handouts/](/persona-handouts/).]
+Jacksonville is hodting **CrackerCon** March 13-15, 1992. The Guest of Honor is Misty, with Larry as Artist GoH and Doris Mager of Save Our American Raptors as special Guest on Saturday morning. Meberships are [Ed. note 2003: Out-of-date contact information withheld.].&lt;. ,P> Have you dreamed of becoming a Herald but aren't sure how to start? This topic was discussed in a number of previous newsletters, and most of the necessary information was compiled by Chris Johnson into one page, aptly titled "The Helpful Haldout of How to Become a Herald." [Ed. note 2003: Out-of-date contact information withheld. Current handouts can be found at [Persona handouts and submission instructions](/persona-handouts/).]
 
 Misty took time during her NJ visit to clear up a couple of questions about the HErald process.
 

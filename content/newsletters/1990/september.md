@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. IV, No. 1 September 1990
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own are Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own are Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -110,7 +110,7 @@ Congratulations to our fifteen new Heralds, our first Bard, and our Shin'a'in sc
 
 **SoonerCon**, November 2-4, at the Central Plaza Hotel, Oklahoma City, Oklahoma. Lois McMaster Bujold is the Guest of Honor, but other guests are expected to include Misty and C.J. Cherryh. [Ed. note 2002: Out-of-date information withheld.].
 
-Chris Johnson's "The Helpful Handout of How to Become a Herald" has proven to be very helpful--and very popular. It's still available [Ed. note 2002: Out-of-date information deleted. Visit [/persona-handouts/](/persona-handouts/) for current information.].
+Chris Johnson's "The Helpful Handout of How to Become a Herald" has proven to be very helpful--and very popular. It's still available [Ed. note 2002: Out-of-date information deleted. Visit [Persona handouts and submission instructions](/persona-handouts/) for current information.].
 
 Remember, there will be an October newsletter but no mailing in November. This allows me to pretend that I can get organized for the holidays. The October issue will be mailed around the 13th, the following issue, December 15th.
 

@@ -97,7 +97,7 @@ Note: Some details do not match the current handout because the characters were 
 ## [Tayledras](/tayledras-handout/)
 
 1. [Scout Cometfire k'Vaia](mailto:evillurking@gmail.com) ([May 1998](/newsletters/1998/may/)) (Bondbird: Lyra; Kestral)
-2. [Scout Darkstar](mailto:evillurking@gmail.com) ([](/newsletters/1996/september/)[September 1996](/newsletters/1996/september/)) (Bondbird: Jilar; Harris Hawk)
+2. [Scout Darkstar](mailto:evillurking@gmail.com) ([Queen’s Own newsletter — September 1996](/newsletters/1996/september/)[September 1996](/newsletters/1996/september/)) (Bondbird: Jilar; Harris Hawk)
 3. [Healer Adept Shadowstar k'Lobo](mailto:shadowstar23@hotmail.com) (July 1995)
 4. Scout Warwind k'Shador (June 1995) (Bondbird: Tralee)
 

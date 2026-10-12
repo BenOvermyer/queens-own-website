@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 2, Vol. I, No. 6 May 13, 1999
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -85,7 +85,7 @@ Herald and Misty Fans! Remember when Firebird used to sell those beautiful, hand
 - **Pacific Northwest Collegium** - C/O Laura Cameron/Moonglade K�Shena [Ed. Note 2002: Address withheld.]
 - **The Vales** is a yearly zine. Kendra Renaud,[Ed. Note 2002: Address withheld; no longer published.]
 - **On The Wing** costs $2.00, and is nearly 20 pages in length. This zine is completely dedicated to the Tayledras. I am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002: Address withheld; no longer published.]
-- **Golden Grove** , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld. See new info at [/golden-grove/](/golden-grove/).
+- **Golden Grove** , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld. See new info at [Golden Grove](/golden-grove/).
 
 A word from the President: I�m sorry that my replies have not been very quick lately. I, like Judith, put family crises before QO-MTW. Lately, there have been a few. My husband needs surgery for possible cancer, our 7 month old kitten was put down, our 11 year old cat has possible kidney failure and my hamster is pregnant! Hopefully, life will calm down now and I can get caught up and remain that way. Thanks for your understanding.
 

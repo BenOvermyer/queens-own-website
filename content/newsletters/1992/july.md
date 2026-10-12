@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. V, No. 10 July 1992
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -104,7 +104,7 @@ Living in a town where the librarians glare at you over their bifocals? Afraid t
 
 Congratulations to Johanna Novales, Mary Richards, Cindy West, Cherie Lombardi, Nancy Oberlander, Daniela Scheele, Tracy Patton, Royce Day, Erica Kennedy, and Gelinda S. Shipman. Your personas will be properly welcomed into the Collegium in the September newsletter.
 
-All would-be Herald-Mages: To prove your right to call yourself a Herald-Mage you must [Ed note 2004: Out-of-date guidelines withheld. The instructions for how to become a Herald-Mage are at [/herald-mage-handout/](/herald-mage-handout/).]. Send nothing to me! The September newsletter will have the address for your material.
+All would-be Herald-Mages: To prove your right to call yourself a Herald-Mage you must [Ed note 2004: Out-of-date guidelines withheld. The instructions for how to become a Herald-Mage are at [Herald-Mage handout](/herald-mage-handout/).]. Send nothing to me! The September newsletter will have the address for your material.
 
 ## FAN MESSAGES:
 

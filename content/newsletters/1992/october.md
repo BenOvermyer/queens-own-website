@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. VI, No. 2 October/November 1992
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -68,7 +68,7 @@ Jod, Lee's latest cover print, *Winds of Fate*, is magnificent! QO members may p
 
 ## COLLEGIUM NEWS:
 
-For a handout on how to become a Herald, Healer, or Bard, or for instructions on how to work for Herald-Mage status if you are already a Herald, [Ed. note 2004: Out-of-date info. withheld. The handouts are now online at [/persona-handouts/](/persona-handouts/).]. If you have completed Herald-Mage requirements, send your material to: [Ed. note 2004: Out-of-date info. withheld. The HErald-Mage handout is now online at [/herald-mage-handout/](/herald-mage-handout/)]. All other material comes to me at the Shiloh address.
+For a handout on how to become a Herald, Healer, or Bard, or for instructions on how to work for Herald-Mage status if you are already a Herald, [Ed. note 2004: Out-of-date info. withheld. The handouts are now online at [Persona handouts and submission instructions](/persona-handouts/).]. If you have completed Herald-Mage requirements, send your material to: [Ed. note 2004: Out-of-date info. withheld. The HErald-Mage handout is now online at [Herald-Mage handout](/herald-mage-handout/)]. All other material comes to me at the Shiloh address.
 
 - Welcome, **Herald Annai Gillian**, Chosen by Laya and Gifted with strong Mindspeech and Empathy. *Jennifer Cultrera* sent background information, a story, two poems & a song, and told of her volunteer work with children.
 - Welcome, **Free Bard Oriole**, presented to us by *Chrys A. Dean*. She sent her characters' stories on tape, along with songs played on four different instruments. One song was an original composition. Chrys performs with three different bands. Welcome, Herald TerraBet Vaduer, Chosen by Brice and Gifted with strong Empathy and Mindspeech. Elizabeth Rodgers sent information on TerraBet and her family, a story, five poems, and four recipes.

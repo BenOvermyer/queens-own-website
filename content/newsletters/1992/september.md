@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. VI, No. 1 September 1992
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -185,7 +185,7 @@ Magic Carpet Con I offers a rare chance to meet Andre Norton next May 7-9 in Dal
 
 ## COLLEGIUM NEWS:
 
-For a handout on how to become a Herald, Healer, or Bard, or for instructions on how to work for Herald-Mage status if you are already a Herald, send a SASE to the new Queen's Own address: [Ed. note 2004: Out-of-date info. withheld. The Handouts are now online at [/persona-handouts/](/persona-handouts/).]. If you have completed Herald-Mage requirements, send your material to: Guardian of the Web - [Ed. note 2004: Out-of-date info. withheld. The Herald-Mage handout is now online at [/herald-mage-handout/](/herald-mage-handout/).]. All other material comes to me.
+For a handout on how to become a Herald, Healer, or Bard, or for instructions on how to work for Herald-Mage status if you are already a Herald, send a SASE to the new Queen's Own address: [Ed. note 2004: Out-of-date info. withheld. The Handouts are now online at [Persona handouts and submission instructions](/persona-handouts/).]. If you have completed Herald-Mage requirements, send your material to: Guardian of the Web - [Ed. note 2004: Out-of-date info. withheld. The Herald-Mage handout is now online at [Herald-Mage handout](/herald-mage-handout/).]. All other material comes to me.
 
 - Welcome, **Herald Kella**, Chosen by Aleth and gifted with double-strength Mindspeech and Empathy. *Johnna Novales* sent information on her persona and family, a poem and a song, and sent details of her many volunteer duties.
 - From *Mary Richards* comes **Healer Kyllia Ricardine**, gifted with very strong Empathy. Mary sent descriptions of Kyllia and her family, three drawings, a letter home, and a story.

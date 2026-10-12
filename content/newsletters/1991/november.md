@@ -26,7 +26,7 @@ Mercedes Lackey Fan Club
 
 <img alt="Misty, Larry and Need at Dreamcon 6 in Everett, Washington. The photograph was taken at Dreamcon 6 in Everett, Washington and supplied by Herald Aerolyn." class="border-5" loading="lazy" src="/qo140.jpg"/>
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 

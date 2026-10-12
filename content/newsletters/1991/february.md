@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. IV, No. 5 February 1991
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -58,7 +58,7 @@ Misty and Larry will visit me in North Jersey during the first weekend of June. 
 
 My thanks to Adina North for the border ont he January newsletter and to Karen Heinz for her Falcon letters, the December border. The folks at the print shop really enjoy the creativity of our members.
 
-Interested in earning your whites but not sure how to go about it? [Ed. note 2003: Out-of-date information withheld. You can find the current instructions at [/persona-handouts/](/persona-handouts/).] Why is it "Chris Johnson's Helpful Handout"? The guidelines for becoming a Herald were discussed in many newsletters. Chris earned his whites by consolidating all that information into one easy-to-read handout.
+Interested in earning your whites but not sure how to go about it? [Ed. note 2003: Out-of-date information withheld. You can find the current instructions at [Persona handouts and submission instructions](/persona-handouts/).] Why is it "Chris Johnson's Helpful Handout"? The guidelines for becoming a Herald were discussed in many newsletters. Chris earned his whites by consolidating all that information into one easy-to-read handout.
 
 ## Collegium Registry:
 

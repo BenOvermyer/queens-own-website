@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. III, No. 6 July 1990
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -52,7 +52,7 @@ The quote from TOR's ad for *Children of the Night* in the July issue of *LOCUS*
 
 The titles of the chapters of *Knight*, by the way, are names of folk songs or Celtic fiddle tunes. Misty says she and Ellen have ideas for at least two more Eric Banyon books. Write to **Baen Publihshing, 260 Fifth Avenue, New York, NY 10001** if you enjoyed *Knight*; tell them you want more!
 
-Chris Johnson's "The Helpful Handout of How to Become a Herald" has proven to be very helpful--and very popular. It's still available [Ed. note 2002: Out-of-date information deleted. Visit [/persona-handouts/](/persona-handouts/) for current information.]. Thanks, Chris, from all of us. We appreciate your hard work.
+Chris Johnson's "The Helpful Handout of How to Become a Herald" has proven to be very helpful--and very popular. It's still available [Ed. note 2002: Out-of-date information deleted. Visit [Persona handouts and submission instructions](/persona-handouts/) for current information.]. Thanks, Chris, from all of us. We appreciate your hard work.
 
 [Ed. note 2002: out-of-date membership information delated. See below for current instructions.] I have no objection to your sharing a newsletter with friends. I do ask that you join Queen's Own if you intend to work for Herald status or use any of our services, like fan messages or mentors.
 

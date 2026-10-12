@@ -21,11 +21,17 @@ class OrganizationTests(unittest.TestCase):
         bookstore = 'https://dragonlords.fans/bkstore.htm'
         self.assertEqual(organize_site.rewrite_url(bookstore, 'qofun.htm', aliases, {}), bookstore)
 
-    def test_rewrite_body_canonicalizes_markdown_link_destinations(self):
-        aliases = {'/qob.htm': '/bard-handout/'}
+    def test_rewrite_body_canonicalizes_markdown_links_and_uses_friendly_labels(self):
+        aliases = {'/qob.htm': '/bard-handout/', '/sonoran-collegium.htm': '/sonoran-collegium/'}
+        titles = {'/bard-handout': 'Bard handout', '/sonoran-collegium': 'Sonoran Collegium', '/': 'Queen’s Own'}
         body = organize_site.rewrite_body(
-            'See [Bard](/qob.htm) and [https://queensown.org/qob.htm](/qob.htm).', 'qofaqb.htm', aliases, {})
-        self.assertEqual(body, 'See [Bard](/bard-handout/) and [/bard-handout/](/bard-handout/).\n')
+            'See [Bard](/qob.htm), [https://queensown.org/qob.htm](/qob.htm), '
+            '[/sonoran-collegium/](/) and [/](/).',
+            'qofaqb.htm', aliases, {}, titles)
+        self.assertEqual(
+            body,
+            'See [Bard](/bard-handout/), [Bard handout](/bard-handout/), '
+            '[Sonoran Collegium](/sonoran-collegium/) and [Queen’s Own](/).\n')
 
     def test_publication_periods_keep_centuries_and_season_labels(self):
         self.assertEqual(organize_site.classify('qomar90.htm', {}, {})['issue']['year'], 1990)

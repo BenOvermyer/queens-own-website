@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 2, Vol. I, No. 9 December 18, 1999
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -98,7 +98,7 @@ This is the runner up. Aubrey Smith did this wonderful piece of work. Many thank
 - **Pacific Northwest Collegium** - C/O Laura Cameron/Moonglade K�Shena [Ed. Note 2002: Address withheld.]
 - **The Vales** is a yearly zine. Kendra Renaud,[Ed. Note 2002: Address withheld; no longer published.]
 - **On The Wing** costs $2.00, and is nearly 20 pages in length. This zine is completely dedicated to the Tayledras. I am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002: Address withheld; no longer published.]
-- **Golden Grove** , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld. See new info at [/golden-grove/](/golden-grove/).
+- **Golden Grove** , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld. See new info at [Golden Grove](/golden-grove/).
 - **Sonoran Collegium** is currently organizing itself! Although we are geographically in Southern Arizona, all are welcome here! The 'zine will be published bi-monthly, and dues are currently $4 US or 6 IRC's elsewhere. If you are interested, please send SASE to us at: [Ed. note 2002: Out-of-date Address withheld.]
 
 ## Updated List of Misty Books--As of December 1999:

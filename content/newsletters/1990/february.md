@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. III, No. 2 February 1990
 
-**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
+**(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
@@ -91,7 +91,7 @@ So there you have it, children. Seeing as the horses aren't talking . . .
 10. **Do you have to be a gamer to become a Herald?** Absolutely not. It's just that we and Misty sometimes use gaming terms that come easily to us because we are gamers.
 11. **I'm more interested in becoming a Bard, is that okay?** That's terrific! Just so long as you remember the fellow who annoyed Tarma so. [Big smile.] Substitute "Bard" for "Herald" in the criteria and we won't worry about your not having a Companion. There are non-Companion/horse related *Extra Points* galore.
 12. **What happens after you become a Herald?** You refer to yourself as a hopeful author, and in that I *know* you are not alone! I would venture to suggest that as a Herald you will experience, if not always enjoy, many new and exciting adventures/ And that there are a *lot* of zine editors "out there" who'd like to hear from you. So keep writing!
-13. **Is there an outlet for Mercedes Lackey-based fanfic [fan written fiction] and art?** You betcha! Specifically Stephanie Wong and R. Nathaniel Waldbauer. [Ed. Note 2002: For current zines that accept Mercedes Lackey-based fanfic, visit [/fan-fiction/](/fan-fiction/).] But don't ignore zines that will print the fantasy fiction relating to many different/other worlds.
+13. **Is there an outlet for Mercedes Lackey-based fanfic [fan written fiction] and art?** You betcha! Specifically Stephanie Wong and R. Nathaniel Waldbauer. [Ed. Note 2002: For current zines that accept Mercedes Lackey-based fanfic, visit [Fan fiction archive](/fan-fiction/).] But don't ignore zines that will print the fantasy fiction relating to many different/other worlds.
 14. **I'm still confused about whether or not stories set in Valdemar should be in the same or different timeline. Can you help?** Yes. *I've finally gotten that straight.* All Valdemar fanfiction *must* take place in an 'alternate' timeline in which Kris does *not* die. [With especial thanks to R. Nathaniel there.]
 15. **What is Christa Miller's "California Arrow"? May I please have the address?** The "California Arrow" is a fanletter authored and edited by Christa Miller especially for, but not limited to, Californians. It is an eclectic compendium of con dates, book reviews, biographies of members, places to go, etc. [Ed. Note 2002: Out-of-date contact and pricing info omitted.]
 16. **What's "The Herald's Hall of California"?** That's the California chapter of QO.
