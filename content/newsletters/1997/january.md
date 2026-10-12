@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. X, No. 4\
-January 1997
+## Series 1, Vol. X, No. 4 January 1997
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -40,21 +38,21 @@ Dear Misty Fans,
 
 "I've been heartened and uplifted by the love and support from you all---especially about the studio fire. Don't think for a moment that it hasn't been effective in getting me by. In fact, these special bookmarks, which Misty and I printed, stamped, and trimmed ourselves for you, were initially going to be printed on some cardstock that survived the fire (a bit scorched in places but serviceable), but alas, it was too thick to run through my printer. The intent was to show you in a tangible way, by using it, that not fire, flood, tornado, or nut-case will stop me---or us---from doing what needs to be done.
 
-"As for the fire proper, evidence of cause is hazy (since things reached around 1,000 degrees F.), and the documentation of loss is over 400 pages of listed items as of this writing. One bay of the big garage is stacked to seven feet with hundreds of boxes of cleaned, reclaimed or totalled things. Roughly half of the portfolio is gone, at current estimate---not all of it was documented before, so I can really only tell what's been destroyed by examining all that is left and \`determining the shape of the hole.' But one good thing about being a living artist is that I can always make more work. I figure, there are spirits out there who couldn't see my work before, and now it's on the wind, where they can see it. So, as we say around High Flight, 'it's all good.'
+"As for the fire proper, evidence of cause is hazy (since things reached around 1,000 degrees F.), and the documentation of loss is over 400 pages of listed items as of this writing. One bay of the big garage is stacked to seven feet with hundreds of boxes of cleaned, reclaimed or totalled things. Roughly half of the portfolio is gone, at current estimate---not all of it was documented before, so I can really only tell what's been destroyed by examining all that is left and &#96;determining the shape of the hole.' But one good thing about being a living artist is that I can always make more work. I figure, there are spirits out there who couldn't see my work before, and now it's on the wind, where they can see it. So, as we say around High Flight, 'it's all good.'
 
 "As I close this, Misty is putting these small but heartfelt handmade gifts to you in a Fed-Ex box. Tomorrow, we will be at a powwow where my tribal-brother and medicine man friend will be dancing in the circle for the first time. We were also at his wedding, a two-day full-regalia affair, several months ago. I've been asked to design & construct my tribal group's new sweat lodge and longhouse, which is a great honor. Work on the books continues apace; with the next Tannim book begun and Owlflight outlined and ready to start. Before too long, there will be new artwork in the retooled new studio, for Owlflight and more. Clear skies!" ---Larry
 
 All who are members of QO should have received a bookmark with their December newsletter. If you didn't, or if you share a newsletter and so had to share the bookmark and want your own, send a SASE and I'll mail you one.
 
-Misty and Larry will be Guests of Honor at Dragon\*Con in Atlanta June 26-29 at the Inforum Convention Center and Hyatt Regency Atlanta. Mark Shepherd and Josepha Sherman also plan to attend, as do I and, we hope, lots of Queen's Own folk. 4-day memberships are $40 to March 15, $50 to May 15, and $6O at the door. The room rate at the Hyatt is $112 per night single with each additional person $10 more. You can specify Quiet or Party Floor. Call \[Ed. note 2005: Out-of-date info withheld.\] to make your reservation. Only a certain number of rooms are put aside at this discounted rate, so make your reservation as early as possible. Send a SASE to Dragon\*Con '97 \[Ed. note 2005: Out-of-date info withheld.\] for registration information. You can call the Dragon\*Con office Monday through Friday from 8:30 am to 5 pm (770-925-0115) or use the 24-hour info and fax line (770-925-2813). If you have web access, use \[Ed. note 2005: Out-of-date info withheld.\]; e-mail messages should be sent to \[Ed. note 2005: Out-of-date info withheld.\]. Tickets for the convention can even be purchased from Ticketmaster at \[Ed. note 2005: Out-of-date info withheld.\], using a credit card.
+Misty and Larry will be Guests of Honor at Dragon&#42;Con in Atlanta June 26-29 at the Inforum Convention Center and Hyatt Regency Atlanta. Mark Shepherd and Josepha Sherman also plan to attend, as do I and, we hope, lots of Queen's Own folk. 4-day memberships are $40 to March 15, $50 to May 15, and $6O at the door. The room rate at the Hyatt is $112 per night single with each additional person $10 more. You can specify Quiet or Party Floor. Call [Ed. note 2005: Out-of-date info withheld.] to make your reservation. Only a certain number of rooms are put aside at this discounted rate, so make your reservation as early as possible. Send a SASE to Dragon&#42;Con '97 [Ed. note 2005: Out-of-date info withheld.] for registration information. You can call the Dragon&#42;Con office Monday through Friday from 8:30 am to 5 pm (770-925-0115) or use the 24-hour info and fax line (770-925-2813). If you have web access, use [Ed. note 2005: Out-of-date info withheld.]; e-mail messages should be sent to [Ed. note 2005: Out-of-date info withheld.]. Tickets for the convention can even be purchased from Ticketmaster at [Ed. note 2005: Out-of-date info withheld.], using a credit card.
 
-For information on the QOC track of programming, contact M. Morrey at \[Ed. note 2005: Out-of-date info withheld.\], or come visit the QOC planning folder in the Mercedes Lackey Mini forum located in the Fantasy Fiction Forum of Fictional Realm on AOL (keyword: \[Ed. note 2005: Out-of-date info withheld.\]). If not a member of America OnLine, please visit the Dragon\*Con web site for details on the other fan programming, major Guests, and more! The page that Dragon\*Con itself has for the QOC is \[Ed. note 2005: Out-of-date info withheld.\].
+For information on the QOC track of programming, contact M. Morrey at [Ed. note 2005: Out-of-date info withheld.], or come visit the QOC planning folder in the Mercedes Lackey Mini forum located in the Fantasy Fiction Forum of Fictional Realm on AOL (keyword: [Ed. note 2005: Out-of-date info withheld.]). If not a member of America OnLine, please visit the Dragon&#42;Con web site for details on the other fan programming, major Guests, and more! The page that Dragon&#42;Con itself has for the QOC is [Ed. note 2005: Out-of-date info withheld.].
 
 *Sword of Ice and Other Tales of Valdemar* wasn't available in the local bookstore when I wrote this but I'll keep looking; I hope you've been luckier. Science Fiction Book Club has nearly everything of Misty's in their special hardcover editions, and Baen has re-issued *The Lark and the Wren, Knight of Ghosts and Shadows*, and *Born to Run*.
 
 The winter catalog of Firebird Arts & Music of Oregon, Inc. contains many treasures, including a new David Arkenstone album, "Return of the Guardians." Like "Quest of the Dream Warrior," "Return of the Guardians" contains a complete short story by Misty and a beautiful full color map. *The Herald-Mage Concordance* is being finished at the printers; next to be done is the *Shadow Stalker Songbook*. The re-issue of the songs of *Oathbreakers* is nearly complete, *Oathbomd* has been shipped to all who placed an order. Later this year should see the release of *Spirit Ride* by Mark Shepherd and an album of electronic music composed and played by Mark, also called "Spirit Ride."
 
-You can buy all of Misty's books from Firebird. Teri Lee has a special offer for QO members: *Bardic Voices 2: The Robin and the Kestrel* in hardcover for only $14. Browse through the latest merchandise in Firebircl's online catalog at \[Ed. note 2005: Out-of-date info withheld.\]. E-mail orders may be sent to \[Ed. note 2005: Out-of-date info withheld.\]. Call \[Ed. note 2005: Out-of-date info withheld.\] or write to \[Ed. note 2005: Out-of-date info withheld.\]. Teri reports that even though all nearby rivers are at flood stage, the studio is all right--"if the creek don't rise." Floods, blizzards . . . is this what is meant by "May you live in interesting times"?
+You can buy all of Misty's books from Firebird. Teri Lee has a special offer for QO members: *Bardic Voices 2: The Robin and the Kestrel* in hardcover for only $14. Browse through the latest merchandise in Firebircl's online catalog at [Ed. note 2005: Out-of-date info withheld.]. E-mail orders may be sent to [Ed. note 2005: Out-of-date info withheld.]. Call [Ed. note 2005: Out-of-date info withheld.] or write to [Ed. note 2005: Out-of-date info withheld.]. Teri reports that even though all nearby rivers are at flood stage, the studio is all right--"if the creek don't rise." Floods, blizzards . . . is this what is meant by "May you live in interesting times"?
 
 ## COLLEGIUM NEWS:
 
@@ -68,78 +66,75 @@ We have individual handout sheets for the aspiring Herald, Healer, Bard, Tayledr
 
 ## MEMBER NEWS:
 
-For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send \[Ed. note 2005: Out-of-date info withheld.\] to the QO address for this 12 page booklet.
+For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005: Out-of-date info withheld.] to the QO address for this 12 page booklet.
 
 ### Local Chapters:
 
-Arrows Online--Arrows Online, the AOL chapter of Queen's Own, is indeed open for business! If you are already an AOL member and want to join our very silly and friendly group, please e-mail the Dean of our very own Westhaven Collegia at \[Ed. note 2005: Out-of-date info withheld.\]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm \[Ed. note 2005: Out-of-date info withheld.\] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at \[Ed. note 2005: Out-of-date info withheld.\].
+Arrows Online--Arrows Online, the AOL chapter of Queen's Own, is indeed open for business! If you are already an AOL member and want to join our very silly and friendly group, please e-mail the Dean of our very own Westhaven Collegia at [Ed. note 2005: Out-of-date info withheld.]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm [Ed. note 2005: Out-of-date info withheld.] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at [Ed. note 2005: Out-of-date info withheld.].
 
-Austral'a'in--Cassandra Vuksa \[Ed. note 2005: Out-of-date info withheld.\].
+Austral'a'in--Cassandra Vuksa [Ed. note 2005: Out-of-date info withheld.].
 
-Companion's Choice--Shanara Ravensong \[Ed. note 2005: Out-of-date info withheld.\].
+Companion's Choice--Shanara Ravensong [Ed. note 2005: Out-of-date info withheld.].
 
-Dream Bound--c/o Sharon Tan \[Ed. note 2005: Out-of-date info withheld.\].
+Dream Bound--c/o Sharon Tan [Ed. note 2005: Out-of-date info withheld.].
 
-The Farflying Arrow: Achtung, an alle deutschsprechenden Misty-Fans!! Write to Gwendolen \[Ed. note 2005: Out-of-date info withheld.\].
+The Farflying Arrow: Achtung, an alle deutschsprechenden Misty-Fans!! Write to Gwendolen [Ed. note 2005: Out-of-date info withheld.].
 
-Golden Grove--Stephanie Anderson \[Ed. note 2005: Out-of-date info withheld.\].
+Golden Grove--Stephanie Anderson [Ed. note 2005: Out-of-date info withheld.].
 
-The Herald's Companion--Herald's Companion c/o Karen Bertke \[Ed. note 2005: Out-of-date info withheld.\].
+The Herald's Companion--Herald's Companion c/o Karen Bertke [Ed. note 2005: Out-of-date info withheld.].
 
-Heralds' Revel--c/o H. Wegemer \[Ed. note 2005: Out-of-date info withheld.\]: Send e-mail to \[Ed. note 2005: Out-of-date info withheld.\].
+Heralds' Revel--c/o H. Wegemer [Ed. note 2005: Out-of-date info withheld.]: Send e-mail to [Ed. note 2005: Out-of-date info withheld.].
 
-Outkingdom--Y'larna Finnareth c/o Joanne Thwaites \[Ed. note 2005: Out-of-date info withheld.\].
+Outkingdom--Y'larna Finnareth c/o Joanne Thwaites [Ed. note 2005: Out-of-date info withheld.].
 
-Pacific Northwest Collegium--c/o Charlene Ryan \[Ed. note 2005: Out-of-date info withheld.\].
+Pacific Northwest Collegium--c/o Charlene Ryan [Ed. note 2005: Out-of-date info withheld.].
 
-R.C.M.H.--Contact Pam Dziedzic \[Ed. note 2005: Out-of-date info withheld.\].
+R.C.M.H.--Contact Pam Dziedzic [Ed. note 2005: Out-of-date info withheld.].
 
-Under Kal'enel's Care--\[Ed. note 2005: Out-of-date info withheld.\]. These bi-monthly newsletters are aimed specifically at the Shin'a'in.
+Under Kal'enel's Care--[Ed. note 2005: Out-of-date info withheld.]. These bi-monthly newsletters are aimed specifically at the Shin'a'in.
 
 ## Other Fandoms:
 
-Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond \[Ed. note 2005: Out-of-date info withheld.\].
+Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
 
-Jennifer Roberson--Children of the Firstborn \[Ed. note 2005: Out-of-date info withheld.\].
+Jennifer Roberson--Children of the Firstborn [Ed. note 2005: Out-of-date info withheld.].
 
-Tanya Huff--Nine Above! \[Ed. note 2005: Out-of-date info withheld.\]. If you are a Tanya Huff fan, subscribe to Nine Above! The January newsletter will have a brief excerpt from *Blood Debt*, due out in April.
+Tanya Huff--Nine Above! [Ed. note 2005: Out-of-date info withheld.]. If you are a Tanya Huff fan, subscribe to Nine Above! The January newsletter will have a brief excerpt from *Blood Debt*, due out in April.
 
-Anne McCaffrey/Pern--Starfire Weyr \[Ed. note 2005: Out-of-date info withheld.\].
+Anne McCaffrey/Pern--Starfire Weyr [Ed. note 2005: Out-of-date info withheld.].
 
-Anne McCaffrey/Pern--Sunfall Weyr \[Ed. note 2005: Out-of-date info withheld.\].
+Anne McCaffrey/Pern--Sunfall Weyr [Ed. note 2005: Out-of-date info withheld.].
 
-General Fandom--National Fantasy Fan Federation (N3F) \[Ed. note 2005: Out-of-date info withheld.\] (Send SASE to QO for a membership application if you wish.)
+General Fandom--National Fantasy Fan Federation (N3F) [Ed. note 2005: Out-of-date info withheld.] (Send SASE to QO for a membership application if you wish.)
 
-Adrian Paul (Highlander)--Peace \[Ed. note 2005: Out-of-date info withheld.\].
+Adrian Paul (Highlander)--Peace [Ed. note 2005: Out-of-date info withheld.].
 
-FANTASY STATIONERY & BOOKMARKS! (Misty related and others) I'm still trying to keep this \`business' going, but i need your support! Quality artwork and truly a labor of love - just send an SASE for my catalogue. \[Ed. note 2005: Out-of-date info withheld.\]. For the Star Wars fan (like me), the STAR WARS Cookbook, recipes and art. Send $4 for your copy (to cover production and distribution expenses).
+FANTASY STATIONERY & BOOKMARKS! (Misty related and others) I'm still trying to keep this &#96;business' going, but i need your support! Quality artwork and truly a labor of love - just send an SASE for my catalogue. [Ed. note 2005: Out-of-date info withheld.]. For the Star Wars fan (like me), the STAR WARS Cookbook, recipes and art. Send $4 for your copy (to cover production and distribution expenses).
 
-THE UNICORN'S VALE: Our denizens of this dark and sultry vale invite you to join us in our moonlit dance. Our first issue is filled with stories of fantasy, science fiction, and horror. Our pages are graced with the delightful work of fantastic artists, Chell Cornett, Herald Alora and John Kyc! Poetry and stories abound. We are offering sales of Issue #1, and ever looking for further submissions to our now quarterly zinc. They are printed at $3 each, plus $1 postage US/$2 postage Canada/$3 postage overseas. Checks must be made to \[Ed. note 2005: Out-of-date info withheld.\]. Come and venture the mystic trails with us.
+THE UNICORN'S VALE: Our denizens of this dark and sultry vale invite you to join us in our moonlit dance. Our first issue is filled with stories of fantasy, science fiction, and horror. Our pages are graced with the delightful work of fantastic artists, Chell Cornett, Herald Alora and John Kyc! Poetry and stories abound. We are offering sales of Issue #1, and ever looking for further submissions to our now quarterly zinc. They are printed at $3 each, plus $1 postage US/$2 postage Canada/$3 postage overseas. Checks must be made to [Ed. note 2005: Out-of-date info withheld.]. Come and venture the mystic trails with us.
 
-Is your house twenty feet off the ground? Do you spend your free time with beads and feathers'? Does your best friend eat mice on a regular basis? If you have a Tayledras persona or just an interest in the Tayledras, ON THE WING is for you. ON THE WING is part zinc, part newsletter, with sections for poetry, stories, discussion, articles, Tayledras questions, and more! Volume 1 will be free of charge, so what do you have to lose? For more information or for story guidelines, send an SASE to ON THE WING \[Ed. note 2005: Out-of-date info withheld.\].
+Is your house twenty feet off the ground? Do you spend your free time with beads and feathers'? Does your best friend eat mice on a regular basis? If you have a Tayledras persona or just an interest in the Tayledras, ON THE WING is for you. ON THE WING is part zinc, part newsletter, with sections for poetry, stories, discussion, articles, Tayledras questions, and more! Volume 1 will be free of charge, so what do you have to lose? For more information or for story guidelines, send an SASE to ON THE WING [Ed. note 2005: Out-of-date info withheld.].
 
-The first collection of personas is out! The VALES is now available at the cost of $6.40 or a book of stamps. Write to Kendra Renaud \[Ed. note 2005: Out-of-date info withheld.\].
+The first collection of personas is out! The VALES is now available at the cost of $6.40 or a book of stamps. Write to Kendra Renaud [Ed. note 2005: Out-of-date info withheld.].
 
 ## FAN MESSAGES:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
 ## PERSONALS:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
-Queen's Own \[Ed. note 2005: Out-of-date content withheld.\], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at \[Ed. note 2005: Out-of-date content withheld.\] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay \[Ed. note 2005: Out-of-date content withheld.\] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: \[Ed. note 2005: Out-of-date content withheld.\]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Deadline for next newsletter contributions: January 1--earlier is better.\
-Next Mailing Day: January 11, 1997--Call \[Ed. note 2005: Out-of-date info withheld.\] for directions. Always call before coming, family emergencies can cancel mailings.
+Deadline for next newsletter contributions: January 1--earlier is better. Next Mailing Day: January 11, 1997--Call [Ed. note 2005: Out-of-date info withheld.] for directions. Always call before coming, family emergencies can cancel mailings.
 
-Editor, President, Dogsbody, Housemother - Judith Louvis \[Ed. note 2005: Out-of-date content withheld.\] (Call only before 10 pm and let it ring.)\
-Border Design: Jennifer Figgins\
-Mailing Day Helpers (last issue)--Amethyst Willow'Wind and SpiritBlade, Barbara Leflar Jackson, Steve Louvis.
+Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Border Design: Jennifer Figgins Mailing Day Helpers (last issue)--Amethyst Willow'Wind and SpiritBlade, Barbara Leflar Jackson, Steve Louvis.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -151,10 +146,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

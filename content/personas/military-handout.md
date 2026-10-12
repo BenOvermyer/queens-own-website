@@ -21,10 +21,7 @@ canonical_path = "/military-handout/"
 
 Distributed by:
 
-### Queen's Own\
-The Official Mercedes Lackey Fan Club\
-P.O. Box 749\
-Laguna Beach, CA 92652 USA
+### Queen's Own The Official Mercedes Lackey Fan Club P.O. Box 749 Laguna Beach, CA 92652 USA
 
 This is the handout you want to use if you wish to develop a Guard, Mercenary or other soldier-type persona. (Note: There is a second way to develop a Guard persona using the [Blue Handout](/blues-handout/#guard). There is a second way to develop a Mercenary on the [Guild Handout](/guild-handout/).)
 
@@ -163,12 +160,11 @@ For those of you who would like to qualify as a member of the Palace Guard, comp
 
 Have additional questions about persona creation? Join the "Pending List" at
 
-\[This list is not currently working. We hope to reestablish it soon. In the meantime, you can send questions directly to Danya at [Legend@malcor.com](mailto:Legend@malcor.com).\]
+[This list is not currently working. We hope to reestablish it soon. In the meantime, you can send questions directly to Danya at [Legend@malcor.com](mailto:Legend@malcor.com).]
 
 The Pending list is a place for people to ask questions about the handouts, requirements, process of developing a persona, and so forth. It is not a book discussion list. The [QO list rules](/club-chat/) apply to this list as well.
 
-Zhai'helleva,\
-[Herald-Mage Adept Danya Winterborn](mailto:Legend@malcor.com)
+Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:Legend@malcor.com)
 
 <img alt="" loading="lazy" src="/barcastl.gif"/>
 

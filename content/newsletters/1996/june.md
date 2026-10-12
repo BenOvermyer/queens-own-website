@@ -20,19 +20,17 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. I, No. 9\
-June 1996
+## Series 1, Vol. I, No. 9 June 1996
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty fans:
 
-<img alt="Border by Jane Callard" class="float-right" loading="lazy" src="/qo294.jpg"/>Misty's Birthday is June 24, Larry's is July 28. Send cards to their business address: \[Ed. note 2003: The current address is Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017\].
+<img alt="Border by Jane Callard" class="float-right" loading="lazy" src="/qo294.jpg"/>Misty's Birthday is June 24, Larry's is July 28. Send cards to their business address: [Ed. note 2003: The current address is Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017].
 
 Here is a list of short stories by Misty.
 
@@ -203,9 +201,9 @@ If I've missed anything, please let me know so I can list it in a future newslet
 
 *Storm Breaking* is scheduled for an October release (I want it NOW, don't you?). *The Friends of Valdemar*, a short story collection, will be released this winter. The paperback version of *The Fire Rose* has a November release date. *Bardic Voices* I-III, a three-in-one trade paperback, has a February release date.
 
-A subscription to *Marion Zimmer Bradley's FANTASY Magazine* \[Ed. Note 2002: Info withheld. This magazine has ceased publication.\]
+A subscription to *Marion Zimmer Bradley's FANTASY Magazine* [Ed. Note 2002: Info withheld. This magazine has ceased publication.]
 
-The Spring catalog of Firebird Music is filled with treasures, including the emblem of the elite Silver Gryphon Guards. This stylized Gryphon design by Larry Dixon can be yours on a T-shirt, as a patch, or as a silver and black cloisonné pin. Firebird carries music for every taste from filk & folk to the soundtracks from *Babylon 5* and *Alien Nation*; books by Josepha Sherman, Tanya Huff, Barbara Hambly and others; T-shirts, Celtic knot pewter pendants, videos of Steeleye Span and Tempest - 62 pages of treasure. And, of course, all of Misty's books and related music, art, jewelry, and stationary can be ordered from Firebird. Check out Firebird's most up-to date product information on the World Wide Web at \[Ed. Note 2002: Out-of-date info withheld. Firebird is now located at [http://www.firebirdarts.com/](http://www.firebirdarts.com/)\].
+The Spring catalog of Firebird Music is filled with treasures, including the emblem of the elite Silver Gryphon Guards. This stylized Gryphon design by Larry Dixon can be yours on a T-shirt, as a patch, or as a silver and black cloisonné pin. Firebird carries music for every taste from filk & folk to the soundtracks from *Babylon 5* and *Alien Nation*; books by Josepha Sherman, Tanya Huff, Barbara Hambly and others; T-shirts, Celtic knot pewter pendants, videos of Steeleye Span and Tempest - 62 pages of treasure. And, of course, all of Misty's books and related music, art, jewelry, and stationary can be ordered from Firebird. Check out Firebird's most up-to date product information on the World Wide Web at [Ed. Note 2002: Out-of-date info withheld. Firebird is now located at [http://www.firebirdarts.com/](http://www.firebirdarts.com/)].
 
 This fall Baen is re-issuing *The Lark & the Wren*, *Knight of Ghosts and Shadows* by Misty and Ellen Guon, and *Born to Run* by Misty and Larry, as well as the *Wing Commander* novel by Misty and Ellen, *Freedom Flight*, and the Misty/Piers Anthony collaboration, *If I Pay Thee Not in Gold*, all in paperback. Also from Baen in November is Josepha Sherman's sequel to *The Shattered Oath*, *Forging the Runes*. Lois McMaster Bujold's *Shards of Honor* and *Barrayar* will be released in one volume as *Cordelia's Honor*. The new Miles Vorkosigan adventure, *Memorv*, has an October release date.
 
@@ -217,25 +215,25 @@ For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fan
 
 ### Local Chapters
 
-- Austral'a'in--Casandra Vuksa \[Ed. Note 2002: Out-of-date address withheld.\]
-- California chapter--Stephanie Anderson \[Ed. Note 2002: This became Golden Grove. Out-of-date address withheld.\]
-- Companion's Choice--Shanara Ravensong \[Ed. Note 2002: Out-of-date address withheld.\]
-- Dream Bound--c/o Sharon Tan (Singapore) \[Ed. Note 2002: Out-of-date address withheld.\]
-- The Farflying Arrow--Achtung, an alle deutschsprechenden Misty-Fans!! \[Ed. Note 2002: Out-of-date address withheld.\]
-- Daniela \[Scheele\] hopes to bring out the first newsletter/fanzine this summer. All contributers and subscribers welcome.
-- The Herald's Companion--c/o Karen Bertke \[Ed. Note 2002: Out-of-date address withheld.\]
-- Herald's Revel--c/o H. Wegemer (Canada) \[Ed. Note 2002: Out-of-date address withheld.\]
-- Outkingdom--Y'larna Finnareth c/o Joanne Thwaites (England) \[Ed. Note 2002: Out-of-date address withheld.\]
-- Pacific Northwest Collegium--\[Ed. Note 2002: Out-of-date address withheld.\]
-- R.C.M.H.--now forming in CANADA. Contact Pam Dziedzic \[Ed. Note 2002: Out-of-date address withheld.\]. Plans include a Herald Gather, a newsletter, The Collegium News and the Editor's Circle, a proofreading forum for those trying to earn their Whites.
+- Austral'a'in--Casandra Vuksa [Ed. Note 2002: Out-of-date address withheld.]
+- California chapter--Stephanie Anderson [Ed. Note 2002: This became Golden Grove. Out-of-date address withheld.]
+- Companion's Choice--Shanara Ravensong [Ed. Note 2002: Out-of-date address withheld.]
+- Dream Bound--c/o Sharon Tan (Singapore) [Ed. Note 2002: Out-of-date address withheld.]
+- The Farflying Arrow--Achtung, an alle deutschsprechenden Misty-Fans!! [Ed. Note 2002: Out-of-date address withheld.]
+- Daniela [Scheele] hopes to bring out the first newsletter/fanzine this summer. All contributers and subscribers welcome.
+- The Herald's Companion--c/o Karen Bertke [Ed. Note 2002: Out-of-date address withheld.]
+- Herald's Revel--c/o H. Wegemer (Canada) [Ed. Note 2002: Out-of-date address withheld.]
+- Outkingdom--Y'larna Finnareth c/o Joanne Thwaites (England) [Ed. Note 2002: Out-of-date address withheld.]
+- Pacific Northwest Collegium--[Ed. Note 2002: Out-of-date address withheld.]
+- R.C.M.H.--now forming in CANADA. Contact Pam Dziedzic [Ed. Note 2002: Out-of-date address withheld.]. Plans include a Herald Gather, a newsletter, The Collegium News and the Editor's Circle, a proofreading forum for those trying to earn their Whites.
 
 ### Other Fandoms
 
-\[Ed. Note 2002: We decided not to include these in the online version because most of the information is out of date.\]
+[Ed. Note 2002: We decided not to include these in the online version because most of the information is out of date.]
 
 A comment from a chapter president: " Motivating people to do something, to write or draw isn't so easy." SUPPORT OUR ZINES!! SUPPORT YOUR LOCAL CHAPTER!!! All the zines and chapters listed in Member News need contributors and subscribers. Artists, Poets, Writers--please share your talent and enthusiasm. No members, no local chapters; no contributors, no newsleters or zines.
 
-\[Ed. Note 2002: We decided not to include the lis of zines in the online version because most of the information is out of date.\]
+[Ed. Note 2002: We decided not to include the lis of zines in the online version because most of the information is out of date.]
 
 ### Collegium News
 
@@ -261,21 +259,19 @@ Thanks to all who sent me birthday greetings. I'm feeling younger this year than
 
 ## Fan Messages:
 
-\[Ed. Note 2002: Fan Messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Fan Messages are not being posted online because of the personal information they contained.]
 
 ## Personals:
 
 There are a few Personals that are addressed to folks who are no longer on the QO mailing list, in the hopes that one of you might know their whereabouts and pass the message along.
 
-\[Ed. Note 2002: Personals are not being posted online because of the personal information they contained. Dues and Disclaimer information replaced with the current info below.\]
+[Ed. Note 2002: Personals are not being posted online because of the personal information they contained. Dues and Disclaimer information replaced with the current info below.]
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[phone withheld\]\
-\[snip\]\
-Mailing Day Helpers (last issue)--Helen Edwards and Rusty--Thank you, thank you, thank you, for your loyalty & dependability! Helen, enjoy your vacation in England!
+Editor, President, Dogsbody, Housemother--Judith Louvis [phone withheld] [snip] Mailing Day Helpers (last issue)--Helen Edwards and Rusty--Thank you, thank you, thank you, for your loyalty & dependability! Helen, enjoy your vacation in England!
 
 <img alt="Need by Jake Adamo" loading="lazy" src="/qo295.jpg"/>
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -289,10 +285,7 @@ The featured artists for this newsletter were Jane Callard and Jake Adamo. If yo
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

@@ -21,8 +21,7 @@ canonical_path = "/northern-barbarian-handout/"
 
 Distributed by:
 
-### Queen's Own\
-The Official Mercedes Lackey Fan Club
+### Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -90,7 +89,7 @@ Determine your Position within the clan by rolling one six-sided die.
 </tr>
 </table>
 
-\*If you roll a result of Clan Member, please specify your role: artisan, blacksmith, hunter, food gatherer, weaver, potter, fisher, trapper, or some other suitable job.
+&#42;If you roll a result of Clan Member, please specify your role: artisan, blacksmith, hunter, food gatherer, weaver, potter, fisher, trapper, or some other suitable job.
 
 <img alt="" loading="lazy" src="/bargrass.gif"/>
 
@@ -180,7 +179,6 @@ If you have an approved Warleader, you may try for Warleader. To become a Clan C
 
 <img alt="" loading="lazy" src="/bargrass.gif"/>
 
-Zhai'helleva,\
-[Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
 
 [<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

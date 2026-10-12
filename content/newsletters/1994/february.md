@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. VII, No. 5\
-February 1994
+## Series 1, Vol. VII, No. 5 February 1994
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -84,7 +82,7 @@ Dear Misty Fans,
 
 **Stephen:** "To shift gears a little, could you tell us about your house?"
 
-**Misty:** "High Flight is the weirdest house in Oklahoma. Once upon a time there were two brothers named Kelsey. One was a contractor, the other a dentist. The contractor saw this ad for concrete dome houses and thought they were pretty cool, and tornado proof. He talked his brother into letting him build one. Well, Kelsey the dentist got into some trouble with the law and lost everything, including the house. A contractor bought it and thought, it may be neat, but people drive by this thing and say \`That's weird.' To sell it, he figured he had to make it look more like a house. So he put an octagonal wooden-frame shell over the existing concrete dome, sort of like putting a little cup inside of a big cup. However, in order to put that kind of shell over a dome that's already 2-1/2 stories tall, he had to make the shell-5 1/2 stories tall. Little bitty short-eared owls and screech owls come in and hunt for sparrows inside the shell, and we can actually go spelunking in our own house."
+**Misty:** "High Flight is the weirdest house in Oklahoma. Once upon a time there were two brothers named Kelsey. One was a contractor, the other a dentist. The contractor saw this ad for concrete dome houses and thought they were pretty cool, and tornado proof. He talked his brother into letting him build one. Well, Kelsey the dentist got into some trouble with the law and lost everything, including the house. A contractor bought it and thought, it may be neat, but people drive by this thing and say &#96;That's weird.' To sell it, he figured he had to make it look more like a house. So he put an octagonal wooden-frame shell over the existing concrete dome, sort of like putting a little cup inside of a big cup. However, in order to put that kind of shell over a dome that's already 2-1/2 stories tall, he had to make the shell-5 1/2 stories tall. Little bitty short-eared owls and screech owls come in and hunt for sparrows inside the shell, and we can actually go spelunking in our own house."
 
 **Larry:** "It's a very strange sensation to go between the dome and the shell, which are actually structurally independent of each other. You can climb up the side of the dome, stand on top of the house, and look up another few stories to the top of the shell. It's full of little secret passageways and hidden rooms and stuff like that."
 
@@ -94,115 +92,110 @@ Our thanks to Stephen Pagel and B. Dalton for sharing the interview with Queen's
 
 Siegfried O'Harrigan is perhaps an unusual name for one of Misty's and Larry's heroes, but then, his story is unlike any other that Misty and Larry have written. "Operation Desert Fox" is Siegfried's story, and it appears in BOLOS: Honor of the Regiment, a series created by Keith Laumer, What is a BOLO? According to the blurb on the back of the book, "it's the symbol of brute force, intransigent defiance, and adamantine will. But on a deeper level, the BOLO is the Lancelot of the future." I'd describe a BOLO as a mechanized behemoth with the soul of a Companion. Even if you never read science fiction, try *BOLOS: Honor of the Regiment*. I think you'll be as charmed as I was by Siegfried and his "Companion," Rommel.
 
-Hooray! *Heralds, Harpers, & Havoc*, a book of songs by Misty, is available now from *Firebird Arts & Music of Oregon, Inc. for \[Ed. note 2005: Out-of-date info withheld.\]. These are the songs from the Arrows books and are written out with the melody line and chords and all the words. And the songbook is dedicated to all the members of Queens Own! *Heralds, Harpers, & Havoc* is available too as a cassette. Another treasure from Firebird is Lief Sorbye's solo album *Across the Borders*. I put on the CD, played it through, and then put it back on and hit "repeat." Across the Borders is going to be one of my favorites for a long, long time.*
+Hooray! *Heralds, Harpers, & Havoc*, a book of songs by Misty, is available now from *Firebird Arts & Music of Oregon, Inc. for [Ed. note 2005: Out-of-date info withheld.]. These are the songs from the Arrows books and are written out with the melody line and chords and all the words. And the songbook is dedicated to all the members of Queens Own! *Heralds, Harpers, & Havoc* is available too as a cassette. Another treasure from Firebird is Lief Sorbye's solo album *Across the Borders*. I put on the CD, played it through, and then put it back on and hit "repeat." Across the Borders is going to be one of my favorites for a long, long time.*
 
-If you are unfamiliar with Firebird or just need their latest catalog, write to them at Firebird Arts & Music \[Ed. note 2005: Out-of-date info withheld.\].
+If you are unfamiliar with Firebird or just need their latest catalog, write to them at Firebird Arts & Music [Ed. note 2005: Out-of-date info withheld.].
 
 ## CONVENTION NEWS;
 
-This year Misty and Larry will be Guests at Balticon 28 in Baltimore, Maryland April 1-3 at the Hyatt Regency. Frederick Pohl is making a special Guest appearance, Duane Elms is Filk Guest of Honor, and Holly Lisle plans to attend. Registration is \[Ed. note 2005: Out-of-date info withheld.\]. I've mailed in my membership fee and I'm looking forward to meeting old and new friends.
+This year Misty and Larry will be Guests at Balticon 28 in Baltimore, Maryland April 1-3 at the Hyatt Regency. Frederick Pohl is making a special Guest appearance, Duane Elms is Filk Guest of Honor, and Holly Lisle plans to attend. Registration is [Ed. note 2005: Out-of-date info withheld.]. I've mailed in my membership fee and I'm looking forward to meeting old and new friends.
 
-Also in April, Fantasy Worlds Festival '94 April 22-24. Scheduled Guests besides Misty and Larry at Festival are Marion Zimmer Bradley, Diana L. Paxson, Deborah Wheeler, Paul Edwin Zimmer, and more. Membership fee is now $40. For more information, send a SASE to \[Ed. note 2005: Out-of-date info withheld.\].
+Also in April, Fantasy Worlds Festival '94 April 22-24. Scheduled Guests besides Misty and Larry at Festival are Marion Zimmer Bradley, Diana L. Paxson, Deborah Wheeler, Paul Edwin Zimmer, and more. Membership fee is now $40. For more information, send a SASE to [Ed. note 2005: Out-of-date info withheld.].
 
-Cecelia Eng is Featured Performer at Boskone 31 at the Sheraton Tara in Framingham, MA February 18-20. She invites all QO members to stop by the Filk Room and say hello. She says, "I'd enjoy meeting some of the east coast Mercedes Lackey fans, & will definitely perform lots of Valdemar music--some of which has yet to be recorded." Call the hotel at \[Ed. note 2005: Out-of-date info withheld.\] for a room reservation and directions. (It's too late to send a SASE for information; take a chance on at-the-door registration.)
+Cecelia Eng is Featured Performer at Boskone 31 at the Sheraton Tara in Framingham, MA February 18-20. She invites all QO members to stop by the Filk Room and say hello. She says, "I'd enjoy meeting some of the east coast Mercedes Lackey fans, & will definitely perform lots of Valdemar music--some of which has yet to be recorded." Call the hotel at [Ed. note 2005: Out-of-date info withheld.] for a room reservation and directions. (It's too late to send a SASE for information; take a chance on at-the-door registration.)
 
-TECHNICON 11 is featuring Ellen Guon and Holly Lisle as Author Guests in Blacksburg, Virginia April 15-17. This is a perfect first con for those of you who live in the area and many QO members plan to attend. For more info, write to \[Ed. note 2005: Out-of-date info withheld.\].
+TECHNICON 11 is featuring Ellen Guon and Holly Lisle as Author Guests in Blacksburg, Virginia April 15-17. This is a perfect first con for those of you who live in the area and many QO members plan to attend. For more info, write to [Ed. note 2005: Out-of-date info withheld.].
 
 Some other conventions you might find interesting are:
 
-February 25-27, Springfield, Missouri: Visioncon'94 \[Ed. note 2005: Out-of-date info withheld.\] (QO members attending, please identify yourself as such on your badge or by pinning a scrap of white on your left shoulder); March 18-20, Rye, New York - Jody Lee will be showing her art: Lunacon 94 \[Ed. note 2005: Out-of-date info withheld.\]; Phil and Ed's Excellent Convention is March 31-April 3 at the Burbank Airport Hilton. Guest of Honor is Gerry Anderson. For more info, send a SASE to Phil and Ed's Excellent Convention \[Ed. note 2005: Out-of-date info withheld.\].
+February 25-27, Springfield, Missouri: Visioncon'94 [Ed. note 2005: Out-of-date info withheld.] (QO members attending, please identify yourself as such on your badge or by pinning a scrap of white on your left shoulder); March 18-20, Rye, New York - Jody Lee will be showing her art: Lunacon 94 [Ed. note 2005: Out-of-date info withheld.]; Phil and Ed's Excellent Convention is March 31-April 3 at the Burbank Airport Hilton. Guest of Honor is Gerry Anderson. For more info, send a SASE to Phil and Ed's Excellent Convention [Ed. note 2005: Out-of-date info withheld.].
 
 ## MENTORS:
 
 We have lots of Mentors to answer those questions to which I can only say, "I have no idea!" Thank you, thank you, for your help. When writing to a Mentor, remember to include a SASE!
 
-For information on RPG's, especially AD&D (primarily the Forgotten Realms setting), the Marvel Superhero game, and also comics, Dragonlance, and the Vampire game, contact Lynn Wright \[Ed. note 2005: Out-of-date info withheld.\].
+For information on RPG's, especially AD&D (primarily the Forgotten Realms setting), the Marvel Superhero game, and also comics, Dragonlance, and the Vampire game, contact Lynn Wright [Ed. note 2005: Out-of-date info withheld.].
 
-For information on "Fuzzy Fandom" also known as "Anthropomorphic (or 'morphic) Fandom send a SASE to Inerid Schwarz \[Ed. note 2005: Out-of-date info withheld.\].
+For information on "Fuzzy Fandom" also known as "Anthropomorphic (or 'morphic) Fandom send a SASE to Inerid Schwarz [Ed. note 2005: Out-of-date info withheld.].
 
-Wendy A Zdrodowski aka Free Bard Magpie \[Ed. note 2005: Out-of-date info withheld.\] is willing to share her expertise in areas of costuming and Ren-Faires as well as more generic fandom, including but not limited to B-movies, stage combat, sea chanties, and theatre.
+Wendy A Zdrodowski aka Free Bard Magpie [Ed. note 2005: Out-of-date info withheld.] is willing to share her expertise in areas of costuming and Ren-Faires as well as more generic fandom, including but not limited to B-movies, stage combat, sea chanties, and theatre.
 
-Also willing to help with information on Renaissance Festivals (esp. Maryland) and costuming, and early music (1200-1600) and Esperanto are Eric Schwartz and Mary Narefski-Schwartz \[Ed. note 2005: Out-of-date info withheld.\].
+Also willing to help with information on Renaissance Festivals (esp. Maryland) and costuming, and early music (1200-1600) and Esperanto are Eric Schwartz and Mary Narefski-Schwartz [Ed. note 2005: Out-of-date info withheld.].
 
-For information on the SCA, comics, weaving, Celtic art, gaming, First Aid, calligraphy, and computers, write to John Simpkins (Jonas) \[Ed. note 2005: Out-of-date info withheld.\].
+For information on the SCA, comics, weaving, Celtic art, gaming, First Aid, calligraphy, and computers, write to John Simpkins (Jonas) [Ed. note 2005: Out-of-date info withheld.].
 
-Paige Dorsey \[Ed. note 2005: Out-of-date info withheld.\] has experience with horses and in the horse industry as well as the SCA.
+Paige Dorsey [Ed. note 2005: Out-of-date info withheld.] has experience with horses and in the horse industry as well as the SCA.
 
-Also willing to share her knowledge of the SCA is Katherine M. Wilson \[Ed. note 2005: Out-of-date info withheld.\]. Her email address is \[Ed. note 2005: Out-of-date info withheld.\].
+Also willing to share her knowledge of the SCA is Katherine M. Wilson [Ed. note 2005: Out-of-date info withheld.]. Her email address is [Ed. note 2005: Out-of-date info withheld.].
 
-Another SCA Mentor is Eleanor of Gryphonscrag c/o Heather Nicholson \[Ed. note 2005: Out-of-date info withheld.\].
+Another SCA Mentor is Eleanor of Gryphonscrag c/o Heather Nicholson [Ed. note 2005: Out-of-date info withheld.].
 
 ## MEMBER NEWS:
 
-From Ellen Million: "Have you given up on trying to find fantasy-themed stationary that isn't hopelessly cute? Despair not! If you have inspiration for a creative business name, are an artistic-type who is looking for fame and opportunity or if you would like information on affordable, beautiful stationary packages, send a SASE to\[Ed. note 2005: Out-of-date info withheld.\]."
+From Ellen Million: "Have you given up on trying to find fantasy-themed stationary that isn't hopelessly cute? Despair not! If you have inspiration for a creative business name, are an artistic-type who is looking for fame and opportunity or if you would like information on affordable, beautiful stationary packages, send a SASE to[Ed. note 2005: Out-of-date info withheld.]."
 
-Do you want a Queen's Own button? There is no official design but you can use the logo on the newsletter or create your own. Send a SASE to Vicki Stephens \[Ed. note 2005: Out-of-date info withheld.\]for more information. Button orders go only to Vicki NOT to the QO address. (I'm ordering a "NEVER mess with the Mommy" button to wear at Balticon.)
+Do you want a Queen's Own button? There is no official design but you can use the logo on the newsletter or create your own. Send a SASE to Vicki Stephens [Ed. note 2005: Out-of-date info withheld.]for more information. Button orders go only to Vicki NOT to the QO address. (I'm ordering a "NEVER mess with the Mommy" button to wear at Balticon.)
 
-SOFF (Siblings of Fantasy Freaks) is off to a good start, but needs more members. If your brother or sister is envious of your mail, tell him or her to send stamps, name, address, and personality description to \[Ed. note 2005: Out-of-date info withheld.\].
+SOFF (Siblings of Fantasy Freaks) is off to a good start, but needs more members. If your brother or sister is envious of your mail, tell him or her to send stamps, name, address, and personality description to [Ed. note 2005: Out-of-date info withheld.].
 
-"Heralds Hearth" is a newsletter for Misty fans mainly from the Wyoming, Colorado, and Montana area. If you would like to join, send a SASE to \[Ed. note 2005: Out-of-date info withheld.\].
+"Heralds Hearth" is a newsletter for Misty fans mainly from the Wyoming, Colorado, and Montana area. If you would like to join, send a SASE to [Ed. note 2005: Out-of-date info withheld.].
 
-From Amanda Parsons: "Wheeeeee! Another issue of *Queen of the Mists* is ready: Loooovvweeee: lost love, dark love, evil love, happy love, demonic love, it's all here in the most romantic issue you'll ever see! Urvi and I colored the *Mists* pink and red, it's really cool ...except it gets on your skin, and only washes off with RediWhip! The secret password this time is: dominatrix! Just send $3 to \[Ed. note 2005: Out-of-date info withheld.\]."
+From Amanda Parsons: "Wheeeeee! Another issue of *Queen of the Mists* is ready: Loooovvweeee: lost love, dark love, evil love, happy love, demonic love, it's all here in the most romantic issue you'll ever see! Urvi and I colored the *Mists* pink and red, it's really cool ...except it gets on your skin, and only washes off with RediWhip! The secret password this time is: dominatrix! Just send $3 to [Ed. note 2005: Out-of-date info withheld.]."
 
-From Nicole Blackwell: "She rose, drawn by some unseen force through the balcony doors, into the night .... then she saw him-�motionless beside the crumbling marble statue.., a haunting silhouette in the moonlight. She gasped, and in that same instant he turned, their gazes meeting, spanning the distance between them. And smiling, he lifted his face, extending his arms, and whispered softly into the darkness, *Moonlight Masquerade*... Issue #1, with 50 pages and 2 amazing full-color illustrations, is still available for $6.50. (Checks to Nicole Blackwell) The March issue has yet to be filled. No SASE necessary for guidelines. \[Ed. note 2005: Out-of-date info withheld.\].�'
+From Nicole Blackwell: "She rose, drawn by some unseen force through the balcony doors, into the night .... then she saw him-�motionless beside the crumbling marble statue.., a haunting silhouette in the moonlight. She gasped, and in that same instant he turned, their gazes meeting, spanning the distance between them. And smiling, he lifted his face, extending his arms, and whispered softly into the darkness, *Moonlight Masquerade*... Issue #1, with 50 pages and 2 amazing full-color illustrations, is still available for $6.50. (Checks to Nicole Blackwell) The March issue has yet to be filled. No SASE necessary for guidelines. [Ed. note 2005: Out-of-date info withheld.].�'
 
-"Calling all fellow children of the Star Eyed! Yes, K'Guadia has finally raised its banners high and is need of clansiblings. To find out more, merely send a standard #10 SASE to \[Ed. note 2005: Out-of-date info withheld.\]. To all present recruits . . . the first newsletter is out! To get a copy send a SASE or preferably $8.00 for a one year's subscription to the Clan Chief."
+"Calling all fellow children of the Star Eyed! Yes, K'Guadia has finally raised its banners high and is need of clansiblings. To find out more, merely send a standard #10 SASE to [Ed. note 2005: Out-of-date info withheld.]. To all present recruits . . . the first newsletter is out! To get a copy send a SASE or preferably $8.00 for a one year's subscription to the Clan Chief."
 
-From Q Clay: "Are you lacking sanity or are you just extremely weird. Or perhaps mundane life is giving you a nervous breakdown? If so, we want your artwork, short stories, and/or babblings. Far guidelines and more information send a SASE to The Last Step to Insanity c/o \[Ed. note 2005: Out-of-date info withheld.\]."
+From Q Clay: "Are you lacking sanity or are you just extremely weird. Or perhaps mundane life is giving you a nervous breakdown? If so, we want your artwork, short stories, and/or babblings. Far guidelines and more information send a SASE to The Last Step to Insanity c/o [Ed. note 2005: Out-of-date info withheld.]."
 
-"Hey you! Yep, you. So you like vampires, huh? Strange and mystical stories your fancy? Well then, have I got a zine for you. Packed full of stories about vampires, shape-shifters, and werewolves . . . Interested? Send a SASE to Night Songs \[Ed. note 2005: Out-of-date info withheld.\]. The January issue has been changed to March, and the January, Summer, and October issues of *Night Songs Vol. I* are still available. Submissions desperately needed by March 1st." - Jennifer
+"Hey you! Yep, you. So you like vampires, huh? Strange and mystical stories your fancy? Well then, have I got a zine for you. Packed full of stories about vampires, shape-shifters, and werewolves . . . Interested? Send a SASE to Night Songs [Ed. note 2005: Out-of-date info withheld.]. The January issue has been changed to March, and the January, Summer, and October issues of *Night Songs Vol. I* are still available. Submissions desperately needed by March 1st." - Jennifer
 
-"The Chronicles of Valdemar" is a 3 year old role-writing chapter. We publish 10 issues a year and a zinc of members' works. If interested, send a SASE to Cathy Timura \[Ed. note 2005: Out-of-date info withheld.\]."--Cathy
+"The Chronicles of Valdemar" is a 3 year old role-writing chapter. We publish 10 issues a year and a zinc of members' works. If interested, send a SASE to Cathy Timura [Ed. note 2005: Out-of-date info withheld.]."--Cathy
 
-"*North West Passages*, Mountain Shadow's newsletter is about to enter its second year of publication. I regret that the yearly subscription rates are going up. The new rates are $20 for Canadian members, $25 for US members, and $30 for members who are overseas. *North West Passages* is a not-for-profit publication, and the subscriptions go only towards the fanzine's production and mailing. If you are interested in single issues, let me know." - \[Ed. note 2005: Out-of-date info withheld.\].
+"*North West Passages*, Mountain Shadow's newsletter is about to enter its second year of publication. I regret that the yearly subscription rates are going up. The new rates are $20 for Canadian members, $25 for US members, and $30 for members who are overseas. *North West Passages* is a not-for-profit publication, and the subscriptions go only towards the fanzine's production and mailing. If you are interested in single issues, let me know." - [Ed. note 2005: Out-of-date info withheld.].
 
 From Jennefer to "Heralds, Bards, Free Bards, Healers, Shin'a'in who are interested in sharing their love of the genre with other like souls, heed this cry. Membership in Mountain Shadow Collegium is free, all you have to do is write to me once in a while. You need not be one of the above to join, nor need you live in Canada, all you need is your sense of adventure and imagination (and a SASE) to get started." If you are interested, please write to Herald Darvith, c/o Jennefer Rogers at the above Collegium address. If you live outside of Canada, send a self-addressed envelope and an IRC (available from your post office.)
 
-Sunrunners--have you been searching on the sunlight for other fans of Melanie Rawn? Many *faradh'im can be found in *Sunrunners Circle*, the Melanie Rawn Fan Club. SC is a not-for-profit organization dedicated to the appreciation of Ms. Rawn and her works. Newsletters are mailed bimonthly, and members can earn their Sunrunner rings. For more information, send a business-sized SASE to \[Ed. note 2005: Out-of-date info withheld.\].*
+Sunrunners--have you been searching on the sunlight for other fans of Melanie Rawn? Many *faradh'im can be found in *Sunrunners Circle*, the Melanie Rawn Fan Club. SC is a not-for-profit organization dedicated to the appreciation of Ms. Rawn and her works. Newsletters are mailed bimonthly, and members can earn their Sunrunner rings. For more information, send a business-sized SASE to [Ed. note 2005: Out-of-date info withheld.].*
 
-From AJ Potter: "Second *NINE ABOVE!* is out and ready for mailing! Any of you initial inquirers who haven't subscribed and would like to, we'd love to have you!" NINE ABOVE! is the Tanya Huff fan club. For information, send a SASE to \[Ed. note 2005: Out-of-date info withheld.\]. Share your reaction to the ending of Tanya's *Blood Pact* with other fans.
+From AJ Potter: "Second *NINE ABOVE!* is out and ready for mailing! Any of you initial inquirers who haven't subscribed and would like to, we'd love to have you!" NINE ABOVE! is the Tanya Huff fan club. For information, send a SASE to [Ed. note 2005: Out-of-date info withheld.]. Share your reaction to the ending of Tanya's *Blood Pact* with other fans.
 
 ## COLLEGIUM NEWS:
 
-We have individual handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. Send a SASE to the Guardian's NEW ADDRESS: Guardian of the Web \[Ed. note 2005: Out-of-date info withheld.\] and specify which handout you are requesting. No SASE, no answer! Herald-Mage material goes to the Guardian, all other material should be mailed to the Shiloh address.
+We have individual handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. Send a SASE to the Guardian's NEW ADDRESS: Guardian of the Web [Ed. note 2005: Out-of-date info withheld.] and specify which handout you are requesting. No SASE, no answer! Herald-Mage material goes to the Guardian, all other material should be mailed to the Shiloh address.
 
 **A change in the rules:** You may create a Tayledras persona; there is enough information in the Mage Winds books that you should have a pretty good idea of what a Hawkbrother may or may not do. We have no guidelines, be creative. And be reasonable - it is illogical for a Shin'a'in or a Tayledras persona to be Chosen! They have their own loyalties and responsibilities.
 
-You need a [release form](/release-form-instructions/) (send the Guardian or me a SASE) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem, or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty at \[Ed. note 2005: Out-of-date info withheld.\]. Do NOT include the release form with your persona material, send it to Misty.
+You need a [release form](/release-form-instructions/) (send the Guardian or me a SASE) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem, or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty at [Ed. note 2005: Out-of-date info withheld.]. Do NOT include the release form with your persona material, send it to Misty.
 
 - Welcome, **Herald Jodey Cysgod**, Chosen by Gwiroydd and gifted with double strength Mindspeech and Farsight. *Jeanette M. "Jodi" Morgan* sent persona and family information, a recipe, is certified in CPR, and is a blood donor.
 - *Karen Black* introduces **Herald Kalena Vrenlal**, Chosen by Eduward and gifted with Mindspeech and Fetching. Karen sent background information, a drawing, knows CPR and has done volunteer work.
 - Welcome, **Herald Kaya Shadowstar**, Chosen by Calico and gifted with Mindspeech, Animal Mindspeech, and Mindhealing. *Renee Robison* sent information on her persona and family and friends, a story, two poems, and two drawings.
 - Welcome, **Bard Vashtia Keryon**, Gifted with Talent and Creativity. *Janet M. Kizer* sent character sketches, song lyrics, and proof of a public performance.
 - From *Trishal Rohal* comes **Herald Liselle Aravon**, Chosen by Rhyan and gifted with Mindspeech and double strength Fetching. Trisha sent descriptions, a recipe, two stories, and details of her community service.'
-- Welcome, **Herald Adania**, Chosen by Kaviri and gifted with Farsight and Fetching. *Esther Ahronheim* sent background information, maps; two pictures,- and submitted a poem to a zinc. . \_
+- Welcome, **Herald Adania**, Chosen by Kaviri and gifted with Farsight and Fetching. *Esther Ahronheim* sent background information, maps; two pictures,- and submitted a poem to a zinc. . _
 - From *Ellen Million* comes **Herald Calliste**, Chosen by Madri and gifted with Mindspeech. Ellen sent character information, lots of pictures, a poem, border designs, and has submitted art to QO zines.
 - Welcome, **Herald Valeris Liosan**, Chosen by Ylessa and gifted with Mindspeech and Fetching. *Karen Danylak* sent descriptions of Valeris and her family, a map, a drawing, and proof of her volunteer work.
 
 ## FAN MESSAGES:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
 ## PERSONALS:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
-Queen's Own \[Ed. note 2005: Out-of-date content withheld.\], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at \[Ed. note 2005: Out-of-date content withheld.\] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay \[Ed. note 2005: Out-of-date content withheld.\] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: \[Ed. note 2005: Out-of-date content withheld.\]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Next Mailing Day: March 12; call \[Ed. note 2005: Out-of-date content withheld.\] for directions.
+Next Mailing Day: March 12; call [Ed. note 2005: Out-of-date content withheld.] for directions.
 
-Editor, President, Dogsbody, Housemother - Judith Louvis \[Ed. note 2005: Out-of-date content withheld.\] (Call only before 10 pm and let it ring.)\
-Newsletter Border Design - Ellen Million\
-Archivist and Organizer extraordinaire - Patricia Riggs, \[Ed. note 2005: Out-of-date content withheld.\]\
-Herald-Mage Registrar and Dispenser of handout sheets - Guardian of the Web, \[Ed. note 2005: Out-of-date content withheld.\] (Send proof of completed Herald-Mage criteria directly to the Web address, not to NJ.)\
-Mailing Day Helpers (last issue) - Meredith Baldino, Frank Burkhead, Helen Edwards and Rusty, and Steve Louvis.
+Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Newsletter Border Design - Ellen Million Archivist and Organizer extraordinaire - Patricia Riggs, [Ed. note 2005: Out-of-date content withheld.] Herald-Mage Registrar and Dispenser of handout sheets - Guardian of the Web, [Ed. note 2005: Out-of-date content withheld.] (Send proof of completed Herald-Mage criteria directly to the Web address, not to NJ.) Mailing Day Helpers (last issue) - Meredith Baldino, Frank Burkhead, Helen Edwards and Rusty, and Steve Louvis.
 
-Wind to thy wings,\
-Judith
+Wind to thy wings, Judith
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -214,10 +207,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

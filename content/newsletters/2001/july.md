@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 2, No. 7\
-July 1, 2001
+## Series 3, Vol. 2, No. 7 July 1, 2001
 
 <img alt="La Divine Contesse by Laura Cameron" class="border-3" loading="lazy" src="/qo83.jpg"/>
 
@@ -84,7 +82,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **FBICON.** E-mail: [webmaster@flyingbuffalo.com](mailto:webmaster@flyingbuffalo.com), [FBINC@aol.com](mailto:FBINC@aol.com). Website: [http://www.flyingbuffalo.com](http://www.flyingbuffalo.com). Address: Quality Suites, Scottsdale, Arizona. Dates: 7/27/01 - 7/29/01.
 
-**HEXACON 11.** E-mail: [the\_lop@casfs.org](mailto:the_lop@casfs.org). Website: [http://www.casfs.org/hexacon/index.html](http://www.casfs.org/hexacon/index.html). Address: Holiday Inn Sunspree Resort, Scottsdale, Arizona. Dates: 7/27/01 - 7/29/01.
+**HEXACON 11.** E-mail: [the_lop@casfs.org](mailto:the_lop@casfs.org). Website: [http://www.casfs.org/hexacon/index.html](http://www.casfs.org/hexacon/index.html). Address: Holiday Inn Sunspree Resort, Scottsdale, Arizona. Dates: 7/27/01 - 7/29/01.
 
 ### California
 
@@ -158,27 +156,27 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Massachusetts
 
-**READERCON 13.** E-mail: info@readercon.org \<mailto:info@readercon.org>. Website: \<http:>. Address: The Burlington Marriott, Burlington, Massachusetts. Dates: 7/13/01 - 7/15/01.
+**READERCON 13.** E-mail: info@readercon.org &lt;mailto:info@readercon.org>. Website: &lt;http:>. Address: The Burlington Marriott, Burlington, Massachusetts. Dates: 7/13/01 - 7/15/01.
 
-**STAR TREK.** E-mail: sfedora1@aol.com \<mailto:sfedora1@aol.com>. Website: \<http:>. Address: Sheraton Framingham - Tara, Framingham, Massachusetts. Dates: 7/27/01 - 7/29/01.
+**STAR TREK.** E-mail: sfedora1@aol.com &lt;mailto:sfedora1@aol.com>. Website: &lt;http:>. Address: Sheraton Framingham - Tara, Framingham, Massachusetts. Dates: 7/27/01 - 7/29/01.
 
-**TOTEMCON 2001.** E-mail: info@totemcon.com \<mailto:info@totemcon.com>. Website: \<http:>. Address: Sheraton Ferncroft Resort, Danvers, Massachusetts. Date: 7/15/01.
+**TOTEMCON 2001.** E-mail: info@totemcon.com &lt;mailto:info@totemcon.com>. Website: &lt;http:>. Address: Sheraton Ferncroft Resort, Danvers, Massachusetts. Date: 7/15/01.
 
 ### Michigan
 
-**THE SISKO FAMILY REUNION.** E-mail: emily@makeitsoproductions.com \<mailto:emily@makeitsoproductions.com>. Website: \<http:>. Address: Hyatt Regency, Dearborn, Michigan. Dates: 7/21/01 - 7/22/01.
+**THE SISKO FAMILY REUNION.** E-mail: emily@makeitsoproductions.com &lt;mailto:emily@makeitsoproductions.com>. Website: &lt;http:>. Address: Hyatt Regency, Dearborn, Michigan. Dates: 7/21/01 - 7/22/01.
 
 ### Minnesota
 
-**CONVERGENCE.** E-mail: info@convergence-con.org \<mailto:info@convergence-con.org>. Website: \<http:>. Address: Radisson, St. Paul, Minnesota. Dates: 7/6/01 - 7/8/01.
+**CONVERGENCE.** E-mail: info@convergence-con.org &lt;mailto:info@convergence-con.org>. Website: &lt;http:>. Address: Radisson, St. Paul, Minnesota. Dates: 7/6/01 - 7/8/01.
 
 ### Missouri
 
-**GATEWAY SCI-FI/MEDIA CON**. E-mail: gateway@stlf.org \<mailto:gateway@stlf.org>. Website: \<http:>. Address: Henry VIII Inn & Lodge, St. Louis, Missouri. Dates: 7/6/01 - 7/8/01.
+**GATEWAY SCI-FI/MEDIA CON**. E-mail: gateway@stlf.org &lt;mailto:gateway@stlf.org>. Website: &lt;http:>. Address: Henry VIII Inn & Lodge, St. Louis, Missouri. Dates: 7/6/01 - 7/8/01.
 
 **SAGACON.** Website: [http://sagacon.8m.com](http://sagacon.8m.com). E-mail: [info@sagacon.8m.com](mailto:info@sagacon.8m.com). Address: Day Inn Hotel and Conferance Center, Springfield, Missouri. Dates: 6/29/01 - 7/1/01.
 
-**STARFLEET IC 2001.** E-mail: ic2001@sfi.org \<mailto:ic2001@sfi.org>. Website: \<http:>. Address: Marriott Kansas City - Airport, Kansas City, Missouri. Dates: 7/27/01 - 7/29/01.
+**STARFLEET IC 2001.** E-mail: ic2001@sfi.org &lt;mailto:ic2001@sfi.org>. Website: &lt;http:>. Address: Marriott Kansas City - Airport, Kansas City, Missouri. Dates: 7/27/01 - 7/29/01.
 
 ### Nebraska
 
@@ -234,7 +232,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **NECON 21.** E-mail: [boothd@panther.adelphi.edu](mailto:boothd@panther.adelphi.edu). Website: http://www.para-net.com/~necon. Address: Roger Williams University, Bristol, Rhode Island. Dates: 7/19/01 - 7/22/01.
 
-**WIZARDS GATHERING 2001.** E-mail: [nproulx@aol.com](mailto:nproulx@aol.com). Website: [http://members.aol.com/\_ht\_a/nproulx](http://members.aol.com/_ht_a/nproulx). Address: Best Western Bay Point Inn, Portsmouth, Rhode Island. Date: 7/14/01.
+**WIZARDS GATHERING 2001.** E-mail: [nproulx@aol.com](mailto:nproulx@aol.com). Website: [http://members.aol.com/_ht_a/nproulx](http://members.aol.com/_ht_a/nproulx). Address: Best Western Bay Point Inn, Portsmouth, Rhode Island. Date: 7/14/01.
 
 ### Tennessee
 
@@ -242,11 +240,11 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Texas
 
-**BIG D COLLECTIBLES SHOW.** Website: [http://www.collectortimes.com/cons\_Tx.html](http://www.collectortimes.com/cons_Tx.html). Address: Dallas, Texas. Dates: 7/9/01 - 7/11/01.
+**BIG D COLLECTIBLES SHOW.** Website: [http://www.collectortimes.com/cons_Tx.html](http://www.collectortimes.com/cons_Tx.html). Address: Dallas, Texas. Dates: 7/9/01 - 7/11/01.
 
 **THE BORG COLLECTIVE.** Website: http://www.makeitsoproductions.com. E-mail: [emily@makeitsoproductions.com](mailto:emily@makeitsoproductions.com). Address: Adam's Mark Hotel, Dallas, Texas. Dates: 6/30/01 - 7/1/01.
 
-**CONSORTIUM - A SCIENCE FICTION, FANTASY, & GAMING CONVENTION.** Website: http://www.con-sortium.org. E-mail: [corvaire\_y@yahoo.com](mailto:corvaire_y@yahoo.com). Address: Radisson Hobby Airport, Houston, Texas. Dates: 6/29/01 - 7/1/01.
+**CONSORTIUM - A SCIENCE FICTION, FANTASY, & GAMING CONVENTION.** Website: http://www.con-sortium.org. E-mail: [corvaire_y@yahoo.com](mailto:corvaire_y@yahoo.com). Address: Radisson Hobby Airport, Houston, Texas. Dates: 6/29/01 - 7/1/01.
 
 **HOLLYWOOD EXPO.** E-mail: [scifiexpo@aol.com](mailto:scifiexpo@aol.com). Website: [http://www.hollywoodexpo.com](http://www.hollywoodexpo.com). Address: Convention Center, Plano, Texas. Dates: 7/14/01 - 7/15/01.
 
@@ -262,7 +260,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **ILLAWARRA GAMES WEEKEND.** E-mail: [kcarcas@hotmail.com](mailto:kcarcas@hotmail.com). Website: http://www.ozE-mail.com.au/~tarim/rpg/calendar.htm. Address: The Illawarra Senior College, Illawarra, Australia. Dates: 7/15/01 - 7/17/01.
 
-**OZCON 2001.** E-mail: [toowoomba\_gaming\_club@hotmail.com](mailto:toowoomba_gaming_club@hotmail.com). Website: [http://www.geocities.com/ozcontwba](http://www.geocities.com/ozcontwba). Address: Harristown State High School Assembly Hall, Toowoomba, Queensland, Australia. Dates: 7/7/01 - 7/8/01.
+**OZCON 2001.** E-mail: [toowoomba_gaming_club@hotmail.com](mailto:toowoomba_gaming_club@hotmail.com). Website: [http://www.geocities.com/ozcontwba](http://www.geocities.com/ozcontwba). Address: Harristown State High School Assembly Hall, Toowoomba, Queensland, Australia. Dates: 7/7/01 - 7/8/01.
 
 ### Canada
 
@@ -322,9 +320,9 @@ These are the upcoming cons we know about. Have any information about convention
 
 **AMBERCON UK.** E-mail: [ssu96sp@reading.ac.uk](mailto:ssu96sp@reading.ac.uk). Website: [http://www.aparker.co.uk/amber](http://www.aparker.co.uk/amber). Address: Renaissance Hotel, Reading, England. Dates: 7/13/01 - 7/15/01.
 
-**ATTACK.** E-mail: [general\_attack@hotmail.com](mailto:general_attack@hotmail.com). Website: [http://www.geocities.com/ddwguk](http://www.geocities.com/ddwguk). Address: Devizes Corn Exchange, Devizes, Wiltshire, Great Britain. Dates: 7/14/01 - 7/15/01.
+**ATTACK.** E-mail: [general_attack@hotmail.com](mailto:general_attack@hotmail.com). Website: [http://www.geocities.com/ddwguk](http://www.geocities.com/ddwguk). Address: Devizes Corn Exchange, Devizes, Wiltshire, Great Britain. Dates: 7/14/01 - 7/15/01.
 
-**CON-STRUCTION.** E-mail: [con\_struction@hotmail.com](mailto:con_struction@hotmail.com). Website: http://members.xoom.com/con\_struct. Address: Cardiff, UK. Dates: 7/27/01 - 7/29/01.
+**CON-STRUCTION.** E-mail: [con_struction@hotmail.com](mailto:con_struction@hotmail.com). Website: http://members.xoom.com/con_struct. Address: Cardiff, UK. Dates: 7/27/01 - 7/29/01.
 
 **CONTINUUM 2001.** E-mail: [info@continuum2001.co.uk](mailto:info@continuum2001.co.uk). Website: http://www.continuum2001.co.uk. Address: Glasgow Thistle Hotel, Glasgow, Strathclyde, Scotland. Dates: 7/14/01 - 7/16/01.
 
@@ -361,14 +359,14 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [/pacific-northwest-collegium/](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au). We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas. (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!) The cost of membership covers postage and printing - we're a strictly not-for-profit group. If you are interested in more information, or have stories or other submissions that you would like to see published, contact me! **Attention all writers and artists:**Austral'a'in is desperately seeking submissions. We are also always looking for new members. Please? Contact me (Cassandra) at [garou@netspeed.com.au](mailto:garou@netspeed.com.au) for details!
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [/children-of-velgarth/](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
 - ***Collegium Chronicles*:** Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). The Venerable Pacific Northwest Collegium is looking for a few good writers and artists for its newsletter Collegium Chronicles. It would e preferable if folks had e-mail access. I am looking for stories that are primarily fantasy--QO persona requirements are acceptable, so long as they are in story format. Poetry, articles and essays also welcome. Come join us in what will be the final year of this nearly decade-long newsletter. $8 per year/$4 for a half-year, $2 per issue. Final issue will be June/July of 2001. Get your dues in early reap the full benefits! Great artwork (see our webpage at [/pacific-northwest-collegium/](/pacific-northwest-collegium/)) great stories, news of local events in the Pacific Northwest area. All are welcome. (P.S. If anyone is interested in taking over the Chronicles after next summer, let me know! I'd hate to see such a noble creature die out.)
-- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). It's back! The venerable warhorse--uh, make that venerable Companion \<g>--of QO 'zines is resuming publication. Plans are underway to bring old issues back into print as well. For submission and subscription information visit [http://greendragon.fanspace.com/misty.html](http://greendragon.fanspace.com/misty.html) or write to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St., Pahrump, NV 89060. If you have any of the original publications, please contact Blue Devyn at [devin@greendragonpress.net](mailto:devin@greendragonpress.net). She's attempting to bring the old issues back into print in addition to offering new issues.
+- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). It's back! The venerable warhorse--uh, make that venerable Companion &lt;g>--of QO 'zines is resuming publication. Plans are underway to bring old issues back into print as well. For submission and subscription information visit [http://greendragon.fanspace.com/misty.html](http://greendragon.fanspace.com/misty.html) or write to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St., Pahrump, NV 89060. If you have any of the original publications, please contact Blue Devyn at [devin@greendragonpress.net](mailto:devin@greendragonpress.net). She's attempting to bring the old issues back into print in addition to offering new issues.
 - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [/golden-grove/](/golden-grove/) for more information.
@@ -409,7 +407,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 Heyla, all!
 
-I am sure you have been wondering about my move. I have finally settled down into my new house and have all the boxes unpacked. I got here June 11th, and found that my garage was stuffed floor to ceiling with my belongings. Thank you to Danya, who blew an entire day watching the movers, put it there. Only one thing disappeared, one of my brand new dog beds. \<grrr> However, the damage to my other furniture, if it happened at all was minor and nothing to complain about. My pictures are up though to be quite honest the entire house needs new paint on the inside. Something else to chalk up to my to-do list, along with the large list of minor remodeling we want to do.
+I am sure you have been wondering about my move. I have finally settled down into my new house and have all the boxes unpacked. I got here June 11th, and found that my garage was stuffed floor to ceiling with my belongings. Thank you to Danya, who blew an entire day watching the movers, put it there. Only one thing disappeared, one of my brand new dog beds. &lt;grrr> However, the damage to my other furniture, if it happened at all was minor and nothing to complain about. My pictures are up though to be quite honest the entire house needs new paint on the inside. Something else to chalk up to my to-do list, along with the large list of minor remodeling we want to do.
 
 It is wonderful to live a couple of doors down from Danya. Yes that really worked out in my favor, and hers. We have spent a couple of days already huddled around her computer trying to catch up on pending personas and web pages that we have realized need to be changed. The main issue of releases we agonized over for better than a week, we don�t want anyone to have trouble with something that should have had a release and didn�t. We will also be updating our helpful handout pages in the next couple of months, so watch for that.
 
@@ -455,10 +453,7 @@ The featured artist for this online version of the newsletter is [Laura Cameron]
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

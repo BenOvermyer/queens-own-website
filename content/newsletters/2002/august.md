@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 3, No. 8\
-August 1, 2002
+## Series 3, Vol. 3, No. 8 August 1, 2002
 
 <img alt="Desari by Natasha Williams" class="float-center border-5" loading="lazy" src="/qo126.jpg"/>
 
@@ -44,7 +42,7 @@ Misty�s latest,
 
 *[Elvenborn](http://www.amazon.com/exec/obidos/ASIN/0312864566/dragonlordsofdumA/) (Norton, Andre. Halfblood Chronicles, Bk. 3.)* with Andre Norton), is now available! *Take a Thief* will be out in paperback in October, and *Exile�s Honor*, the long awaited novel about Alberich, is scheduled for publication in hardback in October as well.
 
-Coding on the next issue of *The Compass Rose* is proceeding slowly, but it is proceeding. With any luck, Danya will get the issue up within the next month (although we don�t take bets \<G>.).
+Coding on the next issue of *The Compass Rose* is proceeding slowly, but it is proceeding. With any luck, Danya will get the issue up within the next month (although we don�t take bets &lt;G>.).
 
 The con we were going to try to attend as a club in September has been cancelled due to financial difficulties. We�ll try something again next year. Meanwhile, if any of you will be attending specific cons, do let us know. We�ll try to put you in touch with other QO members who might also be attending. Also, we do have many local chapters of QO, several of whom attend cons as a group. You can find our list of chapters at
 
@@ -56,7 +54,7 @@ For more information, see their ads below.
 
 Firebird was at Journey to Camelot, St. Helens, OR, for those of you who will be able to attend. Look for Firebird at Shrewsbury Ren. Faire, September 14-15 2002, Phillomath, OR, as well.
 
-In this month�s interview, we get to meet the creator of **Herald Jhenna Leisater**. If you would like to be interviewed for the QO newsletter, simply send us your answers to the questions below. (Remember, answers will eventually be posted to our website, so don�t tell us anything that you don�t want the world to know \<G>.)
+In this month�s interview, we get to meet the creator of **Herald Jhenna Leisater**. If you would like to be interviewed for the QO newsletter, simply send us your answers to the questions below. (Remember, answers will eventually be posted to our website, so don�t tell us anything that you don�t want the world to know &lt;G>.)
 
 Zhai'helleva,
 
@@ -362,7 +360,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
 
 ### Zines and Newsletters:
 
@@ -409,23 +407,23 @@ Welcome back! If you are a returning member who has recently activated your memb
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\
-- Herald Cateryna Cyray (KimChrist@Home.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\
-- Healer Adept Sierra k'Treva (katsanders@buffymail.com)\
-- Herald Trieenia Featherfire (sylverstorme@aol.com)\
-- Bard Valiena (laughsong@aol.com)\
-- Healer Tamesin na Coille (minke13@earthlink.net)\
-- Herald Alia Melyngar (aliamelyngar@aol.com)\
-- Herald-Mage Apprentice Kadia Linder (kadia@aol.com)\
-- Herald Gwendolyn Katran (ladykent@wildmail.com)\
-- Herald Liana Firelan (krbertke@bertke.com)\
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
+- Herald Cateryna Cyray (KimChrist@Home.com)
+- Herald Deborah (sjupiterdebi@home.com)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Healer Adept Sierra k'Treva (katsanders@buffymail.com)
+- Herald Trieenia Featherfire (sylverstorme@aol.com)
+- Bard Valiena (laughsong@aol.com)
+- Healer Tamesin na Coille (minke13@earthlink.net)
+- Herald Alia Melyngar (aliamelyngar@aol.com)
+- Herald-Mage Apprentice Kadia Linder (kadia@aol.com)
+- Herald Gwendolyn Katran (ladykent@wildmail.com)
+- Herald Liana Firelan (krbertke@bertke.com)
 - Herald Kalendel (itsmyage@aol.com)
 
 If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
@@ -434,11 +432,11 @@ If you know any of these folks, please have them contact Danya at [Legend@malcor
 
 Heyla, folks!
 
-It�s turning out to be a very busy summer, what with my mother moving, my eldest son getting ready to start kindergarten, and my youngest son starting to walk. (My 21-month-old daughter spends most of her time swinging from the rafters and doing her best to raise my blood pressure \<g>.) My husband has to go on a business trip this month, which will be interesting since I�ve never had all three kids on my own for an entire week before . . . If my response time to mail slows down, please be patient with me. I have my hands a bit full \<G>.
+It�s turning out to be a very busy summer, what with my mother moving, my eldest son getting ready to start kindergarten, and my youngest son starting to walk. (My 21-month-old daughter spends most of her time swinging from the rafters and doing her best to raise my blood pressure &lt;g>.) My husband has to go on a business trip this month, which will be interesting since I�ve never had all three kids on my own for an entire week before . . . If my response time to mail slows down, please be patient with me. I have my hands a bit full &lt;G>.
 
 My mother�s move means that I�m acquiring a ton of furniture that I don�t exactly have room for. So my husband and I will be spending this weekend shifting our library to our living room, creating a bedroom from our daughter where our library used to be (She climbs out of her crib now, so she needs a real bed.), figuring out how to get yet another dresser in the boys� room, and putting everything else in the garage in some fashion that we can still access our art supplies, games, storage, beach equipment, decorations and all the other stuff we seem to get into all the time. (We gave up on trying to get either of our cars in the garage about five months ago. The van is too long, and we needed the extra square footage for bicycles, toys, balls, and so forth.)
 
-I finally got my garden in some sort of decent shape. I have an English-style garden with lots of herbs, vegetables, holly, juniper, lilac, and other fun stuff (including a fairy and a bronze dragon!). The humming birds are out in full force this year, and they are turning up in an amazing array of colors. My butterfly bush, "Dark Knight", is in full bloom, as are my various flower boxes. I have miniature fruit trees in grey, Greek-style pots that flank arches that are loaded with Morning Glories and red flame grapes. Our grey flagstone patio boasts a plastic castle/clubhouse/slide that gets moved onto our grassy path when the kids need to get outside for a bit. I hope to get a little fountain and a gas barbecue eventually (I�m still dealing with a charcoal barbecue, but I�m finding that I don�t much like the amount of time it takes to clean.). Tomatoes are everywhere! A raccoon keeps stealing my raspberries and blackberries (He doesn�t seem to like the strawberries; go figure.). My yarrow bloomed for the first time this year, and my lavender is taller than my eldest son \<g>. After two years of neglect, it�s rather nice to see everything coming back to life.
+I finally got my garden in some sort of decent shape. I have an English-style garden with lots of herbs, vegetables, holly, juniper, lilac, and other fun stuff (including a fairy and a bronze dragon!). The humming birds are out in full force this year, and they are turning up in an amazing array of colors. My butterfly bush, "Dark Knight", is in full bloom, as are my various flower boxes. I have miniature fruit trees in grey, Greek-style pots that flank arches that are loaded with Morning Glories and red flame grapes. Our grey flagstone patio boasts a plastic castle/clubhouse/slide that gets moved onto our grassy path when the kids need to get outside for a bit. I hope to get a little fountain and a gas barbecue eventually (I�m still dealing with a charcoal barbecue, but I�m finding that I don�t much like the amount of time it takes to clean.). Tomatoes are everywhere! A raccoon keeps stealing my raspberries and blackberries (He doesn�t seem to like the strawberries; go figure.). My yarrow bloomed for the first time this year, and my lavender is taller than my eldest son &lt;g>. After two years of neglect, it�s rather nice to see everything coming back to life.
 
 In my nonexistent free time I�ve been reading several works on ancient Rome. I�m trying to decide whether my next book is going to be a nonfiction work about the Roman soldier who I think was the real King Arthur or whether I�m going to take a break from nonfiction and do an historical novel set in the Antonine period. It�s probably going to be another couple years before I can get back to writing regularly, but I always like to have several projects in progress, just in case I happen to get the time to work on any of them.
 
@@ -470,10 +468,7 @@ The featured artist for this newsletter is [Natasha Williams](mailto:silver_sere
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

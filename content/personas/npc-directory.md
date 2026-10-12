@@ -23,9 +23,9 @@ canonical_path = "/npc-directory/"
 
 <a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" class="float-left" loading="lazy" src="/ml4.gif"/></a>These are the approved additional personae (NPCs) for Queen's Own. To create a recognized NPC, you have to do everything on a [handout](/persona-handouts/), just as you would if you were creating an initial persona. (You do not have to do this if you simply want to make up characters to use in stories. The NPCs listed on this page represent only those characters for whom the member has done the additional work.) If you have an approved NPC persona who is not listed here, please contact [me](mailto:Legend@malcor.com).
 
-If a name is not linked and does not have an asterisk (\*), then we do not know how to reach that person. If you know him/her, please have him/her contact us with a current address!
+If a name is not linked and does not have an asterisk (&#42;), then we do not know how to reach that person. If you know him/her, please have him/her contact us with a current address!
 
-\*=e-mail withheld by request or unavailable.
+&#42;=e-mail withheld by request or unavailable.
 
 <a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" class="float-right" loading="lazy" src="/ml5.gif"/></a>Each person may have as many NPC personae as s/he wishes. The NPC will only be listed on this page, however, if the club member has done all of the required work on the [handout](/persona-handouts/) for that character type.
 

@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. III, No. 4\
-April 1990
+## Series 1, Vol. III, No. 4 April 1990
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty fans:
 
@@ -56,9 +54,9 @@ The purpose of this newsletter is to keep you informed of new books and tapes by
 
 I reluctantly made the decision some months ago that Queen's Own is going to have to ask for yearly dues. The trusty Xerox machine is leaving blothches and blots, blank spaces and spots, and I no longer trust it. Having the newsletter printed elsewhere and collated will save me time (and paper cuts), but I do need help with that expense. This is still a not-for-profit organization, and I expect to manage with dues of eight dollars for ten issues a year. Our "year" will start with the September issue.
 
-Queen's Own membership buttons are still available. \[Ed. note 2002: Out-of-date pricing info omitted, as well as checking account info and dues payment information. Memberships in the current incarnation of Queen's Own are free.\] Your membership year will still start with the September issue.
+Queen's Own membership buttons are still available. [Ed. note 2002: Out-of-date pricing info omitted, as well as checking account info and dues payment information. Memberships in the current incarnation of Queen's Own are free.] Your membership year will still start with the September issue.
 
-Patricia Riggs has volunteered her many organizational skills to become our archivist. She is the keeper of those bits and pieces of information you just have to know. If you have a question about Misty's books, filk, the club, or even about a zine or convention, send it to Patricia WITH A SASE. (Send requsts for Chris Johnson's [*The Helpful Handout of How to Become a Herald*](/herald-handout/) to me.) Please rememebr to include a Self Addressed Stamped Envelope whenever you write to anyone for information. And send Pat information on zines and cons so she can keep her records up to date. (Would you like to be her assistant? She could use some help.) Pat is also our Herald registrar. If you don't have time to finish your Herald requirements but know the names of your persona and Companion and want to make sure no one else has used them, send them to Pat. \[Ed. note 2002: Out-of-date address withheld. The list is online at [/persona-directory/](/persona-directory/).\]
+Patricia Riggs has volunteered her many organizational skills to become our archivist. She is the keeper of those bits and pieces of information you just have to know. If you have a question about Misty's books, filk, the club, or even about a zine or convention, send it to Patricia WITH A SASE. (Send requsts for Chris Johnson's [*The Helpful Handout of How to Become a Herald*](/herald-handout/) to me.) Please rememebr to include a Self Addressed Stamped Envelope whenever you write to anyone for information. And send Pat information on zines and cons so she can keep her records up to date. (Would you like to be her assistant? She could use some help.) Pat is also our Herald registrar. If you don't have time to finish your Herald requirements but know the names of your persona and Companion and want to make sure no one else has used them, send them to Pat. [Ed. note 2002: Out-of-date address withheld. The list is online at [/persona-directory/](/persona-directory/).]
 
 ## Convention News
 
@@ -66,7 +64,7 @@ Misty and Larry will be attending **Once Upon a Con**, sponsored by the IFGA, in
 
 June 1-3 will find Misty and Larry in Jackson, Mississippi, attending **Springfest 90**. Other Guests of Honor are Walter Koenig, Robert Aspirin, Steve Jackson, and Michael Scott. Dale Jewell very kindly sent me flyers for this con, so send a SASE to me for registration information. I attended last year and had a wonderful time. Southern hospitality exists, and the folks at Springfest are proof of that.
 
-Misty and Larry will be guests at **OURCON** in Alabama, July 6-8. Doris Mager of SOAR (Save Our American Raptors) is also attending. \[Ed. note 2002: Out-of-date contact info withheld.\] This is an inexpensive convention, with lodging on the college campus, and I urge anyone living in the area to attend. I wish I could!
+Misty and Larry will be guests at **OURCON** in Alabama, July 6-8. Doris Mager of SOAR (Save Our American Raptors) is also attending. [Ed. note 2002: Out-of-date contact info withheld.] This is an inexpensive convention, with lodging on the college campus, and I urge anyone living in the area to attend. I wish I could!
 
 New Jersey is hosting a filk con June 8-10! No, Misty will not be attending, but many of us Queen's Own members from our tri-state area will wear our buttons and attempt to find each other. I can copy a flyer for you, so send a SASE to me for more information. The con will be held at the Holiday Inn in Cherry Hill.
 
@@ -76,15 +74,15 @@ Our new member Sandra Montague informs me that members wishing to sew a costume 
 
 ## Writer's Corner:
 
-George Elliot wrote to tell us about the American Poetry Association's New Poetry contest. Quoting from George's letter: "The letter they sent me said, 'All adults who write poetry are welcome to enter. Entry is free.' There are 152 prizes, including a $1,000 grand prize. Interested poets may send one original poem, no more than 20 lines long, with name and address on the top of the page. Entries should be mailed to \[Ed. note 2002: Out-of-date address withheld.\]. Poems postmarked by June 30 are eligible to win, and a new contest will start July 1, 1990. (Each poem, whether it wins or not, will be consdiered for publication in the *American Poetry Anthology*, a hardback collection of contemporary verse.)"
+George Elliot wrote to tell us about the American Poetry Association's New Poetry contest. Quoting from George's letter: "The letter they sent me said, 'All adults who write poetry are welcome to enter. Entry is free.' There are 152 prizes, including a $1,000 grand prize. Interested poets may send one original poem, no more than 20 lines long, with name and address on the top of the page. Entries should be mailed to [Ed. note 2002: Out-of-date address withheld.]. Poems postmarked by June 30 are eligible to win, and a new contest will start July 1, 1990. (Each poem, whether it wins or not, will be consdiered for publication in the *American Poetry Anthology*, a hardback collection of contemporary verse.)"
 
 And Stephanie Wong of *Arrow's Message* suggests that anyone who needs help writing a story use the local library: "There are books to help you with basic structures and plot development. The one I read, *Plot* by Ansen Dibell, is especially good because it has humor and applies specifically to what we're doing: short stories and fantasy/fiction."
 
-One of our regional chapters, **The Illinois Arrow**, has sent me a copy of their newsletter. If you are interested and live in the Illinois area, contact them at \[Ed. note 2002: Out-of-date address withheld.\]. Congratulations, Holly Williams, Stephanie Cottrell, and Jecca Feldman.
+One of our regional chapters, **The Illinois Arrow**, has sent me a copy of their newsletter. If you are interested and live in the Illinois area, contact them at [Ed. note 2002: Out-of-date address withheld.]. Congratulations, Holly Williams, Stephanie Cottrell, and Jecca Feldman.
 
-Stephanie Wong's first issue of her zine, *Arrow's Message*, is on my kitchen table. Have you ordered your copy? She and her contributors have done a great job. The cover, by Kiri Namtvedt, is magnificent! Send your stories, poems, and/or artwork \[Ed. note 2002: Out-of-date address and subscription info withheld.\].
+Stephanie Wong's first issue of her zine, *Arrow's Message*, is on my kitchen table. Have you ordered your copy? She and her contributors have done a great job. The cover, by Kiri Namtvedt, is magnificent! Send your stories, poems, and/or artwork [Ed. note 2002: Out-of-date address and subscription info withheld.].
 
-The deadline for submissions to the first issue of R. Nathaniel Waldbauer's *Tales of Valdemar and Beyond* is September 1st. Send your stories, poems, and/or artwork to him at \[Ed. note 2002: Out-of-date address withheld.\]. You don't need to decide between the two zines; you can write for both! **Support our zines!**
+The deadline for submissions to the first issue of R. Nathaniel Waldbauer's *Tales of Valdemar and Beyond* is September 1st. Send your stories, poems, and/or artwork to him at [Ed. note 2002: Out-of-date address withheld.]. You don't need to decide between the two zines; you can write for both! **Support our zines!**
 
 ## Herald Registry
 
@@ -103,7 +101,7 @@ It has never been my intention to make money from Queen's Own. The club was star
 
 One of the joys of fandom is the vocabulary. Do you know the word "GAFIA?" It stands for Getting Away From It All. Some of our members have gafiated. Queen's Own, for various reasons, is no longer as important to them as it once was. Please don't feel betrayed or abandoned by friends whose interests have changed but wish them well. May all their memories of Queen's Own be pleasant ones.
 
-I can be reached evenings at \[Ed. note 2002: Phone withheld.\]. No calls after 11 PM; I'm not coherent by that hour anyway.
+I can be reached evenings at [Ed. note 2002: Phone withheld.]. No calls after 11 PM; I'm not coherent by that hour anyway.
 
 Thanks, hugs, and lots of jelly beans (no green ones) are hereby awarded to Ana Casacuberta and Joane Gise who have nearly finished organizing by correspondence files.
 
@@ -111,11 +109,11 @@ Thanks, hugs, and lots of jelly beans (no green ones) are hereby awarded to Ana 
 
 ## Fan Messages
 
-\[Ed. Note 2002: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
-\[Ed. Note 2002: Personals are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Personals are not being posted online because of the personal information they contained.]
 
 ## Dates to Remember
 
@@ -154,7 +152,7 @@ P.S. Bright blessings to you all!
 
 Judith
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -168,10 +166,7 @@ There was no art for this edition of the newsletter. If you have a clue who they
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

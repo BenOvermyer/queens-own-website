@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 4, No. 1\
-January 1, 2003
+## Series 3, Vol. 4, No. 1 January 1, 2003
 
 <img alt="Herald Kevyn by J.J. Routhier" class="border-5" loading="lazy" src="/qo143.jpg"/>
 
@@ -68,7 +66,7 @@ Also note that every time you write a story based on Misty's stories, you need t
 
 [/release-form-instructions/](/release-form-instructions/)
 
-Please support all of our fanzines. Our editors need as much fanfiction, artwork, and other materials as you can send them \<g>. The Queen�s Own fanzines are some of the best we�ve ever seen in fandom, and we�re very proud of them. Please, subscribe and contribute to them.
+Please support all of our fanzines. Our editors need as much fanfiction, artwork, and other materials as you can send them &lt;g>. The Queen�s Own fanzines are some of the best we�ve ever seen in fandom, and we�re very proud of them. Please, subscribe and contribute to them.
 
 Instead of an interview this month, we have a brief article from Queen�s Own member Herald Alora about her business. You�ve seen her art in many of our newsletters and Queen�s Own fanzines. In fact, she just won last year�s submission contest for the person who sent the most art or stories to our QO zines. Herald Alora�s work is extraordinary. Do check out what she has to offer!
 
@@ -78,11 +76,11 @@ Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-In the mid-1990's, while actively involved in fandom I decided to offer my artistry to others (beyond artwork submissions to newsletters and zines). With a lack of fantasy-related products on the market and wanting to produce items that were both useful and enjoyable, I began \[my business\]. Various stationery and bookmark designs--inspired by myths, magic, and dreams--are available, while some of my designs are influenced by the magical writings of Mercedes Lackey (one of my favorite writers!).
+In the mid-1990's, while actively involved in fandom I decided to offer my artistry to others (beyond artwork submissions to newsletters and zines). With a lack of fantasy-related products on the market and wanting to produce items that were both useful and enjoyable, I began [my business]. Various stationery and bookmark designs--inspired by myths, magic, and dreams--are available, while some of my designs are influenced by the magical writings of Mercedes Lackey (one of my favorite writers!).
 
 Seeking to revitalize my small business, I have recently expanded my product line, offering more stationery and, now, card packs in a multitude of designs from sci-fi to fantasy. This includes my Furry Angel Series, which are cat angel (one dog and cat design, too) cards.
 
-Depending upon sales, feedback, and production costs, I hope to further expand, diversify, and customize \[Editor's Note: Out of date information withheld.\].
+Depending upon sales, feedback, and production costs, I hope to further expand, diversify, and customize [Editor's Note: Out of date information withheld.].
 
 Thank you!
 
@@ -90,7 +88,7 @@ Thank you!
 
 ## Ren Faires:
 
-We are not aware of any Faires running in January. (Perhaps everyone is recovering from the holidays \<g>.) Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com)
+We are not aware of any Faires running in January. (Perhaps everyone is recovering from the holidays &lt;g>.) Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com)
 
 For additional Ren Faire information, visit the Renaissance Faire Homepage at [http://www.renfaire.com/](http://www.renfaire.com/) and the Renaissance Magazine site at [http://www.renaissancemagazine.com](http://www.renaissancemagazine.com).
 
@@ -234,14 +232,14 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - **Sonoran Collegium:** Our Region: THE SOUTHWEST (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome). Contact Info: Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX. E-mail: [Mistykalia@aol.com](mailto:Mistykalia@aol.com). Website: [/sonoran-collegium/](/).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa. We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption. *Austral'a'in* is up for adoption. If you are interested in adopting the chapter, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [/children-of-velgarth/](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
 - ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists�particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I�ve had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
-  *\ - Companions' Grove Volume One - $4.00 ($4.75 with color cover) - Companions' Grove Volume Two - $5.60 ($6.35 with color cover) - Companions' Grove Volume Three - $5.20 ($5.95 with color cover) - Companions' Grove Volume Four - $4.20 ($4.95 with color cover) - Companions' Grove Volume Five - $7.00 ($7.75 with color cover) - Companions' Grove Volume Six - $5.80 ($6.55 with color cover) - Companions' Grove Volume Seven - $5.20 ($5.95 with color cover) - The Danya Winterborn Saga - $5.20 - Endgame - $3.85 - Fire Eyes - $4.40 - Shards of Autumn - $3.90 - The Sum of Duty - $5.80 - Do or Dye: A Guide to Companion Camouflage - $1.25 - Cat's Cradle - $7.60\*
+  *- Companions' Grove Volume One - $4.00 ($4.75 with color cover) - Companions' Grove Volume Two - $5.60 ($6.35 with color cover) - Companions' Grove Volume Three - $5.20 ($5.95 with color cover) - Companions' Grove Volume Four - $4.20 ($4.95 with color cover) - Companions' Grove Volume Five - $7.00 ($7.75 with color cover) - Companions' Grove Volume Six - $5.80 ($6.55 with color cover) - Companions' Grove Volume Seven - $5.20 ($5.95 with color cover) - The Danya Winterborn Saga - $5.20 - Endgame - $3.85 - Fire Eyes - $4.40 - Shards of Autumn - $3.90 - The Sum of Duty - $5.80 - Do or Dye: A Guide to Companion Camouflage - $1.25 - Cat's Cradle - $7.60*
   For orders shipping in the US, I've instituted a maximum shipping cost of $3.85. Multi-zine orders which can be shipped in a flat rate envelope will be sent Priority Mail; larger orders will be sent Media Mail Insured, which is only slightly slower and doesn't have the zone rates (which wouldn't work with my shopping cart). Smaller orders will be sent First Class.
   I take credit cards via PayPal, which is the cart's only payment option, but the cart can be used to calculate shipping, and checks/money orders mailed to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St, Pahrump, NV 89060.
   Zines are printed on high-quality, bright white paper, comb bound, with cardstock covers. Story excerpts and cover art-as well as international pricing, submission guidelines, and PayPal ordering information-can be found at [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm) . To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N. Kelishan St., Pahrump, NV 89060. People outside the US should go directly to [http://www.greendragonpress.net/international.htm](http://www.greendragonpress.net/international.htm) and check out the price break for buying zines in threes, before they go to the main page and get scared by the per-zine shipping.
@@ -285,19 +283,19 @@ If you are a returning member who has recently activated your membership in Quee
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\
-- Herald Cateryna Cyray (KimChrist@Home.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\
-- Healer Adept Sierra k'Treva (katsanders@buffymail.com)\
-- Bard Valiena (laughsong@aol.com)\
-- Healer Tamesin na Coille (minke13@earthlink.net)\
-- Herald Alia Melyngar (aliamelyngar@aol.com)\
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
+- Herald Cateryna Cyray (KimChrist@Home.com)
+- Herald Deborah (sjupiterdebi@home.com)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Healer Adept Sierra k'Treva (katsanders@buffymail.com)
+- Bard Valiena (laughsong@aol.com)
+- Healer Tamesin na Coille (minke13@earthlink.net)
+- Herald Alia Melyngar (aliamelyngar@aol.com)
 - Herald Kalendel (itsmyage@aol.com)
 - Guardsman Faolan Ixran (Timmeu@scubadiving.com)
 - Healer Darnellon Gaither (mdprier@aol.com)
@@ -346,10 +344,7 @@ The featured artist for this newsletter is [J.J. Routhier](mailto:kevynicus@yaho
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

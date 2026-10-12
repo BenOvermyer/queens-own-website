@@ -112,14 +112,14 @@ The Mages' Collegium has its own teachers, who are called Mage-teachers:
 
 - Herald Elspeth
 - Hawkbrother Darkwind
-- Gryphon \*\*\*
-- Gryphon \*\*\*
-- Gryphon \*\*\*
-- Gryphon \*\*\*
+- Gryphon &#42;&#42;&#42;
+- Gryphon &#42;&#42;&#42;
+- Gryphon &#42;&#42;&#42;
+- Gryphon &#42;&#42;&#42;
 - Sun-Priest Ambassador Karal (blind)
-- Sun Priest \*\*\*
+- Sun Priest &#42;&#42;&#42;
 - White Winds Mage Shoshonna
-- Mage \*\*\* (from the Eastern Empire)
+- Mage &#42;&#42;&#42; (from the Eastern Empire)
 
 Bardic and Healer teachers staff the Bardic Collegium and Healers' Collegium, respectively. Regular Heralds do not usually see much of Bardic, Healer or Mage-teachers.
 
@@ -186,4 +186,4 @@ There are Herald Waystations scattered throughout Valdemar. These are stand-alon
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)\ [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)\
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/) [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

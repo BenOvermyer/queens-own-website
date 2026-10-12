@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 1, No. 1\
-May 1, 2000
+## Series 3, Vol. 1, No. 1 May 1, 2000
 
 <a href="https://dragonlords.fans/bkmlvs.htm"><img alt="Burning Brightly, Misty's Latest Release!" loading="lazy" src="/ml55.jpg"/></a>
 
@@ -32,9 +30,9 @@ Heyla, Misty Fans!
 
 Welcome to the first issue of the Queen's Own newsletter put out by Herald-Mage Journeyman Danya Winterborn and Healer Adept Moonstar!
 
-Since you have received this newsletter via e-mail, you already know that Queen's Own is under new management and has a website located at [/](/). Memberships are now free for the newsletter, which will be mailed online a few days before the HTML copy goes up on the site. The MS-Word copy of the newsletter will not contain art (so people don't find 1 MB messages in their mailboxes \<g>), but if you have art you would like to submit to us for the website version of the newsletter, we'd love to post it! E-mail .jpg or .gif files to [Legend@malcor.com](mailto:Legend@malcor.com) or send hardcopy to the address listed above.
+Since you have received this newsletter via e-mail, you already know that Queen's Own is under new management and has a website located at [/](/). Memberships are now free for the newsletter, which will be mailed online a few days before the HTML copy goes up on the site. The MS-Word copy of the newsletter will not contain art (so people don't find 1 MB messages in their mailboxes &lt;g>), but if you have art you would like to submit to us for the website version of the newsletter, we'd love to post it! E-mail .jpg or .gif files to [Legend@malcor.com](mailto:Legend@malcor.com) or send hardcopy to the address listed above.
 
-We're taking the club and the newsletter back to the old format developed by the founder of Queen's Own, Judith Louvis, only we're doing it online. This means you can submit ads, personals, and all sorts of goodies via e-mail \<g>. Do remember, though, that the newsletter will be posted online, so **if you don't want your snail mail address posted on the Net, don't submit it**. Think about submitting your e-mail address instead. Also, you may want to stick to your persona name instead of using your real name. Up to you. Just make sure we know what you want so no information goes into the newsletter that you do not want there.
+We're taking the club and the newsletter back to the old format developed by the founder of Queen's Own, Judith Louvis, only we're doing it online. This means you can submit ads, personals, and all sorts of goodies via e-mail &lt;g>. Do remember, though, that the newsletter will be posted online, so **if you don't want your snail mail address posted on the Net, don't submit it**. Think about submitting your e-mail address instead. Also, you may want to stick to your persona name instead of using your real name. Up to you. Just make sure we know what you want so no information goes into the newsletter that you do not want there.
 
 Speaking of things going into the newsletter, we would be happy to consider items that you wish to submit for publication. Have you done an interview with anyone of interest to members of Queen's Own? Do you have information about upcoming cons, local Queen's Own chapters, or other fandoms? Visit [/newsletter-guidance/](/newsletter-guidance/) for instructions on how to send your material to us!
 
@@ -64,7 +62,7 @@ Besides Misty's fantasy series for DAW and Baen, she had a horror series for TOR
 
 The catalog of *Firebird Arts and Music* is a wonderful introduction to the world of filk. Their address is P.O. Box 14785, Portland, OR, 97214, and their website is at [http://firebirdarts.com/](http://firebirdarts.com/). Their toll-free number is 1-800-752-0494. From Misty's worlds they carry tapes, books, T-shirts, and pewter jewelry and sculpture. Firebird also carries the music of *Tempest*, *Golden Bough*, *Clannad*, Heather Alexander, Meg Davis, Frank Hayes, Duane Elms and more.
 
-*The Cerridwen Enterprise* (http://www.tardis.ed.ac.uk/~ism/lackey/info/cerridwen\_enterprise.shtml) carries prints of Jody Lee's beautiful covers as well as a *Winds of Fate* T-shirt. Write to them at P.O. Box 10161, Kansas City, MO 64111, or phone 1-800-825-1281 to order or get their mailing list.
+*The Cerridwen Enterprise* (http://www.tardis.ed.ac.uk/~ism/lackey/info/cerridwen_enterprise.shtml) carries prints of Jody Lee's beautiful covers as well as a *Winds of Fate* T-shirt. Write to them at P.O. Box 10161, Kansas City, MO 64111, or phone 1-800-825-1281 to order or get their mailing list.
 
 Do you dream of being a Herald? A Healer? A Bard? Queen's Own members can earn the right tot hose titles by following the guidelines in our helpful handouts. You can find the handouts at [/persona-handouts/](/persona-handouts/) on the Queen's Own website.
 
@@ -117,13 +115,13 @@ Georgia
 
 ## Pennsylvania
 
-- KUTZTOWN RENAISSANCE FAIRE, Website: http://www.kutztown.edu/student\_services/. Address: Rt. 222, Kutztown, PA 19530. When: 5/06/00 - 5/07/00, Open/Close: 10:00 AM - 6:00 PM.
+- KUTZTOWN RENAISSANCE FAIRE, Website: http://www.kutztown.edu/student_services/. Address: Rt. 222, Kutztown, PA 19530. When: 5/06/00 - 5/07/00, Open/Close: 10:00 AM - 6:00 PM.
 
 ## Tennessee
 
 - TENNESSEE RENAISSANCE FESTIVAL, E-mail: [TennRenFest@netscape.net](mailto:TennRenFest@netscape.net). Website: http://sites.netscape.net/tennrenfest/homepage. Address: 2124 Newcastle Rd., Arrington-Triune, TN 37014. When: 5/05/00 - 5/29/00, Open/Close: 10:00 AM - 6:00 PM.
 
-\<h2texas\<>
+&lt;h2texas&lt;>
 
 - SCARBOROUGH RENAISSANCE FAIRE, E-mail: [TheRenFest@aol.com](mailto:TheRenFest@aol.com), Website: [http://www.ScarboroughRenFest.com](http://www.ScarboroughRenFest.com/). Address: P.O. Box 538, Waxahachie, TX 75168-0538, Site Address: 2511 FM 66, Waxahachie, TX 75165-5527. When: 4/15/00 - 6/04/00, Open/Close: 10:00 AM - 7:00 PM.
 
@@ -160,7 +158,7 @@ For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fan
 
 ## Zines and Newsletters:
 
-- ***\ Austral'a'in\*:** Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au). You get eight issues a year of eight pages each. The costs are: for Australians, $8 a year or 8 x 45 cent stamps. For people overseas $12 Australian or 15 IRCs.
+- ***Austral'a'in*:** Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au). You get eight issues a year of eight pages each. The costs are: for Australians, $8 a year or 8 x 45 cent stamps. For people overseas $12 Australian or 15 IRCs.
 - ***Collegium Chronicles*:** The Venerable Pacific Northwest Collegium is looking for a few good writers and artists for its newsletter *Collegium Chronicles*. It would e preferable if folks had e-mail access. I am looking for stories that are primarily fantasy--QO persona requirements are acceptable, so long as they are in story format. Poetry, articles and essays also welcome. Come join us in what will be the final year of this nearly decade-long newsletter. $8 per year/$4 for a half-year, $2 per issue. Final issue will be June/July of 2001. Get your dues in early reap the full benefits! Great artwork (see our webpage at [/pacific-northwest-collegium/](/pacific-northwest-collegium/)) great stories, news of local events in the Pacific Northwest area. All are welcome. Send general inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (P.S. If anyone is interested in taking over the Chronicles after next summer, let me know! I'd hate to see such a noble creature die out.)
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [/golden-grove/](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
@@ -212,7 +210,7 @@ The Queen�s Own mailing list was at one time about 1,100 members strong, and w
 
 The only "fee" for a fan message is to write to two other people. If your mailbox is empty, don't complain--write letters!
 
-- From Danya Winterborn, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" \<g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
+- From Danya Winterborn, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
 
 <img alt="Bar" loading="lazy" src="/bar2.gif"/>
 
@@ -230,17 +228,13 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Co-Editor/Co-President Herald-Mage Journeyman Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))\
-Co-Editor/Co-President Healer Adept Moonstar (Kendra Renaud; AOL-IM SN healermoon; [healermoon@gmail.com](mailto:healermoon@gmail.com))
+Co-Editor/Co-President Herald-Mage Journeyman Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com)) Co-Editor/Co-President Healer Adept Moonstar (Kendra Renaud; AOL-IM SN healermoon; [healermoon@gmail.com](mailto:healermoon@gmail.com))
 
 The featured artist for the online version of the newsletter is [Laura Cameron](mailto:anjakiya@hotmail.com). All drawings in this newsletter are ©1998-1999 Laura Cameron. All rights reserved.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 

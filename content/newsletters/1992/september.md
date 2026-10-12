@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. VI, No. 1\
-September 1992
+## Series 1, Vol. VI, No. 1 September 1992
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -165,7 +163,7 @@ Dear Misty Fans,
 </tr>
 </table>
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo228.jpg"/>Most of the books listed here are still available; back issues of *Marion Zimmer Bradley's FANTASY Magazine* can be ordered from \[Ed. note 2004: Out-of-date info. withheld.\].
+<img alt="Border art" class="float-right" loading="lazy" src="/qo228.jpg"/>Most of the books listed here are still available; back issues of *Marion Zimmer Bradley's FANTASY Magazine* can be ordered from [Ed. note 2004: Out-of-date info. withheld.].
 
 For those of you who like to prowl through old book stores, Misty had short stories in *Fantasy Book*, September 1985, March 1986, September 1986, and December 1986. Also look for *American Fantasy*, Winter 1987. Happy Hunting - I've never been able to find them.
 
@@ -179,15 +177,15 @@ DAW's ad for *Winds of Change* reads "The kingdom of Valdemar is imperiled by th
 
 SEND A SASE WHEN WRITING FOR INFORMATION ON A CON! SEND A SASE WHEN WRITING FOR INFORMATION FROM ANYONE IN FANDOM! Convention committees (and editors, and fan clubs) are under no obligation to answer mail that does not include a Self Addressed Stamped Envelope!
 
-Misty and Larry are limiting their convention appearances to concentrate on their many projects and to take a well�-deserved rest. So--if you are lucky enough to live in the Iowa area, try to attend ICON, October 2-4 in Coralville. For registration and hotel information, write to \[Ed. note 2004: Out-of-date info. withheld.\].
+Misty and Larry are limiting their convention appearances to concentrate on their many projects and to take a well�-deserved rest. So--if you are lucky enough to live in the Iowa area, try to attend ICON, October 2-4 in Coralville. For registration and hotel information, write to [Ed. note 2004: Out-of-date info. withheld.].
 
-Juanita and Buck Coulson are well-known in the world of filk and now have another claim to fame--they're writing a concordance for Misty's worlds. Besides all that, they sell Misty-related material and other merchandise at many conventions in the Midwest. Look for them in Columbus, Ohio on October 2-4 at Context V \[Ed. note 2004: Out-of-date info. withheld.\] and at Ohio Valley Filk Fest \[Ed. note 2004: Out-of-date info. withheld.\] October 23-25. They'll be in Schaumberg, Illinois on November 6-8 for WindxCon XIX \[Ed. note 2004: Out-of-date info. withheld.\]. SoonerCon 8, November 20-22 in Oklahoma City, features some other familiar names as guests: besides Juanita Coulson as Filk Guest of Honor, Elsie Wollheim of DAW is participating in the reunion of First Fandom, and C. J. Cherryh and Brad Sinor expect to attend. Write to SoonerCon 8 \[Ed. note 2004: Out-of-date info. withheld.\] for more information. Buck and Juanita will be back in Illinois November 27-29 for Chambanacon 22 in Champaign. Write to Chambanacon \[Ed. note 2004: Out-of-date info. withheld.\].
+Juanita and Buck Coulson are well-known in the world of filk and now have another claim to fame--they're writing a concordance for Misty's worlds. Besides all that, they sell Misty-related material and other merchandise at many conventions in the Midwest. Look for them in Columbus, Ohio on October 2-4 at Context V [Ed. note 2004: Out-of-date info. withheld.] and at Ohio Valley Filk Fest [Ed. note 2004: Out-of-date info. withheld.] October 23-25. They'll be in Schaumberg, Illinois on November 6-8 for WindxCon XIX [Ed. note 2004: Out-of-date info. withheld.]. SoonerCon 8, November 20-22 in Oklahoma City, features some other familiar names as guests: besides Juanita Coulson as Filk Guest of Honor, Elsie Wollheim of DAW is participating in the reunion of First Fandom, and C. J. Cherryh and Brad Sinor expect to attend. Write to SoonerCon 8 [Ed. note 2004: Out-of-date info. withheld.] for more information. Buck and Juanita will be back in Illinois November 27-29 for Chambanacon 22 in Champaign. Write to Chambanacon [Ed. note 2004: Out-of-date info. withheld.].
 
-Magic Carpet Con I offers a rare chance to meet Andre Norton next May 7-9 in Dalton, Georgia. Memberships are only $18 if you buy before 12/31/92. Send a SASE to QO member Betty J. Law \[Ed. note 2004: Out-of-date info. withheld.\]for registration information.
+Magic Carpet Con I offers a rare chance to meet Andre Norton next May 7-9 in Dalton, Georgia. Memberships are only $18 if you buy before 12/31/92. Send a SASE to QO member Betty J. Law [Ed. note 2004: Out-of-date info. withheld.]for registration information.
 
 ## COLLEGIUM NEWS:
 
-For a handout on how to become a Herald, Healer, or Bard, or for instructions on how to work for Herald-Mage status if you are already a Herald, send a SASE to the new Queen's Own address: \[Ed. note 2004: Out-of-date info. withheld. The Handouts are now online at [/persona-handouts/](/persona-handouts/).\]. If you have completed Herald-Mage requirements, send your material to: Guardian of the Web - \[Ed. note 2004: Out-of-date info. withheld. The Herald-Mage handout is now online at [/herald-mage-handout/](/herald-mage-handout/).\]. All other material comes to me.
+For a handout on how to become a Herald, Healer, or Bard, or for instructions on how to work for Herald-Mage status if you are already a Herald, send a SASE to the new Queen's Own address: [Ed. note 2004: Out-of-date info. withheld. The Handouts are now online at [/persona-handouts/](/persona-handouts/).]. If you have completed Herald-Mage requirements, send your material to: Guardian of the Web - [Ed. note 2004: Out-of-date info. withheld. The Herald-Mage handout is now online at [/herald-mage-handout/](/herald-mage-handout/).]. All other material comes to me.
 
 - Welcome, **Herald Kella**, Chosen by Aleth and gifted with double-strength Mindspeech and Empathy. *Johnna Novales* sent information on her persona and family, a poem and a song, and sent details of her many volunteer duties.
 - From *Mary Richards* comes **Healer Kyllia Ricardine**, gifted with very strong Empathy. Mary sent descriptions of Kyllia and her family, three drawings, a letter home, and a story.
@@ -205,9 +203,9 @@ For a handout on how to become a Herald, Healer, or Bard, or for instructions on
 
 ### Hello from Herald Housemother
 
-I hope your summer was fun, exciting, relaxing, whatever you wanted it to be. Mine went speeding by so quickly I'm left shaking my head in bewilderment. I still hope to move by the end of this month; please use the new QO address--\[Ed. note 2004: Out-of-date ino. withheld.\]--from now on.
+I hope your summer was fun, exciting, relaxing, whatever you wanted it to be. Mine went speeding by so quickly I'm left shaking my head in bewilderment. I still hope to move by the end of this month; please use the new QO address--[Ed. note 2004: Out-of-date ino. withheld.]--from now on.
 
-I've been getting a lot of mail without SASE's, some even without return addresses. Patience Sibeal, mentor and zine editor, wrote to me about the same problem, and gave me permission to quote parts of her letter: "I have a 4-page letter I've been sending out with tips about writing for a long SASE (and a 12-page list of zines and clubs in media fandoms like Blake's 7 and Star Trek \[not to mention many others\] for $1.00 domestic or $1.50 foreign--copy and postage costs); and I am always happy to look over stories. But if I get another letter without an SASE I am just going to throw it away . . . I've said it many times but this time I mean it for real. I'm sorry, but I can't believe how many people have not sent SASEs, yet expect a response.
+I've been getting a lot of mail without SASE's, some even without return addresses. Patience Sibeal, mentor and zine editor, wrote to me about the same problem, and gave me permission to quote parts of her letter: "I have a 4-page letter I've been sending out with tips about writing for a long SASE (and a 12-page list of zines and clubs in media fandoms like Blake's 7 and Star Trek [not to mention many others] for $1.00 domestic or $1.50 foreign--copy and postage costs); and I am always happy to look over stories. But if I get another letter without an SASE I am just going to throw it away . . . I've said it many times but this time I mean it for real. I'm sorry, but I can't believe how many people have not sent SASEs, yet expect a response.
 
 "In the last month I received one handwritten submission on notebook paper from someone whose address I couldn't even read (and he didn't send an SASE) and a typewritten poem from another person (whose Valdermarian name I will omit) who not only forgot to send an SASE but also forgot to leave her address or her real name! I liked both of these submissions, but how can I contact these people? I got another recent submission from a young woman who wrote a wonderful story but also neglected to send a SASE. I wrote her back after two weeks, but if she had sent an SASE I would have answered her the next day. The baser side of my nature says, why should I bother to contact these people when they apparently don't care enough to send me an SASE?
 
@@ -219,44 +217,41 @@ Fandom is for fun, but it's also a lot of work for some of us--and it's expensiv
 
 ## NEWS FROM MEMBERS:
 
-Greetings from the Pacific Northwest! The Pacific Northwest Collegium would like to extend an invitation to all of you from Washington, Oregon, and Idaho. Please write Herald Taeryn aka Tia Schmidt, at \[Ed. note 2004: Out-of-date ino. withheld.\]; or Herald Charna aka Charlene Ryan at \[Ed. note 2004: Out-of-date ino. withheld.\]. We love to have new members! The more the merrier!
+Greetings from the Pacific Northwest! The Pacific Northwest Collegium would like to extend an invitation to all of you from Washington, Oregon, and Idaho. Please write Herald Taeryn aka Tia Schmidt, at [Ed. note 2004: Out-of-date ino. withheld.]; or Herald Charna aka Charlene Ryan at [Ed. note 2004: Out-of-date ino. withheld.]. We love to have new members! The more the merrier!
 
 To all QO members in Michigan from Rhys Brnwyn: Any and all of you are invited to join me and other QO members at the Michigan Renaissance Festival on September 27 at the Maze stage at noon. Wear a white ribbon on your left arm for LD. Hope to see you there!
 
-Any QO members planning to attend Southern California's filk convention Con-Chord 8 at the Holiday Inn LAX, Los Angeles October 2-4, please contact \[Ed. note 2004: Out-of-date ino. withheld.\].
+Any QO members planning to attend Southern California's filk convention Con-Chord 8 at the Holiday Inn LAX, Los Angeles October 2-4, please contact [Ed. note 2004: Out-of-date ino. withheld.].
 
-Greetings from Texas! For information on Haven Sent, the Texas QO chapter, write to \[Ed. note 2004: Out-of-date ino. withheld.\].
+Greetings from Texas! For information on Haven Sent, the Texas QO chapter, write to [Ed. note 2004: Out-of-date ino. withheld.].
 
-From Lynn Tucker Triforce Productions \[Ed. note 2004: Out-of-date ino. withheld.\]: Visit Valdemar and meet the Heralds, Trainees, and newly-Chosen created by the fans of Mercedes Lackey. Volume One of *Companions' Grove* offers tales of the Choosing of two young women; of an outkingdom Trainee with outkingdom magic - and the need for training; of an Empathic Trainee who has difficulties mastering her Gift; of a Bard with a Wild Healing Talent and a fondness for dramatic license; of a Healer and the Herald she treats; and for you Shin'a'in fans, a story in which slavers foolishly travel into the Dhorisha Plains; plus poetry and art to round things out. 48 pages, staple bound, for $5.50 first class; checks payable to Lynn Tucker, US funds only please. Lynn is accepting stories for the next volume. She says, "I don't want anyone to think that the title means only Heraldic stories will be accepted. I definitely want stories about all aspects of Velgarth, from Heralds to Healers to Shin'a'in to Pelegiris Changelings! Don't be scared, folks; editing is 90% painless!
+From Lynn Tucker Triforce Productions [Ed. note 2004: Out-of-date ino. withheld.]: Visit Valdemar and meet the Heralds, Trainees, and newly-Chosen created by the fans of Mercedes Lackey. Volume One of *Companions' Grove* offers tales of the Choosing of two young women; of an outkingdom Trainee with outkingdom magic - and the need for training; of an Empathic Trainee who has difficulties mastering her Gift; of a Bard with a Wild Healing Talent and a fondness for dramatic license; of a Healer and the Herald she treats; and for you Shin'a'in fans, a story in which slavers foolishly travel into the Dhorisha Plains; plus poetry and art to round things out. 48 pages, staple bound, for $5.50 first class; checks payable to Lynn Tucker, US funds only please. Lynn is accepting stories for the next volume. She says, "I don't want anyone to think that the title means only Heraldic stories will be accepted. I definitely want stories about all aspects of Velgarth, from Heralds to Healers to Shin'a'in to Pelegiris Changelings! Don't be scared, folks; editing is 90% painless!
 
-Anybody in the Southwest interested in a newsletter? *Merging of the Ways* is finally ready to get off the ground. The first issue is free, after that it's $6 for six issues. MW will come out every other month or as contributions dictate. The address is Merging of the WM , c/o Jennifer Sauer \[Ed. note 2004: Out-of-date ino. withheld.\].
+Anybody in the Southwest interested in a newsletter? *Merging of the Ways* is finally ready to get off the ground. The first issue is free, after that it's $6 for six issues. MW will come out every other month or as contributions dictate. The address is Merging of the WM , c/o Jennifer Sauer [Ed. note 2004: Out-of-date ino. withheld.].
 
-*Chronicles of Valdemar* is a recently established role-playing chapter of QO. Dues are $4 for a year's subscription of 10 issues. COV is not run similarly to AD&D. For more information, send a SASE to Cathy Timura \[Ed. note 2004: Out-of-date ino. withheld.\].
+*Chronicles of Valdemar* is a recently established role-playing chapter of QO. Dues are $4 for a year's subscription of 10 issues. COV is not run similarly to AD&D. For more information, send a SASE to Cathy Timura [Ed. note 2004: Out-of-date ino. withheld.].
 
-If you would like to write in the setting of Valdemar, send a SASE for guidelines to Writer's Collegium of Valdemar c/o Jacaueline Moikeha \[Ed. note 2004: Out-of-date ino. withheld.\]. This is not a fanzine but a writer's circle.
+If you would like to write in the setting of Valdemar, send a SASE for guidelines to Writer's Collegium of Valdemar c/o Jacaueline Moikeha [Ed. note 2004: Out-of-date ino. withheld.]. This is not a fanzine but a writer's circle.
 
 ## FAN MESSAGES:
 
-\[Ed note 2004: content withheld.\]
+[Ed note 2004: content withheld.]
 
 ## PERSONALS:
 
-\[Ed note 2004: content withheld.\]
+[Ed note 2004: content withheld.]
 
-Queen's Own \[Ed note 2004: Out-of-date subscription info. withheld.\]. Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Our new address of publication: \[Ed. note 2004: Out-of-date contact info. withheld.\]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own [Ed note 2004: Out-of-date subscription info. withheld.]. Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Our new address of publication: [Ed. note 2004: Out-of-date contact info. withheld.]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Next Mailing Day: October 10, at the South Jersey address (I hope!); call \[Ed. note 2004: Out-of-date contact info. withheld.\] for directions.
+Next Mailing Day: October 10, at the South Jersey address (I hope!); call [Ed. note 2004: Out-of-date contact info. withheld.] for directions.
 
-Editor, President, Dogsbody, Housemother - Judith Louis \[Ed. note 2004: Out-of-date contact info. withheld.\](call only before 10 pm and let it ring. 1'm now in a two story/one phone house!)\
-Archivist and Organizer extraordinaire - Patricia Riggs, \[Ed. note 2004: Out-of-date contact info. withheld.\]\
-Herald-Mage Registrar - Guardian of the Web, \[Ed. note 2004: Out-of-date contact info. withheld.\]. (Send proof of completed Herald-Mage criteria directly to the Web address, not to NJ.)\
-Mailing Day Helpers (last issue) - Heather Adcock, Leah Adezio, Frank Burkhead, Ana Casacuberta, Patti Hemeleski, Cherie Lombardi, Joanne Mattern, and Randi Sumner.
+Editor, President, Dogsbody, Housemother - Judith Louis [Ed. note 2004: Out-of-date contact info. withheld.](call only before 10 pm and let it ring. 1'm now in a two story/one phone house!) Archivist and Organizer extraordinaire - Patricia Riggs, [Ed. note 2004: Out-of-date contact info. withheld.] Herald-Mage Registrar - Guardian of the Web, [Ed. note 2004: Out-of-date contact info. withheld.]. (Send proof of completed Herald-Mage criteria directly to the Web address, not to NJ.) Mailing Day Helpers (last issue) - Heather Adcock, Leah Adezio, Frank Burkhead, Ana Casacuberta, Patti Hemeleski, Cherie Lombardi, Joanne Mattern, and Randi Sumner.
 
 What would a male chauvinist call Need? a Broad's Sword! (Thanks to Jennifer Wilson)
 
 Wind to thy Wings, Judith
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -268,10 +263,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

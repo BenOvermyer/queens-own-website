@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 1, No. 8\
-December 1, 2000
+## Series 3, Vol. 1, No. 8 December 1, 2000
 
 <img alt="Herald Auralynn and Sabyll Riding Circuit by Jan Tallevast" class="border-3" loading="lazy" src="/qo40.jpg"/>
 
@@ -161,7 +159,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [/pacific-northwest-collegium/](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
 <img alt="Flying Gryphon by Jan Tallevast" class="float-right border-3" loading="lazy" src="/qo44.jpg"/>
 
@@ -208,9 +206,9 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 Heyla and Happy Holidays, One and All!
 
-A thousand thanks to everyone who has sent well wishes to my family and me. Healthwise, I'm doing better than I have in over a year--which means I'm completely swamped with work that people had put on hold until I was feeling well again \<g>. Kassie is growing like a weed and already trying to hold her bottle. Her big brother, Joe, is completely enchanted by her, and her proud Da has to fight for "baby time" \<G>.
+A thousand thanks to everyone who has sent well wishes to my family and me. Healthwise, I'm doing better than I have in over a year--which means I'm completely swamped with work that people had put on hold until I was feeling well again &lt;g>. Kassie is growing like a weed and already trying to hold her bottle. Her big brother, Joe, is completely enchanted by her, and her proud Da has to fight for "baby time" &lt;G>.
 
-I'm thoroughly enjoying serving as co-President of Queen's Own, and I'm delighted to see the club doing so well. To all who have asked, yes, I'm working on another Danya story. I hope to make it available to at least one of the QO zines in 2001. Also, yes, I'm working on my Adept rank. It takes a while to research and write those papers, though \<G>.
+I'm thoroughly enjoying serving as co-President of Queen's Own, and I'm delighted to see the club doing so well. To all who have asked, yes, I'm working on another Danya story. I hope to make it available to at least one of the QO zines in 2001. Also, yes, I'm working on my Adept rank. It takes a while to research and write those papers, though &lt;G>.
 
 Speaking of writing, anyone have any nonfiction papers for *The Compass Rose*? I'm hoping to come out with Issue 2 in either December or January.
 
@@ -234,7 +232,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 
 - From **Crystal Sarakas Kocher** ([crys@stny.rr.com](mailto:crys@stny.rr.com)) 26-year-old radio/television producer looking for friends who enjoy long, silly conversations, dreaming of Valdemar and other such things. I would love to hear from old friends that I have lost touch with over the years and from new friends, too!
 - From **White Winds Soceress Shadow Weaver**. I am looking for gothic and sci/fi fantasy events in Ohio/KY/Indiana/West Virginia to merchant at. If you have any info please e-mail [cimeshadow@aol.com](mailto:cimeshadow@aol.com) or snail mail Lisa Brawner at P.O. Box 8335, Lexington, KY 40533-8335.
-- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" \<g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
+- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
@@ -245,7 +243,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - To **Herald-Mage Danya**, from **Herald Enyo**: Congratulations on Kassie one more time!! You deserve it. I'm glad everything worked out and you're doing so well now. Yea!
 - To **Healer Adept Moonstar**, from **Herald Enyo**: I just wanted to thank you for putting out *Children of Velgarth*. You did a super job and I loved it! Thanks!
 - To **all Queen's Own readers**, from **Herald Enyo**: Have a great, and peaceful Winter Solstice and any other holidays you celebrate. Zhai'helleva.
-- Happy Yule and Midsummer to **all my buds**! From **Healer-Adept Winterfire, Herald Jaala, Healer Cinnamon,** and **Cassandra** (which is who I am when I'm not feeling all multiple-personality--something a lot of creative types suffer from to some extent, at least when they're creating. Anyway, I should stop rambling and get on with this). I am scared to list you in case I leave someone out, but you know who you are! ;) And a special thought goes out to all those shopping mall Santas in Australia who swelter in fur clothing in front of fans because it's HOT outside! PS. I am looking for submissions for Austral'a'in. It counts toward your persona creation points, if that's any incentive. E-mail me at \<ahref="mailto:garou@netspeed.com.au">garou@netspeed.com.au.
+- Happy Yule and Midsummer to **all my buds**! From **Healer-Adept Winterfire, Herald Jaala, Healer Cinnamon,** and **Cassandra** (which is who I am when I'm not feeling all multiple-personality--something a lot of creative types suffer from to some extent, at least when they're creating. Anyway, I should stop rambling and get on with this). I am scared to list you in case I leave someone out, but you know who you are! ;) And a special thought goes out to all those shopping mall Santas in Australia who swelter in fur clothing in front of fans because it's HOT outside! PS. I am looking for submissions for Austral'a'in. It counts toward your persona creation points, if that's any incentive. E-mail me at &lt;ahref="mailto:garou@netspeed.com.au">garou@netspeed.com.au.
 - Heyla to **all** :) From **Kathleen McGaw** aka **Herald Gwen Katran**: Happy Holidays! To all those I have lost touch with. Through a huge mess of packing up, moving, taking boards and my computer crashing, I have lost touch (and e-mail addresses) with people I was writing this summer. Please write me at my new address (as my school one will be deleted next month): [LadyKent@wildmail.com](mailto:LadyKent@wildmail.com). Hope everyone enjoys this festive season no matter what your affiliations or beliefs. WTTW.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
@@ -262,10 +260,7 @@ The featured artist for this online version of the newsletter is [Jan Tallevast]
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

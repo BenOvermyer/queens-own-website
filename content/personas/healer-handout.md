@@ -21,8 +21,7 @@ canonical_path = "/healer-handout/"
 
 Distributed by:
 
-### Queen's Own\
-The Official Mercedes Lackey Fan Club
+### Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 

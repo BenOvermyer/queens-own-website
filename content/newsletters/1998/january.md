@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. XI, No. 4\
-January 1998
+## Series 1, Vol. XI, No. 4 January 1998
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -50,17 +48,17 @@ Coming in April from DAW: *Oathblood*, an all-new Tarma and Kethry novel plus Mi
 
 ### Local Chapters:
 
-**Arrows Online** meets in the Fantasy Fiction Chat Room on AOL. For details, AOL folk can e-mail the Dean of Westhaven Collegia at \[Ed. note 2005: Out-of-date info withheld.\]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm \[Ed. note 2005: Out-of-date info withheld.\] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at \[Ed. note 2005: Out-of-date info withheld.\].
+**Arrows Online** meets in the Fantasy Fiction Chat Room on AOL. For details, AOL folk can e-mail the Dean of Westhaven Collegia at [Ed. note 2005: Out-of-date info withheld.]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm [Ed. note 2005: Out-of-date info withheld.] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at [Ed. note 2005: Out-of-date info withheld.].
 
-**Austral'a'in**--For more information, write to Cassandra Vuksa \[Ed. note 2005: Out-of-date info withheld.\]. Austral'a'in's first zine, PEOPLE OF THE SOUTH, is ready for sale. Cost within Australia is $8 or twenty 45 cent stamps, and for overseas it's $12 Australian or twenty IRCs.
+**Austral'a'in**--For more information, write to Cassandra Vuksa [Ed. note 2005: Out-of-date info withheld.]. Austral'a'in's first zine, PEOPLE OF THE SOUTH, is ready for sale. Cost within Australia is $8 or twenty 45 cent stamps, and for overseas it's $12 Australian or twenty IRCs.
 
-**Companion's Choice**--Shanara Ravensong \[Ed. note 2005: Out-of-date info withheld.\].
+**Companion's Choice**--Shanara Ravensong [Ed. note 2005: Out-of-date info withheld.].
 
-**The Herald's Companion**--Herald's Companion c/o Karen Bertke \[Ed. note 2005: Out-of-date info withheld.\]. So that's where feezils come from! Also recipes, book reviews, and poetry.
+**The Herald's Companion**--Herald's Companion c/o Karen Bertke [Ed. note 2005: Out-of-date info withheld.]. So that's where feezils come from! Also recipes, book reviews, and poetry.
 
-**Pacific Northwest Collegium**--c/o Laura Cameron \[Ed. note 2005: Out-of-date info withheld.\]. The latest issue of *The Collegium Chronicles* contains news of local conventions and other noteworthy events.
+**Pacific Northwest Collegium**--c/o Laura Cameron [Ed. note 2005: Out-of-date info withheld.]. The latest issue of *The Collegium Chronicles* contains news of local conventions and other noteworthy events.
 
-**R.C.M.H.**--Contact Pam Dziedzic \[Ed. note 2005: Out-of-date info withheld.\].
+**R.C.M.H.**--Contact Pam Dziedzic [Ed. note 2005: Out-of-date info withheld.].
 
 <table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:25%">
 <tr>
@@ -72,29 +70,29 @@ This news from Misty appeared on-line. <i>The Camel's Back</i> is a reference to
 </tr>
 </table>
 
-Rea begins her monologue from her newest perch atop the rood of her house, much to her parents' distress . . . "New stuff for me to say about DON'T ARGUE WITH THE VOICE, people! Issue 2 is out! Issues 3 & 4 are already in the works. A copy of Issue 1 or 2 costs $4. Subscriptions are $15 a year, contributors get special discounts. These rates apply to *everyone*! Cash is preferred, checks should be made out to 'Erin Frost.' Disk submissions (MAC or PC): Word, PowerPoint, Works, Write, or Notepad. Specify Artists' or Writers' guidelines. We negotiate with editors. Also, very important: DA has a new, final version of guidelines for writers that greatly differs from the original when Ariya and I first started advertising! For those of you who do not possess a copy of guidelines that says 'updated, November 1997,' and has subscription info in it, write to us or say something in the Personals, and we'll send you a new copy. You don't need to send a a SASE even, just a postcard. Please, because of the age of Ariya and I, no mail from inmates. So, what are you waiting for? A Gate to open beneath your feet and suck you in? Get involved today! Send your Velgarth or Fantasy stuff to DON'T ARGUE WITH THE VOICE c/o Rea Wildfire and/or Ariya Nightsun \[Ed. note 2005: Out-of-date info withheld.\]."
+Rea begins her monologue from her newest perch atop the rood of her house, much to her parents' distress . . . "New stuff for me to say about DON'T ARGUE WITH THE VOICE, people! Issue 2 is out! Issues 3 & 4 are already in the works. A copy of Issue 1 or 2 costs $4. Subscriptions are $15 a year, contributors get special discounts. These rates apply to *everyone*! Cash is preferred, checks should be made out to 'Erin Frost.' Disk submissions (MAC or PC): Word, PowerPoint, Works, Write, or Notepad. Specify Artists' or Writers' guidelines. We negotiate with editors. Also, very important: DA has a new, final version of guidelines for writers that greatly differs from the original when Ariya and I first started advertising! For those of you who do not possess a copy of guidelines that says 'updated, November 1997,' and has subscription info in it, write to us or say something in the Personals, and we'll send you a new copy. You don't need to send a a SASE even, just a postcard. Please, because of the age of Ariya and I, no mail from inmates. So, what are you waiting for? A Gate to open beneath your feet and suck you in? Get involved today! Send your Velgarth or Fantasy stuff to DON'T ARGUE WITH THE VOICE c/o Rea Wildfire and/or Ariya Nightsun [Ed. note 2005: Out-of-date info withheld.]."
 
-Well! Thanks to QO you now have many great pen pals and a lot of fun future letters to write. But you've realized you only have your fluffy-edged college notebook paper to write on. Where do you turn to find stationery that best suits your FANTASY interests? *Ellen Million Graphics*, of course!! With over 60 designs created by nine unique artists, every catalog is brimming with adventure and enchantment! *EMG* offers stationery, cards, bookmarks and (new!!) magnets in single or full-colored; all sure to dazzle and delight--makes great gifts! No SASE needed, just write and ask for your first FREE catalog! Ellen Million Graphics \[Ed. note 2005: Out-of-date info withheld.\].
+Well! Thanks to QO you now have many great pen pals and a lot of fun future letters to write. But you've realized you only have your fluffy-edged college notebook paper to write on. Where do you turn to find stationery that best suits your FANTASY interests? *Ellen Million Graphics*, of course!! With over 60 designs created by nine unique artists, every catalog is brimming with adventure and enchantment! *EMG* offers stationery, cards, bookmarks and (new!!) magnets in single or full-colored; all sure to dazzle and delight--makes great gifts! No SASE needed, just write and ask for your first FREE catalog! Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.].
 
-THROUGH THE MAGIC MIRROR (TTMM) is now celebrating its first year in circulation!!! TTMM is a bi�monthly newsletter that publishes everything under the sun and moon! Poetry, Stories, Riddles, Erotica, Jokes, Quotes, Art, Reviews, Ads, - you send it, I'll print it! ! For guidelines, subscription info or whatever, write to TTMM c/o Star 2618 N. Carrol Avenue Dallas TX 75204. BTW, I do offer contributor's copies. Write me for details! Dare ya! Don't forget to enclose a SASE with your inquiries! I'm nowhere near rich yah know!!! \< grin > From Erik Pivnick #97B0524 Cayuga Corr. Facility PO Box 1186 Moravia NY 1318: 31 years old, looking for letters from interesting and open minded people. I enjoy getting and giving long letters. Have read all kinds of books, Dragon Prince by Rawn was very interesting. Fascinated by UFO's. Love Star Trek (old and new.) I have many hobbies and interests. Would love to hear from people far and near. If at all interested, drop a line and we can share different thoughts and ideas. I love to ramble on about anything.
+THROUGH THE MAGIC MIRROR (TTMM) is now celebrating its first year in circulation!!! TTMM is a bi�monthly newsletter that publishes everything under the sun and moon! Poetry, Stories, Riddles, Erotica, Jokes, Quotes, Art, Reviews, Ads, - you send it, I'll print it! ! For guidelines, subscription info or whatever, write to TTMM c/o Star 2618 N. Carrol Avenue Dallas TX 75204. BTW, I do offer contributor's copies. Write me for details! Dare ya! Don't forget to enclose a SASE with your inquiries! I'm nowhere near rich yah know!!! &lt; grin > From Erik Pivnick #97B0524 Cayuga Corr. Facility PO Box 1186 Moravia NY 1318: 31 years old, looking for letters from interesting and open minded people. I enjoy getting and giving long letters. Have read all kinds of books, Dragon Prince by Rawn was very interesting. Fascinated by UFO's. Love Star Trek (old and new.) I have many hobbies and interests. Would love to hear from people far and near. If at all interested, drop a line and we can share different thoughts and ideas. I love to ramble on about anything.
 
 ## Other Fandoms:
 
-Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond \[Ed. note 2005: Out-of-date info withheld.\].
+Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
 
-Doctor Who and other Media--The Prydonians of Prynceton \[Ed. note 2005: Out-of-date info withheld.\]. Dues are $12 ($22 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
+Doctor Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.]. Dues are $12 ($22 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
 
-Tanya Huff--NINE ABOVE! \[Ed. note 2005: Out-of-date info withheld.\].
+Tanya Huff--NINE ABOVE! [Ed. note 2005: Out-of-date info withheld.].
 
-Anne McCaffrey/Pern--Sunfall Weyr has a web site at \[Ed. note 2005: Out-of-date info withheld.\] or contact them c/o \[Ed. note 2005: Out-of-date info withheld.\].
+Anne McCaffrey/Pern--Sunfall Weyr has a web site at [Ed. note 2005: Out-of-date info withheld.] or contact them c/o [Ed. note 2005: Out-of-date info withheld.].
 
-Adrian Paul of Highlander--Peace APFC \[Ed. note 2005: Out-of-date info withheld.\] or Peace-APFC \[Ed. note 2005: Out-of-date info withheld.\].
+Adrian Paul of Highlander--Peace APFC [Ed. note 2005: Out-of-date info withheld.] or Peace-APFC [Ed. note 2005: Out-of-date info withheld.].
 
-Lois Bujold can be reached at Imbujold(\[Ed. note 2005: Out-of-date info withheld.\] "The Bujold Nexus" is at \[Ed. note 2005: Out-of-date info withheld.\].
+Lois Bujold can be reached at Imbujold([Ed. note 2005: Out-of-date info withheld.] "The Bujold Nexus" is at [Ed. note 2005: Out-of-date info withheld.].
 
-Pandemonium--the official Melanie Rawn club invites you to join their ranks. Sase for more information: Irena Pereira \[Ed. note 2005: Out-of-date info withheld.\].
+Pandemonium--the official Melanie Rawn club invites you to join their ranks. Sase for more information: Irena Pereira [Ed. note 2005: Out-of-date info withheld.].
 
-For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send \[Ed. note 2005: Out-of-date info withheld.\] to the Q0 address for this 12 page booklet.
+For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005: Out-of-date info withheld.] to the Q0 address for this 12 page booklet.
 
 <table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:25%">
 <tr>
@@ -112,21 +110,19 @@ Look for Anne McCaffrey's *The Masterharper of Pern* this month, Barbara Hambly'
 
 ## PERSONALS:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
 <img alt="Border Art" loading="lazy" src="/qo279.jpg"/>
 
-Queen's Own \[Ed. note 2005: Out-of-date content withheld.\], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at \[Ed. note 2005: Out-of-date content withheld.\] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay \[Ed. note 2005: Out-of-date content withheld.\] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: \[Ed. note 2005: Out-of-date content withheld.\]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Deadline for next newsletter contributions: January 10--earlier is better.\
-Next Mailing Day: February 20--Call \[Ed. note 2005: Out-of-date content withheld.\] for directions. Call before coming, emergencies can cancel mailings.\
+Deadline for next newsletter contributions: January 10--earlier is better. Next Mailing Day: February 20--Call [Ed. note 2005: Out-of-date content withheld.] for directions. Call before coming, emergencies can cancel mailings.
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2005: Out-of-date content withheld.\] (Call only before 10 pm and let it ring.)\
-Mailing Day Helpers--None. (Ouch!)
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Mailing Day Helpers--None. (Ouch!)
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -138,10 +134,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

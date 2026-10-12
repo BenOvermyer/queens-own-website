@@ -20,19 +20,17 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. V, No. 5\
-January 1992
+## Series 1, Vol. V, No. 5 January 1992
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg"/>Dear Misty Fans,
 
-One of Misty's closest friends, George Alec Effinger (author of *A Fire in the Sun*, *When Gravity Fails*, *Exile Kiss*, and a host of Hugo and Nebula winnters) has suffered from a serious debilitating illness most of his life. Because his condition is chronic, no medical insurance is available to him, and his current medical bills stand at $40,000. The Niagara Falls Science Fiction Association has created a special fund to help pay the illness-related expenses of Mr. Effinget. (Among the trustees of this fund are Mary Stanton, Nancy Kress, and Joan D. Vinge.) We in Queen's Own have been asked to participate in a raggle, open only to QO members and their friends. There are no formal tickets to buy; write your name, address and phone number on a 3x5 piece of paper and send it with a dollar per ticket to \[Ed. note 2003: Out-of-date information withheld.\]
+One of Misty's closest friends, George Alec Effinger (author of *A Fire in the Sun*, *When Gravity Fails*, *Exile Kiss*, and a host of Hugo and Nebula winnters) has suffered from a serious debilitating illness most of his life. Because his condition is chronic, no medical insurance is available to him, and his current medical bills stand at $40,000. The Niagara Falls Science Fiction Association has created a special fund to help pay the illness-related expenses of Mr. Effinget. (Among the trustees of this fund are Mary Stanton, Nancy Kress, and Joan D. Vinge.) We in Queen's Own have been asked to participate in a raggle, open only to QO members and their friends. There are no formal tickets to buy; write your name, address and phone number on a 3x5 piece of paper and send it with a dollar per ticket to [Ed. note 2003: Out-of-date information withheld.]
 
 Why is this raffle open only to us? For first prize Misty has donated a Mercedes Lackey original manuscript (sold, but not yet released), second prize is the necklace Misty is wearing in the picture on the book jacket of *Winds of Fate*, and third prize is a Misty-related surprise.
 
@@ -69,7 +67,7 @@ In the interview Misty talks about her character Diana Tregarde, an occult inves
 
 Brad notes that both Diana Tregarde, the character, and her creator do the same thing for a living--writing.. "Since Diana doesn't charge for her investigations, she has to do something to pay the bills. So, I decided to make ehr a writer, a profession I'm somewhat familiar with."
 
-According to the interview, Misty decided to revive her early creation as a break from the fantasy novels she had concentrated on for several years, but there were other reasons. "I started writing \[the Tregarde book\] because I wasn't having a particularly good time at work," she explains. "I needed an outlet for some otherwise unchannelable aggressions." She eliminated real life annoyances in the first Diana Tregarde novel, **Burning Water**. "It was fun," she chuckles.
+According to the interview, Misty decided to revive her early creation as a break from the fantasy novels she had concentrated on for several years, but there were other reasons. "I started writing [the Tregarde book] because I wasn't having a particularly good time at work," she explains. "I needed an outlet for some otherwise unchannelable aggressions." She eliminated real life annoyances in the first Diana Tregarde novel, **Burning Water**. "It was fun," she chuckles.
 
 Brad goes on to explain that the setting for **Jinx High** is a real town, Jenks, Oklahoma. A bedroom community just southwest of Tulsa, Jenks is known for its antique shops, excellent schools, and quiet upper-class neighborhoods. The idea had its origins during Misty's days with American Airlines.
 
@@ -77,55 +75,55 @@ Brad goes on to explain that the setting for **Jinx High** is a real town, Jenks
 
 It then dawned on Misty that if the person giving this girl trouble was a witch, Diana Tregarde could then solve the problems. "I talked to my colleague and her daughter a great deal, plus visited Jenks and drove around the town quite a bit to get the background."
 
-There will be more from Brad Sinor's STARLOG interview with Misty in the next newsletter. A subcription to STARLOG is \[Ed. note 2003: Out-of-date information withheld.\]. The magazine is sold in B. Dalton's and similar bookstores.
+There will be more from Brad Sinor's STARLOG interview with Misty in the next newsletter. A subcription to STARLOG is [Ed. note 2003: Out-of-date information withheld.]. The magazine is sold in B. Dalton's and similar bookstores.
 
-Write to Firebird \[Ed. note 2003: Out-of-date information withheld. Firebird's website is at [http://www.firebirdarts.com](http://www.firebirdarts.com).\] for information on limited edition prints by Larry Dixon, the Jody Lee book covers, T-shirts, and filk, filk, filk. All of Misty's books can be ordered from *Firebird*, too. \[Ed. note 2003: Misty's books can also be ordered through the Dragonlords' Bookstore, [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm). A portion of all sales through the Dragonlords site goes to support Queen's Own. This is how we keep memberships in QO free. Thanks to everyone who helps support us!\]
+Write to Firebird [Ed. note 2003: Out-of-date information withheld. Firebird's website is at [http://www.firebirdarts.com](http://www.firebirdarts.com).] for information on limited edition prints by Larry Dixon, the Jody Lee book covers, T-shirts, and filk, filk, filk. All of Misty's books can be ordered from *Firebird*, too. [Ed. note 2003: Misty's books can also be ordered through the Dragonlords' Bookstore, [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm). A portion of all sales through the Dragonlords site goes to support Queen's Own. This is how we keep memberships in QO free. Thanks to everyone who helps support us!]
 
 ### Convention News For 1992:
 
-Misty is listed as Special Guest of Honor at **Chattacon 17**, January 17-19 in Chattanooga. Send your SASE to \[Ed. note 2003: Out-of-date information withheld.\]. Lots of QO folk are planning to attend--look for others in Whites!
+Misty is listed as Special Guest of Honor at **Chattacon 17**, January 17-19 in Chattanooga. Send your SASE to [Ed. note 2003: Out-of-date information withheld.]. Lots of QO folk are planning to attend--look for others in Whites!
 
-Jacksonville is hosting **CrackerCon** March 13-15, 1992. The Guest of Honor is Misty with Larry as Artist GoH and Doris Mager of Save Our American Raptors as special Guest on Saturday morning. Let's show Misty and Larry there be enthusiastic Heralds on the East Coast, too! For registration information, \[Ed. note 2003: Out-of-date information withheld.\].
+Jacksonville is hosting **CrackerCon** March 13-15, 1992. The Guest of Honor is Misty with Larry as Artist GoH and Doris Mager of Save Our American Raptors as special Guest on Saturday morning. Let's show Misty and Larry there be enthusiastic Heralds on the East Coast, too! For registration information, [Ed. note 2003: Out-of-date information withheld.].
 
-The Saint Louis Airport Hilton is the home of **Name that Con 5**, to be held May 1-3. Write to \[Ed. note 2003: Out-of-date information withheld.\].
+The Saint Louis Airport Hilton is the home of **Name that Con 5**, to be held May 1-3. Write to [Ed. note 2003: Out-of-date information withheld.].
 
-KeyCon 9 is May 15-17 at the Best Western International in Winnipeg. Terry Pratchett and Misty are Guests of Honor. Write to \[Ed. note 2003: Out-of-date information withheld.\].
+KeyCon 9 is May 15-17 at the Best Western International in Winnipeg. Terry Pratchett and Misty are Guests of Honor. Write to [Ed. note 2003: Out-of-date information withheld.].
 
 (Because the date was changed for **BFAC**, the Boise Fantasy Arts Con, Misty and Larry cannot attend as planned.)
 
-Jody Lee will be Artist Guest of Honor at Boskone 29 in Springfield, Massachusetts February 14-16 '92. She says "I'll be showing about 7 years worth of art so it should be a sight!" Send a SASE to \[Ed. note 2003: Out-of-date information withheld.\].
+Jody Lee will be Artist Guest of Honor at Boskone 29 in Springfield, Massachusetts February 14-16 '92. She says "I'll be showing about 7 years worth of art so it should be a sight!" Send a SASE to [Ed. note 2003: Out-of-date information withheld.].
 
-There will be filking again this June in the New Jersey/Philadelphia area at **Concerto '92**, June 19-21, at the Cherry Hill Inn. Write to \[Ed. note 2003: Out-of-date information withheld.\].
+There will be filking again this June in the New Jersey/Philadelphia area at **Concerto '92**, June 19-21, at the Cherry Hill Inn. Write to [Ed. note 2003: Out-of-date information withheld.].
 
 ### News from Club Members:
 
 If your Chapter or Zine is mentioned here, perhaps you forgot to send me an update on your activities. Please send me news for the next issue by January 31.
 
-Greetings! We are now forming a chpater for those of us in the middle of the States. This includes Kansas, Missouri, Colorado, Nebraska, Iowa, Arkansas and Oklahoma. For more information, send a SASE to \[Ed. note 2003: Out-of-date information withheld.\]. We also need sideas for a name!
+Greetings! We are now forming a chpater for those of us in the middle of the States. This includes Kansas, Missouri, Colorado, Nebraska, Iowa, Arkansas and Oklahoma. For more information, send a SASE to [Ed. note 2003: Out-of-date information withheld.]. We also need sideas for a name!
 
-Pitssburgh area filkers and Misty fen: We are trying to start some kind of organized filking here. If you'd like to get involved, write to \[Ed. note 2003: Out-of-date information withheld.\].
+Pitssburgh area filkers and Misty fen: We are trying to start some kind of organized filking here. If you'd like to get involved, write to [Ed. note 2003: Out-of-date information withheld.].
 
-From *Julie & Dan Bowen*, \[Ed. note 2003: Out-of-date information withheld.\]: "We have decided to quit Queen's Own and Haven Sent . . . We hate to leave this group hanging--so I hope someone will step in quickly and take over editorship. The only qualifications needed are time and caring." Contact Julie if you are interested in heading the Texas chapter.
+From *Julie & Dan Bowen*, [Ed. note 2003: Out-of-date information withheld.]: "We have decided to quit Queen's Own and Haven Sent . . . We hate to leave this group hanging--so I hope someone will step in quickly and take over editorship. The only qualifications needed are time and caring." Contact Julie if you are interested in heading the Texas chapter.
 
-To musicians, poets, anyone suspecting (or wishing for) a touch of the Bardic gift, an organization of would-be Bards has been established by *Jennifer Mulvihill*, \[Ed. note 2003: Out-of-date information withheld.\]. Bardic Collegium welcomes Guild members, free bards, buskers, minstrels, entertainers, songwriters . . . For guidelines for the Collegium newsletter, *The Minstrel*, and/or information on Bardic Collegium, write to Jennifer.
+To musicians, poets, anyone suspecting (or wishing for) a touch of the Bardic gift, an organization of would-be Bards has been established by *Jennifer Mulvihill*, [Ed. note 2003: Out-of-date information withheld.]. Bardic Collegium welcomes Guild members, free bards, buskers, minstrels, entertainers, songwriters . . . For guidelines for the Collegium newsletter, *The Minstrel*, and/or information on Bardic Collegium, write to Jennifer.
 
-Librarian *Mary K. Chelton* is compiling a list called "If you like Mercedes Lackey, try these . . . " What authors do you look for when you've read all of Misty's work? Send the names of three authors with favorite titles on a postcard to \[Ed. note 2003: Out-of-date information withheld.\].
+Librarian *Mary K. Chelton* is compiling a list called "If you like Mercedes Lackey, try these . . . " What authors do you look for when you've read all of Misty's work? Send the names of three authors with favorite titles on a postcard to [Ed. note 2003: Out-of-date information withheld.].
 
-"The Dragon roars and the Knight cowers back in fear. 'Read me a story!' he thunders, puffs of smoke coming from his nostrils. 'Do not fear, my love! I shall save you!' Racing across the mounds of gold comes the fair maiden, skirts hiked high, sword in hand. Who shall win? Dragon or Damsel in distress? Tune in next time for the first issue of **The Storyteller**! Guidelines are yours for a SASE from \[Ed. note 2003: Out-of-date information withheld.\]. This narration hath been given by Archangel--who needs help. Send in your work!"
+"The Dragon roars and the Knight cowers back in fear. 'Read me a story!' he thunders, puffs of smoke coming from his nostrils. 'Do not fear, my love! I shall save you!' Racing across the mounds of gold comes the fair maiden, skirts hiked high, sword in hand. Who shall win? Dragon or Damsel in distress? Tune in next time for the first issue of **The Storyteller**! Guidelines are yours for a SASE from [Ed. note 2003: Out-of-date information withheld.]. This narration hath been given by Archangel--who needs help. Send in your work!"
 
-*Karen Van Brunt*, \[Ed. note 2003: Out-of-date information withheld.\], sent me a copy of her "Tips to Make the Beginning Rider Look Experienced." I found it to be very enjoyable reading, even though I haven't picked up a curry combin years. For your copy, send a SASE to Karen.
+*Karen Van Brunt*, [Ed. note 2003: Out-of-date information withheld.], sent me a copy of her "Tips to Make the Beginning Rider Look Experienced." I found it to be very enjoyable reading, even though I haven't picked up a curry combin years. For your copy, send a SASE to Karen.
 
-*Lynn Tucker*, \[Ed. note 2003: Out-of-date information withheld.\], is seeking submissions for her zine, *Companions' Grove*. And she says, "For you animation fans, I have an all-animation zine looking for submissions from Toontown. Drop me a line." Also available from Lynn is *Shards of Autumn*. It is 64 pages long, 8-1/2x11, staple bound, with cardstock covers. \[Ed. note 2003: Out-of-date information withheld.\]
+*Lynn Tucker*, [Ed. note 2003: Out-of-date information withheld.], is seeking submissions for her zine, *Companions' Grove*. And she says, "For you animation fans, I have an all-animation zine looking for submissions from Toontown. Drop me a line." Also available from Lynn is *Shards of Autumn*. It is 64 pages long, 8-1/2x11, staple bound, with cardstock covers. [Ed. note 2003: Out-of-date information withheld.]
 
-*Dreamscapes*, the Queen's Own Poetry Club, has a new address. Send a SASE to \[Ed. note 2003: Out-of-date information withheld.\].
+*Dreamscapes*, the Queen's Own Poetry Club, has a new address. Send a SASE to [Ed. note 2003: Out-of-date information withheld.].
 
-*Vicki McElfresh*, \[Ed. note 2003: Out-of-date information withheld.\], writes that Issue #4 of *Companion's Rest* is coming along well but she still needs art and poetry. Issue # is available now. \[Ed. note 2003: Out-of-date information withheld.\] If you pay by check, please make the check out to Vicki.
+*Vicki McElfresh*, [Ed. note 2003: Out-of-date information withheld.], writes that Issue #4 of *Companion's Rest* is coming along well but she still needs art and poetry. Issue # is available now. [Ed. note 2003: Out-of-date information withheld.] If you pay by check, please make the check out to Vicki.
 
-*Tiffany Ragland*, \[Ed. note 2003: Out-of-date information withheld.\], writes that she and friends are attending Chattacon January 17-19 and are "setting up sort of a waystation there--providing munchies, crash/floor space for anyone who needs it."
+*Tiffany Ragland*, [Ed. note 2003: Out-of-date information withheld.], writes that she and friends are attending Chattacon January 17-19 and are "setting up sort of a waystation there--providing munchies, crash/floor space for anyone who needs it."
 
 ## Collegium News:
 
-Those QO members whose names are listed here have fulfilled the requirements for becoming a Herald. If you are interested in joining their ranks, \[Ed. note 2003: Out-of-date information withheld. Visit [/persona-handouts/](/persona-handouts/) for the current instructions.\]. (Yes, Collegium members, you **will** receive the promised certificate some day. \[Ed. note 2003: If you are a member who did receive one of those certificates, could you please send us the scanned image as a .jpg at [Legend@malcor.com](mailto:Legend@malcor.com) or as a photocopy to the QO PO Box, which is listed below? We'd love to revive this tradition, but we've never seen what the certificates looked like!\])
+Those QO members whose names are listed here have fulfilled the requirements for becoming a Herald. If you are interested in joining their ranks, [Ed. note 2003: Out-of-date information withheld. Visit [/persona-handouts/](/persona-handouts/) for the current instructions.]. (Yes, Collegium members, you **will** receive the promised certificate some day. [Ed. note 2003: If you are a member who did receive one of those certificates, could you please send us the scanned image as a .jpg at [Legend@malcor.com](mailto:Legend@malcor.com) or as a photocopy to the QO PO Box, which is listed below? We'd love to revive this tradition, but we've never seen what the certificates looked like!])
 
 Welcome, **Herald Naire**, Chosen by Chisel and gifted with strong Farsight and "a gant's sneeze worth of Foresight." *Samantha Kunz* sent information on Naire and her family, a story and a recipe.
 
@@ -159,7 +157,7 @@ I don't think it's a secret that I frequently (but unintentionally, honest) make
 
 Having said my piece, here is Jennifer Wilson's fan messages from last issue, printed this time with the correct zip code . . .
 
-\[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.]
 
 ## MENTORS:
 
@@ -180,22 +178,19 @@ If you need information on QO-related topics, write to Patricia Riggs or to me. 
 
 ## Personals
 
-\[Ed. Note 2003: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.\]
+[Ed. Note 2003: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.]
 
-\[Ed. note 2003: Out-of-date subscription information withheld.\]
+[Ed. note 2003: Out-of-date subscription information withheld.]
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: \[Ed. note 2003: Out-of-date information withheld.\]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: [Ed. note 2003: Out-of-date information withheld.]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2003: Out-of-date information withheld.\]\
-Archivist and Organizer *extraordinaire*--Patricia Riggs \[Ed. note 2003: Out-of-date information withheld.\]\
-Mailing Day Helpers (last issue)--Heather Adcock, LEah Adezio, Suzanne Brenner, Patti Hemeleski, Sharon Leinkram.
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2003: Out-of-date information withheld.] Archivist and Organizer *extraordinaire*--Patricia Riggs [Ed. note 2003: Out-of-date information withheld.] Mailing Day Helpers (last issue)--Heather Adcock, LEah Adezio, Suzanne Brenner, Patti Hemeleski, Sharon Leinkram.
 
 I hope grim Herald jokes aren't the new fad.--Why do Heralds wear white? Because blood would clash with any other color. Thanks (?) to Dover Tomoeda.
 
-Wind to thy Wings,\
-Judith
+Wind to thy Wings, Judith
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -207,10 +202,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

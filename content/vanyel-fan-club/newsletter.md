@@ -42,17 +42,11 @@ Submissions should be part of the e-mail body or attached as a MS Word file.
 
 Deadline dates are:
 
-November 30 (for the January issue)\
-February 28 (for the April issue)\
-May 31 (for the July issue)\
-August 31 (for the October issue)
+November 30 (for the January issue) February 28 (for the April issue) May 31 (for the July issue) August 31 (for the October issue)
 
 ### Publication months are:
 
-January\
-April\
-July\
-October
+January April July October
 
 Newsletters are published quarterly on (or near) the first of the month.
 
@@ -66,10 +60,9 @@ All drawings in this newsletter are ©copyright to the credited artist. All righ
 
 For more information, please contact:
 
-Advisor [Herald-Mage Adept Danya](mailto:Shashtah@gmail.com)\
+Advisor [Herald-Mage Adept Danya](mailto:Shashtah@gmail.com)
 
-Zhai'helleva,\
-The Valdemaran Herald Staff and Contributors
+Zhai'helleva, The Valdemaran Herald Staff and Contributors
 
 <img alt="" loading="lazy" src="/rainbar.gif"/>
 

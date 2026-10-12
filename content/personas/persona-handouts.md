@@ -99,14 +99,7 @@ In order to be formally recognized in the [Queen's Own newsletter](/newsletter-g
 
 - Please spell check and grammar check your work. Page-length requirements are based on 12 pt. font, one inch margins, double spaced. You've worked hard on this project; treat it with the respect you want us to show it.
 - At the top of every file you send to QO, please put:
-  Your Name:\
-  Your E-mail Address: (Please let us know if you want this information kept private.)\
-  Persona Type:\
-  Persona Name:\
-  Rank (if applicable):\
-  Clan Name (if applicable):\
-  Companion/Bondbird/Familiar Name (if applicable):\
-  Gifts (if applicable):
+  Your Name: Your E-mail Address: (Please let us know if you want this information kept private.) Persona Type: Persona Name: Rank (if applicable): Clan Name (if applicable): Companion/Bondbird/Familiar Name (if applicable): Gifts (if applicable):
   Remember, we can't contact you with questions or approval if we don't have a valid e-mail address associated with your persona.
 - Submit personae materials via e-mail, if possible. Send persona sketches, stories, poems and other written text in either MS Word or .txt/ASCII format. Send proof that you have filled your other requirements. You can scan your CPR cards, pictures, costume designs, drawings and so forth, and send them either as .jpgs or .gifs.
 
@@ -120,8 +113,7 @@ In order to be formally recognized in the [Queen's Own newsletter](/newsletter-g
 - Spell check! Then proofread your material as well before you send it. The spell-checker won't catch "it's" when you mean "its" or "herd" for "heard."
 - Take time out every once in a while to read your story out loud. You will be more likely to hear when "I am" sounds a bit stilted and "I'm" would read more natuarlly. Reading out loud also helps you find typographical errors more easily. This is not a graded assignment, but do your best. You want to be worthy of being Chosen if you are a Herald or of having your other persona type approved.
 
-Zhai'helleva,\
-[Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
 
 <img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
 

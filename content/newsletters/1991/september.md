@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. V, No. 1\
-September 1991
+## Series 1, Vol. V, No. 1 September 1991
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty Fans,
 
@@ -42,29 +40,29 @@ A contrcat has been signed with TOR for *Sacred Ground*, a "dark fantasy mainstr
 
 *Jinx High* has appeared in some bookstores already (not here, I'm sorry to say). The quote from Stephen King about Misty in an ad in *Locus* is "She'll keep you up long past your bdetime." The cover quote (also by King) is "As sharp and as scary as the suddenly revealed fang of a vampire." In *Jinx High* Di Tregarde has a brief meeting with a green-eyed young man. He's Tannim, one of the good guys from *Born to Run*, old friends from *Knight of Ghosts and Shadows* get involved in the story line. Tannim will appear again in Di's next adventure, *Triangle Park*. The gossip I've herad is that Andre and Tannim do not hit it off well. (*Born to Run* and *Triangle Park* are not published yet.)
 
-*Winds of Fate* still has an October release date but it too may appear any time in your area. Firebird Arts & Music expected to have their shipment by now. The Firebird price is \[Ed. note 2003: Out-of-date information withheld. Firebird's website is at [http://www.firebird arts.com](http://www.firebirdarts.com).\] *The Elvenbane*, Misty's collaboration with Andre Norton, should be out by November.
+*Winds of Fate* still has an October release date but it too may appear any time in your area. Firebird Arts & Music expected to have their shipment by now. The Firebird price is [Ed. note 2003: Out-of-date information withheld. Firebird's website is at [http://www.firebird arts.com](http://www.firebirdarts.com).] *The Elvenbane*, Misty's collaboration with Andre Norton, should be out by November.
 
-Available now from Firebird, the companion tapes to *By the Sword* and *Oathbreakers*. These are excellent! My facorite is whichever one I'm listening to at the moment. The latest Firebird catalog is full of even more treasures. Write to \[Ed. note 2003: Out-of-date information withheld.\].
+Available now from Firebird, the companion tapes to *By the Sword* and *Oathbreakers*. These are excellent! My facorite is whichever one I'm listening to at the moment. The latest Firebird catalog is full of even more treasures. Write to [Ed. note 2003: Out-of-date information withheld.].
 
-Jody Lee will be Artist Guest of Honor at Boskone 29 in Springfield, Massachusetts February 14-16 '92. She says "I'll be showing about 7 years worth of art so it should be a sight!" Send a SASE to \[Ed. note 2003: Out-of-date information withheld.\]. Prints are still available for the "Vows and Honor" series (an edition of 250) and "The Last Herald Mage" (an edition of 350). Send a SASE for pricing information to \[Ed. note 2003: Out-of-date information withheld.\].
+Jody Lee will be Artist Guest of Honor at Boskone 29 in Springfield, Massachusetts February 14-16 '92. She says "I'll be showing about 7 years worth of art so it should be a sight!" Send a SASE to [Ed. note 2003: Out-of-date information withheld.]. Prints are still available for the "Vows and Honor" series (an edition of 250) and "The Last Herald Mage" (an edition of 350). Send a SASE for pricing information to [Ed. note 2003: Out-of-date information withheld.].
 
-Are you curious about the appearnace of Misty & Larry? I still have some lovely snapshots from their visit. Send me \[Ed. note 2003: Out-of-date information withheld.\]. My expenses have been met, so all money collected now will go to S.O.A.R., one of Misty and LArry's favorite projects.
+Are you curious about the appearnace of Misty & Larry? I still have some lovely snapshots from their visit. Send me [Ed. note 2003: Out-of-date information withheld.]. My expenses have been met, so all money collected now will go to S.O.A.R., one of Misty and LArry's favorite projects.
 
 The design on the front page of the last newsletter (and on this one if I made it fit) was drawn by Joe Sehl. The beautiful tree and gittern design on the back page is a button idea submitted by Anheannette Silvas.
 
-If you act quickly, there's still enough time to join Misty and LArry and lots of QO members at **CONTRADICTION 11**, September 27-29 at the Radisson Hotel Niagara Falls, \[Ed. note 2003: Out-of-date information withheld.\]. The Queen's Own panel, *The Fun of Fandom*, is on Saturday from 11 to noon. Join us for an informal discussion of cons, zines, filk, writer's clubs, and other forms of fun and craziness in fandom. Come share your talent and ehthusiasm.
+If you act quickly, there's still enough time to join Misty and LArry and lots of QO members at **CONTRADICTION 11**, September 27-29 at the Radisson Hotel Niagara Falls, [Ed. note 2003: Out-of-date information withheld.]. The Queen's Own panel, *The Fun of Fandom*, is on Saturday from 11 to noon. Join us for an informal discussion of cons, zines, filk, writer's clubs, and other forms of fun and craziness in fandom. Come share your talent and ehthusiasm.
 
 **This is a secret!!!** This paragraph is **not** in the copy of the newsletter that Misty received. Queen's Own is presenting a replica of Need to Misty for Christmas. Yes, it is expensive, but if each club member who thinks this is a neat idea sends me a dollar, we can pay for it (and maybe a scabbard). Remember, we want this to be a surprise!!! **Don't tell!!!**
 
-For the Northwest, there's **dreamcon 6**, November 1-3 at the Quality Inn Hotel & Conference Center, \[Ed. note 2003: Out-of-date information withheld.\]. The local QO chapter has planned some surprises. For a registration form, send a SASE to \[Ed. note 2003: Out-of-date information withheld.\].
+For the Northwest, there's **dreamcon 6**, November 1-3 at the Quality Inn Hotel & Conference Center, [Ed. note 2003: Out-of-date information withheld.]. The local QO chapter has planned some surprises. For a registration form, send a SASE to [Ed. note 2003: Out-of-date information withheld.].
 
-Like to plan ahead? Misty is listed as Special Guest of Honor at **Chattacon 17**, January 17-19 in Chattanooga. Memberships purchased before 11/15/91 are \[Ed. note 2003: Out-of-date information withheld.\].
+Like to plan ahead? Misty is listed as Special Guest of Honor at **Chattacon 17**, January 17-19 in Chattanooga. Memberships purchased before 11/15/91 are [Ed. note 2003: Out-of-date information withheld.].
 
-Jacksonville is hosting **CrackerCon**, March 13-15, 1992. The Guest of Honor is Misty, with Larry as Artist GoH and Doris Mager of Save Our Amerincan Raptors as special Guest on Saturday morning. Memberships are \[Ed. note 2003: Out-of-date information withheld.\].
+Jacksonville is hosting **CrackerCon**, March 13-15, 1992. The Guest of Honor is Misty, with Larry as Artist GoH and Doris Mager of Save Our Amerincan Raptors as special Guest on Saturday morning. Memberships are [Ed. note 2003: Out-of-date information withheld.].
 
-Misty and Larry will be Guests of Honor at **BFAC**, the Boise Fantasy Arts Con April 24-26 at the Holiday Inn in Boise. For more information write to \[Ed. note 2003: Out-of-date information withheld.\].
+Misty and Larry will be Guests of Honor at **BFAC**, the Boise Fantasy Arts Con April 24-26 at the Holiday Inn in Boise. For more information write to [Ed. note 2003: Out-of-date information withheld.].
 
-**Name that Con** in Saint Lois, Missouri May 1-3 will feature Misty as Guest of Honor. Write to \[Ed. note 2003: Out-of-date information withheld.\].
+**Name that Con** in Saint Lois, Missouri May 1-3 will feature Misty as Guest of Honor. Write to [Ed. note 2003: Out-of-date information withheld.].
 
 ## Stories of Misty's in Anthologies
 
@@ -211,41 +209,41 @@ Misty and Larry will be Guests of Honor at **BFAC**, the Boise Fantasy Arts Con 
 
 ## NEWS from CLUM MEMBERS
 
-September 30 is the deadline for the Queen's Own Directory. If you want Herald info/mundane name/club address/zine in the Directory, send the information immediately to Karen Bertke, \[Ed. note 2003: Out-of-date contact information withheld.\]. Karen hopes to get the first edition out by the end of the year. Ordering information to be in a future NL.
+September 30 is the deadline for the Queen's Own Directory. If you want Herald info/mundane name/club address/zine in the Directory, send the information immediately to Karen Bertke, [Ed. note 2003: Out-of-date contact information withheld.]. Karen hopes to get the first edition out by the end of the year. Ordering information to be in a future NL.
 
-Another deadline! The 1992 Sunkawk Calendar is a calendar of art and verse inspired by Misty's many worlds. Cris Martins is looking for artwork, poetry, filk and suggestions for important dates. Send your submissions to \[Ed. note 2003: Out-of-date contact information withheld.\].
+Another deadline! The 1992 Sunkawk Calendar is a calendar of art and verse inspired by Misty's many worlds. Cris Martins is looking for artwork, poetry, filk and suggestions for important dates. Send your submissions to [Ed. note 2003: Out-of-date contact information withheld.].
 
-From *Stephanie Wong*, \[Ed. note 2003: Out-of-date contact information withheld.\], comes the news that Issue ŧ of *Arrow's Message* is ready for sale. (Please note hte new address.) This has been a consistently impressive zine. Costs are \[Ed. note 2003: Out-of-date information withheld.\]. Stephaie asks that anyone interested in guidelies send a SASE and a friendly note.
+From *Stephanie Wong*, [Ed. note 2003: Out-of-date contact information withheld.], comes the news that Issue ŧ of *Arrow's Message* is ready for sale. (Please note hte new address.) This has been a consistently impressive zine. Costs are [Ed. note 2003: Out-of-date information withheld.]. Stephaie asks that anyone interested in guidelies send a SASE and a friendly note.
 
-Receive a Science Fiction and Gantasy Art Show int he mail! Send a long SASE to get on the mailing list and receive zine details. Premier issue Fall '91 so write now! \[Ed. note 2003: Out-of-date contact information withheld.\]
+Receive a Science Fiction and Gantasy Art Show int he mail! Send a long SASE to get on the mailing list and receive zine details. Premier issue Fall '91 so write now! [Ed. note 2003: Out-of-date contact information withheld.]
 
-QO member Shade writes: "There is a Poetry Club waiting to start a monthly newsletter. Anyone interested in joining or helping out, write to \[Ed. note 2003: Out-of-date contact information withheld.\]. We focus on nature, love, the night, wolves and moons, dreams . . .But we are very open minded and will accept nearly anything in good taste. C'mon, join in!"
+QO member Shade writes: "There is a Poetry Club waiting to start a monthly newsletter. Anyone interested in joining or helping out, write to [Ed. note 2003: Out-of-date contact information withheld.]. We focus on nature, love, the night, wolves and moons, dreams . . .But we are very open minded and will accept nearly anything in good taste. C'mon, join in!"
 
-From Marie Wilson--"ATTENTION WRITERS: A new club called Dragonlore is strictly for writers. There will be a monthly newsletter which will have your pieces published in it. I do need someone to help. Please write if you are interested . . . \[Ed. note 2003: Out-of-date contact information withheld.\]."
+From Marie Wilson--"ATTENTION WRITERS: A new club called Dragonlore is strictly for writers. There will be a monthly newsletter which will have your pieces published in it. I do need someone to help. Please write if you are interested . . . [Ed. note 2003: Out-of-date contact information withheld.]."
 
-Also from Mary--"*Tales of the Unicorn* is a zine devoted to those who write fantasy with a romantic touch. Poems and stories welcome. \[Ed. note 2003: Out-of-date information withheld.\] Send a long SASE for guidelines."
+Also from Mary--"*Tales of the Unicorn* is a zine devoted to those who write fantasy with a romantic touch. Poems and stories welcome. [Ed. note 2003: Out-of-date information withheld.] Send a long SASE for guidelines."
 
-"Issue one of the fanzine *Enchantress* will be ready next month and is devoted to the world of Velgarth and to other worlds of fantasy fiction, with a strong emphasis on strong willed independent women. For a guideline sheet and subscription information, send a business size SASE to \[Ed. note 2003: Out-of-date contact information withheld.\]."
+"Issue one of the fanzine *Enchantress* will be ready next month and is devoted to the world of Velgarth and to other worlds of fantasy fiction, with a strong emphasis on strong willed independent women. For a guideline sheet and subscription information, send a business size SASE to [Ed. note 2003: Out-of-date contact information withheld.]."
 
-From April Parra and Rebecca SimsL "We now have permission for the 'Louise Cooper Fan Club.' (We still haven't decided on a name.) Loise Cooper actually **called** us to give us her blessing. (!!!!!) We're real excited. If you have any ideas or suggestions, or are interested in the club, write us!" (Send a SASE--Judith) "We'll try to get back to you with the first newsletter." \[Ed. note 2003: Out-of-date contact information withheld.\]
+From April Parra and Rebecca SimsL "We now have permission for the 'Louise Cooper Fan Club.' (We still haven't decided on a name.) Loise Cooper actually **called** us to give us her blessing. (!!!!!) We're real excited. If you have any ideas or suggestions, or are interested in the club, write us!" (Send a SASE--Judith) "We'll try to get back to you with the first newsletter." [Ed. note 2003: Out-of-date contact information withheld.]
 
-"From *Stephanie Anderson*, \[Ed. note 2003: Out-of-date contact information withheld.\] (note address change!): The Shin'a'in newsletter is slowly but surely coming along, the ideas are more concrete. I hope to get the first issue out soon! \[Ed. note 2003: Out-of-date information withheld.\]
+"From *Stephanie Anderson*, [Ed. note 2003: Out-of-date contact information withheld.] (note address change!): The Shin'a'in newsletter is slowly but surely coming along, the ideas are more concrete. I hope to get the first issue out soon! [Ed. note 2003: Out-of-date information withheld.]
 
-STAR TREK MENTOR'S LOG: Heather Lantz, \[Ed. note 2003: Out-of-date contact information withheld.\], "My future goals are to compile a ST and ST:TNG history based on my many resources, a list of recommended ST organizations and merchandise dealers, and eventually, a comprehensive list of ST conts (Creation, Dreamwerks, and otherwise). All of these things will be periodically revised and made available to QO members as produved." If interested, send Heather a SASE. Do not forget the SASE!
+STAR TREK MENTOR'S LOG: Heather Lantz, [Ed. note 2003: Out-of-date contact information withheld.], "My future goals are to compile a ST and ST:TNG history based on my many resources, a list of recommended ST organizations and merchandise dealers, and eventually, a comprehensive list of ST conts (Creation, Dreamwerks, and otherwise). All of these things will be periodically revised and made available to QO members as produved." If interested, send Heather a SASE. Do not forget the SASE!
 
-"Future writers--want to get a taste of the 'real world' of publishing without diving in headfirst? Wolf Raven Press is currently assembling an anthology of short stories set on Velgarth or on original worlds. Stories will be accepted until January 31, 1992. Send a SASE to \[Ed. note 2003: Out-of-date contact information withheld.\]."
+"Future writers--want to get a taste of the 'real world' of publishing without diving in headfirst? Wolf Raven Press is currently assembling an anthology of short stories set on Velgarth or on original worlds. Stories will be accepted until January 31, 1992. Send a SASE to [Ed. note 2003: Out-of-date contact information withheld.]."
 
-GAME MENTOR NEWS: From Douglas Lent--"I'm still willing to be Game Mentor and have Brad Averch's generous offer of help should I need it. My (new) address is \[Ed. note 2003: Out-of-date contact information withheld.\]." Please send all inquiries about the world of gaming directly to Doug. And include a SASE!
+GAME MENTOR NEWS: From Douglas Lent--"I'm still willing to be Game Mentor and have Brad Averch's generous offer of help should I need it. My (new) address is [Ed. note 2003: Out-of-date contact information withheld.]." Please send all inquiries about the world of gaming directly to Doug. And include a SASE!
 
-From *Mary K. Chelton*, \[Ed. note 2003: Out-of-date contact information withheld.\]--"I am a librarian and a fan of Mercedes Lackey and I would like to create a booklist of books that her fans also like to read, called 'If you like Mercedes LAckey, try . . . ' If any QO members would like to send me **three** titles in priority order (on a postcard) that they would recommend to other fans, I will compile the list for local readers and share a copy with Queen's Own."
+From *Mary K. Chelton*, [Ed. note 2003: Out-of-date contact information withheld.]--"I am a librarian and a fan of Mercedes Lackey and I would like to create a booklist of books that her fans also like to read, called 'If you like Mercedes LAckey, try . . . ' If any QO members would like to send me **three** titles in priority order (on a postcard) that they would recommend to other fans, I will compile the list for local readers and share a copy with Queen's Own."
 
-From *Lynn Tucker*, \[Ed. note 2003: Out-of-date contact information withheld.\]--"*Companion's Grove* is a fanzine dedicated to MErcedes LAckey's world of Velgarth, focusing primarily on Valdemar. The format will be 50 to 60 pages--I need more submissions, especially illustrated stories, songs, and poems. The deadline is December 1, 1991 for a February 1992 publication. Send SASE for submission guidelines; ordering info will be in future QO newsletters."
+From *Lynn Tucker*, [Ed. note 2003: Out-of-date contact information withheld.]--"*Companion's Grove* is a fanzine dedicated to MErcedes LAckey's world of Velgarth, focusing primarily on Valdemar. The format will be 50 to 60 pages--I need more submissions, especially illustrated stories, songs, and poems. The deadline is December 1, 1991 for a February 1992 publication. Send SASE for submission guidelines; ordering info will be in future QO newsletters."
 
 ## CHAPTER NEWS
 
-From Christa Miller: "To all West Coast members of Queen's Own and The HErald's HAll of California: (fanfare adn trumpets) we have a fantastic new editor, Julie Wright from Chic, CA! She is in the process of getting infor togehter to do the first issue of the new **Arrow**, and she would love to hear from everybody. If you have news, ideas, bios or ANYTHING, please write to her . . . " Julie's address is \[Ed. note 2003: Out-of-date contact information withheld.\].
+From Christa Miller: "To all West Coast members of Queen's Own and The HErald's HAll of California: (fanfare adn trumpets) we have a fantastic new editor, Julie Wright from Chic, CA! She is in the process of getting infor togehter to do the first issue of the new **Arrow**, and she would love to hear from everybody. If you have news, ideas, bios or ANYTHING, please write to her . . . " Julie's address is [Ed. note 2003: Out-of-date contact information withheld.].
 
-"ATTENTION! ACHTUNG! Are you interested in a German or Continental Europe Chapter?? We want to open one and are looking for Misty fans. If you are interested, send a letter and SASE to: \[Ed. note 2003: Out-of-date contact information withheld.\]. Besides nice people who love Misty, we're also looking for good ideas and we need a name."--Daniela (Send an addressed envelope and an IRC to anyone living outside your country. Letters sent **from** a country must have the postage of **that country** on them. IRC's can be exchanged in any post office for stamps. Judith.)
+"ATTENTION! ACHTUNG! Are you interested in a German or Continental Europe Chapter?? We want to open one and are looking for Misty fans. If you are interested, send a letter and SASE to: [Ed. note 2003: Out-of-date contact information withheld.]. Besides nice people who love Misty, we're also looking for good ideas and we need a name."--Daniela (Send an addressed envelope and an IRC to anyone living outside your country. Letters sent **from** a country must have the postage of **that country** on them. IRC's can be exchanged in any post office for stamps. Judith.)
 
 Also from Judith: First the good newsl we have over 800 members (Hooray!) Then, the bad; my computer refused to retriev the file where this newsletter was (hard disk and floppy back-up, no good) when it was nearly finished. It's taken much too long to recontruct this much. I apologize for inconsistencies, incoherencies, and any sign of hysteria that may have crept onto the pages--The worst of it is, no one can tell me why it happened or promise that it won't happen again. (whimper)
 
@@ -283,31 +281,29 @@ Welcome, **Herald Rannon Kyrie**, Chosen by Tayna, and gifted with Firestarting 
 
 From *Stephanie Bergeron* comes **Herald Stefanna**, Chosen by Molly, and gifted with Mindspeech and Fetching. Stephaie sent persona informaiton, a story, two recipes, a photo of the psaltry she made, and a page of costume sketches.
 
-Welcome, **\[Herald\] Kym**, Chosen by Marcus and gifted with Mindspeech. *Kim Davis* sent me her persona and a story and earned extra credit points with songs, knowledge of the care and feeding of horses, and reviews of Misty's books that she wrote for the Portland Public School District.
+Welcome, **[Herald] Kym**, Chosen by Marcus and gifted with Mindspeech. *Kim Davis* sent me her persona and a story and earned extra credit points with songs, knowledge of the care and feeding of horses, and reviews of Misty's books that she wrote for the Portland Public School District.
 
 ## Fan Messages
 
 Fan messages are for the convenience of those who wish to write to others. The QO membership list is not made available to anyone else, not even Firebird Arts and Music, but please remember that a sample issue of the newsletter is sent to anyone who requests informatino on the club. If you place a fan message I can't guarantee that it will be seen only by QO members. The "fee" is still the same: if you place a fan message, you must write to at least one other person who has a message in the issue where yours appears.
 
-\[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
-\[Ed. Note 2003: No Personals appeared in this issue of the newsletter.\]
+[Ed. Note 2003: No Personals appeared in this issue of the newsletter.]
 
-\[Ed. note 2003: Out-of-date subscription information withheld.\]
+[Ed. note 2003: Out-of-date subscription information withheld.]
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: \[Ed. note 2003: Out-of-date information withheld.\]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: [Ed. note 2003: Out-of-date information withheld.]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2003: Out-of-date information withheld.\]\
-Archivist and Organizer *extraordinaire*--Patricia Riggs\
-Mailing Day Helpers (last issue)--Leanne Brownlee, Ana Casacuberta, Noreen Johnson, Joanne Mattern.
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2003: Out-of-date information withheld.] Archivist and Organizer *extraordinaire*--Patricia Riggs Mailing Day Helpers (last issue)--Leanne Brownlee, Ana Casacuberta, Noreen Johnson, Joanne Mattern.
 
 What do you get when you cross The Cowardly Lion with Di Tregarde? A chicken Wiccan!! (I think Mari Toshimitsu just won the bad pu contest!)
 
 Wind to thy Wings--Judith
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -319,10 +315,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

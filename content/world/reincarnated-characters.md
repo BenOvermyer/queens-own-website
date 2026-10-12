@@ -96,7 +96,7 @@ The codes that follow the names tell which book or story mentions the character.
 <td> </td>
 </table>
 
-\* = Grove-Born Companion
+&#42; = Grove-Born Companion
 
 If you spot any glitches or if you have information you'd like me to add (such a new "match" you've spotted or information about where you can find listed pairs), message me at [Legend@malcor.com](mailto:Legend@malcor.com)
 

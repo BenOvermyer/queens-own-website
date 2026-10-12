@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. V, No. 9\
-June 1992
+## Series 1, Vol. V, No. 9 June 1992
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -109,15 +107,15 @@ The Heralds of Valdemar series:</th>
 </tr>
 </table>
 
-\*NRD - no release date
+&#42;NRD - no release date
 
-Misty's birthday is June 24th. You can mail cards to her at the Highflight address: \[Ed. note 2004: Out-of-date contact information withheld.\]. This is your fastest route to Misty and Larry. It is their business address, and the box is checked daily. I forward mail sent to Misty through QO to that same address. You'll save time (and you'll save me time) by using it directly.
+Misty's birthday is June 24th. You can mail cards to her at the Highflight address: [Ed. note 2004: Out-of-date contact information withheld.]. This is your fastest route to Misty and Larry. It is their business address, and the box is checked daily. I forward mail sent to Misty through QO to that same address. You'll save time (and you'll save me time) by using it directly.
 
 For those of you who feel you must know these things, Misty's birthdate is 6/24/50. She says, "By the way, after 35 the warranty runs out. After 40 parts start falling off. And after 45 everything hurts, and what doesn't hurt, doesn't work anymore. I want a trade-in, on my back at least. Sigh."
 
 The George Alec Effmger Medical Fund announces a new fund raiser, the "WORLDCON-FOR-A-BUCK" raffle. What you get is 1). a chance to defray George Effmger's medical costs. 2). a chance to see ConFrancisco (WorldCon '93 in San Francisco) for free. Grand Prize includes airline travel from anywhere in the continental US, membership, 4 nights hotel accommodations and meal allowance! 3). a good feeling.
 
-All you have to do to enter is write your name, address and telephone number on as many index cards or 3x5 pieces of paper as you like. Drop them in an envelope, with one dollar for each chance, and mail them to The George Alec Effin er Medical Fund c/o NFSFA \[Ed. note 2004: Out-of-date contact information withheld.\]. Checks are to made payable to The George Alec Effmger Medical Fund. All donations and/or chances are to be sent directly to the NFSFA address.
+All you have to do to enter is write your name, address and telephone number on as many index cards or 3x5 pieces of paper as you like. Drop them in an envelope, with one dollar for each chance, and mail them to The George Alec Effin er Medical Fund c/o NFSFA [Ed. note 2004: Out-of-date contact information withheld.]. Checks are to made payable to The George Alec Effmger Medical Fund. All donations and/or chances are to be sent directly to the NFSFA address.
 
 So, how about it? Drink one less soda, rent one less video, buy one less bag of munchies.... A dollar by itself buys so little, a dollar from each of us in fandom can accomplish so much.
 
@@ -127,21 +125,21 @@ So, how about it? Drink one less soda, rent one less video, buy one less bag of 
 
 *Firebird Arts & Music* announces that Freedom, Flight and Fantasy is ready now. The lyrics on this tape were written by Misty, Leslie Fish wrote the music. Heather Alexander is the featured vocalist.
 
-Send for Firebird's catalog of filk, books, collectibles, and other treasures by writing to them at \[Ed. note 2004: Out-of-date contact information withheld.\]. For Oregon and international calls, use \[Ed. note 2004: Out-of-date contact information withheld.\].
+Send for Firebird's catalog of filk, books, collectibles, and other treasures by writing to them at [Ed. note 2004: Out-of-date contact information withheld.]. For Oregon and international calls, use [Ed. note 2004: Out-of-date contact information withheld.].
 
 ## Convention News:
 
-*Gaylaxicon IV* bills itself as "a Science Fiction - Fantasy - Horror convention for Gay people and their friends." This year the con is being held July 17-19 in Philadelphia, and Guest of Honor is Tanya Huff. Membership is $25 until June 30. If you are under 18, your parent or guardian must attend with you. For more information, write to Gaylaxicon IV \[Ed. note 2004: Out-of-date contact information withheld.\]. Misty will be GoH next year, at Gaylaxicon V, and this is the only con she plans to attend in 1993.
+*Gaylaxicon IV* bills itself as "a Science Fiction - Fantasy - Horror convention for Gay people and their friends." This year the con is being held July 17-19 in Philadelphia, and Guest of Honor is Tanya Huff. Membership is $25 until June 30. If you are under 18, your parent or guardian must attend with you. For more information, write to Gaylaxicon IV [Ed. note 2004: Out-of-date contact information withheld.]. Misty will be GoH next year, at Gaylaxicon V, and this is the only con she plans to attend in 1993.
 
 OOPS Department! It was alternate universe time for me when I typed in the name of the store where Misty is doing a signing. Let's try again . . .
 
-ATTENTION all lucky people in the Dayton, Ohio area: Misty will be doing a book signing at *Books and Company* on Friday evening, July 24, between 7:30 and 9:30. The address is \[Ed. note 2004: Out-of-date contact information withheld.\]. *Books and Company* is celebrating science fiction month with 13% off all SF/F titles. They will take phone orders for autographed copies of Misty's books (accompanied by a credit card number, of course.) The store hopes to have in stock by this time both the paperback version of *Winds of Fate*, and the Misty/Anne McCaffrey collaboration, *The Ship Who Searched*. Lois McMaster Bujold will be present on Saturday, July 11th, from 5:30 to 6:30 as one of four guest authors.
+ATTENTION all lucky people in the Dayton, Ohio area: Misty will be doing a book signing at *Books and Company* on Friday evening, July 24, between 7:30 and 9:30. The address is [Ed. note 2004: Out-of-date contact information withheld.]. *Books and Company* is celebrating science fiction month with 13% off all SF/F titles. They will take phone orders for autographed copies of Misty's books (accompanied by a credit card number, of course.) The store hopes to have in stock by this time both the paperback version of *Winds of Fate*, and the Misty/Anne McCaffrey collaboration, *The Ship Who Searched*. Lois McMaster Bujold will be present on Saturday, July 11th, from 5:30 to 6:30 as one of four guest authors.
 
-RiverCon XVII is July 31-August 2 at the Hyatt Regency in Louisville, Kentucky. Misty is Guest of Honor, and membership is only $18 until July 15. This is a fun con in a beautiful town. Write to RiverCon XVII \[Ed. note 2004: Out-of-date contact information withheld.\] for registration information. Call \[Ed. note 2004: Out-of-date contact information withheld.\] for a room reservation.
+RiverCon XVII is July 31-August 2 at the Hyatt Regency in Louisville, Kentucky. Misty is Guest of Honor, and membership is only $18 until July 15. This is a fun con in a beautiful town. Write to RiverCon XVII [Ed. note 2004: Out-of-date contact information withheld.] for registration information. Call [Ed. note 2004: Out-of-date contact information withheld.] for a room reservation.
 
 For you Iowa City residents, Misty and Larry will attend ICON October 2-4.
 
-MagiCon is in Orlando, Florida, September 3-7. If you want information on this 50th Worldcon, write to MaigCon \[Ed. note 2004: Out-of-date contact information withheld.\]. Registration cost is $110 until July 15th; $135 at the door.
+MagiCon is in Orlando, Florida, September 3-7. If you want information on this 50th Worldcon, write to MaigCon [Ed. note 2004: Out-of-date contact information withheld.]. Registration cost is $110 until July 15th; $135 at the door.
 
 ## COLLEGIUM NEWS:
 
@@ -165,13 +163,13 @@ Step 2: Roll two six-sided die to determine if you CAN become a Herald-Mage. A t
 
 Step 3: You are now at the Apprentice stage. To earn the rank of Herald-Mage, Hedge-wizard, learn the following stage-magic tricks well enough to fool your friends: Linking Rings, Restoring Cut Rope, Appearing Coins, and a simple Escape Trick.
 
-Step 4: To earn the rank of Herald-Mage, Journeyman, first qualify for Hedge-wizard. Then write a 20 page paper on the following subject and submit it to an essay contest\* or your history teacher for extra credit: analyze the Constitution, without the Amendments, and explain how the Amendments have made the original document work in the modern world. AND learn the following stage-magic tricks: Dancing Handkerchief, Multiplying Coins, Restoring Cut Newspaper, and Escape from Handcuffs.
+Step 4: To earn the rank of Herald-Mage, Journeyman, first qualify for Hedge-wizard. Then write a 20 page paper on the following subject and submit it to an essay contest&#42; or your history teacher for extra credit: analyze the Constitution, without the Amendments, and explain how the Amendments have made the original document work in the modern world. AND learn the following stage-magic tricks: Dancing Handkerchief, Multiplying Coins, Restoring Cut Newspaper, and Escape from Handcuffs.
 
 Step 5: To earn the rank of Herald-Mage, Master, first qualify for Hedge-Wizard and Journeyman. Then write a 20-page paper on one of the following subjects ---Machiavelli's *The Prince*, the Bill of Rights, Elizabeth I as a ruler, the Crusades from the Christian viewpoint and the Crusades from a Moslem viewpoint. Submit it to an essay contest or your History teacher for extra credit. AND write a 20-page paper on &uqot;magic" as a form of particle energy and how it is similar to nuclear fusion and/or fission. AND learn the following stage-magic tricks: Hat And Egg, Escape From Ropes, Appearing/Multiplying Ping Pong Balls, and your choice of Card Tricks.
 
 Step 6: To earn the rank of Herald-Mage, Adept, first qualify for Hedge-Wizard, Journeyman, and Master. Then write a 20-page paper on one of the following subjects---King Arthur as historical figure, the importance and obligations of the liege-lord in feudal society, Plato's *Republic*, the moral and ethical questions of creation and possession of nuclear weapons; submit it to an essay test or your History Teacher for extra credit. AND write a 20-page paper on the moral and ethical questions of possession and use of Adept-level power. AND write a 20-page paper on the role of arbitration in solving disputes, including the constraints that must be placed on the arbitrator. AND learn the following stage-magic tricks: Cutting a Person in Two or More Pieces, Appearing Dove, your choice of Card Tricks you don't already know, and your choice of Close-up Magic Tricks you don't already know.
 
-\*If you are out of school and can't find an essay contest, submit your papers to a local historical society.
+&#42;If you are out of school and can't find an essay contest, submit your papers to a local historical society.
 
 Misty says: "Lest you think I am being too hard on those who would be Herald-Mages, I would like to point out that both Ellen Guon and myself qualify for Adept. Like aspiring Kafenedral, if you want something extraordinary, you will have to make an extraordinary effort."
 
@@ -185,51 +183,45 @@ Judith's opinion: If you're already whining "it's too hard; it's not fair," for 
 
 First, news for club members: Welcome to all new members, and thank you to all "old-timers" who are staying with us. *The deadline for news for the July issue is July third, earlier is better.* I have to be out of town the usual mailing day weekend; the newsletter must be ready for the printer before I leave. Remember, there will not be an August newsletter. All our zines need stories and artwork! You want to be a writer? Support your QO zines!
 
-From Lynn Tucker comes word that Companions' Grove needs submissions for its next issue. Den Elms' novella, *Shards of Autumn*, a look at the darker side of Valdemar, is still available for $6.50. Lynn says that she's getting her own printer soon, but in the meantime, there may be a week or two delay filling zine orders. For guidelines and price information, send a SASE to Lvnn Tucker \[Ed. note 2004: Out-of-date contact information withheld.\].
+From Lynn Tucker comes word that Companions' Grove needs submissions for its next issue. Den Elms' novella, *Shards of Autumn*, a look at the darker side of Valdemar, is still available for $6.50. Lynn says that she's getting her own printer soon, but in the meantime, there may be a week or two delay filling zine orders. For guidelines and price information, send a SASE to Lvnn Tucker [Ed. note 2004: Out-of-date contact information withheld.].
 
-From *Stephanie Wong of Arrow's Message:* My summer address will be \[Ed. note 2004: Out-of-date contact information withheld.\]. In late August, I'll be back in Berkeley. Volume 3, Issue #2 of *Arrow's Message* is planned for release on June 15th and features stories by Joe Sehl, Cat Faber, Kiri Namtdvedt, and Elizabeth Weaver. Subscriptions are $4 an issue or $15 a year. Send a SASE for guidelines.
+From *Stephanie Wong of Arrow's Message:* My summer address will be [Ed. note 2004: Out-of-date contact information withheld.]. In late August, I'll be back in Berkeley. Volume 3, Issue #2 of *Arrow's Message* is planned for release on June 15th and features stories by Joe Sehl, Cat Faber, Kiri Namtdvedt, and Elizabeth Weaver. Subscriptions are $4 an issue or $15 a year. Send a SASE for guidelines.
 
-From *Meri Anthony* \[Ed. note 2004: Out-of-date contact information withheld.\]: Winds of Velgarth is still in trouble. There's a hostile takeover in sight and all the Heralds have disappeared. Please send help (or an SASE.)
+From *Meri Anthony* [Ed. note 2004: Out-of-date contact information withheld.]: Winds of Velgarth is still in trouble. There's a hostile takeover in sight and all the Heralds have disappeared. Please send help (or an SASE.)
 
-Anyone over eighteen is welcome to join the Live Action Fantasy Society in Austin, Texas; please contact president Greg "Tremlock" Burrow at \[Ed. note 2004: Out-of-date contact information withheld.\]. As yet, we've no Heralds in our group, but I'd love to see some. Correspondence welcome!!! (Penumbra explains that LAFS combines paper-and-dice gaming with live-action "in a unique mixture of costumed padded-weapons combat and fantastic shared�universe fiction." Sounds like fun, especially for you folks who don't want the restrictions of the SCA.)
+Anyone over eighteen is welcome to join the Live Action Fantasy Society in Austin, Texas; please contact president Greg "Tremlock" Burrow at [Ed. note 2004: Out-of-date contact information withheld.]. As yet, we've no Heralds in our group, but I'd love to see some. Correspondence welcome!!! (Penumbra explains that LAFS combines paper-and-dice gaming with live-action "in a unique mixture of costumed padded-weapons combat and fantastic shared�universe fiction." Sounds like fun, especially for you folks who don't want the restrictions of the SCA.)
 
-From *Vicki McElfresh* \[Ed. note 2004: Out-of-date contact information withheld.\]: Issue 5 of Companion's Rest is ready for mailing. Individual copies are $2; a subscription is $12. Send a SASE for guidelines or back issue prices. (Make checks out to Vicki.)
+From *Vicki McElfresh* [Ed. note 2004: Out-of-date contact information withheld.]: Issue 5 of Companion's Rest is ready for mailing. Individual copies are $2; a subscription is $12. Send a SASE for guidelines or back issue prices. (Make checks out to Vicki.)
 
-Attention all those interested in the mysterious, magical, & misunderstood creatures of fantasy and horror. If you'd enjoy reading about vampires, werewolves, and an occasional curse or spell on an item, have I got a zine for you! It's called Night Songs, and anyone interested in receiving guidelines or getting more details, send a SASE to *Jennifer Wilson* \[Ed. note 2004: Out-of-date contact information withheld.\].
+Attention all those interested in the mysterious, magical, & misunderstood creatures of fantasy and horror. If you'd enjoy reading about vampires, werewolves, and an occasional curse or spell on an item, have I got a zine for you! It's called Night Songs, and anyone interested in receiving guidelines or getting more details, send a SASE to *Jennifer Wilson* [Ed. note 2004: Out-of-date contact information withheld.].
 
-If you want to write about Heralds, Healers, Bards, and Blues, join the Writers Collegium of Valdemar, a writers circle set on the world of Velgarth. This is not a fanzine but a group of like-minded writers. For guidelines, please send a large SASE to *Jacqueline Moikeha* \[Ed. note 2004: Out-of-date contact information withheld.\].
+If you want to write about Heralds, Healers, Bards, and Blues, join the Writers Collegium of Valdemar, a writers circle set on the world of Velgarth. This is not a fanzine but a group of like-minded writers. For guidelines, please send a large SASE to *Jacqueline Moikeha* [Ed. note 2004: Out-of-date contact information withheld.].
 
-A new role-playing chapter of Queen's Own has been introduced, and we're now stably in place. Dues for Chronicles of Valdemar are now $4 for 10 issues. Send a SASE to *Cathy Timura* \[Ed. note 2004: Out-of-date contact information withheld.\].
+A new role-playing chapter of Queen's Own has been introduced, and we're now stably in place. Dues for Chronicles of Valdemar are now $4 for 10 issues. Send a SASE to *Cathy Timura* [Ed. note 2004: Out-of-date contact information withheld.].
 
-From the mundane world: Are you interested in creating a rape-free environment? Do you like dogs? Do you want to know what these two have in common? Send me a SASE, and I will send you information on Project Safe Run. It's a worthwhile organization that could become a reality in your hometown. *Karrin Dailev* \[Ed. note 2004: Out-of-date contact information withheld.\]. Also from Karrin: I'm working on a newsletter, and it's coming out in the fall, providing I have somewhere to send it. If there are any college students out there who could give me the address and phone # of their campus libraries (or if you want more info on the newsletter), please write.
+From the mundane world: Are you interested in creating a rape-free environment? Do you like dogs? Do you want to know what these two have in common? Send me a SASE, and I will send you information on Project Safe Run. It's a worthwhile organization that could become a reality in your hometown. *Karrin Dailev* [Ed. note 2004: Out-of-date contact information withheld.]. Also from Karrin: I'm working on a newsletter, and it's coming out in the fall, providing I have somewhere to send it. If there are any college students out there who could give me the address and phone # of their campus libraries (or if you want more info on the newsletter), please write.
 
 ## Mentors:
 
-*Lora K. Angley* \[Ed. note 2004: Out-of-date contact information withheld.\] has information on both seasons of the TV series, War of the Worlds (WoW) and its fanzines.\
-*Anita Sayer* \[Ed. note 2004: Out-of-date contact information withheld.\] offers help to anyone with questions about the books of David Eddings.\
-*Roberta Hall Kelley* \[Ed. note 2004: Out-of-date contact information withheld.\] is willing to edit and assist budding writers.\
-From *Hannah Blair* \[Ed. note 2004: Out-of-date contact information withheld.\] (Pern information): Annie Berglund & Debbie Winkler - have I written you? A number of letters may have disappeared into the abyss without my knowledge; if you haven't gotten an answer yet, please write again & I apologize.
+*Lora K. Angley* [Ed. note 2004: Out-of-date contact information withheld.] has information on both seasons of the TV series, War of the Worlds (WoW) and its fanzines. *Anita Sayer* [Ed. note 2004: Out-of-date contact information withheld.] offers help to anyone with questions about the books of David Eddings. *Roberta Hall Kelley* [Ed. note 2004: Out-of-date contact information withheld.] is willing to edit and assist budding writers. From *Hannah Blair* [Ed. note 2004: Out-of-date contact information withheld.] (Pern information): Annie Berglund & Debbie Winkler - have I written you? A number of letters may have disappeared into the abyss without my knowledge; if you haven't gotten an answer yet, please write again & I apologize.
 
 ## Fan Messages
 
-\[Ed. Note 2004: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2004: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
-\[Ed. Note 2004: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.\]
+[Ed. Note 2004: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.]
 
-\[Ed. note 2004: Out-of-date subscription information withheld.\]
+[Ed. note 2004: Out-of-date subscription information withheld.]
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: \[Ed. note 2004: Out-of-date information withheld.\]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: [Ed. note 2004: Out-of-date information withheld.]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2004: Out-of-date information withheld.\]\
-Archivist and Organizer *extraordinaire*--Patricia Riggs \[Ed. note 2004: Out-of-date information withheld.\]\
-Mailing Day Helpers (last issue)--Leah Adezio, Leanne Brownlee, Frank Burkhead, and Sarah Meng.
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2004: Out-of-date information withheld.] Archivist and Organizer *extraordinaire*--Patricia Riggs [Ed. note 2004: Out-of-date information withheld.] Mailing Day Helpers (last issue)--Leah Adezio, Leanne Brownlee, Frank Burkhead, and Sarah Meng.
 
-From M. L. Jannsen: What do Vanyel, Talia, and Kethry have in common?\
-They all have a "Misty-cal" heritage.
+From M. L. Jannsen: What do Vanyel, Talia, and Kethry have in common? They all have a "Misty-cal" heritage.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -241,10 +233,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

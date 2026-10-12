@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. X, No. 3\
-December 1996
+## Series 1, Vol. X, No. 3 December 1996
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -40,85 +38,85 @@ Dear Misty Fans,
 
 "Now, Mickey Zucker Reichert, Larry Dixon, Tanya Huff, Michelle Sagara and others add their own special chapters to the history of Valdemar. Meet with a Herald-assassin known only to the Queen . . . learn why in Karse, a question can be deadlier than any sword . . . and discover how for two iifebonded Heralds justice prevails over honor, in seventeen original stories of valor and magic, including three co-authored by Mercedes Lackey herself."
 
-*Sword of Ice* has a cover price of \[Ed. note 2005: Out-of-date info withheld.\].
+*Sword of Ice* has a cover price of [Ed. note 2005: Out-of-date info withheld.].
 
-Available now from TOR is the hardcover novel *Firebird*, Misty's retelling of the Russian Firebird legend. Its list price is \[Ed. note 2005: Out-of-date info withheld.\]. Science Fiction Book Club has *Storm Breaking* for \[Ed. note 2005: Out-of-date info withheld.\]; *Storm Warning* and *Storm Rising* can be bought as a set for just \[Ed. note 2005: Out-of-date info withheld.\].
+Available now from TOR is the hardcover novel *Firebird*, Misty's retelling of the Russian Firebird legend. Its list price is [Ed. note 2005: Out-of-date info withheld.]. Science Fiction Book Club has *Storm Breaking* for [Ed. note 2005: Out-of-date info withheld.]; *Storm Warning* and *Storm Rising* can be bought as a set for just [Ed. note 2005: Out-of-date info withheld.].
 
 Baen is re-issuing *The Lark & the Wren, Knight of Ghosts and Shadows* by Misty and Ellen Guon, and Bom to Run, by Misty and Larry, as well as the Wing Commander novel by Misty and Ellen, *Freedom Flight*, and the Misty/Piers Anthony collaboration, *If I Pay Thee Not in Gold*, all in paperback.
 
-The enclosed bookmark is your holiday gift from Misty & Larry. Send your holiday greetings to them c/o Highflight \[Ed. note 2005: Out-of-date info withheld.\].
+The enclosed bookmark is your holiday gift from Misty & Larry. Send your holiday greetings to them c/o Highflight [Ed. note 2005: Out-of-date info withheld.].
 
-From TEMPEST: "This year has been wonderful for Tempest. We have toured across the continent and made many new friends. *Turn of the Wheel* received a huge response and to date has outsold all of our previous albums. We look forward to an exciting adventure in 1997 when we will embark on our first World Tow! Holiday Greetings and Peace from Tempest." TEMPEST will appear December 19-21 in Mammoth at La Sierra Cantina \[Ed. note 2005: Out-of-date info withheld.\]; January 17 in Sebastopol at The Powerhouse \[Ed. note 2005: Out-of-date info withheld.\]; January 18 in Davis at Veterans Memorial Theatre \[Ed. note 2005: Out-of-date info withheld.\]. For other booking information, call \[Ed. note 2005: Out-of-date info withheld.\].
+From TEMPEST: "This year has been wonderful for Tempest. We have toured across the continent and made many new friends. *Turn of the Wheel* received a huge response and to date has outsold all of our previous albums. We look forward to an exciting adventure in 1997 when we will embark on our first World Tow! Holiday Greetings and Peace from Tempest." TEMPEST will appear December 19-21 in Mammoth at La Sierra Cantina [Ed. note 2005: Out-of-date info withheld.]; January 17 in Sebastopol at The Powerhouse [Ed. note 2005: Out-of-date info withheld.]; January 18 in Davis at Veterans Memorial Theatre [Ed. note 2005: Out-of-date info withheld.]. For other booking information, call [Ed. note 2005: Out-of-date info withheld.].
 
 Happy holidays from the folks at Firebird. You can do your holiday shopping from the Firebird catalog. You'll find T�shirts for every taste, from TEMPEST designs to the Fairgrove logo, from the Silver Gryphon emblem to Skandranon and Companions, from beautiful Celtic and Michael Whelan designs to wolves and cats. Of course there's music: TEMPEST, Michael Longcor's latest album *Norman & Saxon,* various Celtic artists, native American music by R. Carlos Nakai and others, and the theme music from the films *Ladyhawke* and *Braveheart*. You can order all of Misty's books from Firebird as well as an *Arrows of the Queen Concordance* or songbook, Silver Gryphon patches and pins, related jewelry and stationery, and much, much more.
 
 Cassettes and CD's of the songs of *Oathbound* are back in stock. This work is based on the first book of *Vows and Honor*. The re-issue of songs inspired by *Oathbreakers* will be ready sometime next year. The *Vows and Honor Concordance* is still a work in progress. "Heralds, Harpers, & Havoc" is available on CD, as is "Lovers, Lore & Loss" and "Shadow Stalker." Soon to come is a *Shadow Stalker Songbook*.
 
-Check out the Firebird on-line catalog at \[Ed. note 2005: Out-of-date info withheld.\] for up to date product information. E-mail \[Ed. note 2005: Out-of-date info withheld.\]. Firebird's address is Firebird Arts & Music of Oregon, Inc. \[Ed. note 2005: Out-of-date info withheld.\].
+Check out the Firebird on-line catalog at [Ed. note 2005: Out-of-date info withheld.] for up to date product information. E-mail [Ed. note 2005: Out-of-date info withheld.]. Firebird's address is Firebird Arts & Music of Oregon, Inc. [Ed. note 2005: Out-of-date info withheld.].
 
-Dragon\*Con is June 26-29 at Atlanta's Inforum Convention Center and Hyatt Regency Hotel. Guests beside Misty and Larry include Raymond Feist, Barbara Hambly, Robert Jordan, and Margaret Weis. 4-day memberships are $35 through December 15, $40 if purchased by March 15, $50 to May 15, and $60 at the door. For info call \[Ed. note 2005: Out-of-date info withheld.\] or write to \[Ed. note 2005: Out-of-date info withheld.\] or link to their web site at \[Ed. note 2005: Out-of-date info withheld.\]. Rooms at the Hyatt Regency Atlanta are available at the discounted rate of $112 per night single ($10 additional person.) Call 404-577-1234 to make your Hyatt reservations. (You can specify Party Floor or Quiet Floor.) Queen's Own Collegia is planning special tracks of programming but I have no information on that at this date.
+Dragon&#42;Con is June 26-29 at Atlanta's Inforum Convention Center and Hyatt Regency Hotel. Guests beside Misty and Larry include Raymond Feist, Barbara Hambly, Robert Jordan, and Margaret Weis. 4-day memberships are $35 through December 15, $40 if purchased by March 15, $50 to May 15, and $60 at the door. For info call [Ed. note 2005: Out-of-date info withheld.] or write to [Ed. note 2005: Out-of-date info withheld.] or link to their web site at [Ed. note 2005: Out-of-date info withheld.]. Rooms at the Hyatt Regency Atlanta are available at the discounted rate of $112 per night single ($10 additional person.) Call 404-577-1234 to make your Hyatt reservations. (You can specify Party Floor or Quiet Floor.) Queen's Own Collegia is planning special tracks of programming but I have no information on that at this date.
 
-Flights of Fantasy Books and Games has a new address--\[Ed. note 2005: Out-of-date info withheld.\]--and a new phone number--\[Ed. note 2005: Out-of-date info withheld.\]. You can call \[Ed. note 2005: Out-of-date info withheld.\] to place an order. Flights of Fantasy specializes in new and used science fiction & fantasy, mystery and romance, and new and collectable tabletop gaming items and collectable card games w/ emphasis on Magic the Gathering. Owner Maria Perry will do special orders of books she doesn't have in stock. Give her your want list, she'll do her best for you. Local and international mail orders are welcome, and FoF does ship to prison addresses.
+Flights of Fantasy Books and Games has a new address--[Ed. note 2005: Out-of-date info withheld.]--and a new phone number--[Ed. note 2005: Out-of-date info withheld.]. You can call [Ed. note 2005: Out-of-date info withheld.] to place an order. Flights of Fantasy specializes in new and used science fiction & fantasy, mystery and romance, and new and collectable tabletop gaming items and collectable card games w/ emphasis on Magic the Gathering. Owner Maria Perry will do special orders of books she doesn't have in stock. Give her your want list, she'll do her best for you. Local and international mail orders are welcome, and FoF does ship to prison addresses.
 
 ## MEMBER NEWS:
 
-For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send \[Ed. note 2005: Out-of-date info withheld.\] to the QO address for this 12 page booklet.
+For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005: Out-of-date info withheld.] to the QO address for this 12 page booklet.
 
 ### Local Chapters:
 
-Arrows Online--Arrows Online, the AOL chapter of Queen's Own, is indeed open for business! If you are already an AOL member and want to join our very silly and friendly group, please e-mail the Dean of our very own Westhaven Collegia at \[Ed. note 2005: Out-of-date info withheld.\]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm \[Ed. note 2005: Out-of-date info withheld.\] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at \[Ed. note 2005: Out-of-date info withheld.\].
+Arrows Online--Arrows Online, the AOL chapter of Queen's Own, is indeed open for business! If you are already an AOL member and want to join our very silly and friendly group, please e-mail the Dean of our very own Westhaven Collegia at [Ed. note 2005: Out-of-date info withheld.]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm [Ed. note 2005: Out-of-date info withheld.] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at [Ed. note 2005: Out-of-date info withheld.].
 
-Austral'a'in--Cassandra Vuksa \[Ed. note 2005: Out-of-date info withheld.\].
+Austral'a'in--Cassandra Vuksa [Ed. note 2005: Out-of-date info withheld.].
 
-Companion's Choice--Shanara Ravensong \[Ed. note 2005: Out-of-date info withheld.\].
+Companion's Choice--Shanara Ravensong [Ed. note 2005: Out-of-date info withheld.].
 
-Dream Bound--c/o Sharon Tan \[Ed. note 2005: Out-of-date info withheld.\].
+Dream Bound--c/o Sharon Tan [Ed. note 2005: Out-of-date info withheld.].
 
-The Farflying Arrow: Achtung, an alle deutschsprechenden Misty-Fans!! Write to Gwendolen \[Ed. note 2005: Out-of-date info withheld.\].
+The Farflying Arrow: Achtung, an alle deutschsprechenden Misty-Fans!! Write to Gwendolen [Ed. note 2005: Out-of-date info withheld.].
 
-Golden Grove--Stephanie Anderson \[Ed. note 2005: Out-of-date info withheld.\].
+Golden Grove--Stephanie Anderson [Ed. note 2005: Out-of-date info withheld.].
 
-The Herald's Companion--Herald's Companion c/o Karen Bertke \[Ed. note 2005: Out-of-date info withheld.\].
+The Herald's Companion--Herald's Companion c/o Karen Bertke [Ed. note 2005: Out-of-date info withheld.].
 
-Heralds' Revel--c/o H. Wegemer \[Ed. note 2005: Out-of-date info withheld.\]: Send e-mail to \[Ed. note 2005: Out-of-date info withheld.\].
+Heralds' Revel--c/o H. Wegemer [Ed. note 2005: Out-of-date info withheld.]: Send e-mail to [Ed. note 2005: Out-of-date info withheld.].
 
-Outkingdom--Y'larna Finnareth c/o Joanne Thwaites \[Ed. note 2005: Out-of-date info withheld.\].
+Outkingdom--Y'larna Finnareth c/o Joanne Thwaites [Ed. note 2005: Out-of-date info withheld.].
 
-Pacific Northwest Collegium--c/o Charlene Ryan \[Ed. note 2005: Out-of-date info withheld.\].
+Pacific Northwest Collegium--c/o Charlene Ryan [Ed. note 2005: Out-of-date info withheld.].
 
-R.C.M.H.--Contact Pam Dziedzic \[Ed. note 2005: Out-of-date info withheld.\].
+R.C.M.H.--Contact Pam Dziedzic [Ed. note 2005: Out-of-date info withheld.].
 
-Under Kal'enel's Care--\[Ed. note 2005: Out-of-date info withheld.\]. These bi-monthly newsletters are aimed specifically at the Shin'a'in.
+Under Kal'enel's Care--[Ed. note 2005: Out-of-date info withheld.]. These bi-monthly newsletters are aimed specifically at the Shin'a'in.
 
 ## Other Fandoms:
 
-Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond \[Ed. note 2005: Out-of-date info withheld.\].
+Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
 
-Jennifer Roberson--Children of the Firstborn \[Ed. note 2005: Out-of-date info withheld.\].
+Jennifer Roberson--Children of the Firstborn [Ed. note 2005: Out-of-date info withheld.].
 
-Robert Jordan--Under the Dragon Banner \[Ed. note 2005: Out-of-date info withheld.\].
+Robert Jordan--Under the Dragon Banner [Ed. note 2005: Out-of-date info withheld.].
 
-Doctor Who and other Media--The Prydonians of Prynceton \[Ed. note 2005: Out-of-date info withheld.\]. Dues are $12 ($18 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
+Doctor Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.]. Dues are $12 ($18 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
 
-Tanya Huff--Nine Above! \[Ed. note 2005: Out-of-date info withheld.\]. If you are a Tanya Huff fan, subscribe to Nine Above! The January newsletter will have a brief excerpt from *Blood Debt*, due out in April.
+Tanya Huff--Nine Above! [Ed. note 2005: Out-of-date info withheld.]. If you are a Tanya Huff fan, subscribe to Nine Above! The January newsletter will have a brief excerpt from *Blood Debt*, due out in April.
 
-Anne McCaffrey/Pern--Starfire Weyr \[Ed. note 2005: Out-of-date info withheld.\].
+Anne McCaffrey/Pern--Starfire Weyr [Ed. note 2005: Out-of-date info withheld.].
 
-Anne McCaffrey/Pern--Sunfall Weyr \[Ed. note 2005: Out-of-date info withheld.\].
+Anne McCaffrey/Pern--Sunfall Weyr [Ed. note 2005: Out-of-date info withheld.].
 
-Lois MeMaster Bujold--Miles' Minions \[Ed. note 2005: Out-of-date info withheld.\].
+Lois MeMaster Bujold--Miles' Minions [Ed. note 2005: Out-of-date info withheld.].
 
-General Fandom--National Fantasy Fan Federation (N3F) \[Ed. note 2005: Out-of-date info withheld.\] (Send SASE to QO for a membership application if you wish.)
+General Fandom--National Fantasy Fan Federation (N3F) [Ed. note 2005: Out-of-date info withheld.] (Send SASE to QO for a membership application if you wish.)
 
-Adrian Paul (Highlander)--Peace \[Ed. note 2005: Out-of-date info withheld.\].
+Adrian Paul (Highlander)--Peace [Ed. note 2005: Out-of-date info withheld.].
 
 Are you having fun in another club? Share the information with Queen's Own members. The club should be SF/F based but can be on anything from Babylon 5 to X-Files.
 
-Season's Greetings, one and all! This Christmas, why not step through our looking glass and get an Outkingdomer's view of Valdemar? The Hallowe'en/Christmas issue (yes, really), comprising a newsletter with a bit of everything in it and a zine, THE OUTKINGDOM CHRONICLES, is ready and waiting for you at �6.00 (this issue only, normal price �4.00). All are welcome to come sample our fare. Alternatively, why not try our guidelines and see what we're like? Send SAE or 2 IRCs outside the UK to \[Ed. note 2005: Out-of-date info withheld.\].
+Season's Greetings, one and all! This Christmas, why not step through our looking glass and get an Outkingdomer's view of Valdemar? The Hallowe'en/Christmas issue (yes, really), comprising a newsletter with a bit of everything in it and a zine, THE OUTKINGDOM CHRONICLES, is ready and waiting for you at �6.00 (this issue only, normal price �4.00). All are welcome to come sample our fare. Alternatively, why not try our guidelines and see what we're like? Send SAE or 2 IRCs outside the UK to [Ed. note 2005: Out-of-date info withheld.].
 
-For sale: Dragon Xmas stockings. Send a $10 money order to Lisa Brawner \[Ed. note 2005: Out-of-date info withheld.\]. Orders shipped next day after receiving it.
+For sale: Dragon Xmas stockings. Send a $10 money order to Lisa Brawner [Ed. note 2005: Out-of-date info withheld.]. Orders shipped next day after receiving it.
 
-California has one of the largest state memberships in QO! There are so many of us running around! Gather together with the California chapter, Golden Grove. We're getting Issue #4 ready. Part Two of the C.J. Cherryh interview will be included as well as wonderful poetry and artwork from members. We have plans for our first gathering next year! For more info, send SASE to Stephanie Anderson \[Ed. note 2005: Out-of-date info withheld.\].
+California has one of the largest state memberships in QO! There are so many of us running around! Gather together with the California chapter, Golden Grove. We're getting Issue #4 ready. Part Two of the C.J. Cherryh interview will be included as well as wonderful poetry and artwork from members. We have plans for our first gathering next year! For more info, send SASE to Stephanie Anderson [Ed. note 2005: Out-of-date info withheld.].
 
 "Helwyn, what happened to the rest of these stories?" demanded Herald Y'Larna Finnareth. Herald Helwyn frowned.
 
@@ -130,33 +128,33 @@ California has one of the largest state memberships in QO! There are so many of 
 
 Y'Larna was aghast. "But we can't sent people half-written stories! What are we going to do for the next issue?"
 
-Helwyn shrugged helplessly. Oh dear! Who can help our heroines? YOU CAN! Send an SAE or 2 IRCs for guidelines (and a copy of the story-starters!) to THE OUTKINGDOM CHRONICLES c/o Helen Wills \[Ed. note 2005: Out-of-date info withheld.\].
+Helwyn shrugged helplessly. Oh dear! Who can help our heroines? YOU CAN! Send an SAE or 2 IRCs for guidelines (and a copy of the story-starters!) to THE OUTKINGDOM CHRONICLES c/o Helen Wills [Ed. note 2005: Out-of-date info withheld.].
 
 "I am truly sorry, but BLACK PYRAMID, due to lack of submissions, no longer exists. Please no longer write to me (Sekhmet) in regard to the newsletter."--Sekhmet
 
-"Lynn Tucker's COMPANIONS' GROVE Vo1. 7 has been ready for print, but since Lynn Tucker is the publisher she will take care of the printing of it. I am now accepting submissions for Vol 8. I am taking fiction, poetry, and artwork that is set in Misty's Valdemar world. Please send SASE for guidelines to COMPANIONS' GROVE \[Ed. note 2005: Out-of-date info withheld.\]. I do not have info regarding back issues or even #7. Unfortunately, I have not heard from Lynn. Sorry for the inconvenience."--Stephanie Anderson
+"Lynn Tucker's COMPANIONS' GROVE Vo1. 7 has been ready for print, but since Lynn Tucker is the publisher she will take care of the printing of it. I am now accepting submissions for Vol 8. I am taking fiction, poetry, and artwork that is set in Misty's Valdemar world. Please send SASE for guidelines to COMPANIONS' GROVE [Ed. note 2005: Out-of-date info withheld.]. I do not have info regarding back issues or even #7. Unfortunately, I have not heard from Lynn. Sorry for the inconvenience."--Stephanie Anderson
 
-From Shadow Dancer, editor of NIGHT RUNES: NIGHT RUNES has its covers airbrushed and the 'zine is in full color. It has grown to 25 pages in length and will be carried on a regular basis in over twenty bookstores and fantasy gaming shops across the city of Winnipeg. Cost has risen to $4.50 Canadian per issue ($18 Canadian for a subscription) Money orders can be made out to NIGHT RUNES. The zinc is a tribute to the entire concept of fantasy with the sole purpose of promoting, exposing and spreading new ideas, authors and artists. I need more subscriptions and am looking for a couple of authors who would be interested in writing for me on a full time basis. A sample issue is due out by 15th December and the first issue is due out by January 15th. For guidelines or to order an issue, write to \[Ed. note 2005: Out-of-date info withheld.\].
+From Shadow Dancer, editor of NIGHT RUNES: NIGHT RUNES has its covers airbrushed and the 'zine is in full color. It has grown to 25 pages in length and will be carried on a regular basis in over twenty bookstores and fantasy gaming shops across the city of Winnipeg. Cost has risen to $4.50 Canadian per issue ($18 Canadian for a subscription) Money orders can be made out to NIGHT RUNES. The zinc is a tribute to the entire concept of fantasy with the sole purpose of promoting, exposing and spreading new ideas, authors and artists. I need more subscriptions and am looking for a couple of authors who would be interested in writing for me on a full time basis. A sample issue is due out by 15th December and the first issue is due out by January 15th. For guidelines or to order an issue, write to [Ed. note 2005: Out-of-date info withheld.].
 
-Tired of writing letters on dog-eared notebook paper? Be enchanted! Ellen Million Graphics has over 50 designs of beautiful and fanciful fantasy stationery cards, postcards and bookmarks. To join the mailing list, write to Ellen Million Graphics \[Ed. note 2005: Out-of-date info withheld.\]. 50%+ recycled paper products used. Christmas sale! All single design card packages $6.00, or the variety pack card package for $8.00. Now thru December 31.
+Tired of writing letters on dog-eared notebook paper? Be enchanted! Ellen Million Graphics has over 50 designs of beautiful and fanciful fantasy stationery cards, postcards and bookmarks. To join the mailing list, write to Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.]. 50%+ recycled paper products used. Christmas sale! All single design card packages $6.00, or the variety pack card package for $8.00. Now thru December 31.
 
-Join The National Fantasy Fan Federation (N3F) and get in touch with hundreds of members all around the globe. There are two bi-monthly zines that are the core of the club, but there are many bureaus inside the club where you can join round robins; write and critique stories; meet others with similar interests; the list goes on and on and on! Send an SASE for more info to \[Ed. note 2005: Out-of-date info withheld.\].
+Join The National Fantasy Fan Federation (N3F) and get in touch with hundreds of members all around the globe. There are two bi-monthly zines that are the core of the club, but there are many bureaus inside the club where you can join round robins; write and critique stories; meet others with similar interests; the list goes on and on and on! Send an SASE for more info to [Ed. note 2005: Out-of-date info withheld.].
 
-"Due to some people's abuse of my offer of a free sample of AUSTRAL'A'IN with no IRCs required, I've had to end it. Sad, but true. You can still send a SASE (in Australia) or 2 IRCs for a free sample copy of the latest issue, and you don't have to live in the Southern Hemisphere to contribute or subscribe. Issue Nine is out now and is full of book reviews, artwork, poetry, fanfiction, Anne McCaffrey's e-mail address (yes, it really is!) and heaps more! And to all those who took advantage of the free sample offer and haven't written back, please do!)"--Cassandra Vuksa \[Ed. note 2005: Out-of-date info withheld.\].
+"Due to some people's abuse of my offer of a free sample of AUSTRAL'A'IN with no IRCs required, I've had to end it. Sad, but true. You can still send a SASE (in Australia) or 2 IRCs for a free sample copy of the latest issue, and you don't have to live in the Southern Hemisphere to contribute or subscribe. Issue Nine is out now and is full of book reviews, artwork, poetry, fanfiction, Anne McCaffrey's e-mail address (yes, it really is!) and heaps more! And to all those who took advantage of the free sample offer and haven't written back, please do!)"--Cassandra Vuksa [Ed. note 2005: Out-of-date info withheld.].
 
-"Across the alien landscape she runs, her legs burning, her side aching. On her right wrist hangs a cuff the other open and dangling. She is the hunt, she must run on. Slowly she tires a problem her hunter does not have. She turns to see her pursuers. Her doom etched in that glance." Come find out what happens to this hunter turned prey. PHOENIX RISING has been delayed till January. Number 1 is almost done I'm still taking submissions for issue 1 and now issue 2. Send all artwork, submissions, questions, with a Self Addressed Stamped Envelope to PHOENIX RISING \[Ed. note 2005: Out-of-date info withheld.\].
+"Across the alien landscape she runs, her legs burning, her side aching. On her right wrist hangs a cuff the other open and dangling. She is the hunt, she must run on. Slowly she tires a problem her hunter does not have. She turns to see her pursuers. Her doom etched in that glance." Come find out what happens to this hunter turned prey. PHOENIX RISING has been delayed till January. Number 1 is almost done I'm still taking submissions for issue 1 and now issue 2. Send all artwork, submissions, questions, with a Self Addressed Stamped Envelope to PHOENIX RISING [Ed. note 2005: Out-of-date info withheld.].
 
-THE UNICORN VALE, a new multi genre zine is due out in December and is still accepting submissions of stories, art, and poetry. If you love fantasy but are insatiably drawn to horror and science fiction, then this is the zinc for you. Midst our pages you will not only find the elusive vampire and sultry wers but the delightful unicorn as well. For submission requirements send a SASE. Zines are priced at $3 each (plus $1.00 postage in US, $2.00 Canada, $3.00 overseas) Checks must be made out to \[Ed. note 2005: Out-of-date info withheld.\]. Come and dance with us in the Vale.
+THE UNICORN VALE, a new multi genre zine is due out in December and is still accepting submissions of stories, art, and poetry. If you love fantasy but are insatiably drawn to horror and science fiction, then this is the zinc for you. Midst our pages you will not only find the elusive vampire and sultry wers but the delightful unicorn as well. For submission requirements send a SASE. Zines are priced at $3 each (plus $1.00 postage in US, $2.00 Canada, $3.00 overseas) Checks must be made out to [Ed. note 2005: Out-of-date info withheld.]. Come and dance with us in the Vale.
 
-SHIN'A'IN!!! Come join your fellow clansmen with *Under Kal'enel's Care*. The bi-monthly newsletters are aimed specifically at the Shin'a'in and are full of bios on personas, what's new with personas, articles, interviews, poems, artwork, and merchandise addresses. Dues are 15 stamps per yea-r,-for, a sample newsletter send SASE to \[Ed. note 2005: Out-of-date info withheld.\].
+SHIN'A'IN!!! Come join your fellow clansmen with *Under Kal'enel's Care*. The bi-monthly newsletters are aimed specifically at the Shin'a'in and are full of bios on personas, what's new with personas, articles, interviews, poems, artwork, and merchandise addresses. Dues are 15 stamps per yea-r,-for, a sample newsletter send SASE to [Ed. note 2005: Out-of-date info withheld.].
 
-Across the plains winds and Shin'a'in words run free. Voices rise with the sun and moon, strong and true, to all who will listen. Past meets present calling to the future, mingling with their hearts beating ardent with time. Be welcome into our circle and share in our rich heritage. Kathal Kestra meet with us as you take up our written word of song, story, ceremony, and life: LEGENDS AND MYTHS OF THE SHIN'A'IN is a compilation of stories, poems, and the like dedicated to the Shin'a'in people. Within the 50+ pages active fandom writers such as Elizabeth Barrette and Herald Alora (to name a couple) will entice you in this marvelous land and culture. Be a part of the Shin'a'in legend and get your copy for only $3.75 (copy prices went up.) Please make check or money order out to Stephanie Anderson \[Ed. note 2005: Out-of-date info withheld.\].
+Across the plains winds and Shin'a'in words run free. Voices rise with the sun and moon, strong and true, to all who will listen. Past meets present calling to the future, mingling with their hearts beating ardent with time. Be welcome into our circle and share in our rich heritage. Kathal Kestra meet with us as you take up our written word of song, story, ceremony, and life: LEGENDS AND MYTHS OF THE SHIN'A'IN is a compilation of stories, poems, and the like dedicated to the Shin'a'in people. Within the 50+ pages active fandom writers such as Elizabeth Barrette and Herald Alora (to name a couple) will entice you in this marvelous land and culture. Be a part of the Shin'a'in legend and get your copy for only $3.75 (copy prices went up.) Please make check or money order out to Stephanie Anderson [Ed. note 2005: Out-of-date info withheld.].
 
-Children of the Ancient Way is an organization dedicated to the preservation and protection of the Earth and all her creatures. For more information, send a long double-stamped self-addressed envelope to Children of the Ancient Way \[Ed. note 2005: Out-of-date info withheld.\].
+Children of the Ancient Way is an organization dedicated to the preservation and protection of the Earth and all her creatures. For more information, send a long double-stamped self-addressed envelope to Children of the Ancient Way [Ed. note 2005: Out-of-date info withheld.].
 
-Stamps For Life: Be part of the ultimate recycling project. Your old/used postage stamps can be used to save children's lives. A nurse in the Manchester Children's Hospital in England says that any old or used postage stamps (no matter where they are from) can be redeemed to buy equipment and medication for the children in the Cancer Ward. The clinic was recently able to purchase a machine that dispenses medicine in special dosages just with monies from the stamp program. If you wish to help, just save up your used postage stamps and mail them to White Deer \[Ed. note 2005: Out-of-date info withheld.\]. White Deer will send them on to the Manchester Children's Hospital. Won't you help?
+Stamps For Life: Be part of the ultimate recycling project. Your old/used postage stamps can be used to save children's lives. A nurse in the Manchester Children's Hospital in England says that any old or used postage stamps (no matter where they are from) can be redeemed to buy equipment and medication for the children in the Cancer Ward. The clinic was recently able to purchase a machine that dispenses medicine in special dosages just with monies from the stamp program. If you wish to help, just save up your used postage stamps and mail them to White Deer [Ed. note 2005: Out-of-date info withheld.]. White Deer will send them on to the Manchester Children's Hospital. Won't you help?
 
-PEACEMAIL is a good news letter from the Grafton Center for Peace. The latest issue has poetry, articles, a recipe for Chocolate Rapture, and more. For a sample issue, send a SASE to Tasha Halpert \[Ed. note 2005: Out-of-date info withheld.\].
+PEACEMAIL is a good news letter from the Grafton Center for Peace. The latest issue has poetry, articles, a recipe for Chocolate Rapture, and more. For a sample issue, send a SASE to Tasha Halpert [Ed. note 2005: Out-of-date info withheld.].
 
 ## COLLEGIUM NEWS:
 
@@ -180,23 +178,21 @@ Expected mailing dates for the next few newsletters in 1997 are 1/11, 2/22, 4/5,
 
 ## FAN MESSAGES:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
 ## PERSONALS:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
-Queen's Own \[Ed. note 2005: Out-of-date content withheld.\], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at \[Ed. note 2005: Out-of-date content withheld.\] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay \[Ed. note 2005: Out-of-date content withheld.\] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: \[Ed. note 2005: Out-of-date content withheld.\]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Deadline for next newsletter contributions: January 1--earlier is better.\
-Next Mailing Day: January 11, 1997--Call \[Ed. note 2005: Out-of-date info withheld.\] for directions. Always call before coming, family emergencies can cancel mailings.
+Deadline for next newsletter contributions: January 1--earlier is better. Next Mailing Day: January 11, 1997--Call [Ed. note 2005: Out-of-date info withheld.] for directions. Always call before coming, family emergencies can cancel mailings.
 
-Editor, President, Dogsbody, Housemother - Judith Louvis \[Ed. note 2005: Out-of-date content withheld.\] (Call only before 10 pm and let it ring.)\
-Mailing Day Helper (last issue)--Steve Louvis.
+Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Mailing Day Helper (last issue)--Steve Louvis.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -208,10 +204,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

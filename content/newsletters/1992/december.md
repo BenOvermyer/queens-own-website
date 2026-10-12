@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. VI, No. 3\
-December 1992
+## Series 1, Vol. VI, No. 3 December 1992
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -76,9 +74,9 @@ You can't hide from Mundania, folks, and Misty and Larry MUST be business-wise i
 
 The awards ceremony for the Science Fiction Book of the Year was held October 29th. Javanne Kramer shares with us Larry's report on GEnie:
 
-"Tonight I accepted the SF Book Club Book of the Year award on behalf of Andre Norton; for the acceptance speech I simply quoted the dedication of the book: \`To the fans, Past, Present, and Future.' Misty accepted the award on behalf of herself. "It was delightful, really; the awards were at the Four Seasons. Afterwards we went to the Russian Tea Room for good food & hedonism . . . "(an' we've got the *prettiest* crystal award..for it! It's about 10" tall, in the shape of a hardcover book, with the *ELVENBANE* logo etched into it. What fun we'll have with *ELVENBLOOD*!)
+"Tonight I accepted the SF Book Club Book of the Year award on behalf of Andre Norton; for the acceptance speech I simply quoted the dedication of the book: &#96;To the fans, Past, Present, and Future.' Misty accepted the award on behalf of herself. "It was delightful, really; the awards were at the Four Seasons. Afterwards we went to the Russian Tea Room for good food & hedonism . . . "(an' we've got the *prettiest* crystal award..for it! It's about 10" tall, in the shape of a hardcover book, with the *ELVENBANE* logo etched into it. What fun we'll have with *ELVENBLOOD*!)
 
-"By the way, if anyone's interested in an *ILLUSTRATED EDITION OF ELVENBANE*, write to TOR immediately! We had a very interesting conversation on the subject while in NYC . . . \< smiiiile >
+"By the way, if anyone's interested in an *ILLUSTRATED EDITION OF ELVENBANE*, write to TOR immediately! We had a very interesting conversation on the subject while in NYC . . . &lt; smiiiile >
 
 "Oh..anyone interested in an illustrated guide to Alanda, the Bardic Voices world? Write to Baen Books."--Larry, The Feather'd Illustrator
 
@@ -86,35 +84,35 @@ Watch for Misty's *Sacred Ground*, a "dark fantasy mainstream crossover novel", 
 
 Many of you lucky folks have already read *Wing Commander: Freedom Flight*, written by Misty and Ellen Guon. (It's finally available here.) The release date for *When the Bough Breaks*, written with Holly Lisle, has been changed to February. After that, look for *Fortress of Frost and Fire: Bard's Tale 2* in April.
 
-You can send holiday greetings to Misty and Larry at their business address: HIGHFLIGHT \[Ed. note 2004: Out-of-date info. withheld.\]. Letters and cards can always be sent directly to the Highflight address rather than asking DAW or me to forward them. (You can write to any author in care of his/her publisher. Mail is forwarded.)
+You can send holiday greetings to Misty and Larry at their business address: HIGHFLIGHT [Ed. note 2004: Out-of-date info. withheld.]. Letters and cards can always be sent directly to the Highflight address rather than asking DAW or me to forward them. (You can write to any author in care of his/her publisher. Mail is forwarded.)
 
-Write to Firebird Arts & Music \[Ed. note 2004: Out-of-date info. withheld.\] for ordering information on Larry's interior illustrations in *Winds of Change* and any of Misty's books. Firebird carries all of Misty's books and tapes and many other treasures. Send a #10 SASE with 52 cents worth of stamps for a copy of their new catalog. (If you have ordered from Firebird within the past two years you are on their mailing list and should be receiving a catalog soon.) You can place an order with Firebird by calling \[Ed. note 2004: Out-of-date info. withheld.\]. If you get the answering machine, leave your complete name and address and/or phone number! For sale now is the Jody Lee cover print of *Winds of Fate*, as well as the cover prints of *Oathbound*, *Oathbreakers*, and all three *Magic* books. The Concordance for the *Arrows* books will be available within a month or two; Juanita and Buck Coulson will soon finish the *Herald-Mage Concordance*, too. The *Shadowstalker* tape is a "work in progress" with a Winter release date.
+Write to Firebird Arts & Music [Ed. note 2004: Out-of-date info. withheld.] for ordering information on Larry's interior illustrations in *Winds of Change* and any of Misty's books. Firebird carries all of Misty's books and tapes and many other treasures. Send a #10 SASE with 52 cents worth of stamps for a copy of their new catalog. (If you have ordered from Firebird within the past two years you are on their mailing list and should be receiving a catalog soon.) You can place an order with Firebird by calling [Ed. note 2004: Out-of-date info. withheld.]. If you get the answering machine, leave your complete name and address and/or phone number! For sale now is the Jody Lee cover print of *Winds of Fate*, as well as the cover prints of *Oathbound*, *Oathbreakers*, and all three *Magic* books. The Concordance for the *Arrows* books will be available within a month or two; Juanita and Buck Coulson will soon finish the *Herald-Mage Concordance*, too. The *Shadowstalker* tape is a "work in progress" with a Winter release date.
 
-If you are a SFBC (Science Fiction Book Club) member and would like to see them offer even more of Misty's books, write to them at \[Ed. note 2004: Out-of-date info. withheld.\]. If you would like a membership form so you can join SFBC, send me a SASE. The current offer is six books for $1 plus shipping and handling, and the obligation to buy 4 more books within 2 years.
+If you are a SFBC (Science Fiction Book Club) member and would like to see them offer even more of Misty's books, write to them at [Ed. note 2004: Out-of-date info. withheld.]. If you would like a membership form so you can join SFBC, send me a SASE. The current offer is six books for $1 plus shipping and handling, and the obligation to buy 4 more books within 2 years.
 
 ## CONVENTION NEWS:
 
 SEND A SASE WHEN WRITING FOR INFORMATION ON A CON! SEND A SASE WHEN WRITING FOR INFORMATION FROM ANYONE IN FANDOM! Convention committees (and editors, and fan clubs) are under no obligation to answer mail that does not include a Self Addressed Stamped Envelope!
 
-I hope you like to plan ahead. We're going to have a "Misty-Con" sometime in August of 1994 in Nashville, Tennessee. The con, called High Flight One, is being organized by the Misty fans on GEnie. Misty and Larry will be Guests of Honor, and Ellen Guon and Josepha Sherman plan to attend. The GEnie group invites you all to think of this as your convention; this is the first official QO con. We need your help to make it work. Buy a presupporting membership now for just $5; reserve a dealer's table for just a $10 deposit Ideas for programming are welcome. Send your financial and moral support, and your ideas, to \[Ed. note 2004: Out-of-date info. withheld.\].
+I hope you like to plan ahead. We're going to have a "Misty-Con" sometime in August of 1994 in Nashville, Tennessee. The con, called High Flight One, is being organized by the Misty fans on GEnie. Misty and Larry will be Guests of Honor, and Ellen Guon and Josepha Sherman plan to attend. The GEnie group invites you all to think of this as your convention; this is the first official QO con. We need your help to make it work. Buy a presupporting membership now for just $5; reserve a dealer's table for just a $10 deposit Ideas for programming are welcome. Send your financial and moral support, and your ideas, to [Ed. note 2004: Out-of-date info. withheld.].
 
 Misty and Larry are making very few con appearances next year but here is info on cons where you'll find other Misty fans:
 
-**BamaCon 7** is sponsored by the University of Alabama's Fantasy Game Club and will be held March 18-21 at the Sheraton Capstone Inn and the Bryant Conference Center. The special guest is Jonathan Frakes of ST:TNG. For more info, write to QO member Coy Stout \[Ed. note 2004: Out-of-date info. withheld.\].
+**BamaCon 7** is sponsored by the University of Alabama's Fantasy Game Club and will be held March 18-21 at the Sheraton Capstone Inn and the Bryant Conference Center. The special guest is Jonathan Frakes of ST:TNG. For more info, write to QO member Coy Stout [Ed. note 2004: Out-of-date info. withheld.].
 
-**CrackerCon 2** is also March 19-21, in Jacksonville, Florida. Guest of Honor is Ben Bova, Artist Guest of Honor is Jeff Adams. Misty and Larry and I had a great time at last year's CrackerCon; these are friendly- hospitable people. Send a SASE to CrackerCon \[Ed. note 2004: Out-of-date info. withheld.\] for registration info.
+**CrackerCon 2** is also March 19-21, in Jacksonville, Florida. Guest of Honor is Ben Bova, Artist Guest of Honor is Jeff Adams. Misty and Larry and I had a great time at last year's CrackerCon; these are friendly- hospitable people. Send a SASE to CrackerCon [Ed. note 2004: Out-of-date info. withheld.] for registration info.
 
-**Magic Carpet Con I** offers a rare chance to meet Andre Norton next May 7-9 in Dalton, Georgia. Memberships are only $18 if you buy before 12/31/92. Send a SASE to QO member Betty J. Law \[Ed. note 2004: Out-of-date info. withheld.\] for registration information.
+**Magic Carpet Con I** offers a rare chance to meet Andre Norton next May 7-9 in Dalton, Georgia. Memberships are only $18 if you buy before 12/31/92. Send a SASE to QO member Betty J. Law [Ed. note 2004: Out-of-date info. withheld.] for registration information.
 
-**Alternate Realities VI** is being held at the Tate Student Center at the University of Georgia January 15 & 16. This is a gaming con but the committee is attempting to expand their program to include other interests. If you are interested in leading a panel on Misty fandom, editing a zine, filk, or some other aspect of SF/F fandom, write to Christopher D. Weinman \[Ed. note 2004: Out-of-date info. withheld.\].
+**Alternate Realities VI** is being held at the Tate Student Center at the University of Georgia January 15 & 16. This is a gaming con but the committee is attempting to expand their program to include other interests. If you are interested in leading a panel on Misty fandom, editing a zine, filk, or some other aspect of SF/F fandom, write to Christopher D. Weinman [Ed. note 2004: Out-of-date info. withheld.].
 
-**Tess Wade** of TMR Enterprises is offering *The Valdemar Fashion Books*. The first book, in packet form, will be available after December 15th. It consists of 36 pages of black & white fashion drawings, scale patterns, sewing and materials information, and a color picture of Misty in garb, as well as information on Valdemar and its people. For more information and pricing, send a SASE to TMR Enterprises \[Ed. note 2004: Out-of-date info. withheld.\].
+**Tess Wade** of TMR Enterprises is offering *The Valdemar Fashion Books*. The first book, in packet form, will be available after December 15th. It consists of 36 pages of black & white fashion drawings, scale patterns, sewing and materials information, and a color picture of Misty in garb, as well as information on Valdemar and its people. For more information and pricing, send a SASE to TMR Enterprises [Ed. note 2004: Out-of-date info. withheld.].
 
-**Jody Lee**'s latest cover print, Winds of Fate, is magnificent! QO members may purchase it directly from her for only $30 plus $3.00 shipping and handling. Send your orders to Jody A. Lee Illustration \[Ed. note 2004: Out-of-date info. withheld.\]. Be sure to identify yourself as a QO member to get the special price.
+**Jody Lee**'s latest cover print, Winds of Fate, is magnificent! QO members may purchase it directly from her for only $30 plus $3.00 shipping and handling. Send your orders to Jody A. Lee Illustration [Ed. note 2004: Out-of-date info. withheld.]. Be sure to identify yourself as a QO member to get the special price.
 
 ## COLLEGIUM NEWS:
 
-We have handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. \[Ed. note 2004: Out-of-date info. withheld. The handouts are now online at [/persona-handouts/](/persona-handouts/).\] and specify which handout you are requesting. Ask for a release form too if you expect to write a story. \[Ed. note 2004: The release is available online at [/release-form-instructions/](/release-form-instructions/).\] If you have completed Herald-Mage requirements, \[Ed. note 2004: Out-of-date info. withheld.\].
+We have handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. [Ed. note 2004: Out-of-date info. withheld. The handouts are now online at [/persona-handouts/](/persona-handouts/).] and specify which handout you are requesting. Ask for a release form too if you expect to write a story. [Ed. note 2004: The release is available online at [/release-form-instructions/](/release-form-instructions/).] If you have completed Herald-Mage requirements, [Ed. note 2004: Out-of-date info. withheld.].
 
 - Welcome, **Herald Rian Waridel**, Chosen by Cirah and gifted with Fetching and Animal Mindspeech. *Alex Diamond* sent the history of Rian and his family, four drawings, and a story.
 - Welcome, **Herald Arete Manixus**, Chosen by Mense and gifted with strong Mindspeech, Fetching, and very slight Foreseeing. *Debra Stansburv* sent character information on Arete and friends, a story, the family tree of Valdemar monarchy, a Herald/Companion list, and seven drawings.
@@ -138,50 +136,47 @@ I wish you good health, good friends, good books, and time to enjoy them all. Ha
 
 ## MEMBER NEWS:
 
-**From Stephanie Wong:** "A mage has wrecked havok in the village of Rocky Ford. Herald Marlys Tatena'sa N'toka'he must follow him to the Forest of Sorrows, and defeat him before his destruction becomes too great . . . Heynna is a wyvern hunter, traveling through the Pelagirs to deal with the wyvern who come into conflict with humans. She's been called to the village of Magorge to relocate a wyvern, only this one is more difficult than usual . . . DISCOVER WHAT HAPPENS IN *ARROW'S MESSAGE* Vo1.3 #3, now on sale. Subscriptions are US $4/iss (40 pgs) or $15/yr (quarterly); Canada $4.50/iss or $17/yr; overseas $8/iss or $30 yr. If paying by check or m.o., make them payable to \[Ed. note 2004: Out-of-date info. withheld.\]."
+**From Stephanie Wong:** "A mage has wrecked havok in the village of Rocky Ford. Herald Marlys Tatena'sa N'toka'he must follow him to the Forest of Sorrows, and defeat him before his destruction becomes too great . . . Heynna is a wyvern hunter, traveling through the Pelagirs to deal with the wyvern who come into conflict with humans. She's been called to the village of Magorge to relocate a wyvern, only this one is more difficult than usual . . . DISCOVER WHAT HAPPENS IN *ARROW'S MESSAGE* Vo1.3 #3, now on sale. Subscriptions are US $4/iss (40 pgs) or $15/yr (quarterly); Canada $4.50/iss or $17/yr; overseas $8/iss or $30 yr. If paying by check or m.o., make them payable to [Ed. note 2004: Out-of-date info. withheld.]."
 
-**From Lavina Cheung** \[Ed. note 2004: Out-of-date info. withheld.\] re a local chapter for the VA/MD/DC area. "No, we (now I) still haven't come up with a name. Also the newsletter may end up costing nothing (maybe just postage, more later). But I'd like to tally up how many copies I'll need to produce. Please drop me a postcard or call me if you would like to be part of this. \[Ed. note 2004: Out-of-date info. withheld.\]between 4:30 and 10:30 on weekdays; ask for Vina."
+**From Lavina Cheung** [Ed. note 2004: Out-of-date info. withheld.] re a local chapter for the VA/MD/DC area. "No, we (now I) still haven't come up with a name. Also the newsletter may end up costing nothing (maybe just postage, more later). But I'd like to tally up how many copies I'll need to produce. Please drop me a postcard or call me if you would like to be part of this. [Ed. note 2004: Out-of-date info. withheld.]between 4:30 and 10:30 on weekdays; ask for Vina."
 
-Treat your persona for Christmas. Identity cards, approved by Misty, Larry, and Judith ...For your Heralds, Healers, Bards, Shin'a'in and White Wind sorcerers, Each card is $2.00 (cash only, cannot accept stamps) including post and package. Order from Wendy Sparkes \[Ed. note 2004: Out-of-date info. withheld.\]. Please remember to state which card you require and all details if you wish me to fill it in.
+Treat your persona for Christmas. Identity cards, approved by Misty, Larry, and Judith ...For your Heralds, Healers, Bards, Shin'a'in and White Wind sorcerers, Each card is $2.00 (cash only, cannot accept stamps) including post and package. Order from Wendy Sparkes [Ed. note 2004: Out-of-date info. withheld.]. Please remember to state which card you require and all details if you wish me to fill it in.
 
-**From Molly Walls to all Haven Sent (Texas QO) members:** "Sorry about the delay but the Kingdom of Mundania tried to stage a hostile takeover of my life! However, I've won the war and things will soon be bark on track. And to all who've not yet joined, what are you waiting for? Send a SASE, or $4 to Molly Walls\[Ed. note 2004: Out-of-date info. withheld.\]."
+**From Molly Walls to all Haven Sent (Texas QO) members:** "Sorry about the delay but the Kingdom of Mundania tried to stage a hostile takeover of my life! However, I've won the war and things will soon be bark on track. And to all who've not yet joined, what are you waiting for? Send a SASE, or $4 to Molly Walls[Ed. note 2004: Out-of-date info. withheld.]."
 
-**From Vicki McElfresh:** "Volume 2 Issue 1 of *Companion's Rest* should be ready by January 15th. I'll accept submissions until January 1; I need stories, poems, articles, and art. Back issues of the zine are still available for $1 and issue 6 for $2. The latest issue will be $4 or $12 for a year's subscription. Please note new address for ordering or guidelines: Vicki McElfresh \[Ed. note 2004: Out-of-date info. withheld.\]."
+**From Vicki McElfresh:** "Volume 2 Issue 1 of *Companion's Rest* should be ready by January 15th. I'll accept submissions until January 1; I need stories, poems, articles, and art. Back issues of the zine are still available for $1 and issue 6 for $2. The latest issue will be $4 or $12 for a year's subscription. Please note new address for ordering or guidelines: Vicki McElfresh [Ed. note 2004: Out-of-date info. withheld.]."
 
-**From Jenilyn Smith:** *Tales-Men* is done and ready for January mailing. Come to the grove where the old storyteller tells of Sorceress and Swordswomen, Heralds, and more, with columnists to answer your questions. Sit beside me, listen, and enjoy. Send $4 to Jenilyn Smith\[Ed. note 2004: Out-of-date info. withheld.\].
+**From Jenilyn Smith:** *Tales-Men* is done and ready for January mailing. Come to the grove where the old storyteller tells of Sorceress and Swordswomen, Heralds, and more, with columnists to answer your questions. Sit beside me, listen, and enjoy. Send $4 to Jenilyn Smith[Ed. note 2004: Out-of-date info. withheld.].
 
-Anyone interested in becoming a part of *The Dragon's Fang*, a Robert Jordan *Wheel of Time* fan club, please send a SASE to Anna Clower \[Ed. note 2004: Out-of-date info. withheld.\].
+Anyone interested in becoming a part of *The Dragon's Fang*, a Robert Jordan *Wheel of Time* fan club, please send a SASE to Anna Clower [Ed. note 2004: Out-of-date info. withheld.].
 
-**From Jennifer Wilson:** *Night Songs*, a new zine dealing with the fantastical and mystical, needs your aid. Because of a lack of contributions, the release of issue #1 has been changed to mid-January. Deadline for submissions is December 31. *Night Songs* will be a quarterly, with each issue 30-40 pages and $4-$5. All who are interested, send your SASE to Jenna \[Ed. note 2004: Out-of-date info. withheld.\]. Help a couple o' Heralds be recognized--contribute today.
+**From Jennifer Wilson:** *Night Songs*, a new zine dealing with the fantastical and mystical, needs your aid. Because of a lack of contributions, the release of issue #1 has been changed to mid-January. Deadline for submissions is December 31. *Night Songs* will be a quarterly, with each issue 30-40 pages and $4-$5. All who are interested, send your SASE to Jenna [Ed. note 2004: Out-of-date info. withheld.]. Help a couple o' Heralds be recognized--contribute today.
 
 ## MENTOR NEWS:
 
-Anyone want help, suggestions, or just to "talk shop" about designing various things in and around Fantasy and Sci-Fi? Need some help on Heraldry? Got a design for a spaceship but don't know where to put the crew's quarters? How about some interesting stationery? I'll help, advise, or create if I can, what you ask. Write to Rod Landreth \[Ed. note 2004: Out-of-date info. withheld.\]. I run on SASE power so be sure to send one.
+Anyone want help, suggestions, or just to "talk shop" about designing various things in and around Fantasy and Sci-Fi? Need some help on Heraldry? Got a design for a spaceship but don't know where to put the crew's quarters? How about some interesting stationery? I'll help, advise, or create if I can, what you ask. Write to Rod Landreth [Ed. note 2004: Out-of-date info. withheld.]. I run on SASE power so be sure to send one.
 
-Patience Sibeal \[Ed. note 2004: Out-of-date info. withheld.\] has general guidelines for folks who want to contribute to zines or become a zinc editor. For the new and improved mentor-letter, send Sibby a long SASE with 52 cents postage. Also, she needs "some brave Americans and Canadians who are, willing to answer a brief poll." Send a SASE and she will quickly send the questions. She adds "It's really important and I hope some people can help me out." If you'd like a 12 page list of zines from other fandoms, send her $1.00 and remember to include your address!
+Patience Sibeal [Ed. note 2004: Out-of-date info. withheld.] has general guidelines for folks who want to contribute to zines or become a zinc editor. For the new and improved mentor-letter, send Sibby a long SASE with 52 cents postage. Also, she needs "some brave Americans and Canadians who are, willing to answer a brief poll." Send a SASE and she will quickly send the questions. She adds "It's really important and I hope some people can help me out." If you'd like a 12 page list of zines from other fandoms, send her $1.00 and remember to include your address!
 
-Do you sneak into the library, wander aimlessly through the shelves, not find what you want; and leave without asking for help? No, this isn't a librariophobic support group, it's an offer for reference help. Ask me your questions, and I will do my best to find your answers. Please enclose a legal-sized SASE with your question and send to Jennifer Waterford \[Ed. note 2004: Out-of-date info. withheld.\].
+Do you sneak into the library, wander aimlessly through the shelves, not find what you want; and leave without asking for help? No, this isn't a librariophobic support group, it's an offer for reference help. Ask me your questions, and I will do my best to find your answers. Please enclose a legal-sized SASE with your question and send to Jennifer Waterford [Ed. note 2004: Out-of-date info. withheld.].
 
-Heyla from Pern Mentor Hannah Blair \[Ed. note 2004: Out-of-date info. withheld.\]! Being Pern Mentor is going rather well, aside from the few letters that disappeared into the great beyond. If I haven't written you, my sincere apologies, and please try again. I'm trying to be infallible and it's not working. Kris Porter - have I written you? Your letter is here but I can't remember if I answered it. Thanks much to all who sent Weyr addresses and/or SASEs along with your queries:
+Heyla from Pern Mentor Hannah Blair [Ed. note 2004: Out-of-date info. withheld.]! Being Pern Mentor is going rather well, aside from the few letters that disappeared into the great beyond. If I haven't written you, my sincere apologies, and please try again. I'm trying to be infallible and it's not working. Kris Porter - have I written you? Your letter is here but I can't remember if I answered it. Thanks much to all who sent Weyr addresses and/or SASEs along with your queries:
 
 ## FAN MESSAGES:
 
-\[Ed. note 2004: Content withheld.\]
+[Ed. note 2004: Content withheld.]
 
-Queen's Own \[Ed. note 2004: Out-of-date content withheld.\], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at \[Ed. note 2004: Out-of-date content withheld.\] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. Y ou may pay \[Ed. note 2004: Out-of-date content withheld.\] if you wish. The $8 fee covers the cost of printing and mailing; I have no -objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+Queen's Own [Ed. note 2004: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2004: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. Y ou may pay [Ed. note 2004: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no -objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: \[Ed. note 2004: Out-of-date content withheld.\]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2004: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Next Mailing Day: January 9; call \[Ed. note 2004: Out-of-date content withheld.\] for directions.
+Next Mailing Day: January 9; call [Ed. note 2004: Out-of-date content withheld.] for directions.
 
-Editor, President, Dogsbody, Housemother - Judith Louvis \[Ed. note 2004: Out-of-date content withheld.\] (Call only before 10 pm and let it ring.)\
-Archivist and Organizer extraordinaire - Patricia Riggs, \[Ed. note 2004: Out-of-date content withheld.\]\
-Herald-Mage Registrar - Guardian of the Web, \[Ed. note 2004: Out-of-date content withheld.\] (Send proof of completed I-Ierald-Mage criteria directly to the Web address, not to NJ.)\
-Mailing Day Helpers (last issue) - Barbara Leflar Jackson, Cheri Lombardi.
+Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2004: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Archivist and Organizer extraordinaire - Patricia Riggs, [Ed. note 2004: Out-of-date content withheld.] Herald-Mage Registrar - Guardian of the Web, [Ed. note 2004: Out-of-date content withheld.] (Send proof of completed I-Ierald-Mage criteria directly to the Web address, not to NJ.) Mailing Day Helpers (last issue) - Barbara Leflar Jackson, Cheri Lombardi.
 
 A proverb from Brenna Farmer: If wsshes were horses, the Shin'a'in would be out of business and the Heralds would have to direct traffic!
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -193,10 +188,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

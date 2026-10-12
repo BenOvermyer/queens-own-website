@@ -27,7 +27,7 @@ Named for the tavern that served as the favorite gathering place for the Blues a
 
 All issues of this journal are offered to Internet users free of charge under the following conditions: Internet users may maintain one electronic copy and one print copy of the file for use by members of the user's household. Permission to otherwise duplicate or "lend" any of these files without the credited author's written consent is expressly denied.
 
-Frequency of publication is "when we get enough material to put together and issue" \<g>. Watch the Queen's Own [newsletter](/newsletter-guidance/) for release dates. [Issue 1](/compass-rose/summer-2000/) is now online!
+Frequency of publication is "when we get enough material to put together and issue" &lt;g>. Watch the Queen's Own [newsletter](/newsletter-guidance/) for release dates. [Issue 1](/compass-rose/summer-2000/) is now online!
 
 E-mail questions regarding the journal to the editor, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com).
 

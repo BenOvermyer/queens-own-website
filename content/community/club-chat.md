@@ -33,11 +33,11 @@ Members of Queen's Own are invited to join this listserv to receive information 
 
 If you are a [member](/persona-directory/) of Queen's Own, you may subscribe to this chat list at:
 
-\[This list is not currently working. We hope to reestablish it soon.\]
+[This list is not currently working. We hope to reestablish it soon.]
 
 If you are a list member, you may send e-mail to the mailinglist at:
 
-\[This list is not currently working. We hope to reestablish it soon.\]
+[This list is not currently working. We hope to reestablish it soon.]
 
 Note: Please keep your e-mail address up-to-date. If your mail bounces, your subscription will be disabled, and you will have to resubscribe. (Our server doesn't like bounced mail.)
 
@@ -49,9 +49,9 @@ If you are a nonmember, you must first create an approved persona by following t
 
 Nonmembers may join the "Pending List" at
 
-\[This list is not currently working. We hope to reestablish it soon.\]
+[This list is not currently working. We hope to reestablish it soon.]
 
-Only subscribers may post to this list. If you are a subscriber and wish to post a message, send your message to \[This list is not currently working. We hope to reestablish it soon. In the meantime, you can send questions directly to Danya at [Legend@malcor.com](mailto:Legend@malcor.com).\].
+Only subscribers may post to this list. If you are a subscriber and wish to post a message, send your message to [This list is not currently working. We hope to reestablish it soon. In the meantime, you can send questions directly to Danya at [Legend@malcor.com](mailto:Legend@malcor.com).].
 
 <a id="tracking"></a>
 
@@ -191,7 +191,7 @@ Bio, Family/Friends, Extra Points</th>
 
 If you have submitted a persona and do not see your persona's name on this list, please contact Herald-Mage Adept Danya Winterborn at [Legend@malcor.com](mailto:Legend@malcor.com?subject=Personaapproval).
 
-Please note, that if your e-mail address is not working, then we have no way to contact you (so that's probably why you have not heard from us \<g>).
+Please note, that if your e-mail address is not working, then we have no way to contact you (so that's probably why you have not heard from us &lt;g>).
 
 We will wait for a year for a rewrite. After a year, we will assume that life has interfered with your ability to complete your persona submission, and the unapproved persona submission will be moved to "deep storage". To reactivate your submission, all you need to do is contact us at [Legend@malcor.com](mailto:Legend@malcor.com?subject=Personarevival). Your persona will be returned to this list, and the submission process will continue from wherever we left off.
 

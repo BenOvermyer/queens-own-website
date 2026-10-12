@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 2, No. 11\
-November 1, 2001
+## Series 3, Vol. 2, No. 11 November 1, 2001
 
 <img alt="Zyryk by L.A. Malcor" class="border-3" loading="lazy" src="/zyryk.jpg"/>
 
@@ -62,11 +60,7 @@ Volunteers were bereaved about the tragedy. It was almost incomprehensible. From
 
 The second goal of Peace Corps is to share American culture with the host countries. The third goal is to bring parts of the host countries to America. The easiest part of being a Peace Corps Volunteer is going to a new country and sharing skills and knowledge. The hardest part, in this situation, is to show people what the common person feels. The new task of all the evacuated volunteers is to fight the inevitable prejudice and hard heartedness. Nevertheless, this is our new assignment, and this letter is my first step along that path.
 
-Sincerely,\
-Herald Belprin\
-Shandy P. Smith\
-RPCV\
-[spsmith@wt.net](mailto:spsmith@wt.net)
+Sincerely, Herald Belprin Shandy P. Smith RPCV [spsmith@wt.net](mailto:spsmith@wt.net)
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -148,7 +142,7 @@ CONJURATION'S-THE 1ST. LEVEL. E-mail: [tiamack@yahoo.com](mailto:tiamack@yahoo.c
 
 CHAMBANACON 31. E-mail: [turkey@chambanacon.org](mailto:turkey@chambanacon.org). Website: [http://www.chambanacon.org/](http://www.chambanacon.org/). Location: Springfield Hilton, 700 E. Adams. Dates: 11/23/01 - 11/25/01.
 
-CHICAGOLAND GAMER'S CONCLAVE: V3.0. E-mail: [krag\_shot\_001@hotmail.com](mailto:krag_shot_001@hotmail.com). Website: [http://www.chicagogamecon.org/](http://www.chicagogamecon.org/). Location: Indian Lakes Resort, Bloomingdale. Dates: 11/23/01 - 11/25/01.
+CHICAGOLAND GAMER'S CONCLAVE: V3.0. E-mail: [krag_shot_001@hotmail.com](mailto:krag_shot_001@hotmail.com). Website: [http://www.chicagogamecon.org/](http://www.chicagogamecon.org/). Location: Indian Lakes Resort, Bloomingdale. Dates: 11/23/01 - 11/25/01.
 
 GRIZ CON. E-mail: [rgiesey1@aol.com](mailto:rgiesey1@aol.com). Website: [http://user.aol.com/littlewars/griz.htm](http://user.aol.com/littlewars/griz.htm). Location: Crystal Lake Park District and administrative Office. Dates: 11/10/01.
 
@@ -176,7 +170,7 @@ SUGOI CON 2001. E-mail: [SugoiGenInfo@fuse.net](mailto:SugoiGenInfo@fuse.net). W
 
 Louisiana
 
-EXOTICON 4. E-mail: \[Removed\]. Website: \[Removed\] Location: Four Points Sheraton, New Orleans. Dates: 11/16/01 - 11/18/01.
+EXOTICON 4. E-mail: [Removed]. Website: [Removed] Location: Four Points Sheraton, New Orleans. Dates: 11/16/01 - 11/18/01.
 
 Maine
 
@@ -194,7 +188,7 @@ UNITED FAN CON. E-mail: [infobot@unitedfancon.com](mailto:infobot@unitedfancon.c
 
 ### Michigan
 
-U\*CON 2001. E-mail: [ucon01info@umich.edu](mailto:ucon01info@umich.edu). Website: [http://maniac.deathstar.org/~ucon/](http://maniac.deathstar.org/~ucon/). Location: University of Michigan Union, Ann Arbor. Dates: 11/16/01 - 11/18/01.
+U&#42;CON 2001. E-mail: [ucon01info@umich.edu](mailto:ucon01info@umich.edu). Website: [http://maniac.deathstar.org/~ucon/](http://maniac.deathstar.org/~ucon/). Location: University of Michigan Union, Ann Arbor. Dates: 11/16/01 - 11/18/01.
 
 ### Minnesota
 
@@ -341,14 +335,14 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [/pacific-northwest-collegium/](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au). We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas. (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!) The cost of membership covers postage and printing - we're a strictly not-for-profit group. If you are interested in more information, or have stories or other submissions that you would like to see published, contact me! **Attention all writers and artists:**Austral'a'in is desperately seeking submissions. We are also always looking for new members. Please? Contact me (Cassandra) at [garou@netspeed.com.au](mailto:garou@netspeed.com.au) for details!
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [/children-of-velgarth/](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
 - ***Collegium Chronicles*:** Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). The Venerable Pacific Northwest Collegium is looking for a few good writers and artists for its newsletter Collegium Chronicles. It would e preferable if folks had e-mail access. I am looking for stories that are primarily fantasy--QO persona requirements are acceptable, so long as they are in story format. Poetry, articles and essays also welcome. Come join us in what will be the final year of this nearly decade-long newsletter. $8 per year/$4 for a half-year, $2 per issue. Final issue will be June/July of 2001. Get your dues in early reap the full benefits! Great artwork (see our webpage at [/pacific-northwest-collegium/](/pacific-northwest-collegium/)) great stories, news of local events in the Pacific Northwest area. All are welcome. (P.S. If anyone is interested in taking over the Chronicles after next summer, let me know! I'd hate to see such a noble creature die out.)
-- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). It's back! The venerable warhorse--uh, make that venerable Companion \<g>--of QO 'zines is resuming publication. Plans are underway to bring old issues back into print as well. For submission and subscription information visit [http://greendragon.fanspace.com/misty.html](http://greendragon.fanspace.com/misty.html) or write to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St., Pahrump, NV 89060. If you have any of the original publications, please contact Blue Devyn at [devin@greendragonpress.net](mailto:devin@greendragonpress.net). She's attempting to bring the old issues back into print in addition to offering new issues.
+- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). It's back! The venerable warhorse--uh, make that venerable Companion &lt;g>--of QO 'zines is resuming publication. Plans are underway to bring old issues back into print as well. For submission and subscription information visit [http://greendragon.fanspace.com/misty.html](http://greendragon.fanspace.com/misty.html) or write to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St., Pahrump, NV 89060. If you have any of the original publications, please contact Blue Devyn at [devin@greendragonpress.net](mailto:devin@greendragonpress.net). She's attempting to bring the old issues back into print in addition to offering new issues.
 - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [/golden-grove/](/golden-grove/) for more information.
@@ -393,7 +387,7 @@ I have been keeping busy with lots of guests. Now that I am in California, every
 
 I had a wonderful visit with Laura Cameron. She came to stay a couple of weeks, though everyone was wishing that she could have stayed longer. She painted a beautiful mural on my closet doors. There is a large castle on the center door with a Herald and Companion on the right door sitting on the bank of a lake, on the left a beautiful mountain scene. She spent nearly the entire two weeks on the painting. I think it measures about 6 feet by 12 feet. She also painted a dragon�s eye protection symbol over my front door. Somehow she even found time to paint some fish and seahorses as well as put up some wallpaper fish that I had bought in my son�s room.
 
-We still found time to go to Medieval Times the last night she was here and watched the evil green knight win the tournament. I bought the group picture \<grin>. I am going to post a �Kenny and Friends� page on my website pretty soon.
+We still found time to go to Medieval Times the last night she was here and watched the evil green knight win the tournament. I bought the group picture &lt;grin>. I am going to post a �Kenny and Friends� page on my website pretty soon.
 
 The other big news is that I will be attending school online to get my Bachelor�s degree in Information Technology. I started on the 18th of October. I have been considering finishing school for several years and finally have decided to take a deep breath and do it.
 
@@ -437,10 +431,7 @@ The featured artist for this online version of the newsletter is [L.A. Malcor](m
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

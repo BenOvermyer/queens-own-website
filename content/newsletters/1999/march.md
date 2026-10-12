@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 2, Vol. I, No. 5\
-March 13, 1999
+## Series 2, Vol. I, No. 5 March 13, 1999
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/>
 
@@ -44,7 +42,7 @@ Just to recap what was in the last newsletter, I will be putting new releases fr
 
 This just in!!! Do you like Fantasy and Science Fiction? Join the N3F and find fan�dom in your mailbox!
 
-The National Fantasy Fan Federation is a general interest fan club whose members meet largely through correspondence, both regular and e-mail. It was founded more than 50 years ago when all types of imaginative literature, including science fiction, were called fantasy. The club's purpose is to bring together fans of every type and to provide a place where new fans can explore the diversity of fan�dom. They have 2 bi-monthly publications. One, *Tightbeam*, contains letters of comment, articles, book reviews and other fannish material. The other, *The Na�tional Fantasy. Fan*, contains club business and information about all the activities available within the club. Dues for this ultimate fantasy and science fiction club are \[Ed. note 2003: Out-of-date information withheld.\]. For further information on N3F activities or membership, send a self-addressed stamped envelope to \[Ed. note 2003: Out-of-date information withheld.\]. Their website is \[Ed. note 2003: Out-of-date information withheld.\]. Join us, we would love to have you!
+The National Fantasy Fan Federation is a general interest fan club whose members meet largely through correspondence, both regular and e-mail. It was founded more than 50 years ago when all types of imaginative literature, including science fiction, were called fantasy. The club's purpose is to bring together fans of every type and to provide a place where new fans can explore the diversity of fan�dom. They have 2 bi-monthly publications. One, *Tightbeam*, contains letters of comment, articles, book reviews and other fannish material. The other, *The Na�tional Fantasy. Fan*, contains club business and information about all the activities available within the club. Dues for this ultimate fantasy and science fiction club are [Ed. note 2003: Out-of-date information withheld.]. For further information on N3F activities or membership, send a self-addressed stamped envelope to [Ed. note 2003: Out-of-date information withheld.]. Their website is [Ed. note 2003: Out-of-date information withheld.]. Join us, we would love to have you!
 
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
@@ -54,7 +52,7 @@ I have recently found out that the address for <i>Stamps for Life</i> is no long
 </tr>
 </table>
 
-Remember, the newsletter is now available in e-mail format for only \[Ed. note 2003: Out-of-date information withheld.\], no matter where you are in the world. If you would like to change to e-mail format, either email me or mail me with your snail mail and your e-mail address!!
+Remember, the newsletter is now available in e-mail format for only [Ed. note 2003: Out-of-date information withheld.], no matter where you are in the world. If you would like to change to e-mail format, either email me or mail me with your snail mail and your e-mail address!!
 
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
@@ -150,19 +148,19 @@ Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
 </tr>
 </table>
 
-\[Ed. Note 2002: Old pricing and contact information withheld. See below.\]
+[Ed. Note 2002: Old pricing and contact information withheld. See below.]
 
 Next date is April 24, 1999. Deadline far submissions is April 17, 1999. The earlier the better folks.
 
-Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. \[Ed. Note 2002: Old address withheld.\] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
+Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. [Ed. Note 2002: Old address withheld.] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
 
 Last issue mailing day helper in December was Jason Hoff (If you would like to help on mailing day, please call me at 818l386/2063, all help is greatly appreciated!)
 
 Border art - Holly Wedo
 
-Editor and President - Robin Ready \[Ed. Note 2002: Contact info withheld.
+Editor and President - Robin Ready [Ed. Note 2002: Contact info withheld.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -176,10 +174,7 @@ The featured artist for this edition of the newsletter was uncredited. If you ha
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

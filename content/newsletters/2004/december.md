@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 5, No. 12\
-December 1, 2004
+## Series 3, Vol. 5, No. 12 December 1, 2004
 
 <img alt="Holiday Greetings from Danya and Moonstar" class="border-5" loading="lazy" src="/xmas2004.jpg"/>
 
@@ -136,25 +134,18 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ### Local chapters:
 
-- **Arrows OnLine:** Contact: Adept Grayfeather k'Varis (Kristi Reed). E-mail: [DragonMamaK@aol.com](mailto:DragonMamaK@aol.com). Arrows OnLine is the AOL chapter of QO. Chats will be held the first and third Wednesdays of each month from 8-10 PM ET. Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions. Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat. As far as instructions on how to get there . . . there are lots of hoops to jump through now. Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there. She's no longer a keyword, but hopefully with more traffic in the future that will change. If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links. The links to the chatroom will be on my "signature" on the boards.\
-\
-- **German Heartstone:** Website: [http://www.heartstone.de](http://www.heartstone.de). Contact: [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de). A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on [http://www.heartstone.de](http://www.heartstone.de)! For more information contact [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de).\
-\
-- **Sapphire and White:** Editor Ronald Glaser. E-mail: [luckystar@abe.midco.net](mailto:luckystar@abe.midco.net). We want members from all over the United States, but we technically cover the Great Lakes region, including South Dakota, North Dakota, Minnesota, Nebraska and Iowa. Heyla there, everyone! Sapphire and White is looking for people who are interested in Mercedes Lackey and her works such as the Valdemar series and the many other books that she has written. You can contact me for more info at [luckystar@abe.midco.net](mailto:luckystar@abe.midco.net). I hope to have a chat list and maybe a fanzine going soon, but i am looking for submissions for that when it gets up and running.\
-\
-- **Sonoran Collegium:** Website: [/sonoran-collegium/](/). Contact: [Laura Felton](mailto:Mistykalia@aol.com). Our Region: THE SOUTHWEST (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome). Snail mail: Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX.\
-\
-- **Southern Arrow:** Website: [http://groups.yahoo.com/group/gaqueensown/](http://groups.yahoo.com/group/gaqueensown/) Contact: Herald Sitara. E-mail: [ravindraanima@gmail.com](mailto:ravindraanima@gmail.com). Heralds unite! Southern Arrow is up and running again, and we'd love to have you along! I'm planning on fanzines, trips to cons, and much, much more. If you would like to sign up for the newsletter, or the fanzine you can go to [http://groups.yahoo.com/group/gaqueensown/](http://groups.yahoo.com/group/gaqueensown/) and you will but automatically included. I'm also looking for someone to help me out with this, and maybe pull up a website. If interested contact me at [sblackwell@knology.net](mailto:sblackwell@knology.net). And if you'd like to contact me about any ideas or suggestions, please put it on the board, I would love to hear what you have!\
-\
-- **Valdemar Estate Waystation:** Website: [http://valdemarwaystation.iwarp.com/index.html](http://valdemarwaystation.iwarp.com/index.html). Contact: Herald Lily. E-mail: [Valdemarestatearabians@mugglenet.com](mailto:Valdemarestatearabians@mugglenet.com). Valdemar Estate is looking for members to join. Online is very welcome. The Estate specializes in things of an Equine nature and any queries about our four-legged friends of real or Valdemaran kind are welcome too. We have people here who are able to make or create just about anything you would want. Riding and other training happens at Palamino Reserve in Armadale, at the end of Palamino Place on the 2nd and 4th Saturday of the month at 3pm. Changes in time will be announced on the website. Costume rides are on the 4th Saturday of every even month unless showing. Those wanting sword or archery training need to contact me so that I can either organizes some sessions or redirect you to the appropriate trainers in the area. Horse gear can also be purchased from the Estate by order. E-mail the details of what you are looking for and it can be found.\
-\
-- **The Vanyel Fan Club**: Website: [/vanyel-fan-club/](/vanyel-fan-club/). Contact: [herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey.
+- **Arrows OnLine:** Contact: Adept Grayfeather k'Varis (Kristi Reed). E-mail: [DragonMamaK@aol.com](mailto:DragonMamaK@aol.com). Arrows OnLine is the AOL chapter of QO. Chats will be held the first and third Wednesdays of each month from 8-10 PM ET. Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions. Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat. As far as instructions on how to get there . . . there are lots of hoops to jump through now. Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there. She's no longer a keyword, but hopefully with more traffic in the future that will change. If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links. The links to the chatroom will be on my "signature" on the boards.
+- **German Heartstone:** Website: [http://www.heartstone.de](http://www.heartstone.de). Contact: [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de). A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on [http://www.heartstone.de](http://www.heartstone.de)! For more information contact [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de).
+- **Sapphire and White:** Editor Ronald Glaser. E-mail: [luckystar@abe.midco.net](mailto:luckystar@abe.midco.net). We want members from all over the United States, but we technically cover the Great Lakes region, including South Dakota, North Dakota, Minnesota, Nebraska and Iowa. Heyla there, everyone! Sapphire and White is looking for people who are interested in Mercedes Lackey and her works such as the Valdemar series and the many other books that she has written. You can contact me for more info at [luckystar@abe.midco.net](mailto:luckystar@abe.midco.net). I hope to have a chat list and maybe a fanzine going soon, but i am looking for submissions for that when it gets up and running.
+- **Sonoran Collegium:** Website: [/sonoran-collegium/](/). Contact: [Laura Felton](mailto:Mistykalia@aol.com). Our Region: THE SOUTHWEST (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome). Snail mail: Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX.
+- **Southern Arrow:** Website: [http://groups.yahoo.com/group/gaqueensown/](http://groups.yahoo.com/group/gaqueensown/) Contact: Herald Sitara. E-mail: [ravindraanima@gmail.com](mailto:ravindraanima@gmail.com). Heralds unite! Southern Arrow is up and running again, and we'd love to have you along! I'm planning on fanzines, trips to cons, and much, much more. If you would like to sign up for the newsletter, or the fanzine you can go to [http://groups.yahoo.com/group/gaqueensown/](http://groups.yahoo.com/group/gaqueensown/) and you will but automatically included. I'm also looking for someone to help me out with this, and maybe pull up a website. If interested contact me at [sblackwell@knology.net](mailto:sblackwell@knology.net). And if you'd like to contact me about any ideas or suggestions, please put it on the board, I would love to hear what you have!
+- **Valdemar Estate Waystation:** Website: [http://valdemarwaystation.iwarp.com/index.html](http://valdemarwaystation.iwarp.com/index.html). Contact: Herald Lily. E-mail: [Valdemarestatearabians@mugglenet.com](mailto:Valdemarestatearabians@mugglenet.com). Valdemar Estate is looking for members to join. Online is very welcome. The Estate specializes in things of an Equine nature and any queries about our four-legged friends of real or Valdemaran kind are welcome too. We have people here who are able to make or create just about anything you would want. Riding and other training happens at Palamino Reserve in Armadale, at the end of Palamino Place on the 2nd and 4th Saturday of the month at 3pm. Changes in time will be announced on the website. Costume rides are on the 4th Saturday of every even month unless showing. Those wanting sword or archery training need to contact me so that I can either organizes some sessions or redirect you to the appropriate trainers in the area. Horse gear can also be purchased from the Estate by order. E-mail the details of what you are looking for and it can be found.
+- **The Vanyel Fan Club**: Website: [/vanyel-fan-club/](/vanyel-fan-club/). Contact: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey.
 
 ### Zines and Newsletters:
 
-- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. E-mail: [healermoon@gmail.com](mailto:healermoon@gmail.com). I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Issues 4, 5 and 6 are currently in the editing stages! Each zine will have about 10 personas for a total of 30 personas that have been accepted in the last couple of years. For the contents list for issues 1,2, and 3 and additional information, visit [/children-of-velgarth/](/children-of-velgarth/).\
-\
-- ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **\*\* If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don�t hear from you by September 2003, I will have to drop your contribution from the zine. \*\*** Volume Nine is open to submissions. Current prices (not including shipping) are:
+- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. E-mail: [healermoon@gmail.com](mailto:healermoon@gmail.com). I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Issues 4, 5 and 6 are currently in the editing stages! Each zine will have about 10 personas for a total of 30 personas that have been accepted in the last couple of years. For the contents list for issues 1,2, and 3 and additional information, visit [/children-of-velgarth/](/children-of-velgarth/).
+- ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **&#42;&#42; If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don�t hear from you by September 2003, I will have to drop your contribution from the zine. &#42;&#42;** Volume Nine is open to submissions. Current prices (not including shipping) are:
   - *Companions' Grove* Volume One - $4.75 (40 pages, color cover)
   - *Companions' Grove* Volume Two - $6.35 (56 pages, color cover)
   - *Companions' Grove* Volume Three - $5.95 (51 pages, color cover)
@@ -172,7 +163,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
   For orders shipping in the US, I've instituted a maximum shipping cost of $3.85. Multi-zine orders, which can be shipped in a flat rate envelope (usually 3 of the smaller zines, or 2 of the larger zines), will be sent Priority Mail; larger orders will be sent Media Mail Insured, which is only slightly slower and doesn't have the zone rates (which wouldn't work with my shopping cart). Smaller orders will be sent First Class.
   I take credit cards via PayPal, which is the cart's only payment option, but the cart can be used to calculate shipping, and checks/money orders mailed to Green Dragon Press, c/o Devin Harris, 4531 N. Kelishan St., Pahrump, NV 89060.
   Except as noted, zines are printed on high-quality, bright white paper, comb bound, with cardstock covers. Story excerpts and cover art-as well as submission guidelines and PayPal ordering information-can be found at [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm). To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N. Kelishan St., Pahrump, NV 89060.
-  **Note regarding *Shards of Autumn*:** While this zine is officially out of print and no longer available on the website, a few copies are left over from convention appearances. Any remaining copies from MediaWest will be available at that con until they sell out; the others are being returned to me and will be auctioned off at [http://www.auctionfen.com](http://www.auctionfen.com) until they are gone. I also occasionally auction off zines which returned from cons a bit shopworn, so it�s a good site to check periodically.\
+  **Note regarding *Shards of Autumn*:** While this zine is officially out of print and no longer available on the website, a few copies are left over from convention appearances. Any remaining copies from MediaWest will be available at that con until they sell out; the others are being returned to me and will be auctioned off at [http://www.auctionfen.com](http://www.auctionfen.com) until they are gone. I also occasionally auction off zines which returned from cons a bit shopworn, so it�s a good site to check periodically.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). E-mail:submission instructions:
   1. Subject line must read "For Karen." (Anything else will be erased as a potential virus hazard.)
   2. Do not use strange fonts, which my computer will not recognize.
@@ -182,38 +173,22 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ## Other Fandoms:
 
-- Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.\
-\
-- CrossGen Comics: Exciting New Fantasy Comic Books. Follow Prince Ethan's adventures the third Wednesday of each month as he gains the powerful sigil and accidentally puts his world on the brink of war. Meridian, on sale the fourth Wednesday of each month, is the fantastic saga of a teenage girl and her plight to save her floating island home. Go to [http://www.crossgen.com](http://www.crossgen.com), or call 1-888-COMICBOOK for details on a retail location near you.\
-\
-- Tanya Huff: **Nine Above!** is a list for fans of author Tanya Huff. This list provides announcements about Tanya's latest work, publication dates, and personal appearances. NA! also provides a forum for Tanya's fans to communicate with each other, and will have discussion as well as announcements. Lurking is fine, but participation is encouraged. When you join, we'd love for you to send a "hello" to the group at large, telling us who you are! To start sending messages to members of this group, simply send email to [nineabove@egroups.com](mailto:nineabove@egroups.com).\
-\
-- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [Legend@malcor.com](mailto:Legend@malcor.com).\
-\
-- Adrian Paul of Highlander: **Peace,**APFC P.O. Box 4593, North Hollywood, CA 91617 or **Peace,**APFC P.O. Box 519, Broley, Kent, BR29WX, England.\
-\
-- Michael Praed: *Michael Praed Network Newsletter*, c/o Kate Raymond, P.O. Box 516, Midlotioan, IL 60445.\
-\
-- Melanie Rawn: **Pandemonium**- The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira, P.O. Box 18A146 , Los Angeles, CA 90018.\
-\
-- **N3F** is one of the oldest general interest SF/F clubs, started in 1941. Members meet by snail mail and E-mail to discuss SF, Fantasy, and Horror genres. (Some gather at cons, too.) We have plenty to offer the hungry SF/F/H fan! Members receive Tightbeam, the club's quarterly zine, and The National Fantasy Fan, our bi-monthly zine. For inquiries, please snail mail me at N3F Secretary, Dennis Davis, 25549 Byron Street, San Bernadino, CA, 92404-6403. Check out our website at [http://www.simegen.com/fandom/n3f](http://www.simegen.com/fandom/n3f).\
-\
-- Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).\
-\
+- Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
+- CrossGen Comics: Exciting New Fantasy Comic Books. Follow Prince Ethan's adventures the third Wednesday of each month as he gains the powerful sigil and accidentally puts his world on the brink of war. Meridian, on sale the fourth Wednesday of each month, is the fantastic saga of a teenage girl and her plight to save her floating island home. Go to [http://www.crossgen.com](http://www.crossgen.com), or call 1-888-COMICBOOK for details on a retail location near you.
+- Tanya Huff: **Nine Above!** is a list for fans of author Tanya Huff. This list provides announcements about Tanya's latest work, publication dates, and personal appearances. NA! also provides a forum for Tanya's fans to communicate with each other, and will have discussion as well as announcements. Lurking is fine, but participation is encouraged. When you join, we'd love for you to send a "hello" to the group at large, telling us who you are! To start sending messages to members of this group, simply send email to [nineabove@egroups.com](mailto:nineabove@egroups.com).
+- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [Legend@malcor.com](mailto:Legend@malcor.com).
+- Adrian Paul of Highlander: **Peace,**APFC P.O. Box 4593, North Hollywood, CA 91617 or **Peace,**APFC P.O. Box 519, Broley, Kent, BR29WX, England.
+- Michael Praed: *Michael Praed Network Newsletter*, c/o Kate Raymond, P.O. Box 516, Midlotioan, IL 60445.
+- Melanie Rawn: **Pandemonium**- The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira, P.O. Box 18A146 , Los Angeles, CA 90018.
+- **N3F** is one of the oldest general interest SF/F clubs, started in 1941. Members meet by snail mail and E-mail to discuss SF, Fantasy, and Horror genres. (Some gather at cons, too.) We have plenty to offer the hungry SF/F/H fan! Members receive Tightbeam, the club's quarterly zine, and The National Fantasy Fan, our bi-monthly zine. For inquiries, please snail mail me at N3F Secretary, Dennis Davis, 25549 Byron Street, San Bernadino, CA, 92404-6403. Check out our website at [http://www.simegen.com/fandom/n3f](http://www.simegen.com/fandom/n3f).
+- Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
-
-\
-\
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-\
 <img alt="Markov by Cassandra Vuksa" class="float-left border-5" loading="lazy" src="/qo232.jpg"/>
 
 ### Collegium News:
-
-\
-\
 
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in. You can find these handouts online at [/persona-handouts/](/persona-handouts/).
 
@@ -229,7 +204,7 @@ If you are a returning member who has recently activated your membership in Quee
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
 - Bard Valiena (laughsong@aol.com)
 - Guardsman Faolan Ixran (Timmeu@scubadiving.com)
@@ -248,14 +223,14 @@ One of the challenges running an online club is that people don�t always leave
 - Herald Kiana Wynter (saffyrek@hotmail.com)
 - Herald Lisbeth Maye (wizardshome@hotmail.com)
 - Herald Liselle Aravon (rusalka@nac.net)
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com)
 - Herald Paf (jaro@attbi.com)
 - Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
 - Tayledras Blackwolf k'Vala (HRHIce@aol.com)
 - Tayledras Adept Oceanlaughter k'Shira (littlesweetchef@aol.com)
 - Tayledras Healer Adept Sierra k'Treva (katsanders@buffymail.com)
 - Tayledras Healer Adept Skydance k'Chona (Sttawylime@hotmail.com)
-- Tayledras Scout Skyfire k'Chona (liquid\_twinkie@hotmail.com)
+- Tayledras Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
 
 If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
 
@@ -265,11 +240,11 @@ Holiday greetings to one and all!
 
 This is my family�s first holiday season in our new home, so we�re busy trying to figure out how to make our old decorations work in our new space and what we need to add. It�s a lot of work, but it�s also tons of fun.
 
-We�re hoping to add a canine member to the family in the next few weeks, a collie \<g>! My first collie, Sir Lancelot of Starwood (Lance), died 17 years ago this October, and I�ve been without pets since. We finally have the space, time and money to bring a pet back into the household, and I�m very excited. I�ve missed having a dog around, and my daughter has been badgering me mercilessly for a pet for well over a year now (My boys aren�t so sure, but I think they are going to adapt well once we actually get a puppy.). There�s a litter with two mahogany sable males that I�ll be checking out soon, and hopefully one of the little guys will work with our family.
+We�re hoping to add a canine member to the family in the next few weeks, a collie &lt;g>! My first collie, Sir Lancelot of Starwood (Lance), died 17 years ago this October, and I�ve been without pets since. We finally have the space, time and money to bring a pet back into the household, and I�m very excited. I�ve missed having a dog around, and my daughter has been badgering me mercilessly for a pet for well over a year now (My boys aren�t so sure, but I think they are going to adapt well once we actually get a puppy.). There�s a litter with two mahogany sable males that I�ll be checking out soon, and hopefully one of the little guys will work with our family.
 
-December 19th is my 17th wedding anniversary. Hardly seems possible! But considering that I�ve gotten a doctorate, published a book (along with numerous smaller works), had three kids, bought a starter home that we traded for a permanent home, acquired a timeshare, and otherwise kept myself and my husband ridiculously busy over the better part of two decades, I suppose I shouldn�t be surprised \<g>. We hope to be able to remodel our kitchen and downstairs bath (Both have serious problems that need to be addressed sooner rather than later.) in 2005, but we�ll have to see what happens with the finances after taxes.
+December 19th is my 17th wedding anniversary. Hardly seems possible! But considering that I�ve gotten a doctorate, published a book (along with numerous smaller works), had three kids, bought a starter home that we traded for a permanent home, acquired a timeshare, and otherwise kept myself and my husband ridiculously busy over the better part of two decades, I suppose I shouldn�t be surprised &lt;g>. We hope to be able to remodel our kitchen and downstairs bath (Both have serious problems that need to be addressed sooner rather than later.) in 2005, but we�ll have to see what happens with the finances after taxes.
 
-Next year is promising to be eventful. I may be making another trip to Italy, this time in June. Don�t know if the family will be able to go with me, though that would be cool (I really missed them the last time.). I�m hoping to get at least one more book out, though I�m not holding my breath, the way I know the publishing world works. (I have four in progress.) My publishing schedule is already crowded with many smaller works, and I know that I will be attending at least one conference (in San Diego in March). I�m hoping to get more stuff up on the QO website (Thanks to all the folks who have been helping with data entry and proofreading!), and I�d really like to overhaul the main portion of the Dragonlords site in my copious free time \<g>.
+Next year is promising to be eventful. I may be making another trip to Italy, this time in June. Don�t know if the family will be able to go with me, though that would be cool (I really missed them the last time.). I�m hoping to get at least one more book out, though I�m not holding my breath, the way I know the publishing world works. (I have four in progress.) My publishing schedule is already crowded with many smaller works, and I know that I will be attending at least one conference (in San Diego in March). I�m hoping to get more stuff up on the QO website (Thanks to all the folks who have been helping with data entry and proofreading!), and I�d really like to overhaul the main portion of the Dragonlords site in my copious free time &lt;g>.
 
 I hope you all have a wonderful holiday season, and I wish everyone well in the coming year!
 
@@ -281,18 +256,11 @@ Danya
 
 ## Personals:
 
-\
-\
-
-- **From Jennifer M. Mackay/Herald Mallea D'Lar.** I have a new email address: [mackayjenn@yahoo.com](mailto:mackayjenn@yahoo.com)! SNAIL MAIL:�PO BOX 66408, Portland, OR 97290. If you like to read, I'm your girl. Just give me a book and a quiet nook--I'm happy! �Misty, Tad Williams, J.R.R. Tolkien,�Mindy Klasky (Glasswright series), DragonLance (the M. Weiss/T. Hickman original books and new), SF Classics like H.G. Wells, George Orwell, ect., ect. I'm about to sink my teeth into David Eddings on my sister's recommendations. I just finished watching SEVEN seasons of Buffy the Vampire Slayer. That was fun! I've gone through�all NINE years of The X-Files. I'm a huge X-Files fanatic. (Did I forget to mention my love affair with box sets on DVD?) I'm a fan of every Star Trek show made, Star Wars, Battlestar Galactica (got my box set), Babylon 5, Quantum Leap, and just about anything else that grabs my attention.If you wish you could take a trip to the moon, or just get out of Mundania for awhile, please feel free to drop me a line!\
+- **From Jennifer M. Mackay/Herald Mallea D'Lar.** I have a new email address: [mackayjenn@yahoo.com](mailto:mackayjenn@yahoo.com)! SNAIL MAIL:�PO BOX 66408, Portland, OR 97290. If you like to read, I'm your girl. Just give me a book and a quiet nook--I'm happy! �Misty, Tad Williams, J.R.R. Tolkien,�Mindy Klasky (Glasswright series), DragonLance (the M. Weiss/T. Hickman original books and new), SF Classics like H.G. Wells, George Orwell, ect., ect. I'm about to sink my teeth into David Eddings on my sister's recommendations. I just finished watching SEVEN seasons of Buffy the Vampire Slayer. That was fun! I've gone through�all NINE years of The X-Files. I'm a huge X-Files fanatic. (Did I forget to mention my love affair with box sets on DVD?) I'm a fan of every Star Trek show made, Star Wars, Battlestar Galactica (got my box set), Babylon 5, Quantum Leap, and just about anything else that grabs my attention.If you wish you could take a trip to the moon, or just get out of Mundania for awhile, please feel free to drop me a line!
 - **From Ellen Million:** Not only is Ellen Million Graphics still around (ten years last October!), but I now offer an array of gorgeous new work by new artists, on many new products (including t-shirts!) and a brand new character portrait service. Ordering is available on-line or by snail mail: [http://www.ellenmilliongraphics.com](http://www.ellenmilliongraphics.com). I'd also love to get back in touch with lost penpals! (Use the contact form on the website to avoid death-by-spam-filters!)
-- **From Herald Valana Dorrandale/Rachel Valentine:** 21-year-old college student needs relief from mundania! I enjoy Misty, Anne Rice, Mickey Zucker Riechert, Robert Jordan, Fiona Patton, Tanya Huff, C.S. Friedman etc. B5, Star Trek, Star Wars, Highlander, LOTR,all kinds of music, scaly and furry animals, Garfield, writing, drawing, singing, playing guitar, horseback riding, traveling and much more. Do you like this stuff?? Write me! **TO: Robin S., Bess H., Bard Shiana, Harold P.:** Are you all still QO members?? Please write me; I've missed you guys! E-mail: [raeval23@yahoo.com](mailto:raeval23@yahoo.com).\
-\
-- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).\
-\
+- **From Herald Valana Dorrandale/Rachel Valentine:** 21-year-old college student needs relief from mundania! I enjoy Misty, Anne Rice, Mickey Zucker Riechert, Robert Jordan, Fiona Patton, Tanya Huff, C.S. Friedman etc. B5, Star Trek, Star Wars, Highlander, LOTR,all kinds of music, scaly and furry animals, Garfield, writing, drawing, singing, playing guitar, horseback riding, traveling and much more. Do you like this stuff?? Write me! **TO: Robin S., Bess H., Bard Shiana, Harold P.:** Are you all still QO members?? Please write me; I've missed you guys! E-mail: [raeval23@yahoo.com](mailto:raeval23@yahoo.com).
+- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [Legend@malcor.com](mailto:Legend@malcor.com)? Thanks!
-
-\
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -308,10 +276,7 @@ The featured artists for this newsletter are [L.A. Malcor](mailto:Legend@malcor.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

@@ -20,17 +20,15 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 3, No. 4\
-April 1, 2002
+## Series 3, Vol. 3, No. 4 April 1, 2002
 
 <img alt="Morrigan 2 by Laura Cameron" class="float-center border-5" loading="lazy" src="/qo116.jpg"/>
 
 Heyla, Misty fans!
 
-There�s lots of good stuff coming up (No April fooling!). Teri Lee of Firebird Arts & Music ([http://www.firebirdarts.com](http://firebirdarts.com)), wrote to let us know that there will be "a new short story collection sometime later this year." *Gates of Sleep*, Misty�s take on the Sleeping Beauty story is here! The massmarket paperback edition of *The Serpent�s Shadow*, Misty�s retelling of Snow White and the Seven Dwarves, came out in March. Misty and Andre Norton have teamed up to bring us *Elvenborn*, which has a July 2002 release date. Misty joined Eric Flint and Dave Freer to take us to Venice in the 1530's--with a healthy dose of magic added to liven things up-in *The Shadow of the Lion*, which was released in March. Check out Misty�s review of the book on Amazon at [http://www.amazon.com/exec/obidos/ASIN/0743435230/ref=ase\_dragonlordsofdumA/104-5468109-5848768](http://www.amazon.com/exec/obidos/ASIN/0743435230/ref=ase_dragonlordsofdumA/104-5468109-5848768). You can find these titles and others list in our Mercedes Lackey section of the Dragonlord�s Bookstore at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm). Remember, a portion of each purchase goes toward paying expenses for QO, which is how we can keep our memberships free. We really appreciate your support. (BTW, have you noticed that you can now read excerpts from a bunch of Misty�s works on Amazon?)
+There�s lots of good stuff coming up (No April fooling!). Teri Lee of Firebird Arts & Music ([http://www.firebirdarts.com](http://firebirdarts.com)), wrote to let us know that there will be "a new short story collection sometime later this year." *Gates of Sleep*, Misty�s take on the Sleeping Beauty story is here! The massmarket paperback edition of *The Serpent�s Shadow*, Misty�s retelling of Snow White and the Seven Dwarves, came out in March. Misty and Andre Norton have teamed up to bring us *Elvenborn*, which has a July 2002 release date. Misty joined Eric Flint and Dave Freer to take us to Venice in the 1530's--with a healthy dose of magic added to liven things up-in *The Shadow of the Lion*, which was released in March. Check out Misty�s review of the book on Amazon at [http://www.amazon.com/exec/obidos/ASIN/0743435230/ref=ase_dragonlordsofdumA/104-5468109-5848768](http://www.amazon.com/exec/obidos/ASIN/0743435230/ref=ase_dragonlordsofdumA/104-5468109-5848768). You can find these titles and others list in our Mercedes Lackey section of the Dragonlord�s Bookstore at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm). Remember, a portion of each purchase goes toward paying expenses for QO, which is how we can keep our memberships free. We really appreciate your support. (BTW, have you noticed that you can now read excerpts from a bunch of Misty�s works on Amazon?)
 
 We are in the process of putting excerpts from past Queen�s Own newsletters online at [/newsletter-guidance/#past](/newsletter-guidance/#past). We�re including articles, letters about Misty�s work, interviews and all sorts of good stuff. We are not including most of the old Con and Ren. Faire information, Fanzine info (most of them have folded), Other Fandoms, Fan Messages and Personals because of the out-of-date and personal information contained in those sections. We are also omitting out-of-date and personal phone numbers, addresses and the like whenever they happen to crop up. Most of the art from the past issues is not up yet, but we hope to be getting around to that soon (We have to find the time to scan it.). Hanna Bruin and Herald Nia, bless them, are helping me type (Healer Adept Moonstar is still recovering from shoulder surgery). We are also linking the approved persona list at [/persona-directory/](/persona-directory/) to the newsletter where each persona was recognized as we put that newsletter online, so you can read what each member did to earn approval and see what else was happening at the time s/he joined.
 
@@ -55,10 +53,7 @@ An important correspondence safety tip: Please *do not* send personal mail for M
 
 Arrows OnLine has a new Dean. See their ad below for more details. Also, there is now a weekly Misty chat on AOL:
 
-HOST EBK Royal\
-Mercedes Lackey's Valdemar & Urban Fantasies\
-9-10PM ET\
-Reading Room
+HOST EBK Royal Mercedes Lackey's Valdemar & Urban Fantasies 9-10PM ET Reading Room
 
 This month�s responder to the QO questionnaire is Herald Auric (Eric Dooley). If you haven�t replied yet, please send your answers to the questions to Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
 
@@ -69,7 +64,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
-  I have been involved since the early 90�s now \[Ed. Note: Herald Auric was approved in July of 1991.\]. I got the privilege of helping out with one mailing day when Judith was doing the newsletter, and she is a wonderful/caring person. I met a boyfriend from Queen�s Own, and we long distance dated for 4 months, and then he moved to be with me for four months before we broke up. (Don�t do long distance relationships! They are very hard, and you don�t really get to see the real, day-to-day person that way. (I�ve also recently had the pleasure of meeting our two hard working managers/runners of QO now.
+  I have been involved since the early 90�s now [Ed. Note: Herald Auric was approved in July of 1991.]. I got the privilege of helping out with one mailing day when Judith was doing the newsletter, and she is a wonderful/caring person. I met a boyfriend from Queen�s Own, and we long distance dated for 4 months, and then he moved to be with me for four months before we broke up. (Don�t do long distance relationships! They are very hard, and you don�t really get to see the real, day-to-day person that way. (I�ve also recently had the pleasure of meeting our two hard working managers/runners of QO now.
 2. **What got you hooked on Misty's books?**
   Vanyel and the Last Herald-Mage Trilogy. I was captivated by one of the covers in the store, and when I realized the character was gay . . . I was amazed and overjoyed. Then I went back and found everything else Misty had written. Vanyel touched my heart and made me cry, but, most importantly, he made me see that there were other people who were gay out there. For that I�ll always love Misty. I grew up in small town USA, being sheltered, and so it was a wonderful moment to discover these books. Finding that book changed my life and made me realize I could do something like that. So I�ve been working on my own book ever since, between school and working and all the other ups and downs in life. Misty really changed my life.
 3. **What else do you read?**
@@ -87,7 +82,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 9. **What other things besides Queen's Own occupy your time?**
   Gosh, I just graduated in December with a BA in psychology. It took me 11 years of college to finally get a degree in something. Now I work full time and a weekend job, so seven days a week to pay the loans and debts I have. I moved to San Francisco, CA, 6 years ago without a job and not knowing how to budget, so its been a learning and growing experience since then. I write articles for a gay comics zine and I also am working on my own book/series. I like to read, read comics, hang out, biking, romance, friends, the movies, plays--all kinds of things.
 10. **What types of things would you like to see Queen�s Own do in the coming years?**
-  I�ve already suggested some things to our editors/owners. I would love to see more interaction. Have Misty answer questions, write a note for each or every other newsletter. How about an article from Judith? Why she did it, how it felt doing all that hard work, what she felt was rewarding. How did it feel giving it all up? Does she keep in touch with anyone? More stuff than what we have now. Reviews of Misty�s books, opinions, other authors people think are great and why. I think it should all be in one thing not spread out all over the place. We have chat groups, the newsletter and minizines everywhere. How about coming together to make this list the best and brightest. How about Q&A with other fantasy authors? What they are into? What are their latest books, etc.? There are lots of authors on the Net out there, or there should be ways to contact them. The old list used to get me excited when I saw a preview for something that was coming out from Misty. I also met and got to meet a lot of cool people through the fan messages section. I still talk to some of them now. I know Misty has lots of fans out there. Why not advertise our group in the back of her books? \[Ed. Note: We�ve asked DAW about that several times, updating those ads in the back of the books and adding the ad to the new books. DAW has not responded to our queries.\] That�s how I found out about QO and Judith. It seems like there is a disconnect between Misty and the group. I also belong to a Tanya Huff group, and there we get info on where she is appearing what books she is working on next and an estimated time of arrival. I also used to belong to P.N. Elrod�s fan club, and she would write in each newsletter, answer fan questions and interact. She even wrote me a letter once, which was really great and exciting. I just want this group to be the best that it can be and Linda and Kenny can�t do it alone; it needs to be everyone pitching in. What do other people want to see? What are your ideas for bringing in new blood and making people interested enough? Anyway, that�s enough about me and my opinions. Feel free to E-mail me at [massage@ericdooley.com](mailto:massage@ericdooley.com) with comments or questions.
+  I�ve already suggested some things to our editors/owners. I would love to see more interaction. Have Misty answer questions, write a note for each or every other newsletter. How about an article from Judith? Why she did it, how it felt doing all that hard work, what she felt was rewarding. How did it feel giving it all up? Does she keep in touch with anyone? More stuff than what we have now. Reviews of Misty�s books, opinions, other authors people think are great and why. I think it should all be in one thing not spread out all over the place. We have chat groups, the newsletter and minizines everywhere. How about coming together to make this list the best and brightest. How about Q&A with other fantasy authors? What they are into? What are their latest books, etc.? There are lots of authors on the Net out there, or there should be ways to contact them. The old list used to get me excited when I saw a preview for something that was coming out from Misty. I also met and got to meet a lot of cool people through the fan messages section. I still talk to some of them now. I know Misty has lots of fans out there. Why not advertise our group in the back of her books? [Ed. Note: We�ve asked DAW about that several times, updating those ads in the back of the books and adding the ad to the new books. DAW has not responded to our queries.] That�s how I found out about QO and Judith. It seems like there is a disconnect between Misty and the group. I also belong to a Tanya Huff group, and there we get info on where she is appearing what books she is working on next and an estimated time of arrival. I also used to belong to P.N. Elrod�s fan club, and she would write in each newsletter, answer fan questions and interact. She even wrote me a letter once, which was really great and exciting. I just want this group to be the best that it can be and Linda and Kenny can�t do it alone; it needs to be everyone pitching in. What do other people want to see? What are your ideas for bringing in new blood and making people interested enough? Anyway, that�s enough about me and my opinions. Feel free to E-mail me at [massage@ericdooley.com](mailto:massage@ericdooley.com) with comments or questions.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -135,7 +130,7 @@ We regret that most of the e-mail links are not provided in this edition of the 
 
 ### Alabama
 
-**HENRY BREWER-GUS SAILORS MEMORIAL DBM TOURNAMENT**. Website: http://www.geocities.com/vsolfronk/birmingham\_wargaming\_association.html. E-mail: [vsolfronk@mindspring.com](mailto:vsolfronk@mindspring.com). Address: Deluxe Inn and Suites, Birmingham, Alabama. Dates: 4/13/02 - 4/14/02.
+**HENRY BREWER-GUS SAILORS MEMORIAL DBM TOURNAMENT**. Website: http://www.geocities.com/vsolfronk/birmingham_wargaming_association.html. E-mail: [vsolfronk@mindspring.com](mailto:vsolfronk@mindspring.com). Address: Deluxe Inn and Suites, Birmingham, Alabama. Dates: 4/13/02 - 4/14/02.
 
 ### California
 
@@ -291,7 +286,7 @@ We regret that most of the e-mail links are not provided in this edition of the 
 
 ### Rhode Island
 
-**WIZARDS GATHERING 2002.** Website: [http://members.aol.com/\_ht\_a/nproulx/](http://members.aol.com/_ht_a/nproulx/). Address: Roger Williams living and Convention Center, Portsmouth, Rhode Island. Dates: 4/02.
+**WIZARDS GATHERING 2002.** Website: [http://members.aol.com/_ht_a/nproulx/](http://members.aol.com/_ht_a/nproulx/). Address: Roger Williams living and Convention Center, Portsmouth, Rhode Island. Dates: 4/02.
 
 ### South Carolina
 
@@ -359,7 +354,7 @@ We regret that most of the e-mail links are not provided in this edition of the 
 
 ### Finland
 
-**FINDIPCON IV.** Website: [http://www.melankolia.net/sds/fdc4\_en.html](http://www.melankolia.net/sds/fdc4_en.html). Address: Inspehtorinkatu 4 B, Turku, Finland. Dates: 4/5/02 - 4/7/02.
+**FINDIPCON IV.** Website: [http://www.melankolia.net/sds/fdc4_en.html](http://www.melankolia.net/sds/fdc4_en.html). Address: Inspehtorinkatu 4 B, Turku, Finland. Dates: 4/5/02 - 4/7/02.
 
 ### Holland
 
@@ -405,7 +400,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
 ### Zines and Newsletters:
 
@@ -456,16 +451,16 @@ Several former members have returned. Check out [/persona-directory/](/persona-d
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\
-- Herald Cateryna Cyray (KimChrist@Home.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\
-- Herald Trieenia Featherfire (sylverstorme@aol.com)\
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
+- Herald Cateryna Cyray (KimChrist@Home.com)
+- Herald Deborah (sjupiterdebi@home.com)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Herald Trieenia Featherfire (sylverstorme@aol.com)
 - Bard Valiena (laughsong@aol.com)
 
 Also, Healer Adept Sierra k'Treva, your account is over quota and your messages are bouncing.
@@ -474,13 +469,13 @@ If you know any of these folks, please have them contact Danya at [Legend@malcor
 
 ### From Herald-Mage Adept Danya Winterborn:
 
-Huzzah! I did it! I�ve been taking an average of two years to go up in rank. Not sure how long Guardian will take me. Being a folklorist, I already have a lot of stuff written about urban legends. But I do have to get childcare in order to have the time to work on the other papers . . . In any case, it will probably be a while \<g>.
+Huzzah! I did it! I�ve been taking an average of two years to go up in rank. Not sure how long Guardian will take me. Being a folklorist, I already have a lot of stuff written about urban legends. But I do have to get childcare in order to have the time to work on the other papers . . . In any case, it will probably be a while &lt;g>.
 
-I�m looking forward to joining the Golden Grove folk at the Southern California Renaissance Pleasure Faire on May 19th. I�m missing our Barnes & Noble get-togethers, but my littles are a bit mobile for that at the moment \<G>. Perhaps we can do another online chat in the near future. I�m still working on the ConTours convention possibility, but I had to move it to a back burner for a couple of weeks (Palm Sunday, Holy Week, Easter-not to mention three birthdays and a wedding! My life suddenly started sounding like a movie title \<G>.). I hope to get my act a little more together as we move into April.
+I�m looking forward to joining the Golden Grove folk at the Southern California Renaissance Pleasure Faire on May 19th. I�m missing our Barnes & Noble get-togethers, but my littles are a bit mobile for that at the moment &lt;G>. Perhaps we can do another online chat in the near future. I�m still working on the ConTours convention possibility, but I had to move it to a back burner for a couple of weeks (Palm Sunday, Holy Week, Easter-not to mention three birthdays and a wedding! My life suddenly started sounding like a movie title &lt;G>.). I hope to get my act a little more together as we move into April.
 
-I�m having my new Golds made (if I ever get my measurements to the seamstress!). She�s very excited about the project and is re-reading the books for design ideas. I�ll let you know how they come out (maybe even take a picture of them \<G>).
+I�m having my new Golds made (if I ever get my measurements to the seamstress!). She�s very excited about the project and is re-reading the books for design ideas. I�ll let you know how they come out (maybe even take a picture of them &lt;G>).
 
-Well, back to the "Infamous Old Newsletter Project" \<G>!
+Well, back to the "Infamous Old Newsletter Project" &lt;G>!
 
 Zhai�helleva,
 
@@ -521,10 +516,7 @@ The featured artist for this newsletter is [Laura Cameron](mailto:anjakiya@hotma
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

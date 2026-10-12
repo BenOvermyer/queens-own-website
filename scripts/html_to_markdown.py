@@ -13,7 +13,8 @@ Rules:
 * ``<table>`` and ``<dl>`` stay HTML (no Markdown equivalent), with presentational
   wrappers removed;
 * ``<xmp>`` becomes a fenced code block;
-* a hard line break becomes a Markdown backslash line break.
+* a ``<br>`` becomes a soft line break (joined text), and Markdown metacharacters in
+  text are escaped with entities rather than backslashes.
 
 Text is escaped for Markdown so leftover ``<g>``-style text renders literally.
 """
@@ -32,25 +33,23 @@ HEADING_TAGS = {'h1', 'h2', 'h3', 'h4', 'h5', 'h6'}
 WRAPPER_TAGS = {'div', 'center', 'span', 'font', 'u', 'big', 'tt', 'small'}
 DROP_TAGS = {'script', 'style', 'iframe', 'object', 'embed'}
 HTML_TAGS = {'table', 'dl', 'dt', 'dd', 'sub', 'sup'}
-ESCAPE_PATTERN = re.compile(r'([\\`*_\[\]<])')
-HARD_BREAK = '\u0000HB\u0000'
+# Escape only what Markdown would otherwise interpret, using entities rather than
+# backslashes so the source stays readable.
+ESCAPE_TABLE = str.maketrans({'\\': '&#92;', '<': '&lt;', '*': '&#42;', '`': '&#96;'})
 
 
 def _escape(text):
-    return ESCAPE_PATTERN.sub(r'\\\1', text)
+    return text.translate(ESCAPE_TABLE)
 
 
 def _collapse(text):
-    text = text.replace(HARD_BREAK, '\x00')
-    text = re.sub(r'[ \t\r\n]+', ' ', text)
-    text = re.sub(r' *\x00 *', '\x00', text)
-    return text.replace('\x00', '\\\n').strip()
+    return re.sub(r'[ \t\r\n]+', ' ', text).strip()
 
 
 def _inline_node(node):
     name = node.name
     if name == 'br':
-        return HARD_BREAK
+        return ' '
     if name in ('b', 'strong'):
         return '**' + _inline(node).strip() + '**'
     if name in ('i', 'em'):
@@ -68,7 +67,7 @@ def _inline_node(node):
     if name in DROP_TAGS:
         return ''
     if name in BLOCK_TAGS:
-        return HARD_BREAK + _block(node) + HARD_BREAK
+        return ' ' + _block(node) + ' '
     # Unknown element (normally already unescaped upstream): render it literally.
     return _escape(f'<{name}>') + _inline(node)
 

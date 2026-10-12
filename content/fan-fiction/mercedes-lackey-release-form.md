@@ -16,22 +16,15 @@ canonical_path = "/mercedes-lackey-release-form/"
 
 ## Release Form for Mercedes Lackey
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Date: _______________________________
 
 Mercedes Lackey
 
-c/o High Flight\
-16525 East 470 Road\
-Claremore, OK 74017
+c/o High Flight 16525 East 470 Road Claremore, OK 74017
 
 Dear Mrs. Lackey,
 
-I am submitting to you herewith a manuscript for a short story or novel\
-of approximately \_\_\_\_\_\_\_\_\_\_\_\_\_\_ words\
-entitled \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.\
-It involves the following characters from your Valdemar or other universe: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.\
-It is set in (time period and location): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.\
-and concerns (brief summary of plot): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+I am submitting to you herewith a manuscript for a short story or novel of approximately ______________ words entitled __________________________________________________________________________. It involves the following characters from your Valdemar or other universe: _______________________________________________________________________________________________________________. It is set in (time period and location): ________________________________________________________. and concerns (brief summary of plot): ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________.
 
 1. I understand that, as the creator and copyright owner of the Valdemar and other series, you alone have the authority to authorize the preparation of derivative works based on the characters and world you have created in that series. I understand and acknowledge that the preparation of such a story constitutes a copyright infringement unless authorized by you. I acknowledge that the material submitted with this agreement is a derivative work based upon your previous work.
 2. I understand and acknowledge that because of your position as the creator of the Valdemar and other series, you receive numerous unsolicited submissions of ideas, stories, suggestions and the like, and that many such suggestions are similar to or identical to materials already developed by you (or by others who may submit or have submitted them to you). I understand that I will not be entitled to compensation because of the use by you of any such similar or identical material either developed by you or received from another source.
@@ -57,11 +50,9 @@ Very truly yours,
 </tr>
 </table>
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-Print name
+_____________________________________________ Print name
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-Address
+______________________________________________________________________________________ Address
 
 <table style="width:100%">
 <tr>
@@ -76,5 +67,4 @@ Address
 
 ACCEPTED AND AGREED TO:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-Mercedes Lackey
+_________________________________________________________ Mercedes Lackey

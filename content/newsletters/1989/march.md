@@ -20,63 +20,61 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. II, No. 3\
-March 1989
+## Series 1, Vol. II, No. 3 March 1989
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty fans:
 
 Happy St. Patrick's Day and Happy Easter!
 
-Thank you, each and every one, who've recently written your thanks to us. We are deeply appreciative. It's 10°, out of the wind, with snow and ice abounding; and we've dot a wicked co'd in our collective dose. \[Ed. Note 2002: No, that's not a bunch of typos. We've triple checked it. They had a cold \<g>.\] We *needed* your kind words. Thanks, too, for the outpouring of stamps and cash to offset our other expenses. We needed them, too!
+Thank you, each and every one, who've recently written your thanks to us. We are deeply appreciative. It's 10°, out of the wind, with snow and ice abounding; and we've dot a wicked co'd in our collective dose. [Ed. Note 2002: No, that's not a bunch of typos. We've triple checked it. They had a cold &lt;g>.] We *needed* your kind words. Thanks, too, for the outpouring of stamps and cash to offset our other expenses. We needed them, too!
 
-Thanks also for your input. You'll note that we have a whole page of fanmessages, with requests for everything from silver bells to \[no, not cockle shells,\] dreamers; a new category, "CON-NOTES"; some mini-reviews; and a letter from Misty!
+Thanks also for your input. You'll note that we have a whole page of fanmessages, with requests for everything from silver bells to [no, not cockle shells,] dreamers; a new category, "CON-NOTES"; some mini-reviews; and a letter from Misty!
 
-For those of you who have/had difficulty getting Misty's books, can no longer find earlier editions, or want to get them 'hot off the press', we want to remind you that [Firebird Arts and Music](http://firebirdarts.com/), Inc., \[formerly Off Centaur,\] \[Ed. Note 2002: out-of-date address withheld. Use the link.\] has all her books, a map of the Kingdom of Valdemar, and her tapes. There is a shipping and handling charge, but if you're desperate . . . .
+For those of you who have/had difficulty getting Misty's books, can no longer find earlier editions, or want to get them 'hot off the press', we want to remind you that [Firebird Arts and Music](http://firebirdarts.com/), Inc., [formerly Off Centaur,] [Ed. Note 2002: out-of-date address withheld. Use the link.] has all her books, a map of the Kingdom of Valdemar, and her tapes. There is a shipping and handling charge, but if you're desperate . . . .
 
-We are working on a suggestion from Dan Moser, \[seconded by Judith,\] for a button to wear at cons, and other appropriate places, identifying us as members of QO. We've sent the rough draft of an idea to Misty for her comments and will keep you apprised of our progress.
+We are working on a suggestion from Dan Moser, [seconded by Judith,] for a button to wear at cons, and other appropriate places, identifying us as members of QO. We've sent the rough draft of an idea to Misty for her comments and will keep you apprised of our progress.
 
-We received a very prompt reply to our letter \[correctly addressed\] to \[Ed. Note 2002: Out-of-date contact information for the SFBC withheld.\]. \[Ellen Asher\] wrote that she was sure we'd understand that they can't "acquire an unlimited number of new books" so she's "forced to pass up many very fine ones. (In other words, if I don't find a place for Ms. Lackey in the near future, it doesn't necessarily mean that I don't like her work--or that we won't be using her at some later time)."
+We received a very prompt reply to our letter [correctly addressed] to [Ed. Note 2002: Out-of-date contact information for the SFBC withheld.]. [Ellen Asher] wrote that she was sure we'd understand that they can't "acquire an unlimited number of new books" so she's "forced to pass up many very fine ones. (In other words, if I don't find a place for Ms. Lackey in the near future, it doesn't necessarily mean that I don't like her work--or that we won't be using her at some later time)."
 
-Denise Park, \[continued from the [February](/newsletters/1989/february/) issue,\] is planning on publishing her own quarterly, literary maga/fanzine, debuting in June. It will be called THE SOOTHSAYER, and will be devoted to sci-fi/fantasy, poetry, artwork, interviews with authors and artists, and book and movie reviews. Denise says that several local \[Seattle, WA\] artists and writers ahve already submitted material, but that she's looking for more, especially fiction and current move/book reviews. You can write her for guidelines at \[Ed. Note 2002: Out-of-date address withheld.\]
+Denise Park, [continued from the [February](/newsletters/1989/february/) issue,] is planning on publishing her own quarterly, literary maga/fanzine, debuting in June. It will be called THE SOOTHSAYER, and will be devoted to sci-fi/fantasy, poetry, artwork, interviews with authors and artists, and book and movie reviews. Denise says that several local [Seattle, WA] artists and writers ahve already submitted material, but that she's looking for more, especially fiction and current move/book reviews. You can write her for guidelines at [Ed. Note 2002: Out-of-date address withheld.]
 
-To date, we've received three ideas for the name of Holly Vaughan Williams' Illinois chapter of QO, and/or future chapters in other areas; Anna Bunce offers the "Companion to Queen's Own" Maureen S. O'Brien suggests "Waystation"; and Lynne Luerding thinks "Herald's Hall of \[insert the locale\]" would be appropriate not only for Holly but also any future chapters. Okay, Holly, what do you think?
+To date, we've received three ideas for the name of Holly Vaughan Williams' Illinois chapter of QO, and/or future chapters in other areas; Anna Bunce offers the "Companion to Queen's Own" Maureen S. O'Brien suggests "Waystation"; and Lynne Luerding thinks "Herald's Hall of [insert the locale]" would be appropriate not only for Holly but also any future chapters. Okay, Holly, what do you think?
 
-Lynne also wrote that she'd tried "the" recipe, and "the popcorn was wonderful". So take your bows, Misty and Sue Beech! Further, Lynne offered another definition for the term "filk" "I thought that 'filk' was a combination of 'folk' and 'filch', meaning 'to steal'. So many of the tunes are 'borrowed.'" \[Editor's Note: All of you who are or know filkers who write music, relax! Lynne's not pointing any fingers and neither are we.\]
+Lynne also wrote that she'd tried "the" recipe, and "the popcorn was wonderful". So take your bows, Misty and Sue Beech! Further, Lynne offered another definition for the term "filk" "I thought that 'filk' was a combination of 'folk' and 'filch', meaning 'to steal'. So many of the tunes are 'borrowed.'" [Editor's Note: All of you who are or know filkers who write music, relax! Lynne's not pointing any fingers and neither are we.]
 
-And Maureen wrote of Misty's story in FRIENDS OF THE HORSECLANS 2, "The Enemy of My Enemy", "I don't know much about the Horseclans, but fortunately this story is about the few gypsies who survive in their world . . . also two psychic big cats of some kind \[belonging to the Horseclans\] and lots of psychic Rom horses. The colt Pika is delightful! The two main characters are Kevin, the mayor and blacksmith of a small town the Rom are visiting, and Chali, a Rom girl who, despite muteness, *cannot* be described as handicapped! . . . This story has everything . . . But be warned--it reads fast." \[Editor's Comment: The good ones always do.\]
+And Maureen wrote of Misty's story in FRIENDS OF THE HORSECLANS 2, "The Enemy of My Enemy", "I don't know much about the Horseclans, but fortunately this story is about the few gypsies who survive in their world . . . also two psychic big cats of some kind [belonging to the Horseclans] and lots of psychic Rom horses. The colt Pika is delightful! The two main characters are Kevin, the mayor and blacksmith of a small town the Rom are visiting, and Chali, a Rom girl who, despite muteness, *cannot* be described as handicapped! . . . This story has everything . . . But be warned--it reads fast." [Editor's Comment: The good ones always do.]
 
-We'd like to add that anyone who has ever felt like a misfit adolescent, \[at whatever age,\] will want to hug Misty's "Were-Hunter", in TALES OF THE WITCH WORLD I, created by Andre Norton, to his/her heart. And while Ms. Norton has diplomatically arranged her guest authors in alphabetical order, Misty's story follows another were-tale \[Is that a pun, Judith?\] most serendipitously.
+We'd like to add that anyone who has ever felt like a misfit adolescent, [at whatever age,] will want to hug Misty's "Were-Hunter", in TALES OF THE WITCH WORLD I, created by Andre Norton, to his/her heart. And while Ms. Norton has diplomatically arranged her guest authors in alphabetical order, Misty's story follows another were-tale [Is that a pun, Judith?] most serendipitously.
 
-*Yes!* Just finished reading BURNING WATER, \[at 2:30 a.m.,\] and were overwhelmed. We'd never read a "horror" story before, \[due to an overactive imagination and tendency to relive scary stuff in our dreams as a kid.\] But this, this was *great*! And what a change of pace for our favorite author! It took an incredible amount of research to achieve such doubts at all that TOR too will want *more*; certainly "A Diana Tregarde Investigation", \[at the bottom of the cover,\] promises more to *our* way of thinking. Read and enjoy, regardless of . . .
+*Yes!* Just finished reading BURNING WATER, [at 2:30 a.m.,] and were overwhelmed. We'd never read a "horror" story before, [due to an overactive imagination and tendency to relive scary stuff in our dreams as a kid.] But this, this was *great*! And what a change of pace for our favorite author! It took an incredible amount of research to achieve such doubts at all that TOR too will want *more*; certainly "A Diana Tregarde Investigation", [at the bottom of the cover,] promises more to *our* way of thinking. Read and enjoy, regardless of . . .
 
-In the March LOCUS, "Reviews by Tom Whitmore", \[Editor's Note: And I thought we had trouble reproducing pictures,\] Mr. Whitmore "quibbles" \[his own word\] with Misty's characterizations of Crowletites, "I have known some quite nice . . . . ", and her insistence with "making the magic pyrotechnic". It seems that Mr. Whitmore had to dig deeply for those nit-picks, and could better have filled the last two inches of space required of him with something besides a review of a '50s movie, loosely tied to his "review" of BURNING WATER.
+In the March LOCUS, "Reviews by Tom Whitmore", [Editor's Note: And I thought we had trouble reproducing pictures,] Mr. Whitmore "quibbles" [his own word] with Misty's characterizations of Crowletites, "I have known some quite nice . . . . ", and her insistence with "making the magic pyrotechnic". It seems that Mr. Whitmore had to dig deeply for those nit-picks, and could better have filled the last two inches of space required of him with something besides a review of a '50s movie, loosely tied to his "review" of BURNING WATER.
 
 ## Con-Notes
 
 Herewith information on cons at which Misty is a guest or cons that you, her fans, are involved in running. We regret that timing precluded our getting information to you about Belletrix's Lunacon, held March 10-12, soon enough. If you want your information to be timely, please get it to us as early as possible.
 
-**CHIMERAFEST**, April 15, will be held by Chimera, the University of North Carolina's fiction/fantasy club. There will be guests, gaming, a costume contest, videos, writers' panels, and a "cantina of sorts". \[Ed. Note 2002: Out-of-Date Contact Information withheld.\]
+**CHIMERAFEST**, April 15, will be held by Chimera, the University of North Carolina's fiction/fantasy club. There will be guests, gaming, a costume contest, videos, writers' panels, and a "cantina of sorts". [Ed. Note 2002: Out-of-Date Contact Information withheld.]
 
-**SPRINGFEST '89**, June 2-4, will be sponsored by the Federation Outpost International, Dream Base One. There will be panel discussions, gaming rooms, art shows, dealers' room, autographs, costume contest, entertainment, and "much, much more!!!" Guests will be Steve Jackson, games publisher and designer; Michael "Scotty" Scott, games designer; Frank Loflin, Jackson Astronomical Association; John Bell, radio personality, as Master of Ceremonies; and our own Misty. Guest of Honor will be Grace Lee Whitney, "Janice Rand" of STAR TREK. \[Editor's Note: Not to mention the possibility of QO's own Judith and Sally!\] \[Ed. Note 2002: Out-of-Date Contact Information withheld.\]
+**SPRINGFEST '89**, June 2-4, will be sponsored by the Federation Outpost International, Dream Base One. There will be panel discussions, gaming rooms, art shows, dealers' room, autographs, costume contest, entertainment, and "much, much more!!!" Guests will be Steve Jackson, games publisher and designer; Michael "Scotty" Scott, games designer; Frank Loflin, Jackson Astronomical Association; John Bell, radio personality, as Master of Ceremonies; and our own Misty. Guest of Honor will be Grace Lee Whitney, "Janice Rand" of STAR TREK. [Editor's Note: Not to mention the possibility of QO's own Judith and Sally!] [Ed. Note 2002: Out-of-Date Contact Information withheld.]
 
-**WORLDCON**, August 31-September 4. Information is available from \[Ed. Note 2002: Out-of-Date Contact Information withheld.\]. Guest of Honor is Andre Norton. \[We'd like to thank Tammy Denault for this "promo" and tell her we're looking into the design of Herald wear. When we know, you'll all know.\]
+**WORLDCON**, August 31-September 4. Information is available from [Ed. Note 2002: Out-of-Date Contact Information withheld.]. Guest of Honor is Andre Norton. [We'd like to thank Tammy Denault for this "promo" and tell her we're looking into the design of Herald wear. When we know, you'll all know.]
 
 We thought we'd like to include a bit of background on the Federation Outpost International because it appears both facinating and unique. Dream Base One is their flagship organization; a STAR TREK fan club, founded in 1985. The are associated with Paramount Studios in California, WDBD TV-40 in Jackson, and St. Jude's Children's Hospital in Memphis, TN. The original has grown to include two others; a Base in Hattiesburg, MS, and a Satellite in Kansas.
 
 SpringFest '89 is their first more-than-one-day event, and we were thrilled to note on the registration form that a portion of all their proceeds will be donated to St. Jude's Hospital.
 
-Since we've applied for membership, we hope to learn more of how the movie studio, the TV station, and the hospital were joined together in this delightful \[ad\]venture. For those Trekkies among you, they sound like a really great group, with much to offer.
+Since we've applied for membership, we hope to learn more of how the movie studio, the TV station, and the hospital were joined together in this delightful [ad]venture. For those Trekkies among you, they sound like a really great group, with much to offer.
 
 ## Fanmessages
 
-\[Ed. Note 2002: Fanmessages withheld because of personal info.\]
+[Ed. Note 2002: Fanmessages withheld because of personal info.]
 
 And that's all we can fit in our first three-pager!
 
@@ -102,12 +100,11 @@ HOW DID I: Learn about horses and horse care? Not directly; though I love to rid
 
 HOW DO YOU GET PUBLISHED? Hard work. Writing a lot, and being able to take criticism. I still run everything except short stories past C.J. Cherryh, Jane Fancher, and Ellen Guon. Writer's clubs can be helpful, if they aren't personality forums or backpatting sessions. You don't need an agent; any agent you can get before you're published probably isn't worth having. I came in by sending unsolicited manuscripts to magazines, anthologies, and DAW. I got rejections, and I still get them. There's no magic formula.
 
-We lost both dogs and one cat to old age; Katy, Mithril and Strider. We got a new dog (shaggy black and brown mutt), Dinky, from friends whose house burned down over Thanksgiving who couldn't keep her. I'm still working as a full-time computer programmer and will be for the forseeable future. Much as I appreciate all your invitations, I can't attend all the gatherings, parties, and conventions I'd like to; not and write, too. I'll be doing about 3 books a year. Colloborator \[sic\] Ellen Guon and I are working on an urban fantasy series of which the first book should be done by March; it is not yet sold, but my agent seems to think it will. I've seen the cover for MAGIC'S PAWN and it is gorgeous and Vanyel looks exactly right! I will try and do letters for the newsletter more often if I can. Till next time--
+We lost both dogs and one cat to old age; Katy, Mithril and Strider. We got a new dog (shaggy black and brown mutt), Dinky, from friends whose house burned down over Thanksgiving who couldn't keep her. I'm still working as a full-time computer programmer and will be for the forseeable future. Much as I appreciate all your invitations, I can't attend all the gatherings, parties, and conventions I'd like to; not and write, too. I'll be doing about 3 books a year. Colloborator [sic] Ellen Guon and I are working on an urban fantasy series of which the first book should be done by March; it is not yet sold, but my agent seems to think it will. I've seen the cover for MAGIC'S PAWN and it is gorgeous and Vanyel looks exactly right! I will try and do letters for the newsletter more often if I can. Till next time--
 
-Wind to thy wings,\
-Misty (/aka/ Herald-Chronicler Miste)
+Wind to thy wings, Misty (/aka/ Herald-Chronicler Miste)
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -121,10 +118,7 @@ There was no art in this edition of the newsletter. If you would like your art t
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

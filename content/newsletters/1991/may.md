@@ -20,17 +20,15 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. IV, No. 8\
-May 1991
+## Series 1, Vol. IV, No. 8 May 1991
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
-\[Ed. Note 2003: The header on the original of this newsletter reads April, but since we already had one newsletter for April 1991 and since the next newsletter in the series in June 1991, we're guessing that this one came out in May 1991.\]
+[Ed. Note 2003: The header on the original of this newsletter reads April, but since we already had one newsletter for April 1991 and since the next newsletter in the series in June 1991, we're guessing that this one came out in May 1991.]
 
 <img alt="QO Crest" loading="lazy" src="/qo178.jpg"/>
 
@@ -54,11 +52,11 @@ Back to Misty, this time via GEnie (and thanks to Michelle Luz, our GEnie report
 
 "The true story of 'Threes' and the infamous Bard Leslac. Back before I had sold any prose, I was writing filk; there was a tape project about 'uppity wimmen' I was asked to contribute to. I wrote 'Threes' on the plane on the way to San Fransisco and gave my publisher the only copy I had. Subsequently I decided to write it as a short story--but I forgot exactly who did what . . . and got the stuff bassackwards. I had to concoct a plot reason WHY it was bassackwards, and thus invented the Bard Leslac. Who then took on a life of his own, invaded *Oathbreakers* and even got his own short story."
 
-*The Firebird Flyer*, the special Mercedes Lackey edition, for Misty's books, tapes, and lots more. It's available from \[Ed. note 2003: Out-of-date information withheld. Firebird's website is at [http://www.firebirdarts.com](http://www.firebirdarts.com).\].
+*The Firebird Flyer*, the special Mercedes Lackey edition, for Misty's books, tapes, and lots more. It's available from [Ed. note 2003: Out-of-date information withheld. Firebird's website is at [http://www.firebirdarts.com](http://www.firebirdarts.com).].
 
-"Truth is stranger than fiction" department: The Jet Propulsion Laboratory is looking for goddesses! Or at least, their names. At their July meeting scientists will begin naming the physical features of the planet Venus and have determined to name all features after females, fictional or real, with preference being given to goddesses. They want names from around the world (and other-worldly). Send your list, with a brief description of your nominated deities. The address is: \[Ed. note 2003: Out-of-date information withheld.\] Thanks to Debbie Sanders for the information.
+"Truth is stranger than fiction" department: The Jet Propulsion Laboratory is looking for goddesses! Or at least, their names. At their July meeting scientists will begin naming the physical features of the planet Venus and have determined to name all features after females, fictional or real, with preference being given to goddesses. They want names from around the world (and other-worldly). Send your list, with a brief description of your nominated deities. The address is: [Ed. note 2003: Out-of-date information withheld.] Thanks to Debbie Sanders for the information.
 
-The prints of **The Last Herald Mage** covers are available now from Jody Lee, the cover artist. They are magnificent! "Magic's Pawn," "Magic's Promise," and "Magic's Price" each have an edition run of 350. The prints don't look exactly like the covers because they are not on foil paper; with proper care the photoprints will far outlast the foil paperback covers. And I repeat, they are magnificent! \[Ed. note 2003: Out-of-date pricing and order information withheld.\]
+The prints of **The Last Herald Mage** covers are available now from Jody Lee, the cover artist. They are magnificent! "Magic's Pawn," "Magic's Promise," and "Magic's Price" each have an edition run of 350. The prints don't look exactly like the covers because they are not on foil paper; with proper care the photoprints will far outlast the foil paperback covers. And I repeat, they are magnificent! [Ed. note 2003: Out-of-date pricing and order information withheld.]
 
 Back to Misty, this time via GEnie (and thanks to Michelle Lutz, our GEnie reporter) to answer a frequently asked question:
 
@@ -68,15 +66,15 @@ Back to Misty, this time via GEnie (and thanks to Michelle Lutz, our GEnie repor
 
 Misty is DAW's featured author at the ABA weekend, June 1-4, in Manhattan. Unfortunately, the weekend is not open to the public. However, she and Larry hope to arrive in New Jersey the previous weekend (in their new RV) to spend some time with me. If you live nearby, and heavy traffic doesn't daunt you, come visit us Saturday afternoon, May 25th, from 1 to 5 PM. Call for directions. Upper Montclair is west of the Parkway--I have a nagging feeling that I reserved dircetions for somebody!
 
-"*To all Northern California QO members* (or any who can make it): Heyla! Hiya! Hoya! Come one, come all to the 2 in 1 Bay Area Get-Together. There will be a pot luck brunch on Saturday, May 25 and 11:00 AM in a private party room. No need to attend the Con to come to the brunch (but it makes the weekend a whole lot funner!). For more information regaring the get-together, please contact \[Ed. note 2003: Out-of-date information withheld.\]. For more infor on BayCon '91, \[Ed. note 2003: Out-of-date information withheld.\].
+"*To all Northern California QO members* (or any who can make it): Heyla! Hiya! Hoya! Come one, come all to the 2 in 1 Bay Area Get-Together. There will be a pot luck brunch on Saturday, May 25 and 11:00 AM in a private party room. No need to attend the Con to come to the brunch (but it makes the weekend a whole lot funner!). For more information regaring the get-together, please contact [Ed. note 2003: Out-of-date information withheld.]. For more infor on BayCon '91, [Ed. note 2003: Out-of-date information withheld.].
 
-**DeepSouthCon29/ConCat 3** is June 7-9 at \[Ed. note 2003: Out-of-date information withheld.\].
+**DeepSouthCon29/ConCat 3** is June 7-9 at [Ed. note 2003: Out-of-date information withheld.].
 
-Louisville, Kentucky is the place to be August 2-4. Misty and Larry will **not** be attending but the local QO folk are planning a "con-within-a-con". Lois McMaster Bujold is **Rivercon**'s Guest of Honor; Emma Bull is toastmaster. For more information, \[Ed. note 2003: Out-of-date information withheld.\].
+Louisville, Kentucky is the place to be August 2-4. Misty and Larry will **not** be attending but the local QO folk are planning a "con-within-a-con". Lois McMaster Bujold is **Rivercon**'s Guest of Honor; Emma Bull is toastmaster. For more information, [Ed. note 2003: Out-of-date information withheld.].
 
-For us Northeasterners I recommend *CONTRADICTION 11*, September 27-29 at \[Ed. note 2003: Out-of-date information withheld.\]. This looks like an excellentaly run con, with fun for all ages and interests.
+For us Northeasterners I recommend *CONTRADICTION 11*, September 27-29 at [Ed. note 2003: Out-of-date information withheld.]. This looks like an excellentaly run con, with fun for all ages and interests.
 
-For the Northwest, there's **dreamcon 6**, November 1-3 at \[Ed. note 2003: Out-of-date information withheld.\].
+For the Northwest, there's **dreamcon 6**, November 1-3 at [Ed. note 2003: Out-of-date information withheld.].
 
 ### Hello from Herald Housemother:
 
@@ -92,7 +90,7 @@ Welcome, **Herald Katri**, chosen by the Companion Astanzi. Katri's gifts are Mi
 
 Welcome, **Herald Mykal**, chosen by Quixor, and with the gift of Fetching. *Dwane Lay* sent information on Mykaland his friend Murdock, a poem and a story.
 
-Welcome, **Herald Coranna**, chosen by the stallion Aramara, and now a White Winds Sorceress. *\[Name withheld.\]/i> presented a very logical tale of how a Herald of Valdemar could become a Sorceress without jeopardiing her responsibilities to the Crown. She included a costume design, map, and biographical inofrmation on Coranna and friends.*
+Welcome, **Herald Coranna**, chosen by the stallion Aramara, and now a White Winds Sorceress. *[Name withheld.]/i> presented a very logical tale of how a Herald of Valdemar could become a Sorceress without jeopardiing her responsibilities to the Crown. She included a costume design, map, and biographical inofrmation on Coranna and friends.*
 
 Welcome, **Herald Annellan Sunrider**, chosen by Teira, and with the gifts of Empathy and strong Thoughtsensing. *Rebecca Sims* sent background information on Annellan and Herald Rennan Deltarron, the story of how they were chosen, a sketch, and a poem.
 
@@ -132,7 +130,7 @@ Our Trainees are a varied lot, with very individual personalities and talents. W
 
 ### Chapter and Zine News
 
-From **Shirlene Ananayo** \[Ed. note 2003: Out-of-date subscription information withheld.\]:
+From **Shirlene Ananayo** [Ed. note 2003: Out-of-date subscription information withheld.]:
 
 Calling all chapters, newsletter and zine editors, special projects people, mentors! Please send me a letter or postcard with your group or publication, subscription rates, frequency of meetings or mailings, and address for contact persons. I am compiling a comprehensive listing to be made available to all.
 
@@ -144,19 +142,17 @@ Calling all chapters, newsletter and zine editors, special projects people, ment
 
 Fan messages are for the convenience of those who wish to write to others. The QO membership list is not made available to anyone else, not even Firebird Arts and Music, but please remember that a sample issue of the newsletter is sent to anyone who requests informatino on the club. If you place a fan message I can't guarantee that it will be seen only by QO members. The "fee" is still the same: if you place a fan message, you must write to at least one other person who has a message in the issue where yours appears.
 
-\[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
-\[Ed. Note 2003: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.\]
+[Ed. Note 2003: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.]
 
-\[Ed. note 2003: Out-of-date subscription information withheld.\]
+[Ed. note 2003: Out-of-date subscription information withheld.]
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: \[Ed. note 2003: Out-of-date information withheld.\]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: [Ed. note 2003: Out-of-date information withheld.]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2003: Out-of-date information withheld.\]\
-Archivist, Registrar, Organizer *extraordinaire*--Patricia Riggs\
-Mailing Day Helpers (last issue)--Suzanne Brenner and Robin and Louis Gladeau.
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2003: Out-of-date information withheld.] Archivist, Registrar, Organizer *extraordinaire*--Patricia Riggs Mailing Day Helpers (last issue)--Suzanne Brenner and Robin and Louis Gladeau.
 
 ### The Return of the Pun!
 
@@ -166,7 +162,7 @@ Wind to Thy Wings!
 
 Judith
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -178,10 +174,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

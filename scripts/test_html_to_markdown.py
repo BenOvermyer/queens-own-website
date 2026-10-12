@@ -13,9 +13,9 @@ class ConvertTests(unittest.TestCase):
         self.assertEqual(md('<div><h2>Title</h2><p>Body text.</p></div>'),
                          '## Title\n\nBody text.')
 
-    def test_bold_italic_and_hard_break(self):
+    def test_bold_italic_and_soft_break(self):
         self.assertEqual(md('<p>a <b>bold</b> <i>it</i><br/>next</p>'),
-                         'a **bold** *it*\\\nnext')
+                         'a **bold** *it* next')
 
     def test_unordered_and_ordered_lists(self):
         self.assertEqual(md('<ul><li>one</li><li>two</li></ul>'), '- one\n- two')
@@ -55,7 +55,16 @@ class ConvertTests(unittest.TestCase):
         self.assertEqual(md('<center><span class="c-red"><u>x</u></span></center>'), 'x')
 
     def test_unescaped_pseudo_tag_is_literal_text(self):
-        self.assertEqual(md('<p>grin <g> more</p>'), 'grin \\<g>more')
+        self.assertEqual(md('<p>grin <g> more</p>'), 'grin &lt;g>more')
+
+    def test_underscores_and_brackets_need_no_escapes(self):
+        self.assertEqual(md('<p>oww_scholarship [Ed. note]</p>'), 'oww_scholarship [Ed. note]')
+
+    def test_literal_asterisk_uses_an_entity(self):
+        self.assertEqual(md('<p>7.60* and $5</p>'), '7.60&#42; and $5')
+
+    def test_conversion_introduces_no_backslash_escapes(self):
+        self.assertNotIn('\\', md('<p>a_b [x] 7.60* <g> <br/>next</p>'))
 
 
 if __name__ == '__main__':

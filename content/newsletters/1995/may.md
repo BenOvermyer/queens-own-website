@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. VIII, No. 7\
-May 1995
+## Series 1, Vol. VIII, No. 7 May 1995
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own are Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="Storm Rising" class="float-right" loading="lazy" src="/ml19.gif"/> Dear Misty Fans,
 
@@ -38,25 +36,25 @@ This is the Jody LEe cover for *Storm Rising*, Book 2 of the MAGE STORMS trilogy
 
 Both Valdemar's Heralds and Karse's Sun Priests struggle to marshal their combined resources to protect their realms from these devastating, spell-fueled onslaughts. But as the situation becomes bleaker and bleaker, the still fragile alliance between these long-hostile lands begins to fray. And when Karal, the young Karsite envoy to the court of Valdemar, is wrongfully accused of collusion with the enemy, only the personal intervention of Solaris, the High Priestess and ruler of KArse, can defuse what is rapidly becoming a dangerously explosive situation. But Solaris also confirms the worst fears fo the HEralds--that these storms do not come from the Eastern Empire, but from a completely unknown source. And unless Valdemar and Karse can locate and destroy the creator of the storms, they may see their entire world demolished in a final magical holocaust."
 
-*Storm Rising* contains black and white illustrations by Larry dixon and is priced at \[Ed. note 2005: Out-of-date info withheld.\].
+*Storm Rising* contains black and white illustrations by Larry dixon and is priced at [Ed. note 2005: Out-of-date info withheld.].
 
 *Storm Warning*, Book 1 of the MAGE STORMS trilogy, will be released this summer in paperback.
 
-Look for *Elvenblood*, Book Two of the HALFBLOOD CHRONICLES, by Andre Norton and Misty, a hardcover for \[Ed. note 2005: Out-of-date info withheld.\]. Book One, *The Elvenbane*, is now available in paperback for \[Ed. note 2005: Out-of-date info withheld.\].
+Look for *Elvenblood*, Book Two of the HALFBLOOD CHRONICLES, by Andre Norton and Misty, a hardcover for [Ed. note 2005: Out-of-date info withheld.]. Book One, *The Elvenbane*, is now available in paperback for [Ed. note 2005: Out-of-date info withheld.].
 
-*Sacred Ground* is also available in paperback for \[Ed. note 2005: Out-of-date info withheld.\]. This is the story of Jennifer Talldeer, a free lance PI who tracks down stolen magical Indian artifacts and who also happens to be the granddaughter and student of a powerful Medicine Man. When construction of a new mall reveals possible desecration of an ancient burial ground, sabotage, and a confrontation with Native American activists ensue. But nothing is quite as it seems . . .
+*Sacred Ground* is also available in paperback for [Ed. note 2005: Out-of-date info withheld.]. This is the story of Jennifer Talldeer, a free lance PI who tracks down stolen magical Indian artifacts and who also happens to be the granddaughter and student of a powerful Medicine Man. When construction of a new mall reveals possible desecration of an ancient burial ground, sabotage, and a confrontation with Native American activists ensue. But nothing is quite as it seems . . .
 
 And coming in the fall, a lovely surprise from Baen, *The Fire Rose*. It's set in San Francisco in 1905. I'll tell you more about it in the July newsletter.
 
 Marion Zimmer BRadley's *Sword and Sorceress XII* has a June release date and a story by Misty. For you Tanya Huff fans, *Vampire Detectives* is in bookstores now and contains a Victory Nelson story.
 
-The lead story of the next issue of *Marrion Zimmer Bradley's FANTASY Magazine* will be by Tanya Huff. Sunscription rates to *FANTASY* are \[Ed. note 2005: Out-of-date info withheld.\].
+The lead story of the next issue of *Marrion Zimmer Bradley's FANTASY Magazine* will be by Tanya Huff. Sunscription rates to *FANTASY* are [Ed. note 2005: Out-of-date info withheld.].
 
-Upcoming birthdays: Misty LAckey, June 24; Larry Dixon, July 28. Send your greetings and best wishs to them c/o Highflight \[Ed. note 2005: Out-of-date info withheld.\]. And to all who have asked, my birthday is May 28.
+Upcoming birthdays: Misty LAckey, June 24; Larry Dixon, July 28. Send your greetings and best wishs to them c/o Highflight [Ed. note 2005: Out-of-date info withheld.]. And to all who have asked, my birthday is May 28.
 
 The following are excerpts from a letter from QO member Lisa D. Coker:
 
-"By the time you read this, I am sure that the bombing of the Oklahoma City Federal Building at 9 AM CDT on Wednesday, April 19 will be 'old news.' I don't know how many QO members live in or near the Oklahoma City area, nor how many of you may be concerned about the people here or the events which have occurred . . . I was at work, eight miles SSW of downtown, when the tragedy took place. I had no idea that anything was amiss until my supervisor arrived at 9:30. She mentioned that she had seen a cloud of smoke over the downtown area as she was driging to work; she wanted to know if I knew what had happened. I am almost ashamed to admit that I thought nothing of it--I assumed that there had 'merely' been a fire and I continued about my work. Minutes later, we found out that the Alfred P. Murrah building had been bombed. Even then I proceeded with my daily routine. It was not until I observed other people walking about with worried expressions and scrambling for radios and televisions that I realized something awful had occurred. I stopped what I was doing and walked to an area where a television had been set up. Everyone was crowding about--I could not see much between their heads, but I saw enough to be shocked and upset. While I was watching the news, the first fatalities were reported, including the deaths of two children. This news, of course, made me feel as though my world would never be the same . . . I was worried about my friends and family so I relinquished my spot to head back to my desk and get on the phone. My husband called me from our home, 10 miles north of the blast. He reported that our locked front door and an interior door had been blown open, that he had been knocked into a wall,a nd that our cat had freaked out. After he called, I spoke to many others. Needless to say, I got no further work done that day and left my offices early . . . I considered going to the site to offer my services but decided the best thing I could do would be to stay out of the way. I concentrated on searching for ways that I could help unobtrusively and trying to contact the people I knew who had been working int he area when the bomb exploded--I do not yet know th fate of several people I work with, but luckily several other acquaintances and a good friend of mine are physically unhurt. I know people who are employed at regional hospitals, and they are understandably stressed but so far coping well. This event affected everyone--whites, blacks, Asians, Hispanics, Native Americans, Arabs, even several Russians who were living in the area. It has affected the elderly, the middle aged, the young; rich, middle-class and poor. And it has brought home the fact that everyone is vulnerable and that so many people can get involved. If you would care to donate money to organizations that will help the disaster victims, you can do so via the following: \[Ed. note 2005: Out-of-Date info withheld.\].
+"By the time you read this, I am sure that the bombing of the Oklahoma City Federal Building at 9 AM CDT on Wednesday, April 19 will be 'old news.' I don't know how many QO members live in or near the Oklahoma City area, nor how many of you may be concerned about the people here or the events which have occurred . . . I was at work, eight miles SSW of downtown, when the tragedy took place. I had no idea that anything was amiss until my supervisor arrived at 9:30. She mentioned that she had seen a cloud of smoke over the downtown area as she was driging to work; she wanted to know if I knew what had happened. I am almost ashamed to admit that I thought nothing of it--I assumed that there had 'merely' been a fire and I continued about my work. Minutes later, we found out that the Alfred P. Murrah building had been bombed. Even then I proceeded with my daily routine. It was not until I observed other people walking about with worried expressions and scrambling for radios and televisions that I realized something awful had occurred. I stopped what I was doing and walked to an area where a television had been set up. Everyone was crowding about--I could not see much between their heads, but I saw enough to be shocked and upset. While I was watching the news, the first fatalities were reported, including the deaths of two children. This news, of course, made me feel as though my world would never be the same . . . I was worried about my friends and family so I relinquished my spot to head back to my desk and get on the phone. My husband called me from our home, 10 miles north of the blast. He reported that our locked front door and an interior door had been blown open, that he had been knocked into a wall,a nd that our cat had freaked out. After he called, I spoke to many others. Needless to say, I got no further work done that day and left my offices early . . . I considered going to the site to offer my services but decided the best thing I could do would be to stay out of the way. I concentrated on searching for ways that I could help unobtrusively and trying to contact the people I knew who had been working int he area when the bomb exploded--I do not yet know th fate of several people I work with, but luckily several other acquaintances and a good friend of mine are physically unhurt. I know people who are employed at regional hospitals, and they are understandably stressed but so far coping well. This event affected everyone--whites, blacks, Asians, Hispanics, Native Americans, Arabs, even several Russians who were living in the area. It has affected the elderly, the middle aged, the young; rich, middle-class and poor. And it has brought home the fact that everyone is vulnerable and that so many people can get involved. If you would care to donate money to organizations that will help the disaster victims, you can do so via the following: [Ed. note 2005: Out-of-Date info withheld.].
 
 "Also, please, please, PLEASE don't let a disaster like this be the only reason to donate money to worthy causes or spur you to volunteer. If you are interested in making the world a better place, don't get your gumption up mow just to let it fade away when the furor dies down. There are always people out there who will need your help. There are many important things you can do--volunteering at hospitals certified in first aid and/or CPR; even donating goods to thrift stores or cleaning out cages at the animal shelter. I'd like also, to urge everyone to remember the unfortunate . . . thoughts and prayers are appreciated, not only for hte victims here in Oklahoma City, but by anyone who has been touched by abuse, violence, war, poverty or any other misfortune."--Lisa D. Coker.
 
@@ -64,65 +62,65 @@ Misty's worlds offer an escape from the tragedies Lisa describes, but what we di
 
 ## TEMPEST APPEARANCES:
 
-\[Ed. note 2005: Out-of-Date info withheld.\]
+[Ed. note 2005: Out-of-Date info withheld.]
 
 ## CONVENTION NEWS:
 
-Tanya Huff will be at GAYLAXICON VI in Niagara Falls May 19-21. Send SASE to \[Ed. note 2005: Out-of-Date info withheld.\].
+Tanya Huff will be at GAYLAXICON VI in Niagara Falls May 19-21. Send SASE to [Ed. note 2005: Out-of-Date info withheld.].
 
-OASIS 8 i May 19-21 in Altamonte Springs, Florida. GoH is Alan Dean Foster; other Guests include Ben Bova and Mike Resnick. Send your SASE to \[Ed. note 2005: Out-of-Date info withheld.\].
+OASIS 8 i May 19-21 in Altamonte Springs, Florida. GoH is Alan Dean Foster; other Guests include Ben Bova and Mike Resnick. Send your SASE to [Ed. note 2005: Out-of-Date info withheld.].
 
-Barbara Hambly is GoH at WISCON 19 in Madison, Wisconsin May 26-29. For more info, write to \[Ed. note 2005: Out-of-Date info withheld.\].
+Barbara Hambly is GoH at WISCON 19 in Madison, Wisconsin May 26-29. For more info, write to [Ed. note 2005: Out-of-Date info withheld.].
 
-DUCKON is June 2-3 in Lisle, Illinois. For more information, send a SASE to \[Ed. note 2005: Out-of-Date info withheld.\].
+DUCKON is June 2-3 in Lisle, Illinois. For more information, send a SASE to [Ed. note 2005: Out-of-Date info withheld.].
 
-Join your fellow QO members at NASFIC/DRAGON\*CON in Atlanta July 13-16. Registratoin through Queen's Own Collegia before June 1 is \[Ed. note 2005: Out-of-Date info withheld.\]. The QO Collegia suite is full. Members of **The Paralax Society** are willing to share romm space \[Ed. note 2005: Out-of-Date info withheld.\]. Be sure to mention that you are a QO member. Sharing a room always saves money and usually adds to the fun of a con. For hotel accomodations on your own, call \[Ed. note 2005: Out-of-Date info withheld.\].
+Join your fellow QO members at NASFIC/DRAGON&#42;CON in Atlanta July 13-16. Registratoin through Queen's Own Collegia before June 1 is [Ed. note 2005: Out-of-Date info withheld.]. The QO Collegia suite is full. Members of **The Paralax Society** are willing to share romm space [Ed. note 2005: Out-of-Date info withheld.]. Be sure to mention that you are a QO member. Sharing a room always saves money and usually adds to the fun of a con. For hotel accomodations on your own, call [Ed. note 2005: Out-of-Date info withheld.].
 
-TORONTO TREK 9 is August 4-6 at the Regal Constellation Hotel in Ontario. Guests of Honor include Rene Auberjonois, Mira Furlan and Majel Barrett-Roddenberry. For more information, write to \[Ed. note 2005: Out-of-Date info withheld.\].
+TORONTO TREK 9 is August 4-6 at the Regal Constellation Hotel in Ontario. Guests of Honor include Rene Auberjonois, Mira Furlan and Majel Barrett-Roddenberry. For more information, write to [Ed. note 2005: Out-of-Date info withheld.].
 
 ## REN FAIRES:
 
-Renaissance Pleasure Faire--Glen Helen Regional Park--San Bernardino County, CA--open weekends through \[Ed. note 2005: Out-of-Date info withheld.\].
+Renaissance Pleasure Faire--Glen Helen Regional Park--San Bernardino County, CA--open weekends through [Ed. note 2005: Out-of-Date info withheld.].
 
 ## MEMBER NEWS:
 
-Help! Submissions desperately needed for a new zine based on medieval history, mythological creatures, and Gods of Olde called THE GARDENS OF SERENITY. I need short stories, artwork, poetry, pen pal ads, recipes, and a lot more! If interested, send a business-sized SASE \[Ed. note 2005: Out-of-Date info withheld.\].
+Help! Submissions desperately needed for a new zine based on medieval history, mythological creatures, and Gods of Olde called THE GARDENS OF SERENITY. I need short stories, artwork, poetry, pen pal ads, recipes, and a lot more! If interested, send a business-sized SASE [Ed. note 2005: Out-of-Date info withheld.].
 
-ATTENTION WRITERS! The Fantasy Writer's Group is still going strong. We are a critique and writing group dedicated to writers of fantasy, science fiction, and horror. Watch for our annual (hopefully) zine, compiling the work of our talented members. I hope to have it ready by August. Until then . . . join us. Send a business sized SASE \[Ed. note 2005: Out-of-Date info withheld.\]. (For a copy of *Heart & Quill*, our informative newsletter, send \[Ed. note 2005: Out-of-Date info withheld.\].) Madness awaits.
+ATTENTION WRITERS! The Fantasy Writer's Group is still going strong. We are a critique and writing group dedicated to writers of fantasy, science fiction, and horror. Watch for our annual (hopefully) zine, compiling the work of our talented members. I hope to have it ready by August. Until then . . . join us. Send a business sized SASE [Ed. note 2005: Out-of-Date info withheld.]. (For a copy of *Heart & Quill*, our informative newsletter, send [Ed. note 2005: Out-of-Date info withheld.].) Madness awaits.
 
-K'Vashta Vale is looking for artists, authors and poets to submit work for hte first issue of its newsletter. If you have a short story, opinion article, or poem you would like published, send it \[Ed. note 2005: Out-of-Date info withheld.\]. Artists, send a SASE for guidelines. Also, we are always looking for new members. For your membership pack send \[Ed. note 2005: Out-of-Date info withheld.\].
+K'Vashta Vale is looking for artists, authors and poets to submit work for hte first issue of its newsletter. If you have a short story, opinion article, or poem you would like published, send it [Ed. note 2005: Out-of-Date info withheld.]. Artists, send a SASE for guidelines. Also, we are always looking for new members. For your membership pack send [Ed. note 2005: Out-of-Date info withheld.].
 
-FANTASY STATIONERY AND BOOKMARKS--Myths, Heralds and Companions, and much more! I offer gift certificates and, for a time, a free gift--B&W illustrations of mine (reproductions)--ask for details! ATTENTION: I am extending my free gift offer--those who already have this disregard teh date. For my booklet and details send SASE to \[Ed. note 2005: Out-of-Date info withheld.\].
+FANTASY STATIONERY AND BOOKMARKS--Myths, Heralds and Companions, and much more! I offer gift certificates and, for a time, a free gift--B&W illustrations of mine (reproductions)--ask for details! ATTENTION: I am extending my free gift offer--those who already have this disregard teh date. For my booklet and details send SASE to [Ed. note 2005: Out-of-Date info withheld.].
 
-Regardless of your calling, be it Herald, Bard, HEaler, Tayledras or Adept, Mercenary or Soldier, you are welcome at Westhaven Collegia and k'Vestra Vale. Dean Anne (\[Ed. note 2005: Out-of-Date info withheld.\]) will greet all travelers with an orientation package of information for those just developing personas along with friendship and camaraderie for those wishing to continue their studies. To find us, \[Ed. note 2005: Out-of-Date info withheld.\] . . . Westhaven Collegia and k'Vestra Vale are located on teh shores of Lake Evendim. All are welcome.
+Regardless of your calling, be it Herald, Bard, HEaler, Tayledras or Adept, Mercenary or Soldier, you are welcome at Westhaven Collegia and k'Vestra Vale. Dean Anne ([Ed. note 2005: Out-of-Date info withheld.]) will greet all travelers with an orientation package of information for those just developing personas along with friendship and camaraderie for those wishing to continue their studies. To find us, [Ed. note 2005: Out-of-Date info withheld.] . . . Westhaven Collegia and k'Vestra Vale are located on teh shores of Lake Evendim. All are welcome.
 
-Hey, fantasy fans! Join us in the world of Talemnia as you decide the fate of two kingdoms. You can create a persona and write a part of our continuing serach for the crystals, so don't let the evil Relar mages take over Volumna! Of course, you could also choose to *help* the Relars . . . For more info, \[Ed. note 2005: Out-of-Date info withheld.\].
+Hey, fantasy fans! Join us in the world of Talemnia as you decide the fate of two kingdoms. You can create a persona and write a part of our continuing serach for the crystals, so don't let the evil Relar mages take over Volumna! Of course, you could also choose to *help* the Relars . . . For more info, [Ed. note 2005: Out-of-Date info withheld.].
 
-Don't bore your pen pals! Ellen Million designs lovely, quality, partly recycled FANTASY STATIONERY. A marvelous alternative to fuzzy-edged notebook paper. To join the mailing list, write to \[Ed. note 2005: Out-of-Date info withheld.\].
+Don't bore your pen pals! Ellen Million designs lovely, quality, partly recycled FANTASY STATIONERY. A marvelous alternative to fuzzy-edged notebook paper. To join the mailing list, write to [Ed. note 2005: Out-of-Date info withheld.].
 
-Become SPELLBOUND . . . Magick happens when we work together. Needed are poems, short-stories, art, apells, recipes, and pen-pal ads. This zine is for those who follow Spiral traditions. Submissions (or SASE for info) to: Sabine Storm \[Ed. note 2005: Out-of-Date info withheld.\].
+Become SPELLBOUND . . . Magick happens when we work together. Needed are poems, short-stories, art, apells, recipes, and pen-pal ads. This zine is for those who follow Spiral traditions. Submissions (or SASE for info) to: Sabine Storm [Ed. note 2005: Out-of-Date info withheld.].
 
-Under Kal'enel's Care is a bi-monthly newsletter for those who are interested in the Shin'a'in. We have artwork, poems, articles and addresses of interest. For more info, send SASE to \[Ed. note 2005: Out-of-Date info withheld.\].
+Under Kal'enel's Care is a bi-monthly newsletter for those who are interested in the Shin'a'in. We have artwork, poems, articles and addresses of interest. For more info, send SASE to [Ed. note 2005: Out-of-Date info withheld.].
 
-EPIC! is here! All who enjoy prose adn poetry are invited to join this chapter of QO and share tales of Valdemar, Velgarth, and other lands. Send \[Ed. note 2005: Out-of-Date info withheld.\].
+EPIC! is here! All who enjoy prose adn poetry are invited to join this chapter of QO and share tales of Valdemar, Velgarth, and other lands. Send [Ed. note 2005: Out-of-Date info withheld.].
 
-SORCEROUS and WIZARD'S WALL, a newsletter *supplement* to the SORCEROUS zine, are open to submissions of fiction, nonfiction, art & poetry. Publishing specifically in the realms of Sword & Sorcery and all aspects of Fantasy, the Medieval and the Renaissance. SORCEROUS is \[Ed. note 2005: Out-of-Date info withheld.\]; a complimentary copy of WIZARD'S WALL is sent with every SORCEROUS issue, or is available independently for \[Ed. note 2005: Out-of-Date info withheld.\]. Hosting the First Annual Theme Contest "Tournament of Dragons!" Send a business size SASE for more information. Pen-Pal Adverts: Free ads under 30 words run for as long as you wish! No SASE is necessary--will print *all* pen-pal ads free. Verifications are \[Ed. note 2005: Out-of-Date info withheld.\].
+SORCEROUS and WIZARD'S WALL, a newsletter *supplement* to the SORCEROUS zine, are open to submissions of fiction, nonfiction, art & poetry. Publishing specifically in the realms of Sword & Sorcery and all aspects of Fantasy, the Medieval and the Renaissance. SORCEROUS is [Ed. note 2005: Out-of-Date info withheld.]; a complimentary copy of WIZARD'S WALL is sent with every SORCEROUS issue, or is available independently for [Ed. note 2005: Out-of-Date info withheld.]. Hosting the First Annual Theme Contest "Tournament of Dragons!" Send a business size SASE for more information. Pen-Pal Adverts: Free ads under 30 words run for as long as you wish! No SASE is necessary--will print *all* pen-pal ads free. Verifications are [Ed. note 2005: Out-of-Date info withheld.].
 
-Heyla, writing fans! here's another write-it-yourself newsletter where *you* decide what happens. Just send in continuations of our ongoing fantasy story and get plunged into a world of magiv and adventure! For a sample issue, send a SASE to \[Ed. note 2005: Out-of-Date info withheld.\].
+Heyla, writing fans! here's another write-it-yourself newsletter where *you* decide what happens. Just send in continuations of our ongoing fantasy story and get plunged into a world of magiv and adventure! For a sample issue, send a SASE to [Ed. note 2005: Out-of-Date info withheld.].
 
-HURRY, HURRY, HURRY! Step right up to recieve SILVER SHADOWS for the low, low introductory prive of \[Ed. note 2005: Out-of-Date info withheld.\]! Due to an increase in production costs, the price must be raised to \[Ed. note 2005: Out-of-Date info withheld.\]. Send in your requests for subscriptions and sample issues before the deadline to receive your urban fantasy 'zine consisting of eight to ten pages of poetry, reviews, articles, artwork and short fiction mailed out eight times a year! I've got ghosts, witches and elves coming out my EARS, folks. Don't miss out. Make checks/money orders payable to \[Ed. note 2005: Out-of-Date info withheld.\].
+HURRY, HURRY, HURRY! Step right up to recieve SILVER SHADOWS for the low, low introductory prive of [Ed. note 2005: Out-of-Date info withheld.]! Due to an increase in production costs, the price must be raised to [Ed. note 2005: Out-of-Date info withheld.]. Send in your requests for subscriptions and sample issues before the deadline to receive your urban fantasy 'zine consisting of eight to ten pages of poetry, reviews, articles, artwork and short fiction mailed out eight times a year! I've got ghosts, witches and elves coming out my EARS, folks. Don't miss out. Make checks/money orders payable to [Ed. note 2005: Out-of-Date info withheld.].
 
-Good home needed for collection of back issues of fanzines from groups based on Misty's world. Included are the past 22 issues of Queen's Own and 11 assorted issues from other groups. The package weighs about a pound, so the minimum bid must cover postage. Best offer above that takes all! \[Ed. note 2005: Out-of-Date info withheld.\].
+Good home needed for collection of back issues of fanzines from groups based on Misty's world. Included are the past 22 issues of Queen's Own and 11 assorted issues from other groups. The package weighs about a pound, so the minimum bid must cover postage. Best offer above that takes all! [Ed. note 2005: Out-of-Date info withheld.].
 
 ## COLLEGIUM NEWS
 
 Please, please, put your name on everything you send me. (Dating your letters and persona material is a good idea, too.)
 
-Anyone interested in joining the Mercenaries Guild and working on a mercenary persona can send a SASE for persona guidelines to \[Ed. note 2005: Out-of-Date info withheld.\].
+Anyone interested in joining the Mercenaries Guild and working on a mercenary persona can send a SASE for persona guidelines to [Ed. note 2005: Out-of-Date info withheld.].
 
-We have individual handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. Guidelines for Tayledras and Shin'a'in are incomplete but are enough to get you started. Send a SASE to \[Ed. note 2005: Out-of-Date info withheld.\] or to QO and specify which handout you are requesting. No SASE, no answer!
+We have individual handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. Guidelines for Tayledras and Shin'a'in are incomplete but are enough to get you started. Send a SASE to [Ed. note 2005: Out-of-Date info withheld.] or to QO and specify which handout you are requesting. No SASE, no answer!
 
-You need a release form (send the Guardian or me a SASE) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem or filk. All Misty wants to do is protect her characters and worlds. Send the [release form](/release-form-instructions/) to Misty at Highflight \[Ed. note 2005: Out-of-Date info withheld.\]. Do NOT include the release form with your persona material; send it to Misty.
+You need a release form (send the Guardian or me a SASE) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem or filk. All Misty wants to do is protect her characters and worlds. Send the [release form](/release-form-instructions/) to Misty at Highflight [Ed. note 2005: Out-of-Date info withheld.]. Do NOT include the release form with your persona material; send it to Misty.
 
 Herald material should be sent ot the QO address; only Herald-Mage personas to the Guardian of the Web.
 
@@ -134,9 +132,9 @@ Herald material should be sent ot the QO address; only Herald-Mage personas to t
 
 ### From Herald Housemother:
 
-To all who are going to be at NASFiC/Dragon\*Con this July--I'm looking forward to meeting you, so please make a point of introducing yourselves to me. What do you want to know about QO? Send me your questions now, and I'll do my best to have answers for you at the con.
+To all who are going to be at NASFiC/Dragon&#42;Con this July--I'm looking forward to meeting you, so please make a point of introducing yourselves to me. What do you want to know about QO? Send me your questions now, and I'll do my best to have answers for you at the con.
 
-One of the highlights of the QO Collegia meeting at NASFiC will be an auction or raffle of items donated by Misty to raise money for the Rachel Vogt Fund. Rachel is Misty's 14-year-old neighbor who suffers from stage 3B Hodgkin's Disease. Rachel is responding ell to treatment, but her medical bills are over $300,000. Donations of any amount will be appreciated and can be sent to \[Ed. note 2005: Out-of-Date info withheld.\].
+One of the highlights of the QO Collegia meeting at NASFiC will be an auction or raffle of items donated by Misty to raise money for the Rachel Vogt Fund. Rachel is Misty's 14-year-old neighbor who suffers from stage 3B Hodgkin's Disease. Rachel is responding ell to treatment, but her medical bills are over $300,000. Donations of any amount will be appreciated and can be sent to [Ed. note 2005: Out-of-Date info withheld.].
 
 Is your address changing for the summer? Remember to tell me, please.
 
@@ -146,24 +144,21 @@ The QO mailing list is alphabetical by last name. You may use a fan name if you 
 
 ## FAN MESSAGES:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
 ## PERSONALS:
 
-\[Ed. Note 2005: Content withheld.\]
+[Ed. Note 2005: Content withheld.]
 
-Queen's Own \[Ed. note 2005: Out-of-date content withheld.\], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at \[Ed. note 2005: Out-of-date content withheld.\] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay \[Ed. note 2005: Out-of-date content withheld.\] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: \[Ed. note 2005: Out-of-date content withheld.\]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Next Mailing Day: June 17, 1995--Call \[Ed. note 2005: Out-of-date content withheld.\] for directions. Call before coming, family emergencies can cancel mailings. Mailing Day in Jyly (July 29) will be at Ana Little's apartment in Montclair. Call her at \[Ed. note 2005: Out-of-Date info withheld.\] to verify.
+Next Mailing Day: June 17, 1995--Call [Ed. note 2005: Out-of-date content withheld.] for directions. Call before coming, family emergencies can cancel mailings. Mailing Day in Jyly (July 29) will be at Ana Little's apartment in Montclair. Call her at [Ed. note 2005: Out-of-Date info withheld.] to verify.
 
-Editor, President, Dogsbody, Housemother - Judith Louvis \[Ed. Note 2005:personal info withheld\]\
-Archivist and Organizer extraordinaire - Patricia Riggs \[Ed. Note 2005:address withheld\] write to Patricia with your questions about the club. You may register your persona and Companion names with Patricia before completing the requirements.\
-Herald-Mage Registrar/Dispenser of handout sheets - Guardian of the Web \[Ed. Note 2005:address withheld\]\
-Mailing Day Helpers (last issue) - The Faithful Three: Meredith Baldino, Helen Edwards and Rusty.
+Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. Note 2005:personal info withheld] Archivist and Organizer extraordinaire - Patricia Riggs [Ed. Note 2005:address withheld] write to Patricia with your questions about the club. You may register your persona and Companion names with Patricia before completing the requirements. Herald-Mage Registrar/Dispenser of handout sheets - Guardian of the Web [Ed. Note 2005:address withheld] Mailing Day Helpers (last issue) - The Faithful Three: Meredith Baldino, Helen Edwards and Rusty.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -177,10 +172,7 @@ The featured artists for this edition of the newsletter was Hanna Bruin. If you 
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

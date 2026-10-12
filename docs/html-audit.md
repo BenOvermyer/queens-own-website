@@ -6,9 +6,9 @@ Issue: https://github.com/BenOvermyer/queens-own-website/issues/5
 
 The preserved content pages are Markdown with a small amount of retained HTML
 (tables, images, `<dl>` lists, and named anchors). The audit reads `content/`, ignores
-Markdown code spans/fences and backslash-escaped angle brackets, and then reports two
-things per page: the problems in any remaining HTML, and a content-preservation
-baseline (visible-text digest plus link, image, anchor, table, and heading counts).
+Markdown code spans/fences, and then reports two things per page: the problems in any
+remaining HTML, and a content-preservation baseline (visible-text digest plus link,
+image, anchor, table, and heading counts).
 
 Run it with `python3 scripts/audit_html.py`. The machine-readable result is
 `data/html-audit-report.json`; `--check` exits non-zero while unresolved structural

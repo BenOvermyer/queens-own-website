@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 3, No. 11\
-November 1, 2002
+## Series 3, Vol. 3, No. 11 November 1, 2002
 
 <img alt="Ranger Blue by Gibel Encarnacion" class="border-5" loading="lazy" src="/qo136.jpg"/>
 
@@ -181,7 +179,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **CHICAGO TARDIS 2002.** Website: [http://www.chicagotardis.com/](http://www.chicagotardis.com/). E-mail: [info@chicagotardis.com](mailto:info@chicagotardis.com). Address: Sheraton Chicago Northwest, Arlington Heights (Chicago), Illinois. Dates: 11/29/02 - 12/1/02.
 
-**CHICAGOLAND GAMERS CONCLAVE.** Website: [http://www.chicagogamecon.org/](http://www.chicagogamecon.org/). E-mail: [krag\_shot\_001@hotmail.com](mailto:krag_shot_001@hotmail.com). Address: Indian Lakes Resort, Bloomingdale, Illinois. Dates: 11/29/02 - 12/1/02.
+**CHICAGOLAND GAMERS CONCLAVE.** Website: [http://www.chicagogamecon.org/](http://www.chicagogamecon.org/). E-mail: [krag_shot_001@hotmail.com](mailto:krag_shot_001@hotmail.com). Address: Indian Lakes Resort, Bloomingdale, Illinois. Dates: 11/29/02 - 12/1/02.
 
 **WINDYCON XXIX.** Website: [http://www.windycon.org/](http://www.windycon.org/). E-mail: [Windycon@windycon.org](mailto:Windycon@windycon.org). Address: Hyatt Regency Woodfield, Schaumburg, Illinois. Dates: 11/8/02 - 11/10/02.
 
@@ -267,7 +265,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### South Carolina
 
-**BEACH BASH.** Website: [http://beachbash.virtualave.net/index.html](http://beachbash.virtualave.net/index.html). E-mail: [apsara\_chaouw@yahoo.com](mailto:apsara_chaouw@yahoo.com). Address: The Breakers Resort Hotel, Myrtle Beach, South Carolina. Dates: 11/8/02 - 11/10/02.
+**BEACH BASH.** Website: [http://beachbash.virtualave.net/index.html](http://beachbash.virtualave.net/index.html). E-mail: [apsara_chaouw@yahoo.com](mailto:apsara_chaouw@yahoo.com). Address: The Breakers Resort Hotel, Myrtle Beach, South Carolina. Dates: 11/8/02 - 11/10/02.
 
 **SPARTACON 2002.** Website: [http://www.angelfire.com/rpg/spartacon/](http://www.angelfire.com/rpg/spartacon/). E-mail: [b29349@yahoo.com](mailto:b29349@yahoo.com). Address: Wilson World Hotels & Suites, Spartanburg, South Carolina. Dates: 11/8/02 - 11/10/02.
 
@@ -293,9 +291,9 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Canada
 
-**BREAKTHROUGH 2002.** Website: [http://www.trumpeterclub.com](http://www.trumpeterclub.com). E-mail: [big\_dog@telus.net](mailto:big_dog@telus.net). Address: The Guildford Sheraton Hotel, Vancouver (Surrey), British Columbia. Dates: 11/8/02 - 11/10/02.
+**BREAKTHROUGH 2002.** Website: [http://www.trumpeterclub.com](http://www.trumpeterclub.com). E-mail: [big_dog@telus.net](mailto:big_dog@telus.net). Address: The Guildford Sheraton Hotel, Vancouver (Surrey), British Columbia. Dates: 11/8/02 - 11/10/02.
 
-**CON\*CEPT 2002.** Website: [http://www.monsffa.com/](http://www.monsffa.com/). E-mail: [cathypl@sympatico.ca](mailto:cathypl@sympatico.ca). Address: Days Inn Hotel, Montreal, Quebec. Dates: 11/2/02.
+**CON&#42;CEPT 2002.** Website: [http://www.monsffa.com/](http://www.monsffa.com/). E-mail: [cathypl@sympatico.ca](mailto:cathypl@sympatico.ca). Address: Days Inn Hotel, Montreal, Quebec. Dates: 11/2/02.
 
 ### Germany
 
@@ -303,7 +301,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **GALILEO 7 VI.** Website: [http://www.galileo7.de/](http://www.galileo7.de/). E-mail: [tickets@galileo7.de](mailto:tickets@galileo7.de). Address: Estrel Convention Centre, Berlin, Germany. Dates: 11/1/02 - 11/3/02.
 
-**RING\*CON 2002.** Website: [http://www.ringcon.de/](http://www.ringcon.de/). E-mail: [webmaster@ringcon.de](mailto:webmaster@ringcon.de). Address: Maritim Hotel, Bonn, Germany. Dates: 11/22/02 - 11/24/02.
+**RING&#42;CON 2002.** Website: [http://www.ringcon.de/](http://www.ringcon.de/). E-mail: [webmaster@ringcon.de](mailto:webmaster@ringcon.de). Address: Maritim Hotel, Bonn, Germany. Dates: 11/22/02 - 11/24/02.
 
 **SGC 2002 - THE GATE DAYS.** Website: [http://www.logefanevents.de/sgc2002/eng/](http://www.logefanevents.de/sgc2002/eng/). E-mail: [marc@logefanevents.de](mailto:marc@logefanevents.de). Address: Pfalzbau (Big Location Center In Ludwigshafen,)Ludwigshafen / Rhine, Germany. Dates: 11/1/02 - 11/3/02.
 
@@ -345,7 +343,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
 
 ### Zines and Newsletters:
 
@@ -396,23 +394,23 @@ Welcome back! If you are a returning member who has recently activated your memb
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\
-- Herald Cateryna Cyray (KimChrist@Home.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\
-- Healer Adept Sierra k'Treva (katsanders@buffymail.com)\
-- Herald Trieenia Featherfire (sylverstorme@aol.com)\
-- Bard Valiena (laughsong@aol.com)\
-- Healer Tamesin na Coille (minke13@earthlink.net)\
-- Herald Alia Melyngar (aliamelyngar@aol.com)\
-- Herald-Mage Apprentice Kadia Linder (kadia@aol.com)\
-- Herald Gwendolyn Katran (ladykent@wildmail.com)\
-- Herald Liana Firelan (krbertke@bertke.com)\
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
+- Herald Cateryna Cyray (KimChrist@Home.com)
+- Herald Deborah (sjupiterdebi@home.com)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Healer Adept Sierra k'Treva (katsanders@buffymail.com)
+- Herald Trieenia Featherfire (sylverstorme@aol.com)
+- Bard Valiena (laughsong@aol.com)
+- Healer Tamesin na Coille (minke13@earthlink.net)
+- Herald Alia Melyngar (aliamelyngar@aol.com)
+- Herald-Mage Apprentice Kadia Linder (kadia@aol.com)
+- Herald Gwendolyn Katran (ladykent@wildmail.com)
+- Herald Liana Firelan (krbertke@bertke.com)
 - Herald Kalendel (itsmyage@aol.com)
 
 If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
@@ -425,7 +423,7 @@ The past couple of months have been very difficult for me. I have lost both of m
 
 Erik was gifted with a Heeler/Pointer cross, which is keeping us very busy. She is six months old and came from a shelter in LA, where she was on the next to go list. She is very smart but has separation anxiety, which has driven us crazy at times.
 
-Erik and I have become officially engaged with a wedding sometime in the future. We are likely to elope and tell everyone the exact date later. I am thinking either fall or next spring. \<grin> Anyways, we are very happy together.
+Erik and I have become officially engaged with a wedding sometime in the future. We are likely to elope and tell everyone the exact date later. I am thinking either fall or next spring. &lt;grin> Anyways, we are very happy together.
 
 I am still taking classes and that has filled up most of my time. I am into the programming classes and all my time that is not spent sleeping or working is spent programming. I am finishing up a Visual Basic class this month, and I feel like I was thrown into the deep end of the pool headfirst.
 
@@ -463,10 +461,7 @@ The featured artist for this newsletter is [Gibel Encarnacion](mailto:gibelmaria
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

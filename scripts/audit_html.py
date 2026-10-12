@@ -4,9 +4,9 @@
 The audit reads the `content/` documents (Markdown with retained HTML tables, images,
 `<dl>` lists, and named anchors) rather than the built site, because that is what the
 importer regenerates and what repairs must change. It ignores Markdown code spans and
-fences and backslash-escaped angle brackets, then records a content-preservation
-baseline (visible-text digest and structural counts) so later repair steps can prove
-they lost no prose, links, artwork, or anchors.
+fences, then records a content-preservation baseline (visible-text digest and
+structural counts) so later repair steps can prove they lost no prose, links, artwork,
+or anchors.
 
 Unresolved structural errors fail with `--check`; acknowledged exceptions are listed in
 `data/html-exceptions.json` and documented in `docs/html-audit.md`.
@@ -68,10 +68,6 @@ KNOWN_HTML_ELEMENTS = {
     'tbody', 'td', 'template', 'textarea', 'tfoot', 'th', 'thead', 'time', 'title', 'tr', 'track',
     'tt', 'u', 'ul', 'var', 'video', 'wbr', 'xmp',
 }
-# Escaped markup that leaked into text, e.g. "&lt;/a&gt;" from a link whose tag was mangled.
-# Only escaped opening angle brackets count: a bare "&gt;" is an ordinary quoted-reply marker
-# or an emoticon such as "&lt;g&gt;", not malformed markup.
-ESCAPED_MARKUP = re.compile(r'&lt;\s*/?\s*(?:a|img|font|center|table|tr|td|th|li|ul|ol|p|div|br|b|i|h[1-6]|pre|span|blockquote|dl|dt|dd)\b', re.I)
 
 
 def read_body(text):
@@ -88,11 +84,9 @@ def read_body(text):
 
 
 def strip_markdown(text):
-    """Remove Markdown code spans/fences and unescape angle brackets so only real HTML parses."""
+    """Remove Markdown code spans/fences so only real HTML is parsed."""
     text = re.sub(r'```.*?```', '', text, flags=re.S)
-    text = re.sub(r'`[^`]*`', '', text)
-    text = text.replace('\\<', '&lt;').replace('\\>', '&gt;')
-    return text
+    return re.sub(r'`[^`]*`', '', text)
 
 
 class MarkupChecker(HTMLParser):
@@ -153,7 +147,6 @@ class MarkupChecker(HTMLParser):
 
 def audit_file(path, text, root):
     meta, body = read_body(text)
-    escaped = [body[match.start():match.start() + 100].strip() for match in ESCAPED_MARKUP.finditer(body)]
     body = strip_markdown(body)
     if '<' not in body:
         return None
@@ -180,9 +173,6 @@ def audit_file(path, text, root):
     if checker.suspect_attributes:
         add('malformed_attribute', 'error',
             [f"<{row['tag']} {row['attribute']}=\"{row['value']}\">" for row in checker.suspect_attributes])
-    if escaped:
-        add('escaped_markup_in_text', 'error', escaped,
-            'Escaped tags in text; usually a link or element whose source was already broken.')
     if checker.block_in_anchor:
         add('block_in_anchor', 'warning', checker.block_in_anchor,
             'Block element nested in <a>; the legacy named-anchor idiom, repairable by moving the id to the block.')

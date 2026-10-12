@@ -20,25 +20,23 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. II, No. 7\
-August/September 1989
+## Series 1, Vol. II, No. 7 August/September 1989
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty fans:
 
-This has been a *very* difficult fanletter to organize and write. That's why it's so late in reaching you, and I apologize if some of you began to wonder what had happened. The fanmessages, which in this combined issue are almost 3-1/2 pages in length, were \[even with some almost impossible handwriting and some truly imaginative spelling,\], a lead pipe cinch to put together, comparatively speaking.
+This has been a *very* difficult fanletter to organize and write. That's why it's so late in reaching you, and I apologize if some of you began to wonder what had happened. The fanmessages, which in this combined issue are almost 3-1/2 pages in length, were [even with some almost impossible handwriting and some truly imaginative spelling,], a lead pipe cinch to put together, comparatively speaking.
 
 Judith and I found ourselves annoyed and upset by some of our recent mail. Ordinarily we alternate, which works out just fine because we then take turns calming each other down. This time, however, we were both angry at the same time about the same things. And it's taken me quite some time to put things enough in perspective to write about them objectively.
 
 I'll start by reminding you of how we, *The Queen's Own*, came to be.
 
-A little over a year and a half ago, \[and about 373 members less,\] Judith and I, with a skeptical Misty's blessing, sent out our first fanletter. It was the result of our having fallen in love with Misty's concept of Valdemar and its inhabitants, and being absolutely certain that we weren't the only ones.
+A little over a year and a half ago, [and about 373 members less,] Judith and I, with a skeptical Misty's blessing, sent out our first fanletter. It was the result of our having fallen in love with Misty's concept of Valdemar and its inhabitants, and being absolutely certain that we weren't the only ones.
 
 In that wonderful, private place we all have within us, we found a shared delight in the Misty-made world of Companions, Chosen, Heralds, the Queen's Own, and the ofttimes less than common concepts of friendship, honor, loyalty, respect, and the *acceptance* of new and different ways of thinking, acting, and living one's life.
 
@@ -48,7 +46,7 @@ Just this. Each of us, depending upon many variables, has strong feelings, opini
 
 In the [June-July](/newsletters/1989/june/) fanletter, I excerpted material from three persons' letters on the subject of the Society for Creative Anachronism. I did this deliberately to show the authors' different perspectives on this most fascinating and complex organization. A small number of people disagreed with one of the writer's viewpoints, and their response was to write him letters that were mean, nasty, rude, insulting, and otherwise thoroughly *offensive*.
 
-His reponse to them was to write Misty a letter of apology, "in case I offended her," and another to Judith and myself. Misty, Judith, and I were offended, but at the letters he *received*, not the one he wrote to us. \[See Misty's letter on this subject.\]
+His reponse to them was to write Misty a letter of apology, "in case I offended her," and another to Judith and myself. Misty, Judith, and I were offended, but at the letters he *received*, not the one he wrote to us. [See Misty's letter on this subject.]
 
 I am a strong believer in, and defender of, free speech. But I also believe that *intelligent* people can disagree without being disagreeable.
 
@@ -56,19 +54,19 @@ Think about it.
 
 On that note you might be interested in the following from Denise Cutair: "I am a registered member of the local SCA. In the June-July newsletter David writes, 'SCA is a little hard to find . . . a little standoffish . . . ' I've been a member for 3 years. These words are true. Some groups try to be very authentic and in doing so deride others that do not have the $$ to get the correct materials. Some groups form cliques and are hard to get to know. My advice to interested parties is: read, read up well on the period (years), the cloth used, and style. Then make what you can with what you can. When you have done these things, go with a group of friends. It can be very lonely watching others having fun while you stand on the sidelines.
 
-"David did mention that once you break through it can be very rewarding. If you have a knack or ability, use it. Get involved as soon as you feel ready. You will get to know who is who and how to work around certain personalities. I create and sew costumes. I also cook period foods using recipes I've researched. If anyone is interested in a sewing circle or in sharing ideas, please write me at \[Ed. Note 2002: Address withheld.\]."
+"David did mention that once you break through it can be very rewarding. If you have a knack or ability, use it. Get involved as soon as you feel ready. You will get to know who is who and how to work around certain personalities. I create and sew costumes. I also cook period foods using recipes I've researched. If anyone is interested in a sewing circle or in sharing ideas, please write me at [Ed. Note 2002: Address withheld.]."
 
-On the subject of **The Queen's Own--Mercedes Lackey Fan Club buttons**: I haven't kept an exact count of how many of you requested buttons, but my maillady, \[to whom I gave one so she'd know what it was that I was mailing all over the country in lumpy envelopes,\] thinks there were a ZILLION of you.
+On the subject of **The Queen's Own--Mercedes Lackey Fan Club buttons**: I haven't kept an exact count of how many of you requested buttons, but my maillady, [to whom I gave one so she'd know what it was that I was mailing all over the country in lumpy envelopes,] thinks there were a ZILLION of you.
 
-There are still plenty available, though, \[for the same $1.50 in check or money order plus a SASE,\] but send all future requests to me \[Sally Paduch\] at \[Ed. Note 2002: address withheld.\].
+There are still plenty available, though, [for the same $1.50 in check or money order plus a SASE,] but send all future requests to me [Sally Paduch] at [Ed. Note 2002: address withheld.].
 
-**A special note to our overseas friends**: We've recently learned about IRCs. If you will send one for \[Ed. Note 2002: Out-of-date info withheld.\], I'll take care of the postage if you want a button.
+**A special note to our overseas friends**: We've recently learned about IRCs. If you will send one for [Ed. Note 2002: Out-of-date info withheld.], I'll take care of the postage if you want a button.
 
 About the **Pen Pal List**: Some of you have indicated an interest in taking over this responsibility. That's just fine with Judith and me. Therefore, we will put you in touch with one another and let you work out the details. Once you've reached a decision, let us know. We'll pass the word.
 
-**Questions, we get questions**, mostly \[of course\] about Misty. As to when Misty's picture and a brief biography are going to be printed in her books--only the lady and her publishers know. As to whether or not we "as a club" can influence DAW to do so--first we'd want to know if Misty wants same, but even so we think that's Misty's and her publishers' business, not ours.
+**Questions, we get questions**, mostly [of course] about Misty. As to when Misty's picture and a brief biography are going to be printed in her books--only the lady and her publishers know. As to whether or not we "as a club" can influence DAW to do so--first we'd want to know if Misty wants same, but even so we think that's Misty's and her publishers' business, not ours.
 
-As to whether we can print Misty's travel schedule for book signings, promotions, cons, etc.--we only know what Misty tells us. What we know, you know. If nothing is printed in the fanletter, nothing is known. We printed a bit about SPRINGFEST '89 because Misty and we were there. For reports on other cons she attends, we have to rely on her or those of our members who attend to write us about same. \[Read on.\]
+As to whether we can print Misty's travel schedule for book signings, promotions, cons, etc.--we only know what Misty tells us. What we know, you know. If nothing is printed in the fanletter, nothing is known. We printed a bit about SPRINGFEST '89 because Misty and we were there. For reports on other cons she attends, we have to rely on her or those of our members who attend to write us about same. [Read on.]
 
 **Neil Raines**, a/k/a Herald Glendon, attended OKON, which he describes as the largest SF convention in Oklahoma, and one of the largest in the Midwest. He writes. "Misty was in attendance at OKON, and it was great!
 
@@ -82,19 +80,19 @@ As to whether we can print Misty's travel schedule for book signings, promotions
 
 **Stephanie Bergeron** writes, "I did go to CON IV in Portland, OR. It was great to meet Misty. She's super! I also met with Teri Lee of Firebird Arts & Music. There were quite a few Queen's Own members there, even one from Hawaii! . . . I also got to visit with Larry Dixon. He's a super artist! Can you tell I had a great time at the con? . . . Denise Park was taking pictures right and left . . . . "
 
-**F.Y.I. \[For Your Information\]**: If you don't send us stamps, this mailing would have cost us ±$93.75 if only one 25¢ is required. That does not include the cost of xeroxing, \[5 pages times ±375 equals ±1,875 pieces of paper,\] or envelopes. *Have YOU sent Judith any stamps lately?*
+**F.Y.I. [For Your Information]**: If you don't send us stamps, this mailing would have cost us ±$93.75 if only one 25¢ is required. That does not include the cost of xeroxing, [5 pages times ±375 equals ±1,875 pieces of paper,] or envelopes. *Have YOU sent Judith any stamps lately?*
 
 ## Personals:
 
-\[Ed. Note 2002: Personals are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Personals are not being posted online because of the personal information they contained.]
 
 ## Fanmessages:
 
-\[Ed. Note 2002: Fanmessages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Fanmessages are not being posted online because of the personal information they contained.]
 
-We received a huge envelope of material from Debbie Sanders of NA MELE O NA HOKU fame a while back. Included were the July and August issues of her newsletter in which she \[blush\] has some very nice things to say about The Queen's Own; some Misty-inspired song lyrics; and other goodies which we'll say more about in our [October](/newsletters/1989/october/) issue. Thanks, Debbie. We think you're pretty special too.
+We received a huge envelope of material from Debbie Sanders of NA MELE O NA HOKU fame a while back. Included were the July and August issues of her newsletter in which she [blush] has some very nice things to say about The Queen's Own; some Misty-inspired song lyrics; and other goodies which we'll say more about in our [October](/newsletters/1989/october/) issue. Thanks, Debbie. We think you're pretty special too.
 
-**Editor's To-Whom-It-May-Concern II:** (1) Chain letters, approved by the US Postal Service or not. All those received will be 'sent' to the nearest wastebasket. (2) Use of our name\[s\] without asking *first*. (3) Nit pickers.
+**Editor's To-Whom-It-May-Concern II:** (1) Chain letters, approved by the US Postal Service or not. All those received will be 'sent' to the nearest wastebasket. (2) Use of our name[s] without asking *first*. (3) Nit pickers.
 
 **Editor's Policy Statemnet:** The Queen's Own fanletter will not print any statements, references, or innuendos regarding race, religion, politics, ethnicity, or sexual preferences except by mistake. The Queen's Own is the Mercedes Lackey Fan Club fanletter.
 
@@ -132,13 +130,13 @@ You can make an editor more inclined to think kindly of you by doing the followi
 7. You will not be read by the editor in the first place. You will be read by a long-suffering sould called the "First Reader." It is his job to go through the pile of unsolicited manuscripts and try and find publishable books. The first thing he will throw out is any manuscript he can't read. The second thing he will throw out is any manuscript that is hard to read. The third thing he will throw out is anything that doesn't attract him with the very first page. After that he has a smaller pile. Now he will read the first twenty pages. He will throw out the Star Wars clones, the Tolkein clones, the Thieve's World clones, the D&D adventures written up as books. He will also throw out anything that doesn't hold his attention for those first twenty pages. Now he has a *much* smaller pile. He will take those manuscripts home, and read them as he gets around to them. If the book holds his attention (and remember, this is a busy guy who reads *all day long*) he will mark it for the attention fo the Assistant Editor. The Assistant Editor--who is much pickier--will go through the same process. If it makes it past *him*, it goes to the Editor. This will take months, not the 6-8 weeks they say it does. Publishers get a *lot* of books. If they've had your book for 6 months, it's fair to say that they might be interested.
 8. Nobody is going to "steal your idea," much less your book. First of all, you can't steal ideas; no two authors will do the same thing with the same idea. Secondly, nobody would even consider stealing a book; it's not worth it. A publisher could be wiped out by a single lawsuit.
 
-\*\*\*\*\*\*\*\*Wee pause for an important announcement.\*\*\*\*\*\*\*\*
+&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;Wee pause for an important announcement.&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;
 
 There is something called a "vanity press." Danger! They will take your money and leave you with a garage full of books (or tapes, they exist in the music business, too). Basically, you send your work to them, and they write back with incredible praise; this makes you feel wonderful. At the end of the letter, they will say, " but you are going to need some editing work, and since you're unpublished, we need $X for our time." Okay, you send them the money. Then, after several more sessions of this, they say, "we're all ready to print this, but since you're unpublished, we'll need $XXXXXXXX for printing and distribution costs." Well, by now you've sent them so much money you figure you might as well . . . . The books are never distributed; the "distribution" will be straight to your house, and they will tell you that it's your job to get bookstores to take them . . . and by the way, they're *very* interested in your next book--on the same basis. You've just spent $10,000 (or more) and you have a garage full of books no one wants. The music vanity presses get your money even faster. They will tell you you're a great songwriter (singer, musician) but in order to do a tape right, they need backup musicians, engineers, etc. . . . so they'll need, oh, $3,000 to $10,0000 right away. These things don't come cheap, you know . . . . Well, as certain relatives of certain members of QO will tell you, they *do* come cheaper than that; if you really *want* to do, say, a filk tape, and you've got some reasonably competent musician friends, you all get together and *practice* for a month or more, then you *rent* a studio (they even have good studios in towns like Tulsa, they're in the yellow pages under "Recording Services"). A studio comes complete with engineer for $35-$50 per hour, and if you can't do a 45-minute tape in two hours, give up. You then find a tape duplication firm (frequently the studio has one) and pay to have your tapes duped. You make a cassette insert up, and have it printed, buy blank boxes, and have a stuffing party. Bear in mind, after all this work, there has never been a filk tape that sold more tha 2,000 copies. Very few have sold more tha 1,000. And you will have to sell the thing yourself, because so far no one in the music distribution business has shown the slightest interest in filk. There are a couple of filk distributors (Firebird, of course, and Wail) but you will have to send them tapes on speculation; you won't get paid until they sell them, if they're willing to take them.
 
 What all that boils down to is: if a firm wants *your* money to publish your work, it's a vanity press. And they don't really want your *work*: what they want is your money.
 
-\*\*\*\*\*\*\*\*\*\*End of important announcement\*\*\*\*\*\*\*\*\*\*
+&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;End of important announcement&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;
 
 Sorry, gang. No magic formula. No shortcuts. No Fairy Godmother. Just a lot of hard work.
 
@@ -153,7 +151,7 @@ DAW has tried to interest the SF Book Club in picking up my books; they *aren't*
 
 Speaking of which, I understand some of you wrote some pretty hateful things to one of the folks who did some explanations about what the SCA was all about. I'm not amused. I've been the target of enough hate-mail myself to find the idea of nasty letters pretty darn distasteful. You know who you are, and I think you ought to apologize. You caused him a great deal of distress. UnHeraldic, people. Totally UnHeraldic. What the gentleman wrote was pieced together by Judith and Sally from some of his private letters; *they* know nothing about the SCA, and to be blunt, *I* found nothing whatsoever offensive about what was written. The SCA as I joined it was a place to have fun and a place to learn what honor was all about. We took things with tolerance and open minds, in the spirit in which they were given, allowing for possible mistakes in the translation. One of the reasons I no longer belong is because that spirit seems (as has just been amply demonstrated) to have died.
 
-Artist Larry Dixon has joined my company, High Flight. Our first venture is stationary and bookplates. (A brief commercial interruption: \[Ed. note 2002: Out-of-date pricing omitted.\] The gryphon is black on grey parchment, the lion brown on antique parchment. Samples enclosed with the original of this letter.)
+Artist Larry Dixon has joined my company, High Flight. Our first venture is stationary and bookplates. (A brief commercial interruption: [Ed. note 2002: Out-of-date pricing omitted.] The gryphon is black on grey parchment, the lion brown on antique parchment. Samples enclosed with the original of this letter.)
 
 We are also working on several projects together; right now none have a publisher and I'm short on time, so we are working on them "as time permits." We have two adult novels, *The Black Gryphon* and *Ties Never Binding*, and a young adult novel, *Owlflight*. we are also considering working on a couple of comic series together; Larry has extensive experience with both Marvel and Eclipse comics, and we think we have a really good idea for a science fiction series and *maybe* a Herald series.
 
@@ -169,7 +167,7 @@ Zhai'helleva,
 
 Misty
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -183,10 +181,7 @@ The featured artist for this edition of the newsletter was Larry Dixon. If you h
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

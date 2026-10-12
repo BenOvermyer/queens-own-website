@@ -127,8 +127,7 @@ Lest you think I am being too hard on those who would be Herald-Mages, I would l
 
 If you have additional questions, check out [The Magic of Velgarth](/magic-of-velgarth/) FAQ.
 
-Zhai'helleva,\
-[Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
 
 <img alt="" loading="lazy" src="/barblln.gif"/>
 

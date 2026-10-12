@@ -23,7 +23,7 @@ canonical_path = "/compass-rose/spring-2002/"
 
 ## Spring 2002
 
-ISSN \[Pending\]
+ISSN [Pending]
 
 ---
 
@@ -96,9 +96,7 @@ All artwork on this site is copyrighted to the credited artist, and permission m
 
 Webdesign for this issue by [L.A. Malcor](mailto:Legend@malcor.com).
 
-Linda A. Malcor, Publisher\
-Aliso Viejo, CA\
-USA
+Linda A. Malcor, Publisher Aliso Viejo, CA USA
 
 ©2002 *The Compass Rose*. All rights reserved.
 

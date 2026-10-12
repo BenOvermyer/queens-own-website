@@ -30,7 +30,7 @@ You can join the Vanyel Fan Club by subscribing to the VFC List.
 
 Go to:
 
-[http://www.dragonlordsnet.com/mailman/listinfo/vanyelfanclub\_dragonlordsnet.com](https://dragonlords.fans/mailman/listinfo/vanyelfanclub_dragonlordsnet.com)
+[http://www.dragonlordsnet.com/mailman/listinfo/vanyelfanclub_dragonlordsnet.com](https://dragonlords.fans/mailman/listinfo/vanyelfanclub_dragonlordsnet.com)
 
 and follow the inscructions.
 
@@ -44,7 +44,7 @@ To send e-mail to the mailinglist, write to the following address:
 
 To unsubscribe from the mailinglist (and leave the club), follow the instructions on the general information page at:
 
-[http://www.dragonlordsnet.com/mailman/listinfo/vanyelfanclub\_dragonlordsnet.com](https://dragonlords.fans/mailman/listinfo/vanyelfanclub_dragonlordsnet.com)
+[http://www.dragonlordsnet.com/mailman/listinfo/vanyelfanclub_dragonlordsnet.com](https://dragonlords.fans/mailman/listinfo/vanyelfanclub_dragonlordsnet.com)
 
 If you have any problems, message Herald-Mage Adept Danya Winterborn at [Legend@malcor.com](mailto:Legend@malcor.com).
 

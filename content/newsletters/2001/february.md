@@ -20,17 +20,15 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 2, No. 2\
-February 1, 2001
+## Series 3, Vol. 2, No. 2 February 1, 2001
 
 <img alt="Gryphons by Jan Tallevast" class="border-3" loading="lazy" src="/qo56.jpg"/>
 
 Heyla, Misty fans!
 
-Mercedes Lackey has been busy, busy, busy! By now many of you have figured out that Misty's *Beyond World's End*, the next installment in the *Bedlam's Bard* series is available. We'll have a review of it in the next issue of *The Compass Rose*, QO's nonfiction journal, which will hopefully be coded and online in the near future (Young babies don't allow mamas much time for things like coding \<g>.) The paperback edition of *The Fire Rose* is due out any day. *The Serpent's Shadow*, which takes place in the same setting as *The Fire Rose*, is scheduled for release in March, and look for *Elvenborn*, the next in the series that Misty is writing with Andre Norton, in April. Misty is also working on an eight-book juvenile series, inspired by the Harry Potter books, which will follow the adventures of a Herald Trainee through the Collegium.
+Mercedes Lackey has been busy, busy, busy! By now many of you have figured out that Misty's *Beyond World's End*, the next installment in the *Bedlam's Bard* series is available. We'll have a review of it in the next issue of *The Compass Rose*, QO's nonfiction journal, which will hopefully be coded and online in the near future (Young babies don't allow mamas much time for things like coding &lt;g>.) The paperback edition of *The Fire Rose* is due out any day. *The Serpent's Shadow*, which takes place in the same setting as *The Fire Rose*, is scheduled for release in March, and look for *Elvenborn*, the next in the series that Misty is writing with Andre Norton, in April. Misty is also working on an eight-book juvenile series, inspired by the Harry Potter books, which will follow the adventures of a Herald Trainee through the Collegium.
 
 We are delighted to announce the formation of the Herald's Waystation, the newest chapter of Queen's Own! Heralds Auralynn and Enyo are heading up this venture. Check out the details in the "Local Chapters" and "Zines and Newsletters" sections below.
 
@@ -75,7 +73,7 @@ Here are the faires we know about that are happening in February. Faires are ind
 
 ### Florida
 
-**HOGGETOWNE MEDIEVAL FAIRE.** FAX: 352-334-2146. E-mail: [piperlr@ci.gainesville.fl.us](mailto:piperlr@ci.gainesville.fl.us). Website: http://www.state.fl.us/gvl/arts\_culture/Medieval.HTML. Address: Dept. of Cultural Affairs, P.O. Box 490, Station 30, Gainesville, FL 32602-0490. Site Address: Thomas Center A, 302 NE 6th Avenue, Gainesville, FL 32601-5476. Dates: 2/11/00 - 2/13/00. Open/Close: 10:00 AM - 6:00 PM.
+**HOGGETOWNE MEDIEVAL FAIRE.** FAX: 352-334-2146. E-mail: [piperlr@ci.gainesville.fl.us](mailto:piperlr@ci.gainesville.fl.us). Website: http://www.state.fl.us/gvl/arts_culture/Medieval.HTML. Address: Dept. of Cultural Affairs, P.O. Box 490, Station 30, Gainesville, FL 32602-0490. Site Address: Thomas Center A, 302 NE 6th Avenue, Gainesville, FL 32601-5476. Dates: 2/11/00 - 2/13/00. Open/Close: 10:00 AM - 6:00 PM.
 
 ### Texas
 
@@ -113,7 +111,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **GAME INVASION 2001.** E-mail: [info@gameinvasion.net](mailto:info@gameinvasion.net). Website: [http://www.gameinvasion.net](http://www.gameinvasion.net). Address: University of North Florida, Bldg. 43, Jacksonville, Florida. Dates: 2/24/01 - 2/25/01.
 
-**LFN FLORIDA.** E-mail: [oversight\_1@hotmail.com](mailto:oversight_1@hotmail.com). Website: [http://www.oversight.org](http://www.oversight.org). Address: Hard Rock Caf�, Orlando, Florida. Dates: 2/17/01.
+**LFN FLORIDA.** E-mail: [oversight_1@hotmail.com](mailto:oversight_1@hotmail.com). Website: [http://www.oversight.org](http://www.oversight.org). Address: Hard Rock Caf�, Orlando, Florida. Dates: 2/17/01.
 
 ### Georgia
 
@@ -209,7 +207,7 @@ CON OF THE NORTH 2001. E-mail: [info@conofthenorth.org](mailto:info@conofthenort
 
 ### The Netherlands
 
-**A2001.** E-mail: [Killjoy\_b@mailcity.com](mailto:Killjoy_b@mailcity.com). Website: http://users.bart.nl/~totoro. Address: Golden Tulip Conference Hotel, Velhoven, Netherlands. Dates: 2/23/01 - 2/25/01.
+**A2001.** E-mail: [Killjoy_b@mailcity.com](mailto:Killjoy_b@mailcity.com). Website: http://users.bart.nl/~totoro. Address: Golden Tulip Conference Hotel, Velhoven, Netherlands. Dates: 2/23/01 - 2/25/01.
 
 ### United Kingdom
 
@@ -237,7 +235,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com).
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [/pacific-northwest-collegium/](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
 <img alt="Healer by Jan Tallevast" class="float-right border-3" loading="lazy" src="/qo60.jpg"/>
 
@@ -287,11 +285,11 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 The New Year is off to a rousing start! You met our newest member in the Collegium News section. Dozens of other folk are busily working on personae. (Some longtime members have even been submitting NPCs!) You've been introduced to our newest chapter in this issue of our newsletter, and a few other chapters are forming as well. Discussions about how people can have Whites made are underway on the QO chatlist and in the private Delphi forum. Various groups are planning to meet at Renaissance Faires around the world, and it looks as if several celebrations of Midsummer's Day will be held at a variety of locations as well.
 
-Moonstar will be moving closer to me in June, and we expect activities in Southern California to kick into overdrive soon after \<G>. We're hoping for a QO trip to the Southern California Renaissance Pleasure Faire (possibly in Whites \<g>!), a Midsummer Festival (You up for helping with that, Golden Grove?), and an occasional coffee house chat at a Starbuck's in a Barnes & Noble. We're still plotting to pull off a QO section at a con in 2002 as well.
+Moonstar will be moving closer to me in June, and we expect activities in Southern California to kick into overdrive soon after &lt;G>. We're hoping for a QO trip to the Southern California Renaissance Pleasure Faire (possibly in Whites &lt;g>!), a Midsummer Festival (You up for helping with that, Golden Grove?), and an occasional coffee house chat at a Starbuck's in a Barnes & Noble. We're still plotting to pull off a QO section at a con in 2002 as well.
 
-I've already met several of you face-to-face, and I'd love to meet as many of the rest of you as possible eventually \<g>. If you are coming to Southern California to visit Disneyland or check out a college or for any other reason, let us know, and we'll try to set up a QO event at a convenient spot. (Join your local chapter and bug your leaders if you want to see an event in your area.)
+I've already met several of you face-to-face, and I'd love to meet as many of the rest of you as possible eventually &lt;g>. If you are coming to Southern California to visit Disneyland or check out a college or for any other reason, let us know, and we'll try to set up a QO event at a convenient spot. (Join your local chapter and bug your leaders if you want to see an event in your area.)
 
-Keep us posted about your activities, and continue to send art and stories to our 'zines! *Children of Velgarth* will release its next issue on February 7th, and I'll have the next installment of The Compass Rose online as soon as I find the time to code it \<g>. Keep up the good work, and, above all, have fun!
+Keep us posted about your activities, and continue to send art and stories to our 'zines! *Children of Velgarth* will release its next issue on February 7th, and I'll have the next installment of The Compass Rose online as soon as I find the time to code it &lt;g>. Keep up the good work, and, above all, have fun!
 
 Zhai'helleva,
 
@@ -315,7 +313,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 
 ## Personals:
 
-- **To All, From Cassandra Vuksa**: Heyla! I am looking for people to co-write stories with me for fun and profit! (Okay, okay, not profit.) I have three or four personas - depending if the Bard's been acknowledged yet or not - and I think it would be fun to have some stories written with other personas in them. All I ask other than that is that a) you're tolerant of my perfectionism \*grins\*, and b) that I can publish it in Austral'a'in afterwards. Just think of all the points toward your persona (if it's not done yet)! If you like the sound of this but aren't much of a writer yourself, I am happy to write it and treat your persona with the love and respect it deserves. You would, of course, have creative control over what it got up to regardless of if I wrote it by myself or not. Anyway, my Valdemar personas are Herald Jaala Neroli, Healer Cinnamon Ava, and Bard Tiernan Ava - yes, they're related. (My Tayledras one is Healer-Adept Winterfire k'Tayle, but I am a bit more reluctant to share her than the other three, because she was my first.) You can contact me at [garou@netspeed.com.au](mailto:garou@netspeed.com.au). Wind to thy Wings, Cassandra Vuksa.
+- **To All, From Cassandra Vuksa**: Heyla! I am looking for people to co-write stories with me for fun and profit! (Okay, okay, not profit.) I have three or four personas - depending if the Bard's been acknowledged yet or not - and I think it would be fun to have some stories written with other personas in them. All I ask other than that is that a) you're tolerant of my perfectionism &#42;grins&#42;, and b) that I can publish it in Austral'a'in afterwards. Just think of all the points toward your persona (if it's not done yet)! If you like the sound of this but aren't much of a writer yourself, I am happy to write it and treat your persona with the love and respect it deserves. You would, of course, have creative control over what it got up to regardless of if I wrote it by myself or not. Anyway, my Valdemar personas are Herald Jaala Neroli, Healer Cinnamon Ava, and Bard Tiernan Ava - yes, they're related. (My Tayledras one is Healer-Adept Winterfire k'Tayle, but I am a bit more reluctant to share her than the other three, because she was my first.) You can contact me at [garou@netspeed.com.au](mailto:garou@netspeed.com.au). Wind to thy Wings, Cassandra Vuksa.
 - **To All, From Jan**: Wanted: anyone interested in helping form a Chapter of Queen's Own in the Texas/OK or surrounding states. It would be an online chapter with an e-mail nonfiction newsletter and e-submissions for a hardcopy zine. But we could all meet at a close Rennie Faire if everyone wanted to. I do not have a name for the chapter yet and will accept suggestions on what it should be names. If only one is interested, please contact me, Jan, at [heraldauralynn@hotmail.com](mailto:heraldauralynn@hotmail.com).
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
@@ -332,10 +330,7 @@ The featured artist for this online version of the newsletter is yet again [Jan 
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

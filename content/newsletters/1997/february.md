@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. X, No. 5\
-February 1997
+## Series 1, Vol. X, No. 5 February 1997
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -36,9 +34,9 @@ Dear Misty Fans,
 
 <img alt="Border Art" class="float-right" loading="lazy" src="/qo289.jpg"/> *The Faces of Fantasy* is a collection of photographs of fantasy writers taken by Patti Perret. Each author has a full page picture and a chance to say a few words. There are photos of Marion Zimmer Bradley, Anne McCaffrey, Peter Beagle, Storm Constantine, Barbara Hambly, Emma Bull, Charles de Lint, Melanie Rawn and many, many more. Misty's photo shows her holding 'Kaika, her umbrella cockatoo. Her write-up speaks of the importance of "paying forward.". She and Larry feel that htere is no way for anyone to ever pay back all the good things that come along, so the best response is to pay *forward*, to give of oneself when needed. This philosophy is reflected in their writing and in their care of wild birds.
 
-*The Faces of Fantasy* is a large size paperback published by Tor and priced at \[Ed. note 2005: Out-of-date info withheld.\]. For information of Tor Books on the World Wide Web, use \[Ed. note 2005: Out-of-date info withheld.\]. (Buy *Faces* before Dragon\*Con and play spot the author.)
+*The Faces of Fantasy* is a large size paperback published by Tor and priced at [Ed. note 2005: Out-of-date info withheld.]. For information of Tor Books on the World Wide Web, use [Ed. note 2005: Out-of-date info withheld.]. (Buy *Faces* before Dragon&#42;Con and play spot the author.)
 
-The latest issue of *Marion Zimmer Bradley's FANTASY Magazine*, #34,has the usual excellent short stories, an interview with Ellen Kushner, and two very informative articles. Marion's "Why Did My Story Get Regected?" and Heather Rose Jones' "Writers Talk Back: Show Me" are filled with helpful advice for would-be writers. Subscribe to *Marion Zimmer Bradley's FANTASY Magazine* for \[Ed. note 2005: Out-of-date info withheld.\]. Make your check payable to Marion Zimmer Bradley and mail your order to \[Ed. note 2005: Out-of-date info withheld.\].
+The latest issue of *Marion Zimmer Bradley's FANTASY Magazine*, #34,has the usual excellent short stories, an interview with Ellen Kushner, and two very informative articles. Marion's "Why Did My Story Get Regected?" and Heather Rose Jones' "Writers Talk Back: Show Me" are filled with helpful advice for would-be writers. Subscribe to *Marion Zimmer Bradley's FANTASY Magazine* for [Ed. note 2005: Out-of-date info withheld.]. Make your check payable to Marion Zimmer Bradley and mail your order to [Ed. note 2005: Out-of-date info withheld.].
 
 *Sword of Ice and Other Tales of Valdemar* are worth waiting for, don't you agree? I especially enjoyed the stories co-authored by Misty and Philip "Sarge" Austin. Sarge was one of our earliest QO members, and wrote regularly for Arrow's Message, our first zine.
 
@@ -50,71 +48,71 @@ Of course you can order all of Misty's books from **Firebird** as well as an *Ar
 
 Cassettes and CDs of the songs of *Oathbound* are back in stock. This work is based on the first book of Vows and Honor. The re-issue of songs inspired by *Oathbreakers* will be ready soon, the *Vows and Honor Concordance* is still a work in progress. "Heralds, HArpers, & Havoc" os avao;an;e pm CD. as os "Lovers, Lore & Loss" amd "Shadow Stalker." Soon to come is a Shadow Stalker Songbook.
 
-Check out the Firebird online catalog at \[Ed. note 2005: Out-of-date info withheld.\].
+Check out the Firebird online catalog at [Ed. note 2005: Out-of-date info withheld.].
 
-Dragon\*Con is June 26-29 at Atlanta's Inforum Convention Center and Hyatt Regency Hotel. Guests beside Misty and LArry include Mark Shepherd, Josepha Sherman, Raymond Feist, Barbara Hambly, Robert Jordan, and MArgaret WEis. 4-day memberships are \[Ed. note 2005: Out-of-date info withheld.\]. Dragon\*Con claims to have the South's largest costume contest and over 400 hours of Science Fiction, Fantasy, Comics, Gaming and Science-related Panels, Seminars, Demonstrations, and Star Trek, Babylon 5, Dr. Who, Anne McCaffrey, Clive Barker, and Misty.
+Dragon&#42;Con is June 26-29 at Atlanta's Inforum Convention Center and Hyatt Regency Hotel. Guests beside Misty and LArry include Mark Shepherd, Josepha Sherman, Raymond Feist, Barbara Hambly, Robert Jordan, and MArgaret WEis. 4-day memberships are [Ed. note 2005: Out-of-date info withheld.]. Dragon&#42;Con claims to have the South's largest costume contest and over 400 hours of Science Fiction, Fantasy, Comics, Gaming and Science-related Panels, Seminars, Demonstrations, and Star Trek, Babylon 5, Dr. Who, Anne McCaffrey, Clive Barker, and Misty.
 
-Rooms at the Hyatt Regency Atlanta are available at the discounted rate of \[Ed. note 2005: Out-of-date info withheld.\]. (You can specify Party Floor or Quiet Floor.) The Hyatt is expected to sell out early, make your reservation as early as you can.
+Rooms at the Hyatt Regency Atlanta are available at the discounted rate of [Ed. note 2005: Out-of-date info withheld.]. (You can specify Party Floor or Quiet Floor.) The Hyatt is expected to sell out early, make your reservation as early as you can.
 
-*Flights of Fantasy Books and Games* \[Ed. note 2005: Out-of-date info withheld.\] specializes in new and used science fiction & fantasy, mystery & suspense, and romance books; roleplaying--new & collectible; tabletop gaming--miniatures and paints/accessories and collectible card games with emphasis on Magic the Gathering. If Maria doesn't have it in stock, she'll do a special order--any genre. Give her your want list, she'll do her best for you. *FoF* handles mail orders, both local and international. For orders \[Ed. note 2005: Out-of-date info withheld.\].
+*Flights of Fantasy Books and Games* [Ed. note 2005: Out-of-date info withheld.] specializes in new and used science fiction & fantasy, mystery & suspense, and romance books; roleplaying--new & collectible; tabletop gaming--miniatures and paints/accessories and collectible card games with emphasis on Magic the Gathering. If Maria doesn't have it in stock, she'll do a special order--any genre. Give her your want list, she'll do her best for you. *FoF* handles mail orders, both local and international. For orders [Ed. note 2005: Out-of-date info withheld.].
 
 ## MEMBER NEWS:
 
-For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send \[Ed. note 2005: Out-of-date info withheld.\] to the QO address for this 12 page booklet.
+For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005: Out-of-date info withheld.] to the QO address for this 12 page booklet.
 
 ### Local Chapters:
 
-Arrows Online--Arrows Online, the AOL chapter of Queen's Own, is indeed open for business! If you are already an AOL member and want to join our very silly and friendly group, please e-mail the Dean of our very own Westhaven Collegia at \[Ed. note 2005: Out-of-date info withheld.\]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm \[Ed. note 2005: Out-of-date info withheld.\] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at \[Ed. note 2005: Out-of-date info withheld.\].
+Arrows Online--Arrows Online, the AOL chapter of Queen's Own, is indeed open for business! If you are already an AOL member and want to join our very silly and friendly group, please e-mail the Dean of our very own Westhaven Collegia at [Ed. note 2005: Out-of-date info withheld.]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm [Ed. note 2005: Out-of-date info withheld.] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at [Ed. note 2005: Out-of-date info withheld.].
 
-Austral'a'in--Cassandra Vuksa \[Ed. note 2005: Out-of-date info withheld.\].
+Austral'a'in--Cassandra Vuksa [Ed. note 2005: Out-of-date info withheld.].
 
-Companion's Choice--Shanara Ravensong \[Ed. note 2005: Out-of-date info withheld.\].
+Companion's Choice--Shanara Ravensong [Ed. note 2005: Out-of-date info withheld.].
 
-Dream Bound--c/o Sharon Tan \[Ed. note 2005: Out-of-date info withheld.\].
+Dream Bound--c/o Sharon Tan [Ed. note 2005: Out-of-date info withheld.].
 
-The Farflying Arrow: Achtung, an alle deutschsprechenden Misty-Fans!! Write to Gwendolen \[Ed. note 2005: Out-of-date info withheld.\].
+The Farflying Arrow: Achtung, an alle deutschsprechenden Misty-Fans!! Write to Gwendolen [Ed. note 2005: Out-of-date info withheld.].
 
-Golden Grove--Stephanie Anderson \[Ed. note 2005: Out-of-date info withheld.\].
+Golden Grove--Stephanie Anderson [Ed. note 2005: Out-of-date info withheld.].
 
-The Herald's Companion--Herald's Companion c/o Karen Bertke \[Ed. note 2005: Out-of-date info withheld.\].
+The Herald's Companion--Herald's Companion c/o Karen Bertke [Ed. note 2005: Out-of-date info withheld.].
 
-Heralds' Revel--c/o H. Wegemer \[Ed. note 2005: Out-of-date info withheld.\]: Send e-mail to \[Ed. note 2005: Out-of-date info withheld.\].
+Heralds' Revel--c/o H. Wegemer [Ed. note 2005: Out-of-date info withheld.]: Send e-mail to [Ed. note 2005: Out-of-date info withheld.].
 
-Outkingdom--Y'larna Finnareth c/o Joanne Thwaites \[Ed. note 2005: Out-of-date info withheld.\].
+Outkingdom--Y'larna Finnareth c/o Joanne Thwaites [Ed. note 2005: Out-of-date info withheld.].
 
-Pacific Northwest Collegium--c/o Charlene Ryan \[Ed. note 2005: Out-of-date info withheld.\].
+Pacific Northwest Collegium--c/o Charlene Ryan [Ed. note 2005: Out-of-date info withheld.].
 
-R.C.M.H.--Contact Pam Dziedzic \[Ed. note 2005: Out-of-date info withheld.\]. Volume 1, Issue 2 of the R.C.M.H. nesletter, *The Collegium News*, jas an excellent article on creating a persona.
+R.C.M.H.--Contact Pam Dziedzic [Ed. note 2005: Out-of-date info withheld.]. Volume 1, Issue 2 of the R.C.M.H. nesletter, *The Collegium News*, jas an excellent article on creating a persona.
 
-Under Kal'enel's Care--\[Ed. note 2005: Out-of-date info withheld.\]. These bi-monthly newsletters are aimed specifically at the Shin'a'in.
+Under Kal'enel's Care--[Ed. note 2005: Out-of-date info withheld.]. These bi-monthly newsletters are aimed specifically at the Shin'a'in.
 
 ## Other Fandoms:
 
-Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond \[Ed. note 2005: Out-of-date info withheld.\].
+Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
 
-Jennifer Roberson--Children of the Firstborn \[Ed. note 2005: Out-of-date info withheld.\].
+Jennifer Roberson--Children of the Firstborn [Ed. note 2005: Out-of-date info withheld.].
 
-Tanya Huff--Nine Above! \[Ed. note 2005: Out-of-date info withheld.\]. If you are a Tanya Huff fan, subscribe to Nine Above! Included with the latest newsletter was a page from the original galleys of *Blood Debt*, autographed by Tanya herself. *Blood Debt* has a release date of May. Also in NINE ABOVE! was a review of a cookbook, *Food for Life and Other Dis \[sic\]*, edited by Lawrence Schimel, \[Ed. note 2005: Out-of-date info withheld.\]. *Food* is a benefit cookbook, with recipes from writers and celebrities (including Tanya Huff) and royalties going to organizations that provide meals to people with AIDS. Write to \[Ed. note 2005: Out-of-date info withheld.\].
+Tanya Huff--Nine Above! [Ed. note 2005: Out-of-date info withheld.]. If you are a Tanya Huff fan, subscribe to Nine Above! Included with the latest newsletter was a page from the original galleys of *Blood Debt*, autographed by Tanya herself. *Blood Debt* has a release date of May. Also in NINE ABOVE! was a review of a cookbook, *Food for Life and Other Dis [sic]*, edited by Lawrence Schimel, [Ed. note 2005: Out-of-date info withheld.]. *Food* is a benefit cookbook, with recipes from writers and celebrities (including Tanya Huff) and royalties going to organizations that provide meals to people with AIDS. Write to [Ed. note 2005: Out-of-date info withheld.].
 
-Anne McCaffrey/Pern--Starfire Weyr \[Ed. note 2005: Out-of-date info withheld.\].
+Anne McCaffrey/Pern--Starfire Weyr [Ed. note 2005: Out-of-date info withheld.].
 
-Anne McCaffrey/Pern--Sunfall Weyr \[Ed. note 2005: Out-of-date info withheld.\].
+Anne McCaffrey/Pern--Sunfall Weyr [Ed. note 2005: Out-of-date info withheld.].
 
-General Fandom--National Fantasy Fan Federation (N3F) \[Ed. note 2005: Out-of-date info withheld.\] (Send SASE to QO for a membership application if you wish.)
+General Fandom--National Fantasy Fan Federation (N3F) [Ed. note 2005: Out-of-date info withheld.] (Send SASE to QO for a membership application if you wish.)
 
-Adrian Paul (Highlander)--Peace \[Ed. note 2005: Out-of-date info withheld.\].
+Adrian Paul (Highlander)--Peace [Ed. note 2005: Out-of-date info withheld.].
 
-From Karen Bertke, editor of *Herald's Companion*: "Help! I must be nuts! I've volunteered to advertise Millennicon for the entire OH-KY-IN Tri-State Area! If you are interested in helping spread the news, here are the basics: Millennicon is March 21-23 at the Blue Ash Hotel on \[Ed. note 2005: Out-of-date content withheld.\]. I will be at the con along with Typo-Dragon and some of the baby feezils. Let me know if you are attending and perhaps we can meet. \[Ed. note 2005: Out-of-date content withheld.\]. Millennicon benefits the Miami Valley Fandom for Literacy Group." Among Milennicon Guests will be Buck and Juanita Coulson. Juanita is a filker, author, and the copiler of the *Arrows fo the Queen Concordance*. For hotel reservations call \[Ed. note 2005: Out-of-date content withheld.\].
+From Karen Bertke, editor of *Herald's Companion*: "Help! I must be nuts! I've volunteered to advertise Millennicon for the entire OH-KY-IN Tri-State Area! If you are interested in helping spread the news, here are the basics: Millennicon is March 21-23 at the Blue Ash Hotel on [Ed. note 2005: Out-of-date content withheld.]. I will be at the con along with Typo-Dragon and some of the baby feezils. Let me know if you are attending and perhaps we can meet. [Ed. note 2005: Out-of-date content withheld.]. Millennicon benefits the Miami Valley Fandom for Literacy Group." Among Milennicon Guests will be Buck and Juanita Coulson. Juanita is a filker, author, and the copiler of the *Arrows fo the Queen Concordance*. For hotel reservations call [Ed. note 2005: Out-of-date content withheld.].
 
-A new Velgarth zine has entered the scene! Are you tired of writing Velgarth stories that you just know you'll never see in print? Of only being able to send in stories relating to your recovnized persona? Do you want your persona stories printed for everyone to see and admire? Then DON'T ARGUE WITH THE VOICE is for you! Send a SASE for guidelines to \[Ed. note 2005: Out-of-date content withheld.\]. Outkingdomers are welcomed with open arms!
+A new Velgarth zine has entered the scene! Are you tired of writing Velgarth stories that you just know you'll never see in print? Of only being able to send in stories relating to your recovnized persona? Do you want your persona stories printed for everyone to see and admire? Then DON'T ARGUE WITH THE VOICE is for you! Send a SASE for guidelines to [Ed. note 2005: Out-of-date content withheld.]. Outkingdomers are welcomed with open arms!
 
-Heyla! We've got pen-pal ads, poetry, some cool and/or interesting art, stories, a whacked out bulletin board, cool quotes, riddles, jokes, songs, a bonehead award, personals, spells, and the whole bit in one gabulous-almost uncensored-blow your mind away-kick your gramps in the seat of the pants-not for the weak of heart-much 2 cool for you and probably more than you can handle-anyway don't say I didn't warn ya-newsletter called *Through the Magic Mirror*. Think you can read that sentence again in one breath? \<heh, heh> For subscription information, guidelines, and a free, yes, FREE sampe issue, write to \[Ed. note 2005: Out-of-date content withheld.\]. Com'on, write! I dare ya!!! Unless you're just chicken . . . \<grin>
+Heyla! We've got pen-pal ads, poetry, some cool and/or interesting art, stories, a whacked out bulletin board, cool quotes, riddles, jokes, songs, a bonehead award, personals, spells, and the whole bit in one gabulous-almost uncensored-blow your mind away-kick your gramps in the seat of the pants-not for the weak of heart-much 2 cool for you and probably more than you can handle-anyway don't say I didn't warn ya-newsletter called *Through the Magic Mirror*. Think you can read that sentence again in one breath? &lt;heh, heh> For subscription information, guidelines, and a free, yes, FREE sampe issue, write to [Ed. note 2005: Out-of-date content withheld.]. Com'on, write! I dare ya!!! Unless you're just chicken . . . &lt;grin>
 
-"Hey, when is PHOENIX RISING gong to be out?" a passing HErald asks the laden down Trainee. "Well, I need two or three more stories and more persona recognitions and messages, but if I don't get them int ain't coming out," Herald-Trainee Elyssa says tot he passing HErald. We are in serious need of submisssions and subscriptions. Newsletter costs are now \[Ed. note 2005: Out-of-date content withheld.\]. Sen all questions, comments, submissions and other stuff to \[Ed. note 2005: Out-of-date content withheld.\].
+"Hey, when is PHOENIX RISING gong to be out?" a passing HErald asks the laden down Trainee. "Well, I need two or three more stories and more persona recognitions and messages, but if I don't get them int ain't coming out," Herald-Trainee Elyssa says tot he passing HErald. We are in serious need of submisssions and subscriptions. Newsletter costs are now [Ed. note 2005: Out-of-date content withheld.]. Sen all questions, comments, submissions and other stuff to [Ed. note 2005: Out-of-date content withheld.].
 
-THE UNICORN'S VALE! Come and join us in the moonlit celebration! Dance with the unicorns, and get lost int he revelry with the mystical creatures who traverse our boundaries. David Darshall and Patricia Roe invite you to sample our new zine filled with stories, poetry and art that will mesmerize and astound you. Issues 1 and 2 now on sale, and we are still accepting submissions fo Fantasy, Science Fiction adn Horror. \[Ed. note 2005: Out-of-date content withheld.\]. Come and venture the mystic trails with us!
+THE UNICORN'S VALE! Come and join us in the moonlit celebration! Dance with the unicorns, and get lost int he revelry with the mystical creatures who traverse our boundaries. David Darshall and Patricia Roe invite you to sample our new zine filled with stories, poetry and art that will mesmerize and astound you. Issues 1 and 2 now on sale, and we are still accepting submissions fo Fantasy, Science Fiction adn Horror. [Ed. note 2005: Out-of-date content withheld.]. Come and venture the mystic trails with us!
 
-The Pacific Northwest Collegium is looking for a new editor! Charlene Ryan is retiring adn would really love to see this group continue--we have so much fun together! At this time, we are still accepting memberships in the hope of transferring an already established group to the new editor. Word files with the newsletter template along with members' art and other contributions will also be transferred. If you're interested or would just like to join, send a legal size SASE to \[Ed. note 2005: Out-of-date content withheld.\].
+The Pacific Northwest Collegium is looking for a new editor! Charlene Ryan is retiring adn would really love to see this group continue--we have so much fun together! At this time, we are still accepting memberships in the hope of transferring an already established group to the new editor. Word files with the newsletter template along with members' art and other contributions will also be transferred. If you're interested or would just like to join, send a legal size SASE to [Ed. note 2005: Out-of-date content withheld.].
 
 *Starship Express,* is the newsletter of SFABC, a New Jersey club. According to it, most of the large bookstores in the NY/NJ metropolitan area have science fiction/fantasy-related signings, guest speakers, and discussions. Call your bookstore to see if such events are held there. If not, why don't YOU try to organize something?
 
@@ -141,24 +139,21 @@ Expected mailing dates for the rest of 1997 are 4/5, 5/17, 6/21, 8/2, 9/13, 10/2
 
 ## FAN MESSAGES:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
 ## PERSONALS:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
-Queen's Own \[Ed. note 2005: Out-of-date content withheld.\], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at \[Ed. note 2005: Out-of-date content withheld.\] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay \[Ed. note 2005: Out-of-date content withheld.\] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: \[Ed. note 2005: Out-of-date content withheld.\]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Deadline for next newsletter contributions: March 22--earlier is better.\
-Next Mailing Day: April 5, 1997--Call \[Ed. note 2005: Out-of-date info withheld.\] for directions. Always call before coming, family emergencies can cancel mailings.
+Deadline for next newsletter contributions: March 22--earlier is better. Next Mailing Day: April 5, 1997--Call [Ed. note 2005: Out-of-date info withheld.] for directions. Always call before coming, family emergencies can cancel mailings.
 
-Editor, President, Dogsbody, Housemother - Judith Louvis \[Ed. note 2005: Out-of-date content withheld.\] (Call only before 10 pm and let it ring.)\
-Border Design: Ryen Keller\
-Mailing Day Helper (last issue)--Steve Louvis.
+Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Border Design: Ryen Keller Mailing Day Helper (last issue)--Steve Louvis.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -170,10 +165,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

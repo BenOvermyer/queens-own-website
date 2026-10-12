@@ -14,9 +14,9 @@ topic = "publications"
 canonical_path = "/compass-rose/summer-2000/sink-or-swim/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td> <td style="width:35%"> </td> </tr> </table>\ ---\ \ \
+<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td> <td style="width:35%"> </td> </tr> </table> ---
 
-Excerpts from\ *Sink or Swim*
+Excerpts from *Sink or Swim*
 
 ## Compiled by
 
@@ -30,13 +30,13 @@ This booklet, or perhaps just bunch of papers stapled together--I have no idea i
 
 Many projects to help people new to Fandom, Velgarth, and personae have sprung up in the past, some more useful than others. Those dedicated toward presenting others' personae that were recognized to those who don't have any idea what a persona is, or what they're doing wrong, are a good idea. But I can't help feeling that only those who know that their persona(e) are in there are buying them . . .
 
-I myself have personae, four recognized \[Ed. Note: by [Queen's Own](/)\]. I have others, but I've either never gotten around to sending them in to Judith or Robin or Linda and Kendra (past and present editors of [*Queen's Own*](/)), or felt that they were good enough for recognition. Or they never got sent in because I sort of felt as if four recognized personae were enough.
+I myself have personae, four recognized [Ed. Note: by [Queen's Own](/)]. I have others, but I've either never gotten around to sending them in to Judith or Robin or Linda and Kendra (past and present editors of [*Queen's Own*](/)), or felt that they were good enough for recognition. Or they never got sent in because I sort of felt as if four recognized personae were enough.
 
-\[Ed. Note: Paragraph detailing the four personae is skipped in this version.\]
+[Ed. Note: Paragraph detailing the four personae is skipped in this version.]
 
 To me, being an editor is easy. But then, it also plays with skills that I love to use. Computers, writing, cut and paste . . . I think it's great. The only truly hard part is getting people to contribute. (I've found that if you beg, plead, and just plain beg everyone whose address you have--such as penpals, and people who asked about your 'zine--in Fandom to contribute, that helps a lot. I've gotten a lot of contributions that way.
 
-Also, familiarity. People feel special when you treat them as if they're a good, close friend. It worked on me and a lot of other people and will continue to work for a long time. You get a lot of new penpals and friends this way . . . \<grin>
+Also, familiarity. People feel special when you treat them as if they're a good, close friend. It worked on me and a lot of other people and will continue to work for a long time. You get a lot of new penpals and friends this way . . . &lt;grin>
 
 Also, a main point of a surviving 'zine tends to be that they *advertise* everywhere they can. At every possible opportunity. Ceaselessly. Advertise before actually starting any *real* work on your 'zine is my suggestion. The constant advertising lets people know that you're still there, you haven't given up, but the year in which you do nothing allows you to build up interest and contributions. Try to send out flyers, if possible, and make sure that you have guidelines and that people know that you'll enforce them. I've found that strict guidelines actually seem to increase the number of contributions! But then, people tend to like order and not chaos.
 
@@ -58,7 +58,7 @@ So anyway, I hope this helps and that you find this booklet useful. Zhai'helleva
 
 Hi, I'm **Cassandra Vuksa**, editor of the newsletter "Austral'a'in" and the 'zine *People of the South* (plus several other 'zines in the works, but we won't go into that now . . . )
 
-I actually started writing "Austral'a'in" sort-of by accident. I was doing a Technical Writing course at University, and I had to write a report on something--and I decided to do a feasibility study on opening a chapter of [Queen's Own](/) (QO) here in Australia. The first thing I did was get in touch with Judith Louvis \[Ed. note: who was president of [Queen's Own](/) at that time\] and ask her how many Australian members she had in [Queen's Own](/) and ask her to send each of them an ad that I gave her. She was a great help, and through her and my penpals I got in touch with ten or fifteen people who were interested in joining an Australian chapter.
+I actually started writing "Austral'a'in" sort-of by accident. I was doing a Technical Writing course at University, and I had to write a report on something--and I decided to do a feasibility study on opening a chapter of [Queen's Own](/) (QO) here in Australia. The first thing I did was get in touch with Judith Louvis [Ed. note: who was president of [Queen's Own](/) at that time] and ask her how many Australian members she had in [Queen's Own](/) and ask her to send each of them an ad that I gave her. She was a great help, and through her and my penpals I got in touch with ten or fifteen people who were interested in joining an Australian chapter.
 
 The next thing I did was make up a survey, which I sent to them, asking what people were interested in seeing in the newsletter, suggestions for names, and so on. It was Fiona Forrester who suggested "Austral'a'in" as a corruption of both Latin and Shin'a'in, and I liked it. It was there htat I also decided on the format I have now: Introduction, Reviews, Penpal Ads & Personals, Stories, Poems, Other Stuff (recipes, crosswords, etc.), Disclaimer. I won't always have all of these in there, but it gives me a basic outline for what I do have.
 
@@ -72,15 +72,11 @@ Advice for people starting out? Decide how many people you're willing to accept 
 
 It is far easier to run a newsletter of six to eight pages once every month and a half than it is to produce a 'zine of fifty pages four times--or even twice--a year. (At least it is if you're organized, but that's required anyway!) There is no way I could have made *People of the South* without having run the newsletter first. A lot of people seem to try and make 'zines work first, and while some pull it off, others don't.
 
-\[Ed. note: Paragraph about personas created by Cassandra Vuksa deleted in this version.\]
+[Ed. note: Paragraph about personas created by Cassandra Vuksa deleted in this version.]
 
-Why so many \[personas\]? Remember what I said about writing stuff yourself when you don't have enough submissions?? \*grin\* There was a bit of that going on there for a while, but lately I have been writing for the pleasure of it--I have enough fanfic by other people to keep the newsletter running for another year or more. And that's exactly what I plan to do. Looking for a newsletter to join? (heh, heh) Write to me at
+Why so many [personas]? Remember what I said about writing stuff yourself when you don't have enough submissions?? &#42;grin&#42; There was a bit of that going on there for a while, but lately I have been writing for the pleasure of it--I have enough fanfic by other people to keep the newsletter running for another year or more. And that's exactly what I plan to do. Looking for a newsletter to join? (heh, heh) Write to me at
 
-Austral'a'in\
-c/o Cassandra Vuksa\
-P.O. Box 1850\
-Woden ACT 2606\
-Australia
+Austral'a'in c/o Cassandra Vuksa P.O. Box 1850 Woden ACT 2606 Australia
 
 ## Emily Watts (pp. 7-8)
 
@@ -96,14 +92,13 @@ I think another key is organization. That has been the hardest part of running a
 
 My name is **Laura Cameron**, a twenty-six year old feminist college grad with delusions to be an artist/writer, since nothing else seems to suit me. After a few years working in the mundane world, I want to get away from it as much as possible! I enjoy reading various genres and subjects, especially mythology, whcih is reflected in my artwork. I'm a budding Amazon.com addict--watch out!
 
-\[Ed. note: Paragraph on persona deleted in this version.\]
+[Ed. note: Paragraph on persona deleted in this version.]
 
 ["The Collegium Chronicles"](/pacific-northwest-collegium/), edited and published colely by yours truly, is a bimonthly newsletter sent out to members of the Pacific Northwest Collegium, a local branch of the Mercedes Lackey Fan Club ([Queen's Own](/)). PNWC is going on seven years--one of the longest running local chapters of the national fan club. After taking over the reins from former editor/president Charlene Ryan, I hope to keep the fan club running as long as there's interest in it. The address of publication is:
 
-The Collegium Chronicles Editor: Laura Cameron\
-[anjakiya@hotmail.com](mailto:anjakiya@hotmail.com)
+The Collegium Chronicles Editor: Laura Cameron [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com)
 
-\[Ed. note: You can find this information online at [/pacific-northwest-collegium/](/pacific-northwest-collegium/).\]
+[Ed. note: You can find this information online at [/pacific-northwest-collegium/](/pacific-northwest-collegium/).]
 
 Running a newsletter/fanclub takes an enormous amount of energy and time. I probably should charge more per newsletter, but if I do that, I won't have any readers! It's more a labor of love, and it's a chance to hook up with people with similar interests. I was lucky that I didn't have to start the ["Chronicles"](/pacific-northwest-collegium/) from scratch; I already had an established readership and a basic format. After six years, the former editor decided to let someone else have a go. I volunteered because I hated to see PNWC fold up after so many years, and I had access to a computer and scanner. It's been great fun as well as frustrating to see what I can do to improve upon the original. I have the former editor's help, and we e-mail each other back and forth with ideas. The hardest part is getting people to submit quality as well as quantity. Oftentimes, I wait until the last moment before finishing the newsletter, hoping that someone will have been bitten by the creative bug at the last minute. My advice to would-be editors: advertise! Make up a snappy brochure about your newsletter/'zine and what your goals and requirements are. Figure out who your audience is and what they would like to see in your publication. Attend conventions, writing workshops, or classes. In my case, I visit the local libraries and bookstores or conventions with a stack of brochures that contain a bibliography o fMercedes Lackey's books--plus a little blurb explaining what PNWC is about. About half the people I talk to are willing to participate, and the other half are willing to just read the newsletter. I try to give people a variety of things to keep their interest and encourage feedback.
 
@@ -111,7 +106,7 @@ The first few issues are always the hardest. Be patient, and don't be afraid to 
 
 ---
 
-This booklet is not-for-profit and intended only as a guide to help aspiring editors of preferably non-profit publications. If you are an editor and wish to have an article added in the next publication, please use the e-mail address [evillurking@gmail.com"](mailto:evillurking@gmail.com). \[Ed. note: Use "Sink or Swim" on the subject line.\]
+This booklet is not-for-profit and intended only as a guide to help aspiring editors of preferably non-profit publications. If you are an editor and wish to have an article added in the next publication, please use the e-mail address [evillurking@gmail.com"](mailto:evillurking@gmail.com). [Ed. note: Use "Sink or Swim" on the subject line.]
 
 This booklet was created/compiled by Amber Aurora C. Nelson aka Temar'Rea Wildfire McLeod. No infringements of anyone's copyrights are intended. Reproduction and sharing of this booklet is allowed.
 
@@ -125,10 +120,7 @@ Date of second publication: Spring 1999.
 
 To order a complete copy of *Sink or Swim* send $1.50 (Checks payable to "Aurora Nelson") to
 
-Aurora Nelson\
-PMB #189\
-2843 Hopyard Road\
-Pleasanton, CA 94588
+Aurora Nelson PMB #189 2843 Hopyard Road Pleasanton, CA 94588
 
 <table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>

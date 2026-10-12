@@ -29,8 +29,7 @@ Members will be listed on our [Persona Page](/persona-directory/) and receive ou
 
 Periodically the club will publish volumes of persona materials that have been submitted by members in our fanzine, [Children of Velgarth](/children-of-velgarth/). These will be available via e-mail at the request of the member.
 
-Zhai'helleva,\
-[Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 

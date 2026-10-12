@@ -14,13 +14,13 @@ topic = "publications"
 canonical_path = "/compass-rose/summer-2000/editorial/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td> <td style="width:35%"> </td> </tr> </table>\ ---\ \ \
+<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td> <td style="width:35%"> </td> </tr> </table> ---
 
 ## Letter from the Editor
 
 <img alt="Herald Aeroln and Kyler by Tony Barton" class="border-5" loading="lazy" src="/Aerolyn.jpg"/>
 
-**Herald Aerolyn and Kyler\ by\ Tony Barton**
+**Herald Aerolyn and Kyler by Tony Barton**
 
 Heyla, Misty fans and other visitors!
 
@@ -32,9 +32,7 @@ We hope you enjoy this excursion into some of the variety of nonfiction subjects
 
 Zhai'helleva,
 
-Herald-Mage Master Danya Winterborn,\
-aka Linda A. Malcor,\
-Co-President, Queen's Own
+Herald-Mage Master Danya Winterborn, aka Linda A. Malcor, Co-President, Queen's Own
 
 <table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>

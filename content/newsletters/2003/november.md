@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 4, No. 11\
-November 1, 2003
+## Series 3, Vol. 4, No. 11 November 1, 2003
 
 <img alt="Omorose" class="border-2" loading="lazy" src="/qo175.jpg"/>
 
@@ -56,7 +54,7 @@ You can find these and other titles through the Mercedes Lackey section of the D
 
 "So, all that aside, what do you have to do to enter?
 
-"Send me a picture relevant to Misty and/or Larry. \[Ed. note: Paul clarified in a later post that he means �picture� as in �photo.�\] For example, you skydiving while reading *Winds of Change*, a copy of *Brightly Burning* used as a campfire (You think we'd be upset? Heck no. We would hope you'd buy another copy!), or any other clever idea you come up with. Just a fanpic holding the book will count--but I'm betting the winner will be far more imaginative. I can't wait to see the results.
+"Send me a picture relevant to Misty and/or Larry. [Ed. note: Paul clarified in a later post that he means �picture� as in �photo.�] For example, you skydiving while reading *Winds of Change*, a copy of *Brightly Burning* used as a campfire (You think we'd be upset? Heck no. We would hope you'd buy another copy!), or any other clever idea you come up with. Just a fanpic holding the book will count--but I'm betting the winner will be far more imaginative. I can't wait to see the results.
 
 "Pictures must be received as attachments to e-mail sent to [mistysdesk@mercedeslackey.com](mailto:mistysdesk@mercedeslackey.com). All pictures MUST be smaller than 80 kilobytes and can be any format you wish. (If you are having size issues, might I recommend jpeg, or jpeg2000 even). Any submission larger than 80 kilobytes will not even make it to my mailbox--I'm setting my spam killer at that line. Beware! If you send a large file and my spam killer decides to blacklist you, that's not my fault.
 
@@ -280,7 +278,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### South Carolina
 
-**BEACH BASH.** Website: [http://beachbash.virtualave.net/index.html](http://beachbash.virtualave.net/index.html). E-mail: [apsara\_chaouw@yahoo.com](mailto:apsara_chaouw@yahoo.com). Address: The Breakers Resort Hotel, Myrtle Beach, South Carolina. Dates: 11/7/03 - 11/9/03.
+**BEACH BASH.** Website: [http://beachbash.virtualave.net/index.html](http://beachbash.virtualave.net/index.html). E-mail: [apsara_chaouw@yahoo.com](mailto:apsara_chaouw@yahoo.com). Address: The Breakers Resort Hotel, Myrtle Beach, South Carolina. Dates: 11/7/03 - 11/9/03.
 
 ### Tennessee
 
@@ -318,7 +316,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **BEST OF BOTH WORLDS 20.**Website: [http://www.bobw.com.au/](http://www.bobw.com.au/). E-mail: [alc@nlc.net.au](mailto:alc@nlc.net.au). Address: Rydges Lakeside Hotel, Canberra, London Circuit, Canberra City ACT. Dates: 11/15/03 - 11/16/03.
 
-**FSF PRESENTS JOHN RHYS-DAVIES.** Website: [http://www.fsf.com.au/](http://www.fsf.com.au/). E-mail: [fsf\_presents@fsf.com.au](mailto:fsf_presents@fsf.com.au). Address: Dooleys Lidcombe Catholic Club, Sydney, New South Wales. Dates: 11/22/03.
+**FSF PRESENTS JOHN RHYS-DAVIES.** Website: [http://www.fsf.com.au/](http://www.fsf.com.au/). E-mail: [fsf_presents@fsf.com.au](mailto:fsf_presents@fsf.com.au). Address: Dooleys Lidcombe Catholic Club, Sydney, New South Wales. Dates: 11/22/03.
 
 **GONG CON.** Website: [http://daanz.org.au/dip-tournaments.htm](http://daanz.org.au/dip-tournaments.htm). E-mail: [scolman@optushome.com.au](mailto:scolman@optushome.com.au). Address: North Wollongong PCYC. Dates: 11/29/03 - 11/30/03.
 
@@ -332,9 +330,9 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Canada
 
-**BREAKTHROUGH 2003.**Website: [http://www.trumpeterclub.com](http://www.trumpeterclub.com). E-mail: [big\_dog@telus.net](mailto:big_dog@telus.net). Address: The Guildford Sheraton Hotel, Vancouver (Surrey), British Columbia. Dates: 11/7/03 - 11/9/03.
+**BREAKTHROUGH 2003.**Website: [http://www.trumpeterclub.com](http://www.trumpeterclub.com). E-mail: [big_dog@telus.net](mailto:big_dog@telus.net). Address: The Guildford Sheraton Hotel, Vancouver (Surrey), British Columbia. Dates: 11/7/03 - 11/9/03.
 
-**CON\*CEPT 2003.** Website: [http://www.monsffa.com/](http://www.monsffa.com/). E-mail: [cathypl@sympatico.ca](mailto:cathypl@sympatico.ca). Address: Days Inn Hotel, Montreal, Quebec. Dates: 11/8/03.
+**CON&#42;CEPT 2003.** Website: [http://www.monsffa.com/](http://www.monsffa.com/). E-mail: [cathypl@sympatico.ca](mailto:cathypl@sympatico.ca). Address: Days Inn Hotel, Montreal, Quebec. Dates: 11/8/03.
 
 **MSFX - MONTREAL SCIENCE FICTION EXPO.** Website: [http://www.hobbystar.com](http://www.hobbystar.com). E-mail: [james@hobbystar.com](mailto:james@hobbystar.com). Address: Palais des Congres, 201 avenue Viger Ouest, downtown Montreal, Quebec. Dates: 11/14/03 - 11/16/03.
 
@@ -354,7 +352,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **MIDGARD-SÜDCON.** Website: [http://www.suedcon.de](http://www.suedcon.de). E-mail: [info@suedcon.de](mailto:info@suedcon.de). Address: Castle Wildenstein (a real medieval Castle!), Leibertingen, Baden-W�rttemberg. Dates: 11/7/03 - 11/9/03.
 
-**RING\*CON 2003.** Website: [http://www.ringcon.de/](http://www.ringcon.de/). E-mail: [webmaster@ringcon.de](mailto:webmaster@ringcon.de). Address: Maritim Hotel, Bonn. Dates: 11/14/03 - 11/16/03.
+**RING&#42;CON 2003.** Website: [http://www.ringcon.de/](http://www.ringcon.de/). E-mail: [webmaster@ringcon.de](mailto:webmaster@ringcon.de). Address: Maritim Hotel, Bonn. Dates: 11/14/03 - 11/16/03.
 
 ### Italy
 
@@ -400,13 +398,13 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Sapphire and White:** Editor Ronald Glaser. E-mail: [luckystar@abe.midco.net](mailto:luckystar@abe.midco.net). We want members from all over the United States, but we technically cover the Great Lakes region, including South Dakota, North Dakota, Minnesota, Nebraska and Iowa. Heyla there, everyone! Sapphire and White is looking for people who are interested in Mercedes Lackey and her works such as the Valdemar series and the many other books that she has written. You can contact me for more info at [luckystar@abe.midco.net](mailto:luckystar@abe.midco.net). I hope to have a chat list and maybe a fanzine going soon, but i am looking for submissions for that when it gets up and running.
 - **Sonoran Collegium:** Website: [/sonoran-collegium/](/). Contact: [Laura Felton](mailto:Mistykalia@aol.com). Our Region: THE SOUTHWEST (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome). Snail mail: Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX. E-mail: [Mistykalia@aol.com](mailto:Mistykalia@aol.com). .
 - **Southern Arrow:** Website: [http://groups.yahoo.com/group/gaqueensown/](http://groups.yahoo.com/group/gaqueensown/) Contact: Herald Sitara. E-mail: [ravindraanima@gmail.com](mailto:ravindraanima@gmail.com). Heralds unite! Southern Arrow is up and running again, and we'd love to have you along! I'm planning on fanzines, trips to cons, and much, much more. If you would like to sign up for the newsletter, or the fanzine you can go to [http://groups.yahoo.com/group/gaqueensown/](http://groups.yahoo.com/group/gaqueensown/) and you will but automatically included. I'm also looking for someone to help me out with this, and maybe pull up a website. If interested contact me at [sblackwell@knology.net](mailto:sblackwell@knology.net). And if you'd like to contact me about any ideas or suggestions, please put it on the board, I would love to hear what you have!
-- **The Vanyel Fan Club**: Website: [/vanyel-fan-club/](/vanyel-fan-club/). Contact: [herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: Website: [/vanyel-fan-club/](/vanyel-fan-club/). Contact: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa. We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption. *Austral'a'in* is up for adoption. If you are interested in adopting the chapter, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [/children-of-velgarth/](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
-- ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **\*\* If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don�t hear from you by September 2003, I will have to drop your contribution from the zine. \*\*** Volume Nine is open to submissions. Current prices (not including shipping) are:
+- ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **&#42;&#42; If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don�t hear from you by September 2003, I will have to drop your contribution from the zine. &#42;&#42;** Volume Nine is open to submissions. Current prices (not including shipping) are:
   - *Companions' Grove* Volume One - $4.75 (40 pages, color cover)
   - *Companions' Grove* Volume Two - $6.35 (56 pages, color cover)
   - *Companions' Grove* Volume Three - $5.95 (51 pages, color cover)
@@ -429,7 +427,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [/golden-grove/](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable).
 - ***Riding Circuit***, a quarterly zine of Velgarth fanfiction seeks submissions. The first issue is due out in early April, and I look forward to stories of Heralds, Hawkbrothers, Bards and other people of Velgarth. Art and poetry are also welcome. Submissions may be sent by mail to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169 or e-mailed to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com). Visit our website [http://www.marymuse.com/HeartlandArrows/RC.html](http://www.marymuse.com/HeartlandArrows/RC.html) for more information.
-- **Tales of the Southern Bard:** TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at [SouthernBard@eudoramail.com](mailto:SouthernBard@eudoramail.com) for submission guidelines and information on how to join or visit TOTSB's homepage: [http://www.angelfire.com/zine2/southernbard/Tales\_of\_the\_Southern\_Bard.htm](http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm).
+- **Tales of the Southern Bard:** TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at [SouthernBard@eudoramail.com](mailto:SouthernBard@eudoramail.com) for submission guidelines and information on how to join or visit TOTSB's homepage: [http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm](http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm).
 - ***Tales of the Unicorn*:** After a decade hiatus it's back . . . *Tales of the Unicorn*. Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy. Tales will be published quarterly with the first issue coming in late April. Art and poetry are also welcome. Visit our website at [http://www.marymuse.com/HeartlandArrows/TotU.html](http://www.marymuse.com/HeartlandArrows/TotU.html) for more information. Submissions may be sent to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com) or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
@@ -469,21 +467,21 @@ If you are a returning member who has recently activated your membership in Quee
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Bard Valiena (laughsong@aol.com)\
-- Guardsman Faolan Ixran (Timmeu@scubadiving.com)\
-- Healer Darnellon Gaither (mdprier@aol.com)\
-- Healer Tamesin na Coille (brindle@bellsouth.net)\
-- Herald Alia Melyngar (aliamelyngar@aol.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
+- Bard Valiena (laughsong@aol.com)
+- Guardsman Faolan Ixran (Timmeu@scubadiving.com)
+- Healer Darnellon Gaither (mdprier@aol.com)
+- Healer Tamesin na Coille (brindle@bellsouth.net)
+- Herald Alia Melyngar (aliamelyngar@aol.com)
+- Herald Deborah (sjupiterdebi@home.com)
 - Herald Fiona L'Aren (divagypsy@yahoo.com)
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Liselle Aravon (rusalka@nac.net [)\ \ Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\\ \ Herald Paf (jaro@attbi.com)\\ \ Herald Taras Taltos (billernoe@hotmail.com)\\ \ Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\\](mailto:rusalka@nac.net)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Liselle Aravon (rusalka@nac.net [) Herald Miracle Oceanfire (rhyme_reason@hotmail.com>) Herald Paf (jaro@attbi.com) Herald Taras Taltos (billernoe@hotmail.com) Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)](mailto:rusalka@nac.net)
 
-Scout Skyfire k'Chona (liquid\_twinkie@hotmail.com)
+Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
 
 If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
 
@@ -540,10 +538,7 @@ The featured artist for this newsletter is [Sara Haas](mailto:lakota@tconl.com).
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

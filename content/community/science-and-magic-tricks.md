@@ -26,7 +26,7 @@ As part of my Herald-Mage training, I've been learning a lot of magic tricks and
 
 <img alt="" loading="lazy" src="/barstar.gif"/>
 
-\ ## Cantrips\
+## Cantrips
 
 Cantrips are useful little spells that apprentices learn when they begin to work with magic. These are illusions that are particularly entertaining for children.
 

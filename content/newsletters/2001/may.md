@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 2, No. 5\
-May 1, 2001
+## Series 3, Vol. 2, No. 5 May 1, 2001
 
 <img alt="Arab by Laura Felton" class="border-3" loading="lazy" src="/qo72.jpg"/>
 
@@ -34,7 +32,7 @@ Welcome to the one year anniversary issue of the Queen�s Own newsletter under 
 
 In other news, the hardcover of *Elvenborn* should be out any day, and the paperback of *Brightly Burning* is scheduled for release in June. The hardcover of *The Serpent�s Shadow* came out in March, and the paperback for *The Fire Rose* became available in January. If you wish to purchase any of these or other works by Misty, please do so through the Dragonlord�s Bookstore at [http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm). (The Mercedes Lackey page is at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm).) A portion of the proceeds from all sales goes to pay for our website, PO box and other business expenses. This is how we keep memberships in QO free, so we really appreciate your support.
 
-We�re really looking forward to the special events coming up in Southern California. On May 16th, both Danya and Moonstar will be at a Barnes & Noble to discuss Misty�s works. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for the time and directions. On June 2nd, QO will be making an official trip to the Southern California Renaissance Pleasure Faire. There are still a couple of tickets available, if you are interested. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more information. On June 23rd we�ll be holding a QO Midsummer Festival in Aliso Viejo, CA. Both of the QO co-Presidents will be in attendance, and it looks as if Aurora Nelson, president of Golden Grove, will be able to attend as well. \[Ed. Note: Aurora is no longer president of Golden Grove, 2/16/02.\] We�re very excited about this event! Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for directions and additional information. We know that get-togethers are being planned elsewhere in the world as well. Keep watch in this newsletter for details. We�ll let you know what�s going on where as soon as we find out \<g>! Oh, and keep watch on the boards in our Delphi forum. Lots of planning goes on there!
+We�re really looking forward to the special events coming up in Southern California. On May 16th, both Danya and Moonstar will be at a Barnes & Noble to discuss Misty�s works. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for the time and directions. On June 2nd, QO will be making an official trip to the Southern California Renaissance Pleasure Faire. There are still a couple of tickets available, if you are interested. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more information. On June 23rd we�ll be holding a QO Midsummer Festival in Aliso Viejo, CA. Both of the QO co-Presidents will be in attendance, and it looks as if Aurora Nelson, president of Golden Grove, will be able to attend as well. [Ed. Note: Aurora is no longer president of Golden Grove, 2/16/02.] We�re very excited about this event! Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for directions and additional information. We know that get-togethers are being planned elsewhere in the world as well. Keep watch in this newsletter for details. We�ll let you know what�s going on where as soon as we find out &lt;g>! Oh, and keep watch on the boards in our Delphi forum. Lots of planning goes on there!
 
 That said, we now return to our series of artist interviews. In this issue we talk with Herald An�Talyah Brighthawk, whose work you�ve seen in some of our newsletters and on the Dragonlords website.
 
@@ -47,13 +45,13 @@ Zhai'helleva,
 1. **When did you join Queen's Own?**
   Wow. I'm pretty sure I was a junior in High School, so that'd make it around 1994-1995-ish. My persona was approved in May of 1995.
 2. **What got you hooked on Misty's books?**
-  Well, the first book of Misty's I ever read was *Winds of Fate*. How confused was I! I bought it because I liked the cover, and at the time, I hadn't gotten myself used to looking inside the covers to see if it was part of a series. But I ended up \*really\*, \*really\* liking it and from there, it was history. I had to get my hands on every Valdemar book I could. Later, I started reading some from her other series.
+  Well, the first book of Misty's I ever read was *Winds of Fate*. How confused was I! I bought it because I liked the cover, and at the time, I hadn't gotten myself used to looking inside the covers to see if it was part of a series. But I ended up &#42;really&#42;, &#42;really&#42; liking it and from there, it was history. I had to get my hands on every Valdemar book I could. Later, I started reading some from her other series.
 3. **What else do you read?**
   I read anything from New Age and Self-Help books to Erotica, Dark Fantasy (which is one of my most favorite things to read. Me without a Laurell K. Hamilton and/or Tanya Huff book to read is torture. :)~), and pure good old fashioned fiction. If it looks and sounds good, I'll give it a try. Especially if it was recommended to me.
 4. **What types of music do you listen to?**
   I'm a rock/alternative kinda gal, but again, like books, my music collection is very eclectic. Filk mingles with rock and Middle Eastern, and Celtic rubs shoulders with classical and folk. :)
 5. **What was the first con you went to?**
-  Dragon\*Con, 1996. :)
+  Dragon&#42;Con, 1996. :)
 6. **Do you sell your work at cons?**
   No, and likely never will, for a couple different reasons, but mostly because there's no desire for me to do that. It's purely hobby and not exactly sell-worthy. :)
 7. **Who or what inspires your art?**
@@ -119,7 +117,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Arkansas
 
-**ROC\*KON 2001.** Website: [http://www.rockon.org](http://www.rockon.org). E-mail: [pengwen@ipa.net](mailto:pengwen@ipa.net). Address: Best Western Innetowne, Little Rock, Arkansas. Dates: 5/18/01 - 5/20/01.
+**ROC&#42;KON 2001.** Website: [http://www.rockon.org](http://www.rockon.org). E-mail: [pengwen@ipa.net](mailto:pengwen@ipa.net). Address: Best Western Innetowne, Little Rock, Arkansas. Dates: 5/18/01 - 5/20/01.
 
 ### California
 
@@ -165,7 +163,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **DEMICON XII.** Website: http://dragon.e-qual.net/demi.html. E-mail: [jroth@theclc.com](mailto:jroth@theclc.com). Address: University Park Holiday Inn, Des Moines, Iowa. Dates: 5/4/01 - 5/6/01.
 
-**JEN-CON.** Website: [http://cornell-iowa.edu/chess\_and\_games](http://cornell-iowa.edu/chess_and_games). E-mail: [j-reiser@cornell-iowa.edu](mailto:j-reiser@cornell-iowa.edu). Address: Cornell College, Mt. Vernon, Iowa. Dates: 5/4/01 - 5/5/01.
+**JEN-CON.** Website: [http://cornell-iowa.edu/chess_and_games](http://cornell-iowa.edu/chess_and_games). E-mail: [j-reiser@cornell-iowa.edu](mailto:j-reiser@cornell-iowa.edu). Address: Cornell College, Mt. Vernon, Iowa. Dates: 5/4/01 - 5/5/01.
 
 ### Kansas
 
@@ -189,7 +187,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Michigan
 
-**MEDIAWEST\*CON 2001.** Website: [http://members.aol.com/MdiaWstCon/mwc.htm](http://members.aol.com/MdiaWstCon/mwc.htm). E-mail: [MdiaWstCon@aol.com](mailto:MdiaWstCon@aol.com). Address: Holiday Inn South, Lansing, Michigan. Dates: 5/25/01 - 5/28/01.
+**MEDIAWEST&#42;CON 2001.** Website: [http://members.aol.com/MdiaWstCon/mwc.htm](http://members.aol.com/MdiaWstCon/mwc.htm). E-mail: [MdiaWstCon@aol.com](mailto:MdiaWstCon@aol.com). Address: Holiday Inn South, Lansing, Michigan. Dates: 5/25/01 - 5/28/01.
 
 **MOTOR CITY COMIC CON.** Website: [http://motorcityconventions.com](http://motorcityconventions.com). E-mail: [michael@motorcityconventions.com](mailto:michael@motorcityconventions.com), [gary@motorcityconventions.com](mailto:gary@motorcityconventions.com). Address: Novi Expo Center, Novi, Michigan. Dates: 5/18/01 - 5/20/01.
 
@@ -203,7 +201,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Montana
 
-**MISCON 15.** Website: [http://www.miscon.org](http://www.miscon.org). E-mail: [enigma@bigsky.net](mailto:enigma@bigsky.net), [web\_being@miscon.org](mailto:web_being@miscon.org). Address: Doubletree Edgewater, Missoula, Montana. Dates: 5/25/01 - 5/27/01.
+**MISCON 15.** Website: [http://www.miscon.org](http://www.miscon.org). E-mail: [enigma@bigsky.net](mailto:enigma@bigsky.net), [web_being@miscon.org](mailto:web_being@miscon.org). Address: Doubletree Edgewater, Missoula, Montana. Dates: 5/25/01 - 5/27/01.
 
 ### Nebraska
 
@@ -303,7 +301,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **CANGAMES 2001.** Website: [http://www.iosphere.net/~cangames](http://www.iosphere.net/~cangames). E-mail: [cangames@iosphere.net](mailto:cangames@iosphere.net). Address: Rideau Curling Club, 715 Cooper Street, Ottawa, Ontario Canada. Dates: 5/18/01 - 5/20/01.
 
-**CLOSE QUARTERS STANDBY 4.** Website: [http://www.oversight.org](http://www.oversight.org). E-mail: [oversight\_1@hotmail.com](mailto:oversight_1@hotmail.com). Address: Toronto Airport Marriott, Toronto, Ontario Canada. Dates: 5/25/01 - 5/27/01.
+**CLOSE QUARTERS STANDBY 4.** Website: [http://www.oversight.org](http://www.oversight.org). E-mail: [oversight_1@hotmail.com](mailto:oversight_1@hotmail.com). Address: Toronto Airport Marriott, Toronto, Ontario Canada. Dates: 5/25/01 - 5/27/01.
 
 **COSTUMECON 19.** Website: [http://www.costume-con.org/CC19](http://www.costume-con.org/CC19). E-mail: [capsam@nucleus.com](mailto:capsam@nucleus.com). Address: Westin Hotel, Calgary, Alberta Canada. Dates: 5/25/01 - 5/28/01.
 
@@ -325,13 +323,13 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Sweden
 
-**LINCON 2001.** Website: [http://www.sverok.se/lincon](http://www.sverok.se/lincon). E-mail: [rick\_s\_chris@hotmail.com](mailto:rick_s_chris@hotmail.com). Address: Anders Ljungstedts Gymnasium, Linköping, Sweden. Dates: 5/23/01 - 5/27/01.
+**LINCON 2001.** Website: [http://www.sverok.se/lincon](http://www.sverok.se/lincon). E-mail: [rick_s_chris@hotmail.com](mailto:rick_s_chris@hotmail.com). Address: Anders Ljungstedts Gymnasium, Linköping, Sweden. Dates: 5/23/01 - 5/27/01.
 
 ### United Kingdom
 
 **BEAUTY AND THE BEAST CONVENTION 2001.** Website: http://batb-bfc.intercosmos.com/AMIT/index.html. E-mail: [amit.convention@btinternet.com](mailto:amit.convention@btinternet.com). Address: Davenport Park Hotel, Stockport, Manchester, UK. Dates: 5/4/01 - 5/6/01.
 
-**DIONYSIA 2001.** Website: [http://www.dionysia.ukf.net](http://www.dionysia.ukf.net). E-mail: [dionysia\_2001@hotmail.com](mailto:dionysia_2001@hotmail.com). Address: Britannia Hotel, Marsh Wall, London, UK. Dates: 5/25/01 - 5/28/01.
+**DIONYSIA 2001.** Website: [http://www.dionysia.ukf.net](http://www.dionysia.ukf.net). E-mail: [dionysia_2001@hotmail.com](mailto:dionysia_2001@hotmail.com). Address: Britannia Hotel, Marsh Wall, London, UK. Dates: 5/25/01 - 5/28/01.
 
 **DUGGLEY BUG BALL VI.** Website: http://members.aol.com/dudleybug. E-mail: [dudleybug@aol.com](mailto:dudleybug@aol.com). Address: Rowley Regis College, West Midlands, UK. Date: 5/5/01.
 
@@ -360,7 +358,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [/pacific-northwest-collegium/](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
 <img alt="Breena by Michell Cornette" class="float-right border-3" loading="lazy" src="/qo75.jpg"/>
 
@@ -369,7 +367,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Austral'a'in*:** Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au). We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas. (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!) The cost of membership covers postage and printing - we're a strictly not-for-profit group. If you are interested in more information, or have stories or other submissions that you would like to see published, contact me! **Attention all writers and artists:**Austral'a'in is desperately seeking submissions. We are also always looking for new members. Please? Contact me (Cassandra) at [garou@netspeed.com.au](mailto:garou@netspeed.com.au) for details!
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Issue 2 will be available Feburary 7th! For the contents list and additional information, visit [/children-of-velgarth/](/children-of-velgarth/).
 - ***Collegium Chronicles*:** Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). The Venerable Pacific Northwest Collegium is looking for a few good writers and artists for its newsletter Collegium Chronicles. It would e preferable if folks had e-mail access. I am looking for stories that are primarily fantasy--QO persona requirements are acceptable, so long as they are in story format. Poetry, articles and essays also welcome. Come join us in what will be the final year of this nearly decade-long newsletter. $8 per year/$4 for a half-year, $2 per issue. Final issue will be June/July of 2001. Get your dues in early reap the full benefits! Great artwork (see our webpage at [/pacific-northwest-collegium/](/pacific-northwest-collegium/)) great stories, news of local events in the Pacific Northwest area. All are welcome. (P.S. If anyone is interested in taking over the Chronicles after next summer, let me know! I'd hate to see such a noble creature die out.)
-- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). It's back! The venerable warhorse--uh, make that venerable Companion \<g>--of QO 'zines is resuming publication. Plans are underway to bring old issues back into print as well. For submission and subscription information visit http://greendragon.fanspace.com/misty.html or write to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St., Pahrump, NV 89060. If you have any of the original publications, please contact Blue Devyn at [devin@greendragonpress.net](mailto:devin@greendragonpress.net). She's attempting to bring the old issues back into print in addition to offering new issues.
+- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). It's back! The venerable warhorse--uh, make that venerable Companion &lt;g>--of QO 'zines is resuming publication. Plans are underway to bring old issues back into print as well. For submission and subscription information visit http://greendragon.fanspace.com/misty.html or write to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St., Pahrump, NV 89060. If you have any of the original publications, please contact Blue Devyn at [devin@greendragonpress.net](mailto:devin@greendragonpress.net). She's attempting to bring the old issues back into print in addition to offering new issues.
 - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [/golden-grove/](/golden-grove/) for more information.
@@ -403,7 +401,7 @@ You need a release form (online at [/release-form-instructions/](/release-form-i
 All personae materials should be sent to the QO address or submitted by e-mail to [Legend@malcor.com](mailto:Legend@malcor.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
 - Welcome to **Herald Jhenna Leisater**, Chosen by Aelyssa and Gifted with Mindspeech and Foresight! **Alison Steele** wrote about Jhenna and her family and her friends, created a recipe and wrote a poem.
-- Congratulations to **Herald-Mage Apprentice Ryhannon Gaia Degent**! She rolled her double sixes before the year was out \<g>!
+- Congratulations to **Herald-Mage Apprentice Ryhannon Gaia Degent**! She rolled her double sixes before the year was out &lt;g>!
 
 <img alt="Cyril of Nightglade by Michelle Cornette" class="float-right border-5" loading="lazy" src="/qo77.jpg"/>
 
@@ -461,10 +459,7 @@ The featured artists for this online version of the newsletter are [Michell Corn
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

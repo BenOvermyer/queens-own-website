@@ -23,16 +23,12 @@ Every time you write a story based on Misty's stories, you need to file a releas
 
 Print out the form, fill it out, and mail it to High Flight along with a copy of your story.
 
-Zhai'helleva,\
-[Herald-Mage Adept Danya Winterborn](mailto:Legend@malcor.com)
+Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:Legend@malcor.com)
 
 Forms distributed by:
 
-Queens Own\
-The Official Mercedes Lackey Fan Club\
-P.O. Box 749\
-Laguna Beach, CA 92652 USA
+Queens Own The Official Mercedes Lackey Fan Club P.O. Box 749 Laguna Beach, CA 92652 USA
 
 <img alt="" loading="lazy" src="/bardrgn2.gif"/>
 
-\ <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Back to the Queen's Own Official Home Page](/)\ \ [<img alt="" class="float-center" loading="lazy" src="/buthome.gif"/>Return to the Dragonlords of Dumnonia Home Page](https://dragonlords.fans/index.htm)\
+<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Back to the Queen's Own Official Home Page](/) [<img alt="" class="float-center" loading="lazy" src="/buthome.gif"/>Return to the Dragonlords of Dumnonia Home Page](https://dragonlords.fans/index.htm)

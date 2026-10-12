@@ -168,9 +168,8 @@ site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href=
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-\
-<a href="http://leader.linkexchange.com/30/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/30/X513002/showlogo?" style="width:468px; height:16px"/></a>\
+<a href="http://leader.linkexchange.com/30/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/30/X513002/showlogo?" style="width:468px; height:16px"/></a>
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-\ <a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> [Back to Danya Winterborn's Page](/danya-winterborn/)\ \ \
+<a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> [Back to Danya Winterborn's Page](/danya-winterborn/)

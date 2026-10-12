@@ -42,7 +42,7 @@ Note: Not all of these parts appear in every newsletter. Recent newsletters incl
 
 Please submit material for the newsletter by e-mail to Herald-Mage Adept Danya at [Shashtah@gmail.com](mailto:Shashtah@gmail.com). Text should be in MS Word, ASCII or .txt format. Artword should be in .gif or .jpg.
 
-Make sure that you give your e-mail address so I can contact you and mark the material clearly as a submission for the Queen's Own newsletter so I know that it doesn't belong in a zine or over at Dragonlords \<g>. All drawings in this newsletter are © to the credited artist. All rights reserved. There is no pay.
+Make sure that you give your e-mail address so I can contact you and mark the material clearly as a submission for the Queen's Own newsletter so I know that it doesn't belong in a zine or over at Dragonlords &lt;g>. All drawings in this newsletter are © to the credited artist. All rights reserved. There is no pay.
 
 The Queen's Own newsletter is divided into several sections. Please consult the instructions for the section where you want your material to appear.
 
@@ -50,7 +50,7 @@ The Queen's Own newsletter is divided into several sections. Please consult the 
 
 ## I. <a id="article"></a>
 
-Every Queen's Own newsletter begins with an article. Sometimes this is a review of an upcoming book. Sometimes it is a report of adventures at a convention. Sometimes it is an interview with Misty or Larry or someone else, such as the editor of a fanzine or one of Misty's coauthors. The only real requirement is that the article be related to Misty and/or her work. Have you had the chance to interview anyone who knows Misty or who has worked with her? Do you know anyone who works in a fan organization that promotes Misty's works? Do you have a story to tell about a Misty section at a convention that you attended? If it's Misty-related, we want to hear from you! Since the article will now exist only in electronic form, we don't have to be super rigid on word count. But try to keep it to about 500 words. Also, if you use anyone's name in your article, please secure their permission for us to post the piece to the Net and to distribute it via e-mail. Not everyone appreciates having his/her name on a website (though most authors love the publicity \<g>).
+Every Queen's Own newsletter begins with an article. Sometimes this is a review of an upcoming book. Sometimes it is a report of adventures at a convention. Sometimes it is an interview with Misty or Larry or someone else, such as the editor of a fanzine or one of Misty's coauthors. The only real requirement is that the article be related to Misty and/or her work. Have you had the chance to interview anyone who knows Misty or who has worked with her? Do you know anyone who works in a fan organization that promotes Misty's works? Do you have a story to tell about a Misty section at a convention that you attended? If it's Misty-related, we want to hear from you! Since the article will now exist only in electronic form, we don't have to be super rigid on word count. But try to keep it to about 500 words. Also, if you use anyone's name in your article, please secure their permission for us to post the piece to the Net and to distribute it via e-mail. Not everyone appreciates having his/her name on a website (though most authors love the publicity &lt;g>).
 
 <a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml8.gif"/></a>
 
@@ -82,8 +82,7 @@ This section is mostly generated "in-house". This is where new personae are anno
 
 These are ads for penpals. Because we all believe in Herald's honor, the decision was made to include your Herald or other persona designation in the *Fan Messages*, if that is how you identify yourself. Remember, these ads appear on the QO website, so don't put in your snail-mail address if you don't want people to know where you live. We strongly recommend using e-mail addresses only. Also, if you don't want anyone to have your e-mail address, then don't submit a fan message. The fee for fan messages is simply to write to at least two other people on the list. Please use the following format:
 
-From: \[INSERT YOUR NAME AND E-MAIL AND/OR SNAIL MAIL ADDRESS\]\
-Message: Tell prospective penpals a little about yourself. What are you interested in? What books do you like to read?
+From: [INSERT YOUR NAME AND E-MAIL AND/OR SNAIL MAIL ADDRESS] Message: Tell prospective penpals a little about yourself. What are you interested in? What books do you like to read?
 
 Note: Queen's Own provides this section as a courtesy to its members. Queen's Own does not screen submissions (other than to determine that they are from QO members). Just because someone is a QO member does not guarantee that he/she is a nice person. Answer fan messages at your own risk, and use your discretion. Never give out personal information to someone you only know through the Internet. Never go alone to meet anyone you have only met on the Internet, and if you do decide to meet someone, do it only in a very public place. (We do not recommend that anyone under 18 ever agree to meet anyone from the Internet except in the company of a parent or legal guardian.) Please use this section wisely. It is here for fans to get to know each other and to solicite letters. Remember, though, that we also have the [chat list](/club-chat/) and the [private Delphi forum](/delphi-forum/), and you may feel safer using those tools to contact other QO fans.
 
@@ -91,7 +90,7 @@ Note: Queen's Own provides this section as a courtesy to its members. Queen's Ow
 
 ## VII. <a id="personals"></a>
 
-These are personal messages from one member to other members. Please tell us who the message is from and whom it is to. And don't forget to include the message \<g>!
+These are personal messages from one member to other members. Please tell us who the message is from and whom it is to. And don't forget to include the message &lt;g>!
 
 <a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml18.gif"/></a>
 

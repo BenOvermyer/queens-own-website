@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 4, No. 2\
-February 1, 2003
+## Series 3, Vol. 4, No. 2 February 1, 2003
 
 <img alt="Welmoon by Lass Starchild De'tempest" class="border-5" loading="lazy" src="/qo146.jpg"/>
 
@@ -54,25 +52,25 @@ Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-1. **\ When did you join Queen's Own?\**
+1. **When did you join Queen's Own?**
   My persona was approved in December of 2002, though I had originally looked into joining Queen's Own way back in 1998. I somehow lost track of things, and finally found my way to the website a few months ago (sometime around August or September 2002).
-  **\ What got you hooked on Misty's books?\**
+  **What got you hooked on Misty's books?**
   I have been a member of the Science Fiction Book Club for many years, and they offered the 3-in-1 edition of Queen's Own as a featured selection several years ago (This was way back when I was still in high school, if I remember correctly, so it had to be about 10 years ago, now.). It looked interesting (At that time, I had no idea who Mercedes Lackey was.), so I ordered it. After that, I started checking out all the Mercedes Lackey books I could find from the library.
-  **\ What else do you read?\**
+  **What else do you read?**
   I'm a big fan of Anne McCaffrey (I also play several characters on PernWorld MUSH.). I enjoy most fantasy, sci-fi, and some horror novels as well.
-  **\ What types of music do you listen to?\**
+  **What types of music do you listen to?**
   I listen primarily to Country, but my tastes are rather eclectic and include Disney and movie/Broadway soundtracks, 'new age', some pop and alternative, and various other stuff. Favorite artists include Garth Brooks, Enya, Infected Mushroom, Information Society, and Aerosmith.
-  **\ What movies do you enjoy?\**
+  **What movies do you enjoy?**
   It'd probably be easier to say what movies I *don't* enjoy. I like just about anything animated (including Anime), sci-fi or fantasy, action, musicals, comedy, some horror, and even some drama films. No specific favorites, because the list is way too long to mention here.
-  **\ What was the first con you went to?\**
+  **What was the first con you went to?**
   The first convention I attended was a *Star Trek* convention back in '91 (I think?). I attended a role-playing con called Winter Fantasy in January '94, U-Con in '99, and ICC (the International Camarilla Convention) in 2000. I'm also an entertainer at the Silverleaf Renaissance Faire, but I've never actually been to a fantasy con.
-  **\ Why did you get involved in fandom?\**
+  **Why did you get involved in fandom?**
   It's really more the creative aspect that got me involved rather than the 'fan' aspect. I enjoy creating personae and writing stories and such, plus I really like to show my support for authors whose work I especially admire.
-  **\ What do you like best about fandom?\**
+  **What do you like best about fandom?**
   In this particular case, it's the opportunity to create a character and share that with others around the world with similar interests.
-  **\ What other things besides Queen's Own occupy your time?\**
+  **What other things besides Queen's Own occupy your time?**
   Well, besides being the mother of an energetic 2-1/2-year-old daughter, I work part time in a group home for developmentally disabled and mentally impaired adults. In my free time, I enjoy role-playing with friends (both with our table-top group and online), reading, and heading out to the barn to work with my horse.
-  **\ What types of things would you like to see Queen's Own do in the coming years?\**
+  **What types of things would you like to see Queen's Own do in the coming years?**
   I'd like to see more conventions and clubs organized or hosted by members of QO. I think it'd be fun to be able to meet some of you face-to-face and get to know each other better, swap stories, and generally have a good time. We also need to advertise somehow, and get more members, so that we can have the resources and manpower to *do* these things.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
@@ -205,7 +203,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **CONDFW.** Website: [http://www.condfw.org](http://www.condfw.org). E-mail: [info@condfw.org](mailto:info@condfw.org). Address: Radisson Hotel Dallas North at Richardson, Dallas, Texas. Dates: 2/21/03 - 2/23/03.
 
-**OWLCON XXII.** Website: [http://www.rice.edu/owlcon](http://www.rice.edu/owlcon). Contact: [http://www.ruf.rice.edu/~owlcon/WebPages/contact\_us.htm](http://www.ruf.rice.edu/~owlcon/WebPages/contact_us.htm). Address: Rice University, Houston, Texas. Dates: 2/7/03 - 2/9/03.
+**OWLCON XXII.** Website: [http://www.rice.edu/owlcon](http://www.rice.edu/owlcon). Contact: [http://www.ruf.rice.edu/~owlcon/WebPages/contact_us.htm](http://www.ruf.rice.edu/~owlcon/WebPages/contact_us.htm). Address: Rice University, Houston, Texas. Dates: 2/7/03 - 2/9/03.
 
 ### Virginia
 
@@ -270,14 +268,14 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Heartland Arrows:** This chapter is for Queen�s Own members in Iowa, Illinois, Minnesota, & Wisconsin. For information e-mail [mary@marymuse.com](mailto:mary@marymuse.com), or send a SASE to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169. Our new homepage is [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). (Formerly Illinois Arrow.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - **Sonoran Collegium:** Our Region: THE SOUTHWEST (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome). Contact Info: Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX. E-mail: [Mistykalia@aol.com](mailto:Mistykalia@aol.com). Website: [/sonoran-collegium/](/).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa. We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption. *Austral'a'in* is up for adoption. If you are interested in adopting the chapter, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [/children-of-velgarth/](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
 - ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists�particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I�ve had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
-  *\ - Companions' Grove Volume One - $4.00 ($4.75 with color cover) - Companions' Grove Volume Two - $5.60 ($6.35 with color cover) - Companions' Grove Volume Three - $5.20 ($5.95 with color cover) - Companions' Grove Volume Four - $4.20 ($4.95 with color cover) - Companions' Grove Volume Five - $7.00 ($7.75 with color cover) - Companions' Grove Volume Six - $5.80 ($6.55 with color cover) - Companions' Grove Volume Seven - $5.20 ($5.95 with color cover) - The Danya Winterborn Saga - $5.20 - Endgame - $3.85 - Fire Eyes - $4.40 - Shards of Autumn - $3.90 - The Sum of Duty - $5.80 - Do or Dye: A Guide to Companion Camouflage - $1.25 - Cat's Cradle - $7.60\*
+  *- Companions' Grove Volume One - $4.00 ($4.75 with color cover) - Companions' Grove Volume Two - $5.60 ($6.35 with color cover) - Companions' Grove Volume Three - $5.20 ($5.95 with color cover) - Companions' Grove Volume Four - $4.20 ($4.95 with color cover) - Companions' Grove Volume Five - $7.00 ($7.75 with color cover) - Companions' Grove Volume Six - $5.80 ($6.55 with color cover) - Companions' Grove Volume Seven - $5.20 ($5.95 with color cover) - The Danya Winterborn Saga - $5.20 - Endgame - $3.85 - Fire Eyes - $4.40 - Shards of Autumn - $3.90 - The Sum of Duty - $5.80 - Do or Dye: A Guide to Companion Camouflage - $1.25 - Cat's Cradle - $7.60*
   For orders shipping in the US, I've instituted a maximum shipping cost of $3.85. Multi-zine orders which can be shipped in a flat rate envelope will be sent Priority Mail; larger orders will be sent Media Mail Insured, which is only slightly slower and doesn't have the zone rates (which wouldn't work with my shopping cart). Smaller orders will be sent First Class.
   I take credit cards via PayPal, which is the cart's only payment option, but the cart can be used to calculate shipping, and checks/money orders mailed to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St, Pahrump, NV 89060.
   Zines are printed on high-quality, bright white paper, comb bound, with cardstock covers. Story excerpts and cover art-as well as international pricing, submission guidelines, and PayPal ordering information-can be found at [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm) . To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N. Kelishan St., Pahrump, NV 89060. People outside the US should go directly to [http://www.greendragonpress.net/international.htm](http://www.greendragonpress.net/international.htm) and check out the price break for buying zines in threes, before they go to the main page and get scared by the per-zine shipping.
@@ -326,19 +324,19 @@ Welcome back! If you are a returning member who has recently activated your memb
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\
-- Herald Cateryna Cyray (KimChrist@Home.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\
-- Healer Adept Sierra k'Treva (katsanders@buffymail.com)\
-- Bard Valiena (laughsong@aol.com)\
-- Healer Tamesin na Coille (minke13@earthlink.net)\
-- Herald Alia Melyngar (aliamelyngar@aol.com)\
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
+- Herald Cateryna Cyray (KimChrist@Home.com)
+- Herald Deborah (sjupiterdebi@home.com)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Healer Adept Sierra k'Treva (katsanders@buffymail.com)
+- Bard Valiena (laughsong@aol.com)
+- Healer Tamesin na Coille (minke13@earthlink.net)
+- Herald Alia Melyngar (aliamelyngar@aol.com)
 - Herald Kalendel (itsmyage@aol.com)
 - Guardsman Faolan Ixran (Timmeu@scubadiving.com)
 - Healer Darnellon Gaither (mdprier@aol.com)
@@ -347,11 +345,11 @@ If you know any of these folks, please have them contact Danya at [Legend@malcor
 
 ### From Herald-Mage Adept Danya Winterborn:
 
-Happy Valentine�s Day! This month also sees Imbolc/Candlemas/St. Brigid�s Day (depending on which name you prefer), President�s Day (I�m old enough to remember Lincoln�s Birthday and Washington�s Birthday as separate holidays \<g>.), Eid al Adha, and Flag Day (as well as a few more that I�ve probably forgotten \<G>). It seems everyone is in the mood to celebrate something, whether it be the (hoped-for) beginning of spring, a religious event, political symbols or love in general. Seems like a lot to be packed into the shortest month of the year!
+Happy Valentine�s Day! This month also sees Imbolc/Candlemas/St. Brigid�s Day (depending on which name you prefer), President�s Day (I�m old enough to remember Lincoln�s Birthday and Washington�s Birthday as separate holidays &lt;g>.), Eid al Adha, and Flag Day (as well as a few more that I�ve probably forgotten &lt;G>). It seems everyone is in the mood to celebrate something, whether it be the (hoped-for) beginning of spring, a religious event, political symbols or love in general. Seems like a lot to be packed into the shortest month of the year!
 
 February is always an extremely busy time for me. My husband and I both have birthdays this month, and I�ve lost track of how many of my cousins were also born around this time of year. We seem to float from one party to another on our weekends, and we even have a few celebrations during the week! I�m always amazed when I manage to get anything else done.
 
-As I hit my birthday, I find myself once again taking stock of what I�ve done with my life and what I plan for the future. I do hope to make Guardian rank some day, but I have my doubts about that happening in the next year while my children are still so young. I intend to get at least a few professional articles published, and I�m really trying to make some serious headway on my next nonfiction book. I hope this coming year will see me presenting at least one paper at a scholarly conference, and I would like to get to something in the way of a con (even if it�s a Yu-Gi-Oh! tournament to keep my six-year-old son happy \<g>). I am planning to attend the Southern California Renaissance Pleasure Faire. Anyone up for making this a Queen�s Own event? If so, contact me at [Legend@malcor.com](mailto:Legend@malcor.com), and we can kick around some possible dates.
+As I hit my birthday, I find myself once again taking stock of what I�ve done with my life and what I plan for the future. I do hope to make Guardian rank some day, but I have my doubts about that happening in the next year while my children are still so young. I intend to get at least a few professional articles published, and I�m really trying to make some serious headway on my next nonfiction book. I hope this coming year will see me presenting at least one paper at a scholarly conference, and I would like to get to something in the way of a con (even if it�s a Yu-Gi-Oh! tournament to keep my six-year-old son happy &lt;g>). I am planning to attend the Southern California Renaissance Pleasure Faire. Anyone up for making this a Queen�s Own event? If so, contact me at [Legend@malcor.com](mailto:Legend@malcor.com), and we can kick around some possible dates.
 
 Zhai�helleva,
 
@@ -385,10 +383,7 @@ The featured artists for this newsletter are Lass Starchild De'tempest and [Alli
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

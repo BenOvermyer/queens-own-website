@@ -19,8 +19,6 @@ Queen's Own
 
 Fun Stuff
 
-\ \
-
 <img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 
 <table class="border-2 cellpadding-3 cellspacing-2 table-align-center" style="width:80%">
@@ -34,7 +32,7 @@ Fun Stuff
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<a id="qo"></a> \ ## Fun Stuff at Queen's Own\
+<a id="qo"></a> ## Fun Stuff at Queen's Own
 
 <dl>
 <dt><a href="/persona-handouts/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/persona-handouts/">Helpful Handouts</a></dt>
@@ -140,7 +138,7 @@ membership requirements, and much more!</dd>
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<a id="Art"></a> Don't see what you are looking for here? Try the Queen's Own [Misty Links](/mercedes-lackey-links/) page.\ \
+<a id="Art"></a> Don't see what you are looking for here? Try the Queen's Own [Misty Links](/mercedes-lackey-links/) page.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 

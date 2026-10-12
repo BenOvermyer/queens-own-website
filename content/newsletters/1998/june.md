@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. XI, No. 7\
-June 1998
+## Series 1, Vol. XI, No. 7 June 1998
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -64,25 +62,25 @@ For you Canadian fans, <b>Toronto Trek 12</b> is July 10-12 at the Regal Constel
 
 ### Local Chapters
 
-**Arrows Online** meets in the Fantasy Fiction Chat Room on AOL. For details, AOL folk can e-mail the Dean of Westhaven Collegia at \[Ed. note 2005: Out-of-date info withheld.\]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm \[Ed. note 2005: Out-of-date info withheld.\] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at \[Ed. note 2005: Out-of-date info withheld.\].
+**Arrows Online** meets in the Fantasy Fiction Chat Room on AOL. For details, AOL folk can e-mail the Dean of Westhaven Collegia at [Ed. note 2005: Out-of-date info withheld.]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm [Ed. note 2005: Out-of-date info withheld.] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at [Ed. note 2005: Out-of-date info withheld.].
 
-**Austral'a'in**--For more information, write to Cassandra Vuksa \[Ed. note 2005: Out-of-date info withheld.\].
+**Austral'a'in**--For more information, write to Cassandra Vuksa [Ed. note 2005: Out-of-date info withheld.].
 
-**Companion's Choice**--Shanara Ravensong \[Ed. note 2005: Out-of-date info withheld.\].
+**Companion's Choice**--Shanara Ravensong [Ed. note 2005: Out-of-date info withheld.].
 
-**The Herald's Companion**--Herald's Companion c/o Karen Bertke \[Ed. note 2005: Out-of-date info withheld.\]. So that's where feezils come from! Also recipes, book reviews, and poetry.
+**The Herald's Companion**--Herald's Companion c/o Karen Bertke [Ed. note 2005: Out-of-date info withheld.]. So that's where feezils come from! Also recipes, book reviews, and poetry.
 
-**The Messenger**--Joanne Thwaites \[Ed. note 2005: Out-of-date info withheld.\].
+**The Messenger**--Joanne Thwaites [Ed. note 2005: Out-of-date info withheld.].
 
-**Pacific Northwest Collegium**--c/o Laura Cameron/Moonglade K'Shena \[Ed. note 2005: Out-of-date info withheld.\]. *Collegium Chronicles* will print short stories, guest editorials, poetry, reviews . . . Editor Moonglade urges you all to get creative!
+**Pacific Northwest Collegium**--c/o Laura Cameron/Moonglade K'Shena [Ed. note 2005: Out-of-date info withheld.]. *Collegium Chronicles* will print short stories, guest editorials, poetry, reviews . . . Editor Moonglade urges you all to get creative!
 
 ## Other Fandoms
 
-- Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond \[Ed. note 2005: Out-of-date info withheld.\].
-- Doctor Who and other Media--The Prydonians of Prynceton \[Ed. note 2005: Out-of-date info withheld.\]. Dues are $12 ($22 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
-- Tanya Huff--NINE ABOVE! \[Ed. note 2005: Out-of-date info withheld.\].
-- Pern--Third Pass Pern: \[Ed. note 2005: Out-of-date info withheld.\].
-- Lois Bujold can be reached at Imbujold(\[Ed. note 2005: Out-of-date info withheld.\] "The Bujold Nexus" is at \[Ed. note 2005: Out-of-date info withheld.\].
+- Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
+- Doctor Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.]. Dues are $12 ($22 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
+- Tanya Huff--NINE ABOVE! [Ed. note 2005: Out-of-date info withheld.].
+- Pern--Third Pass Pern: [Ed. note 2005: Out-of-date info withheld.].
+- Lois Bujold can be reached at Imbujold([Ed. note 2005: Out-of-date info withheld.] "The Bujold Nexus" is at [Ed. note 2005: Out-of-date info withheld.].
 
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
@@ -99,15 +97,15 @@ Who would you be if you could daydream yourself info Valdemar? Send a SASE to th
 
 ## Member News
 
-Journey into the depths of your dreams, to a world where dragons take flight, mysterious unicorns dance in the vast reaches of a forest, and a special Companion awaits to Choose you as its new Herald. Come, experience the enchantment when fantasy becomes reality on quality, affordable FANTASY STATIONERY from Ellen Million Graphics! These are the tales we spin in beautiful ink and pencil artwork on an array of partly recycled colored paper! We offer a wide selection of 60+ designs by nine talented artists: stationery, cards, postcards, bookmarks, prints, magnets, and, coming soon, self-adhesive ADDRESS LABELS! No SASE needed, just write and ask for your first FREE catalog! ! Custom work available; send inquiry. Ellen Million Graphics \[Ed. note 2005: Out-of-date info withheld.\]. (Dealer inquiries welcome.)
+Journey into the depths of your dreams, to a world where dragons take flight, mysterious unicorns dance in the vast reaches of a forest, and a special Companion awaits to Choose you as its new Herald. Come, experience the enchantment when fantasy becomes reality on quality, affordable FANTASY STATIONERY from Ellen Million Graphics! These are the tales we spin in beautiful ink and pencil artwork on an array of partly recycled colored paper! We offer a wide selection of 60+ designs by nine talented artists: stationery, cards, postcards, bookmarks, prints, magnets, and, coming soon, self-adhesive ADDRESS LABELS! No SASE needed, just write and ask for your first FREE catalog! ! Custom work available; send inquiry. Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.]. (Dealer inquiries welcome.)
 
-Ladies and Gentlemen, Issue #3 of DON'T ARGUE WITH THE VOICE is out! This is the special Anime issue, with a color cover for the first 10 copies. I am accepting submissions for Issue 4, poetry, art, and stories, Velgarth and general Fantasy. Cost is $4 for an issue of this great fifty page zine contributors get a discount. and rates arc the same Outkingdomers. Cash is preferred, but check should be made out to Erin Frost. I accept disk submissions in almost any format: Mac or PC. You can also submit by e-mail: \[Ed. note 2005: Out-of-date info withheld.\] with 'Erin' as the subject. Please, no mail from inmates For guidelines and other information send \[Ed. note 2005: Out-of-date info withheld.\] (To all: Due to circumstances, I have become the sole editor of *Don't Argue with the Voice*. Please send all submissions to Ariya Nightsun).
+Ladies and Gentlemen, Issue #3 of DON'T ARGUE WITH THE VOICE is out! This is the special Anime issue, with a color cover for the first 10 copies. I am accepting submissions for Issue 4, poetry, art, and stories, Velgarth and general Fantasy. Cost is $4 for an issue of this great fifty page zine contributors get a discount. and rates arc the same Outkingdomers. Cash is preferred, but check should be made out to Erin Frost. I accept disk submissions in almost any format: Mac or PC. You can also submit by e-mail: [Ed. note 2005: Out-of-date info withheld.] with 'Erin' as the subject. Please, no mail from inmates For guidelines and other information send [Ed. note 2005: Out-of-date info withheld.] (To all: Due to circumstances, I have become the sole editor of *Don't Argue with the Voice*. Please send all submissions to Ariya Nightsun).
 
-See the mystical side of Ellen Million's art, take a "Spirit Walk" with Herald Alora and introduce yourself to the bright spirits of other talented women int he first issue of RHIANNON, out July l. RHIANNON is feminism, spirituality and fantasy. $2 an issue--free for contributors. Make checks payable to \[Ed. note 2005: Out-of-date info withheld.\]. Send an SASE for guidelines if you're unsure of what is appropriate. \[Ed. note 2005: Out-of-date info withheld.\].
+See the mystical side of Ellen Million's art, take a "Spirit Walk" with Herald Alora and introduce yourself to the bright spirits of other talented women int he first issue of RHIANNON, out July l. RHIANNON is feminism, spirituality and fantasy. $2 an issue--free for contributors. Make checks payable to [Ed. note 2005: Out-of-date info withheld.]. Send an SASE for guidelines if you're unsure of what is appropriate. [Ed. note 2005: Out-of-date info withheld.].
 
-What's your dream? Ever imagined flying through the air on your very own dragon, keeping the sky free of Thread? Fancied yourself a Lord or Lady holder, hosting a Gather or entertaining dragonriders on Search? Maybe one of the crafts appeals to you? (Any would-be miners or harpers or fisherfolk out there?) Don't forget the others who make running any Weyr or hold or crafthall possible--Lower Cavern swellers, headwomen, stewards, drudges and cooks! Anything goes (almost \<g>)! Come join us happy folk as we populate Pern and tell our tales through on-line Role Plays and fanzines. For more information, please contact Junior Weyrwoman Jaed at \[Ed. note 2005: Out-of-date info withheld.\] or visit our website at : \[Ed. note 2005: Out-of-date info withheld.\].
+What's your dream? Ever imagined flying through the air on your very own dragon, keeping the sky free of Thread? Fancied yourself a Lord or Lady holder, hosting a Gather or entertaining dragonriders on Search? Maybe one of the crafts appeals to you? (Any would-be miners or harpers or fisherfolk out there?) Don't forget the others who make running any Weyr or hold or crafthall possible--Lower Cavern swellers, headwomen, stewards, drudges and cooks! Anything goes (almost &lt;g>)! Come join us happy folk as we populate Pern and tell our tales through on-line Role Plays and fanzines. For more information, please contact Junior Weyrwoman Jaed at [Ed. note 2005: Out-of-date info withheld.] or visit our website at : [Ed. note 2005: Out-of-date info withheld.].
 
-*Sink or Swim* is a booklet intended to help aspiring non-profit zine and newsletter editors. It is compiled of the advice of several editors who have chosen to share their experiences in the world of Fandom. This booklet is produced by Rea Wildfire/Aurora Nelson. If you would like a copy, please send a postcard to \[Ed. note 2005: Out-of-date info withheld.\] expressing your interest. More information in the next newsletter.
+*Sink or Swim* is a booklet intended to help aspiring non-profit zine and newsletter editors. It is compiled of the advice of several editors who have chosen to share their experiences in the world of Fandom. This booklet is produced by Rea Wildfire/Aurora Nelson. If you would like a copy, please send a postcard to [Ed. note 2005: Out-of-date info withheld.] expressing your interest. More information in the next newsletter.
 
 <table class="border-2 cellpadding-2 cellspacing-2 table-align-right" style="width:25%">
 <tr>
@@ -121,11 +119,9 @@ What's your dream? Ever imagined flying through the air on your very own dragon,
 
 **TEMPEST** shows: (Call to verify performances.)
 
-Friday July 10--Ashland Creek Bar & Grill--9:30 pm \[Ed. note 2005: Out-of-date info withheld.\].\
-Saturday July 11--Odd Fellows Hall--8 pm \[Ed. note 2005: Out-of-date info withheld.\].\
-Sunday July 12--Oregon Country Fair--1:30 pm \[Ed. note 2005: Out-of-date info withheld.\].
+Friday July 10--Ashland Creek Bar & Grill--9:30 pm [Ed. note 2005: Out-of-date info withheld.]. Saturday July 11--Odd Fellows Hall--8 pm [Ed. note 2005: Out-of-date info withheld.]. Sunday July 12--Oregon Country Fair--1:30 pm [Ed. note 2005: Out-of-date info withheld.].
 
-For other appearance dates including CALIBAN shows (members of TEMPEST playing acoustic) check the TEMPEST web page: \[Ed. note 2005: Out-of-date info withheld.\] E-mail can be sent to \[Ed. note 2005: Out-of-date info withheld.\].
+For other appearance dates including CALIBAN shows (members of TEMPEST playing acoustic) check the TEMPEST web page: [Ed. note 2005: Out-of-date info withheld.] E-mail can be sent to [Ed. note 2005: Out-of-date info withheld.].
 
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
@@ -140,19 +136,17 @@ Please note that the August mailing date has been changed to a week later becaus
 
 ## PERSONALS:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
-Queen's Own \[Ed. note 2005: Out-of-date content withheld.\], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at \[Ed. note 2005: Out-of-date content withheld.\] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay \[Ed. note 2005: Out-of-date content withheld.\] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: \[Ed. note 2005: Out-of-date content withheld.\]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Deadline for next newsletter contributions: August 6.\
-Next Mailing Day: August 15--Call \[Ed. note 2005: Out-of-date content withheld.\] for directions. Call before coming, emergencies can cancel mailings.\
+Deadline for next newsletter contributions: August 6. Next Mailing Day: August 15--Call [Ed. note 2005: Out-of-date content withheld.] for directions. Call before coming, emergencies can cancel mailings.
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2005: Out-of-date content withheld.\] (before 10 pm please.); e-mail \[Ed. note 2005: Out-of-date content withheld.\]\
-Mailing Day Helpers--Arielle Amethyst Willow'Wind and SpiritBlade, Barbara Lelflar Jackson
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (before 10 pm please.); e-mail [Ed. note 2005: Out-of-date content withheld.] Mailing Day Helpers--Arielle Amethyst Willow'Wind and SpiritBlade, Barbara Lelflar Jackson
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -164,10 +158,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

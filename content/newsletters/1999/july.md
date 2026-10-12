@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 2, Vol. I, No. 8\
-July 17, 1999
+## Series 2, Vol. I, No. 8 July 17, 1999
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/>
 
@@ -141,19 +139,19 @@ Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
 </tr>
 </table>
 
-\[Ed. Note 2002: Old pricing and contact information withheld. See below.\]
+[Ed. Note 2002: Old pricing and contact information withheld. See below.]
 
-Next mailing date is July 17 \[sic\], 1999. **Deadline for submissions is July 10 \[sic\], 1999**. The earlier the better.
+Next mailing date is July 17 [sic], 1999. **Deadline for submissions is July 10 [sic], 1999**. The earlier the better.
 
-Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. \[Ed. Note 2002: Old address withheld.\] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
+Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. [Ed. Note 2002: Old address withheld.] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
 
-Last issue mailing day helper in May was Jason Hoff. (If you would like to help on mailing day, please call me at \[Ed. Note 2002: Phone withheld.\], all help is greatly appreciated!)
+Last issue mailing day helper in May was Jason Hoff. (If you would like to help on mailing day, please call me at [Ed. Note 2002: Phone withheld.], all help is greatly appreciated!)
 
 Border art & all other art--(Please send more border art!!)
 
-Editor and President - Robin Ready \[Ed. Note 2002: Contact info withheld.
+Editor and President - Robin Ready [Ed. Note 2002: Contact info withheld.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -167,10 +165,7 @@ There was no featured artist for this edition of the newsletter. If you would li
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

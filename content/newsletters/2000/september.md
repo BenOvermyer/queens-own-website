@@ -20,17 +20,15 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 1, No. 5\
-September 1, 2000
+## Series 3, Vol. 1, No. 5 September 1, 2000
 
 <img alt="Starry Eye by Danielle DiFronzo" class="border-3" loading="lazy" src="/qo23.jpg"/>
 
 Heyla, Misty fans!
 
-This month we continue series of interviews with the editors of the various Queen's Own fanzines and newsletters. The second editor we would like you to meet is Aurora Nelson of *Golden Grove*. (You'll find submission information below in the Fanzine section of this newsletter.) \[Ed. Note: Aurora Nelson is no longer the editor of *Golden Grove*, 2/16/02.\]
+This month we continue series of interviews with the editors of the various Queen's Own fanzines and newsletters. The second editor we would like you to meet is Aurora Nelson of *Golden Grove*. (You'll find submission information below in the Fanzine section of this newsletter.) [Ed. Note: Aurora Nelson is no longer the editor of *Golden Grove*, 2/16/02.]
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
 
@@ -41,7 +39,7 @@ This month we continue series of interviews with the editors of the various Quee
 2. What got you hooked on Misty's books?
   Well, the first sff (sci-fi/fantasy) I ever read was Anne McCaffrey. Once I had read all of her books, I went looking for something else just as interesting to read. I hadn't the slightest clue where to begin, so I decided to go for a co-author. My favorite book at the time was *The Ship Who Searched*, so I decided to check books by Mercedes Lackey out of the library. The only books they had by her at the time were the Vanyel books, which are a huge shock if you're a very innocent and oblivious twelve at the time. After that I went through all of her books as I found them. Misty and McCaffrey are still two of my four top favorite authors (I like too many). Lois McMaster Bujold and C.J. Cherryh are the other two.
 3. What else do you read?
-  Well, like I just said, Bujold and Cherryh. I love sci-fi best of all. I have this fascination with all things science. Considering the books I generally read, I'm always surprised that I like Misty's stuff as much as I do and that I'll still go out and buy the latest Valdemar hardcover. Brightly Burning was good, by the way \<g>.
+  Well, like I just said, Bujold and Cherryh. I love sci-fi best of all. I have this fascination with all things science. Considering the books I generally read, I'm always surprised that I like Misty's stuff as much as I do and that I'll still go out and buy the latest Valdemar hardcover. Brightly Burning was good, by the way &lt;g>.
 4. What types of music do you listen to?
   Well, that's easy: anything **except** Rap and Opera. I can rattle off all the radio stations around here on the FM. My best friend loves this, especially when we're in a car with no preset stations that she likes. On my shelves you can find anything from the latest pop hit to foreign imports to country to those store specials they sell at Target and the pet store.
 5. What was the first con you went to?
@@ -234,7 +232,7 @@ The newsletter is routinely posted to the Net. If you are concerned about your a
 The only "fee" for a fan message is to write to two other people. If your mailbox is empty, don't complain--write letters!
 
 - From **White Winds Soceress Shadow Weaver**. I am looking for gothic and sci/fi fantasy events in Ohio/KY/Indiana/West Virginia to merchant at. If you have any info please e-mail [cimeshadow@aol.com](mailto:cimeshadow@aol.com) or snail mail Lisa Brawner at P.O. Box 8335, Lexington, KY 40533-8335.
-- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" \<g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
+- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
@@ -260,10 +258,7 @@ The featured artists for the online version of the newsletter are [Laura Cameron
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

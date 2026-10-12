@@ -23,9 +23,7 @@ canonical_path = "/fan-fiction/"
 
 ## The Fanzines
 
-These are approved Mercedes Lackey Fanzines (Some are technically newsletters \<g>. They accept stories, art and poetry based on the works of Mercedes Lackey.\
-Please notify [Herald Mage Danya](mailto:shashtah@gmail.com) or [Healer Adept Moonstar](mailto:healermoon@gmail.com) if an address is incorrect or if the fanzine no longer exists. If you have an approved fanzine that you would like to have listed here, send [Herald Mage Danya](mailto:shashtah@gmail.com) or [Healer Adept Moonstar](mailto:healermoon@gmail.com) the contact information.\
-\
+These are approved Mercedes Lackey Fanzines (Some are technically newsletters &lt;g>. They accept stories, art and poetry based on the works of Mercedes Lackey. Please notify [Herald Mage Danya](mailto:shashtah@gmail.com) or [Healer Adept Moonstar](mailto:healermoon@gmail.com) if an address is incorrect or if the fanzine no longer exists. If you have an approved fanzine that you would like to have listed here, send [Herald Mage Danya](mailto:shashtah@gmail.com) or [Healer Adept Moonstar](mailto:healermoon@gmail.com) the contact information.
 
 <table class="border-1" style="width:100%">
 <tbody><tr>
@@ -62,12 +60,7 @@ Please notify [Herald Mage Danya](mailto:shashtah@gmail.com) or [Healer Adept Mo
 </tr>
 </tbody></table>
 
-\
-\
-
 <img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/>
-
-\
 
 <a href="__PDF_BASE_URL__/Misty.pdf">Misty Vale</a>
 
@@ -99,5 +92,4 @@ Please notify [Herald Mage Danya](mailto:shashtah@gmail.com) or [Healer Adept Mo
 
 <img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/>
 
-\
 [<img alt="" class="float-center" loading="lazy" src="/qofanfic_files/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

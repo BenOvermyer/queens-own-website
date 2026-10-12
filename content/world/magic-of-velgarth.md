@@ -93,8 +93,7 @@ The codes that follow the names tell which book mentions the pair. The codes are
 </tr>
 </table>
 
-SS = "Stolen Silver" (a short story about Alberich)\
-\* = Grove-Born Companion
+SS = "Stolen Silver" (a short story about Alberich) &#42; = Grove-Born Companion
 
 Page numbers are approximate. They generally refer to the paperback edition, but I do have a few hard covers and even some review copies. But the numbers should be enough to get you into the general region of the text evidence that I cite. *By the Sword*, at a glance, contains magical items and the use of magic but no details about how the magic works, since the tale is told from Kerowyn's point of view, and she does not have Mage-Gift.
 
@@ -111,16 +110,16 @@ Mind Magic is not true magic. It is essentially E.S.P. as practiced primarily by
 - Empathy (uncommon)
 - FarSight (clairvoyance; fairly common)
 - Fetching (Telekinesis; fairly common)
-  - Firestarting (a Gift of the Fetching family \[AQ, p. 282\]; uncommon)
+  - Firestarting (a Gift of the Fetching family [AQ, p. 282]; uncommon)
 - ForeSight (Prophecy; uncommon)
 - Healing (usually people with the Healing Gift are not Chosen as Heralds; cannot heal psychic damage; uncommon)
 - Mage Gift (the ability to work true magic; extremely uncommon)
 - Mindhealing (a specialized form of Healing; cannot heal physical damage; uncommon)
-- Mindspeech\* (Telepathy with humans, including Companions; fairly common, but not all Heralds have it)
+- Mindspeech&#42; (Telepathy with humans, including Companions; fairly common, but not all Heralds have it)
   - Projecting
   - Thought-sensing
 
-\*Note that someone may not possess both types of Mindspeech. It is perfectly possible for someone to be only able to project or only able to receive the telepathic communication.
+&#42;Note that someone may not possess both types of Mindspeech. It is perfectly possible for someone to be only able to project or only able to receive the telepathic communication.
 
 Additionally, there is a nameless Gift that is said to make the Herald-Companion Bond possible (AQ, p. 273), which presumably means that someone can have numerous Mind Magic Gifts but, without this one, could never become a Herald.
 
@@ -132,7 +131,7 @@ To use a Gift, a person must relax and concentrate (AQ, p. 273).
 
 ### The Truth Spell
 
-The Heralds also employ one type of spell that is supposedly "True Magic" (AFl, p. 28), but which may be a side-effect of Vanyel's spell that binds the vrondi to the protection of Valdemar. This is the Truth Spell. It has two levels and requires a Gift to use (the unnamed Gift that makes the Herald-Companion Bond possible \[AQ, p. 273\]). The first stage of the Truth Spell allows the caster and the audience to see whether or not the person upon whom the spell is cast is telling the truth. Any Herald can cast the first stage (MPro, p. 158). The second stage of the Truth Spell forces the person upon whom the spell is cast to tell the truth.
+The Heralds also employ one type of spell that is supposedly "True Magic" (AFl, p. 28), but which may be a side-effect of Vanyel's spell that binds the vrondi to the protection of Valdemar. This is the Truth Spell. It has two levels and requires a Gift to use (the unnamed Gift that makes the Herald-Companion Bond possible [AQ, p. 273]). The first stage of the Truth Spell allows the caster and the audience to see whether or not the person upon whom the spell is cast is telling the truth. Any Herald can cast the first stage (MPro, p. 158). The second stage of the Truth Spell forces the person upon whom the spell is cast to tell the truth.
 
 The technique for using the Truth Spell is described as (AQ, p. 278; MPro 158-160):
 
@@ -192,8 +191,8 @@ A mage's level determines the type and amount of magic he can use as well as the
 
 There are two types of true magic on Velgarth (OBr, p. 70):
 
-1. Low Magic (Can perform Healing spells; includes earth-witchery \[OBr, p. 59\].)
-2. High Magic (Cannot perform Healing spells; especially vulnerable to earth magic \[OBr, p. 187\].)
+1. Low Magic (Can perform Healing spells; includes earth-witchery [OBr, p. 59].)
+2. High Magic (Cannot perform Healing spells; especially vulnerable to earth magic [OBr, p. 187].)
 
 The one exception to the rule about High Magic and Healing is the Tayledras Healer-Adept. But these characters are very, very rare.
 
@@ -203,9 +202,9 @@ Magical energy on Velgarth comes from three sources (OBo, pp. 25-27, OBr p. 70):
 
 1. Power within (Requires Talent to use; example, Heraldic Mind-Magic)
 2. Power created by living things simply by the fact that the things are alive (Requires Talent to sense; does not require Talent to use since it can be released by death, cf. [blood-path](/magic-of-velgarth/#tm1) magic)
-3. Power from creatures that live in planes in conjunction with the plane on which Velgarth exists.\*
+3. Power from creatures that live in planes in conjunction with the plane on which Velgarth exists.&#42;
 
-\*The planes mentioned in the books are (OBo, p. 27):
+&#42;The planes mentioned in the books are (OBo, p. 27):
 
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
@@ -530,7 +529,7 @@ To advance in rank, White Winds mages must prove that they can cast a series of 
 </tr>
 </table>
 
-\*There is no Hedgewizard rank in the White Winds School.
+&#42;There is no Hedgewizard rank in the White Winds School.
 
 ### Constructs
 
@@ -624,7 +623,7 @@ Healers are said to use "true magic" as well (AQ, p. 277). This is in addition t
 
 ### Lifebonds
 
-Lifebonds are an uncommon magical link between two, or in some extremely rare cases three, souls. Their nature is unclear. They may be a result of extraordinarily similar life forces pulling together (Tylendel says that he and Van were forging the link between them by their proximity, which became their lifebond \[MPa\].). They seem to survive even death. The only lifebonds that Misty has described are between mates, complete with sexual attraction, though it is possible to abstain from sex (a circumstance that is very hard on the parties who share the lifebond).
+Lifebonds are an uncommon magical link between two, or in some extremely rare cases three, souls. Their nature is unclear. They may be a result of extraordinarily similar life forces pulling together (Tylendel says that he and Van were forging the link between them by their proximity, which became their lifebond [MPa].). They seem to survive even death. The only lifebonds that Misty has described are between mates, complete with sexual attraction, though it is possible to abstain from sex (a circumstance that is very hard on the parties who share the lifebond).
 
 An unacknowledged lifebond can cause deep emotional and psychic trouble for the linked parties. An acknowledged lifebond can have numerous disadvantages as well, most of which involve lack of choice or freedom. Most people do not have lifebonds; instead, the average person is capable of forming a lovebond with any number of individuals of his/her choice for any length of time that is agreeable to the parties involved.
 

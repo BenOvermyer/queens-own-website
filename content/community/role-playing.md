@@ -35,7 +35,7 @@ Official RPs are held on the fourth Wednesday of every month.
 4. Each individual is free to develop material in accordance with the setting described below.
 5. Misty's copyrighted characters may not be used during play (There is no reason for any of her characters to be "passing through" a village that exists only on our alternate timeline.).
 6. Stay within the rules of the Books--We are not allowed to create what Misty hasn't. Remember that we are dealing with a medieval culture. Only certain items will be available to your persona. There's no penicillin or X-ray machine, but there is a mortar and pestle, casts, and salves. Flour--yes; Bisquick--no. Oven--yes; microwave--no. Fruits and vegetables must be fresh and available "locally" or of the type that can be stored in cold cellars or dried successfully. Meat must be from a freshly killed animal, or dried or salted for storage.
-7. Please stay within the timeframe that is described below. If our characters want to talk with each other, we have to agree to be at the same place at the same time \<G>.
+7. Please stay within the timeframe that is described below. If our characters want to talk with each other, we have to agree to be at the same place at the same time &lt;G>.
 
 ## Directions for Play
 

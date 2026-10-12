@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. IV, No. 9\
-June 1991
+## Series 1, Vol. IV, No. 9 June 1991
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Crest" loading="lazy" src="/qo178.jpg"/>
 
@@ -48,39 +46,39 @@ News from Misty:
 
 The design at hte top of this page was submitted by Tona Morrow as a possible QO button--I've "borrowed" it (with her permission, of course) for the newsletter.
 
-*Marion Zimmer Bradley's Fantasy Magazine* is published quarterly and frequently contains a story by Misty. Other authors who appear are Diana L. Paxson, Elisabeth Waters, Jennifer Roberson, and MArion herself. Send me \[Ed. note 2003: Out-of-date contact information withheld.\].
+*Marion Zimmer Bradley's Fantasy Magazine* is published quarterly and frequently contains a story by Misty. Other authors who appear are Diana L. Paxson, Elisabeth Waters, Jennifer Roberson, and MArion herself. Send me [Ed. note 2003: Out-of-date contact information withheld.].
 
 ## Convention News
 
-**Gaylaxicon '91** is a SF/Fantasy convention for gay people and their friends in Tewksbury, Massachusetts, July 19-21. Minors must be accompanied by parent or guardian. For registration, \[Ed. note 2003: Out-of-date contact information withheld.\].
+**Gaylaxicon '91** is a SF/Fantasy convention for gay people and their friends in Tewksbury, Massachusetts, July 19-21. Minors must be accompanied by parent or guardian. For registration, [Ed. note 2003: Out-of-date contact information withheld.].
 
-**Rivercon XVI**, August 2-4, in Louisville, Kentucky features Lois McMaster Bujold as Guest of Honor. Local QO members invite all who can attend to meet them there. Write to \[Ed. note 2003: Out-of-date contact information withheld.\].
+**Rivercon XVI**, August 2-4, in Louisville, Kentucky features Lois McMaster Bujold as Guest of Honor. Local QO members invite all who can attend to meet them there. Write to [Ed. note 2003: Out-of-date contact information withheld.].
 
-**Chicon V** is the 49th World Science Fiction Convention, held this year in Chicago over Labor Day weekend. \[Ed. note 2003: Out-of-date information withheld.\] Those who attend get to nominate and vote for the Hugo Awares. For ingo, write to \[Ed. note 2003: Out-of-date contact information withheld.\].
+**Chicon V** is the 49th World Science Fiction Convention, held this year in Chicago over Labor Day weekend. [Ed. note 2003: Out-of-date information withheld.] Those who attend get to nominate and vote for the Hugo Awares. For ingo, write to [Ed. note 2003: Out-of-date contact information withheld.].
 
-The **New York State Renaissance Festival** opens July 27th and is open weekends until Septenber 15th. It's located in Tuxedo, NY and the hourse are 11 a.m. to 6 p.m. (Arrive early for parking ease.) You can call Creative Faires Ltd. "Faire Info Line"--\[Ed. note 2003: Out-of-date contact information withheld.\]. Stop by "The Enchanted Cottage" and ask for "Lady Hawk" to get an unofficial tour of the Shire by QO member Cris Martins.
+The **New York State Renaissance Festival** opens July 27th and is open weekends until Septenber 15th. It's located in Tuxedo, NY and the hourse are 11 a.m. to 6 p.m. (Arrive early for parking ease.) You can call Creative Faires Ltd. "Faire Info Line"--[Ed. note 2003: Out-of-date contact information withheld.]. Stop by "The Enchanted Cottage" and ask for "Lady Hawk" to get an unofficial tour of the Shire by QO member Cris Martins.
 
 ### Conventions with Misty and Larry as Guests of Honor:
 
-**CONTRADICTION 11** is September 27-29 at the Radisson Hotel Niagara Falls, \[Ed. note 2003: Out-of-date contact information withheld.\]. Ask for the special con rate when making your hotel reservation. \[Ed. note 2003: Out-of-date contact information withheld.\] This looks like an excellently run con, with fun for all ages and interests. ,P> **Dreamcon 6** is November 1-3 at hte Quality Inn Hotel & Conference Center, \[Ed. note 2003: Out-of-date contact information withheld.\].
+**CONTRADICTION 11** is September 27-29 at the Radisson Hotel Niagara Falls, [Ed. note 2003: Out-of-date contact information withheld.]. Ask for the special con rate when making your hotel reservation. [Ed. note 2003: Out-of-date contact information withheld.] This looks like an excellently run con, with fun for all ages and interests. ,P> **Dreamcon 6** is November 1-3 at hte Quality Inn Hotel & Conference Center, [Ed. note 2003: Out-of-date contact information withheld.].
 
 ### Chapter, Zine, and Other News:
 
-From *Cara Huffman*, \[Ed. note 2003: Out-of-date contact information withheld.\]: "Heyla! The third issue of the **Valdemar Merchant** is now ready. Take a look at what your fellow friends have to offer! To receive an issue please send a legal size SASE"
+From *Cara Huffman*, [Ed. note 2003: Out-of-date contact information withheld.]: "Heyla! The third issue of the **Valdemar Merchant** is now ready. Take a look at what your fellow friends have to offer! To receive an issue please send a legal size SASE"
 
-The summer addres for *For Whom the Bell Tolls--Young Queen's Own*, the role playing writer's club set in an alternate Valdemar, is \[Ed. note 2003: Out-of-date contact information withheld.\]. Leanne Brownlee says: "To all the people who have inquired about FWTBT--YQO: WOW! I really didn't expect this large a response! The amount of mail I get has almost doubled! I am trying to write back to each of you as quickly as I can. Please be patient. I will write. I hope you all enjoy yourselves! Herald-Queen Anastasia."
+The summer addres for *For Whom the Bell Tolls--Young Queen's Own*, the role playing writer's club set in an alternate Valdemar, is [Ed. note 2003: Out-of-date contact information withheld.]. Leanne Brownlee says: "To all the people who have inquired about FWTBT--YQO: WOW! I really didn't expect this large a response! The amount of mail I get has almost doubled! I am trying to write back to each of you as quickly as I can. Please be patient. I will write. I hope you all enjoy yourselves! Herald-Queen Anastasia."
 
-From *Sapphire and White* \[Ed. note 2003: Out-of-date contact information withheld.\]: "I've been overwhelmed with the response a 'Great Lakes' chapter has received. (You guys are great!) If you wrote before May 20 and haven't received a copy of our newsletter yet please write again. If you're from Michigan, Indiana, Illinois or anywhere else even remotely close to the Great Lakes you're more than welcome to join."
+From *Sapphire and White* [Ed. note 2003: Out-of-date contact information withheld.]: "I've been overwhelmed with the response a 'Great Lakes' chapter has received. (You guys are great!) If you wrote before May 20 and haven't received a copy of our newsletter yet please write again. If you're from Michigan, Indiana, Illinois or anywhere else even remotely close to the Great Lakes you're more than welcome to join."
 
-From *Lynn Tucker* \[Ed. note 2003: Out-of-date contact information withheld.\]: "*Companions' Grove* is a definite go; I'm just waiting for submissions now. A SASE will get interested parties a copy of the guidelines. The sooner I get subs, the sooner the first (uh oh, did I say FIRST?!?) issue can be published, so rev up those typewriters!"
+From *Lynn Tucker* [Ed. note 2003: Out-of-date contact information withheld.]: "*Companions' Grove* is a definite go; I'm just waiting for submissions now. A SASE will get interested parties a copy of the guidelines. The sooner I get subs, the sooner the first (uh oh, did I say FIRST?!?) issue can be published, so rev up those typewriters!"
 
-Issue two of the zine *Companion's Rest* is almost ready; order from \[Ed. note 2003: Out-of-date contact information withheld.\]. Vicki invites those of you who read #1 to send her suggestions and criticisms. Damien Bunting will edit Issues 3 & 4, so send material to him at \[Ed. note 2003: Out-of-date contact information withheld.\].
+Issue two of the zine *Companion's Rest* is almost ready; order from [Ed. note 2003: Out-of-date contact information withheld.]. Vicki invites those of you who read #1 to send her suggestions and criticisms. Damien Bunting will edit Issues 3 & 4, so send material to him at [Ed. note 2003: Out-of-date contact information withheld.].
 
-**Haven Sent**, the Texas chapter of Queen's Own, is doing well, thanks to the guidance of Dan & Julie Bowen, \[Ed. note 2003: Out-of-date contact information withheld.\]. Their motto is "You give us news, you pay no dues." That's right--just share your opinions of characters, books, movies, whatever, and receive a free copy of their newsletter. And you don't have to live in Texas to play!
+**Haven Sent**, the Texas chapter of Queen's Own, is doing well, thanks to the guidance of Dan & Julie Bowen, [Ed. note 2003: Out-of-date contact information withheld.]. Their motto is "You give us news, you pay no dues." That's right--just share your opinions of characters, books, movies, whatever, and receive a free copy of their newsletter. And you don't have to live in Texas to play!
 
-**The Herald's Hall of California** was the first regional chapter of Queen's Own. Christa Miller sent out a consistently high quality newsletter. Unfortunately for those of us who enjoyed reading the "California Arrow", Christa is gafiating. (To gafiate is to "get away from it all". The term is usually used when Mundania insists on taking up so much of one's time that fannish activities have to be curtailed.) Is there anyone in the California area who would like to keep the chapter going? If so, write to Christa at \[Ed. note 2003: Out-of-date contact information withheld.\].
+**The Herald's Hall of California** was the first regional chapter of Queen's Own. Christa Miller sent out a consistently high quality newsletter. Unfortunately for those of us who enjoyed reading the "California Arrow", Christa is gafiating. (To gafiate is to "get away from it all". The term is usually used when Mundania insists on taking up so much of one's time that fannish activities have to be curtailed.) Is there anyone in the California area who would like to keep the chapter going? If so, write to Christa at [Ed. note 2003: Out-of-date contact information withheld.].
 
-From *Scout Leader Stephanie shena Pretera'sedrin*: Heyla, SHin'a'in brothers and sisters! I'm willing to set up a newsletter specifically for us. I know there are plenty of full, half, quarter, or of miniscule blood out there. It'll be kind of a "newspaper" of what's happening in different clans and personas. Contact Stephanie Anderson \[Ed. note 2003: Out-of-date contact information withheld.\].
+From *Scout Leader Stephanie shena Pretera'sedrin*: Heyla, SHin'a'in brothers and sisters! I'm willing to set up a newsletter specifically for us. I know there are plenty of full, half, quarter, or of miniscule blood out there. It'll be kind of a "newspaper" of what's happening in different clans and personas. Contact Stephanie Anderson [Ed. note 2003: Out-of-date contact information withheld.].
 
 ### Hello from Herald Housemother:
 
@@ -110,25 +108,23 @@ Of course the issue you received last month was the May issue. Granted, the head
 
 Fan messages are for the convenience of those who wish to write to others. The QO membership list is not made available to anyone else, not even Firebird Arts and Music, but please remember that a sample issue of the newsletter is sent to anyone who requests informatino on the club. If you place a fan message I can't guarantee that it will be seen only by QO members. The "fee" is still the same: if you place a fan message, you must write to at least one other person who has a message in the issue where yours appears.
 
-\[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
-\[Ed. Note 2003: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.\]
+[Ed. Note 2003: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.]
 
-\[Ed. note 2003: Out-of-date subscription information withheld.\]
+[Ed. note 2003: Out-of-date subscription information withheld.]
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: \[Ed. note 2003: Out-of-date information withheld.\]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: [Ed. note 2003: Out-of-date information withheld.]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2003: Out-of-date information withheld.\]\
-Archivist and Organizer *extraordinaire*--Patricia Riggs\
-Mailing Day Helpers (last issue)--Ana Casacuberta, Linda Gumkowski, Cris Martins and Sean Miller.
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2003: Out-of-date information withheld.] Archivist and Organizer *extraordinaire*--Patricia Riggs Mailing Day Helpers (last issue)--Ana Casacuberta, Linda Gumkowski, Cris Martins and Sean Miller.
 
 Wind to Thy Wings!
 
 Judith
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -140,10 +136,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

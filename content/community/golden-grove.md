@@ -34,7 +34,7 @@ Golden Grove used to be called "The Herald's Hall of California". The chapter wa
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-Golden Grove is the California chapter of [Queen's Own](/), the official Mercedes Lackey Appreciation newsletter. No infringements of her or anyone else's copyrights is intended. Golden Grove is a not-for-profit fan newsletter formerly published by Aurora Nelson.\ \
+Golden Grove is the California chapter of [Queen's Own](/), the official Mercedes Lackey Appreciation newsletter. No infringements of her or anyone else's copyrights is intended. Golden Grove is a not-for-profit fan newsletter formerly published by Aurora Nelson.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -58,4 +58,4 @@ site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href=
 
 <img alt="" loading="lazy" src="/bardrgn2.gif"/>
 
-\ <a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> [Back to Danya Winterborn's Page](/danya-winterborn/)\ \ \
+<a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> [Back to Danya Winterborn's Page](/danya-winterborn/)

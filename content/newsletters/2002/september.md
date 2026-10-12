@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 3, No. 9\
-September 1, 2002
+## Series 3, Vol. 3, No. 9 September 1, 2002
 
 <img alt="Horses by Maya Carroll" class="float-center border-5" loading="lazy" src="/qo129.jpg"/>
 
@@ -34,7 +32,7 @@ For those of you who just can�t wait for *Exile�s Honor* (the upcoming novel
 
 [http://mercedeslackey.com](http://mercedeslackey.com)
 
-There�s a bunch of other really cool stuff at the site as well. Poke around a bit! You�ll have a lot of fun \<g>.
+There�s a bunch of other really cool stuff at the site as well. Poke around a bit! You�ll have a lot of fun &lt;g>.
 
 You can see what Herald Auryn Bancroft (Amber Taufen) has been up to at
 
@@ -83,7 +81,7 @@ Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
   The community. This is the only place I can say something like "I wish my Mindspeech was stronger," or "When will we find out more about Alberich" and not get funny looks.
 9. **What other things besides Queen's Own occupy your time?**
   Well, work mostly. I am an Assistant Editor at a magazine. Other than that, I read, cross-stitch (If anyone knows where I can get some Valdemar-related projects, let me know!) and hang out with friends.
-  \[Ed. note: Misty did a couple of patterns for old newsletters. I�m not sure if we can get them to scan, but we�ll work on it.\]
+  [Ed. note: Misty did a couple of patterns for old newsletters. I�m not sure if we can get them to scan, but we�ll work on it.]
 10. **What types of things would you like to see Queen's Own do in the coming years?**
   Well, I am looking forward to the cookbook . . . Other than that, maybe have live chats with ML if she is willing.
 
@@ -213,7 +211,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Arkansas
 
-**ROC\*KON 2002.** Website: [http://www.rockon.org/](http://www.rockon.org/). E-mail: [RocKonCon@aol.com](mailto:RocKonCon@aol.com). Address: Riverfront Hilton Hotel, North Little Rock, Arkansas. Dates: 9/27/02 - 9/29/02.
+**ROC&#42;KON 2002.** Website: [http://www.rockon.org/](http://www.rockon.org/). E-mail: [RocKonCon@aol.com](mailto:RocKonCon@aol.com). Address: Riverfront Hilton Hotel, North Little Rock, Arkansas. Dates: 9/27/02 - 9/29/02.
 
 ### California
 
@@ -329,7 +327,7 @@ SPX 2002. Website: [http://www.spxpo.com/](http://www.spxpo.com/). E-mail: [mich
 
 ### Wisconsin
 
-**MADCON 2002.** Website: [http://www.madcon.org](http://www.madcon.org). E-mail: [uss\_andromeda@yahoo.com](mailto:uss_andromeda@yahoo.com). Address: Crowne Plaza Hotel, Madison, Wisconsin. Dates: 9/28/02 - 9/29/02.
+**MADCON 2002.** Website: [http://www.madcon.org](http://www.madcon.org). E-mail: [uss_andromeda@yahoo.com](mailto:uss_andromeda@yahoo.com). Address: Crowne Plaza Hotel, Madison, Wisconsin. Dates: 9/28/02 - 9/29/02.
 
 ### Australia
 
@@ -393,7 +391,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
 
 ### Zines and Newsletters:
 
@@ -440,23 +438,23 @@ Welcome back! If you are a returning member who has recently activated your memb
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\
-- Herald Cateryna Cyray (KimChrist@Home.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\
-- Healer Adept Sierra k'Treva (katsanders@buffymail.com)\
-- Herald Trieenia Featherfire (sylverstorme@aol.com)\
-- Bard Valiena (laughsong@aol.com)\
-- Healer Tamesin na Coille (minke13@earthlink.net)\
-- Herald Alia Melyngar (aliamelyngar@aol.com)\
-- Herald-Mage Apprentice Kadia Linder (kadia@aol.com)\
-- Herald Gwendolyn Katran (ladykent@wildmail.com)\
-- Herald Liana Firelan (krbertke@bertke.com)\
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
+- Herald Cateryna Cyray (KimChrist@Home.com)
+- Herald Deborah (sjupiterdebi@home.com)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Healer Adept Sierra k'Treva (katsanders@buffymail.com)
+- Herald Trieenia Featherfire (sylverstorme@aol.com)
+- Bard Valiena (laughsong@aol.com)
+- Healer Tamesin na Coille (minke13@earthlink.net)
+- Herald Alia Melyngar (aliamelyngar@aol.com)
+- Herald-Mage Apprentice Kadia Linder (kadia@aol.com)
+- Herald Gwendolyn Katran (ladykent@wildmail.com)
+- Herald Liana Firelan (krbertke@bertke.com)
 - Herald Kalendel (itsmyage@aol.com)
 
 If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
@@ -471,9 +469,9 @@ I am keeping busy with school and am getting into the programming classes, so I 
 
 I am teaching 10 classes a week now at the Petsmart and juggling my schedule to make sure I have childcare. Luckily, for me I have a great boyfriend who is more than happy to watch Alex while I am at work.
 
-I have found myself locking out the world in order to deal with the mixed feelings about life in general in the last couple of months. I am starting to be caught up with stuff now so I expect that will not be to long in returning E-mails that are sent to me now. \<Grin> or at least I hope not.
+I have found myself locking out the world in order to deal with the mixed feelings about life in general in the last couple of months. I am starting to be caught up with stuff now so I expect that will not be to long in returning E-mails that are sent to me now. &lt;Grin> or at least I hope not.
 
-I enjoy hearing from everyone! I hope your lives are a bit less chaotic than mine. \<Grin> I have noticed the chat lists are starting to pick up lots of traffic and that is encouraging, as we are hoping for more submissions of personas. The Pending list has about 80 members, and the club list has a few more. I love to see our club grow!
+I enjoy hearing from everyone! I hope your lives are a bit less chaotic than mine. &lt;Grin> I have noticed the chat lists are starting to pick up lots of traffic and that is encouraging, as we are hoping for more submissions of personas. The Pending list has about 80 members, and the club list has a few more. I love to see our club grow!
 
 Hugs-
 
@@ -501,10 +499,7 @@ The featured artist for this newsletter is [Maya Carroll](mailto:gabehome@bellso
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

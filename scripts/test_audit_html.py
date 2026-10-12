@@ -88,8 +88,8 @@ class HtmlAuditTests(unittest.TestCase):
         self.assertNotEqual(first['baseline']['visible_text_sha256'], second['baseline']['visible_text_sha256'])
 
     def test_exception_acknowledges_a_finding_and_clears_the_error(self):
-        self.write('content/sample.md', '<p>Copy this fragment:</p>&lt;a href="/"&gt;copy me&lt;/a&gt;')
-        (self.root / 'data/html-exceptions.json').write_text(json.dumps([{'file': 'content/sample.md', 'rule': 'escaped_markup_in_text', 'reason': 'sample'}]))
+        self.write('content/sample.md', '<h2 id="s">A</h2><h3 id="s">B</h3>')
+        (self.root / 'data/html-exceptions.json').write_text(json.dumps([{'file': 'content/sample.md', 'rule': 'duplicate_id', 'reason': 'sample'}]))
         report = audit()
         self.assertEqual(report['summary']['acknowledged_findings'], 1)
         self.assertEqual(report['summary']['unresolved_errors'], 0)

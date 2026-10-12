@@ -19,8 +19,7 @@ canonical_path = "/tayledras-handout/"
 
 Distributed by:
 
-### Queen's Own\
-The Official Mercedes Lackey Fan Club
+### Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -32,21 +31,21 @@ Honor applies; what you roll is what you get.
 
 Determine your Clan by rolling three six-sided dice.
 
-1. k'Chona\
-2. k'Jeia\
-3. k'Lissa\
-4. k'Onsova\
-5. k'Rika\
-6. k'Sheyna\
-7. k'Shira\
-8. k'Saurai\
-9. k'Treva\
-10. k'Vaia\
-11. k'Vala\
-12. k'Valdemar\
-13. k'Varis\
-14. k'Verei\
-15. k'Vesia\
+1. k'Chona
+2. k'Jeia
+3. k'Lissa
+4. k'Onsova
+5. k'Rika
+6. k'Sheyna
+7. k'Shira
+8. k'Saurai
+9. k'Treva
+10. k'Vaia
+11. k'Vala
+12. k'Valdemar
+13. k'Varis
+14. k'Verei
+15. k'Vesia
 16. k'Veyas
 
 ### Position

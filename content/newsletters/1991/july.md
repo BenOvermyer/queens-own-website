@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. IV, No. 10\
-July 1991
+## Series 1, Vol. IV, No. 10 July 1991
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty Fans,
 
@@ -48,21 +46,21 @@ Birds in the wild are generally very good parents, and if you see baby birds wan
 
 Jody Lee says: "There are still prints available, including 'Oathbound' and 'Oathbreakers.' DAW Books will be advertising the prints in Misty's hardcover, *Winds of Fate* . . . I will make prints of 'Winds of Fate' but I will also probably discontinue offering matted prints except at conventions, so anyone who wants matted prints should order htem this summer." Jody adds: "I really want to thank everyone who has written to me or bought prints & apologize for very often failing to reply in timely fashion."
 
-Jody will be Artist Guest of Honor at Boskone 29 in Springfield, Massachusetts, February 14-16 '92. Send a SASE to \[Ed. note 2003: Out-of-date contact information withheld.\].
+Jody will be Artist Guest of Honor at Boskone 29 in Springfield, Massachusetts, February 14-16 '92. Send a SASE to [Ed. note 2003: Out-of-date contact information withheld.].
 
 Our mini-con in New Jersey went well, I think, with Misty and Larry enjoying meeting over 20 QO members, all squished into my cluttered living room. No one seemed to mindt he crowding too much, especially when Misty and larry were reading excerpts from *Winds of Fate* and *Born to Run*. We also saw the illos for *The Elvenbane*; my, my, little Skif has filled out nicely.
 
-Are you curious about the appearance of Misty & Larry? I have some lovely snapshots from the visit. Send me \[Ed. note 2003: Out-of-date contact information withheld.\]. I'll donate a portion of each dollar collected to S.O.A.R., one of Misty and Larry's favorite projects.
+Are you curious about the appearance of Misty & Larry? I have some lovely snapshots from the visit. Send me [Ed. note 2003: Out-of-date contact information withheld.]. I'll donate a portion of each dollar collected to S.O.A.R., one of Misty and Larry's favorite projects.
 
-Don't forget **RiverCon XVI**, \[Ed. note 2003: Out-of-date contact information withheld.\]., August 2-4. Lois Bujold is Guest of Honor. Bring your Whites--lots of QO folk plan to attend.
+Don't forget **RiverCon XVI**, [Ed. note 2003: Out-of-date contact information withheld.]., August 2-4. Lois Bujold is Guest of Honor. Bring your Whites--lots of QO folk plan to attend.
 
-Come join Misty and Larry at *CONTRADICTION 11*, September 27-29 at the Radisson Hotel Niagara Falls, \[Ed. note 2003: Out-of-date contact information withheld.\]. This looks like an excellently run con, with fun for all ages and interests.
+Come join Misty and Larry at *CONTRADICTION 11*, September 27-29 at the Radisson Hotel Niagara Falls, [Ed. note 2003: Out-of-date contact information withheld.]. This looks like an excellently run con, with fun for all ages and interests.
 
-For the Northwest, there's **dream 6**, November 1-3 a thte Quality Inn Hotel & Conference Center, \[Ed. note 2003: Out-of-date contact information withheld.\].
+For the Northwest, there's **dream 6**, November 1-3 a thte Quality Inn Hotel & Conference Center, [Ed. note 2003: Out-of-date contact information withheld.].
 
-Like to plan ahead? Misty is listed as Special Guest of Honor at **Chattacon 17**, January 17-19 in Chattanooga. Memberships purchased \[Ed. note 2003: Out-of-date contact information withheld.\].
+Like to plan ahead? Misty is listed as Special Guest of Honor at **Chattacon 17**, January 17-19 in Chattanooga. Memberships purchased [Ed. note 2003: Out-of-date contact information withheld.].
 
-Jacksonville is hodting **CrackerCon** March 13-15, 1992. The Guest of Honor is Misty, with Larry as Artist GoH and Doris Mager of Save Our American Raptors as special Guest on Saturday morning. Meberships are \[Ed. note 2003: Out-of-date contact information withheld.\].\<. ,P> Have you dreamed of becoming a Herald but aren't sure how to start? This topic was discussed in a number of previous newsletters, and most of the necessary information was compiled by Chris Johnson into one page, aptly titled "The Helpful Haldout of How to Become a Herald." \[Ed. note 2003: Out-of-date contact information withheld. Current handouts can be found at [/persona-handouts/](/persona-handouts/).\]
+Jacksonville is hodting **CrackerCon** March 13-15, 1992. The Guest of Honor is Misty, with Larry as Artist GoH and Doris Mager of Save Our American Raptors as special Guest on Saturday morning. Meberships are [Ed. note 2003: Out-of-date contact information withheld.].&lt;. ,P> Have you dreamed of becoming a Herald but aren't sure how to start? This topic was discussed in a number of previous newsletters, and most of the necessary information was compiled by Chris Johnson into one page, aptly titled "The Helpful Haldout of How to Become a Herald." [Ed. note 2003: Out-of-date contact information withheld. Current handouts can be found at [/persona-handouts/](/persona-handouts/).]
 
 Misty took time during her NJ visit to clear up a couple of questions about the HErald process.
 
@@ -132,39 +130,39 @@ No newsletter in August! I hope to catch up on the mail, finish organizing the f
 
 **All zine editors, mentors, and chapter heads--bring me up to date on what you're doing by the end of August so you can be featured in the September newsletter!! If I don't hear from you regularly i assume you are defunct!**
 
-Greetings to old and new QO folk: Announcing the 2nd annual QO/Clan Festival July 26-28, held at Denise Loveless' 40 acre farm. THis is for those of you who need to "get away from it all" and "get back to nature." There will be a festival dinner/bonfire and swimming at the lake . . . along with a visit to Mammoth Cave. Please let Denise know if you plan to attend. \[Ed. note 2003: Out-of-date contact information withheld.\]
+Greetings to old and new QO folk: Announcing the 2nd annual QO/Clan Festival July 26-28, held at Denise Loveless' 40 acre farm. THis is for those of you who need to "get away from it all" and "get back to nature." There will be a festival dinner/bonfire and swimming at the lake . . . along with a visit to Mammoth Cave. Please let Denise know if you plan to attend. [Ed. note 2003: Out-of-date contact information withheld.]
 
-Write to Ellen Wells, \[Ed. note 2003: Out-of-date contact information withheld.\], for information on the Valdemar collection of recipes, "In the Palace Kitchen."
+Write to Ellen Wells, [Ed. note 2003: Out-of-date contact information withheld.], for information on the Valdemar collection of recipes, "In the Palace Kitchen."
 
-To the West Coast QO members from Christa Miller: If someone is willing to take over the California Arrow, I have subscription monies and copies of previous issues waiting fo rhte new editor/writer(s), and it's up to you now. Write to me at \[Ed. note 2003: Out-of-date contact information withheld.\]. If you're already a member and would like a refund of subscription money, drop me a note at the same address.
+To the West Coast QO members from Christa Miller: If someone is willing to take over the California Arrow, I have subscription monies and copies of previous issues waiting fo rhte new editor/writer(s), and it's up to you now. Write to me at [Ed. note 2003: Out-of-date contact information withheld.]. If you're already a member and would like a refund of subscription money, drop me a note at the same address.
 
-"ATTENTION ARTISTS! and people intersted in Art!! There is a gap in Fan Publications you can fill! An ART ZINE OF SCIENCE FICTION AND FANTASY ART! I would like to have artists get together in a zine to share and show off their art--a sort of "art show by mail." It would also be a place to advertise your art, zine or any other SF/F related product you have. THe zine will be published quarterly to start. Zine cost will only be my cost ot produce, announce, package, and mail to artists and interested viewers. (\[Ed. note 2003: Out-of-date contact information withheld.\]
+"ATTENTION ARTISTS! and people intersted in Art!! There is a gap in Fan Publications you can fill! An ART ZINE OF SCIENCE FICTION AND FANTASY ART! I would like to have artists get together in a zine to share and show off their art--a sort of "art show by mail." It would also be a place to advertise your art, zine or any other SF/F related product you have. THe zine will be published quarterly to start. Zine cost will only be my cost ot produce, announce, package, and mail to artists and interested viewers. ([Ed. note 2003: Out-of-date contact information withheld.]
 
-Adrienne Travis and Brenna Farmer are preparing a Shin'a'in dictionary/grammar guide/etc. to be issued quarterly at \[Ed. note 2003: Out-of-date information withheld.\].
+Adrienne Travis and Brenna Farmer are preparing a Shin'a'in dictionary/grammar guide/etc. to be issued quarterly at [Ed. note 2003: Out-of-date information withheld.].
 
-Karen Bertke has news of the Queen's Own Directory: "We will announce in hte QO newsletter when the Directory is complete and ready to print. At that time we will be able to tell you what the printing and shipping costs will be." If you want your Herald info/mundane name/club address/zine in the Directory, send the information right away to Karen Bertke, \[Ed. note 2003: Out-of-date contact information withheld.\]. No entries accepted after September 15th; Karen would like to get the first edition out by the end of the year.
+Karen Bertke has news of the Queen's Own Directory: "We will announce in hte QO newsletter when the Directory is complete and ready to print. At that time we will be able to tell you what the printing and shipping costs will be." If you want your Herald info/mundane name/club address/zine in the Directory, send the information right away to Karen Bertke, [Ed. note 2003: Out-of-date contact information withheld.]. No entries accepted after September 15th; Karen would like to get the first edition out by the end of the year.
 
-Cris Martins is planning a special calendar for QO members. Each month will list festivals, feast days, and other reasons to celebrate from all the worlds Misty has written about. Cris is looking for poetry, artwork, filks, and your suggestions for "dates of note." Send a SASE for instructions and helpful hints; the deadline for submissions is October 31, so the calendar can be ready by December. Write to \[Ed. note 2003: Out-of-date contact information withheld.\].
+Cris Martins is planning a special calendar for QO members. Each month will list festivals, feast days, and other reasons to celebrate from all the worlds Misty has written about. Cris is looking for poetry, artwork, filks, and your suggestions for "dates of note." Send a SASE for instructions and helpful hints; the deadline for submissions is October 31, so the calendar can be ready by December. Write to [Ed. note 2003: Out-of-date contact information withheld.].
 
-"Heyla, Hiya, Hoya! Thank you all for your interst in the Valdemar Merchant! A bit of news: the ad deadline for the next issue is July 26 & the next issue will be out by mid-August. For infor or a copy of the **Merchant**, \[Ed. note 2003: Out-of-date contact information withheld.\].
+"Heyla, Hiya, Hoya! Thank you all for your interst in the Valdemar Merchant! A bit of news: the ad deadline for the next issue is July 26 & the next issue will be out by mid-August. For infor or a copy of the **Merchant**, [Ed. note 2003: Out-of-date contact information withheld.].
 
 Also from *Cara Lee*: "HELP! Someone out there asked for some info about my stationery. I just got the catalog back with a letter from the post office saying 'found loose in the mail'! If you are still interested, drop me a line."
 
-"All Sapphire and White members, remember: **No mailing in July**. I'll be back in August though, so send those submissions! We are the 'Great Lakes' chapter of QO, anyone near or just interested in this area is welcome to join. Send a SASE for info to \[Ed. note 2003: Out-of-date contact information withheld.\].
+"All Sapphire and White members, remember: **No mailing in July**. I'll be back in August though, so send those submissions! We are the 'Great Lakes' chapter of QO, anyone near or just interested in this area is welcome to join. Send a SASE for info to [Ed. note 2003: Out-of-date contact information withheld.].
 
-Coming soon! (october '91) *Enchantress* is a fanzine devoted to the world of Velgarth and to other original worlds of fantasy fiction, with an emphasis on stories of strong-willed independent women. For a guideline sheet and subscription information, \[Ed. note 2003: Out-of-date contact information withheld.\].
+Coming soon! (october '91) *Enchantress* is a fanzine devoted to the world of Velgarth and to other original worlds of fantasy fiction, with an emphasis on stories of strong-willed independent women. For a guideline sheet and subscription information, [Ed. note 2003: Out-of-date contact information withheld.].
 
-*Winds of Velgarth* is a role playing club set in an alternate Valdemar. This is a strictly correspondence club, limited to those living in the United States. For guidelines and a copy of the club mewsletter **Changewinds**, \[Ed. note 2003: Out-of-date contact information withheld.\].
+*Winds of Velgarth* is a role playing club set in an alternate Valdemar. This is a strictly correspondence club, limited to those living in the United States. For guidelines and a copy of the club mewsletter **Changewinds**, [Ed. note 2003: Out-of-date contact information withheld.].
 
-From Rebecca Sims and April Parra: We are working on a Loise Cooper Fan club. Things are very tentative at the moment (We're working on getting her permission), but if you're interested, send us a SASE and tell us what you would like to see or are willing to contribute. *Hopefully,* we'll get back to you with our first newsletter! We especially need ideas for a name. \[Ed. note 2003: Out-of-date contact information withheld.\]
+From Rebecca Sims and April Parra: We are working on a Loise Cooper Fan club. Things are very tentative at the moment (We're working on getting her permission), but if you're interested, send us a SASE and tell us what you would like to see or are willing to contribute. *Hopefully,* we'll get back to you with our first newsletter! We especially need ideas for a name. [Ed. note 2003: Out-of-date contact information withheld.]
 
-"**Pacific Northwest Collegium** is happy to have heard from so many Misty fans. By popular request we will extend our borders beyond Washington, Oregona dn Idaho to include British Columbia. Many members of the Collegium will be at Dreamcon 6 to meet Misty. Let us hear from you. For more info, write to \[Ed. note 2003: Out-of-date contact information withheld.\]."
+"**Pacific Northwest Collegium** is happy to have heard from so many Misty fans. By popular request we will extend our borders beyond Washington, Oregona dn Idaho to include British Columbia. Many members of the Collegium will be at Dreamcon 6 to meet Misty. Let us hear from you. For more info, write to [Ed. note 2003: Out-of-date contact information withheld.]."
 
-"\[Ed. note 2003: Out-of-date contact information withheld.\]: HELP! any Maryland, Virginia, or DC Qoers PLEASE contact us (Lavina Cheung, Rebecca Rose, Anita Jobson). We're trying to get a chapter going, and we'd like to know who's in the area and what ideas and/or help they can give, if any. Or, just tell us you're here! Please, please, please . . . " -- Lavina.
+"[Ed. note 2003: Out-of-date contact information withheld.]: HELP! any Maryland, Virginia, or DC Qoers PLEASE contact us (Lavina Cheung, Rebecca Rose, Anita Jobson). We're trying to get a chapter going, and we'd like to know who's in the area and what ideas and/or help they can give, if any. Or, just tell us you're here! Please, please, please . . . " -- Lavina.
 
-The Maryland Renaissance Festival begins its 15th season on August 24 in Crownsville, MD. It runs weekends (and Labor Day) until October 13th. If you attend, stop by "Faces of the Soul" and ask for QO member Mary Schwartz. For more Festival info, \[Ed. note 2003: Out-of-date contact information withheld.\].
+The Maryland Renaissance Festival begins its 15th season on August 24 in Crownsville, MD. It runs weekends (and Labor Day) until October 13th. If you attend, stop by "Faces of the Soul" and ask for QO member Mary Schwartz. For more Festival info, [Ed. note 2003: Out-of-date contact information withheld.].
 
-The New York Renaissance festival starts July 27 and is open weekends (and Labor Day) until September 15th. Write to \[Ed. note 2003: Out-of-date contact information withheld.\]. Look for QO member Cris Marins near "The Enchanted Cottage." Cris says "Don't be afraid to come in costume! Wizards, warriors, wenches, and even werewolves already inhabit the shire--why not Heralds?"
+The New York Renaissance festival starts July 27 and is open weekends (and Labor Day) until September 15th. Write to [Ed. note 2003: Out-of-date contact information withheld.]. Look for QO member Cris Marins near "The Enchanted Cottage." Cris says "Don't be afraid to come in costume! Wizards, warriors, wenches, and even werewolves already inhabit the shire--why not Heralds?"
 
 ## Fan Messages
 
@@ -172,25 +170,23 @@ Fan messages are for the convenience of those who wish to write to others. The Q
 
 A note to you who use your persona names when writing: It's best to put "c/o mundane name" on the address. Some postal workers send mail back when they don't recognize the name.
 
-\[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
 Personals are the least important part of the newsletter, in my opinion, and will be discarded first when lack of space becomes a problem. I have too many for this issue, in spite of going to 8 pages--Judith.
 
-\[Ed. Note 2003: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.\]
+[Ed. Note 2003: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.]
 
-\[Ed. note 2003: Out-of-date subscription information withheld.\]
+[Ed. note 2003: Out-of-date subscription information withheld.]
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: \[Ed. note 2003: Out-of-date information withheld.\]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: [Ed. note 2003: Out-of-date information withheld.]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2003: Out-of-date information withheld.\]\
-Archivist and Organizer *extraordinaire*--Patricia Riggs\
-Mailing Day Helpers (last issue)--Frank Burkhead, Robin & Louis Gladeau, Linda Gumkowski, Cris Martins, Joanne Mattern, Sean Miller.
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2003: Out-of-date information withheld.] Archivist and Organizer *extraordinaire*--Patricia Riggs Mailing Day Helpers (last issue)--Frank Burkhead, Robin & Louis Gladeau, Linda Gumkowski, Cris Martins, Joanne Mattern, Sean Miller.
 
-Where do Heralds go to buy cheap uniforms? To a Whites Sale! (credit \[or blame\] to Jessalyn Lynch)
+Where do Heralds go to buy cheap uniforms? To a Whites Sale! (credit [or blame] to Jessalyn Lynch)
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -202,10 +198,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

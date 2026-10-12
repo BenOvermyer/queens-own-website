@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. III, No. 6\
-July 1990
+## Series 1, Vol. III, No. 6 July 1990
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty Fans,
 
@@ -54,15 +52,15 @@ The quote from TOR's ad for *Children of the Night* in the July issue of *LOCUS*
 
 The titles of the chapters of *Knight*, by the way, are names of folk songs or Celtic fiddle tunes. Misty says she and Ellen have ideas for at least two more Eric Banyon books. Write to **Baen Publihshing, 260 Fifth Avenue, New York, NY 10001** if you enjoyed *Knight*; tell them you want more!
 
-Chris Johnson's "The Helpful Handout of How to Become a Herald" has proven to be very helpful--and very popular. It's still available \[Ed. note 2002: Out-of-date information deleted. Visit [/persona-handouts/](/persona-handouts/) for current information.\]. Thanks, Chris, from all of us. We appreciate your hard work.
+Chris Johnson's "The Helpful Handout of How to Become a Herald" has proven to be very helpful--and very popular. It's still available [Ed. note 2002: Out-of-date information deleted. Visit [/persona-handouts/](/persona-handouts/) for current information.]. Thanks, Chris, from all of us. We appreciate your hard work.
 
-\[Ed. note 2002: out-of-date membership information delated. See below for current instructions.\] I have no objection to your sharing a newsletter with friends. I do ask that you join Queen's Own if you intend to work for Herald status or use any of our services, like fan messages or mentors.
+[Ed. note 2002: out-of-date membership information delated. See below for current instructions.] I have no objection to your sharing a newsletter with friends. I do ask that you join Queen's Own if you intend to work for Herald status or use any of our services, like fan messages or mentors.
 
-Queen's Own membership buttons are still available. \[Ed. note 2002: Out-of-date information deleted.\]
+Queen's Own membership buttons are still available. [Ed. note 2002: Out-of-date information deleted.]
 
 Patricia Riggs and I thank all of you for your responses to our cries for help. We've had offers from game-players, con-goers, filkers, and zine collectors, all of whom are eager to share their enthusiasm with others. Their names and addresses will be in the September newsletter. The wide, weird, and wonderful world of fannish activities is even more fun when shared.
 
-Ellen Wells, \[Ed. note 2002: Out-of-date contact information deleted. Send current reciptes to [Legend@malcor.com](mailto:Legend@malcor.com) or to the QO P.O. box.\]is still collecting recipes for a Valdemar Cookbook. Include a SASE if you want your recipe(s) returned. Let's see how many variations of Trail Bread we can create. And don't forget desserts. What do you suppose the HErald version of S'Mores is like? (Thanks from Ellen to Jessica Woods for her offer of help.)
+Ellen Wells, [Ed. note 2002: Out-of-date contact information deleted. Send current reciptes to [Legend@malcor.com](mailto:Legend@malcor.com) or to the QO P.O. box.]is still collecting recipes for a Valdemar Cookbook. Include a SASE if you want your recipe(s) returned. Let's see how many variations of Trail Bread we can create. And don't forget desserts. What do you suppose the HErald version of S'Mores is like? (Thanks from Ellen to Jessica Woods for her offer of help.)
 
 ## Stories of Misty's in Anthologies
 
@@ -249,23 +247,23 @@ Congratulations to our new Heralds! There is no way my inadequate words can desc
 
 ## Zine News:
 
-From R. Nathaniel Waldbauer, editor of **Tales of Valdemar and Beyond**, \[Ed. note 2002: Out-of-date information withheld.\]. I've been hospitalized for seveal weeks while fighting of an infection resulting from surgery. If you haven't heard from me, that's the reason. I hope to be back on schedule by mid-July.
+From R. Nathaniel Waldbauer, editor of **Tales of Valdemar and Beyond**, [Ed. note 2002: Out-of-date information withheld.]. I've been hospitalized for seveal weeks while fighting of an infection resulting from surgery. If you haven't heard from me, that's the reason. I hope to be back on schedule by mid-July.
 
-The address of **Arrow's Message** is Stephanie Wong, \[Ed. note 2002: Out-of-date information withheld.\] I have printed the wrong zip code for Stephanie in the last two newsletters; my apologies to anyone who has been inconvenienced by my stuttering keyboard.
+The address of **Arrow's Message** is Stephanie Wong, [Ed. note 2002: Out-of-date information withheld.] I have printed the wrong zip code for Stephanie in the last two newsletters; my apologies to anyone who has been inconvenienced by my stuttering keyboard.
 
-Send a SASE for guidelines for stories and poetry for **Companion's Rest** to Vicki McElfresh \[Ed. note 2002: Out-of-date information withheld.\]. Send copy-ready artwork to Damien Bunting,\[Ed. note 2002: Out-of-date information withheld.\].
+Send a SASE for guidelines for stories and poetry for **Companion's Rest** to Vicki McElfresh [Ed. note 2002: Out-of-date information withheld.]. Send copy-ready artwork to Damien Bunting,[Ed. note 2002: Out-of-date information withheld.].
 
 ### Convention News:
 
 **Jody Lee** will have her artwork on display at Boscon '91, Lunacon, and the Chicago Worldcon. She's trying for Baycon, too. We'll give you more details on these cons later. (Please send Pat or me flyers on these cons if you have them.)
 
-\<soonercon\<>, November 2-4, at the Central Plaza Hotel, Oklahoma City, Oklahoma. Lois McMaster Bujold is the Guest of Honor, but other guests are expected to include Misty and C.J. Cherryh. \[Ed. note 2002: Out-of-date information withheld.\].
+&lt;soonercon&lt;>, November 2-4, at the Central Plaza Hotel, Oklahoma City, Oklahoma. Lois McMaster Bujold is the Guest of Honor, but other guests are expected to include Misty and C.J. Cherryh. [Ed. note 2002: Out-of-date information withheld.].
 
-**Renaissance Faire**, starting September 1 and running every weekend for about four weeks in MArin County, San Francisco Bay area. \[Ed. note 2002: Out-of-date information withheld.\].
+**Renaissance Faire**, starting September 1 and running every weekend for about four weeks in MArin County, San Francisco Bay area. [Ed. note 2002: Out-of-date information withheld.].
 
-**Friends of the Pelegirs** is a tri-state Queen's Own chapter serving Pennsylvania, New Jersey, and Delaware. Their newsletter is published every two months and contains con info, book and movie reviews, and information on stores in the area. \[Ed. note 2002: Out-of-date information withheld.\].
+**Friends of the Pelegirs** is a tri-state Queen's Own chapter serving Pennsylvania, New Jersey, and Delaware. Their newsletter is published every two months and contains con info, book and movie reviews, and information on stores in the area. [Ed. note 2002: Out-of-date information withheld.].
 
-From Lori Cassell for the *Elfquest* fans among you: "The Pinis have started a new series, 'Kings of the Broken Wheel.' \[Ed. note 2002: Out-of-date information withheld.\]."
+From Lori Cassell for the *Elfquest* fans among you: "The Pinis have started a new series, 'Kings of the Broken Wheel.' [Ed. note 2002: Out-of-date information withheld.]."
 
 Hi from Herald Housemother:
 
@@ -273,38 +271,25 @@ Among my fancy titles is the word "dogsbody." A dogsbody is a menial, a drudge. 
 
 On the subject of mistakes in the newsletter:
 
-"I think that I shall never see\
-An issue totally error-free\
-I read. I proof, I read some more,\
-But yet, I see when it's left my door,\
-That a zip code is wrong, a name's misspelled,\
-A dare is reversed, and typos as well!\
-It's not that I'm not trying my best,\
-It's just that mistakes are like pet hairs--they don't show until you're out in public and can be embarrassed by their presence."\
-'Nuff said!
+"I think that I shall never see An issue totally error-free I read. I proof, I read some more, But yet, I see when it's left my door, That a zip code is wrong, a name's misspelled, A dare is reversed, and typos as well! It's not that I'm not trying my best, It's just that mistakes are like pet hairs--they don't show until you're out in public and can be embarrassed by their presence." 'Nuff said!
 
 ## Fan Messages
 
-\[Ed. Note 2002: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
-\[Ed. Note 2002: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.\]
+[Ed. Note 2002: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.]
 
-Editor, President, Dogsbody, Housemother--Judith Louvis\
-Chancellor of the Exchequer--"Checkers" for short--Steve Loucis (The dear man does all the banking anyway, does anyone object if I give him a title?)\
-Archivist, Registrar, Organizer *extraordinaire*, and any other title she wants--Patricia Riggs\
-Mailing Day Helpers (last issue)--The Outlander, Ana Casacuberta, Leanne Brownlee, Joanne Gise, Patti Hemeliski, Noreen Johnson.
+Editor, President, Dogsbody, Housemother--Judith Louvis Chancellor of the Exchequer--"Checkers" for short--Steve Loucis (The dear man does all the banking anyway, does anyone object if I give him a title?) Archivist, Registrar, Organizer *extraordinaire*, and any other title she wants--Patricia Riggs Mailing Day Helpers (last issue)--The Outlander, Ana Casacuberta, Leanne Brownlee, Joanne Gise, Patti Hemeliski, Noreen Johnson.
 
-From Stephanie Webster:\
-"I'm not a Misty fan, I'm an air conditioner."\
-Another cool thought, this one from Sharon Warner: "Would you call a Herald whose Companion found her in a snowdrift a 'Frozen Chosen'?"
+From Stephanie Webster: "I'm not a Misty fan, I'm an air conditioner." Another cool thought, this one from Sharon Warner: "Would you call a Herald whose Companion found her in a snowdrift a 'Frozen Chosen'?"
 
 P.S. Bright blessings to you all!
 
 Judith
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -316,10 +301,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

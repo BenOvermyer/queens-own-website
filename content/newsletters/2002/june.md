@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 3, No. 6\
-June 1, 2002
+## Series 3, Vol. 3, No. 6 June 1, 2002
 
 <img alt="Bree Sitting by Chell Cornette" class="float-center border-5" loading="lazy" src="/qo121.jpg"/>
 
@@ -34,7 +32,7 @@ The big news of the month is that we have been granted permission to hold online
 
 The *DAW 30th Anniversary Fantasy Anthology* is now available! It contains a story by Misty in which she receives a midnight visit from several of her characters who have a bone to pick with her about the way she wrote about them. Very clever-and lots of Valdemar trivia from Vanyel, Kerowyn, Myste, Talia and others in addition to tidbits from Di Tregarde, Tannim and others! Larry Dixon also has a story in the collection. His contribution is set after the founding of k�Valdemar and features details about Healers, the Guard and gryphons. You can see the coverart at [http://www.dragonlordsnet.com/bkmlvs.htm#DAW](https://dragonlords.fans/bkmlvs.htm#DAW).
 
-The new Valdemar novel about Alberich, *Exile�s Honor*, is running a bit behind schedule. (Alberich wasn�t cooperating as a character, and Misty had to do some major rewriting.) In the meantime, do check out Misty�s short story in the DAW Anthology. There seems to be a preview of �Coming Attractions,� so to speak \<g>. Word on the Mercedes-Lackey mailing list ([Mercedes-Lackey@lists.herald.co.uk](mailto:Mercedes-Lackey@lists.herald.co.uk); [http://lists.herald.co.uk/mailman/listinfo/mercedes-lackey](http://lists.herald.co.uk/mailman/listinfo/mercedes-lackey)) is that Misty and Larry have plans to put in an appearance at a con sometime this summer. We�ll let you know when we find out which one.
+The new Valdemar novel about Alberich, *Exile�s Honor*, is running a bit behind schedule. (Alberich wasn�t cooperating as a character, and Misty had to do some major rewriting.) In the meantime, do check out Misty�s short story in the DAW Anthology. There seems to be a preview of �Coming Attractions,� so to speak &lt;g>. Word on the Mercedes-Lackey mailing list ([Mercedes-Lackey@lists.herald.co.uk](mailto:Mercedes-Lackey@lists.herald.co.uk); [http://lists.herald.co.uk/mailman/listinfo/mercedes-lackey](http://lists.herald.co.uk/mailman/listinfo/mercedes-lackey)) is that Misty and Larry have plans to put in an appearance at a con sometime this summer. We�ll let you know when we find out which one.
 
 By way of correspondence, the new dean of Arrows OnLine writes:
 
@@ -44,9 +42,7 @@ By way of correspondence, the new dean of Arrows OnLine writes:
 
 "Thanks again Laura for your support and faith in me!
 
-"Monty Haggerman\
-Tayledras Royal\
-Dean: Arrows Online"
+"Monty Haggerman Tayledras Royal Dean: Arrows Online"
 
 Teri Lee of Firebird Arts & Music ([http://www.firebirdarts.com](http://www.firebirdarts.com)) writes:
 
@@ -107,7 +103,7 @@ FAIR OAKS TUDOR FAYRE. Fax: 916-966-9863. E-mail: [recreation@fairoakspark.org](
 
 ### Colorado
 
-**A RETURN TO CAMELOT.** E-mail: [arturnto\_camelot@hotmail.com](mailto:arturnto_camelot@hotmail.com). Website: [http://www.faires.com/camelot](http://www.faires.com/camelot). Address: Grand Junction Jaycees, P.O. Box 2326, Grand Junction, CO, 81502. Site Address: Intermountain Veterns Memorial Park, 2785 Hwy. 50, Grand Junction, CO 81503. Dates: 6/15/02 - 6/16/02. Open/Close: 10:00 AM - 6:00 PM.
+**A RETURN TO CAMELOT.** E-mail: [arturnto_camelot@hotmail.com](mailto:arturnto_camelot@hotmail.com). Website: [http://www.faires.com/camelot](http://www.faires.com/camelot). Address: Grand Junction Jaycees, P.O. Box 2326, Grand Junction, CO, 81502. Site Address: Intermountain Veterns Memorial Park, 2785 Hwy. 50, Grand Junction, CO 81503. Dates: 6/15/02 - 6/16/02. Open/Close: 10:00 AM - 6:00 PM.
 
 **COLORADO RENAISSANCE FESTIVAL.** Fax: 303-688-5677. E-mail: [pfrank@coloradorenaissance.com](mailto:pfrank@coloradorenaissance.com). Website: [http://www.ColoradoRenaissance.com](http://www.ColoradoRenaissance.com). Address: 409 South Wilcox, Suite #F, Castle Rock, CO, 80104-1962. Site Address: General Delivery, Larkspur, CO 80118-9999. Dates: 6/08/02 - 7/28/02. Open/Close: 10:00 AM - 6:30 PM.
 
@@ -131,7 +127,7 @@ FAIR OAKS TUDOR FAYRE. Fax: 916-966-9863. E-mail: [recreation@fairoakspark.org](
 
 **THE MWD WATERLOO RENAISSANCE FAIRE.** FAX: 319-235-7489. E-mail: [serfboard@hotmail.com](mailto:serfboard@hotmail.com). Website: [http://members.home.net/iowafaire/index.tom](http://members.home.net/iowafaire/index.tom). Address: Waterloo Center for the Arts, 225 Commercial St, Waterloo, IA, 50701. Dates: 6/01/02 - 6/02/02. Open/Close: 10:00 AM - 6:00 PM.
 
-**A RENAISSANCE AFFAIRE.** FAX: 515-279-3316. E-mail: [d\_jwelch@iowatelecom.net](mailto:d_jwelch@iowatelecom.net). Address: 300 S. Delaware St., Osceola, IA 50213. Dates: 6/22/02 - 6/23/02. Open/Close: 10:00 AM - 6:00 PM.
+**A RENAISSANCE AFFAIRE.** FAX: 515-279-3316. E-mail: [d_jwelch@iowatelecom.net](mailto:d_jwelch@iowatelecom.net). Address: 300 S. Delaware St., Osceola, IA 50213. Dates: 6/22/02 - 6/23/02. Open/Close: 10:00 AM - 6:00 PM.
 
 **RENAISSANCE FAIRE OF THE MIDLANDS.** FAX: 402-342-4114. E-mail: [vgaevents@aol.com](mailto:vgaevents@aol.com). Website: [http://www.faire.org](http://www.faire.org). Address: Vic Gutman & Associates, P.O. Box 31134, Omaha, NE, 68131-0134. Site Address: Iowa Western Community College, 2700 College Road, Council Bluffs, IA. Dates: 6/14/02 - 6/16/02.
 
@@ -433,7 +429,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
 
 ### Zines and Newsletters:
 
@@ -480,17 +476,17 @@ Welcome back! If you are a returning member who has recently activated your memb
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\
-- Herald Cateryna Cyray (KimChrist@Home.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\
-- Healer Adept Sierra k'Treva (katsanders@buffymail.com)\
-- Herald Trieenia Featherfire (sylverstorme@aol.com)\
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
+- Herald Cateryna Cyray (KimChrist@Home.com)
+- Herald Deborah (sjupiterdebi@home.com)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Healer Adept Sierra k'Treva (katsanders@buffymail.com)
+- Herald Trieenia Featherfire (sylverstorme@aol.com)
 - Bard Valiena (laughsong@aol.com)
 
 Also, Healer Adept Sierra k'Treva, your account is over quota and your messages are bouncing.
@@ -501,7 +497,7 @@ If you know any of these folks, please have them contact Danya at [Legend@malcor
 
 Real life has become a bit hectic around here lately. We�re coming to the end of the school year (which is always a crazy time). My mother has developed a bunch of critical health problems (She just had her thyroid removed on May 31st.) and is looking for a new home. Moonstar is selling her home and moving, and we�ve seriously outgrown our current home and are thinking about moving as well.
 
-I plan to put all the chaos on hold, however, from June 14th - June 23rd when I will be taking the first vacation I�ve had since 1995. My family and I will be traveling to Alameda for a few days to visit friends, and then we�re heading up to Lake Tahoe, with day trips planned to Virginia City, Nevada, Carson City, and various other locations near the lake. I�m very much looking forward to the break (not to mention help with childcare and the glory that is maid service \<g>!). I�ll be traveling with a computer, as always, but I may not be as speedy in replies as I usually am. (Not that I�ve been all that speedy lately, a lapse which I regret but for which I have no current remedy until real life decides to settle down. Sorry!)
+I plan to put all the chaos on hold, however, from June 14th - June 23rd when I will be taking the first vacation I�ve had since 1995. My family and I will be traveling to Alameda for a few days to visit friends, and then we�re heading up to Lake Tahoe, with day trips planned to Virginia City, Nevada, Carson City, and various other locations near the lake. I�m very much looking forward to the break (not to mention help with childcare and the glory that is maid service &lt;g>!). I�ll be traveling with a computer, as always, but I may not be as speedy in replies as I usually am. (Not that I�ve been all that speedy lately, a lapse which I regret but for which I have no current remedy until real life decides to settle down. Sorry!)
 
 In the meantime, I�ve been plowing through Misty�s Elemental Mage series, which I�m enjoying quite a lot. I have also finished reading Misty�s and Larry�s short stories in the *DAW 30th Anniversary Fantasy Anthology*. Good stuff!
 
@@ -532,7 +528,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 
 ## Personals:
 
-- **From Blue Devyn. To MediaWest\*Con Attendees.** *Cat's Cradle* will be available at the MediaWest\*Con orphan zine table for $8.00; if you pre-pay for the zine and pick it up at the con, your price will be $7.00. Pre-orders can be accepted until May 1 (I'll be shipping the zines to the con within a few days of that date). If you will be attending the convention, please e-mail [devin@greendragonpress.net](mailto:devin@greendragonpress.net) for information about pre-orders.
+- **From Blue Devyn. To MediaWest&#42;Con Attendees.** *Cat's Cradle* will be available at the MediaWest&#42;Con orphan zine table for $8.00; if you pre-pay for the zine and pick it up at the con, your price will be $7.00. Pre-orders can be accepted until May 1 (I'll be shipping the zines to the con within a few days of that date). If you will be attending the convention, please e-mail [devin@greendragonpress.net](mailto:devin@greendragonpress.net) for information about pre-orders.
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: QO Newsletter.** Needed February 88 through March 91, Queen's Own newsletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [Legend@malcor.com](mailto:Legend@malcor.com)? Thanks!
@@ -551,10 +547,7 @@ The featured artists for this newsletter are [Michell Cornette](mailto:chell_cor
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

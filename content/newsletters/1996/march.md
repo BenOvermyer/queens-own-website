@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. I, No. 5\
-March 1996
+## Series 1, Vol. I, No. 5 March 1996
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty fans:
 
@@ -56,25 +54,25 @@ Jeane: "Was it disturbing to you, creating such evil characters?"
 
 **Misty:** "Actually, no. But that is because of certain circumstances that we went through about two years ago, we were dealing with a stalker, and dealing wtih that arouses very powerful emotions in you, both during and after. You find out that there's a very dark side to everyone and in writing a powerful and evil person you can kind of exercise that dark side in yourself and even use it as a cautionary by making that evil person quite plauisble and seductive, yet the reader can still see what he really is."
 
-\*\*We'll have more from Jeanne Caggian's interview with Misty in the next newsletter.\*\*
+&#42;&#42;We'll have more from Jeanne Caggian's interview with Misty in the next newsletter.&#42;&#42;
 
-Pick up a copy of the new TEMPEST CD, *Turn of the Wheel* at your favorite record store. TEMPEST performance dates in MArch on the West Coast are: \[Ed. note 2005: Out-of-date info withheld.\].
+Pick up a copy of the new TEMPEST CD, *Turn of the Wheel* at your favorite record store. TEMPEST performance dates in MArch on the West Coast are: [Ed. note 2005: Out-of-date info withheld.].
 
-Hooray! In April TEMPEST is back in Montclair, New Jersey at Outpost in the 'Burbs. Ana Casacuberta Little has offered her apartment as a meeting place before the show. (She lives right around the corner at \[Ed. note 2005: Out-of-date info withheld.\].) Call Ana at \[Ed. note 2005: Out-of-date info withheld.\] for meeting time or other information. I've changed the April mailing date to the 13th so Steve & I can attend. Hope to see you in Montclair!
+Hooray! In April TEMPEST is back in Montclair, New Jersey at Outpost in the 'Burbs. Ana Casacuberta Little has offered her apartment as a meeting place before the show. (She lives right around the corner at [Ed. note 2005: Out-of-date info withheld.].) Call Ana at [Ed. note 2005: Out-of-date info withheld.] for meeting time or other information. I've changed the April mailing date to the 13th so Steve & I can attend. Hope to see you in Montclair!
 
-Other April dates for TEMPEST are: \[Ed. note 2005: Out-of-date info withheld.\].
+Other April dates for TEMPEST are: [Ed. note 2005: Out-of-date info withheld.].
 
-All of TEMPEST's music and other exciting merchandise can be ordered from Firebird Arts & Music \[Ed. note 2005: Out-of-date info withheld.\]. The *Arrows of the Queen Concordance* is ready and has been mailed to all who pre-ordered. The Concordance contains a wealth of information about the people and palces of Valdemar and costs \[Ed. note 2005: Out-of-date info withheld.\]. Firebird carries all of Misty's books and songs; the music of TEMPEST, Clannad, Patrick Ball, Stan Rogers, R. Carlos Nakai, and more; Celtic KNot pewter jewelry; portfolio art by Larry Dixon; t-shirts . . . You can browse through Firebird's online catalog at \[Ed. note 2005: Out-of-date info withheld.\]. If you get an answering machine, be sure to leave your complete name and address; if ordering, be sure to include your name and address!
+All of TEMPEST's music and other exciting merchandise can be ordered from Firebird Arts & Music [Ed. note 2005: Out-of-date info withheld.]. The *Arrows of the Queen Concordance* is ready and has been mailed to all who pre-ordered. The Concordance contains a wealth of information about the people and palces of Valdemar and costs [Ed. note 2005: Out-of-date info withheld.]. Firebird carries all of Misty's books and songs; the music of TEMPEST, Clannad, Patrick Ball, Stan Rogers, R. Carlos Nakai, and more; Celtic KNot pewter jewelry; portfolio art by Larry Dixon; t-shirts . . . You can browse through Firebird's online catalog at [Ed. note 2005: Out-of-date info withheld.]. If you get an answering machine, be sure to leave your complete name and address; if ordering, be sure to include your name and address!
 
 ## Convention News:
 
-From Morgan: "On June 20-23, 1996 Dragon\*Con will again host **Queen's Own Collegia**. Our very sepcial guest is JOSEPHA SHERMAN. Not only is this talented lady one of Misty's co-authors, but a much admired writer in her own right, having penned *Child of Faerie*, *Child of Earth* and *Gleaming Bright*, as well as *Once Upon a Galaxy*, which no lover of myth and folklore should miss. It's rumored, too, that "The Elvendude" may show up!
+From Morgan: "On June 20-23, 1996 Dragon&#42;Con will again host **Queen's Own Collegia**. Our very sepcial guest is JOSEPHA SHERMAN. Not only is this talented lady one of Misty's co-authors, but a much admired writer in her own right, having penned *Child of Faerie*, *Child of Earth* and *Gleaming Bright*, as well as *Once Upon a Galaxy*, which no lover of myth and folklore should miss. It's rumored, too, that "The Elvendude" may show up!
 
 "Expect not only many of the same activities as last year--including the Tayledras unVALEing, panels in creating a QO persona, workshops and the charity auction (featuring an original manuscript from Misty!!)--but some exciting NEW events, as well. Another Companion is rumored to be hearing toward the convention; will YOU be Chosen? Lastly, but certainly not least, Misty has given permission for QOC to create a board game based on her Heralds of Valdemar books! (This game is exclusive to QOC and is NOT for sale.) Be sure to bring your "whites" and "Ride Circuit" with us!
 
-"The 1996 Dragon\*Con will be at the Atlanta Hilton & Towers \[Ed. note 2005: Out-of-date info withheld.\]. MAKE RESERVATIONS NOW!!!
+"The 1996 Dragon&#42;Con will be at the Atlanta Hilton & Towers [Ed. note 2005: Out-of-date info withheld.]. MAKE RESERVATIONS NOW!!!
 
-"For more information on QOC contact \[Ed. note 2005: Out-of-date info withheld.\] and include a SASE. Hope to see you there."
+"For more information on QOC contact [Ed. note 2005: Out-of-date info withheld.] and include a SASE. Hope to see you there."
 
 Morgan and her committee are working hard to make QOC a success. I'm sorry that I can't attend this year as planned, but I'm sure you'll all have a wonderful time.
 
@@ -82,73 +80,73 @@ Morgan and her committee are working hard to make QOC a success. I'm sorry that 
 
 It's that time of year! Send me information about your favorite Ren Faire in time for the April newsletter (no later than April 3rd, please).
 
-*Renaissance Herald* (formerly the *Renaissance Shopper*) is a quarterly newsletter filled with articles, ads, and Reb Faire information (mostly int he California area). Do you want to learn blacksmithing? take jousting lessons? order custom-made chainmaile? The addresses are in *Renaissance Herald*. To subscribe, \[Ed. note 2005: Out-of-date info withheld.\].
+*Renaissance Herald* (formerly the *Renaissance Shopper*) is a quarterly newsletter filled with articles, ads, and Reb Faire information (mostly int he California area). Do you want to learn blacksmithing? take jousting lessons? order custom-made chainmaile? The addresses are in *Renaissance Herald*. To subscribe, [Ed. note 2005: Out-of-date info withheld.].
 
 ## MEMBER NEWS:
 
 ### Local Chapters:
 
-**Arrows OnLine** is lovated on America OnLine. For help finding the Collegium, e-mail Dean Anne at \[Ed. note 2005: Out-of-date info withheld.\].
+**Arrows OnLine** is lovated on America OnLine. For help finding the Collegium, e-mail Dean Anne at [Ed. note 2005: Out-of-date info withheld.].
 
-**Austal'a'in**: Cassandra Vuksa \[Ed. note 2005: Out-of-date info withheld.\].
+**Austal'a'in**: Cassandra Vuksa [Ed. note 2005: Out-of-date info withheld.].
 
-**California chapter**: c/o Stephanie Anderson \[Ed. note 2005: Out-of-date info withheld.\].
+**California chapter**: c/o Stephanie Anderson [Ed. note 2005: Out-of-date info withheld.].
 
-**Companion's Choice**: Shanara Ravensong \[Ed. note 2005: Out-of-date info withheld.\].
+**Companion's Choice**: Shanara Ravensong [Ed. note 2005: Out-of-date info withheld.].
 
-**The Farflying Arrow**: Achtung, an alle deutschsprechenden Misty-Fans!! Write to \[Ed. note 2005: Out-of-date info withheld.\].
+**The Farflying Arrow**: Achtung, an alle deutschsprechenden Misty-Fans!! Write to [Ed. note 2005: Out-of-date info withheld.].
 
-**The Herald's Companion**: c/o Karen Bertke \[Ed. note 2005: Out-of-date info withheld.\].
+**The Herald's Companion**: c/o Karen Bertke [Ed. note 2005: Out-of-date info withheld.].
 
 **Modems of the Queen**: the official chapter of Queen's Own located on GEnie online entertainment network. **Modems of the Queen** can be found by joinoing GEnie and the logging onto the system. Once online, MotQ is located in the Science Fiction and Fandom RoundTable, Category 34.
 
-**Outkingdom**: Y'larna Finnareth c/o Joanne Thwaites \[Ed. note 2005: Out-of-date info withheld.\].
+**Outkingdom**: Y'larna Finnareth c/o Joanne Thwaites [Ed. note 2005: Out-of-date info withheld.].
 
-**Pacific Northwest Collegium**: c/o Charlene Ryan \[Ed. note 2005: Out-of-date info withheld.\].
+**Pacific Northwest Collegium**: c/o Charlene Ryan [Ed. note 2005: Out-of-date info withheld.].
 
-**Southern Arrows**: A new Queen's Own chapter is fomring in the Atlanta area. We would like to meet all loval members and friends. Contact us at \[Ed. note 2005: Out-of-date info withheld.\].
+**Southern Arrows**: A new Queen's Own chapter is fomring in the Atlanta area. We would like to meet all loval members and friends. Contact us at [Ed. note 2005: Out-of-date info withheld.].
 
 ## Other Fandoms:
 
-Micahel Praed--**Michael Praed Network NewsLetter** c/o \[Ed. note 2005: Out-of-date info withheld.\].
+Micahel Praed--**Michael Praed Network NewsLetter** c/o [Ed. note 2005: Out-of-date info withheld.].
 
-Jennifer Roberson--**Children of the Firstborn** \[Ed. note 2005: Out-of-date info withheld.\].
+Jennifer Roberson--**Children of the Firstborn** [Ed. note 2005: Out-of-date info withheld.].
 
-Robert Jordan--**Under the Dragon Banner**--Mareesa Rainseer c/o Sarah Herberth \[Ed. note 2005: Out-of-date info withheld.\].
+Robert Jordan--**Under the Dragon Banner**--Mareesa Rainseer c/o Sarah Herberth [Ed. note 2005: Out-of-date info withheld.].
 
-Doctor Who and other Media--**The Prydonians of Prynceton** \[Ed. note 2005: Out-of-date info withheld.\].
+Doctor Who and other Media--**The Prydonians of Prynceton** [Ed. note 2005: Out-of-date info withheld.].
 
-Tanya Huff--**Nine Above!** \[Ed. note 2005: Out-of-date info withheld.\].
+Tanya Huff--**Nine Above!** [Ed. note 2005: Out-of-date info withheld.].
 
-Anne McCaffrey/Pern--**Starfire Weyr** c/o Prime Katya Ithsaari \[Ed. note 2005: Out-of-date info withheld.\].
+Anne McCaffrey/Pern--**Starfire Weyr** c/o Prime Katya Ithsaari [Ed. note 2005: Out-of-date info withheld.].
 
-Lois McMaster Bujold--**Miles' Minions** \[Ed. note 2005: Out-of-date info withheld.\].
+Lois McMaster Bujold--**Miles' Minions** [Ed. note 2005: Out-of-date info withheld.].
 
 SUPPORT OUR ZINES!! All the zines listed in Member News need contributors and subscribers. Artists, Poets, Writers--please share your talent.
 
-SILVER SHADOWS is continuing to grow in content and readership and Lisa Coker invites you to join in the fun. Volume II, Issue 4 is out on the Equinox. If you would like to receive approximately fourteen pages of urban fantasy, gantasy and horror art, news, announcements, poetry, reviews, articles, and short fiction, then send a SASE for more information, \[Ed. note 2005: Out-of-date info withheld.\].
+SILVER SHADOWS is continuing to grow in content and readership and Lisa Coker invites you to join in the fun. Volume II, Issue 4 is out on the Equinox. If you would like to receive approximately fourteen pages of urban fantasy, gantasy and horror art, news, announcements, poetry, reviews, articles, and short fiction, then send a SASE for more information, [Ed. note 2005: Out-of-date info withheld.].
 
-The voices, the they're in my mind. Do you, too, hear voices of your characters pleading with you to write them on paper? Then join the Fantasy Writers' Group. We are a group of aspiring published and semi-published writers who long for critiques and companionship. For guidelines, send a SASE to \[Ed. note 2005: Out-of-date info withheld.\].
+The voices, the they're in my mind. Do you, too, hear voices of your characters pleading with you to write them on paper? Then join the Fantasy Writers' Group. We are a group of aspiring published and semi-published writers who long for critiques and companionship. For guidelines, send a SASE to [Ed. note 2005: Out-of-date info withheld.].
 
-Send a SASE to AJ Potter \[Ed. note 2005: Out-of-date info withheld.\] for information on Nince Above!, the newsletter for Tanya Huff fans. According to the latest issue, Tanya will have a Regency Henry story in the PN Elrod anthology *Historical Vampires*. And horray, there will be a fifth BLOOD book, *Blood Debt*.
+Send a SASE to AJ Potter [Ed. note 2005: Out-of-date info withheld.] for information on Nince Above!, the newsletter for Tanya Huff fans. According to the latest issue, Tanya will have a Regency Henry story in the PN Elrod anthology *Historical Vampires*. And horray, there will be a fifth BLOOD book, *Blood Debt*.
 
-**Austral'a'in**: Our name means "People of the South" and we're a Mercedes Lackey fan club for peopel south of the equator. We're looking for more members and submissions of poetry, artwork, stories, and anything else you might like to share! Please send a SASE \[Ed. note 2005: Out-of-date info withheld.\].
+**Austral'a'in**: Our name means "People of the South" and we're a Mercedes Lackey fan club for peopel south of the equator. We're looking for more members and submissions of poetry, artwork, stories, and anything else you might like to share! Please send a SASE [Ed. note 2005: Out-of-date info withheld.].
 
-ATTENTION ALL WRITERS! I am seeing short stories about anything of the horror, dark fantasy, or mystery genre. Must be at least 20 to 40 pages long. Topics and plots are yours to choose be it ghosts, demons, vampires, mad scientists, or killer animals--anything goes as long as it contains chills, thrills, and screams! If it ives you nightmares, I want to see it! This is NOT for a zine. Interest in being published a must! Send story or inquiries to HEARTBEAT c/o Heather L. Wedo \[Ed. note 2005: Out-of-date info withheld.\].
+ATTENTION ALL WRITERS! I am seeing short stories about anything of the horror, dark fantasy, or mystery genre. Must be at least 20 to 40 pages long. Topics and plots are yours to choose be it ghosts, demons, vampires, mad scientists, or killer animals--anything goes as long as it contains chills, thrills, and screams! If it ives you nightmares, I want to see it! This is NOT for a zine. Interest in being published a must! Send story or inquiries to HEARTBEAT c/o Heather L. Wedo [Ed. note 2005: Out-of-date info withheld.].
 
-STARFIRE WEYR is here! For those of you who haven't heard, STARFIRE WEYR is a fantasy zine set in the worlds created by Anne McCaffrey. We're always looking for new dragonriders, harpers, healers, telepaths and crystal singers . . . .Come join the fun! Sampe issues are \[Ed. note 2005: Out-of-date info withheld.\] of *The Night Sky*. For information/guidelines, send as SASE to STARFIRE WEYR c/o Prime Katya Ithsaari at \[Ed. note 2005: Out-of-date info withheld.\]. Starry Skies!
+STARFIRE WEYR is here! For those of you who haven't heard, STARFIRE WEYR is a fantasy zine set in the worlds created by Anne McCaffrey. We're always looking for new dragonriders, harpers, healers, telepaths and crystal singers . . . .Come join the fun! Sampe issues are [Ed. note 2005: Out-of-date info withheld.] of *The Night Sky*. For information/guidelines, send as SASE to STARFIRE WEYR c/o Prime Katya Ithsaari at [Ed. note 2005: Out-of-date info withheld.]. Starry Skies!
 
-First the good news: I survived my first semester of college unscathed (and with a 4.0 to boot!) The bad news? NIGHT SONGS fanzine hasn't. The vampires and mages have all scattered. \<sigh> so I've decided to start over. Although the name and the subjects are the same, NIGHT SONGS has become an annual zine, 100+ pages, available for \[Ed. note 2005: Out-of-date info withheld.\]. (Subscribers: fret not--I **will** be contacting you each individually!) Send a SASE for updated guidelines. Zines, ad space is available for purchase or trade. Now accepting stories, poetry, artwork, and book, movie, computer game and album reviews for the 1996 all-vampire issue. (Sasha Vincent: "Anna in Block" would be a lovely cover, but I lost your addy! \<soob> Please write!) The address is NIGHT SONGS c/o Jennifer Wilson \[Ed. note 2005: Out-of-date info withheld.\]. Please make checks payable to Jennifer Wilson.
+First the good news: I survived my first semester of college unscathed (and with a 4.0 to boot!) The bad news? NIGHT SONGS fanzine hasn't. The vampires and mages have all scattered. &lt;sigh> so I've decided to start over. Although the name and the subjects are the same, NIGHT SONGS has become an annual zine, 100+ pages, available for [Ed. note 2005: Out-of-date info withheld.]. (Subscribers: fret not--I **will** be contacting you each individually!) Send a SASE for updated guidelines. Zines, ad space is available for purchase or trade. Now accepting stories, poetry, artwork, and book, movie, computer game and album reviews for the 1996 all-vampire issue. (Sasha Vincent: "Anna in Block" would be a lovely cover, but I lost your addy! &lt;soob> Please write!) The address is NIGHT SONGS c/o Jennifer Wilson [Ed. note 2005: Out-of-date info withheld.]. Please make checks payable to Jennifer Wilson.
 
-"Q--How many Herald-trainees does it take to make popcorn? A--Five: one to hold the pan and four to shake the brazier!" \<sigh> My mouth Companion made up that one--help me get back at her with a few zingers! Send your jokes, riddles, and limericks to Herald Jaelle Sunfire c/o Jeanne Salt \[Ed. note 2005: Out-of-date info withheld.\]. If I use your funny, you get a free copy of the Valdemar jke collection, but I can't put this together without YOUR help!
+"Q--How many Herald-trainees does it take to make popcorn? A--Five: one to hold the pan and four to shake the brazier!" &lt;sigh> My mouth Companion made up that one--help me get back at her with a few zingers! Send your jokes, riddles, and limericks to Herald Jaelle Sunfire c/o Jeanne Salt [Ed. note 2005: Out-of-date info withheld.]. If I use your funny, you get a free copy of the Valdemar jke collection, but I can't put this together without YOUR help!
 
-Come join a world of magic and adventure in the fantasy zine STARFIRE. Send a SASE for a sampe issue and/or guidelines to STARFIRE \[Ed. note 2005: Out-of-date info withheld.\]. Ask for information on loval chapter *Companion's Choice* at the same time.
+Come join a world of magic and adventure in the fantasy zine STARFIRE. Send a SASE for a sampe issue and/or guidelines to STARFIRE [Ed. note 2005: Out-of-date info withheld.]. Ask for information on loval chapter *Companion's Choice* at the same time.
 
-*Bead Works of Oregon* will be at the skagit Valley Tulip Festival, Cascade Mall, Burlington, WA March 29-31 with their beautiful jewelry, dream catchers, beaded bgs and more. For a complete craft show schedule, send a SASE to \[Ed. note 2005: Out-of-date info withheld.\].
+*Bead Works of Oregon* will be at the skagit Valley Tulip Festival, Cascade Mall, Burlington, WA March 29-31 with their beautiful jewelry, dream catchers, beaded bgs and more. For a complete craft show schedule, send a SASE to [Ed. note 2005: Out-of-date info withheld.].
 
 ## COLLEGIUM NEWS
 
-Send a SASE for a how-to handout for a Herald, Healer, bard, Shin'a'in, Tayledras, Mercenary, or even Herald-Mage persona. If you need help with your Mercenary persona, contact the new Guild head Pat Armetta \[Ed. note 2005: Out-of-date info withheld.\]. Send your finished work to him, too. Herald-Mage requirements go to Guradian of the Web \[Ed. note 2005: Out-of-date info withheld.\]. All other personas come here ot hte QO address.
+Send a SASE for a how-to handout for a Herald, Healer, bard, Shin'a'in, Tayledras, Mercenary, or even Herald-Mage persona. If you need help with your Mercenary persona, contact the new Guild head Pat Armetta [Ed. note 2005: Out-of-date info withheld.]. Send your finished work to him, too. Herald-Mage requirements go to Guradian of the Web [Ed. note 2005: Out-of-date info withheld.]. All other personas come here ot hte QO address.
 
 - Welcome, **Tayledras Mage Moonwolf**, created by *Jason Knox*. Jason sent persona information, a poem, and a story. He is committed to revyvling and has attended martial arts classes.
 - Welcome, **Herald Gewn'Farr Ranaluin**, Chosen by Criss and gifted with double strength Mindspeech and Firestarting. *Dawn M. Sorrento* sent descriptions of Gwen and her family an dbest friend, a story, pictures of her characters, a recipe, a border design, is a registered blood donor and bone-marrow donor, knows karate, and knows how to ride and take care of a horse. As a NY police officer, Dawn is perhaps closer than any of us to actually being a Herald!
@@ -162,27 +160,23 @@ Send a SASE for a how-to handout for a Herald, Healer, bard, Shin'a'in, Tayledra
 
 ### From Herald Housemother:
 
-The very first issue of the Queen's Own newsletter was mailed in February 1988. If was one page, single sided and maile dot about two dozen people. Today we have between 900 and 1000 members, and a six-page mewsletter that is almost always mailed on schedule. I'd like to thank Baen Books, DAW, Firebird Arts & \<usic> Speaking of letters . . . the oddest request for information that I've received yet came from someone who added the warning "Don't lick the envelope, it might be covered with rat poison." Doesn't it make you wonder where she keeps her stationery?
+The very first issue of the Queen's Own newsletter was mailed in February 1988. If was one page, single sided and maile dot about two dozen people. Today we have between 900 and 1000 members, and a six-page mewsletter that is almost always mailed on schedule. I'd like to thank Baen Books, DAW, Firebird Arts & &lt;usic> Speaking of letters . . . the oddest request for information that I've received yet came from someone who added the warning "Don't lick the envelope, it might be covered with rat poison." Doesn't it make you wonder where she keeps her stationery?
 
 ## Fan Messages:
 
-\[Ed. Note 2002: Fan Messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Fan Messages are not being posted online because of the personal information they contained.]
 
 ## Personals:
 
 There are a few Personals that are addressed to folks who are no longer on the QO mailing list, in the hopes that one of you might know their whereabouts and pass the message along.
 
-\[Ed. Note 2002: Personals are not being posted online because of the personal information they contained. Dues and Disclaimer information replaced with the current info below.\]
+[Ed. Note 2002: Personals are not being posted online because of the personal information they contained. Dues and Disclaimer information replaced with the current info below.]
 
-\*Next Mailing Day: **April 13, 1996**--Call \[Ed. note 2005: Out-of-date info withheld.\] for directions. Call before coming; family emergencies cancel mailings.\*
+&#42;Next Mailing Day: **April 13, 1996**--Call [Ed. note 2005: Out-of-date info withheld.] for directions. Call before coming; family emergencies cancel mailings.&#42;
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[phone withheld\] (Call only before 10 PM and let it ring.)\
-\[snip\]\
-Herald-Mage Registrar/Dispenser of handout sheets--Guardian of the Web \[Ed. note 2005: Out-of-date info withheld.\].\
-Border Designs: Herald Alora\
-Mailing Day Helpers (last issue)--Meredith Baldino, Helen Edwards and Rusty, Barbara Leflar Jackson.
+Editor, President, Dogsbody, Housemother--Judith Louvis [phone withheld] (Call only before 10 PM and let it ring.) [snip] Herald-Mage Registrar/Dispenser of handout sheets--Guardian of the Web [Ed. note 2005: Out-of-date info withheld.]. Border Designs: Herald Alora Mailing Day Helpers (last issue)--Meredith Baldino, Helen Edwards and Rusty, Barbara Leflar Jackson.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -196,10 +190,7 @@ If you would like your art to be featured in the online version of the QO newsle
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

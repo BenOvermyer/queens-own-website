@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 1, No. 3\
-July 1, 2000
+## Series 3, Vol. 1, No. 3 July 1, 2000
 
 <img alt="Companion by Laura Felton" class="border-5" loading="lazy" src="/qopic4.jpg"/>
 
@@ -216,7 +214,7 @@ The newsletter is routinely posted to the Net. If you are concerned about your a
 
 The only "fee" for a fan message is to write to two other people. If your mailbox is empty, don't complain--write letters!
 
-- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" \<g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
+- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
@@ -243,10 +241,7 @@ The featured artists for the online version of the newsletter are [Aurora Nelson
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

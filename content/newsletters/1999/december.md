@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 2, Vol. I, No. 9\
-December 18, 1999
+## Series 2, Vol. I, No. 9 December 18, 1999
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo182.jpg"/>
 
@@ -53,8 +51,6 @@ Thanks to everyone who sent greetings and holiday cards. Everyone here loved the
 <td class="align-left valign-middle">Happy Holidays<br/> and Y2K, too!</td>
 </tr>
 </table>
-
-\
 
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
@@ -107,7 +103,7 @@ Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date 
 
 <img alt="Doves" class="float-right" loading="lazy" src="/qo186.jpg"/>With all of the artwork, I have colorized or in same way altered the original. Ellen's work I made lighter so that it would appear to be a watermark. Herald Alora and Aubrey's work I shaded in blue. If for any reason you do not like what I have done, I solely take blame. The artwork, in my humble opinion, was worthy all on its own merit. I only changed what I felt was necessary to bring it all to a whole. Thanks to all the wonderful artists.
 
-This is the runner up. Aubrey Smith did this wonderful piece of work. Many thanks to the few who entered this contest.\
+This is the runner up. Aubrey Smith did this wonderful piece of work. Many thanks to the few who entered this contest.
 
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
@@ -477,19 +473,19 @@ Irena Pereira PO Box 18A146 Los Angeles, CA 90018.<p>
 </tr>
 </table>
 
-\[Ed. Note 2002: Old pricing and contact information withheld. See below.\]
+[Ed. Note 2002: Old pricing and contact information withheld. See below.]
 
 Next mailing date is January 2000. **Deadline for submissions is January 10, 2000**. The earlier the better.
 
-Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. \[Ed. Note 2002: Old address withheld.\] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
+Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. [Ed. Note 2002: Old address withheld.] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
 
-Last issue mailing day helper in July was Jason Hoff. (If you would like to help on mailing day, please call me at \[Ed. Note 2002: Phone withheld.\], all help is greatly appreciated!)
+Last issue mailing day helper in July was Jason Hoff. (If you would like to help on mailing day, please call me at [Ed. Note 2002: Phone withheld.], all help is greatly appreciated!)
 
 Border art & all other art--Herald Alora, Ellen Million, Aubrey Smith and Microsoft Clipart.
 
-Editor and President - Robin Ready \[Ed. Note 2002: Contact info withheld.\]
+Editor and President - Robin Ready [Ed. Note 2002: Contact info withheld.]
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -503,10 +499,7 @@ The featured artist for this edition of the newsletter was uncredited. If you ha
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

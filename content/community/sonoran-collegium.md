@@ -22,28 +22,23 @@ canonical_path = "/sonoran-collegium/"
 
 <img alt="" loading="lazy" src="/pegasus.gif"/>
 
-Our Region: THE SOUTHWEST\
-(Arizona, New Mexico, Oklahoma, Texas)\
-(However, anyone is welcome \<g>)
+Our Region: THE SOUTHWEST (Arizona, New Mexico, Oklahoma, Texas) (However, anyone is welcome &lt;g>)
 
 ## Contact Info:
 
-Laura Felton\
-(aka Herald-Mage Apprentice Ryha)\
-Lubbock, TX\
-[Mistykalia@aol.com](mailto:Mistykalia@aol.com)
+Laura Felton (aka Herald-Mage Apprentice Ryha) Lubbock, TX [Mistykalia@aol.com](mailto:Mistykalia@aol.com)
 
 Here's a list I brainstormed for things I would like to see develop in this chapter:
 
 - A strong community based on our love of Mercedes Lackey's works
-- Regional field trips! (Hopefully including some camping opportunities, conventions, Renaissance faires, concerts, any excuse to gather \<g>.)
+- Regional field trips! (Hopefully including some camping opportunities, conventions, Renaissance faires, concerts, any excuse to gather &lt;g>.)
 - A monthly e-newsletter (that will eventually become . . .
 - A hardcopy newsletter with fan art, and fan fic
 - Discussions and group events that emphasize the importance of Heralds (i.e., community involvement and volunteer work!)
 - Support of the arts (with a strong emphasis on enjoyment of the same)
 - Wouldn't it be cool to eventually see if we could get together a filk group? Maybe have our own gathering just to jam and share music?!
 
-Sonoran Collegium is the Southwest chapter of [Queen's Own](/), the official Mercedes Lackey Appreciation newsletter. No infringements of her or anyone else's copyrights is intended. Sonoran Collegium's not-for-profit fan newsletter will be published by Laura Felton.\ \
+Sonoran Collegium is the Southwest chapter of [Queen's Own](/), the official Mercedes Lackey Appreciation newsletter. No infringements of her or anyone else's copyrights is intended. Sonoran Collegium's not-for-profit fan newsletter will be published by Laura Felton.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -67,4 +62,4 @@ site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href=
 
 <img alt="" loading="lazy" src="/bardrgn2.gif"/>
 
-\ <a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> [Back to Danya Winterborn's Page](/danya-winterborn/)\ \ \
+<a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> [Back to Danya Winterborn's Page](/danya-winterborn/)

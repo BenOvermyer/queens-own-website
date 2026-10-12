@@ -14,17 +14,17 @@ topic = "publications"
 canonical_path = "/compass-rose/spring-2002/editorial/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td> <td style="width:35%"> </td> </tr> </table>\ ---\ \ \
+<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td> <td style="width:35%"> </td> </tr> </table> ---
 
 ## Letter from the Editor
 
 <img alt="The Compass Rose by Jan Tallevast" class="border-5" loading="lazy" src="/compassrose.jpg"/>
 
-**The Compass Rose\ by\ Jan Tallevast**
+**The Compass Rose by Jan Tallevast**
 
 Heyla, Misty fans and other visitors!
 
-I've heard it said that good things come to those who wait \<g>. I apologize for being so late getting this issue of *The Compass Rose* online, but the births of my daughter, Kassandra Alys, in October 2000 and my son, John Alayn, in November 2001 interrupted my coding plans. As a result, there was only one issue in Volume 1. I'm going to try to return to the quarterly publishing schedule we intended. That said, here is a brief overview of the contents of this issue:
+I've heard it said that good things come to those who wait &lt;g>. I apologize for being so late getting this issue of *The Compass Rose* online, but the births of my daughter, Kassandra Alys, in October 2000 and my son, John Alayn, in November 2001 interrupted my coding plans. As a result, there was only one issue in Volume 1. I'm going to try to return to the quarterly publishing schedule we intended. That said, here is a brief overview of the contents of this issue:
 
 Laura Felton opens this issue with a fascinating discussion of music from medieval Ireland. Filk fans, take note! This is where a lot of those tunes we love came from originally.
 
@@ -36,9 +36,7 @@ As usual, we have several reviews covering a range of interests in a variety of 
 
 Zhai'helleva,
 
-Herald-Mage Master Danya Winterborn,\
-aka Linda A. Malcor,\
-Co-President, Queen's Own
+Herald-Mage Master Danya Winterborn, aka Linda A. Malcor, Co-President, Queen's Own
 
 <table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>

@@ -20,23 +20,21 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. III, No. 5\
-June 1990
+## Series 1, Vol. III, No. 5 June 1990
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="Queen's Own (image unavailable in archive)" class="float-right" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>Dear Misty fans:
 
-Wonderful news! JODY LEE, the illustrator who does the beautiful covers for Misty's Valdemar series, has made available to us limited edition preints of the covers of *Oathbound* and *Oathbreakers*. And she says "When time and finances allow, I hope to continue with the Vanyel series"!!! The prints are double matted, ready for a 14 x 18 inch frame. (The image size is 11 x 14 inches.) \[Ed. note 2002: Out-of-date pricing and order info withheld.\] I've already ordered and received my print of *Oathbound*, and it is magnificent. (The prints are identical to the covers but without any printing.)
+Wonderful news! JODY LEE, the illustrator who does the beautiful covers for Misty's Valdemar series, has made available to us limited edition preints of the covers of *Oathbound* and *Oathbreakers*. And she says "When time and finances allow, I hope to continue with the Vanyel series"!!! The prints are double matted, ready for a 14 x 18 inch frame. (The image size is 11 x 14 inches.) [Ed. note 2002: Out-of-date pricing and order info withheld.] I've already ordered and received my print of *Oathbound*, and it is magnificent. (The prints are identical to the covers but without any printing.)
 
 First the bad news from Teri Lee at Firebird Arts & Music, Inc.: "We are still getting catalog requests that have no return address. All catalog requests we receive we fill. If anyone hasn't gotten a gatalog from us, it is either that it came in with no return address, or the post office ate it." Also, "please tender my profound apologies to everyone who is waiting for his tapes. I'm very impressed by the continued patience and courtesy that everyone has exhibited." (Firebird recently moved--it isn't easy to move a recording studio.)
 
-It is not necessary to send Firebird a SASE, but please, let them know where to send the catalog you are requesting. \[Ed. note 2002: Out-of-date contact info withheld. Visit the Firebird website at [http://www.firebirdarts.com/](http://www.firebirdarts.com/).\]
+It is not necessary to send Firebird a SASE, but please, let them know where to send the catalog you are requesting. [Ed. note 2002: Out-of-date contact info withheld. Visit the Firebird website at [http://www.firebirdarts.com/](http://www.firebirdarts.com/).]
 
 **And the good news!** The *Oathbound* tape will soon be out! The Tarma songs are being done by Cecelia Eng and Leslie Fish. Cecelia is doing all the early Tarma songs; Leslie takes over on the second side, starting with "Winds' Four Quarters", Tarma's invocation to the Warrior aspect of the Goddess. Other voices on the tape belong to Heather Alexander and Larry Warner. Larry's song "Hindsight" sounds special; it's the story of how his character got to be a spirit guide.
 
@@ -48,29 +46,25 @@ Congratulations to Firebird's Frank Hayes, whose song "Cosmos" was chosen as the
 
 ## Book Release Dates
 
-July: *Knight of Ghosts and Shadows*, *Magic's Price*\
-August: *Children of the Night*
+July: *Knight of Ghosts and Shadows*, *Magic's Price* August: *Children of the Night*
 
 Have you wondered about the title, *Knight of Ghosts and Shadows*? It's from the English folk song "Tom O'Bedlam":
 
-"By a knight of ghost and shadows\
-I summoned am to tourney\
-Ten leagues beyond the wide word's end\
-Methinks it is no journey."
+"By a knight of ghost and shadows I summoned am to tourney Ten leagues beyond the wide word's end Methinks it is no journey."
 
 Intriguing, isn't it? Misty's story is set in LA and involves the Renaissance Faire site, elves, rock 'n' roll, Celtic musicians, and shopping malls. And it's coming soon to a bookstore near you!
 
 The letters along the side of the page spell out "Queen's Own" in ancient Shin'a'in and were designed and drawn by Adrienne L. Travis. The runes used in the last newsletter were Seax, not Norse, and also spelled out "Queen's Own". Yes, in Seax runes, the "Q" and "O" are represented by the same symbol. Sneaky, wasn't it?
 
-Chris Johnson's "The Helpful Handout of How to Become a Herald" has proven to be very helpful--and very popular. \[Ed. note 2002: Out-of-date info withheld; you can find the handout online at [/persona-handouts/](/persona-handouts/).\] Thanks, Chris, from all of us. We appreciate your hard work.
+Chris Johnson's "The Helpful Handout of How to Become a Herald" has proven to be very helpful--and very popular. [Ed. note 2002: Out-of-date info withheld; you can find the handout online at [/persona-handouts/](/persona-handouts/).] Thanks, Chris, from all of us. We appreciate your hard work.
 
-Have you sent in your subscription to *Marion Zimmer Bradley's Fantasy Magazine*? You can back order the Fall 1989 issue which contains the Diana Tregarde story "Nightside." Appropriately enough, there will be another Diana Tregarde adventure at Halloween. \[Ed. note 2002: Out-of-date subscription info withheld.\]
+Have you sent in your subscription to *Marion Zimmer Bradley's Fantasy Magazine*? You can back order the Fall 1989 issue which contains the Diana Tregarde story "Nightside." Appropriately enough, there will be another Diana Tregarde adventure at Halloween. [Ed. note 2002: Out-of-date subscription info withheld.]
 
-\[Ed. note 2002: Out-of-date dues info withheld; see below for current membership requirements.\]
+[Ed. note 2002: Out-of-date dues info withheld; see below for current membership requirements.]
 
 ## Writer's Corner:
 
-\[Ed. note 2002: Out-of-date info withheld.\]
+[Ed. note 2002: Out-of-date info withheld.]
 
 *Hello from the Herald Housemother:*
 
@@ -82,16 +76,15 @@ Being a penpal and/or attending a con can be a lot of fun or a ho-hum experience
 
 The needs of the many outweigh the needs of the few. It will be the next generation before I'm caught up on my personal correspondence. Please show patience and understanding. Better yet, keep writing to me even if I'm slow to answer!
 
-Patricia Riggs and I thank all of you for your offers to help. I am not yet comfortable with committee work done by phone and mail and so we are a bit slow to organize. There are two areas where I would like someone else to take charage: (1) This is the first participation in fandom for many members of Queen's Own. Are there "old timers" among our membership who have time to serve as mentors for the neophytes? I would like to have a filker, a gamer, an enthusiastic con-goer, and a zine devotee volunteer to share their enthusiasms with new members--who may have no idea of what I'm talking about! If you feel you are mentor material, please write to Patricia Riggs or me. Let us know if you prefer to work with Pat or if you are willing to have your name, address, and "specialty" printed in the newsletter. There is a wide, weird, and wonderful world of fannish activities going on; let's share our knowledge so we can all play. (2) Many of our members have things to sell: stationery, stickers, portraits, etc. There isn't room in the newsletter for advertisements, but I like the idea of making such things available to each other. My idea is for an advertising flyer. If you wished to place an ad, you would \[Ed. note 2002: Out-of-date info withheld.\]. Alternative ideas are welcome.
+Patricia Riggs and I thank all of you for your offers to help. I am not yet comfortable with committee work done by phone and mail and so we are a bit slow to organize. There are two areas where I would like someone else to take charage: (1) This is the first participation in fandom for many members of Queen's Own. Are there "old timers" among our membership who have time to serve as mentors for the neophytes? I would like to have a filker, a gamer, an enthusiastic con-goer, and a zine devotee volunteer to share their enthusiasms with new members--who may have no idea of what I'm talking about! If you feel you are mentor material, please write to Patricia Riggs or me. Let us know if you prefer to work with Pat or if you are willing to have your name, address, and "specialty" printed in the newsletter. There is a wide, weird, and wonderful world of fannish activities going on; let's share our knowledge so we can all play. (2) Many of our members have things to sell: stationery, stickers, portraits, etc. There isn't room in the newsletter for advertisements, but I like the idea of making such things available to each other. My idea is for an advertising flyer. If you wished to place an ad, you would [Ed. note 2002: Out-of-date info withheld.]. Alternative ideas are welcome.
 
 Are there any volunteers for these projects? Or any ideas for otehrs? This is *your* club; what would you like to see us do?
 
-Ellen Wells \[Ed. Note 2002: Address withheld.\] writes that she is willing to organize a Valdemar cookbook. Are you Heralds who are creating recipes (or who just enjoy eating) interested?
+Ellen Wells [Ed. Note 2002: Address withheld.] writes that she is willing to organize a Valdemar cookbook. Are you Heralds who are creating recipes (or who just enjoy eating) interested?
 
-**Special dates:**\
-**Misty's birthday is June 24th.**
+**Special dates:** **Misty's birthday is June 24th.**
 
-Remember OURCON, July 6-8, in Alabama. \[Ed. note 2002: Out-of-date info withheld.\]
+Remember OURCON, July 6-8, in Alabama. [Ed. note 2002: Out-of-date info withheld.]
 
 The next Queen's Own newsletter will be mailed around July 25th.
 
@@ -115,28 +108,25 @@ Congratulations to our new Heralds! Please remember that after I read your stori
 
 ## Zine News:
 
-\[Ed. note 2002: Out-of-date info withheld. Zines included *Tales of Valdemar and Beyond* (Ohio), *The Soothsayer* (Seattle, Washington), *Companion's Rest* (Texas), and *Arrow's Message* (California).\]
+[Ed. note 2002: Out-of-date info withheld. Zines included *Tales of Valdemar and Beyond* (Ohio), *The Soothsayer* (Seattle, Washington), *Companion's Rest* (Texas), and *Arrow's Message* (California).]
 
 ## Fan Messages
 
-\[Ed. Note 2002: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
-\[Ed. Note 2002: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.\]
+[Ed. Note 2002: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.]
 
-Editor, President, Dogsbody, Housemother--Judith Louvis\
-Archivist, Registrar, Organizer *extraordinaire*, and any other title she wants--Patricia Riggs\
-Mailing Day Helpers--The Outlander, Ana Casacuberta, Leanne Brownlee, Joanne Gise, Patti Hemeliski, Noreen Johnson.
+Editor, President, Dogsbody, Housemother--Judith Louvis Archivist, Registrar, Organizer *extraordinaire*, and any other title she wants--Patricia Riggs Mailing Day Helpers--The Outlander, Ana Casacuberta, Leanne Brownlee, Joanne Gise, Patti Hemeliski, Noreen Johnson.
 
-A Question from Chris Johnson:\
-Did you hear about the girl who was accidentally run over by her Companion? It really made an "impression" on her!
+A Question from Chris Johnson: Did you hear about the girl who was accidentally run over by her Companion? It really made an "impression" on her!
 
 P.S. Bright blessings to you all!
 
 Judith
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -150,10 +140,7 @@ The featured artist for this edition of the newsletter was Adrienne L. Travis. I
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

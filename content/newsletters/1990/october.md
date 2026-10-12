@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. IV, No. 2\
-October 1990
+## Series 1, Vol. IV, No. 2 October 1990
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty Fans,
 
@@ -40,7 +38,7 @@ Another Valdemar series from DAW! The focus is on Elspeth in the trilogy, *The M
 
 Tor has expressed an interest in more Diane Tregarde books.
 
-Misty's story in *Marion Zimmer Bradley's Fantasy Magazine*, Issue 10, will star Diana and Andre. You can order just that one issue of the magazine \[Ed. note 2002: Out-of-date information withheld.\].
+Misty's story in *Marion Zimmer Bradley's Fantasy Magazine*, Issue 10, will star Diana and Andre. You can order just that one issue of the magazine [Ed. note 2002: Out-of-date information withheld.].
 
 More from Misty:
 
@@ -50,39 +48,39 @@ And that is how you earn your Herald whites in the "real" world!
 
 The contract has been signed for the collaboration between Misty and Anne McCaffrey. I'll tell you more about it when I have more details.
 
-Firebird will soon be featuring more Misty-related merchandise. If you're not on their mailing list, send your address to \[Ed. note 2002: Out-of-date information withheld. Firebird's website can be found at [http://www.firebirdarts.com](http://www.firebirdarts.com).\].
+Firebird will soon be featuring more Misty-related merchandise. If you're not on their mailing list, send your address to [Ed. note 2002: Out-of-date information withheld. Firebird's website can be found at [http://www.firebirdarts.com](http://www.firebirdarts.com).].
 
-"Queen's Own" was spelled out on the front page of the last issue in moon letters, created by Tracy Janda. If you wish to see your design on the front page, just send it to me **copy ready**. That means on a narrow strip of paper that will fit within the right hand margin. I've received a number of lovely ideas that have been either too short or too wide. \[Ed. note 2002: Current art may be sent to [Legend@malcor.com](mailto:Legend@malcor.com).\].
+"Queen's Own" was spelled out on the front page of the last issue in moon letters, created by Tracy Janda. If you wish to see your design on the front page, just send it to me **copy ready**. That means on a narrow strip of paper that will fit within the right hand margin. I've received a number of lovely ideas that have been either too short or too wide. [Ed. note 2002: Current art may be sent to [Legend@malcor.com](mailto:Legend@malcor.com).].
 
-Have you contributed to or read one of our zines? Our first annual zine will soon be ready. Order your copy from Nathaniel Waldbauer \[Ed. note 2002: Out-of-date information withheld.\].
+Have you contributed to or read one of our zines? Our first annual zine will soon be ready. Order your copy from Nathaniel Waldbauer [Ed. note 2002: Out-of-date information withheld.].
 
-I've enjoyed every copy of *Arrow's Message*, our bi-monthly zine. \[Ed. note 2002: Out-of-date information withheld.\].
+I've enjoyed every copy of *Arrow's Message*, our bi-monthly zine. [Ed. note 2002: Out-of-date information withheld.].
 
-Help Vicki McElfresh get her *Companion's Rest* zine off to a flying start. \[Ed. note 2002: Out-of-date information withheld.\].
+Help Vicki McElfresh get her *Companion's Rest* zine off to a flying start. [Ed. note 2002: Out-of-date information withheld.].
 
 If you would like to buy a zine or submit art, poetry, or a story, send a SASE for price information or guidelines to Nathaniel, Stephanie, or Vicki--or to all three!
 
-There are coffee mugs featuring the "For Companionship choose Valdemar" design available now from Tess Wade. \[Ed. note 2002: Out-of-date information withheld.\].
+There are coffee mugs featuring the "For Companionship choose Valdemar" design available now from Tess Wade. [Ed. note 2002: Out-of-date information withheld.].
 
-Kris's Birthing-Day gift to Talia was a silver ring, of a design of two clasped hands. The Metropolitan Museum of Art carries such a ring in its Xmas catalog. It's available in gold or silver, in sizes 5, 6, or 7. Write to the museum \[Ed. note 2002: Out-of-date information withheld.\].. And thanks to Ambria Ridenow for sharing the information.
+Kris's Birthing-Day gift to Talia was a silver ring, of a design of two clasped hands. The Metropolitan Museum of Art carries such a ring in its Xmas catalog. It's available in gold or silver, in sizes 5, 6, or 7. Write to the museum [Ed. note 2002: Out-of-date information withheld.].. And thanks to Ambria Ridenow for sharing the information.
 
-Remember our advertising flyer, *The Valdemar Merchant*, if you have something to sell or are looking for unique holiday gifts. All ads must be placed by October 24th to make the first issue. It will be ready to mail out on November 1st. For information on how to place and ad or to receive the flyer, \[Ed. note 2002: Out-of-date information withheld.\]..
+Remember our advertising flyer, *The Valdemar Merchant*, if you have something to sell or are looking for unique holiday gifts. All ads must be placed by October 24th to make the first issue. It will be ready to mail out on November 1st. For information on how to place and ad or to receive the flyer, [Ed. note 2002: Out-of-date information withheld.]..
 
-In our September issue, Herald Tarn invited you to write to her for information on costuming. Unfortunately, she is no longer at that address. You can still send a SASE to me for basic con information and a few simmple costume suggestions. \[Ed. note 2002: This information sheet is no longer available, but Danya will try to answer any questions you might have. You can message her at [Legend@malcor.com](mailto:Legend@malcor.com).\].
+In our September issue, Herald Tarn invited you to write to her for information on costuming. Unfortunately, she is no longer at that address. You can still send a SASE to me for basic con information and a few simmple costume suggestions. [Ed. note 2002: This information sheet is no longer available, but Danya will try to answer any questions you might have. You can message her at [Legend@malcor.com](mailto:Legend@malcor.com).].
 
 ### Chapter News:
 
-A new chapter! Greetings to all FL, AL & GA QO! The time has come for the Southeast area to have a chapter and a newsletter--don't you agree? I need feedback, suggestions, and names for both the chapter and the newsletter. What are you waiting for? Wind & Blessing, **Shirlene Ananayo** \[Ed. note 2002: Out-of-date information withheld.\].
+A new chapter! Greetings to all FL, AL & GA QO! The time has come for the Southeast area to have a chapter and a newsletter--don't you agree? I need feedback, suggestions, and names for both the chapter and the newsletter. What are you waiting for? Wind & Blessing, **Shirlene Ananayo** [Ed. note 2002: Out-of-date information withheld.].
 
-From I.A., \[Ed. note 2002: Out-of-date information withheld.\]: Illinois Arrow to Illinois Misty fans. We've finally gotten started and invite any Illinois Misty fans to join us. We'd love to have you.
+From I.A., [Ed. note 2002: Out-of-date information withheld.]: Illinois Arrow to Illinois Misty fans. We've finally gotten started and invite any Illinois Misty fans to join us. We'd love to have you.
 
-West Coast members are welcome to join *The Herald's Hall of California*. The California Arrow newsletter includes local events and convention information as well as member bios and a featured Author or Artist. For the newest issue, with Featuered Artist Larry Dixon, \[Ed. note 2002: Out-of-date information withheld.\]. Past Featured Authors include Misty, Sharon Green, and Claudia J. Edwards, if you would like to request a particular issue. Write to: \[Ed. note 2002: Out-of-date information withheld.\].
+West Coast members are welcome to join *The Herald's Hall of California*. The California Arrow newsletter includes local events and convention information as well as member bios and a featured Author or Artist. For the newest issue, with Featuered Artist Larry Dixon, [Ed. note 2002: Out-of-date information withheld.]. Past Featured Authors include Misty, Sharon Green, and Claudia J. Edwards, if you would like to request a particular issue. Write to: [Ed. note 2002: Out-of-date information withheld.].
 
 ### Hello from Herald Housemother:
 
 Let's see . . . For those of you who keep score, besides my usual "creative" spellings and zip codes, I've scrambled titles in a list of Misty's short stories, and I've assigned the wrong gifts to a Herald. What mistakes will Herald Housemother make in the next issue? You'll have to wait until the middle of December to find out, there is no November mailing.
 
-If you wish to send a holiday card to Misty and Larry, \[Ed. note 2002: Out-of-date information withheld. Fan mail may be sent to Misty and Larry at the High Flight address, listed below.\] Please leave froom for the forwarding address. Please mail before December 15th.
+If you wish to send a holiday card to Misty and Larry, [Ed. note 2002: Out-of-date information withheld. Fan mail may be sent to Misty and Larry at the High Flight address, listed below.] Please leave froom for the forwarding address. Please mail before December 15th.
 
 Some of you who are attending SoonerCon have expressed your delight at the prospect of meeting me. I am bright, charming, and witty for three--maybe even five--minutes a day. If you miss me during those few minutes, you will be stuck with a tired and cranky old lady. Please don't expect too much!
 
@@ -122,31 +120,27 @@ Welcome, **Herald Cheshire Marenn McRase**, chosen by the mare **Anschad**. *Kat
 
 ### Convention News:
 
-**SoonerCon**, November 2-4, at the Central Plaza Hotel, Oklahoma City, Oklahoma. Lois McMaster Bujold is the Guest of Honor, but other guests are expected to include Misty and C.J. Cherryh. \[Ed. note 2002: Out-of-date information withheld.\].
+**SoonerCon**, November 2-4, at the Central Plaza Hotel, Oklahoma City, Oklahoma. Lois McMaster Bujold is the Guest of Honor, but other guests are expected to include Misty and C.J. Cherryh. [Ed. note 2002: Out-of-date information withheld.].
 
-PsurrealCon is also in Oklahoma, February 8-10, 1991. Misty is the Guest of Honor (GoH), and the Ghosts of Honor are Mary Shelley and Bram Stoker (1). \[Ed. note 2002: Out-of-date information withheld.\]
+PsurrealCon is also in Oklahoma, February 8-10, 1991. Misty is the Guest of Honor (GoH), and the Ghosts of Honor are Mary Shelley and Bram Stoker (1). [Ed. note 2002: Out-of-date information withheld.]
 
 ## Fan Messages
 
-\[Ed. Note 2002: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
-\[Ed. Note 2002: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.\]
+[Ed. Note 2002: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.]
 
-Editor, President, Dogsbody, Housemother--Judith Louvis\
-Archivist, Registrar, Organizer *extraordinaire*--Patricia Riggs\
-Mailing Day Helpers (last issue)--Robin and Louis Gladeau and his D & D friends, Linda Gumkowski, Joanne Gise Mattern, Sean Miller, and Michael Truese.
+Editor, President, Dogsbody, Housemother--Judith Louvis Archivist, Registrar, Organizer *extraordinaire*--Patricia Riggs Mailing Day Helpers (last issue)--Robin and Louis Gladeau and his D & D friends, Linda Gumkowski, Joanne Gise Mattern, Sean Miller, and Michael Truese.
 
-From Rob Von Allmen:\
-Q.) Why are all books in Valdemar's Collegium read in pairs?\
-A.) Because once you have *Chosen* a book, you must also read its *Companion* volume.
+From Rob Von Allmen: Q.) Why are all books in Valdemar's Collegium read in pairs? A.) Because once you have *Chosen* a book, you must also read its *Companion* volume.
 
 Wind to Thy Wings!
 
 Judith
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -158,10 +152,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

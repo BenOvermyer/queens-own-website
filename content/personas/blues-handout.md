@@ -21,8 +21,7 @@ canonical_path = "/blues-handout/"
 
 Distributed by:
 
-### Queen's Own\
-The Official Mercedes Lackey Fan Club
+### Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -111,8 +110,7 @@ Exception: If you are a police officer or firefighter, you may claim full Guard 
 
 For advanced ranks for Guards, see the Advanced rank instructions on the [Military Handout](/military-handout/#advance).
 
-Zhai'helleva,\
-[Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
 
 <img alt="" loading="lazy" src="/barcastl.gif"/>
 

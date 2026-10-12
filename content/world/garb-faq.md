@@ -17,7 +17,7 @@ canonical_path = "/garb-faq/"
 
 ## (Revised 2/5/02)
 
-What are the best-dressed personae on Velgarth wearing these days \<g>? Here's what we know about the outfits worn by personae of different ranks:
+What are the best-dressed personae on Velgarth wearing these days &lt;g>? Here's what we know about the outfits worn by personae of different ranks:
 
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:95%">
 <tr>
@@ -90,8 +90,8 @@ What are the best-dressed personae on Velgarth wearing these days \<g>? Here's w
 </tr>
 </table>
 
-\*There is no heirarchy between these ranks. You cannot advance from one to the other. They are different types of the same rank.
+&#42;There is no heirarchy between these ranks. You cannot advance from one to the other. They are different types of the same rank.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)\ [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)\
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/) [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

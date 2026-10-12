@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 2, Vol. I, No. 4\
-March 13, 1999
+## Series 2, Vol. I, No. 4 March 13, 1999
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/>
 
@@ -66,9 +64,9 @@ she'll do her best for you! For orders outside the 518 area code, [Ed. note 2004
 </tr>
 </table>
 
-PERS0NALS - \[Ed. note 2004: Personals withheld because of their private and out-dated content.\]
+PERS0NALS - [Ed. note 2004: Personals withheld because of their private and out-dated content.]
 
-PEN-PALS \[Ed. note 2004: Pen-Pals section withheld because of their private and out-dated content.\]
+PEN-PALS [Ed. note 2004: Pen-Pals section withheld because of their private and out-dated content.]
 
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>

@@ -21,8 +21,7 @@ canonical_path = "/bard-handout/"
 
 Distributed by:
 
-### Queen's Own\
-The Official Mercedes Lackey Fan Club
+### Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -150,8 +149,7 @@ To become a Master Bard, you must
 3. Complete the requirements for one of the Specialties listed above.
 4. Write a 20-page paper on the origin and meaning of a folksong (The folksong may either be one of the ones Misty created for the Valdemar series or a folksong of your choice from the real world.)
 
-Zhai'helleva,\
-[Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
 
 <img alt="" loading="lazy" src="/barmusic.gif"/>
 

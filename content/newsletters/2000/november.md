@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 1, No. 7\
-November 1, 2000
+## Series 3, Vol. 1, No. 7 November 1, 2000
 
 <img alt="Bondbird by Adam King" class="border-3" loading="lazy" src="/qo32.jpg"/>
 
@@ -147,7 +145,7 @@ SYNDICON 2000. E-mail: [theconmen@theconmen.com](mailto:theconmen@theconmen.com)
 
 ### Kansas
 
-SHAUNCON XVIII. E-mail: [RPGKC@aol.com](mailto:RPGKC@aol.com). Website: [http://members.aol.com/\_ht\_a/RPGKC](http://members.aol.com/_ht_a/RPGKC). Site Address: Radisson Hotel, Overland Park, Kansas. Dates: 11/16/00 - 11/19/00.
+SHAUNCON XVIII. E-mail: [RPGKC@aol.com](mailto:RPGKC@aol.com). Website: [http://members.aol.com/_ht_a/RPGKC](http://members.aol.com/_ht_a/RPGKC). Site Address: Radisson Hotel, Overland Park, Kansas. Dates: 11/16/00 - 11/19/00.
 
 ### Kentucky
 
@@ -155,7 +153,7 @@ SUGOI-CON 1. E-mail: [ajpopp@fuse.net](mailto:ajpopp@fuse.net). Website: [http:/
 
 ### Louisiana
 
-EXOTICON 3. E-mail: \[REMOVED\]. Website: \[REMOVED\]. Site Address: Radisson Hotel, New Orleans, Louisiana. Dates: 11/17/00 - 11/19/00.
+EXOTICON 3. E-mail: [REMOVED]. Website: [REMOVED]. Site Address: Radisson Hotel, New Orleans, Louisiana. Dates: 11/17/00 - 11/19/00.
 
 ### Massachusetts
 
@@ -171,7 +169,7 @@ VIA 1936: HORROR. E-mail: [solmstead-dean@erols.com](mailto:solmstead-dean@erols
 
 ### Michigan
 
-U\*CON 2000. E-mail: [ucon00info@umich.edu](mailto:ucon00info@umich.edu). Website: [http://maniac.deathstar.org/~ucon](http://maniac.deathstar.org/~ucon). Site Address: University of Michigan Union, Ann Arbor, Michigan. Dates: 11/17/00 - 11/19/00.
+U&#42;CON 2000. E-mail: [ucon00info@umich.edu](mailto:ucon00info@umich.edu). Website: [http://maniac.deathstar.org/~ucon](http://maniac.deathstar.org/~ucon). Site Address: University of Michigan Union, Ann Arbor, Michigan. Dates: 11/17/00 - 11/19/00.
 
 ### Minnesota
 
@@ -341,26 +339,21 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 ### From Healer Adept Moonstar:
 
-We are heading into the holidays. For Danya that means days filled with all the things that come with a new baby. Congrats \<g>.
+We are heading into the holidays. For Danya that means days filled with all the things that come with a new baby. Congrats &lt;g>.
 
 For me the holidays are filled with friends, occasionally family, too much food and movies. I thought this month I would share some fantasy/science fiction movies that are going to grace our theaters. On those days that are cold, blustery, or you are too full to contemplate the gym, here are some going out ideas.
 
 November 3rd sees the opening of *Monkey Bone* directed by Henry Selick, starring Brendan Fraser, Paul Ruebans, Whoopie Goldberg and Bridget Fonda. This is the story of a cartoonist who in a coma slips into a world of his own imagination. He must find it with in himself to find his way back to reality. This is a combination of live action and animation.
 
-November 10th we land on the *Red Planet* directed by Anthony Huffman starring Val Kilmer. The Mars Pathfinder seems to have launched a whole stack of movies starring our closest neighbor in space. In this film, Mars is our only hope because Earth is dying.\
-[http://www.redplanetmovie.com/](http://www.redplanetmovie.com/)
+November 10th we land on the *Red Planet* directed by Anthony Huffman starring Val Kilmer. The Mars Pathfinder seems to have launched a whole stack of movies starring our closest neighbor in space. In this film, Mars is our only hope because Earth is dying. [http://www.redplanetmovie.com/](http://www.redplanetmovie.com/)
 
-November 17th the long awaited *Grinch* steals into theaters. I know I will be in line for this funfest, a new telling of Dr. Seuss' tale.\
-[http://www.grinched.com/](http://www.grinched.com/)
+November 17th the long awaited *Grinch* steals into theaters. I know I will be in line for this funfest, a new telling of Dr. Seuss' tale. [http://www.grinched.com/](http://www.grinched.com/)
 
-Also *6th Day* directed by Roger Spottiswoode starring Arnold Schwarzenegger, Tony Goldwyn, and Robert Duvall, will premiere. The premise: What if you went home to find a clone replaced you?\
-http://www.spe.sony.com/movies/the6thday/index.html
+Also *6th Day* directed by Roger Spottiswoode starring Arnold Schwarzenegger, Tony Goldwyn, and Robert Duvall, will premiere. The premise: What if you went home to find a clone replaced you? http://www.spe.sony.com/movies/the6thday/index.html
 
-Looking ahead in December, a *Dungeons and Dragons* movie is finally making it to theaters! It will be directed by Courtney Soloman and is starring Thora Birch, Jeremy Irons, Marlon Wayans, Lee Arenberg, and Tom Baker.\
-[http://www.seednd.com/](http://www.seednd.com/)
+Looking ahead in December, a *Dungeons and Dragons* movie is finally making it to theaters! It will be directed by Courtney Soloman and is starring Thora Birch, Jeremy Irons, Marlon Wayans, Lee Arenberg, and Tom Baker. [http://www.seednd.com/](http://www.seednd.com/)
 
-I would love to see reviews for our in house journal the *Compass Rose* for any of these movies. So, if you are wondering who is hogging the popcorn, you need to look no further than the Queen's Own Co-president sitting next to you.\
-[/compass-rose/about/](/compass-rose/about/)
+I would love to see reviews for our in house journal the *Compass Rose* for any of these movies. So, if you are wondering who is hogging the popcorn, you need to look no further than the Queen's Own Co-president sitting next to you. [/compass-rose/about/](/compass-rose/about/)
 
 Hugs-
 
@@ -377,7 +370,7 @@ The newsletter is routinely posted to the Net. If you are concerned about your a
 The only "fee" for a fan message is to write to two other people. If your mailbox is empty, don't complain--write letters!
 
 - From **White Winds Soceress Shadow Weaver**. I am looking for gothic and sci/fi fantasy events in Ohio/KY/Indiana/West Virginia to merchant at. If you have any info please e-mail [cimeshadow@aol.com](mailto:cimeshadow@aol.com) or snail mail Lisa Brawner at P.O. Box 8335, Lexington, KY 40533-8335.
-- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" \<g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
+- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
@@ -402,10 +395,7 @@ The featured artists for this online version of the newsletter are be [Laura Fel
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

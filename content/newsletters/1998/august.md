@@ -20,23 +20,19 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. XI, No. 9\
-August 1998
+## Series 1, Vol. XI, No. 9 August 1998
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
 <img alt="Border Art" class="float-right" loading="lazy" src="/qo284.jpg"/> Dear Misty Fans,
 
-"I hope you have found a friend\
-Closing time\
-Every new beginning comes from some other beginning's end"
+"I hope you have found a friend Closing time Every new beginning comes from some other beginning's end"
 
 from *Closing Time* by Semisonic
 
@@ -78,11 +74,11 @@ In 1992 we eagerly awaited the release of *Born to Run* and the McCaffrey/Lackey
 
 1993 brought us *Winds of Fury* and the second Bardic Voices book, *The Robin and the Kestrel*. *The Black Gryphon* reached bookstores the end of that year.
 
-In 1994 Larry gave us a few hints about future Gryphon books: "*White Gryphon* won't be what you're expecting, I would say. And I can tell you that at least part of *Silver Gryphon* will be set in the current (*Storming Warning*) time base. \<smile> "Skandranon is going to recover from the effects of being Gate-trapped, though, despite some very serious aftereffects . . . acidosis, etc. It occurred to me that one of the most miserable creatures on Velgarth would be a ticklish gryphon. He'd NEVER get away from those feathers."
+In 1994 Larry gave us a few hints about future Gryphon books: "*White Gryphon* won't be what you're expecting, I would say. And I can tell you that at least part of *Silver Gryphon* will be set in the current (*Storming Warning*) time base. &lt;smile> "Skandranon is going to recover from the effects of being Gate-trapped, though, despite some very serious aftereffects . . . acidosis, etc. It occurred to me that one of the most miserable creatures on Velgarth would be a ticklish gryphon. He'd NEVER get away from those feathers."
 
 Misty & Larry shared their home with eight large exotic birds and a parakeet in 1995. After telling us of the joy the birds bring them Misty warned, "If this all sounds delightful and you can't wait to get a bird of your own, you should be aware that having an exotic bird means work and a lot of responsibility. Exotic birds are highly intelligent and need stimulation and attention. By hand raising and socializing these young birds, we are making ourselces the substitues for their flock; we must now provide all the social contact and stimulation they need and crave, not just once in a while, but every day."
 
-Firebird's long-awaited *Arrows of the Queen Concordance* was ready for mailing in 1996. *The Silver Gryphon* and *Storm Breaking* arrived in bookstores and were promptly bought up. \<o> 1997 brought us *Owlflight* and more new merchandise from Firebird, including Herald and Shin'a'in doll-sized costume patterns.
+Firebird's long-awaited *Arrows of the Queen Concordance* was ready for mailing in 1996. *The Silver Gryphon* and *Storm Breaking* arrived in bookstores and were promptly bought up. &lt;o> 1997 brought us *Owlflight* and more new merchandise from Firebird, including Herald and Shin'a'in doll-sized costume patterns.
 
 And here we are in 1998!
 
@@ -106,9 +102,9 @@ Josepha Sherman will be Guest of Honor at EerieCon 1 April 16-18, 1999 (Yes, tha
 
 Queen's Own has been my introduction to new friends and new experiences, Ren Faires, conventions, zines, filk--these were all unknown to me before QO. Pen pals? I was too old for such nonsense, I thought. My thanks to all of you for making me feel young again, for letting me be your Housemother, and for sharing so much of your lives with me. Please be as generous and supportive of Robin. I hope you'll keep in touch--Love, Judith.
 
-*Owlsight*, the sequel to *Owlflight*, has an October release date. It will be \[Ed. note 2005: Out-of-date info withheld.\]. *Owlflight* will be released as a \[Ed. note 2005: Out-of-date info withheld.\] paperback at this time.
+*Owlsight*, the sequel to *Owlflight*, has an October release date. It will be [Ed. note 2005: Out-of-date info withheld.]. *Owlflight* will be released as a [Ed. note 2005: Out-of-date info withheld.] paperback at this time.
 
-Firebird Arts and Music carries all of Misty's books and lots of other merchandise, like Babylon 5 soundtracks, Larry's art prints, porcelain jewelry, kits for plastic knights and Robin Hood characters, doll-size costume patterns for Heralds & Sin'a'in, T-shirts, and Celtic design gift wrap. And now they ahve a retail loaction! The address is \[Ed. note 2005: Out-of-date info withheld.\].
+Firebird Arts and Music carries all of Misty's books and lots of other merchandise, like Babylon 5 soundtracks, Larry's art prints, porcelain jewelry, kits for plastic knights and Robin Hood characters, doll-size costume patterns for Heralds & Sin'a'in, T-shirts, and Celtic design gift wrap. And now they ahve a retail loaction! The address is [Ed. note 2005: Out-of-date info withheld.].
 
 Firebird is sharing a building with Vacation RV. Teri says, "Come visit and if you need car, truck or RV repairs, talk to Chris or Dan."
 
@@ -133,23 +129,23 @@ Firebird is sharing a building with Vacation RV. Teri says, "Come visit and if y
 </tr>
 </table>
 
-If you can't visit Portland, visit the Firebird website at \[Ed. note 2005: Out-of-date info withheld.\]. If you want a "real" catalog, \[Ed. note 2005: Out-of-date info withheld.\]. Firebird does not answer inquiries from prison addresses.
+If you can't visit Portland, visit the Firebird website at [Ed. note 2005: Out-of-date info withheld.]. If you want a "real" catalog, [Ed. note 2005: Out-of-date info withheld.]. Firebird does not answer inquiries from prison addresses.
 
-Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your e-mail address to Teri: \[Ed. note 2005: Out-of-date info withheld.\].
+Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your e-mail address to Teri: [Ed. note 2005: Out-of-date info withheld.].
 
 TEMPEST "The 10th Anniversary Tour 1998" Part One:
 
-\[Ed. note 2005: Out-of-date info withheld.\]
+[Ed. note 2005: Out-of-date info withheld.]
 
-Stamps for Life is still collecting used postage stamps from all countries but has a new address. The cash from teh sale of these stamps is used to purchase equipment and medication for children in the Cancer Ward of Manchester Children's Hospital in England. Simply remove the stamps from all your mail and send them to \[Ed. note 2005: Out-of-date info withheld.\]. They will be sent to England. Send a few, send a lot, all will help. If you lose the Pittsburgh address, send the stamps to \[Ed. note 2005: Out-of-date info withheld.\]; I'll mail them on.
+Stamps for Life is still collecting used postage stamps from all countries but has a new address. The cash from teh sale of these stamps is used to purchase equipment and medication for children in the Cancer Ward of Manchester Children's Hospital in England. Simply remove the stamps from all your mail and send them to [Ed. note 2005: Out-of-date info withheld.]. They will be sent to England. Send a few, send a lot, all will help. If you lose the Pittsburgh address, send the stamps to [Ed. note 2005: Out-of-date info withheld.]; I'll mail them on.
 
 ## Fan Messages:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
 ## Personals:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
 <tr>
@@ -172,21 +168,17 @@ All news, ads, messages, personals, etc. shouldbe sent to the Winnetka address.
 
 Recommended reading: everything by Lois McMaster Bujold--read the earlier Miles Vorkosigan adventures before reading *Mirror Dance*, *Memory*; and *Komarr*; David Weber, especially his Honor Harrington series again, best read in order. Watch for *Echoes of Honor*, coming in October.
 
-For definitions of our fannish jargon, read "Pros & Cons: A Introduction to Fandom" written by Elizabeth Barrette. Send \[Ed. note 2005: Out-of-date info withheld.\] for this 12 page booklet.
+For definitions of our fannish jargon, read "Pros & Cons: A Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005: Out-of-date info withheld.] for this 12 page booklet.
 
-Queen's Own \[Ed. note 2005: Out-of-date content withheld.\], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at \[Ed. note 2005: Out-of-date content withheld.\] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay \[Ed. note 2005: Out-of-date content withheld.\] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: \[Ed. note 2005: Out-of-date content withheld.\]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Deadline for next newsletter contributions: September 10--earlier is better. Give your new editor Robin Ready a chance to get organized and time to experiment.\
-Next Mailing Day: September 19 (Winnetka, California).\
+Deadline for next newsletter contributions: September 10--earlier is better. Give your new editor Robin Ready a chance to get organized and time to experiment. Next Mailing Day: September 19 (Winnetka, California).
 
-Retiring Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2005: Out-of-date content withheld.\]\
-New Editor, President (and whatever titles she chooses)--Robin Ready\
-Border art--Heather L. Wedo\
-Mailing Day Helper--SpiritBlade.
+Retiring Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2005: Out-of-date content withheld.] New Editor, President (and whatever titles she chooses)--Robin Ready Border art--Heather L. Wedo Mailing Day Helper--SpiritBlade.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -198,10 +190,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

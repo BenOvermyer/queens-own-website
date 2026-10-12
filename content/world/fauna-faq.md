@@ -128,7 +128,7 @@ Gryphons have the head and forelegs of an eagle, the body of a lion and the wing
 
 ### Hertasi
 
-The hertasi are a created race who have existed since before the Mage Wars. Many hertasi live with the Hawkbrothers and the Kaled'a'in, caring for both humans and nonhumans. The hertasi are shorter in stature than humans. They are known for their strength, their clever minds, and their skill with language. All hertasi use Mindspeech with ease. They either have a hive-like, group mind or a formidible gossip network \<g>. They have a deep, in-born urge to be useful. Happy hertasi carry their tails high. Like humans, they have limited night vision although their daytime vision is superior to that of most humans. They become fertile only once a year. The hertasi tend to live in caves, either in marshes or in hillsides. Like the Tayledras, the hertasi favor simple furnishings. Their diet includes rice, fish, frogs and whatever they manage to kill while hunting. The Tyrills of Iftel are large hertasi. Known professions for hertasi are:
+The hertasi are a created race who have existed since before the Mage Wars. Many hertasi live with the Hawkbrothers and the Kaled'a'in, caring for both humans and nonhumans. The hertasi are shorter in stature than humans. They are known for their strength, their clever minds, and their skill with language. All hertasi use Mindspeech with ease. They either have a hive-like, group mind or a formidible gossip network &lt;g>. They have a deep, in-born urge to be useful. Happy hertasi carry their tails high. Like humans, they have limited night vision although their daytime vision is superior to that of most humans. They become fertile only once a year. The hertasi tend to live in caves, either in marshes or in hillsides. Like the Tayledras, the hertasi favor simple furnishings. Their diet includes rice, fish, frogs and whatever they manage to kill while hunting. The Tyrills of Iftel are large hertasi. Known professions for hertasi are:
 
 - Cook
 - Historian
@@ -191,4 +191,4 @@ Bondbirds are more intelligent than cats but not quite as intelligent as small c
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)\ [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)\
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/) [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. IX, No. 8\
-July 1996
+## Series 1, Vol. IX, No. 8 July 1996
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="border by Robert St.Pierre" class="float-right" loading="lazy" src="/qo293.jpg"/>Dear Misty Fans,
 
@@ -50,7 +48,7 @@ News from Teri Lee at Firebird:
 
 "Forgery alert. Persistent rumors have surfaced about bootleg albums being produced and sold. Please keep your eyes out for these bogus albums. Likely candidates are albums by Leslie Fish, including Chickasaw Mountain, Firestorm, Undertaker's Horse, and Cold Iron. Bootleg albums are reproduced from a low quality cassette master, so the sound quality is very poor. Bootlegs steal income from the artist, songwriter, cover artist, production company, engineer, and producer." - Teri Lee
 
-*The Arrows of the Queen Concordance* is fun to read and will bring back many memories. I love Larry Dixon's emblem of the elite Silver Gryphon Guards, both as a patch and as a silver and black cloisonn� pin. It's even on a T-shirt! Can't find one of Misty's books? Firebird carries them all, plus related music, art, jewelry, and stationery. There's music for every taste from filk & folk to soundtracks; books by Josepha Sherman, Tanya Huff, Barbara Hambly and others; T-shirts, Celtic knot pewter pendants, videos of Steeleye Span and Tempest - 62 pages of treasure. And, of course, all of Misty's books and related music, art, jewelry, and stationary can be ordered from Firebird. Check out Firebird's most up-to date product information on the World Wide Web at [http://www.firebirdarts.com](http://www.firebirdarts.com) - e-mail orders may be sent to [firebird@firebirdarts.com](mailto:firebird@firebirdarts.com). \[Ed. Note 2002: Additional out-of-date contact information withheld.\] Note: Firebird does NOT ship to prison addresses. The paperwork involved varies from state to state - ther's just too much red tape. Sorry, guys.
+*The Arrows of the Queen Concordance* is fun to read and will bring back many memories. I love Larry Dixon's emblem of the elite Silver Gryphon Guards, both as a patch and as a silver and black cloisonn� pin. It's even on a T-shirt! Can't find one of Misty's books? Firebird carries them all, plus related music, art, jewelry, and stationery. There's music for every taste from filk & folk to soundtracks; books by Josepha Sherman, Tanya Huff, Barbara Hambly and others; T-shirts, Celtic knot pewter pendants, videos of Steeleye Span and Tempest - 62 pages of treasure. And, of course, all of Misty's books and related music, art, jewelry, and stationary can be ordered from Firebird. Check out Firebird's most up-to date product information on the World Wide Web at [http://www.firebirdarts.com](http://www.firebirdarts.com) - e-mail orders may be sent to [firebird@firebirdarts.com](mailto:firebird@firebirdarts.com). [Ed. Note 2002: Additional out-of-date contact information withheld.] Note: Firebird does NOT ship to prison addresses. The paperwork involved varies from state to state - ther's just too much red tape. Sorry, guys.
 
 *Storm Breaking* is still some months away, as is *The Friends of Valdemar*, a short story collection. Available now is Michelle West's *Hunter's Death*, the sequel to *Hunter's Oath*.
 
@@ -64,42 +62,42 @@ I've just discovered a world filled with charming characters, plenty of exciteme
 
 Please send a SASE when writing to a zine or chapter, or a self-adressed envelope and 2 IRCs if writing from a different country, unless told otherwise.
 
-\[Ed. Note 2002: Replacing old info with current: For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652. Make checks payable to "Linda Malcor" in US funds only.\]
+[Ed. Note 2002: Replacing old info with current: For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652. Make checks payable to "Linda Malcor" in US funds only.]
 
 ## Local Chapters:
 
 ### United States
 
-- Austral'a'in - Casandra Vuksa \[Ed. Note 2002: Out-of-date address withheld.\]
-- California chapter - Stephanie Anderson \[Ed. Note 2002: This became Golden Grove.\] \[Ed. note 2002: Out-of-date address withheld.\]
-- Companion's Choice - Shanara Ravensong \[Ed. Note 2002: Out-of-date address withheld.\]
-- The Herald's Companion -Typo-Dragon & Feezil seek fun-loving characters who don't mind dealing with their imaginary people. Write to Typo-Dragon at Herald's Companion c/o KAren Bertke \[Ed. Note 2002: Out-of-date address and info withheld.\]
-- Pacific Northwest Collegium - \[Ed. Note 2002: Out-of-date address withheld.\]
+- Austral'a'in - Casandra Vuksa [Ed. Note 2002: Out-of-date address withheld.]
+- California chapter - Stephanie Anderson [Ed. Note 2002: This became Golden Grove.] [Ed. note 2002: Out-of-date address withheld.]
+- Companion's Choice - Shanara Ravensong [Ed. Note 2002: Out-of-date address withheld.]
+- The Herald's Companion -Typo-Dragon & Feezil seek fun-loving characters who don't mind dealing with their imaginary people. Write to Typo-Dragon at Herald's Companion c/o KAren Bertke [Ed. Note 2002: Out-of-date address and info withheld.]
+- Pacific Northwest Collegium - [Ed. Note 2002: Out-of-date address withheld.]
 
 ### Singapore
 
-- Dream Bound - c/o Sharon Tan (Singapore) \[Ed. Note 2002: Out-of-date address withheld.\]
+- Dream Bound - c/o Sharon Tan (Singapore) [Ed. Note 2002: Out-of-date address withheld.]
 
 ### Germany
 
-- The Farflying Arrow - Achtung, an alle deutschsprechenden Misty-Fans!! \[Ed. Note 2002: Out-of-date address withheld.\] Daniela \[Scheele\] hopes to bring out the first newsletter/fanzine this summer. All contributers and subscribers welcome.
+- The Farflying Arrow - Achtung, an alle deutschsprechenden Misty-Fans!! [Ed. Note 2002: Out-of-date address withheld.] Daniela [Scheele] hopes to bring out the first newsletter/fanzine this summer. All contributers and subscribers welcome.
 
 ### Canada
 
-- Herald's Revel - c/o H. Wegemer (Canada) \[Ed. Note 2002: Out-of-date address withheld.\]
-- R.C.M.H. - now forming in CANADA. Contact Pam Dziedzic \[Ed. Note 2002: Out-of-date address withheld.\] Plans include a Herald Gather, a newsletter, The Collegium News and the Editor's Circle, a proofreading forum for those trying to earn their Whites.
+- Herald's Revel - c/o H. Wegemer (Canada) [Ed. Note 2002: Out-of-date address withheld.]
+- R.C.M.H. - now forming in CANADA. Contact Pam Dziedzic [Ed. Note 2002: Out-of-date address withheld.] Plans include a Herald Gather, a newsletter, The Collegium News and the Editor's Circle, a proofreading forum for those trying to earn their Whites.
 
 ### United Kingdom
 
-- Outkingdom - Y'larna Finnareth c/o Joanne Thwaites (England) \[Ed. Note 2002: Out-of-date address withheld.\]
+- Outkingdom - Y'larna Finnareth c/o Joanne Thwaites (England) [Ed. Note 2002: Out-of-date address withheld.]
 
 ## Other Fandoms:
 
-\[Ed. Note 2002: We decided not to include these in the online version because most of the information is out of date.\]
+[Ed. Note 2002: We decided not to include these in the online version because most of the information is out of date.]
 
 ## Fanzines:
 
-\[Ed. Note 2002: We decided not to include the list of zines in the online version because most of the information is out of date.\]
+[Ed. Note 2002: We decided not to include the list of zines in the online version because most of the information is out of date.]
 
 ## Collegium News
 
@@ -122,19 +120,17 @@ Please send your messages and news for the August newsletter as soon as possible
 
 ## Fan Messages:
 
-\[Ed. Note 2002: Fan Messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Fan Messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
-\[Ed. Note 2002: Personals are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Personals are not being posted online because of the personal information they contained.]
 
-\[Ed. Note 2002: Dues and Disclaimer information replaced with the current info below.\]
+[Ed. Note 2002: Dues and Disclaimer information replaced with the current info below.]
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. Note 2002: phone withheld\]\
-Newsletter Border design: Robert St.Pierre\
-Mailing Day Helpers (last issue) - Arielle Amethyst Willow'Wind & Spiritblade, Sylver Dove & her daughter, and Rusty.
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. Note 2002: phone withheld] Newsletter Border design: Robert St.Pierre Mailing Day Helpers (last issue) - Arielle Amethyst Willow'Wind & Spiritblade, Sylver Dove & her daughter, and Rusty.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -148,10 +144,7 @@ The featured artists for this edition of the newsletter was Robert St.Pierre. If
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

@@ -21,7 +21,7 @@ canonical_path = "/world-reference-guide/"
 
 <img alt="" loading="lazy" src="/pegasus.gif"/>
 
-We don't claim to have the answer to everything you've ever wanted to know about Velgarth, but we think we've made a respectable dent \<g>:
+We don't claim to have the answer to everything you've ever wanted to know about Velgarth, but we think we've made a respectable dent &lt;g>:
 
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:90%">
 <tr>

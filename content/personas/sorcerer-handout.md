@@ -17,13 +17,11 @@ canonical_path = "/sorcerer-handout/"
 
 ### Criteria established by Mercedes Lackey
 
-### Based on the **Vows and Honor** duology\
-and the **Winds** and **Mage Storms** trilogies
+### Based on the **Vows and Honor** duology and the **Winds** and **Mage Storms** trilogies
 
 Distributed by:
 
-### Queen's Own\
-The Official Mercedes Lackey Fan Club
+### Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 

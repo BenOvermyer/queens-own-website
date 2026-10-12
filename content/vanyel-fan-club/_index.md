@@ -17,7 +17,6 @@ canonical_path = "/vanyel-fan-club/"
 <a href="/vanyel-fan-club/"><img alt="" loading="lazy" src="/vfcfronta.jpg"/></a>
 
 - [VFC Chat List](/vanyel-fan-club/chat/)
-  \
   [Q & A](/vanyel-fan-club/faq/)
 - [The Valdemaran Herald](/vanyel-fan-club/newsletter/)
 - [Gate to Heralds' Haven](/vanyel-fan-club/heralds-haven-gate/)

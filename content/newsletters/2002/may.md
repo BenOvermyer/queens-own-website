@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 3, No. 5\
-May 1, 2002
+## Series 3, Vol. 3, No. 5 May 1, 2002
 
 <img alt="Herald-Calisa by Devin Harris" class="float-center border-5" loading="lazy" src="/qo118.jpg"/>
 
@@ -34,10 +32,7 @@ Wow! Can you believe it? This is our second anniversary issue! A lot of things h
 
 On a related note, Tayledras Royal k'Vesia, the new Dean Arrows Online, a Chapter of Queen's Own, invites you to join him for:
 
-Mercedes Lackey's Book Chat Discussion\
-Wednesday Nights\
-9-10 EST\
-Reading Room on AOL
+Mercedes Lackey's Book Chat Discussion Wednesday Nights 9-10 EST Reading Room on AOL
 
 This discussion is open to anyone who loves Mercedes Lackey�s works; you do not have to be a member of Arrows or QO to participate. Check out the Arrows message boards for the weekly topic.
 
@@ -70,7 +65,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 5. **What was the first con you went to?**
   Haven't been to one yet.
 6. **What do you like the best about Queen's Own?**
-  There are other people out there that are like me!! We help each other too, personally if it just so happens \<g>.
+  There are other people out there that are like me!! We help each other too, personally if it just so happens &lt;g>.
 7. **Why did you choose to the editor of a Queen's Own fanzine/newsletter?**
   It needed to be done. A fanzine is important for bringing in more people and expanding our Queen's Own club, and it brings more enjoyment in joining a club as well.
 8. **What does putting out an issue of your fanzine/newsletter involve?**
@@ -122,7 +117,7 @@ Here are the faires we know about that are happening in May. Faires are indexed 
 
 **HIGGINS FAIRE.** E-mail: [higgins@higgins.org](mailto:higgins@higgins.org). Website: [http://www.higgins.org](http://www.higgins.org). Address: Higgins Armory Museum, Malory Truman, 100 Barber Ave., Worcester, MA, 01606. Date: 5/4/02. Open/Close: 10 AM - 5 PM.
 
-**PRINCE WILLIAM'S FAIRE.** E-mail: [s\_s\_p\_96@hotmail.com](mailto:s_s_p_96@hotmail.com). Address: Timothy Bembenek, Sword & Shield Productions, 118 Auburn St, Auburn, MA, 01501. Dates: 5/11/02 - 5/19/02. Open/Close: 10:00 AM - 6:00 PM.
+**PRINCE WILLIAM'S FAIRE.** E-mail: [s_s_p_96@hotmail.com](mailto:s_s_p_96@hotmail.com). Address: Timothy Bembenek, Sword & Shield Productions, 118 Auburn St, Auburn, MA, 01501. Dates: 5/11/02 - 5/19/02. Open/Close: 10:00 AM - 6:00 PM.
 
 ### Missouri
 
@@ -186,7 +181,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Arkansas
 
-**ROC\*KON 2002.** Website: [http://www.rockon.org/](http://www.rockon.org/). E-mail: [RocKonCon@aol.com](mailto:RocKonCon@aol.com). Address: Little Rock, Arkansas. Dates: 5/17/02 - 5/19/02.
+**ROC&#42;KON 2002.** Website: [http://www.rockon.org/](http://www.rockon.org/). E-mail: [RocKonCon@aol.com](mailto:RocKonCon@aol.com). Address: Little Rock, Arkansas. Dates: 5/17/02 - 5/19/02.
 
 ### California
 
@@ -226,7 +221,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **DEMICON XIII.** Website: http://dragon.e-qual.net/demi.html. E-mail: [jroth@theclc.com](mailto:jroth@theclc.com). Address: University Park Holiday Inn, Des Moines, Iowa. Dates: 5/3/02 - 5/5/02.
 
-**JEN-CON.** Website: [http://www.cornellcollege.edu/chess\_and\_games/](http://www.cornellcollege.edu/chess_and_games/). E-mail: [k-dougherty@cornellcollege.edu](mailto:k-dougherty@cornellcollege.edu). Address: Cornell College, Mt. Vernon, Iowa. Dates: 5/3/02 - 5/4/02.
+**JEN-CON.** Website: [http://www.cornellcollege.edu/chess_and_games/](http://www.cornellcollege.edu/chess_and_games/). E-mail: [k-dougherty@cornellcollege.edu](mailto:k-dougherty@cornellcollege.edu). Address: Cornell College, Mt. Vernon, Iowa. Dates: 5/3/02 - 5/4/02.
 
 ### Kansas
 
@@ -252,7 +247,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Michigan
 
-**MEDIAWEST\*CON 2002.** Website: [http://members.aol.com/mdiawstCon/mwc22.htm](http://members.aol.com/mdiawstCon/mwc22.htm). E-mail: [MdiaWstCon@aol.com](mailto:MdiaWstCon@aol.com). Address: Holiday Inn South, Lansing, Michigan. Dates: 5/24/02 - 5/27/02.
+**MEDIAWEST&#42;CON 2002.** Website: [http://members.aol.com/mdiawstCon/mwc22.htm](http://members.aol.com/mdiawstCon/mwc22.htm). E-mail: [MdiaWstCon@aol.com](mailto:MdiaWstCon@aol.com). Address: Holiday Inn South, Lansing, Michigan. Dates: 5/24/02 - 5/27/02.
 
 **MOTOR CITY COMIC CON.** Website: [http://motorcityconventions.com](http://motorcityconventions.com). E-mail: [michael@motorcityconventions.com](mailto:michael@motorcityconventions.com), [gary@motorcityconventions.com](mailto:gary@motorcityconventions.com). Address: Novi Expo Center, Novi, Michigan. Dates: 5/17/02 - 5/19/02.
 
@@ -288,7 +283,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **ANIMAZEMENT.** Website: [http://www.animazement.org/](http://www.animazement.org/). E-mail: [information@animazement.org](mailto:information@animazement.org). Address: Sheraton Imperial Hotel & Convention Center, Durham, North Carolina. Dates: 5/24/02 - 5/26/02.
 
-**DIXIECON 16.** Website: http://www.diplomaticcorps.org/ComingEvents/DipDixie02/DipconBid.html. E-mail: [David\_Hood@w3link.com](mailto:David_Hood@w3link.com). Address: University of North Carolina, Chapel Hill, North Carolina. Dates: 5/24/02 - 5/26/02.
+**DIXIECON 16.** Website: http://www.diplomaticcorps.org/ComingEvents/DipDixie02/DipconBid.html. E-mail: [David_Hood@w3link.com](mailto:David_Hood@w3link.com). Address: University of North Carolina, Chapel Hill, North Carolina. Dates: 5/24/02 - 5/26/02.
 
 ### Ohio
 
@@ -316,7 +311,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **DAGORHIR BELTAINE 8.** Website: [http://www.dagorhir.com/](http://www.dagorhir.com/). E-mail: [BigBadger@Beltaine8.com](mailto:BigBadger@Beltaine8.com). Address: Montgomery Bell State Park, Dickson, Tennessee. Dates: 5/2/02 - 5/5/02.
 
-**NASHCON.** Website: http://www.geocities.com/hmgs\_ms/. E-mail: [gaiserco@bellsouth.net](mailto:gaiserco@bellsouth.net). Address: Downtown Sheraton, Nashville, Tennessee. Dates: 5/24/02 - 5/26/02.
+**NASHCON.** Website: http://www.geocities.com/hmgs_ms/. E-mail: [gaiserco@bellsouth.net](mailto:gaiserco@bellsouth.net). Address: Downtown Sheraton, Nashville, Tennessee. Dates: 5/24/02 - 5/26/02.
 
 **NASHVILLE ANIME, COMIC, AND GAMING CON.** E-mail: [COMICCITY@COMCAST.NET](mailto:COMICCITY@COMCAST.NET). Address: Clarion Hotel, Nashville, Tennessee. Dates: 5/3/02.
 
@@ -344,7 +339,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Wisconsin
 
-**WISCON 26.** Website: [http://www.sf3.org/wiscon/](http://www.sf3.org/wiscon/). E-mail: [wiscon\_concom@yahoogroups.com](mailto:wiscon_concom@yahoogroups.com). Address: Concourse Hotel, Madison, Wisconsin. Dates: 5/24/02 - 5/27/02.
+**WISCON 26.** Website: [http://www.sf3.org/wiscon/](http://www.sf3.org/wiscon/). E-mail: [wiscon_concom@yahoogroups.com](mailto:wiscon_concom@yahoogroups.com). Address: Concourse Hotel, Madison, Wisconsin. Dates: 5/24/02 - 5/27/02.
 
 ### Australia
 
@@ -386,7 +381,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Sweden
 
-**LINCON 2002.** Website: [http://www.sverok.se/lincon/](http://www.sverok.se/lincon/). E-mail: [isse\_h@hotmail.com](mailto:isse_h@hotmail.com). Address: Anders Ljungstedts Gymnasium, Link�ping, Sweden. Dates: 5/8/02 - 5/12/02.
+**LINCON 2002.** Website: [http://www.sverok.se/lincon/](http://www.sverok.se/lincon/). E-mail: [isse_h@hotmail.com](mailto:isse_h@hotmail.com). Address: Anders Ljungstedts Gymnasium, Link�ping, Sweden. Dates: 5/8/02 - 5/12/02.
 
 ### United Kingdom
 
@@ -418,7 +413,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
 
 ### Zines and Newsletters:
 
@@ -467,17 +462,17 @@ Several former members have returned. Check out [/persona-directory/](/persona-d
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\
-- Herald Cateryna Cyray (KimChrist@Home.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\
-- Healer Adept Sierra k'Treva (katsanders@buffymail.com)\
-- Herald Trieenia Featherfire (sylverstorme@aol.com)\
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
+- Herald Cateryna Cyray (KimChrist@Home.com)
+- Herald Deborah (sjupiterdebi@home.com)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Healer Adept Sierra k'Treva (katsanders@buffymail.com)
+- Herald Trieenia Featherfire (sylverstorme@aol.com)
 - Bard Valiena (laughsong@aol.com)
 
 Also, Healer Adept Sierra k'Treva, your account is over quota and your messages are bouncing.
@@ -519,7 +514,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 
 ## Personals:
 
-- **From Blue Devyn. To MediaWest\*Con Attendees.** *Cat's Cradle* will be available at the MediaWest\*Con orphan zine table for $8.00; if you pre-pay for the zine and pick it up at the con, your price will be $7.00. Pre-orders can be accepted until May 1 (I'll be shipping the zines to the con within a few days of that date). If you will be attending the convention, please e-mail [devin@greendragonpress.net](mailto:devin@greendragonpress.net) for information about pre-orders.
+- **From Blue Devyn. To MediaWest&#42;Con Attendees.** *Cat's Cradle* will be available at the MediaWest&#42;Con orphan zine table for $8.00; if you pre-pay for the zine and pick it up at the con, your price will be $7.00. Pre-orders can be accepted until May 1 (I'll be shipping the zines to the con within a few days of that date). If you will be attending the convention, please e-mail [devin@greendragonpress.net](mailto:devin@greendragonpress.net) for information about pre-orders.
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: QO Newsletter.** Needed February 88 through March 91, Queen's Own newsletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [Legend@malcor.com](mailto:Legend@malcor.com)? Thanks!
@@ -538,10 +533,7 @@ The featured artist for this newsletter is [Devin Harris](mailto:devin@greendrag
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

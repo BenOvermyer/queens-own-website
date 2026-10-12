@@ -20,21 +20,19 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. VIII, No. 5\
-February 1995
+## Series 1, Vol. VIII, No. 5 February 1995
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty Fans,
 
 <img alt="border by Hanna Bruin" class="float-right" loading="lazy" src="/qo110.jpg"/>Lots of news from Misty in this issue.
 
-First, a note of warning: Misty says, "If you see a flyer with our names on it, as apparently happened for a convention called CONJUNCTION in Arkansas in January, the con committee is either lying or has been approached by my imposter. Yes, I have an imposter out there. If you meet someone claiming to be me at a convention, turn her in to the convention committee immediately! As for convention committees, evidently some people are convinced that if they claim we are going to be a guest we will be 'forced' to attend. We are not even going to the Queen's Own mini-con at \*NASFIC this year . . . . it's right in the middle of hacking-out season for my rehab birds, and stupid-fledgling season when young birds get hurt a lot. No matter what you see or hear, if you don't hear about it from us, here, it isn't true. If we decide to start attending conventions, I will announce it first here, but at the moment, it is not very likely, as the birds need us more."
+First, a note of warning: Misty says, "If you see a flyer with our names on it, as apparently happened for a convention called CONJUNCTION in Arkansas in January, the con committee is either lying or has been approached by my imposter. Yes, I have an imposter out there. If you meet someone claiming to be me at a convention, turn her in to the convention committee immediately! As for convention committees, evidently some people are convinced that if they claim we are going to be a guest we will be 'forced' to attend. We are not even going to the Queen's Own mini-con at &#42;NASFIC this year . . . . it's right in the middle of hacking-out season for my rehab birds, and stupid-fledgling season when young birds get hurt a lot. No matter what you see or hear, if you don't hear about it from us, here, it isn't true. If we decide to start attending conventions, I will announce it first here, but at the moment, it is not very likely, as the birds need us more."
 
 (If you see a flyer for a con claiming to have Misty and Larry as guests, please send it to QO. If Misty and Larry decide to attend a con, I promise that it will be front page news in the newsletter. -Judith)
 
@@ -50,9 +48,9 @@ From Misty: "Judith tells me that some of you want to know about my menagerie, s
 
 "Ikaika, who name is Hawaiian for 'strong', is my darling lover bird. She is and Umbrella Cockatoo. Umbrella cockatoos have a backward-curving crest like and Indian headdress; they are all white with just a little bit of yellow shading on the big feathers in their wings and tail. 'Kaika' loves to snuggle and cuddle; every day begins with both of us snuggling and cuddling for about twenty minutes, and ends with a half hours of snuggling, we call her our 'cuddle-too.' She loves everyone, and everyone loves here; she has actually converted Australians to being cockatoo-lovers! (Most Australians consider cockatoos to be pests, the way we think of starlings.) She will go to and absolute stranger and beg for a cuddling, and a small child can handle her safely." (To be continued in the next newsletter...)
 
-**\*NASFIC/DRAGONCON 95** is July 13-16 in Atlanta. Queen's Own will have its own track of programming and Mark Shepherd plans to attend but remember, Misty and Larry will NOT be there. We'll have panels, activities, workshops, filking, and lots of time to greet old and new friends \[Ed. Note 2002: Useless Registration Info withheld. This was a VERY fun year!\]
+**&#42;NASFIC/DRAGONCON 95** is July 13-16 in Atlanta. Queen's Own will have its own track of programming and Mark Shepherd plans to attend but remember, Misty and Larry will NOT be there. We'll have panels, activities, workshops, filking, and lots of time to greet old and new friends [Ed. Note 2002: Useless Registration Info withheld. This was a VERY fun year!]
 
-The cover of *The White Gryphon* is reproduced on the January Firebird catalog. If you are not on Firebird's mailing list just write them \[Ed. Note 2002: Old contact info withheld. Visit their site [http://firebirdarts.com](http://firebirdarts.com).\]. Other treasures from Firebird are Misty's songs, including "Lovers, Lore & Loss," which continues the songs of the Heralds of Valdemar, Jody Lee prints, Companion Stationery and T-shirts designed by Misty and Larry, Hawkbrother feather jewelry, all of Tanya Huff's books, the music of Lief Sorbye and TEMPEST, soft sculpture dragons and fire lizards, and more
+The cover of *The White Gryphon* is reproduced on the January Firebird catalog. If you are not on Firebird's mailing list just write them [Ed. Note 2002: Old contact info withheld. Visit their site [http://firebirdarts.com](http://firebirdarts.com).]. Other treasures from Firebird are Misty's songs, including "Lovers, Lore & Loss," which continues the songs of the Heralds of Valdemar, Jody Lee prints, Companion Stationery and T-shirts designed by Misty and Larry, Hawkbrother feather jewelry, all of Tanya Huff's books, the music of Lief Sorbye and TEMPEST, soft sculpture dragons and fire lizards, and more
 
 *The White Gryphon* has an April release date. Books are sometimes shipped early, watch for it anytime after March first. This is a hardcover, priced at $21.95.
 
@@ -68,43 +66,43 @@ If a book or particular cover giver you pleasure don't hesitate to say thank you
 
 ## CONVENTION NEWS:
 
-\[Ed. Note 2002: We have omitted the Convention News from the online version because it is out of date.\]
+[Ed. Note 2002: We have omitted the Convention News from the online version because it is out of date.]
 
 ## REN FAIRES:
 
-\[Ed. Note 2002: We have omitted the Ren Faires from the online version because it is out of date.\]
+[Ed. Note 2002: We have omitted the Ren Faires from the online version because it is out of date.]
 
 ## MEMBER NEWS:
 
-\[Ed. Note 2002: Lots of ads for 'Zines and stationery sellers and other artistry stuff omitted because the information is out of date.\]
+[Ed. Note 2002: Lots of ads for 'Zines and stationery sellers and other artistry stuff omitted because the information is out of date.]
 
 QO Member Jim Woosley spotted a flyer for *Chrome Circle* in the background of the comic book store set used in "The Comic Book Murders" episode of The Cosby Mysteries. Where will Misty turn up next?
 
 ### Local Chapter:
 
-- Pacific Northwest Collegium - \[Ed. note 2002: address withheld\]
-- The Herald's Companion - \[Ed. note 2002: Actually in existence still. Same address\]
-- Heralds' Revel - \[Ed. note 2002: address withheld\]
+- Pacific Northwest Collegium - [Ed. note 2002: address withheld]
+- The Herald's Companion - [Ed. note 2002: Actually in existence still. Same address]
+- Heralds' Revel - [Ed. note 2002: address withheld]
 
 ### Other Fandoms:
 
-- Tanya Huff - Nine Above! \[Ed. note 2002: address withheld\]
-- Holly Lisle - Vha'attaye Heard \[Ed. note 2002: address withheld\]
-- Michael Praed - Michael Praed Network Newsletter \[Ed. note 2002: address withheld\]
-- Doctor Who and Other Media - The Prydonians of Prynceton \[Ed. note 2002: address withheld\]. In their newsletter, *The Prydonian Renegade*, you'll find news of *Babylon 5*, *Lois and Clark*, *Deep Space Nine*, *Highlander* . . . and the latest info on the proposed Fox/Amblin *Doctor Who* pilot.
-- Zines for all fandoms - Peg Kennedy & Bill Hupe \[Ed. note 2002: address withheld\] Peg & Bill have lists of zines looking for submissions, and lots of zines for sale.
+- Tanya Huff - Nine Above! [Ed. note 2002: address withheld]
+- Holly Lisle - Vha'attaye Heard [Ed. note 2002: address withheld]
+- Michael Praed - Michael Praed Network Newsletter [Ed. note 2002: address withheld]
+- Doctor Who and Other Media - The Prydonians of Prynceton [Ed. note 2002: address withheld]. In their newsletter, *The Prydonian Renegade*, you'll find news of *Babylon 5*, *Lois and Clark*, *Deep Space Nine*, *Highlander* . . . and the latest info on the proposed Fox/Amblin *Doctor Who* pilot.
+- Zines for all fandoms - Peg Kennedy & Bill Hupe [Ed. note 2002: address withheld] Peg & Bill have lists of zines looking for submissions, and lots of zines for sale.
 
 ## COLLEGIUM NEWS:
 
-Anyone interested in join the Mercenaries Guild and working on a mercenary persona can send a SASE for persona guidelines to Mercenaries Guild, c/o John Hurst \[Ed. note 2002: Address withheld\].
+Anyone interested in join the Mercenaries Guild and working on a mercenary persona can send a SASE for persona guidelines to Mercenaries Guild, c/o John Hurst [Ed. note 2002: Address withheld].
 
-We have individual handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. Guidelines for Tayledras and Shin'a'in are incomplete but are enough to get you started. Send a SASE to the Guardian's NEW ADDRESS \[Ed. note 2002: Address withheld\] or to QO and specify which handout you are requesting. No SASE, No answer!
+We have individual handouts for aspiring Heralds, Healers, and Bards, and instructions on how to work for Herald-Mage status if you are already a Herald. Guidelines for Tayledras and Shin'a'in are incomplete but are enough to get you started. Send a SASE to the Guardian's NEW ADDRESS [Ed. note 2002: Address withheld] or to QO and specify which handout you are requesting. No SASE, No answer!
 
 Creativity in achieving extra credit points is admired but please follow the basic rules for your persona. Why do a contrary few of you insist on putting shape-changers in Valdemar?
 
-You need a release form (send the Guardian or me a SASE) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem, or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty at High Flight \[Ed. note 2002: See contact info below.\]. Do NOT include the release form with your persona material, send it to Misty.
+You need a release form (send the Guardian or me a SASE) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem, or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty at High Flight [Ed. note 2002: See contact info below.]. Do NOT include the release form with your persona material, send it to Misty.
 
-Herald material should be sent to the QO address, only Herald-Mage personas to the Guardian of the Web. \[Ed. note 2002: See submission information below.\]
+Herald material should be sent to the QO address, only Herald-Mage personas to the Guardian of the Web. [Ed. note 2002: See submission information below.]
 
 - Welcome, **Bard Rook**. **Amy Kuyper** says that Rook has the Bardic Gift and Creativity. She told of her persona and friend, has written letters about social problems and on current events, is a reporter for her school papter, has performed in her community chorus, and learned a musical instrument.
 - Welcome, **Herald Meshel Willowlark**, Chosen by Gwyn'nth and gifted with Mindspeech and Healing. **Michelle Cornett** tells of Meshel's history, sent a recipe, a sketch of her persona in Herald uniform, and 3 additional drawings.
@@ -118,7 +116,7 @@ Herald material should be sent to the QO address, only Herald-Mage personas to t
 
 ### From Herald Housemother:
 
-Welcome to all new members. I mentioned last issue that I might have to raise dues. Many of you have added a few (or more than a few!) extra dollars to your renewal. Thanks to your generosity, dues will remain at $8 for all of '95 for everyone except overseas members. As of September 1995, overseas dues will be $10. \[Ed. note 2002: QO no longer charges dues.\]
+Welcome to all new members. I mentioned last issue that I might have to raise dues. Many of you have added a few (or more than a few!) extra dollars to your renewal. Thanks to your generosity, dues will remain at $8 for all of '95 for everyone except overseas members. As of September 1995, overseas dues will be $10. [Ed. note 2002: QO no longer charges dues.]
 
 All checks received by 2/13 have been deposited, all renewals received by 2/16 have been recorded and your mailing label should show this. If there is a question about your membership please tell me when and how you renewed. My organizational skills don't seem to be improving with age so I need all the help I can get.
 
@@ -132,32 +130,28 @@ A sample copy of the newsletter is sent to anyone who requests it. The newslette
 
 The only "fee" for a fan message is to write to two other people. If your mail box is empty, don't complain - write letters!
 
-- **From Herald Carianna Ravensong (aka Carol Trochelman) \[Ed. note 2002:address withheld\]:** Merry Meet from a 36 year old who loves reading - esp. SF&F, animals - esp. wolves, nature, dragons, unicorns, faeries, writing, arts, and crafts. New into playing Magic and Wyvern. Please write, all ages 20 to 60 . . . merry part and merry meet again.
-- **From April Middleton \[Ed. note 2002:Address withheld\]:** Hello! I'm a 20 year old student of Energy Healing and Reading. I'm learning how to enjoy my life and would love some pen-friends to enjoy it with. Write and tell me about yourself. I'd especially love to hear from anyone in the Oregon/Washington area.
-- **From Herald Kaylis Shalar c/o Kaitlin Scholz \[Ed. note 2002:address withheld\]:** Heyla, one & all! I put a message in the Nov/Dec newsletter and got many answers. I'm hoping to get more! I love to read anything, but I expecially love fantasy! Some faves are Misty, Eddings, McCaffrey , Brooks, May, and Tara K. Harper. I enjoy writing, music, & much, much more! Hope to hear from you soon! Zhai'helleva!!
-- **From Shiana Dragonsong \[Ed. note 2002:Address Withheld\]:** I'm 14, play three instruments, write stories, and love fantasy. My favorite authors are Misty, MZB, Roberson, and Alan Garner. I love dragons, vampires & Mordred. Can you think of a reason for a sorcerer to want to kill the other sorcerers? If so, please share it with me.
-- **From Rachel Smith \[Ed. note 2002:Address and Email address withheld\]:** I'm almost 15, a real Lackey fan, and I love to write letters! Ok, I'll admit that I'm a bit eccentric, but who isn't! Please write, I'll reply.
-- **From Amy Su(s,z)anne Kuyper \[Ed. note 2002:address withheld\]:** What's all this about Heralds? Let's hear it for the Bards! An 18-year-old alto/tenor with clarinet background seeks other musical cohorts. Storytellers very welcome. To those who have already met me, note the address change. I'm in college now!
-- **From Morgan (Liesl) \[Ed. note 2002:Address Withheld\]:** Please - save me from Boredom, Reality, and Homework Demons! I love horses, birds, mythical creatures, Misty, MZB, Elfquest, music, writing, drawing, Ladyhawke, and more. Does anyone else read Tamora Pierce? I'll write anyone and would love to share writing with someone.
-- **From Anna Flores \[Ed. note 2002:Address Withheld\]:** Heyla! I have moved to a small no-where town and am lonely for friends. I love books, storms, moonlit nights, magic, computers, ballads, and country music (anything but rap). I write poetry and short stories. I love horses, cats and wolves. I also love to write letters. Please write - I will answer all letters.
-- **From Kat Heald \[Ed. note 2002:address withheld\]:** Fellow Ren Faire Fanatics - HELP! Tiring of being mere travelers, my sister and I have decided to take the plunge and actually participate - as gypsies, no less - in our local Faire. Trouble is, we haven't the FAINTEST idea HOW! Any help or advice, and any info on gypsies and costuming would be greatly appreciated. Thanks!
-- **From Steve Hall \[Ed. note 2002: Address Withheld\]:** 25 year old death-row inmate looking for some pen-friend correspondence. I love reading all kinds of books but mostly fantasy, Sci-Fi, and horror. I absolutely love Dragons and Magick. Will respond to any and all inquiries. Please write.
-- **From Lesley DiLauro \[Ed. note 2002: address withheld\]:** Hello!! If you wrote to me before and I did not get back to you I am sorry. I moved in January. If you didn't write but would like to, I am a 26-year-old woman who likes to escape from the 'Real World' by reading Misty, Rice, Anthony, McCaffrey, Sandman. Also love dragons, vampires, Fantasy, X-Files, Tori Amos, Sci-Fi, Computers, and Horror. Always looking for new authors to read and new music to listen to. Will write back promptly.
-- **From Jennifer Kolppanen \[Ed. note 2002:Address Withheld\]:** Fantasy World/Mundane World halfling looking for fellow fans of the F/SF and sports (esp. hockey and baseball). I realize the two may only go together in my own mind but who can dispute the resemblance between umps and trolls?
+- **From Herald Carianna Ravensong (aka Carol Trochelman) [Ed. note 2002:address withheld]:** Merry Meet from a 36 year old who loves reading - esp. SF&F, animals - esp. wolves, nature, dragons, unicorns, faeries, writing, arts, and crafts. New into playing Magic and Wyvern. Please write, all ages 20 to 60 . . . merry part and merry meet again.
+- **From April Middleton [Ed. note 2002:Address withheld]:** Hello! I'm a 20 year old student of Energy Healing and Reading. I'm learning how to enjoy my life and would love some pen-friends to enjoy it with. Write and tell me about yourself. I'd especially love to hear from anyone in the Oregon/Washington area.
+- **From Herald Kaylis Shalar c/o Kaitlin Scholz [Ed. note 2002:address withheld]:** Heyla, one & all! I put a message in the Nov/Dec newsletter and got many answers. I'm hoping to get more! I love to read anything, but I expecially love fantasy! Some faves are Misty, Eddings, McCaffrey , Brooks, May, and Tara K. Harper. I enjoy writing, music, & much, much more! Hope to hear from you soon! Zhai'helleva!!
+- **From Shiana Dragonsong [Ed. note 2002:Address Withheld]:** I'm 14, play three instruments, write stories, and love fantasy. My favorite authors are Misty, MZB, Roberson, and Alan Garner. I love dragons, vampires & Mordred. Can you think of a reason for a sorcerer to want to kill the other sorcerers? If so, please share it with me.
+- **From Rachel Smith [Ed. note 2002:Address and Email address withheld]:** I'm almost 15, a real Lackey fan, and I love to write letters! Ok, I'll admit that I'm a bit eccentric, but who isn't! Please write, I'll reply.
+- **From Amy Su(s,z)anne Kuyper [Ed. note 2002:address withheld]:** What's all this about Heralds? Let's hear it for the Bards! An 18-year-old alto/tenor with clarinet background seeks other musical cohorts. Storytellers very welcome. To those who have already met me, note the address change. I'm in college now!
+- **From Morgan (Liesl) [Ed. note 2002:Address Withheld]:** Please - save me from Boredom, Reality, and Homework Demons! I love horses, birds, mythical creatures, Misty, MZB, Elfquest, music, writing, drawing, Ladyhawke, and more. Does anyone else read Tamora Pierce? I'll write anyone and would love to share writing with someone.
+- **From Anna Flores [Ed. note 2002:Address Withheld]:** Heyla! I have moved to a small no-where town and am lonely for friends. I love books, storms, moonlit nights, magic, computers, ballads, and country music (anything but rap). I write poetry and short stories. I love horses, cats and wolves. I also love to write letters. Please write - I will answer all letters.
+- **From Kat Heald [Ed. note 2002:address withheld]:** Fellow Ren Faire Fanatics - HELP! Tiring of being mere travelers, my sister and I have decided to take the plunge and actually participate - as gypsies, no less - in our local Faire. Trouble is, we haven't the FAINTEST idea HOW! Any help or advice, and any info on gypsies and costuming would be greatly appreciated. Thanks!
+- **From Steve Hall [Ed. note 2002: Address Withheld]:** 25 year old death-row inmate looking for some pen-friend correspondence. I love reading all kinds of books but mostly fantasy, Sci-Fi, and horror. I absolutely love Dragons and Magick. Will respond to any and all inquiries. Please write.
+- **From Lesley DiLauro [Ed. note 2002: address withheld]:** Hello!! If you wrote to me before and I did not get back to you I am sorry. I moved in January. If you didn't write but would like to, I am a 26-year-old woman who likes to escape from the 'Real World' by reading Misty, Rice, Anthony, McCaffrey, Sandman. Also love dragons, vampires, Fantasy, X-Files, Tori Amos, Sci-Fi, Computers, and Horror. Always looking for new authors to read and new music to listen to. Will write back promptly.
+- **From Jennifer Kolppanen [Ed. note 2002:Address Withheld]:** Fantasy World/Mundane World halfling looking for fellow fans of the F/SF and sports (esp. hockey and baseball). I realize the two may only go together in my own mind but who can dispute the resemblance between umps and trolls?
 
 ## PERSONALS:
 
 Most of you agree that a first class stamp is a fair price for a Personal. As of now, it's a voluntary donation. If you have a Personal of more than two lines, and can easily afford it, please send a stamp along with your message.
 
-\[Ed. Note 2002: Personals are not being posted online because of the personal information they contained.\]
+[Ed. Note 2002: Personals are not being posted online because of the personal information they contained.]
 
-Editor, President, Dogsbody, Housemother - Judith Louvis \[Ed. Note 2002:personal info withheld\]\
-Archivist and Organizer extraordinaire - Patricia Riggs \[Ed. Note 2002:address withheld\] write to Patricia with your questions about the club. You may register your persona and Companion names with Patricia before completing the requirements.\
-Herald-Mage Registrar/Dispenser of handout sheets - Guardian of the Web \[Ed. Note 2002:address withheld\]\
-Newsletter Border Design - Hanna Bruin\
-Mailing Day Helpers (last issue) - Meredith Baldino, Frank Burkhead, Helen Edwards and Rusty, Barbara Leflar Jackson, and, of course, Steve Louvis.
+Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. Note 2002:personal info withheld] Archivist and Organizer extraordinaire - Patricia Riggs [Ed. Note 2002:address withheld] write to Patricia with your questions about the club. You may register your persona and Companion names with Patricia before completing the requirements. Herald-Mage Registrar/Dispenser of handout sheets - Guardian of the Web [Ed. Note 2002:address withheld] Newsletter Border Design - Hanna Bruin Mailing Day Helpers (last issue) - Meredith Baldino, Frank Burkhead, Helen Edwards and Rusty, Barbara Leflar Jackson, and, of course, Steve Louvis.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -171,10 +165,7 @@ The featured artists for this edition of the newsletter was Hanna Bruin. If you 
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

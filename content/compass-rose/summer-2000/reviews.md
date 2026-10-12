@@ -14,14 +14,13 @@ topic = "publications"
 canonical_path = "/compass-rose/summer-2000/reviews/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td> <td style="width:35%"> </td> </tr> </table>\ ---\ \ \
+<table class="cellpadding-2 cellspacing-2" style="width:100%"> <tr> <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td> <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td> <td style="width:35%"> </td> </tr> </table> ---
 
 Reviews
 
 **Except as otherwise noted, all reviews in this issue were written by**
 
-[Linda A. Malcor](mailto:Legend@malcor.com),\
-Aliso Viejo, CA
+[Linda A. Malcor](mailto:Legend@malcor.com), Aliso Viejo, CA
 
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:60%">
 <tr>
@@ -124,10 +123,7 @@ Allen reportedly followed William Shatner around at a con when prepping for this
 
 The DVD version includes outtakes and a version of the movie recorded in the Thermian language.
 
-VHS\
- VHS: Spanish Subtitles\
- DVD\
- DVD with Stereo
+VHS  VHS: Spanish Subtitles  DVD  DVD with Stereo
 
 <table class="cellpadding-2 cellspacing-2" style="width:100%">
 <tr>

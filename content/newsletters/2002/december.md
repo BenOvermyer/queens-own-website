@@ -20,11 +20,9 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 3, No. 12\
-December 1, 2002
+## Series 3, Vol. 3, No. 12 December 1, 2002
 
 <img alt="Misty, Larry and Need at Dreamcon 6 in Everett, Washington. See the QO newsletter for November 1991 for coverage of the event." class="border-5" loading="lazy" src="/qo140.jpg"/>
 
@@ -38,12 +36,9 @@ The winner of the QO art- and story-publishing contest is Herald Alora (We count
 
 **Fanmail:** The QO PO Box is seeing a lot of personal fanmail for Mercedes Lackey lately. Misty does not receive mail at the Queen's Own address, and it costs us money in postage stamps and envelopes to forward such letters to her. (Plus, we don't like opening up something addressed to us only to find out that it is personal mail intended for Misty.) Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
-**Reminder:** Please keep your e-mail addresses up-to-date with us. We can�t reach you if we don�t have a current address. You may have noticed that we have established a "Lost" column in the Collegium News section of the newsletter. These are the members for whom we no longer have a working address. If you are in touch with any of these people, please let them know that we no longer have a way to reach them. When requesting a change, please provide both your old address and your new address (It�s easier to search and replace the information that way.) Also, if you haven�t been receiving the QO newsletter, contact us. We get many bounces each month from accounts that are over their quota. We can�t deliver your newsletter if your mailbox is full \<g>.
+**Reminder:** Please keep your e-mail addresses up-to-date with us. We can�t reach you if we don�t have a current address. You may have noticed that we have established a "Lost" column in the Collegium News section of the newsletter. These are the members for whom we no longer have a working address. If you are in touch with any of these people, please let them know that we no longer have a way to reach them. When requesting a change, please provide both your old address and your new address (It�s easier to search and replace the information that way.) Also, if you haven�t been receiving the QO newsletter, contact us. We get many bounces each month from accounts that are over their quota. We can�t deliver your newsletter if your mailbox is full &lt;g>.
 
 In lieu of an interview this month, we have a special message from Misty to her fans in QO. Enjoy!
 
@@ -105,7 +100,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **CHICAGO TARDIS 2002.** Website: [http://www.chicagotardis.com/](http://www.chicagotardis.com/). E-mail: [info@chicagotardis.com](mailto:info@chicagotardis.com). Address: Sheraton Chicago Northwest, Arlington Heights (Chicago), Illinois. Dates: 11/29/02 - 12/1/02.
 
-**CHICAGOLAND GAMERS CONCLAVE.** Website: [http://www.chicagogamecon.org/](http://www.chicagogamecon.org/). E-mail: [krag\_shot\_001@hotmail.com](mailto:krag_shot_001@hotmail.com). Address: Indian Lakes Resort, Bloomingdale, Illinois. Dates: 11/29/02 - 12/1/02.
+**CHICAGOLAND GAMERS CONCLAVE.** Website: [http://www.chicagogamecon.org/](http://www.chicagogamecon.org/). E-mail: [krag_shot_001@hotmail.com](mailto:krag_shot_001@hotmail.com). Address: Indian Lakes Resort, Bloomingdale, Illinois. Dates: 11/29/02 - 12/1/02.
 
 ### Maryland
 
@@ -163,7 +158,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/).
 
 ### Zines and Newsletters:
 
@@ -214,22 +209,22 @@ Welcome back! If you are a returning member who has recently activated your memb
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\
-- Herald Cateryna Cyray (KimChrist@Home.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\
-- Healer Adept Sierra k'Treva (katsanders@buffymail.com)\
-- Herald Trieenia Featherfire (sylverstorme@aol.com)\
-- Bard Valiena (laughsong@aol.com)\
-- Healer Tamesin na Coille (minke13@earthlink.net)\
-- Herald Alia Melyngar (aliamelyngar@aol.com)\
-- Herald-Mage Apprentice Kadia Linder (kadia@aol.com)\
-- Herald Liana Firelan (krbertke@bertke.com)\
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
+- Herald Cateryna Cyray (KimChrist@Home.com)
+- Herald Deborah (sjupiterdebi@home.com)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Healer Adept Sierra k'Treva (katsanders@buffymail.com)
+- Herald Trieenia Featherfire (sylverstorme@aol.com)
+- Bard Valiena (laughsong@aol.com)
+- Healer Tamesin na Coille (minke13@earthlink.net)
+- Herald Alia Melyngar (aliamelyngar@aol.com)
+- Herald-Mage Apprentice Kadia Linder (kadia@aol.com)
+- Herald Liana Firelan (krbertke@bertke.com)
 - Herald Kalendel (itsmyage@aol.com)
 - Guardsman Faolan Ixran (Timmeu@scubadiving.com)
 - Healer Darnellon Gaither (mdprier@aol.com)
@@ -248,7 +243,7 @@ My co-author, C. Scott Littleton, had his first novel, *Phase Two*, published. Y
 
 [http://www.dragonlordsnet.com/bkscifi.htm](https://dragonlords.fans/bkscifi.htm)
 
-He�s now bugging me to get my own growing stack of novels published. I did notice, though, that he waited until he retired to start putting out fiction rather than attempting to write novels while raising his kids. ::chuckle:: I hope it�s not going to take me that long to get back to writing seriously, but things are simply a bit hectic around her right now with my rambunctious offspring pinging off the walls. Time does seem to get away from me before I notice it�s gone \<g>.
+He�s now bugging me to get my own growing stack of novels published. I did notice, though, that he waited until he retired to start putting out fiction rather than attempting to write novels while raising his kids. ::chuckle:: I hope it�s not going to take me that long to get back to writing seriously, but things are simply a bit hectic around her right now with my rambunctious offspring pinging off the walls. Time does seem to get away from me before I notice it�s gone &lt;g>.
 
 My best to all of you and yours in the coming Year! Happy Hanukkah, Blessed Yule, Merry Christmas, Blessed Ramadan, Happy Kwanzaa, and the fabulous holiday of your choice to all of you!
 
@@ -284,10 +279,7 @@ The featured artist for this newsletter is [L.A. Malcor](mailto:Legend@malcor.co
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

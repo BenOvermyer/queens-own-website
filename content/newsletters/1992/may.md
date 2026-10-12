@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. V, No. 8\
-May 1992
+## Series 1, Vol. V, No. 8 May 1992
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -48,11 +46,11 @@ Firebird Arts & Music announces that Freedom, Flight and Fantasy is ready now. T
 
 Future Misty-related projects from Firebird are a "Winds of Fate" tape, sung by Tom Payne and Cecilia Eng (with Juanita Coulson as the voice of Need); the Vanyel tape, "Shadowstalker," sung by Larry Warner; a "concordance of the Arrows books, being complied by Buck & Juanita Coulson, a companion tape for "The Lark and the Wren"; and, for "Born to Run, Celtic rock done by Tempest, the back-up band on Drunken Angel.
 
-What is filk? It's folk/country/ethnic/social satire/ballads .... It's many things to many people, but most of us agree, it's ~~ fun! Send for Firebird's catalog of filk, books, collectibles, and other treasures by writing to them at \[Ed. note 2004: Out-of-date contact information withheld.\]
+What is filk? It's folk/country/ethnic/social satire/ballads .... It's many things to many people, but most of us agree, it's ~~ fun! Send for Firebird's catalog of filk, books, collectibles, and other treasures by writing to them at [Ed. note 2004: Out-of-date contact information withheld.]
 
-If you are curious about swords, battle axes, shields, helmets, costumes, etc., write for the catalog of Museum Replicas Limited. Their address is \[Ed. note 2004: Out-of-date contact information withheld.\].
+If you are curious about swords, battle axes, shields, helmets, costumes, etc., write for the catalog of Museum Replicas Limited. Their address is [Ed. note 2004: Out-of-date contact information withheld.].
 
-A good source for simple cotton clothing that can be easily adapted for costuming is Deva Lifewear \[Ed. note 2004: Out-of-date contact information withheld.\].
+A good source for simple cotton clothing that can be easily adapted for costuming is Deva Lifewear [Ed. note 2004: Out-of-date contact information withheld.].
 
 The border on the April newsletter was designed by Becky Kuesters; this issue, by Shelley Henkell. The QO logo at the top of the page is computer-generated.
 
@@ -66,15 +64,15 @@ You can register your persona names with Pat as soon as you start on your requir
 
 ## Convention News:
 
-If you can't attend KeyCon 9, May 15-17 at the Best Western International in Winnipeg but would like to attend a con in Canada, come to Ad Astra in Toronto, June 4-5 at the Toronto Sheridan: Author guests include Katherine Kurtz, Lois McMaster Bujold, and Tanya Huff. Write to \[Ed. note 2004: Out-of-date contact information withheld.\]. Send a self-addressed envelope and an IRC (International Reply Coupon) if writing from outside Canada.
+If you can't attend KeyCon 9, May 15-17 at the Best Western International in Winnipeg but would like to attend a con in Canada, come to Ad Astra in Toronto, June 4-5 at the Toronto Sheridan: Author guests include Katherine Kurtz, Lois McMaster Bujold, and Tanya Huff. Write to [Ed. note 2004: Out-of-date contact information withheld.]. Send a self-addressed envelope and an IRC (International Reply Coupon) if writing from outside Canada.
 
-X-Con Ltd. takes place in the Mart Plaza Hotel in Milwaukee in June. For more information, write to \[Ed. note 2004: Out-of-date contact information withheld.\].
+X-Con Ltd. takes place in the Mart Plaza Hotel in Milwaukee in June. For more information, write to [Ed. note 2004: Out-of-date contact information withheld.].
 
-Gaylaxicon IV bills itself as "a Science Fiction - Fantasy - Horror convention for Gay people and their friends." This year the con is being held July 17-19 in Philadelphia, and Guest of Honor is Tanya Huff. Membership is $25 until June 30. If you are under 18, your parent or guardian must attend with you. For more information, write to Gavlaxicon IV \[Ed. note 2004: Out-of-date contact information withheld.\]. Misty will be GoH next year, at Gaylaxicon V, and this is the only con she plans to attend in 1993. ATTENTION all lucky people in the Dayton, Ohio area: Misty will be doing a book signing at Book People on Friday evening, July 24. The store hopes to have in stock by this time both the paperback version of *Winds of Fate*, and the Misty/Anne McCaffrey collaboration, *The Ship Who Searched*. Attending a book signing is almost as much fun as a convention.
+Gaylaxicon IV bills itself as "a Science Fiction - Fantasy - Horror convention for Gay people and their friends." This year the con is being held July 17-19 in Philadelphia, and Guest of Honor is Tanya Huff. Membership is $25 until June 30. If you are under 18, your parent or guardian must attend with you. For more information, write to Gavlaxicon IV [Ed. note 2004: Out-of-date contact information withheld.]. Misty will be GoH next year, at Gaylaxicon V, and this is the only con she plans to attend in 1993. ATTENTION all lucky people in the Dayton, Ohio area: Misty will be doing a book signing at Book People on Friday evening, July 24. The store hopes to have in stock by this time both the paperback version of *Winds of Fate*, and the Misty/Anne McCaffrey collaboration, *The Ship Who Searched*. Attending a book signing is almost as much fun as a convention.
 
-RiverCon XVII is July 31-August 2 at the Hyatt Regency in Louisville, Kentucky. Misty is Guest of Honor, and membership is only $18 until July 15. This is a fun con in a beautiful town. Write to RiverCon XVII PO \[Ed. note 2004: Out-of-date contact information withheld.\] for registration information.
+RiverCon XVII is July 31-August 2 at the Hyatt Regency in Louisville, Kentucky. Misty is Guest of Honor, and membership is only $18 until July 15. This is a fun con in a beautiful town. Write to RiverCon XVII PO [Ed. note 2004: Out-of-date contact information withheld.] for registration information.
 
-\*\*\*Change of plans: Misty and Larry will not be attending WorldCon in Orlando this fall; their schedule just won't allow them the time off.\*\*\*
+&#42;&#42;&#42;Change of plans: Misty and Larry will not be attending WorldCon in Orlando this fall; their schedule just won't allow them the time off.&#42;&#42;&#42;
 
 ## Collegium News:
 
@@ -86,9 +84,9 @@ Step 2: Roll two six-sided die to determine if you CAN become a Herald-Mage. A t
 
 Step 3: You are now at the Apprentice stage. To earn the rank of Herald-Mage, Hedge-wizard, learn the following stage�magic tricks well enough to fool your friends: Linking Rings, Restoring Cut Rope, Appearing Coins, and a simple Escape Trick. Step 4: To earn the rank of Herald-Mage, Journeyman, first qualify for Hedge-wizard. Then write a 20 page paper on the following subject and submit it to an essay contest or your history teacher for extra credit: analyze the Constitution, without the Amendments, and explain how the Amendments have made the original document work in the modern world. AND learn the following stage-magic tricks: Dancing Handkerchief, Multiplying Coins, Restoring Cut Newspaper, and Escape from Handcuffs.
 
-\*\*There are 2 more steps to Adept class, each one more difficult than the one before. To adopt a Guardian persona, one most first qualify as Herald-Mage, Adept, and then learn even more tricks and write 5 more papers, all of which must be accepted for publication by magazines, not our fanzines. Send a SASE for the complete requirements.
+&#42;&#42;There are 2 more steps to Adept class, each one more difficult than the one before. To adopt a Guardian persona, one most first qualify as Herald-Mage, Adept, and then learn even more tricks and write 5 more papers, all of which must be accepted for publication by magazines, not our fanzines. Send a SASE for the complete requirements.
 
-\*\*SEND A SASE FOR GUIDELINES, FOR BACK ISSUES, FOR ANY QUESTIONS YOU WANT ANSWERED!!!\*\* i'il pay Xeroxing costs, but I resent the time it takes to decipher handwriting and address envelopes. On a more practical note, no, it is not necessary for you make your boots to claim that you have "created" your Herald whites.
+&#42;&#42;SEND A SASE FOR GUIDELINES, FOR BACK ISSUES, FOR ANY QUESTIONS YOU WANT ANSWERED!!!&#42;&#42; i'il pay Xeroxing costs, but I resent the time it takes to decipher handwriting and address envelopes. On a more practical note, no, it is not necessary for you make your boots to claim that you have "created" your Herald whites.
 
 - Welcome, **Herald Darvith**, Chosen by Calistrae and gifted with Mindspeech, Fetching, and Mindhealing. *Jennefer Rogers* sent descriptions of her persona and family, the story of Darvith's early life, a map, two recipes, a costume sketch, and three drawings. Jennefer is co-founder of Mountain Shadow Collegium in Canada.
 - Welcome, **Herald Brenna**, Chosen by the stallion Sasha, and gifted with Mindspeech, Firestarting, and Animal Mindspeech. *Lisa Lynn Best* sent fact sheets on her persona and friends, a story, and two drawings. Lisa Lynn knows the care of horses and is an intermediate level rider, English style.
@@ -100,25 +98,25 @@ Step 3: You are now at the Apprentice stage. To earn the rank of Herald-Mage, He
 - From *Amanda Parsons* comes **Herald Shenefel Wrendesk**, Chosen by Chyrria and gifted with strong Mindspeech and Mindhealing. Amanda sent stories about her persona and friends, proof of her ability to ride with a photo and ribbons, and an illustrated story.
 - Welcome, **Herald Chirala Mallorn**, Chosen by Torrent and gifted with strong Mindspeech and Fetching. *Carla Hall Minor* sent a story about her persona, family information, three poems, three recipes, and a drawing.
 
-Queen's Own doesn't have an official membership button, but we do have our own button machine. If you want a special button to represent your collegium, hall, or guild (or just one for yourself), contact \[Ed. note 2004: Out-of-date contact information withheld; we do have Queen's Own buttons now, thanks to Heartland Arrows: [http://www.marymuse.com/HeartlandArrows/contest.html](http://www.marymuse.com/HeartlandArrows/contest.html)\]. You can send finished artwork (to fit inside a 2" circle) or ask her help in creating your design. Write to Vicki if you have questions, or call her - \[Ed. note 2004: Out-of-date contact information withheld\]. There is no minimum order.
+Queen's Own doesn't have an official membership button, but we do have our own button machine. If you want a special button to represent your collegium, hall, or guild (or just one for yourself), contact [Ed. note 2004: Out-of-date contact information withheld; we do have Queen's Own buttons now, thanks to Heartland Arrows: [http://www.marymuse.com/HeartlandArrows/contest.html](http://www.marymuse.com/HeartlandArrows/contest.html)]. You can send finished artwork (to fit inside a 2" circle) or ask her help in creating your design. Write to Vicki if you have questions, or call her - [Ed. note 2004: Out-of-date contact information withheld]. There is no minimum order.
 
 **MENTORS, WRITER'S CIRCLES, ZINE EDITORS, LOCAL CHAPTERS . . .** Are you still there? New members want to know what's available. I hesitate to give them your addresses when I haven't heard from you recently. Please let me know your status for the June or July newsletter.
 
 ## MENTORS:
 
-Send your questions (with SASE) on all aspects of the Writing Craft to \[Ed. note 2004: Out-of-date contact information withheld\]. A list of publications accepting original SF/Fantasy poetry is available for $2.00 (payable to M.L. Janssen) & SASE.
+Send your questions (with SASE) on all aspects of the Writing Craft to [Ed. note 2004: Out-of-date contact information withheld]. A list of publications accepting original SF/Fantasy poetry is available for $2.00 (payable to M.L. Janssen) & SASE.
 
-From *Heather Lantz* to all who have sent inquiries on Star Trek: I will be in contact with you very soon! Sorry! My address for the summer is \[Ed. note 2004: Out-of-date contact information withheld\].
+From *Heather Lantz* to all who have sent inquiries on Star Trek: I will be in contact with you very soon! Sorry! My address for the summer is [Ed. note 2004: Out-of-date contact information withheld].
 
 ### News from Club Members
 
-A very few copies of *Arrow's Message Vol. 3 #1*, featuring the complete version of Kiri Namtvedt's "BURNING BLOOD" are still available. *Vol. 3 #2* is planned for release June 15. It features stories by Catherine Faber, Kirir Namtvedt, Joe Sehl, and Elizabeth Weaver. Subscriptions are $4 an issue or $15 annually (4 issues, each approximately 40 pages). Send subscription money or a SASE for guidelines to Stephanie Wong \[Ed. note 2004: Out-of-date contact information withheld\]. (New address)
+A very few copies of *Arrow's Message Vol. 3 #1*, featuring the complete version of Kiri Namtvedt's "BURNING BLOOD" are still available. *Vol. 3 #2* is planned for release June 15. It features stories by Catherine Faber, Kirir Namtvedt, Joe Sehl, and Elizabeth Weaver. Subscriptions are $4 an issue or $15 annually (4 issues, each approximately 40 pages). Send subscription money or a SASE for guidelines to Stephanie Wong [Ed. note 2004: Out-of-date contact information withheld]. (New address)
 
-The Southern Hall of Heralds is alive and well and welcomes any and all inquiries on room vacancies(?) and other important trivia. For a copy of the most recent issue of *Southern Arrow*, please send greetings and a SASE to SHOH c/o S. Ananavo & T. Nesbit. Eds.\[Ed. note 2004: Out-of-date contact information withheld\].
+The Southern Hall of Heralds is alive and well and welcomes any and all inquiries on room vacancies(?) and other important trivia. For a copy of the most recent issue of *Southern Arrow*, please send greetings and a SASE to SHOH c/o S. Ananavo & T. Nesbit. Eds.[Ed. note 2004: Out-of-date contact information withheld].
 
-*Attention VA/MD/DC 00'ers* (and anyone else interested): We are finally organized! Introductory letters will be available after May third. The first newsletter will be out by the first weekend of June. The intro letter tells you specifically what we need help with. No SASE is needed for the intro. Write to Lavina CheunY \[Ed. note 2004: Out-of-date contact information withheld\] or call her at \[Ed. note 2004: Out-of-date contact information withheld\].
+*Attention VA/MD/DC 00'ers* (and anyone else interested): We are finally organized! Introductory letters will be available after May third. The first newsletter will be out by the first weekend of June. The intro letter tells you specifically what we need help with. No SASE is needed for the intro. Write to Lavina CheunY [Ed. note 2004: Out-of-date contact information withheld] or call her at [Ed. note 2004: Out-of-date contact information withheld].
 
-From *Heather Lantz* \[Ed. note 2004: Out-of-date contact information withheld\] *to everyone:* My home address \[Ed. note 2004: Out-of-date contact information withheld\] will be in effect from May 23 to September 1. Please do not send mail to the college address in the fall; I will be living off-campus. To all Colle�ia's Tapestry (New England QO Chapter) members: The first issue of the newsletter will DEFINITELY be out in June. I've been backlogged with school work as usual. Also - some members have sent in their information sheets but not their dues- please send them to me ASAP! I'm still looking for artwork for the newsletter(and letterhead) and submissions for the newsletter (puleeze? I really can't draw and I'm 50% better at editing than writing.) *Collegia's Tapestry*, serving the New England area, is looking for more members. Membership is $S (payable to Heather Lantz) or equivalent in stamps. You receive the bi-monthly newsletter and the pen pal directory. For more information, please send a large SASE to *Heather Lantz* \[Ed. note 2004: Out-of-date contact information withheld\].
+From *Heather Lantz* [Ed. note 2004: Out-of-date contact information withheld] *to everyone:* My home address [Ed. note 2004: Out-of-date contact information withheld] will be in effect from May 23 to September 1. Please do not send mail to the college address in the fall; I will be living off-campus. To all Colle�ia's Tapestry (New England QO Chapter) members: The first issue of the newsletter will DEFINITELY be out in June. I've been backlogged with school work as usual. Also - some members have sent in their information sheets but not their dues- please send them to me ASAP! I'm still looking for artwork for the newsletter(and letterhead) and submissions for the newsletter (puleeze? I really can't draw and I'm 50% better at editing than writing.) *Collegia's Tapestry*, serving the New England area, is looking for more members. Membership is $S (payable to Heather Lantz) or equivalent in stamps. You receive the bi-monthly newsletter and the pen pal directory. For more information, please send a large SASE to *Heather Lantz* [Ed. note 2004: Out-of-date contact information withheld].
 
 ## From Herald Housemother:
 
@@ -132,23 +130,21 @@ The good news is that by September of this year I hope to be settled in South Je
 
 ## Fan Messages
 
-\[Ed. Note 2004: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2004: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
-\[Ed. Note 2004: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.\]
+[Ed. Note 2004: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.]
 
-\[Ed. note 2004: Out-of-date subscription information withheld.\]
+[Ed. note 2004: Out-of-date subscription information withheld.]
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: \[Ed. note 2004: Out-of-date information withheld.\]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: [Ed. note 2004: Out-of-date information withheld.]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2004: Out-of-date information withheld.\]\
-Archivist and Organizer *extraordinaire*--Patricia Riggs \[Ed. note 2004: Out-of-date information withheld.\]\
-Mailing Day Helpers (last issue)--Suzanne Brenner, Frank Burkhead, Ana Casacuberta, Patti Hemeleski, Sharo Cris Martins, Joanne Mattern, and Sarah Meng.
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2004: Out-of-date information withheld.] Archivist and Organizer *extraordinaire*--Patricia Riggs [Ed. note 2004: Out-of-date information withheld.] Mailing Day Helpers (last issue)--Suzanne Brenner, Frank Burkhead, Ana Casacuberta, Patti Hemeleski, Sharo Cris Martins, Joanne Mattern, and Sarah Meng.
 
-Last month we asked "If your Companion stands on your foot, is that close Companionship?" Patti H\[Ed. note 2004: Original Copy unreadable.\] wants to know "If a Companion stomps on your foot are you a \`defeeted' Herald?"
+Last month we asked "If your Companion stands on your foot, is that close Companionship?" Patti H[Ed. note 2004: Original Copy unreadable.] wants to know "If a Companion stomps on your foot are you a &#96;defeeted' Herald?"
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -160,10 +156,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

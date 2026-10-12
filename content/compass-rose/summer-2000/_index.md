@@ -23,7 +23,7 @@ canonical_path = "/compass-rose/summer-2000/"
 
 ## Summer 2000
 
-ISSN \[Pending\]
+ISSN [Pending]
 
 ---
 
@@ -116,9 +116,7 @@ All artwork on this site is copyrighted to the credited artist, and permission m
 
 Webdesign for this issue by [L.A. Malcor](mailto:Legend@malcor.com).
 
-Linda A. Malcor, Publisher\
-Aliso Viejo, CA\
-USA
+Linda A. Malcor, Publisher Aliso Viejo, CA USA
 
 ©2000 *The Compass Rose*. All rights reserved.
 
@@ -126,5 +124,4 @@ USA
 
 © *The Compass Rose* 2000. All rights reserved.
 
-\
-<a href="http://leader.linkexchange.com/25/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/25/X513002/showlogo?" style="width:468px; height:16px"/></a>\
+<a href="http://leader.linkexchange.com/25/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/25/X513002/showlogo?" style="width:468px; height:16px"/></a>

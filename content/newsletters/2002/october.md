@@ -20,17 +20,15 @@ date_precision = "month"
 
 The Official Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 3, Vol. 3, No. 10\
-October 1, 2002
+## Series 3, Vol. 3, No. 10 October 1, 2002
 
 <img alt="Cat Leisure by Gibel Encarnacion" class="float-center border-5" loading="lazy" src="/qo132.jpg"/>
 
 Heyla, Misty fans!
 
-Can you believe that this is the thirtieth newsletter that we�ve put out since we became the co-Presidents of Queen�s Own?! Our monthly newsletter is now sent out to 118 people (up a bit from the couple dozen or so we started out with \<g>). In this issue we welcome four more members, which brings us to a total of 574 approved personae! We have at least half a dozen more pending approval, and there are several dozen folks on the Pending List who are hard at work creating their personae.
+Can you believe that this is the thirtieth newsletter that we�ve put out since we became the co-Presidents of Queen�s Own?! Our monthly newsletter is now sent out to 118 people (up a bit from the couple dozen or so we started out with &lt;g>). In this issue we welcome four more members, which brings us to a total of 574 approved personae! We have at least half a dozen more pending approval, and there are several dozen folks on the Pending List who are hard at work creating their personae.
 
 We are seeing a lot of interest from overseas. We have a new QO chapter forming in Germany. We will let you know as soon as we have contact information and a working URL for this new organization. Unfortunately, Austral�a�in, our Australian chapter of QO, is about to publish its final issue. Is anyone interested in adopting this excellent organization, which Cassandra Vuksa has run so well for so many years? If so, please contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
 
@@ -145,7 +143,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Alabama
 
-**CON\*STELLATION XXI: PAVO.** Website: [http://www.con-stellation.org/. E-mail:](http://www.con-stellation.org/)[constell@con-stellation.org](mailto:constell@con-stellation.org). Address: Tom Bevill Center, Huntsville, Alabama. Dates: 10/18/02 - 10/20/02.
+**CON&#42;STELLATION XXI: PAVO.** Website: [http://www.con-stellation.org/. E-mail:](http://www.con-stellation.org/)[constell@con-stellation.org](mailto:constell@con-stellation.org). Address: Tom Bevill Center, Huntsville, Alabama. Dates: 10/18/02 - 10/20/02.
 
 ### California
 
@@ -167,7 +165,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Illinois
 
-**ARCHON 26.** Website: [http://www.stlf.org/archon/](http://www.stlf.org/archon/). E-mail: [archon\_hotline@zellich.net](mailto:archon_hotline@zellich.net). Address: Holiday Inn and Gateway Center, Collinsville, Illinois. Dates: 10/4/02 - 10/6/02.
+**ARCHON 26.** Website: [http://www.stlf.org/archon/](http://www.stlf.org/archon/). E-mail: [archon_hotline@zellich.net](mailto:archon_hotline@zellich.net). Address: Holiday Inn and Gateway Center, Collinsville, Illinois. Dates: 10/4/02 - 10/6/02.
 
 ### Iowa
 
@@ -239,7 +237,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Oklahoma
 
-**CONTACT SCIENCE FICTION/FANTASY GAMING & COMICS CONVENTION.** Website: [http://pages.sbcglobal.net/raging\_wolf/](http://pages.sbcglobal.net/raging_wolf/), E-mail: [nahimana\_tala@sbcglobal.net](mailto:nahimana_tala@sbcglobal.net), Address: Econo Lodge, Tulsa, Oklahoma, Dates: 10/11/02 - 10/13/02,
+**CONTACT SCIENCE FICTION/FANTASY GAMING & COMICS CONVENTION.** Website: [http://pages.sbcglobal.net/raging_wolf/](http://pages.sbcglobal.net/raging_wolf/), E-mail: [nahimana_tala@sbcglobal.net](mailto:nahimana_tala@sbcglobal.net), Address: Econo Lodge, Tulsa, Oklahoma, Dates: 10/11/02 - 10/13/02,
 
 ### Pennsylvania
 
@@ -309,7 +307,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Italy
 
-**MOONBOUND III.** Website: [http://mario.lapam.org/Moonbase99/](http://mario.lapam.org/Moonbase99/). E-mail: [moonbase\_99@libero.it](mailto:moonbase_99@libero.it). Address: Europe Palace, Modena, Italy. Dates: 10/12/02 - 10/13/02.
+**MOONBOUND III.** Website: [http://mario.lapam.org/Moonbase99/](http://mario.lapam.org/Moonbase99/). E-mail: [moonbase_99@libero.it](mailto:moonbase_99@libero.it). Address: Europe Palace, Modena, Italy. Dates: 10/12/02 - 10/13/02.
 
 ### New Zealand
 
@@ -339,7 +337,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [/golden-grove/](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald\_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [/vanyel-fan-club/](/vanyel-fan-club/). Note: The VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) for more details. We hope to announce the winner in the December 2002 edition of the QO newsletter.
 
 ### Zines and Newsletters:
 
@@ -392,23 +390,23 @@ Welcome back! If you are a returning member who has recently activated your memb
 
 ### Lost . . .
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move \<g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
-- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)\
-- Herald Cateryna Cyray (KimChrist@Home.com)\
-- Herald Deborah (sjupiterdebi@home.com)\
-- Herald Ian Hawkwood (ianhawke1@aol.com)\
-- Herald Kendryl Shadowwolf (kscarpat@altavista.com)\
-- Herald Lisbeth Maye (wizardshome@hotmail.com)\
-- Herald Miracle Oceanfire (rhyme\_reason@hotmail.com>)\
-- Healer Adept Sierra k'Treva (katsanders@buffymail.com)\
-- Herald Trieenia Featherfire (sylverstorme@aol.com)\
-- Bard Valiena (laughsong@aol.com)\
-- Healer Tamesin na Coille (minke13@earthlink.net)\
-- Herald Alia Melyngar (aliamelyngar@aol.com)\
-- Herald-Mage Apprentice Kadia Linder (kadia@aol.com)\
-- Herald Gwendolyn Katran (ladykent@wildmail.com)\
-- Herald Liana Firelan (krbertke@bertke.com)\
+- Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
+- Herald Cateryna Cyray (KimChrist@Home.com)
+- Herald Deborah (sjupiterdebi@home.com)
+- Herald Ian Hawkwood (ianhawke1@aol.com)
+- Herald Kendryl Shadowwolf (kscarpat@altavista.com)
+- Herald Lisbeth Maye (wizardshome@hotmail.com)
+- Herald Miracle Oceanfire (rhyme_reason@hotmail.com>)
+- Healer Adept Sierra k'Treva (katsanders@buffymail.com)
+- Herald Trieenia Featherfire (sylverstorme@aol.com)
+- Bard Valiena (laughsong@aol.com)
+- Healer Tamesin na Coille (minke13@earthlink.net)
+- Herald Alia Melyngar (aliamelyngar@aol.com)
+- Herald-Mage Apprentice Kadia Linder (kadia@aol.com)
+- Herald Gwendolyn Katran (ladykent@wildmail.com)
+- Herald Liana Firelan (krbertke@bertke.com)
 - Herald Kalendel (itsmyage@aol.com)
 
 If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
@@ -419,7 +417,7 @@ Heyla!
 
 My life turned into a real zoo this September, between my eldest son starting Kindergarten and my mother moving to a new condo! I�ve added PTA, Soccer, Y-Guides, School Fundraisers, homework (Yes, they do have homework in Kindergarten these days.), Back-to-School Night, Classroom Volunteer time and a bunch of other stuff to my already overloaded schedule. My asthma had taken a real turn for the worse, what with all the local forest fires, but the recent rain has improved our air quality-any my health-dramatically. I apologize for being so slow about responding to those of you who have contacted us, and I truly wish I had more time to code material for QO�s website. Without Moonstar to watch my kids anymore, though, things are simply going to be a bit slower getting online. (Is anyone in Southern California who could come visit for a few hours now and then and watch my kids while I code? If so, contact me at [Legend@malcor.com](mailto:Legend@malcor.com).)
 
-In spite of the chaos around here, I�ve actually been making some significant progress with my research about Lucius Artorius Castus, the man who I think was the historical King Arthur. I�m now in touch with an antiquities dealer in Florida who may have a piece of Castus�s grandfather�s sarcophagus and more information on the family villa in Campania. Perhaps it�s a good thing that I�ve been delayed in finishing Castus�s biography. The recent finds have added a lot of certainty to what I can say about this second-century Roman officer. I now have more than enough material to put together the biography-when I get a chance to sit and write \<g>.
+In spite of the chaos around here, I�ve actually been making some significant progress with my research about Lucius Artorius Castus, the man who I think was the historical King Arthur. I�m now in touch with an antiquities dealer in Florida who may have a piece of Castus�s grandfather�s sarcophagus and more information on the family villa in Campania. Perhaps it�s a good thing that I�ve been delayed in finishing Castus�s biography. The recent finds have added a lot of certainty to what I can say about this second-century Roman officer. I now have more than enough material to put together the biography-when I get a chance to sit and write &lt;g>.
 
 I finally cleared enough of the "To-Be-Read" material off my nightstand that I have plenty of room for *Exile�s Honor* when it arrives "G". I�ve already enjoyed reading the sample chapters online, and I can�t wait to read the rest of the book!
 
@@ -458,10 +456,7 @@ The featured artist for this newsletter is [Gibel Encarnacion](mailto:gibelmaria
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

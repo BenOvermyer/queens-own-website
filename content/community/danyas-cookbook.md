@@ -22,11 +22,11 @@ canonical_path = "/danyas-cookbook/"
 
 ### (Revised 10/30/98)
 
-\ \ ## Copyright Notices\\ \ Herald Danya is L.A. Malcor's persona in [Queen's Own](/danya-winterborn/#Herald), the official Mercedes Lackey fanclub. The recipes in this collection were designed in partial fulfillment of the [Queen's Own](/) requirements for the rank of [Herald](https://dragonlords.fans/danyahh.htm). These recipes are copyright L.A. Malcor 1996 and may not be duplicated in any form without her permission.\ \ The information on this page is intended solely for the enjoyment of fans of the Mercedes Lackey. It is not intended to infringe in any way upon the rights held by her.\ \ \
+## Copyright Notices Herald Danya is L.A. Malcor's persona in [Queen's Own](/danya-winterborn/#Herald), the official Mercedes Lackey fanclub. The recipes in this collection were designed in partial fulfillment of the [Queen's Own](/) requirements for the rank of [Herald](https://dragonlords.fans/danyahh.htm). These recipes are copyright L.A. Malcor 1996 and may not be duplicated in any form without her permission. The information on this page is intended solely for the enjoyment of fans of the Mercedes Lackey. It is not intended to infringe in any way upon the rights held by her.
 
 <img alt="" loading="lazy" src="/barflow.gif"/>
 
-\ ## Notes on the Collection\
+## Notes on the Collection
 
 When Danya was still a Herald-to-be, she and Bard Kestran were severely limited in the ingredients they could actually use. Spicing depended on what was available. Oil could have been produced from nuts or similar sources, or animal fat or butter substituted. The only flours they probably had were nut or potato flour; wheat flour would have been available in Haven where Bard Kestran originally acquired some of these recipes. Danya and Kestran only had goat cheese (and other dairy products, for that matter), but other cooks may find milder cheeses more to their taste. All of these recipes can be cooked in a wood-burning oven/stove or over a campfire, but results are probably better in ovens such as those available to the cooks at the Collegium.
 
@@ -67,9 +67,9 @@ When Danya was still a Herald-to-be, she and Bard Kestran were severely limited 
 
 <img alt="" loading="lazy" src="/barflow.gif"/>
 
-<a id="appetize"></a> \ ## Appetizers\
+<a id="appetize"></a> ## Appetizers
 
-<a id="apc"></a> \ ### Potato Cakes\
+<a id="apc"></a> ### Potato Cakes
 
 Servings: 6
 
@@ -117,7 +117,7 @@ Heat oil in large skillet over medium high heat. When hot, put about 2 tablespoo
 
 <img alt="" loading="lazy" src="/barholly.gif"/>
 
-<a id="aps"></a> \ ### Potato Skins\
+<a id="aps"></a> ### Potato Skins
 
 Servings: 6
 
@@ -154,9 +154,9 @@ Broil for 4 minutes. (Same effect can be achieved by cooking in oven at a low te
 
 <img alt="" loading="lazy" src="/barflow.gif"/>
 
-<a id="soup"></a> \ ## Soups\
+<a id="soup"></a> ## Soups
 
-<a id="sps"></a> \ ### Potato Soup\
+<a id="sps"></a> ### Potato Soup
 
 Servings: 4
 
@@ -225,7 +225,7 @@ Ladle into soup bowls, and sprinkle with chopped parsley.
 
 <img alt="" loading="lazy" src="/barholly.gif"/>
 
-<a id="srgs"></a> \ ### Roasted Garlic Soup\
+<a id="srgs"></a> ### Roasted Garlic Soup
 
 Servings: 8
 
@@ -330,7 +330,7 @@ In large skillet, heat half of oil over medium-high heat (add more oil or butter
 
 <img alt="" loading="lazy" src="/barholly.gif"/>
 
-<a id="bpd"></a> \ ### Potato Dumplings\
+<a id="bpd"></a> ### Potato Dumplings
 
 Servings: 4
 
@@ -373,9 +373,9 @@ Roll each dumpling in flour and drop into rapidly boiling water. Cover and cook 
 
 <img alt="" loading="lazy" src="/barflow.gif"/>
 
-<a id="main"></a> \ ## Main Dishes\
+<a id="main"></a> ## Main Dishes
 
-<a id="mgp"></a> \ ### Garlic Potatoes\
+<a id="mgp"></a> ### Garlic Potatoes
 
 Servings: 4
 
@@ -401,7 +401,7 @@ Boil whole or quartered potatoes for 5 minutes. Roast potatoes, smeared with oil
 
 <img alt="" loading="lazy" src="/barholly.gif"/>
 
-<a id="mpp"></a> \ ### Potato Pancakes\
+<a id="mpp"></a> ### Potato Pancakes
 
 Servings: 4 (1 dozen)
 
@@ -525,7 +525,7 @@ Sprinkle with bacon, and serve hot from skillet.
 
 <img alt="" loading="lazy" src="/barholly.gif"/>
 
-<a id="mtbp"></a> \ ### Twice-Baked Potatoes\
+<a id="mtbp"></a> ### Twice-Baked Potatoes
 
 Servings: 2
 
@@ -578,9 +578,9 @@ Place filled skins in shallow baking dish. Bake at 350 (medium oven) until chees
 
 <img alt="" loading="lazy" src="/barflow.gif"/>
 
-<a id="side"></a> \ ## Side Dishes\
+<a id="side"></a> ## Side Dishes
 
-<a id="sbp"></a> \ ### Baked Potatoes\
+<a id="sbp"></a> ### Baked Potatoes
 
 Servings: 4
 
@@ -667,7 +667,7 @@ Uncover and bake an additional 15 minutes or until slightly browned on top. Let 
 
 <img alt="" loading="lazy" src="/barholly.gif"/>
 
-<a id="spp"></a> \ ### Parsleyed Potatoes\
+<a id="spp"></a> ### Parsleyed Potatoes
 
 Servings: 5
 
@@ -743,7 +743,7 @@ Bake 20 minutes then reduce heat to 350 (medium) and bake 50 to 60 minutes longe
 
 <img alt="" loading="lazy" src="/barholly.gif"/>
 
-<a id="ssph"></a> \ ### Scalloped Potatoes with Herbs\
+<a id="ssph"></a> ### Scalloped Potatoes with Herbs
 
 Servings: 8
 
@@ -817,9 +817,8 @@ Remove potatoes from oven. Sprinkle with reserved leeks. Sprinkle top with crumb
 
 <img alt="" loading="lazy" src="/barflow.gif"/>
 
-\
-<a href="http://leader.linkexchange.com/20/X513002/clicklogo" target="_top"> <img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/20/X513002/showlogo?" style="width:468px; height:16px"/></a>\
+<a href="http://leader.linkexchange.com/20/X513002/clicklogo" target="_top"> <img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/20/X513002/showlogo?" style="width:468px; height:16px"/></a>
 
 <img alt="" loading="lazy" src="/bardrgn2.gif"/>
 
-[<img alt="" class="float-center" loading="lazy" src="/butback.gif"/>Return to Danya Winterborn's Page](https://dragonlords.fans/index.htm)\ \
+[<img alt="" class="float-center" loading="lazy" src="/butback.gif"/>Return to Danya Winterborn's Page](https://dragonlords.fans/index.htm)

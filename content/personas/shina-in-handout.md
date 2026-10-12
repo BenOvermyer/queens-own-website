@@ -21,8 +21,7 @@ canonical_path = "/shina-in-handout/"
 
 Distributed by:
 
-### Queen's Own\
-The Official Mercedes Lackey Fan Club
+### Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -88,7 +87,7 @@ Determine your Position within the clan by rolling one six-sided die.
 </tr>
 </table>
 
-\*If you roll a result of Clan Member, please specify your role: artisan, blacksmith, herdsman, horse trainer, food gatherer, weaver, potter, drummer, or some other suitable job.
+&#42;If you roll a result of Clan Member, please specify your role: artisan, blacksmith, herdsman, horse trainer, food gatherer, weaver, potter, drummer, or some other suitable job.
 
 <img alt="" loading="lazy" src="/bargrass.gif"/>
 

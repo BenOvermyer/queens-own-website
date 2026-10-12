@@ -21,8 +21,7 @@ canonical_path = "/priest-and-priestess-handout/"
 
 Distributed by:
 
-### Queen's Own\
-The Official Mercedes Lackey Fan Club
+### Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -34,7 +33,7 @@ Develop a character (your persona--Who would you be if you could daydream yourse
 
 This is a biography. Describe your persona's physical and emotional characteristics, likes and dislikes, whatever makes you uniquely you. You may use first or third person.
 
-Remember, to write about your persona before s/he joined his/her religious order. Priests and Priestesses choose the religion in which they will train (or their deity chooses them, depending on how you want to look at it \<g>); they are not born in their office. (10 points)
+Remember, to write about your persona before s/he joined his/her religious order. Priests and Priestesses choose the religion in which they will train (or their deity chooses them, depending on how you want to look at it &lt;g>); they are not born in their office. (10 points)
 
 <img alt="" loading="lazy" src="/sun2.gif"/>
 

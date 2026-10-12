@@ -22,27 +22,17 @@ Danya Winterborn's Page
 
 <a href="/pacific-northwest-collegium/"><img alt="Danya Winterborn" loading="lazy" src="/cc3a.gif"/></a>
 
-\ \
-
-Terrill Choosing Danya\
-by\
-[Laura Cameron](/pacific-northwest-collegium/)
-
-\ \
+Terrill Choosing Danya by [Laura Cameron](/pacific-northwest-collegium/)
 
 (Page Revised 7/19/08)
 
-\ \ <table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%"> <tr> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#cchron">Fan Fiction</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#spells">Magic</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#books">Mercedes Lackey's Books</a></td> </tr> <tr> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#rings">Mercedes Lackey Webrings</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#links">Misty Links</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#movie">Movie Project</a></td> </tr> <tr> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/">Queen's Own</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#recipes">Recipes</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#trivia">Trivia</a></td> </tr> </table>\ \
+<table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%"> <tr> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#cchron">Fan Fiction</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#spells">Magic</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#books">Mercedes Lackey's Books</a></td> </tr> <tr> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#rings">Mercedes Lackey Webrings</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#links">Misty Links</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#movie">Movie Project</a></td> </tr> <tr> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/">Queen's Own</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#recipes">Recipes</a></td> <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#trivia">Trivia</a></td> </tr> </table>
 
 <img alt="" loading="lazy" src="/barholly.gif"/>
 
 <a href="/pacific-northwest-collegium/"><img alt="Yarik" loading="lazy" src="/cc8a.gif"/></a>
 
-\ \
-
-Herald Yarik Rafton in the Companions' Field\
-by\
-[Laura Cameron](/pacific-northwest-collegium/)
+Herald Yarik Rafton in the Companions' Field by [Laura Cameron](/pacific-northwest-collegium/)
 
 This section is dedicated to the works of Mercedes Lackey. The purpose of this fan page is to promote Misty's Valdemar and other series. The information contained here is intended solely for the enjoyment of Valdemar fans everywhere. It is not intended to infringe in any way upon the rights held by Mercedes Lackey. Cover art images on this page are used by permission from [Amazon.com](http://www.amazon.com) for the purpose of linking to a site where you can buy these books. Absolutely no duplication is permitted.
 
@@ -54,16 +44,11 @@ Danya Winterborn is my (L.A. Malcor's) [Queen's Own](/)-approved persona. So far
 
 <img alt="" loading="lazy" src="/barflow.gif"/>
 
-<a id="cchron"></a> \ ## Fan Fiction\
+<a id="cchron"></a> ## Fan Fiction
 
 <a href="/pacific-northwest-collegium/"><img alt="Danya, Yarik and Kaylan" loading="lazy" src="/cc10a.gif"/></a>
 
-\ \
-
-Herald-Trainee Danya Winterborn\
-with Heralds Yarik Rafton and Kaylan Elderwood\
-by\
-[Laura Cameron](/pacific-northwest-collegium/)
+Herald-Trainee Danya Winterborn with Heralds Yarik Rafton and Kaylan Elderwood by [Laura Cameron](/pacific-northwest-collegium/)
 
 So far, I have completed five stories about Danya's adventures. [Releases](/release-form-instructions/) have been filed with High Flight. The tales have been published in the following 'zines:
 
@@ -81,9 +66,9 @@ For a listing of places where you can send your own Valdemar fan fiction as well
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-\ <a id="trivia"></a> ## Trivia\
+<a id="trivia"></a> ## Trivia
 
-Here's some fun stuff I cobbled together while procrastinating on my latest writing project \<g>.
+Here's some fun stuff I cobbled together while procrastinating on my latest writing project &lt;g>.
 
 - [List of Heralds and Companions](/heralds-and-companions/)
 - [List of Reincarnated Characters](/reincarnated-characters/)
@@ -93,7 +78,7 @@ Here's some fun stuff I cobbled together while procrastinating on my latest writ
 
 <img alt="" loading="lazy" src="/bargrass.gif"/>
 
-\ <a id="spells"></a> ## Magic\
+<a id="spells"></a> ## Magic
 
 This section is devoted to magic, some of it on Misty's world of Velgarth, some of it not. Most of the information in these pages has been compiled while Danya works on advancing in rank as a Herald-Mage. (Unless otherwise designated, the section on magic is from the *fictional* world of Velgarth.)
 
@@ -108,7 +93,7 @@ This section is devoted to magic, some of it on Misty's world of Velgarth, some 
 
 <img alt="" loading="lazy" src="/barstar.gif"/>
 
-\ <a id="movie"></a> ## The Infamous Movie Project\
+<a id="movie"></a> ## The Infamous Movie Project
 
 Every fandom I've ever been a part of has, at one time or another, had fun with coming up with a "dream" cast to play the characters in beloved books. This endeavor is just for fun and is in no way intended to be serious. As far as I know, the movie rights belong to Misty, and there I imagine they shall remain until a real producer with real money decides to take on the project. The main benefit of this exercise, as I see it, is to compare the visions of characters as the author has managed to create them in our heads with images that we all know from the magical offerings of the big screen that have so enchanted us over the years. This particular version of the project was initiated by the [The Vanyel Fan Club](/vanyel-fan-club/) so the chosen books happen to be from Misty's Herald Mage Trilogy.
 
@@ -161,15 +146,11 @@ In The Valdemar Companion Misty registers her own votes for the Dream Cast list 
 
 <img alt="" loading="lazy" src="/barstar.gif"/>
 
-\ <a id="recipes"></a> ## Recipes\
+<a id="recipes"></a> ## Recipes
 
 <a href="/pacific-northwest-collegium/"><img alt="Danya and Bard Kestran" loading="lazy" src="/cc2a.gif"/></a>
 
-\ \
-
-Danya and Bard Kestran\
-by\
-[Laura Cameron](/pacific-northwest-collegium/)
+Danya and Bard Kestran by [Laura Cameron](/pacific-northwest-collegium/)
 
 The recipe booklet available through these links was part of my project to qualify Danya for [Queen's Own](/). The recipes in it were developed solely by me, and I hold the copyright to them. These files are offered to Internet users free of charge under the following conditions: Internet users may maintain one electronic copy and one print copy of the file for use by members of the user's household. Permission to otherwise duplicate or "lend" any of these files without my written consent is expressly denied.
 
@@ -180,13 +161,13 @@ In my character's backstory, she grew up in an area that could grow very little 
 
 <img alt="" loading="lazy" src="/barcastl.gif"/>
 
-\ <a id="books"></a> ## Mercedes Lackey's Books\
+<a id="books"></a> ## Mercedes Lackey's Books
 
 [Click here](/valdemar-timeline/) to see the timeline for the order of the books.
 
 <img alt="" loading="lazy" src="/barlinks.gif"/>
 
-\ <a id="links"></a> ## Misty Links\
+<a id="links"></a> ## Misty Links
 
 Here are links of interest to fans of the Valdemar series.
 
@@ -234,7 +215,7 @@ If you know of a link you would like me to add, message me at [Legend@malcor.com
 
 <img alt="" loading="lazy" src="/rainbar.gif" style="width:800px; height:7px"/>
 
-\ <a id="rings"></a> ## Webrings\
+<a id="rings"></a> ## Webrings
 
 The following webrings are Valdemar-related.
 
@@ -260,18 +241,11 @@ site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href=
 
 <a href="http://www.geocities.com/Area51/Vault/5297/ringhome.html"> <img alt="" class="float-left" loading="lazy" src="http://www.geocities.com/Area51/Vault/5297/circle.jpg" style="width:100px; height:115px"/></a> <a href="http://www.webring.org/cgi-bin/webring?ring=vanyelring&amp;id=27&amp;next"> <img alt="" class="float-right" loading="lazy" src="http://www.geocities.com/Area51/Vault/5297/circle2.jpg" style="width:100px; height:115px"/></a>
 
-This site is part of the [Heraldic Circle](http://www.geocities.com/Area51/Vault/5297/ringhome.html)\
-and is owned by [L.A. Malcor](mailto:Legend@malcor.com).\
-\
-Click for the \[ [Next Page](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&next) | [Skip It](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&skip) | [Previous](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&prev) | [Next Five](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&next5)\]\
-\
-Want to join the Circle?\
-Click here for [info](http://www.geocities.com/Area51/Vault/5297/ringhome.html).\
-\
+This site is part of the [Heraldic Circle](http://www.geocities.com/Area51/Vault/5297/ringhome.html) and is owned by [L.A. Malcor](mailto:Legend@malcor.com). Click for the [ [Next Page](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&next) | [Skip It](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&skip) | [Previous](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&prev) | [Next Five](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&next5)] Want to join the Circle? Click here for [info](http://www.geocities.com/Area51/Vault/5297/ringhome.html).
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-\<noscript><table class="border-2 cellspacing-0" style="background-color:gray"><tr> <td><table class="cellpadding-2 cellspacing-0"><tr><td class="align-center"> This site is a member of WebRing. <br/>To browse visit <a href="http://ss.webring.com/navbar?f=l;y=shashtah;u=10152152"> Here</a>.</td></tr></table></td></tr></table>
+&lt;noscript><table class="border-2 cellspacing-0" style="background-color:gray"><tr> <td><table class="cellpadding-2 cellspacing-0"><tr><td class="align-center"> This site is a member of WebRing. <br/>To browse visit <a href="http://ss.webring.com/navbar?f=l;y=shashtah;u=10152152"> Here</a>.</td></tr></table></td></tr></table>
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -289,7 +263,6 @@ Click here for [info](http://www.geocities.com/Area51/Vault/5297/ringhome.html).
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-\
-<a href="http://leader.linkexchange.com/12/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/12/X513002/showlogo?" style="width:468px; height:16px"/></a>\
+<a href="http://leader.linkexchange.com/12/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/12/X513002/showlogo?" style="width:468px; height:16px"/></a>
 
 <img alt="" loading="lazy" src="/bardrgn2.gif"/>

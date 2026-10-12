@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. X, No. 7\
-May 1997
+## Series 1, Vol. X, No. 7 May 1997
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own are Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
@@ -46,97 +44,97 @@ Dear Misty Fans,
 
 And the next Valdemar book will be--*Brightly Burning*, the story of Herald Lavan Firestorm. Sorry folks, you'll have to wait at least a year for this one. Coming this fall from Baen is *Four and Twenty Blackbirds*, a Bardic Voices book.
 
-Mark Shepherd is a transplanted Tampa Florida native who now resides in Tulsa, Oklahoma with Misty and Larry.He collaborated with Misty on *Wheels of Fire* (SERRAted Edge series) and *Prison of Souls* (Bard's Tale), and is the author of *Elvendude*. His latest book, *Spiritride*, is in bookstores now and has a companion album by the same name of electronic music composed and played by Mark. Both album and book are available from Firebiord Arts & Music. Look for Mark at Dragon\*Con.
+Mark Shepherd is a transplanted Tampa Florida native who now resides in Tulsa, Oklahoma with Misty and Larry.He collaborated with Misty on *Wheels of Fire* (SERRAted Edge series) and *Prison of Souls* (Bard's Tale), and is the author of *Elvendude*. His latest book, *Spiritride*, is in bookstores now and has a companion album by the same name of electronic music composed and played by Mark. Both album and book are available from Firebiord Arts & Music. Look for Mark at Dragon&#42;Con.
 
-Because of an increase in the cost of postage, printing, and paper, Firebird is charging \[Ed. note 2005: Out-of-date info withheld.\]. To stay on their mailing list, just place an order. Now is a good time to add to your T-shirt collection. Firebird has Silver Gryphon, Skandranon as Black Gryphon and White Gryphon, Companion, Fairgrove Industries, and Feathered Serpent T-shirts, all designed by Larry and Misty. THere are needlepoint patterns for the Silver Gryphon and Valdemar Crest adn a doll-sized pattern for Shin'a'in "casual wear" complete wtih 12 pages of notes and instructions adn findings. TEMPEST fans: Firebird is offering \[Ed. note 2005: Out-of-date info withheld.\] on all albums except "Turn of the Wheel." \[Ed. note 2005: Out-of-date info withheld.\](Do your holiday shopping now) and receive a free Tempest-logo mug.
+Because of an increase in the cost of postage, printing, and paper, Firebird is charging [Ed. note 2005: Out-of-date info withheld.]. To stay on their mailing list, just place an order. Now is a good time to add to your T-shirt collection. Firebird has Silver Gryphon, Skandranon as Black Gryphon and White Gryphon, Companion, Fairgrove Industries, and Feathered Serpent T-shirts, all designed by Larry and Misty. THere are needlepoint patterns for the Silver Gryphon and Valdemar Crest adn a doll-sized pattern for Shin'a'in "casual wear" complete wtih 12 pages of notes and instructions adn findings. TEMPEST fans: Firebird is offering [Ed. note 2005: Out-of-date info withheld.] on all albums except "Turn of the Wheel." [Ed. note 2005: Out-of-date info withheld.](Do your holiday shopping now) and receive a free Tempest-logo mug.
 
-You can find Firebird on the Web at \[Ed. note 2005: Out-of-date info withheld.\]. E-mail orders may be sent to \[Ed. note 2005: Out-of-date info withheld.\]. Firebird can also be reached by calling \[Ed. note 2005: Out-of-date info withheld.\].
+You can find Firebird on the Web at [Ed. note 2005: Out-of-date info withheld.]. E-mail orders may be sent to [Ed. note 2005: Out-of-date info withheld.]. Firebird can also be reached by calling [Ed. note 2005: Out-of-date info withheld.].
 
-Dragon\*Con, June 26-29, is at the Inforum Convention Center in Atlanta. Cost is now \[Ed. note 2005: Out-of-date info withheld.\]. Call the Dragon\*Con office at \[Ed. note 2005: Out-of-date info withheld.\]. The Hyatt Regency is sold out at the convention rate; other hotelsto try are Westin Peachtree Plaza \[Ed. note 2005: Out-of-date info withheld.\]; Best Western American Hotel \[Ed. note 2005: Out-of-date info withheld.\]; Days Inn Atlanta \[Ed. note 2005: Out-of-date info withheld.\].
+Dragon&#42;Con, June 26-29, is at the Inforum Convention Center in Atlanta. Cost is now [Ed. note 2005: Out-of-date info withheld.]. Call the Dragon&#42;Con office at [Ed. note 2005: Out-of-date info withheld.]. The Hyatt Regency is sold out at the convention rate; other hotelsto try are Westin Peachtree Plaza [Ed. note 2005: Out-of-date info withheld.]; Best Western American Hotel [Ed. note 2005: Out-of-date info withheld.]; Days Inn Atlanta [Ed. note 2005: Out-of-date info withheld.].
 
-At Dragon\*Con Queen's Own Collegia will offer panels, activities, and workshops on everything from Celtic Mythos to belly dancing. A lot of things are still in the planning stages, so be prepared for LOTS of surprises and fun events. And we have it on excellent authority that there is a Companion wandering the Con looking for her Chosen. Come and find out how *you* could be the lucky one! Check web site \[Ed. note 2005: Out-of-date info withheld.\] for periodical up-dates on all the fun stuff at Queen's Own Collegia '97!
+At Dragon&#42;Con Queen's Own Collegia will offer panels, activities, and workshops on everything from Celtic Mythos to belly dancing. A lot of things are still in the planning stages, so be prepared for LOTS of surprises and fun events. And we have it on excellent authority that there is a Companion wandering the Con looking for her Chosen. Come and find out how *you* could be the lucky one! Check web site [Ed. note 2005: Out-of-date info withheld.] for periodical up-dates on all the fun stuff at Queen's Own Collegia '97!
 
 Great news from TEMPEST: "We've just returned from an exciting twenty city spring tour of the US and Canada. No rest for us, this month; it's back in the studio to record our sixth album. The release date is scheduled to coicide with our summer tour of the British Isles. Due to our extensive tour schedule, the following dates will be our only west coast shows until we return in Octover. We look forward to seeing you in May and June before we go. Have a wonderful summer!"
 
-\[Ed. note 2005: Out-of-date info withheld.\]
+[Ed. note 2005: Out-of-date info withheld.]
 
-Summer Festival Highlights include performances on July 4-5, \[Ed. note 2005: Out-of-date info withheld.\].
+Summer Festival Highlights include performances on July 4-5, [Ed. note 2005: Out-of-date info withheld.].
 
 ## MEMBER NEWS:
 
 Queen's Own is truly international. We have members in Australia, Austria, Bermuda, Canada, England, Finland, Germany, Ireland, the Netherlands, New Zealand, Norway, the Philippines, Singapore and Sweden.
 
-For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send \[Ed. note 2005: Out-of-date info withheld.\] to the QO address for this 12 page booklet.
+For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005: Out-of-date info withheld.] to the QO address for this 12 page booklet.
 
 SUPPORT OUR LOCAL CHAPTERS AND ZINES!!! If you can't contribute prose or poetry or art you can still help by being a subscriber. Send news of area conventions, Ren Faires, book signings . . . what interests you may interest others. (Send the info to Queen's Own, too. There are no Ren Faire or Convention listings in the newsletter this month because I have none to list.)
 
 ### Local Chapters:
 
-Arrows Online--Arrows Online, the AOL chapter of Queen's Own, is indeed open for business! If you are already an AOL member and want to join our very silly and friendly group, please e-mail the Dean of our very own Westhaven Collegia at \[Ed. note 2005: Out-of-date info withheld.\]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm \[Ed. note 2005: Out-of-date info withheld.\] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at \[Ed. note 2005: Out-of-date info withheld.\].
+Arrows Online--Arrows Online, the AOL chapter of Queen's Own, is indeed open for business! If you are already an AOL member and want to join our very silly and friendly group, please e-mail the Dean of our very own Westhaven Collegia at [Ed. note 2005: Out-of-date info withheld.]. Or, if you want to take a look from afar, come to the Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm [Ed. note 2005: Out-of-date info withheld.] on AOL. Look for the Message board named "Arrows OnLine." Non AOL folk can learn a bit about us by visiting our web page at [Ed. note 2005: Out-of-date info withheld.].
 
-Austral'a'in--Cassandra Vuksa \[Ed. note 2005: Out-of-date info withheld.\].
+Austral'a'in--Cassandra Vuksa [Ed. note 2005: Out-of-date info withheld.].
 
-Companion's Choice--Shanara Ravensong \[Ed. note 2005: Out-of-date info withheld.\].
+Companion's Choice--Shanara Ravensong [Ed. note 2005: Out-of-date info withheld.].
 
-Dream Bound--c/o Sharon Tan \[Ed. note 2005: Out-of-date info withheld.\].
+Dream Bound--c/o Sharon Tan [Ed. note 2005: Out-of-date info withheld.].
 
-The Farflying Arrow: Achtung, an alle deutschsprechenden Misty-Fans!! Write to Gwendolen \[Ed. note 2005: Out-of-date info withheld.\].
+The Farflying Arrow: Achtung, an alle deutschsprechenden Misty-Fans!! Write to Gwendolen [Ed. note 2005: Out-of-date info withheld.].
 
-Golden Grove--Stephanie Anderson \[Ed. note 2005: Out-of-date info withheld.\].
+Golden Grove--Stephanie Anderson [Ed. note 2005: Out-of-date info withheld.].
 
-The Herald's Companion--Herald's Companion c/o Karen Bertke \[Ed. note 2005: Out-of-date info withheld.\].
+The Herald's Companion--Herald's Companion c/o Karen Bertke [Ed. note 2005: Out-of-date info withheld.].
 
-Heralds' Revel--c/o H. Wegemer \[Ed. note 2005: Out-of-date info withheld.\]: Send e-mail to \[Ed. note 2005: Out-of-date info withheld.\].
+Heralds' Revel--c/o H. Wegemer [Ed. note 2005: Out-of-date info withheld.]: Send e-mail to [Ed. note 2005: Out-of-date info withheld.].
 
-Outkingdom--Y'larna Finnareth c/o Joanne Thwaites \[Ed. note 2005: Out-of-date info withheld.\].
+Outkingdom--Y'larna Finnareth c/o Joanne Thwaites [Ed. note 2005: Out-of-date info withheld.].
 
-Pacific Northwest Collegium--c/o Charlene Ryan \[Ed. note 2005: Out-of-date info withheld.\].
+Pacific Northwest Collegium--c/o Charlene Ryan [Ed. note 2005: Out-of-date info withheld.].
 
-R.C.M.H.--Contact Pam Dziedzic \[Ed. note 2005: Out-of-date info withheld.\]. Volume 1, Issue 2 of the R.C.M.H. nesletter, *The Collegium News*, jas an excellent article on creating a persona.
+R.C.M.H.--Contact Pam Dziedzic [Ed. note 2005: Out-of-date info withheld.]. Volume 1, Issue 2 of the R.C.M.H. nesletter, *The Collegium News*, jas an excellent article on creating a persona.
 
-Under Kal'enel's Care--\[Ed. note 2005: Out-of-date info withheld.\]. These bi-monthly newsletters are aimed specifically at the Shin'a'in.
+Under Kal'enel's Care--[Ed. note 2005: Out-of-date info withheld.]. These bi-monthly newsletters are aimed specifically at the Shin'a'in.
 
 ## Other Fandoms:
 
-Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond \[Ed. note 2005: Out-of-date info withheld.\].
+Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005: Out-of-date info withheld.].
 
-Jennifer Roberson--Children of the Firstborn \[Ed. note 2005: Out-of-date info withheld.\].
+Jennifer Roberson--Children of the Firstborn [Ed. note 2005: Out-of-date info withheld.].
 
-Docotr Who and other Media--The Prydonians of Prynceton \[Ed. note 2005: Out-of-date info withheld.\] . . . their monthly newsletter, *The Prydonian Renegade*.
+Docotr Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.] . . . their monthly newsletter, *The Prydonian Renegade*.
 
-Tanya Huff--Nine Above! \[Ed. note 2005: Out-of-date info withheld.\]. If you are a Tanya Huff fan and want news of her books and convention appearnaces, subscribe to Nine Above! Tanya's latest book, *Blood Debt*, is in bookstores now.
+Tanya Huff--Nine Above! [Ed. note 2005: Out-of-date info withheld.]. If you are a Tanya Huff fan and want news of her books and convention appearnaces, subscribe to Nine Above! Tanya's latest book, *Blood Debt*, is in bookstores now.
 
-Anne McCaffrey/Pern--Starfire Weyr \[Ed. note 2005: Out-of-date info withheld.\].
+Anne McCaffrey/Pern--Starfire Weyr [Ed. note 2005: Out-of-date info withheld.].
 
-Anne McCaffrey/Pern--Sunfall Weyr \[Ed. note 2005: Out-of-date info withheld.\].
+Anne McCaffrey/Pern--Sunfall Weyr [Ed. note 2005: Out-of-date info withheld.].
 
-General Fandom--National Fantasy Fan Federation (N3F) \[Ed. note 2005: Out-of-date info withheld.\] (Send SASE to QO for a membership application if you wish.)
+General Fandom--National Fantasy Fan Federation (N3F) [Ed. note 2005: Out-of-date info withheld.] (Send SASE to QO for a membership application if you wish.)
 
-Adrian Paul (Highlander)--Peace \[Ed. note 2005: Out-of-date info withheld.\].
+Adrian Paul (Highlander)--Peace [Ed. note 2005: Out-of-date info withheld.].
 
-It's finally here!!! Issue #1 of SPELL AND STEEL is completed and you can get it for as little as \[Ed. note 2005: Out-of-date info withheld.\] (Is that cheap or what?!) Great fanasy stories as well as art work by Ellen Million! I'm accepting submissions for Issue #2, so come be a part of this exciting new zine! \[Ed. note 2005: Out-of-date info withheld.\].
+It's finally here!!! Issue #1 of SPELL AND STEEL is completed and you can get it for as little as [Ed. note 2005: Out-of-date info withheld.] (Is that cheap or what?!) Great fanasy stories as well as art work by Ellen Million! I'm accepting submissions for Issue #2, so come be a part of this exciting new zine! [Ed. note 2005: Out-of-date info withheld.].
 
-We're Baaack!!! THE UNICORN'S VALE has just printed our second issue, and we invite you to join us in our moonlit dance. Dare to open our pages and meet the carousel pony who is much more than the wooden figurine that haunts a young woman's dreams, share the courage of a girl who mourns her lost change of going to the collegium at Haven and must find the courage to save her people, and fear for the werewolf who must choose between the lives of his pack and the endowment of power in a dangerous tyrant. Celebrate love and horror and wonderment fo the world in our thought-provoking poetry and art. We are accepting submissions. Future issues are even featuring a column on computer games, and we welcome anyone who would care to submit in this area. Book and movie reviews are also welcomed. We are a multi-genre zine and will consider any ideas or submissions. Single copies of each issue are \[Ed. note 2005: Out-of-date info withheld.\].
+We're Baaack!!! THE UNICORN'S VALE has just printed our second issue, and we invite you to join us in our moonlit dance. Dare to open our pages and meet the carousel pony who is much more than the wooden figurine that haunts a young woman's dreams, share the courage of a girl who mourns her lost change of going to the collegium at Haven and must find the courage to save her people, and fear for the werewolf who must choose between the lives of his pack and the endowment of power in a dangerous tyrant. Celebrate love and horror and wonderment fo the world in our thought-provoking poetry and art. We are accepting submissions. Future issues are even featuring a column on computer games, and we welcome anyone who would care to submit in this area. Book and movie reviews are also welcomed. We are a multi-genre zine and will consider any ideas or submissions. Single copies of each issue are [Ed. note 2005: Out-of-date info withheld.].
 
-ON THE WING is the zine for anyone with an interest in the Tayledras. WE have stories, poetry, drawings, and articles on the Tayledras. Sample issues cost \[Ed. note 2005: Out-of-date info withheld.\].
+ON THE WING is the zine for anyone with an interest in the Tayledras. WE have stories, poetry, drawings, and articles on the Tayledras. Sample issues cost [Ed. note 2005: Out-of-date info withheld.].
 
-MIDNIGHT RESOLUTIONS: THE DIVIA CHRONICLES is a fanzine for Divia, the teenage vampire of "Forever Knight," as well as a club for Kathryn Lang, the actress who portrayed her on the show. All Divia fans, please send SASE for info. We need stories, poems, artwork for porposed first issue. (Please, send for info/guidelines; do not send submisisons first!) \[Ed. note 2005: Out-of-date info withheld.\].
+MIDNIGHT RESOLUTIONS: THE DIVIA CHRONICLES is a fanzine for Divia, the teenage vampire of "Forever Knight," as well as a club for Kathryn Lang, the actress who portrayed her on the show. All Divia fans, please send SASE for info. We need stories, poems, artwork for porposed first issue. (Please, send for info/guidelines; do not send submisisons first!) [Ed. note 2005: Out-of-date info withheld.].
 
-A new Velgarth zine has entered the scene! Are you tired of writing Velgarth stories that you just know you'll never see in print? Of only being able to send in stories relating to your recognized persona? Do you want your persona stories printed for everyone to see and admire? Then DON'T ARGUE WITH THE VOICE is for you! Send a SASE for guidelines to \[Ed. note 2005: Out-of-date info withheld.\]. Outkingdomers are welcomed with open arms!
+A new Velgarth zine has entered the scene! Are you tired of writing Velgarth stories that you just know you'll never see in print? Of only being able to send in stories relating to your recognized persona? Do you want your persona stories printed for everyone to see and admire? Then DON'T ARGUE WITH THE VOICE is for you! Send a SASE for guidelines to [Ed. note 2005: Out-of-date info withheld.]. Outkingdomers are welcomed with open arms!
 
-Bright blessings pen friends! Now you can express yourself with a brand new line of stationery greeting cards and art prints, celebrating your gavorite story worlds. Enjoy scenes from Velgarth with your friends. Allow your letters to be graced in bright and pastel colors with Heralds, Tayledras, Shin'a'in, dragon riders, unicorns, vampires, sorcerers, sword warriors, and even dare to venture where no Herald has gone before iwth images of some of your gavorite Trek characters. Stationery sets include \[Ed. note 2005: Out-of-date info withheld.\].
+Bright blessings pen friends! Now you can express yourself with a brand new line of stationery greeting cards and art prints, celebrating your gavorite story worlds. Enjoy scenes from Velgarth with your friends. Allow your letters to be graced in bright and pastel colors with Heralds, Tayledras, Shin'a'in, dragon riders, unicorns, vampires, sorcerers, sword warriors, and even dare to venture where no Herald has gone before iwth images of some of your gavorite Trek characters. Stationery sets include [Ed. note 2005: Out-of-date info withheld.].
 
-THROUGH THE MAGIC MIRROR! Come on people! My newsletter is dying and is in need of submissions (and more subscribers would be nice, too)! I publish everything under the moon andthen some! Come check out the bonehead awards and cool quotes. Come on! Please, please, please, please \<puppy dog eyes> puhleease . . . HEY!!! Aret here any COMIC STRIP ATRISTS out there?!!! (The comic strips do not have to be fantasy related). i'm looking for some. You won't get paid, but if I think you're any good, I'll give you a regular spot on the newsletter (considering contributor's copies for all who submit, too)! Journey now THROUGH THE MAGIC MIRROR. For info and guidelines and a free sample issue, send me a SASE to \[Ed. note 2005: Out-of-date info withheld.\].
+THROUGH THE MAGIC MIRROR! Come on people! My newsletter is dying and is in need of submissions (and more subscribers would be nice, too)! I publish everything under the moon andthen some! Come check out the bonehead awards and cool quotes. Come on! Please, please, please, please &lt;puppy dog eyes> puhleease . . . HEY!!! Aret here any COMIC STRIP ATRISTS out there?!!! (The comic strips do not have to be fantasy related). i'm looking for some. You won't get paid, but if I think you're any good, I'll give you a regular spot on the newsletter (considering contributor's copies for all who submit, too)! Journey now THROUGH THE MAGIC MIRROR. For info and guidelines and a free sample issue, send me a SASE to [Ed. note 2005: Out-of-date info withheld.].
 
-I am accepting submissions for the second issue of the VALES. Let's make this one bigger than las year's. Send biographical information on your persona and supporting characters, along with poetry, and tell the month and year you were recognized int he QO newsletter. Submissions accepted until December 1, 1997. Mail to Kendra Renaud \[Ed. note 2005: Out-of-date info withheld.\]. There are still a few copies of Issue One of VALES available. THe cost is \[Ed. note 2005: Out-of-date info withheld.\].
+I am accepting submissions for the second issue of the VALES. Let's make this one bigger than las year's. Send biographical information on your persona and supporting characters, along with poetry, and tell the month and year you were recognized int he QO newsletter. Submissions accepted until December 1, 1997. Mail to Kendra Renaud [Ed. note 2005: Out-of-date info withheld.]. There are still a few copies of Issue One of VALES available. THe cost is [Ed. note 2005: Out-of-date info withheld.].
 
-For a newsletter of only good news, subscribe to Tasha Halper's *Peacemail*. The cost is \[Ed. note 2005: Out-of-date info withheld.\]. Write to \[Ed. note 2005: Out-of-date info withheld.\].
+For a newsletter of only good news, subscribe to Tasha Halper's *Peacemail*. The cost is [Ed. note 2005: Out-of-date info withheld.]. Write to [Ed. note 2005: Out-of-date info withheld.].
 
 ### From Herald Housemother:
 
-Send Fan Messages, Personals, club news, whatever, to the QO address as soon as possible. The next newsletter is comingout a week early because I'll be at Dragon\*Con on the usual mailing date.
+Send Fan Messages, Personals, club news, whatever, to the QO address as soon as possible. The next newsletter is comingout a week early because I'll be at Dragon&#42;Con on the usual mailing date.
 
-For Dragon\*Con I'm staying at the Hyatt Friday night through early Monday morning. I'm looking for two roommates to share expenses; if interest, call me at \[Ed. note 2005: Out-of-date info withheld.\]. Female non-smokers only please.
+For Dragon&#42;Con I'm staying at the Hyatt Friday night through early Monday morning. I'm looking for two roommates to share expenses; if interest, call me at [Ed. note 2005: Out-of-date info withheld.]. Female non-smokers only please.
 
 What does one wear to a convention? Something comfortable! This is my first time at a con where the activities are outside the hotel, and I'm leaving my costumes and my General Judeth's favorite thigh-high black boots home. Remember that you won't be able to run upstairs and quickly change between panels. Dress for comfort!
 
@@ -161,28 +159,23 @@ Basic requirements are the same for every category of persona, but extra point r
 
 ## FAN MESSAGES:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
 ## PERSONALS:
 
-\[Ed. note 2005: Content withheld.\]
+[Ed. note 2005: Content withheld.]
 
 <img alt="Border Art" loading="lazy" src="/qo292.jpg"/>
 
-Queen's Own \[Ed. note 2005: Out-of-date content withheld.\], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at \[Ed. note 2005: Out-of-date content withheld.\] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay \[Ed. note 2005: Out-of-date content withheld.\] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
+Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: \[Ed. note 2005: Out-of-date content withheld.\]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization not a business. Our address of publication: [Ed. note 2005: Out-of-date content withheld.]. This newsletter is published solely to inform and-entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Deadline for next newsletter contributions: June 11--earlier is much better.\
-Next Mailing Day: June 22, 1997--Call \[Ed. note 2005: Out-of-date info withheld.\] for directions. Always call before coming, family emergencies can cancel mailings.
+Deadline for next newsletter contributions: June 11--earlier is much better. Next Mailing Day: June 22, 1997--Call [Ed. note 2005: Out-of-date info withheld.] for directions. Always call before coming, family emergencies can cancel mailings.
 
-Editor, President, Dogsbody, Housemother - Judith Louvis \[Ed. note 2005: Out-of-date content withheld.\] (Call only before 10 pm and let it ring.)\
-Horizontal Border Design, this page--Lori Poznanski\
-Front Page Border Design: Robert McLaine\
-     Zine and NL editors, if you would like to use some of Robert's work, write to him at \[Ed. note 2005: Out-of-date info withheld.\]\
-Mailing Day Helper (last issue)--Arielle Amethyst Willow'Wind and SpiritBlade, Barbara Leflar Jackson.
+Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Horizontal Border Design, this page--Lori Poznanski Front Page Border Design: Robert McLaine      Zine and NL editors, if you would like to use some of Robert's work, write to him at [Ed. note 2005: Out-of-date info withheld.] Mailing Day Helper (last issue)--Arielle Amethyst Willow'Wind and SpiritBlade, Barbara Leflar Jackson.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -194,10 +187,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

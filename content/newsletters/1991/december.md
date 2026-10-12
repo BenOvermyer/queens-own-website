@@ -20,15 +20,13 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. V, No. 4\
-December 1991
+## Series 1, Vol. V, No. 4 December 1991
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 <img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg"/>Dear Misty Fans,
 
@@ -42,7 +40,7 @@ January brings us *Bardic Voice: The Lark & the Wren*, published by Ban.
 
 In March, *Born to Run: The SERRAted Edge*--by Misty and Larry Dixon, with hot cars, fast elves, rock and roll--and a serious message about child abuse. In the back of each SERRAted Edge book will be a Helpline 800 number.
 
-Oops! Brad Sinor's interview with Misty appeared in the Devenber (#173) issue of STARLOG **not** the November. STARLOG is a media-oriented magazine. Other articles in the December issue are about Star Trek and ST:TNG, Alien Nation, Quantum Leap, Carel Struycken of the new Addams Family movie, and SF pilots that never sold. A subscription is \[Ed. note 2003: Out-of-date information withheld.\]. The STARLOG address is \[Ed. note 2003: Out-of-date information withheld.\].
+Oops! Brad Sinor's interview with Misty appeared in the Devenber (#173) issue of STARLOG **not** the November. STARLOG is a media-oriented magazine. Other articles in the December issue are about Star Trek and ST:TNG, Alien Nation, Quantum Leap, Carel Struycken of the new Addams Family movie, and SF pilots that never sold. A subscription is [Ed. note 2003: Out-of-date information withheld.]. The STARLOG address is [Ed. note 2003: Out-of-date information withheld.].
 
 In the interview Misty says, "I wrote a lot when I was a kid, mainly Andre Norton pastiches, because she wasn't turning out books at a fast enough rate to suit me."
 
@@ -64,23 +62,23 @@ She says, "As I go through, I can stop and think about what everything looks lik
 
 There will be more from Brad Sinor's STARLOG interview with Misty in the next newsletter. STARLOG is sold in B. Dalton's and similar bookstores. I picked up my copy in a Petro Truck Stop, off the New Jersey Turnpike!
 
-Another "p;Oops!" It's true that Steelwolf Armourie was commissioned to build the replica of *Need* that was presented to Misty at DreamCon and is crafting siblings. **But**, contact *Firebird Arts & Music* with inquiries or to place an order. Since each sword will be individually hand crafted, some choice over blade trim and leather is available. Write to \[Ed. note 2003: Out-of-date information withheld. Firebird's website is at [http://www.firebirdarts.com](http://www.firebirdarts.com)\].
+Another "p;Oops!" It's true that Steelwolf Armourie was commissioned to build the replica of *Need* that was presented to Misty at DreamCon and is crafting siblings. **But**, contact *Firebird Arts & Music* with inquiries or to place an order. Since each sword will be individually hand crafted, some choice over blade trim and leather is available. Write to [Ed. note 2003: Out-of-date information withheld. Firebird's website is at [http://www.firebirdarts.com](http://www.firebirdarts.com)].
 
 Other goodies from *Firebird* include hand crafted drums, limited edition prints by Larry Dixon, the Jody LEe book covers, T-shirts, and filk, filk, filk. All of Misty's books can be ordered from *Firebird*, too.
 
-Send your holiday wishes to Misty and Larry in care of \[Ed. note 2003: Out-of-date information withheld. All fan mail to Misty should be sent to the High Flight address listed below.\]. Please leave room on the envelope for the forwarding address. You can always write to Misty \[Ed. note 2003: Out-of-date information withheld. See below for the High Flight address.\]
+Send your holiday wishes to Misty and Larry in care of [Ed. note 2003: Out-of-date information withheld. All fan mail to Misty should be sent to the High Flight address listed below.]. Please leave room on the envelope for the forwarding address. You can always write to Misty [Ed. note 2003: Out-of-date information withheld. See below for the High Flight address.]
 
-Jody Lee will be Artist Guest of Honor at Boskone 29 in Springfield, Massachusetts February 14-16 '92. She says "I'll be showing about 7 years worth of art so it should be a sight!" Send a SASE to \[Ed. note 2003: Out-of-date information withheld.\]. Prints are still available for the "Vows and Honor" series (an edition of 250) and "The Last Herald Mage" (an edition of 350). Send a SASE \[Ed. note 2003: Out-of-date information withheld.\].
+Jody Lee will be Artist Guest of Honor at Boskone 29 in Springfield, Massachusetts February 14-16 '92. She says "I'll be showing about 7 years worth of art so it should be a sight!" Send a SASE to [Ed. note 2003: Out-of-date information withheld.]. Prints are still available for the "Vows and Honor" series (an edition of 250) and "The Last Herald Mage" (an edition of 350). Send a SASE [Ed. note 2003: Out-of-date information withheld.].
 
 ### Convention News For 1992:
 
-Misty is listed as Special Guest o fHonor at **Chattacon 17**, January 17-19 in Chattanooga. Send your SASE to \[Ed. note 2003: Out-of-date information withheld.\]. Lots of QO folk are planning to attend--look for others in Whties!
+Misty is listed as Special Guest o fHonor at **Chattacon 17**, January 17-19 in Chattanooga. Send your SASE to [Ed. note 2003: Out-of-date information withheld.]. Lots of QO folk are planning to attend--look for others in Whties!
 
-Jacksonville is hosting **CrackerCon** March 13-15, 1992. The Guest of Honor is Misty, with Larry as Artist GoH and Doris Mager of Save Our American Raptors as special Guest on Saturday morning. Let's show Misty and LArry there be enthusiastic Heralds on the East Coast, too! For registration information, \[Ed. note 2003: Out-of-date information withheld.\].
+Jacksonville is hosting **CrackerCon** March 13-15, 1992. The Guest of Honor is Misty, with Larry as Artist GoH and Doris Mager of Save Our American Raptors as special Guest on Saturday morning. Let's show Misty and LArry there be enthusiastic Heralds on the East Coast, too! For registration information, [Ed. note 2003: Out-of-date information withheld.].
 
-The Saint Louis Airport Hilton is the home of **Name that Con 5**, to be held May 1-3. Write to \[Ed. note 2003: Out-of-date information withheld.\].
+The Saint Louis Airport Hilton is the home of **Name that Con 5**, to be held May 1-3. Write to [Ed. note 2003: Out-of-date information withheld.].
 
-**KeyCon 9** is May 15-17 at the Best Western International in Winnipeg. Terry Pratchett and Misty are Guests of Honor. Write to \[Ed. note 2003: Out-of-date information withheld.\].
+**KeyCon 9** is May 15-17 at the Best Western International in Winnipeg. Terry Pratchett and Misty are Guests of Honor. Write to [Ed. note 2003: Out-of-date information withheld.].
 
 (Because the date was changed for **BFAC**, the Boise Fantasy Arts Con, Misty and LArry cannot attend as planned.)
 
@@ -90,41 +88,41 @@ From *Greg Shaver, OryCon Art Show Chair*:
 
 ### News from Club Members:
 
-From *Paul Fu, Jr.*, \[Ed. note 2003: Out-of-date information withheld.\]: *Magewinds*, the newsletter for the Internet chapter of Queen's Own, is preparing to publish its first issue. All QO members with acces to e-mail on the Internet/BITNET/NSFNET/etc. and who are interested in receiving or contributing to *Magewinds* should send e-mail to \[Ed. note 2003: Out-of-date information withheld.\]. Submissions are encouraged and welcomed and may be poetry, filksongs, letters or comments. Send to \[Ed. note 2003: Out-of-date information withheld.\]. Problems sending can go to my USnail mail address or to \[Ed. note 2003: Out-of-date information withheld.\].
+From *Paul Fu, Jr.*, [Ed. note 2003: Out-of-date information withheld.]: *Magewinds*, the newsletter for the Internet chapter of Queen's Own, is preparing to publish its first issue. All QO members with acces to e-mail on the Internet/BITNET/NSFNET/etc. and who are interested in receiving or contributing to *Magewinds* should send e-mail to [Ed. note 2003: Out-of-date information withheld.]. Submissions are encouraged and welcomed and may be poetry, filksongs, letters or comments. Send to [Ed. note 2003: Out-of-date information withheld.]. Problems sending can go to my USnail mail address or to [Ed. note 2003: Out-of-date information withheld.].
 
 There will soon be a QO chapter on GEnie--watch for it.
 
-Place your order for the *1992 Sunhawk Calendar* with Cris MArtins \[Ed. note 2003: Out-of-date information withheld.\].
+Place your order for the *1992 Sunhawk Calendar* with Cris MArtins [Ed. note 2003: Out-of-date information withheld.].
 
-*For Whom the Bell Tolls* is a role playing, pen pal club created to offer fans of Mercedes LAckey a chance to create personas in the scenario of Valdemar/Velgarth, and to develop them through letters and stories. For more information, please send a SASE t: \[Ed. note 2003: Out-of-date information withheld.\].
+*For Whom the Bell Tolls* is a role playing, pen pal club created to offer fans of Mercedes LAckey a chance to create personas in the scenario of Valdemar/Velgarth, and to develop them through letters and stories. For more information, please send a SASE t: [Ed. note 2003: Out-of-date information withheld.].
 
-From *Kevin Donesin*, \[Ed. note 2003: Out-of-date information withheld.\]: I am still interested in starting a chapter/newsletter and am broadening the area to include all of North Carolina, South Carolina, Tennessee and Virginia. Of course, all are welcome from anywhere! Please write me and help me get this thing off the ground!
+From *Kevin Donesin*, [Ed. note 2003: Out-of-date information withheld.]: I am still interested in starting a chapter/newsletter and am broadening the area to include all of North Carolina, South Carolina, Tennessee and Virginia. Of course, all are welcome from anywhere! Please write me and help me get this thing off the ground!
 
-The second issue of *Hearthfires* (formerly *Enchantress*) will be available on January 15th. For guidelines and subscription information, \[Ed. note 2003: Out-of-date information withheld.\].
+The second issue of *Hearthfires* (formerly *Enchantress*) will be available on January 15th. For guidelines and subscription information, [Ed. note 2003: Out-of-date information withheld.].
 
-"Do you live near Pittsburgh? Do you enjoy (or think you may enjoy) filk? A group of Pittsburgh filkers/Misty fen are trying to start some sort of organized filking here. If you'd like to get involved, contact me at \[Ed. note 2003: Out-of-date information withheld.\].&uqot;
+"Do you live near Pittsburgh? Do you enjoy (or think you may enjoy) filk? A group of Pittsburgh filkers/Misty fen are trying to start some sort of organized filking here. If you'd like to get involved, contact me at [Ed. note 2003: Out-of-date information withheld.].&uqot;
 
-"Attention: The first issue of *Tales of the Unicorn* is ready. \[Ed. note 2003: Out-of-date information withheld.\]"
+"Attention: The first issue of *Tales of the Unicorn* is ready. [Ed. note 2003: Out-of-date information withheld.]"
 
-"To all interested persons: *Stormwinds, Winds of Velgarth*'s first zine, is ready for purchase. \[Ed. note 2003: Out-of-date information withheld.\] Also, WOV is still around. We are interested in getting you into the group. Send any inquiries for information on WOV or *Stormwinds* to: \[Ed. note 2003: Out-of-date information withheld.\].
+"To all interested persons: *Stormwinds, Winds of Velgarth*'s first zine, is ready for purchase. [Ed. note 2003: Out-of-date information withheld.] Also, WOV is still around. We are interested in getting you into the group. Send any inquiries for information on WOV or *Stormwinds* to: [Ed. note 2003: Out-of-date information withheld.].
 
-"Attention, Central Plains inhabitants! The zine *The Storyteller* will soon be ready for submissions and will accept poems, stories, drawings, and advertisements. For guidelines and submissions for art & advertisements, write to \[Ed. note 2003: Out-of-date information withheld.\]. Come one, come all!"
+"Attention, Central Plains inhabitants! The zine *The Storyteller* will soon be ready for submissions and will accept poems, stories, drawings, and advertisements. For guidelines and submissions for art & advertisements, write to [Ed. note 2003: Out-of-date information withheld.]. Come one, come all!"
 
-*Sun and Shadow #1* is seeking art and a few more stories for its premiere issue. *Sun and Shadow* covers the HEralds of Valdemar. *Justice* is its companion zine, which if submissions permit, will cover the world of the Shin'a'in and non-Valdemar aspects of Misty's writing. Please also drop me a line if you're interested in submitting to Star Trek, Dr. Who, Robin Hood or other media zines. I am interested in being a mentor to any fledgling writer and have lots of zine addresses to pass on!--\[Ed. note 2003: Out-of-date information withheld.\] (The newest newsletter of PErpetual Motion features a short section on Misty. Send me a SASE. Also, I'm doing a new Robin Hood zine, *Kingdom of Outlaws*--Patience)
+*Sun and Shadow #1* is seeking art and a few more stories for its premiere issue. *Sun and Shadow* covers the HEralds of Valdemar. *Justice* is its companion zine, which if submissions permit, will cover the world of the Shin'a'in and non-Valdemar aspects of Misty's writing. Please also drop me a line if you're interested in submitting to Star Trek, Dr. Who, Robin Hood or other media zines. I am interested in being a mentor to any fledgling writer and have lots of zine addresses to pass on!--[Ed. note 2003: Out-of-date information withheld.] (The newest newsletter of PErpetual Motion features a short section on Misty. Send me a SASE. Also, I'm doing a new Robin Hood zine, *Kingdom of Outlaws*--Patience)
 
-If you are using Heralds or other characters from Misty's worlds in your RPGs, send that information to our Games Mentor *Douglas Lent*. He is often asked how to play Heralds; please share your ideas. Doug's address is \[Ed. note 2003: Out-of-date information withheld.\].
+If you are using Heralds or other characters from Misty's worlds in your RPGs, send that information to our Games Mentor *Douglas Lent*. He is often asked how to play Heralds; please share your ideas. Doug's address is [Ed. note 2003: Out-of-date information withheld.].
 
-*Vivki McElfresh*, \[Ed. note 2003: Out-of-date information withheld.\], sends apologies for the lateness of *Companion's Rest*, Issue #3. She is now accepting work for Issue 4 and is "in desperate need of artwork. Please, all artists in QO, send any work you can spare." Vicki would also like book and movie reviews. ,P> *Wendy Sparkes (Herald Tarre)*, \[Ed. note 2003: Out-of-date information withheld.\] has designed ID cards for your Valdemar personas. The cards are \[Ed. note 2003: Out-of-date information withheld.\]. Please state which card is desired: Herald, Bard, HEaler, Shin'a'in, White Winds School of Sorcery. Please include a self-addressed envelope and an IRC (Internatioal Reply Coupon--buy at any post office). Tell Wendy your persona details, and she'll fill in the card for you, or it can be left blank.
+*Vivki McElfresh*, [Ed. note 2003: Out-of-date information withheld.], sends apologies for the lateness of *Companion's Rest*, Issue #3. She is now accepting work for Issue 4 and is "in desperate need of artwork. Please, all artists in QO, send any work you can spare." Vicki would also like book and movie reviews. ,P> *Wendy Sparkes (Herald Tarre)*, [Ed. note 2003: Out-of-date information withheld.] has designed ID cards for your Valdemar personas. The cards are [Ed. note 2003: Out-of-date information withheld.]. Please state which card is desired: Herald, Bard, HEaler, Shin'a'in, White Winds School of Sorcery. Please include a self-addressed envelope and an IRC (Internatioal Reply Coupon--buy at any post office). Tell Wendy your persona details, and she'll fill in the card for you, or it can be left blank.
 
-For those who are interested in a zine on an alternate Pern and Valdemar, please send \[Ed. note 2003: Out-of-date information withheld.\].
+For those who are interested in a zine on an alternate Pern and Valdemar, please send [Ed. note 2003: Out-of-date information withheld.].
 
-Barbara McGowan sent news of a zine for letter writers. I'm curious, but too busy to write. If anyone does receive more information, please share it. The zine address is *The Letter Exchange*, \[Ed. note 2003: Out-of-date information withheld.\].
+Barbara McGowan sent news of a zine for letter writers. I'm curious, but too busy to write. If anyone does receive more information, please share it. The zine address is *The Letter Exchange*, [Ed. note 2003: Out-of-date information withheld.].
 
-*Friends of the Pelagirs* is the Pennsylvania, New Jersey & Delaware local chapter. We feature convention news, book reviews, and information on local places. \[Ed. note 2003: Out-of-date information withheld.\]. If you are interested, regardless of where you live, \[Ed. note 2003: Out-of-date information withheld.\].
+*Friends of the Pelagirs* is the Pennsylvania, New Jersey & Delaware local chapter. We feature convention news, book reviews, and information on local places. [Ed. note 2003: Out-of-date information withheld.]. If you are interested, regardless of where you live, [Ed. note 2003: Out-of-date information withheld.].
 
-From *Stephanie Anderson*, \[Ed. note 2003: Out-of-date information withheld.\], to everyone interested in the Shin'a'in newsletter, new and old: "please send your fifteen stamps in (if you haven't paid.) First newsletter is out!"
+From *Stephanie Anderson*, [Ed. note 2003: Out-of-date information withheld.], to everyone interested in the Shin'a'in newsletter, new and old: "please send your fifteen stamps in (if you haven't paid.) First newsletter is out!"
 
-The Science Fiction Book Club cna be reached at \[Ed. note 2003: Out-of-date information withheld.\]. I suggested to them that they send me enrollment forms to pass out on request but they declined. Their special offers usually promise six free books when you join. Both *Elvenbane* and *The Last Herald-Mage* are available. If these books are not listed on the form you get, call Customer Service for their numbers.
+The Science Fiction Book Club cna be reached at [Ed. note 2003: Out-of-date information withheld.]. I suggested to them that they send me enrollment forms to pass out on request but they declined. Their special offers usually promise six free books when you join. Both *Elvenbane* and *The Last Herald-Mage* are available. If these books are not listed on the form you get, call Customer Service for their numbers.
 
 ## Collegium News:
 
@@ -164,25 +162,23 @@ I received a request for help on forming a local chapter from someone who did no
 
 Please "pay" for your fan message by answering at least one of the messages that appear in the same issue as yours. You may write to as many pen pals as you want without ever putting in a message yourself.
 
-\[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.\]
+[Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.]
 
 ## Personals
 
 If your personal is addresed to one or two people, and all you want to say is "I'll write soon" send that message to your friend(s) on a postcard!
 
-\[Ed. Note 2003: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.\]
+[Ed. Note 2003: Personals are not being posted online because of the personal information they contained. Remainder of the newsletter was out-of-date contact info, and has been withheld.]
 
-\[Ed. note 2003: Out-of-date subscription information withheld.\]
+[Ed. note 2003: Out-of-date subscription information withheld.]
 
-Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: \[Ed. note 2003: Out-of-date information withheld.\]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own is the official Mercedes Lackey Appreciation Society. We are a not-for-profit organization. Address of publication: [Ed. note 2003: Out-of-date information withheld.]. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
-Editor, President, Dogsbody, Housemother--Judith Louvis \[Ed. note 2003: Out-of-date information withheld.\]\
-Archivist and Organizer *extraordinaire*--Patricia Riggs \[Ed. note 2003: Out-of-date information withheld.\]\
-Mailing Day Helpers (last issue)--Suzanne Brenner, Frank Burkhead, Joanne Mattern.
+Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2003: Out-of-date information withheld.] Archivist and Organizer *extraordinaire*--Patricia Riggs [Ed. note 2003: Out-of-date information withheld.] Mailing Day Helpers (last issue)--Suzanne Brenner, Frank Burkhead, Joanne Mattern.
 
 I wish you light and laughter, much happiness and good health, time to read and to daydream, and the energy and enthusiasnm to enjoy all life has to offer. Happy Holidays!--Judith.
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -194,10 +190,7 @@ Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shas
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 

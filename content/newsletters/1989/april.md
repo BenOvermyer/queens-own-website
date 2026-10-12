@@ -20,41 +20,39 @@ date_precision = "month"
 
 Mercedes Lackey Fan Club
 
-## P.O. Box 749\
-Laguna Beach, CA 92652 USA
+## P.O. Box 749 Laguna Beach, CA 92652 USA
 
-## Series 1, Vol. II, No. 3\
-April 1989
+## Series 1, Vol. II, No. 3 April 1989
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [/](/).)**
 
-\[Begin Excerpt\]
+[Begin Excerpt]
 
 Dear Misty fans:
 
 Happy Passover and Ides of April!
 
-Judith has asked us to remind those of you who change your addresses for the summer to get your new addresses to her asap, \[as soon as possible,\] so that she can keep our master mailing list up to date. Note: We do not make our master list available to anyone.
+Judith has asked us to remind those of you who change your addresses for the summer to get your new addresses to her asap, [as soon as possible,] so that she can keep our master mailing list up to date. Note: We do not make our master list available to anyone.
 
-More from Julie Bowman, \[continued from the [March](/newsletters/1989/march/) issue: Anne McCaffrey has Compuserve and loves to chat. Ask the sysop for her ID# or leave a note for her on the public bulleting board system. She \[Julie\] also welcomes electronic mail, and checks the computer for messages every three days or so. Her ID# is 74137,73.
+More from Julie Bowman, [continued from the [March](/newsletters/1989/march/) issue: Anne McCaffrey has Compuserve and loves to chat. Ask the sysop for her ID# or leave a note for her on the public bulleting board system. She [Julie] also welcomes electronic mail, and checks the computer for messages every three days or so. Her ID# is 74137,73.
 
-Linda Stillman gets the Super Sleuth Award for finding the elusice Terry Barnholdt's Erie, PA address \[as of [November](/newsletters/1988/november/) '88\] in the Berkeley, CA library. Judith has written and . . . . Linda also introduced us to the term "skillful procrastination.". Love it! \[Personal to Linda re aggravating arachnids and small, wingless, bloodsucking, leanping insects: (1) landlady, (2) Board of Health, (3) "Raid".\]
+Linda Stillman gets the Super Sleuth Award for finding the elusice Terry Barnholdt's Erie, PA address [as of [November](/newsletters/1988/november/) '88] in the Berkeley, CA library. Judith has written and . . . . Linda also introduced us to the term "skillful procrastination.". Love it! [Personal to Linda re aggravating arachnids and small, wingless, bloodsucking, leanping insects: (1) landlady, (2) Board of Health, (3) "Raid".]
 
-For those of you who are interested in Sime/Gen fandom, based on books by Jacqueline Lichtenberg, Chantal Gaudiano suggests contacting Ambrov Zeor \[Ed. Note 2002: Contact info withheld.\].
+For those of you who are interested in Sime/Gen fandom, based on books by Jacqueline Lichtenberg, Chantal Gaudiano suggests contacting Ambrov Zeor [Ed. Note 2002: Contact info withheld.].
 
-And if any of you know of an\[y\] Andre Norton fan group\[s\], please let us know. We have had some inquiries for same.
+And if any of you know of an[y] Andre Norton fan group[s], please let us know. We have had some inquiries for same.
 
-**SPRINGFEST '89** honcho Dale Jewel just advised us that \[sound of trumpets\] Marion Zimmer Bradley will be making a special appearance at their June 2-4 festivities. Larry Dixon, known for his fantasy/science fiction artwork, will be Artist Guest. And, and, \[be still my hear,\] there will be an original production of "Our Fair Starship." \[Look out, Rex and Julie!\]
+**SPRINGFEST '89** honcho Dale Jewel just advised us that [sound of trumpets] Marion Zimmer Bradley will be making a special appearance at their June 2-4 festivities. Larry Dixon, known for his fantasy/science fiction artwork, will be Artist Guest. And, and, [be still my hear,] there will be an original production of "Our Fair Starship." [Look out, Rex and Julie!]
 
 ## Fanmessages
 
-\[Ed. Note 2002: Fanmessages withheld from the online version of the newsletter.\]
+[Ed. Note 2002: Fanmessages withheld from the online version of the newsletter.]
 
-Jean Lamb writes that she has a story in MOON PHASES #11, \[Ed. Note 2002: Contact info. withheld.\] called "Any Wings to Fly," set in the Darkover universe. It's a tale about what happened when Danvan Hatur first learned that, of all his gifted kin, he would have no laran--ever.
+Jean Lamb writes that she has a story in MOON PHASES #11, [Ed. Note 2002: Contact info. withheld.] called "Any Wings to Fly," set in the Darkover universe. It's a tale about what happened when Danvan Hatur first learned that, of all his gifted kin, he would have no laran--ever.
 
-"I'm pretty proud of this story . . . . THE RIVALS, an original universe sword and sorcery novel, is still at DAW, and I've submitted a story on spec to Janet Morris for LORDS IN HELL. Wish me luck!" \[Editor's Note: We do!\]
+"I'm pretty proud of this story . . . . THE RIVALS, an original universe sword and sorcery novel, is still at DAW, and I've submitted a story on spec to Janet Morris for LORDS IN HELL. Wish me luck!" [Editor's Note: We do!]
 
-**Editor's Correction**: Page 1, paragraph 6, last line, should read "out Rex and Audrey!" \[Oh well, if we were modest we'd be perfect.\]
+**Editor's Correction**: Page 1, paragraph 6, last line, should read "out Rex and Audrey!" [Oh well, if we were modest we'd be perfect.]
 
 To those of you who've sent material to Richard Corbin and not yet received a response, we can only say that we've experienced the same. And can only suggest that the world has intruded into Richard's life, precluding his fanzine efforts for the forseeable future. Hopefully, we'll hear from him again soon.
 
@@ -62,9 +60,9 @@ As Spring makes itself more obvious to those of us who enjoy the changing of the
 
 Judith Louvis and Sally Paduch
 
-**ADDENDUM I**: Attention cat and/or mystery lovers! Pat Shafer was kind enough to share with us the first issue of *The Lillian Jackson Braun Newsletter*. If you're a fan of Koko and Yum Yum, and their human, Jim Qwilleran, \[yes, that's really meant to be a "w", not a "u" om Qwilleran,\] and would like a copy, \[Ed. Note 2002: Contact info. withheld.\]. And please tell Helen that you're a QO member.
+**ADDENDUM I**: Attention cat and/or mystery lovers! Pat Shafer was kind enough to share with us the first issue of *The Lillian Jackson Braun Newsletter*. If you're a fan of Koko and Yum Yum, and their human, Jim Qwilleran, [yes, that's really meant to be a "w", not a "u" om Qwilleran,] and would like a copy, [Ed. Note 2002: Contact info. withheld.]. And please tell Helen that you're a QO member.
 
-**Addendum II**: Jill Pruett sent us a flyer for CON VI, The Generic Science Fiction Convention, to be held August 11-13 in Portland, OR. Misty is listed as the numero uno guest along with Monika Livingston. For more information, write to \[Ed. Note 2002: Contact info. withheld.\]. And, once again, may we ask that you mention QO? \[When you mention QO, you're also mentioning Misty. And the more people who . . . \]
+**Addendum II**: Jill Pruett sent us a flyer for CON VI, The Generic Science Fiction Convention, to be held August 11-13 in Portland, OR. Misty is listed as the numero uno guest along with Monika Livingston. For more information, write to [Ed. Note 2002: Contact info. withheld.]. And, once again, may we ask that you mention QO? [When you mention QO, you're also mentioning Misty. And the more people who . . . ]
 
 **Addendum III**: Judith tells us that both "Rex and Julie" and "Rex and Audrey" are correct/ It just depends on whether or not one is refering to the stage or movie production.
 
@@ -86,7 +84,7 @@ All of you take care and enjoy the summer. I certainly intend to.
 
 Misty
 
-\[End Excerpt\]
+[End Excerpt]
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -100,10 +98,7 @@ There was no art in this edition of the newsletter. If you would like your art t
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
-Mercedes Lackey\
-c/o High Flight Arts and Letters\
-P.O. Box 2970\
-Claremore, OK 74017
+Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
 
 Zhai'helleva,
 
