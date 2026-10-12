@@ -200,12 +200,56 @@ def rewrite_url(value, source, aliases, dragon_routes):
     return html.escape(urlunsplit(('', '', target, url.query, fragment)), quote=True)
 
 
-def rewrite_body(body, source, aliases, dragon_routes):
+def _normalize_target(value):
+    return value.split('#', 1)[0].split('?', 1)[0].rstrip('/') or '/'
+
+
+def _named_page(label, source, aliases, dragon_routes, titles):
+    """The internal page a URL/path link label names, if any."""
+    stripped = label.strip()
+    if stripped.startswith(('http://', 'https://')) or (stripped.startswith('/') and ' ' not in stripped):
+        named = _normalize_target(rewrite_url(stripped, source, aliases, dragon_routes))
+        if titles.get(named):
+            return named
+    return None
+
+
+def _friendly_label(label, destination, source, aliases, dragon_routes, titles):
+    """Give a URL/path link label the title of the page it names, so labels stay readable.
+
+    A label that is already a phrase is left alone. Paths can change, so we prefer the
+    destination page's title whenever the label is just a URL or a path.
+    """
+    named = _named_page(label, source, aliases, dragon_routes, titles)
+    if named:
+        return titles[named]
+    if not label.strip():
+        return titles.get(_normalize_target(destination), label)
+    return label
+
+
+def rewrite_body(body, source, aliases, dragon_routes, titles=None):
+    titles = titles or {}
     attribute = re.compile(r'(\b(?:href|src|background|data-unavailable-target)\s*=\s*")([^"]*)(")', re.I)
     body = attribute.sub(lambda m: m[1] + rewrite_url(m[2], source, aliases, dragon_routes) + m[3], body)
     # Historical URL labels should point readers at the same canonical destinations.
-    old_url = re.compile(r'https?://(?:www\.)?(?:queensown\.org|dragonlords\.fans|dragonlordsnet\.com)/[^\s<>"\)]+')
+    old_url = re.compile(r'https?://(?:www\.)?(?:queensown\.org|dragonlords\.fans|dragonlordsnet\.com)/[^\s<>"\]\)]+')
     body = old_url.sub(lambda m: rewrite_url(m[0], source, aliases, dragon_routes), body)
+    # Markdown link destinations carry the same legacy paths; canonicalize them, and give
+    # links whose label is a URL or path the destination page's title, because paths change.
+    markdown_link = re.compile(r'\[([^\[\]]*)\]\(([^\s\)]+)\)')
+
+    def rewrite_link(match):
+        raw_label, destination = match.group(1), rewrite_url(match.group(2), source, aliases, dragon_routes)
+        named = _named_page(raw_label, source, aliases, dragon_routes, titles)
+        # The archive sometimes left the intended URL as the link text while the href pointed
+        # at the site index; the text names the real target, so follow it.
+        if named and named != '/' and _normalize_target(destination) == '/':
+            destination = named + '/'
+        label = _friendly_label(raw_label, destination, source, aliases, dragon_routes, titles)
+        return f'[{label}]({destination})'
+
+    body = markdown_link.sub(rewrite_link, body)
     # Some source buttons say Queen's Own but were mistakenly split onto Dragonlords' home.
     if 'dragonlords.fans/index.htm' in body:
         soup = BeautifulSoup(body, 'lxml')
@@ -305,6 +349,8 @@ def organize():
             records[source]['source_present'] = False
     records = dict(sorted(records.items()))
     aliases = route_aliases(records)
+    titles = {(record['canonical_path'].rstrip('/') or '/'): record['title'] for record in records.values()}
+    titles.setdefault('/', 'Queen’s Own')
     catalog = publication_index(documents, records)
     # Build every destination before removing superseded source paths.
     for source, record in records.items():
@@ -312,7 +358,7 @@ def organize():
             old_path, original, body = documents[source]
             meta = dict(original)
             meta['extra'] = dict(original.get('extra', {}))
-            body = rewrite_body(body, source, aliases, dragon_routes)
+            body = rewrite_body(body, source, aliases, dragon_routes, titles)
         else:
             meta = {'extra': {}}
             body = '# ' + record['issue']['label'] + '\n\nThis issue was linked from the archive, but its content was not present in the recovered files. It remains unavailable pending recovery.\n'

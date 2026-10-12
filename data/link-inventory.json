@@ -1,7 +1,7 @@
 {
   "summary": {
     "local_available": 1199,
-    "missing_file": 4,
+    "missing_file": 3,
     "unavailable_content": 2,
     "remote_available": 120,
     "missing_pdf": 27
@@ -361,11 +361,6 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "fun-stuff/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "garb-faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
@@ -529,11 +524,6 @@
           "page": "mercedes-lackey-links/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "mercedes-lackey-links/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "mercedes-lackey-release-form/index.html",
@@ -16816,42 +16806,6 @@
       ],
       "local_present": true,
       "status": "local_available"
-    },
-    {
-      "target": "/mailto",
-      "type": "page",
-      "references": [
-        {
-          "page": "persona-directory/index.html",
-          "attribute": "data-unavailable-target",
-          "url": "https://queensown.org/mailto"
-        }
-      ],
-      "local_present": false,
-      "status": "missing_file",
-      "http_url": "https://queensown.org/mailto",
-      "http": {
-        "checked_at": "2026-10-08T12:29:56.954651+00:00",
-        "final_url": "https://queensown.org/mailto",
-        "status": 404,
-        "url": "https://queensown.org/mailto"
-      },
-      "disposition": {
-        "action": "Preserve the historical text; no image filename or email address can be inferred reliably from this reference.",
-        "archive_index": {
-          "cutoff": "20260701",
-          "domain": "dragonlordsnet.com",
-          "exact_filename_indexed": false,
-          "indexed_resources": 2424,
-          "source": "../queens-own/cdx-index.json"
-        },
-        "classification": "malformed_email",
-        "referring_pages": [
-          "persona-directory/index.html"
-        ],
-        "resolution": "historical_gap",
-        "source_archive_present": false
-      }
     },
     {
       "target": "/membership",
@@ -42481,6 +42435,126 @@
         },
         {
           "page": "newsletters/2002/august/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/april/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/august/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/december/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/february/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/january/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/july/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/june/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/march/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/may/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/november/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/october/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2003/september/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/april/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/august/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/december/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/february/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/january/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/july/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/june/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/march/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/may/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/november/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/october/index.html",
+          "attribute": "href",
+          "url": "/sonoran-collegium/"
+        },
+        {
+          "page": "newsletters/2004/september/index.html",
           "attribute": "href",
           "url": "/sonoran-collegium/"
         }

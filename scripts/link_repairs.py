@@ -42,11 +42,21 @@ def repair_anchors(soup, page):
 
 
 def annotate_gaps(soup, dispositions):
+    # A markdown rewrite can change a link's path to its canonical route before the
+    # disposition is matched, so also look up the disposition by its original target.
+    original_targets = {}
+    for disposition_key, entry in dispositions.items():
+        if isinstance(entry, dict) and entry.get('original_target'):
+            original_targets[entry['original_target'].rstrip('/') or '/'] = disposition_key
     for node in list(soup.select('[href], [src]')):
         value = node.get('href', node.get('src', ''))
         url = urlsplit(value.replace('__PDF_BASE_URL__', 'https://files.queensown.org'))
         key = value.replace('__PDF_BASE_URL__', 'https://files.queensown.org') if url.netloc == 'files.queensown.org' else unquote(url.path)
-        if key not in dispositions:
+        disposition = dispositions.get(key)
+        if disposition is None:
+            disposition_key = original_targets.get(key.rstrip('/') or '/')
+            disposition = dispositions.get(disposition_key) if disposition_key else None
+        if disposition is None:
             continue
         if node.name == 'img':
             node['alt'] = node.get('alt', '') + ' (image unavailable in archive)'

@@ -13,57 +13,44 @@ topic = "community"
 canonical_path = "/club-webring/"
 +++
 
-<div class="original-page">
+<a href="http://www.animfactory.com/"><img alt="Click to Visit Animfactory, the source of this image" class="float-left" loading="lazy" src="/qoq.gif"/></a><a href="http://www.animfactory.com/"><img alt="Click to Visit Animfactory, the source of this image" class="float-right" loading="lazy" src="/qoo.gif"/></a>
 
-<font size="4">
-<a href="http://www.animfactory.com/"><img align="left" alt="Click to Visit Animfactory, the source of this image" border="0" loading="lazy" src="/qoq.gif"/></a><a href="http://www.animfactory.com/"><img align="right" alt="Click to Visit Animfactory, the source of this image" border="0" loading="lazy" src="/qoo.gif"/></a></font><center><h1>The Official Queen's Own Webring</h1></center>
-<p>
-</p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
-<p>
+## The Official Queen's Own Webring
+
+<img alt="" loading="lazy" src="/pegasus.gif"/>
+
 Welcome to the homepage of the Official Queen's Own Webring!
-</p><p>
-Only members of Queen's Own may join this ring.  If you are a member
-and have a website you would like to have added to the ring, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> and ask for an invitation to the QO webring.
-</p><p>
-If you are not a member of Queen's Own and would like to join, you can <a href="/persona-handouts/">create a persona</a>.
-</p><p>
-If you have any questions, message <a href="mailto:Legend@malcor.com">Danya</a>.
-</p><p>
+
+Only members of Queen's Own may join this ring. If you are a member and have a website you would like to have added to the ring, message Danya at [Legend@malcor.com](mailto:Legend@malcor.com) and ask for an invitation to the QO webring.
+
+If you are not a member of Queen's Own and would like to join, you can [create a persona](/persona-handouts/).
+
+If you have any questions, message [Danya](mailto:Legend@malcor.com).
+
 Thank you for your interest in Queen's Own!
-</p><p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-</p><center>
-<table border="0" cellpadding='2"' cellspacing="2">
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+<img alt="" loading="lazy" src="/ball.gif"/> [Edit Your Site Information](http://www.webring.org/cgi-bin/webring?ring=qsown;edit)
+
+<img alt="" loading="lazy" src="/ball.gif"/> [Get HTML](/webring-code/)
+
+<img alt="" loading="lazy" src="/ball.gif"/> [View the Sites in the Ring](http://www.webring.org/cgi-bin/webring?ring=qsown;index)
+
+<table>
 <tr>
-<td><img align="top" alt="" loading="lazy" src="/ball.gif"/> <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;edit">Edit Your Site Information</a><p> </p><p></p></td>
-</tr>
-<tr>
-<td><img align="top" alt="" loading="lazy" src="/ball.gif"/> <a href="/webring-code/">Get HTML</a><p> </p><p></p></td>
-</tr>
-<tr>
-<td><img align="top" alt="" loading="lazy" src="/ball.gif"/> <a href="http://www.webring.org/cgi-bin/webring?ring=qsown;index">View the Sites in the Ring</a><p> </p><p></p></td>
-</tr>
-</table>
-</center>
-<center><table>
-<tr>
-<td align="right">
-<font face="helvetica" size="-2">
+<td class="align-right">
+
 The Queen's Own Official Webring<br/>
 is made possible by the <a href="http://www.webring.org/">Webring</a>.
- </font>
+
 </td>
 <td>
-<a href="http://www.webring.org/"><img alt="" border="0" height="66" loading="lazy" src="http://www.webring.org/images/webring2.gif" width="117"/></a>
+<a href="http://www.webring.org/"><img alt="" loading="lazy" src="http://www.webring.org/images/webring2.gif" style="width:117px; height:66px"/></a>
 </td>
 </tr>
 </table>
-</center>
-<p>
-</p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
-<p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the
-Queen's Own Home Page</a>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/barcomp.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

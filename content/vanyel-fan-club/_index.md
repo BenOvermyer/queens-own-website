@@ -14,20 +14,13 @@ topic = "community"
 canonical_path = "/vanyel-fan-club/"
 +++
 
-<div class="original-page">
-<font face="New York" size="4">
-</font><center><a href="/vanyel-fan-club/"><img alt="" border="0" loading="lazy" src="/vfcfronta.jpg"/></a></center>
-<p>
-</p><center>
-<ul>
-<li><a href="/vanyel-fan-club/chat/" vfcqa.htm"="">VFC Chat List</a><p>
-</p><br/><a href="/vanyel-fan-club/faq/">Q &amp; A</a></li><li><a href="/vanyel-fan-club/newsletter/">The Valdemaran Herald</a><p>
-</p></li><li><a href="/vanyel-fan-club/heralds-haven-gate/">Gate to Heralds' Haven</a><p>
-</p></li></ul>
-</center>
-<p>
-</p><center><img alt="" loading="lazy" src="/rainbar.gif"/></center>
-<p>
-<a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page</a>
-</p>
-</div>
+<a href="/vanyel-fan-club/"><img alt="" loading="lazy" src="/vfcfronta.jpg"/></a>
+
+- [VFC Chat List](/vanyel-fan-club/chat/)
+  [Q & A](/vanyel-fan-club/faq/)
+- [The Valdemaran Herald](/vanyel-fan-club/newsletter/)
+- [Gate to Heralds' Haven](/vanyel-fan-club/heralds-haven-gate/)
+
+<img alt="" loading="lazy" src="/rainbar.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

@@ -14,20 +14,16 @@ topic = "community"
 canonical_path = "/vanyel-fan-club/join/"
 +++
 
-<div class="original-page">
-<font face="New York" size="4">
-</font><center><span>Join the Vanyel Fan Club</span></center>
-<p>
-</p><center><img alt="" loading="lazy" src="/rainbar.gif"/></center>
-<p>
+Join the Vanyel Fan Club
+
+<img alt="" loading="lazy" src="/rainbar.gif"/>
+
 Quite easily, actually!
-</p><p>
-If you wish to join the Vanyel Fan Club, please <a href="mailto:moonstar@healermoon.com">mail</a>, Healer Adept Moonstar, our Guardian of Trainees.  She will add you to our roster.  Then go to the <a href="/vanyel-fan-club/chat/">mailing list page</a> and sign up to communicate with other VFC Members!
-</p><p>
+
+If you wish to join the Vanyel Fan Club, please [mail](mailto:moonstar@healermoon.com), Healer Adept Moonstar, our Guardian of Trainees. She will add you to our roster. Then go to the [mailing list page](/vanyel-fan-club/chat/) and sign up to communicate with other VFC Members!
+
 We hope to hear from you soon!
-</p><p>
-</p><center><img alt="" loading="lazy" src="/rainbar.gif"/></center>
-<p>
-<a href="/vanyel-fan-club/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page</a>
-</p>
-</div>
+
+<img alt="" loading="lazy" src="/rainbar.gif"/>
+
+[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page](/vanyel-fan-club/)

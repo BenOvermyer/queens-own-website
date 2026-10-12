@@ -10,7 +10,11 @@ from pathlib import Path
 from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
+from html_to_markdown import convert
 from link_repairs import annotate_gaps, corrected_link, repair_anchors
+from markup_destyle import destyle_soup
+from markup_normalize import normalize_soup
+from markup_repairs import repair_markup
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -77,14 +81,20 @@ def migrate(source):
         # Preserve the editorial homepage; its source replacement is complete.
         if name == "index.html":
             continue
-        soup = BeautifulSoup(files[name].read_bytes(), 'lxml')
+        soup = BeautifulSoup(repair_markup(files[name].read_bytes()), 'lxml')
         title = soup.title.get_text(' ', strip=True) if soup.title else Path(name).stem
         body = soup.body or soup
         repair_anchors(soup, name)
         for node in list(body.find_all(['script', 'style', 'iframe', 'object', 'embed'])):
             node.decompose()
+        seen_anchors = set()
         for node in list(body.find_all(True)):
             if node.name == 'a' and node.get('name'):
+                if node['name'] in seen_anchors:
+                    # Duplicate named anchor; keep the first occurrence only.
+                    node.decompose()
+                    continue
+                seen_anchors.add(node['name'])
                 node['id'] = node['name']
             for attr in list(node.attrs):
                 if attr in ('href', 'src'):
@@ -97,9 +107,10 @@ def migrate(source):
                     node['alt'] = ''
         dispositions = json.loads((ROOT / 'data/link-dispositions.json').read_text()) if (ROOT / 'data/link-dispositions.json').exists() else {}
         annotate_gaps(soup, dispositions)
-        html = body.decode_contents()
-        # Raw HTML inside Zola Markdown preserves the hand-authored archive layout.
-        converted = '<div class="original-page">\n' + html + '\n</div>\n'
+        normalize_soup(body)
+        destyle_soup(body)
+        # Convert the preserved HTML to Markdown; tables and images stay HTML.
+        converted = convert(body)
         home = name == 'index.html'
         target = ROOT / 'content' / (site_routes[name]['content_file'] if name in site_routes else '_index.md' if home else name + '.md')
         target.parent.mkdir(parents=True, exist_ok=True)

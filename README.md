@@ -3,9 +3,10 @@
 Zola source for the Queen's Own website, migrated from the hand-coded archive and
 organized into membership, personas, world reference, community, and publications.
 The original blue backgrounds, links, artwork, tables, text, and page anchors are
-preserved. Imported pages have TOML front matter and original HTML bodies inside
-Markdown files; this deliberately retains their presentation rather than converting
-the archive's complex layouts to Markdown tables. Shared templates live in `templates/`.
+preserved. Imported pages are TOML front matter plus Markdown; images, `<dl>` lists,
+named anchors, and genuine data tables stay HTML because Markdown has no equivalent for
+them, while layout tables are converted to Markdown. Shared templates live in
+`templates/`.
 
 ## Preview and build
 
@@ -58,7 +59,10 @@ python3 -m unittest discover -s scripts -p 'test_*.py'
 ```
 
 The organizer preserves original bodies, credits, and anchors. It updates source
-metadata and internal URLs using explicit content rules. Month-only newsletter dates
+metadata and internal URLs using explicit content rules. Link text that was a legacy
+URL or path is replaced with the destination page's title, so labels stay readable and
+survive future path changes; a link whose text named a different page than its
+destination is pointed at the page it names. Month-only newsletter dates
 use the first day for sorting, with `date_precision = "month"`; the UI shows the
 known month/year, not an invented publication day. Missing issues retain unavailable
 notices and unresolved inventory statuses.
@@ -98,6 +102,28 @@ and unavailable-content notices to existing pages without reimporting the archiv
 After recovering a resource, remove its entry from `data/link-dispositions.json`
 and its unavailable notice from the page, refresh live evidence where appropriate,
 then rerun the organizer, rebuild, and verify.
+
+## HTML markup repair and audit
+
+The original pages contain malformed attribute quoting and unescaped `<`. The pages
+predate emoji, so they use ``<g>`` (grin) and similar letter emoticons as text, which a
+lenient parser reads as unknown elements and can turn into swallowed links, escaped
+markup, and bogus tags.
+`scripts/markup_repairs.py` repairs the quotes and broken fragments in the raw archive
+bytes; `scripts/markup_normalize.py` repairs nesting (including emoticons read as tags
+that swallow block content or nest list items), headings, anchors, and emoticons
+and then converts the page to Markdown via `scripts/html_to_markdown.py`; and
+`scripts/markup_destyle.py` turns the presentational markup that survives inside kept
+HTML (tables and images) into shared classes in `static/css/site.css`. Both importers
+run the full sequence, so a reimport emits the same Markdown;
+`python3 scripts/markup_normalize.py` reruns it over existing content.
+`scripts/audit_html.py` audits the remaining HTML for structural, presentational, and
+semantic problems and records a content-preservation baseline.
+`python3 scripts/audit_html.py --check` fails while unresolved structural errors
+remain, and `scripts/verify.py` runs it, plus a scan of the built pages for unrendered
+Markdown, during deployment verification. Intentional
+exceptions are listed in `data/html-exceptions.json` and documented in
+[`docs/html-audit.md`](docs/html-audit.md).
 
 ## Content remaining on Dragonlords
 

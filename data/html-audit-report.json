@@ -1,0 +1,3936 @@
+{
+  "summary": {
+    "files_scanned": 249,
+    "rules": {
+      "nested_table": {
+        "occurrences": 1,
+        "files": 1
+      },
+      "table_without_header": {
+        "occurrences": 83,
+        "files": 41
+      }
+    },
+    "acknowledged_findings": 0,
+    "unresolved_errors": 0
+  },
+  "unresolved_errors": [],
+  "files": [
+    {
+      "path": "content/_index.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "9cd0e82a187f83edd83343816677c32ae09ef2e8278598d499cb5960ad6fc7ce",
+        "links": 2,
+        "images": 0,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": null
+      }
+    },
+    {
+      "path": "content/community/chapters.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "57b5bb12d546538ab7f8aed96a32ceb55c024a1b16340747ef35a8039044de0a",
+        "links": 1,
+        "images": 3,
+        "anchors": [
+          "start"
+        ],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qochap.htm"
+      }
+    },
+    {
+      "path": "content/community/club-chat.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "af19f33761947394b122884c6e33d19e8df8921850962bd95083542dcfb2aa7c",
+        "links": 3,
+        "images": 3,
+        "anchors": [
+          "pending",
+          "tracking"
+        ],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qochat.htm"
+      }
+    },
+    {
+      "path": "content/community/club-webring.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "d330fa31e7e88fed0181bdd3f80f5cdc90ed5202e40a2e7ef1b49c0d23304b0b",
+        "links": 4,
+        "images": 10,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qoring.htm"
+      }
+    },
+    {
+      "path": "content/community/danya-winterborn.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 4,
+          "examples": [
+            "table 1 (3 rows)",
+            "table 2 (6 rows)",
+            "table 3 (2 rows)",
+            "table 4 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        },
+        {
+          "rule": "nested_table",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "nested <table>"
+          ]
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "7c15bfffad3d3a7f20a4914c3d80630f2fcecf2aa85624f333860f41cf067f97",
+        "links": 30,
+        "images": 25,
+        "anchors": [
+          "Herald",
+          "books",
+          "cchron",
+          "links",
+          "movie",
+          "recipes",
+          "rings",
+          "spells",
+          "trivia"
+        ],
+        "tables": 4,
+        "headings": [],
+        "legacy_source": "danya.htm"
+      }
+    },
+    {
+      "path": "content/community/danyas-cookbook.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 15,
+          "examples": [
+            "table 2 (7 rows)",
+            "table 3 (4 rows)",
+            "table 4 (10 rows)",
+            "table 5 (8 rows)",
+            "table 6 (5 rows)",
+            "table 7 (6 rows)",
+            "table 8 (3 rows)",
+            "table 9 (10 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "cd70b28d8f9fe541b8d342d160998dd93ee19ad6c4f2b96538175a98b21547b1",
+        "links": 41,
+        "images": 21,
+        "anchors": [
+          "apc",
+          "appetize",
+          "aps",
+          "bpb",
+          "bpd",
+          "bread",
+          "main",
+          "mgp",
+          "mpp",
+          "msp",
+          "mtbp",
+          "sbp",
+          "side",
+          "skfp",
+          "soup",
+          "spp",
+          "sps",
+          "srgs",
+          "ssp",
+          "ssph"
+        ],
+        "tables": 16,
+        "headings": [],
+        "legacy_source": "recipes.htm"
+      }
+    },
+    {
+      "path": "content/community/delphi-forum.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "6c554e0ff69297a2c959cc432ab9964dbf91991657f037e3bd505421dea72629",
+        "links": 1,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qodelphi.htm"
+      }
+    },
+    {
+      "path": "content/community/fun-stuff.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "34d6e2d038656e640d97f1cc8b852bdcd1e4b7d2cde4e42de8f8ff56cc1915a9",
+        "links": 70,
+        "images": 38,
+        "anchors": [
+          "Art",
+          "Velgarth",
+          "chapters",
+          "other",
+          "qo"
+        ],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qofun.htm"
+      }
+    },
+    {
+      "path": "content/community/golden-grove.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "f3213f5bfedba13929f326b00a09cd9f1cfa87ac299783a94e9555a27ba4d91c",
+        "links": 3,
+        "images": 8,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "danyagg.htm"
+      }
+    },
+    {
+      "path": "content/community/mercedes-lackey-links.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "3c77c1d14dd43968fe4d9b03b4c89d5d1a4c21545bb4e85f6aa07bc09da2dad1",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qolinks.htm"
+      }
+    },
+    {
+      "path": "content/community/pacific-northwest-collegium.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "4ac6249f2cbafa7d1bbed639742cc63d4a73394483f8f8669c8e225bdda47826",
+        "links": 4,
+        "images": 16,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "danyacc.htm"
+      }
+    },
+    {
+      "path": "content/community/role-playing.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "fcdfd163389d2ef5640f2904d1d6a6570c366fcc3cce757171c6879343fc1ba4",
+        "links": 1,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qorpg.htm"
+      }
+    },
+    {
+      "path": "content/community/science-and-magic-tricks.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "3f5fed7eb304a701e7bee1712e4c0019b99178dec7302b2a6506a3848e8c50eb",
+        "links": 0,
+        "images": 2,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "danspell.htm"
+      }
+    },
+    {
+      "path": "content/community/sonoran-collegium.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "11632b4896041499c6f6e7f6b1b7d0c31dc289f699f4318bcd755c9086d6cec4",
+        "links": 3,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "danyasc.htm"
+      }
+    },
+    {
+      "path": "content/community/webring-code.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "6f77d7714aa23b53fd1c411e6a6516798ff7b2d22920f8b5a81d4ad57f07b729",
+        "links": 2,
+        "images": 9,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoring1.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/about.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "e545e648f935256d5b440846ca09ad7a33affa93f046c67bdb169bbc76d07fa2",
+        "links": 1,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojournal.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/spring-2002/_index.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "290b03df63aa3b358e8a4103da3eaac693423d06453cf4b3b1370639dcfe2ab8",
+        "links": 0,
+        "images": 1,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "cr2toc.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/spring-2002/arthurian-tales--references.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "5324ed4046b7c74c6de6cff474e5f9e9567b1114f6fb4ea45a1bd360c21f8ef7",
+        "links": 9,
+        "images": 1,
+        "anchors": [
+          "note1",
+          "note2",
+          "note3",
+          "note4",
+          "note5",
+          "ref"
+        ],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "cr2tat1.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/spring-2002/arthurian-tales.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (3 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "3080dba23db3116befade0f5a52c0b3dbd98d971441a46e17484234242ffc56c",
+        "links": 5,
+        "images": 1,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "cr2tat.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/spring-2002/diversity-in-libraries--references.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "c3943346eeb83034c75929096c6dbc44c535cb9c3fb63bb799ed59e5b4d63a9d",
+        "links": 13,
+        "images": 1,
+        "anchors": [
+          "amer",
+          "barlow",
+          "censor",
+          "green",
+          "kropp",
+          "manely",
+          "marsh",
+          "ref",
+          "scales",
+          "schlaf"
+        ],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "cr2ddl1.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/spring-2002/diversity-in-libraries.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "46ee2b211b084083e37eaa27fb189bdf8dabd37b09516ad9660ed9b47b83c746",
+        "links": 4,
+        "images": 1,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "cr2ddl.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/spring-2002/editorial.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "72436148bdc5dbc5a3e4230ffb83f74f13d9a409bb812b1a5f114630ebae1eef",
+        "links": 3,
+        "images": 2,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "cr2le.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/spring-2002/music-in-medieval-ireland--references.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "092d45184ad1f6321d55da2a66f1012ab00063a7b49e213706622f2b7e58c250",
+        "links": 27,
+        "images": 1,
+        "anchors": [
+          "alramar",
+          "altramar",
+          "buckley1",
+          "buckley2",
+          "buckley3",
+          "cailin",
+          "caillin",
+          "depaor",
+          "flood",
+          "gerald",
+          "hamilton",
+          "harrison",
+          "joyce",
+          "note1",
+          "note2",
+          "note3",
+          "note4",
+          "note5",
+          "ref",
+          "richter",
+          "richter1",
+          "richter2",
+          "rimmer",
+          "sayers"
+        ],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "cr2sim1.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/spring-2002/music-in-medieval-ireland.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (3 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "b1f96a2e2f5a8f6383a0c8a20b14132abbd46a54117bf0f35fec55ad454bcab0",
+        "links": 5,
+        "images": 1,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "cr2sim.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/spring-2002/reviews.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 3,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)",
+            "table 3 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "d7c697f461e4d37c21c3f84f7e96e58a8f1c7c8ddce67924c10d21f2be9f2c6b",
+        "links": 15,
+        "images": 1,
+        "anchors": [
+          "Ribchester",
+          "bwe",
+          "dungeon",
+          "fiction",
+          "film",
+          "grinch",
+          "nonfiction",
+          "restore",
+          "video"
+        ],
+        "tables": 3,
+        "headings": [],
+        "legacy_source": "cr2rev.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/summer-2000/_index.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "48951fa7ffe6c590f7d85283f64dc86ad1f250e11efc70f663b064bf9fbe63d4",
+        "links": 1,
+        "images": 2,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "crtoc.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/summer-2000/editorial.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "c395cee05c66455b384b3f4ee1e74a3a7b78adbb7c6d883b8f71a163f9c88fdb",
+        "links": 3,
+        "images": 2,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "crle.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/summer-2000/either-or--references.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "225f461a854e7d37fff4938c4709b7bd283f3768cec87252bdf6e6fe6848ea2b",
+        "links": 10,
+        "images": 1,
+        "anchors": [
+          "albrecht",
+          "crooks",
+          "harley",
+          "kingston",
+          "leland",
+          "newitz",
+          "toufexis"
+        ],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "crbi1.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/summer-2000/either-or.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "331c361eeb49589697d3a3e803d06aee4f9bd54749235f4d5a60a477437b9315",
+        "links": 4,
+        "images": 1,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "crbi.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/summer-2000/from-reptile-to-mammal--references.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "7a91f002c812aaa992e4bcd825fe35353eea63317921a962868e37bea4f9d6e3",
+        "links": 12,
+        "images": 1,
+        "anchors": [
+          "benton",
+          "campbell",
+          "eisenberg",
+          "jenkins",
+          "kurta",
+          "mcloughlin",
+          "monastersky",
+          "strickberger",
+          "wuetrich"
+        ],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "crfrm1.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/summer-2000/from-reptile-to-mammal.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "0ca03d2d9f23e0a27b480cdb32837b01cf286dc45552066d73c24823330f9df6",
+        "links": 4,
+        "images": 1,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "crfrm.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/summer-2000/in-the-name-of-god--references.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "38435e5d2b8e6fb39236e9589c74add1361cd726f4ebfa528965511f5ddc4925",
+        "links": 29,
+        "images": 1,
+        "anchors": [
+          "bachrach",
+          "chazen",
+          "hollister",
+          "holt",
+          "leclercq",
+          "malcor",
+          "note1",
+          "note10",
+          "note11",
+          "note12",
+          "note13",
+          "note14",
+          "note15",
+          "note16",
+          "note17",
+          "note18",
+          "note2",
+          "note3",
+          "note4",
+          "note5",
+          "note6",
+          "note7",
+          "note8",
+          "note9",
+          "ref",
+          "ward"
+        ],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "crc1.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/summer-2000/in-the-name-of-god.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (3 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "11b59ccc10a33ddb9ffbd602a6e1650f33513e13f8e0e7a158e6e85cc49172ac",
+        "links": 5,
+        "images": 1,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "crc.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/summer-2000/reviews.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 3,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (2 rows)",
+            "table 3 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "ec2786a935d3997d8b091d87d18926542b0c8f05ee97755c9c365eefdee9d377",
+        "links": 21,
+        "images": 1,
+        "anchors": [
+          "bb",
+          "cd",
+          "comic",
+          "fiction",
+          "film",
+          "g",
+          "gq",
+          "nonfiction",
+          "ren",
+          "roundworm",
+          "sf20",
+          "smren",
+          "video"
+        ],
+        "tables": 3,
+        "headings": [],
+        "legacy_source": "crrev.htm"
+      }
+    },
+    {
+      "path": "content/compass-rose/summer-2000/sink-or-swim.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "63ae7a4d9ae829cc2611ce5d293a893fa991986ccb40627e6a17e4fa06a76431",
+        "links": 3,
+        "images": 1,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "crsos.htm"
+      }
+    },
+    {
+      "path": "content/dream-casts/magics-pawn.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "0abf22024d1047e518faddce7633511d3a1ec86034dd6c5e2e77c64d0f1a8a26",
+        "links": 1,
+        "images": 3,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "dcpawn.htm"
+      }
+    },
+    {
+      "path": "content/dream-casts/magics-price.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "550a24a263923b08ae509302e5ea2e18064e5a3b12d1d1c5599f9f4314b5a52a",
+        "links": 2,
+        "images": 3,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "dcprice.htm"
+      }
+    },
+    {
+      "path": "content/dream-casts/magics-promise.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "9cafe8c6a8330b95b77d22b9261f522e8113857eef0fd16b6b39d8dcb74c155a",
+        "links": 1,
+        "images": 3,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "dcprom.htm"
+      }
+    },
+    {
+      "path": "content/fan-fiction/_index.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "900e7a69f623756176331051aecd652bf33b15b8d071e6473d3291eea0d0a58c",
+        "links": 14,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofanfic.htm"
+      }
+    },
+    {
+      "path": "content/fan-fiction/children-of-velgarth.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "095fde6238473b9e80b3c2fa5f7d22b35812b3605c99df76fb9f881dea606e1b",
+        "links": 1,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qozine.htm"
+      }
+    },
+    {
+      "path": "content/fan-fiction/mercedes-lackey-release-form.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (2 rows)",
+            "table 2 (2 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "02ece8d7417b35f53b489003da15f6f7f1791027fde7438cef561c824bbaa954",
+        "links": 0,
+        "images": 0,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "mlrelease.htm"
+      }
+    },
+    {
+      "path": "content/fan-fiction/release-form-instructions.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "7ed076b5818948a621ddc2d7b8b08c674615dfe9aab178ee24f0dce818f37869",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomlrel2.htm"
+      }
+    },
+    {
+      "path": "content/membership/club-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "cb417a82ba238940e22f51f8942fd24cba069ba15ca48f735f1077f05b8202a2",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqqo.htm"
+      }
+    },
+    {
+      "path": "content/membership/club-seal.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "7618c708c499b350fc0bcdd4b0e2e7fc0415ba3a4ace58090715375f7ca8c407",
+        "links": 1,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoseal.htm"
+      }
+    },
+    {
+      "path": "content/membership/how-to-join.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "9d269332c3b209dfd7a104a345fb507851b39ce247eb95d0a0867e55161bb1d0",
+        "links": 1,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojoin.htm"
+      }
+    },
+    {
+      "path": "content/membership/mentors.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "18c3e1a7282ddda11462ec96d0e75eb93b6b45db82451b4e54b103689c2920ec",
+        "links": 7,
+        "images": 3,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qomentor.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1988/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "5beb7413dccf4bc7985e6e7fb7841fc6d98386729098274b547e114a73ee47c8",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr88.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1988/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "ba660716f79a44dcc1602c06a28df150deb265aea0aaf760b72e4e005092913a",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul88.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1988/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "33ea810977b45e4e9fcc8f66ec9961a20e667780f836dd91e277c58d0821f415",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun88.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1988/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "c71b9bf2fed95886b32caa98a82dffdc6ebdb88a6d61273536c686fa76ba9686",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay88.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1988/november.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "76a78ea6ad435b5af0b7b99dc47485f9a83270fb3b52aa000081ee69fea65f6f",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonov88.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1988/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "fedf0f26baf15c3c029ae91d0695098f6c2bb6b64c03664346fb671c3ea8c478",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct88.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1988/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "311c896f03a259bcbe5c7d55b3acf82f5f05d194f499969fbe5e5392b78adbfa",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep88.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1989/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "546bd20031c551e96aaa28d0fff7a2b2c21f13de28bff326ec6769f4499b9fd9",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr89.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1989/august.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "adfc2ebae57929fb92041422c47e8ef28bc76f14ae4925dc41d2fa3d1a1efc4d",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qoaug89.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1989/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "d384439545220487b583cef6d51e657dbc22cf32a8760398a877e2278c7bdc3b",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb89.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1989/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "f325b129d1367085fbcb73cd9416a879313e9e08ca6c53e76aa0dbc7b6ef9c86",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan89.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1989/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "35f2f5a3082e94584259eeaeb01fc978668afa8b2b12f5ad45e047310983b228",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun89.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1989/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "5896e168c9a0bdf9981fd8f4bbb78e5bebb22fab843ac753145ec39d07763ceb",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar89.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1989/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "c2bc15ffc70c95af156076fc34c7ad433bced0a0b7e02b2ccc27e2abb2705ecd",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay89.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1989/november.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "f4dd85b003caeb427ab6de2e753c3a6d4db041fb151034daed43981698a2edac",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonov89.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1989/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "78ec8a7a0a56a00a57f7f99d8750bf8e4e33280f54c48e5c5840104ebf7f7c6a",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct89.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1990/april.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 2 (5 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "92cf3a7e2ae324ffc150cf04d97d3f7947a95f7b486491dfb8b95b252a7ecc5f",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "qoapr90.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1990/december.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (9 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "0fa440e996e70069d6edf310d27da3f0f037999f1000258ac0a16a51ec7a69a6",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qodec90.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1990/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "3dbfc81596de3cc08173eba1552741e2f6c8903b63e09637da463921866bf9c8",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb90.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1990/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "b3a61517555a045f9ecfa795d749cf2d941e88ecac663780e7e4c99824529e3f",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan90.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1990/july.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (21 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "8e1408d8123a85a01bdeba6d4d04637da82eb7f04f39918dbbd4ee5f30424fa6",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qojul90.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1990/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "574a191a7f1761f4dfa38c480d5271af80007e318d7ee42de6237833e3cefbe3",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun90.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1990/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "95e44064a4ec98115ba48db26a3fdfabbf96be09c981562e7c1bc2e9764932e0",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar90.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1990/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "616508de15e42219df8f6e1b1a09c1a305c91bfab0803d7f6cf9f26905521e6d",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct90.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1990/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "063a073702591f6656c1351d2cf33792647f3208c9c5a8c86581d7b96ff450eb",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep90.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "1eb8c4f246ee30c48af4b43ab9339d740268d93942570c710bb571dbce7bbaa0",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/december.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "c487c8f61268ca18008533a4859a88627a1d71167033392c3d58e3d2985c0af3",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qodec91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "08fb6bc2333b4f92b45b2e00e6e15aa57c265760c905fb6b2eb5d18938da329f",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "8255cca69c5e8ba92524a82cd1547484ead55c839a563327d1c78343c4fff82d",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "92a74770cebdbe609342878c1d4d1a7b579d353cfd20d185042382ba3bc04fc4",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "2ca7c4a7dcf6e78db28655d1fcaef9f5a76120db3172533d19dc490c8e2b2142",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "567535f7c60cfa92580cdb1bed11dbdb97e4b65dd67d80c9c12fa5e928eb6edf",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "9e38f4324b99cae77fb0d070e50ffcdd716e99790ded12e928fe5d5eb33fffc0",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/november.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "ee49dcda7aef543adb63a1d26a9d426f0bb55b4885f41f920e5cdd4bfd11a6ce",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonov91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "ee489cfece7a41f9fefe48fa47cfc9c4fc31bb48026c365d25af1b65fa1ecce3",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1991/september.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (23 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "aa5e6ad1bc10c514e9ff48373176ff38d36d8e1cfde16cdf8edc114b6eece70d",
+        "links": 2,
+        "images": 4,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qosep91.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1992/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "3245290983faf3c9d17cb2a77651feacf6c0e511e6fa6ee1b892b8cd15809206",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr92.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1992/december.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "afc6a8c51475b518e39ab6cde2b738c8b183141f08a040af9fc9387f494561ba",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qodec92.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1992/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "408ae6a6446c051b0f10512b35649f69b01385ba788e74b6bbae48c3ee2d5bbe",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb92.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1992/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "f94d9b2b4f483b17717d4058e59ca1a1dbb4bfcb5451091abee0baac52434581",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan92.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1992/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "0b69a3cdfe8c4dc281fdb3a6ac98503d28fe974f49163e5c7890cea695310af5",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul92.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1992/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "7de137f840281852cb84de4c816d45d6416510f892e31fe50661a94edef72cfc",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun92.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1992/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "7a2009c43729d87f7297d8ac2ad484e46b4fc7bb9dfe9e73dade611208e975f7",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay92.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1992/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "eb8141843a5976fc544945e7538bb34218c87df687d501296bea50713975e4df",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct92.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1992/september.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (31 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "4adb1d3eec682c6d94c464bfceeb3cbeaa193ffa8d65ea85d946a28882c91610",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qosep92.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1993/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "d922d230672eede17d773e397628c766ddcd87b2c72293c83b9441b1178828ef",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb93.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1993/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "9464d0beb8a2b162b59f60ee287d560ad2ef8d575b60aac3a4c77d17fbaec2b6",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan93.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1994/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "183a7194e3eba532021fee3a92ae5ffb16ba18dfa306b80a4609a05dba7537e9",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb94.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1994/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "c0a82f5c8a0ff17a257938d848fb007749731db4bc3437a4344eeed8882d3378",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan94.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1994/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "09f0aeea828f62b2874cade11df6e22373c926d7e5416e8abdc42eb3aac68b91",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul94.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1994/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "27c3e0912e222104fece7d3f0d4261348c2f343b3aa8cbebfb3071211e5636d8",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar94.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1994/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "34eb10c7b0387a05fdf1fd4f4740a4a298458b00b1ecc9d1560091df659f44da",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay94.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1994/november.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "079b4cb280f59b83f3ec36ffff060747567329ddc312670d862aaff0efb8b1d7",
+        "links": 2,
+        "images": 8,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonov94.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1994/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "86c99ec15f81f59b93402647b314ef3d69046a2cb287ce7777d0c12245d98e60",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct94.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1995/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "cf0de629045e4dc05bd9b4857dc0fd137dd5a70e6a7eae9cd5311d9f8a72f53c",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb95.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1995/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "5fb9996001f8b798fda711530bf86729cb18df681bfaff34586536b6304019af",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan95.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1995/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "810b253c4bc4d4f5c8de5b3951bb8482a2af60dce6ca79729b1d1734a3194372",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar95.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1995/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "317107bdf0851060a032db55d6d88b88dd9dc07a11459e12711b5aa4fddd3373",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay95.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1996/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "0368195fac6a40289610e9c631a59fa8de3964c5875ac391b85a469f6760e7fb",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr96.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1996/august.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "f979fed4e6cc51738cedf62758c6a9207697fefca1864e16d399de23787257e6",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoaug96.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1996/december.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "e22f15643c8b99fe1e872eba662d2b725a0b85b5c820ca7b3c48a337675ee7d5",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qodec96.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1996/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "db94edd8c1eec1aa6b0989bf38f1ef194b8c6378b107f08e80bc637c95f63eb7",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan96.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1996/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "dced5c61b4998d0d87612d64a9b4fc5b46877513e30841b2538b31ed0f20f6ae",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul96.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1996/june.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (40 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "03dc937580eb112b877e18359657082cd38b487bdeb6c8dbafe54b4ac3dba6e4",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qojun96.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1996/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "32b059eded2d1bc4d8420663c4d842116a22eff2600ee991a93b1ece338a274d",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar96.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1996/november.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "5230cfef5fc03ca1bc9c74fc9e95d406dd4b67450cbc725d53857606736436bb",
+        "links": 2,
+        "images": 9,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonov96.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1996/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "edfc02514df3de5d1855440b2aaa73eef4341aec42a7e05bdd0da1b755ca411e",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep96.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1997/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "427114530631d12645b5d0d63fe396b614a95b5496737b2c0608f7b8b3a222ca",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr97.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1997/august.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "21c31eaa5f11d13bd36c3ec30e18216dba7228fd452cd5466897cdbbc104c54a",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoaug97.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1997/december.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "622aa3a74d78949fe36ac9420ce9f8cb9d3567a8a19157b3bc6ff6590cca3ea5",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qodec97.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1997/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "e340b0d277c97ce07d3c0bce5f51a3a8792d9c97f672c297b206b103f31bc3d5",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb97.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1997/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "ab3d930924a0a3fa4d570ce55646d2f0d7c72df5e157d875a7f27447c2892b97",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan97.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1997/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "f880a3c2631ae03dacba59838454e3d6844eada45f40a2d8b2584d0f978f2dbf",
+        "links": 2,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun97.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1997/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "6d02a4ec820cdf410f980c655f06231e5bd5b7ad669ec312e7235381731da7a4",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay97.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1997/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "0844af6fa890be5803c61f476299cf375ac0d3c487631b207206bdedae77fdd1",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct97.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1997/september.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (46 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "ce9e9cd13a4c0de6226e9e25472b4cdab39baad4f2e632b5ae74ede911462f77",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qosep97.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1998/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "2e45cf68358f88e1eed78debf1ca1ccab4720b3c482b16d8c9692e89d25fbf06",
+        "links": 3,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr98.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1998/august.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "496fe266cd0f6601a230421b0f1c25ecc2791f5f3efd80e632fe7e8fb2731e16",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoaug98.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1998/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "e1d06de0c6a38a0a29ffeffeb74cc99602e73fc63f6842f0b81ef71e294856b3",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb98.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1998/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "da9917e77f6fad25ad431b0c5ff8e3fc8702fc7b3d1a912c0d7bc5290c73588b",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan98.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1998/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "7a08e908a16cadfd45e24757b8918145e94ced32315b6266c1b89c7ba9cbe1b2",
+        "links": 2,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun98.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1998/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "888c3629c6f81a2ea4076f6c945db80cfaa0f31d75e8c00ae72d6d4320cee846",
+        "links": 2,
+        "images": 8,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay98.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1998/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "981821eba3d5f368b5844ca36a3057f70225b2d6e939104308e296797950daa9",
+        "links": 2,
+        "images": 9,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep98.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1999/december.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (48 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "4e606ee2126e7473e0998136d07b80a1e20e40d3d16e93f6c68e962e09542954",
+        "links": 2,
+        "images": 9,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qodec99.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1999/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "af204a6b569cbf6d2b7ff1f732757bc5d5de45174da4424400a7f309453f71e0",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan99.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1999/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "f131b9a7f2585aa34121d225a74ca81cef5cb431576ffd899c5565c5d1dcf365",
+        "links": 3,
+        "images": 6,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul99.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1999/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "6cc967d9ecc21efcd45991bcb2d0410b519148689331502bbf680b040b446a6b",
+        "links": 3,
+        "images": 8,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun99.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1999/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "540d53bfeddf7f827b8bf4bd2e99d177e47387ddfecf6df07a87508c35b94897",
+        "links": 3,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar99.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1999/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "029f30b9318b69ddea01aae1043aff164abcc7c92be67ba959172e5aa751385f",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay99.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/1999/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "0e9d755ab3c472289862a79faa5e7fce3b0c10f1b682149a5081b168165384c4",
+        "links": 2,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep99.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2000/august.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "8a1d96c96cbd2e8a5d1678b134cb20f2d5057bd82b84353de23bdac4afd9e95d",
+        "links": 2,
+        "images": 18,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoaug00.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2000/december.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "cc2b62c1947992572029021d0bc3a1c26d7d645ce4d392770efd6f683531d36c",
+        "links": 2,
+        "images": 19,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qodec00.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2000/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "35cf696f1e653d633cf1878cbd4a0481db7a596aa13e90a309ae48cdf2126d96",
+        "links": 2,
+        "images": 16,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul00.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2000/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "ec3c4cb53bd7cf1f5e7ce5e27222c21ff9e678d11038e76fa054c97afb184fd5",
+        "links": 2,
+        "images": 18,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun00.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2000/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "196b783958060fb3842faf78d3ea1b037ab441be98fd4cfafb68ab5225606a8d",
+        "links": 10,
+        "images": 21,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay00.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2000/november.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "4eea42e801e984e004cd2adf2d7887531f2e7cf417b59735ce6f7d3e029fc9a1",
+        "links": 2,
+        "images": 18,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonov00.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2000/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "226199f66a3ffcf5644933fcb66f43f8fe6f11de1ee2265d1a70da7f7fd5acf6",
+        "links": 2,
+        "images": 18,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct00.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2000/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "f1f8f3f5ce76555798d5f10810eda07abb81e4842cbb592c7b6a87a90ad766eb",
+        "links": 2,
+        "images": 16,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep00.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "93f73266504f5b0dd2d8187151df28792a7f9fdfad1cdc4f1b82b3643c2d995a",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/august.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "f2fd69a88e0836f40752ba6fcee6847a748f37bf9670271f683d79a17b3be40c",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoaug01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/december.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "4bdc10d9a96339e08fd2fc6ebef1df2c62d9de9d640a3d40084e014fcf7e0f04",
+        "links": 7,
+        "images": 15,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qodec01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "0228cf5be2817b6ac72b1aa1122e5da5c84016d7c3e83608549531099d875204",
+        "links": 2,
+        "images": 16,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "3461fdc0e26ad4d7edf09e99bfe9071702b2b8132a4301ea51cc705c1f3a59de",
+        "links": 2,
+        "images": 18,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "cfbd6b5dd1a9dd0cac806e4756c040a1b01d64bb2cccb2f5114327daf6aae6ed",
+        "links": 2,
+        "images": 14,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "2f07e3f6d1c10970ce36ecca554aac621ac27c84fce393de722d59e3f5a47422",
+        "links": 2,
+        "images": 14,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "b201236a3cb3f0572375b82ef755e765490418996db2102bec1c66415f50cb0a",
+        "links": 2,
+        "images": 16,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "af113caf79ae83b657b062eebd4e5feda17290ce61da0e4f916da1e57c4c5827",
+        "links": 2,
+        "images": 16,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/november.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "748a03f995d8b63b7a50a13da2b76f7f5b28726f319f552a79e7ea57fa5e543c",
+        "links": 2,
+        "images": 15,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonov01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "e84a7943c88dcee2708b87a52c2702b4dbb38cbc6ec38d5823ed1fddf0d10738",
+        "links": 2,
+        "images": 14,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2001/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "f6be221d0cec73d6b16e1f50483593b265c503fd86ec06b863a937b4bdcde94b",
+        "links": 2,
+        "images": 14,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep01.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "3ddc716b31e442131c8ddbac71ba0950be4caafb3d84988fcab27445a49a1fc0",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/august.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "bb975d801b107548f6574cdb43c3f79d9f9d4743fe274a0d7d8e08defd440f50",
+        "links": 3,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoaug02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/december.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "aab62b64ed24ef4d68939bb31626929bfd46fcb5ad2323e55fbf5e317141b883",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qodec02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "b725c23efbb57972619ba424f14702a3a8efedea7a09e390e73e03a644cd6239",
+        "links": 2,
+        "images": 16,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "55102210089db58606080c180dace0525d48292599a99a4b3ac654fcc5036244",
+        "links": 7,
+        "images": 14,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "da4ca999a7c34c943c5140988de08fdfe85b50f8ce0e1381865a8d5eea57128a",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "358c6512274b105d25f50a3814219c4cc95256dfdbeb9930373c20a67e0a1e7d",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "c8aeb00bc2fe2623af61f5077d5af94f69e3c4798cc662b6fb78f23a6efb74dc",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "890ef7b7f862a520e1cc75ed3d57987589468f12e9ce3b7be3fe09b50231269e",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/november.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "9e49f0779e5011efde28c396c4c0f92f036519c57f886a035e09cb077803f8ee",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonov02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "102c88e055335a08510f79176f193dee1866474e11dad971e41878324658d5e3",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2002/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "85eaa69bfd2d9895371077b6cc3fe414c41ff748bf34072bdfe6d681df2a5430",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep02.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "19b19a460e13720fce98a9cd0859fa742be1bc597ed976b981d58a1fb7e21d48",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/august.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "a653ce97efe33ea28e3957c2b738fdf1ae99796d6de605efb20e37fa16a54e82",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoaug03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/december.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "3cc509ecb3e9b66062dd0765980d76ec4ff1a7eb6c830dcf70c7e851734c1715",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qodec03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "22cd7f9dfdff3cbf31b8580af179cef30fbb67502025038c5146175d6df2a0d9",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "a35374132deb61c817a404e9c7dc36d35ebe3c07011b9e1acbc0047c961ffe20",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "8f2105c44aa3e4bd15341ba633e1ecd5c9d38cc02aea141b12342229050d4df0",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "3d956db9468f26310c71b2225c5f84d7f42a86dc8190466455bc67cba2ba217d",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "4c0fc5dab6346cabe771658e5c2e99f5f9db85fe3875e92e6fa526b78b4a123a",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "aa2cda3adbf515796ec9ea0be9c80c8ba6346df35d33402429accd025d9d62ac",
+        "links": 2,
+        "images": 13,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/november.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "82e69f451e8e66ba08c3077038021bae7a77f7d48f25f37704cdf5d7ebb8bfbc",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonov03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "c620de3c45c2a4911a52c493fa2c2a7f66820e3e84c160ce452b3ea0cf7cfbf2",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2003/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "38338bb6975787f344c269d20688928f1bd5d42c67ff350930affa3b0b4ddb9a",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep03.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "1852e5f2076beb1a29b9b5196544314051b712c2217eb2e2b43d710c4e625cc3",
+        "links": 2,
+        "images": 10,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/august.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "6ad6294e540cd94141961fd450059b3491250ee7b053de003958f5a654f73509",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoaug04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/december.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "88ff97ca6526e0c23b20524e1aee56aa2fcfc9238d4dba0a789c67edf2c01124",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qodec04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "72e423d8a4dd32e03643a0b7969ada3f1d8243b6ee2bb0adec0f37776692f917",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "2c5f03c3d1f092a38df354142767c74565b31f82d737f2921b4a2c28b3763996",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "a617e39289bf0edbe9eb19c91d825e0173ab8b09d6d1ab83a2fe1364f542395d",
+        "links": 2,
+        "images": 10,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "255951fae3aec08c9443b541deec1cde04406b0d1a13165bc591ee58404e3758",
+        "links": 2,
+        "images": 10,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "0aeea96c3892e3eef2f8b57e0a011fed804cd63ba1fdc4f12d912ac17bd85bbf",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "4da10ad87076383b75d6272f93caa7b142b61219243ecb604c1262c41692b87e",
+        "links": 2,
+        "images": 10,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/november.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "ad8c6ca8bffaf64c49ee27ad2659c8a6b01533ef38818e40de0780ad570a2bc8",
+        "links": 2,
+        "images": 10,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonov04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/october.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "5472ff3e2d4a4ab4019d997cbb0834be16797b8f4851c1057981bc2ab906d7ed",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qooct04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2004/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "ee03c1fbc7baf3053670493af7a75eb8ae1d11e9758765eab559d6f8a5b1ca64",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep04.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2005/april.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "a829ffdd53cb0a09907f2f37a177c61d947a5c2510e6d5333d59c6e7749e84d5",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoapr05.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2005/august.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "3b15c32d3f7ebf2b44566652920104f690e0f1b409357d31c7f106069d95c124",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoaug05.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2005/february.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "fe5a46f620d8aaf9cc6c2228350589f129d871fed6603af031409f92eb22b4a9",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofeb05.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2005/january.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "ace09a06f23daeef0b98510263927b61d461377f2261e5e84549e1689e0c5246",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojan05.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2005/july.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "c489be87685e5dc22b95e9b80efc91c2e451d67283feb64a3c560b0efec11183",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojul05.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2005/june.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "6d438c31be8c704f3ed32d599b92ee3cb40ce56eaf87ad38a50f77039bb4b7fb",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojun05.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2005/march.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "270bd4447d51095e8e08df4f41917f281601282efaa8bf122aba1ce239bd672c",
+        "links": 2,
+        "images": 12,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomar05.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2005/may.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "4fded04405bfa27219ea9621dc619b42ef54868d630088cb12b843bfa781e54e",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qomay05.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/2005/september.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "ccadf48bd15314911bab8acf7ebdf3d58ddc01b759b95778933283c1f5ea6a99",
+        "links": 2,
+        "images": 11,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qosep05.htm"
+      }
+    },
+    {
+      "path": "content/newsletters/newsletter-guidance.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (2 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "af96b143d63be9148ae8fdb017d96b38b476f458fa152b8af06656b49aeeee0e",
+        "links": 158,
+        "images": 12,
+        "anchors": [
+          "article",
+          "collegium",
+          "cons",
+          "faires",
+          "fan",
+          "member",
+          "past",
+          "personals"
+        ],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qonews.htm"
+      }
+    },
+    {
+      "path": "content/personas/bard-handout.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "2afdac6ac86eff20a724f78d18f2c17cc9de0f01a9a9c11b30855f3e75d0e322",
+        "links": 5,
+        "images": 7,
+        "anchors": [
+          "court",
+          "master",
+          "story",
+          "teach",
+          "teacher"
+        ],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "qob.htm"
+      }
+    },
+    {
+      "path": "content/personas/blues-handout.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "c8b15ee186f55b550d4403ad03a92c41adcaf763177782045afdc30b053b00c4",
+        "links": 5,
+        "images": 7,
+        "anchors": [
+          "advance",
+          "artificer",
+          "guard",
+          "scholar",
+          "special"
+        ],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qobl.htm"
+      }
+    },
+    {
+      "path": "content/personas/guild-handout.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "63d3588c28c9733da0610f3fbdfdcb262414cd04a8d8c87651e0dccf3bf58193",
+        "links": 4,
+        "images": 7,
+        "anchors": [
+          "advance",
+          "journeyman",
+          "master",
+          "special"
+        ],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qog.htm"
+      }
+    },
+    {
+      "path": "content/personas/healer-handout.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "7f7c9d8ed5efd397fbfb29d5d80cd9f742c9b8f82c7f862d8e05b3e6cff9e110",
+        "links": 5,
+        "images": 7,
+        "anchors": [
+          "high",
+          "journeyman",
+          "low",
+          "master",
+          "special"
+        ],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "qohe.htm"
+      }
+    },
+    {
+      "path": "content/personas/herald-handout.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 4,
+          "examples": [
+            "table 1 (1 rows)",
+            "table 2 (3 rows)",
+            "table 3 (6 rows)",
+            "table 4 (1 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "5ff20b1dbacfd01be298e760c1d5bbab0c63249d6311a7733c142b733545802c",
+        "links": 4,
+        "images": 9,
+        "anchors": [
+          "history",
+          "message",
+          "teach"
+        ],
+        "tables": 4,
+        "headings": [],
+        "legacy_source": "qohh.htm"
+      }
+    },
+    {
+      "path": "content/personas/herald-mage-handout.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "6e85e48a36aeeb471b46c4cd5f8ea7c35c92bca7dad9b3520691ebfbd01f2d4f",
+        "links": 0,
+        "images": 7,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qohm.htm"
+      }
+    },
+    {
+      "path": "content/personas/kalen-edral-handout.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "7a42bbdbbb624b7e9d13afc1e135cd614265515a7f47c7ee09a3be98fcefb161",
+        "links": 0,
+        "images": 8,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qok.htm"
+      }
+    },
+    {
+      "path": "content/personas/military-handout.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (8 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "09f459675fc6a58d0765b43c5a5829e3a12c59750624c721c045a7f355d19448",
+        "links": 3,
+        "images": 10,
+        "anchors": [
+          "advance",
+          "captain",
+          "palace"
+        ],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qom.htm"
+      }
+    },
+    {
+      "path": "content/personas/northern-barbarian-handout.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (7 rows)",
+            "table 2 (4 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "b5aad8cae04f0341db88f91800f9fd1534de172930784bc394532c62e03162d0",
+        "links": 3,
+        "images": 7,
+        "anchors": [
+          "chief",
+          "elder",
+          "warleader"
+        ],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "qoba.htm"
+      }
+    },
+    {
+      "path": "content/personas/npc-directory.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "e29aa9c41de81f3dffac72d3d3de4c8176085e14233c885db6b935c7613f781c",
+        "links": 4,
+        "images": 14,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qonpc.htm"
+      }
+    },
+    {
+      "path": "content/personas/persona-directory.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "dd9eb335b369aa94271ec659ea4f30d325ff2453437e52c3217d4b7ef75824ea",
+        "links": 4,
+        "images": 21,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qolist.htm"
+      }
+    },
+    {
+      "path": "content/personas/persona-handouts.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "7079660ac9a88dcb00b3edb82def729829ce0ab67e9777d2e5267a5d54c8e271",
+        "links": 8,
+        "images": 7,
+        "anchors": [
+          "help",
+          "rules",
+          "submit"
+        ],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qohandouts.htm"
+      }
+    },
+    {
+      "path": "content/personas/priest-and-priestess-handout.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "60074f9f0397151ef800c0cafb2e0bb7fd730e350e28184e56b20586697eac1f",
+        "links": 1,
+        "images": 8,
+        "anchors": [
+          "formal"
+        ],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qorel.htm"
+      }
+    },
+    {
+      "path": "content/personas/shina-in-handout.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 2,
+          "examples": [
+            "table 1 (7 rows)",
+            "table 2 (4 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "99864bef7df80a0ace103c7225e85348eac1c0681bbd5a110298d92d399fec15",
+        "links": 3,
+        "images": 8,
+        "anchors": [
+          "chief",
+          "elder",
+          "warleader"
+        ],
+        "tables": 2,
+        "headings": [],
+        "legacy_source": "qos.htm"
+      }
+    },
+    {
+      "path": "content/personas/sorcerer-handout.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "586766285934361f6e5577d30ed857867a4c8445abcf222f38ff2eed2d3455e6",
+        "links": 2,
+        "images": 7,
+        "anchors": [
+          "formal",
+          "witch"
+        ],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qoww.htm"
+      }
+    },
+    {
+      "path": "content/personas/tayledras-handout.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (4 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "b81324fd240673ede4c508f8b23b76b6fb946a5cb1c7901eb00866d764f84b8e",
+        "links": 1,
+        "images": 8,
+        "anchors": [
+          "elder"
+        ],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qot.htm"
+      }
+    },
+    {
+      "path": "content/vanyel-fan-club/_index.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "2918c75031fd37401dfd4d6823dc5908208afdbfa00c9f7bd7eff9174a828b5b",
+        "links": 1,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "vfcindex.htm"
+      }
+    },
+    {
+      "path": "content/vanyel-fan-club/chat.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "9fbc3581a53d599d9af8355e46e2bdd6f9a5a5730230f3e5b906a8684d1b33e6",
+        "links": 0,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "vfcchat.htm"
+      }
+    },
+    {
+      "path": "content/vanyel-fan-club/faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "06b6f116c20030793439345538e3beff9b19e7f69a786fc8449ba3346d4a884f",
+        "links": 0,
+        "images": 8,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "vfcqa.htm"
+      }
+    },
+    {
+      "path": "content/vanyel-fan-club/heralds-haven-gate.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "249d43cd5570bb4942ae3391eb13a871ecd66919b0fcbdcb19beb7ee4ed1b36e",
+        "links": 1,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "vfcgate.htm"
+      }
+    },
+    {
+      "path": "content/vanyel-fan-club/heralds-haven.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "10ed80dc407c5cea39e3889462480dbc82e4e0945c81afad16f2ae10f817eb89",
+        "links": 0,
+        "images": 5,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "vfcgates.htm"
+      }
+    },
+    {
+      "path": "content/vanyel-fan-club/join.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "2d31fa15ebdfd08969dedc7481860665edc2e4ba1c56ed894065522a1742ef8c",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "vfcjoin.htm"
+      }
+    },
+    {
+      "path": "content/vanyel-fan-club/newsletter.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "ff3b549d789cdba809fa27fe9737a15b597fe1320487eb3c1ecc2a11807eedf1",
+        "links": 0,
+        "images": 2,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "vfcnews.htm"
+      }
+    },
+    {
+      "path": "content/vanyel-fan-club/president.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "29ba45aa150c469a9d26648640314af98f359431d50547d28d90a40ffe972e2d",
+        "links": 0,
+        "images": 4,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "vfcpres.htm"
+      }
+    },
+    {
+      "path": "content/world/bards-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "1cd6b1e17d3eb3f8da1672aa2c77407457bb97509f89343b39d6dfa929d0caef",
+        "links": 0,
+        "images": 11,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qofaqb.htm"
+      }
+    },
+    {
+      "path": "content/world/blues-and-blue-bloods-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "1beb140f8d19f2108b564546d4d19e439c2f6bd41493acf28c6276a6f60f3579",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqbl.htm"
+      }
+    },
+    {
+      "path": "content/world/companions-choices.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "3d80c2d9e206e3bfb1db495d358778c15305cd62b200b19b04cc2f37e3de9221",
+        "links": 0,
+        "images": 1,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "danc.htm"
+      }
+    },
+    {
+      "path": "content/world/cooking-velgarth-style.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "cec3c0f225bb7456c5a82750e918758fd452333de59ff1d15e2551c7c62218b2",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqc.htm"
+      }
+    },
+    {
+      "path": "content/world/fauna-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "7b7ff1b1f0df361c40b811e4ef2c4a83224342a9925eae5bc3ad6ca43fd86e74",
+        "links": 2,
+        "images": 3,
+        "anchors": [
+          "bondbird",
+          "five"
+        ],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqa.htm"
+      }
+    },
+    {
+      "path": "content/world/garb-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "11bf2bf96cba07729a5eb61f0795b254bcc1a6786b992b69379d7adb5c3f5adc",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqgarb.htm"
+      }
+    },
+    {
+      "path": "content/world/gifts-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "cef113d5dba3ebe86f5a9f8996cfa5a2ebddc575e8d3d908d3252d139cabf0d1",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqgifts.htm"
+      }
+    },
+    {
+      "path": "content/world/guilds-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "d82ace0de13dd759ee3abf7894bf9bc9d22d198c1b3d2d7bbf33e11d8a79d842",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqg.htm"
+      }
+    },
+    {
+      "path": "content/world/healers-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "d55acfe78b8a48bdf5830ff561f7aad93ebdbb68326af1e17b13bc40bd404d3b",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqhe.htm"
+      }
+    },
+    {
+      "path": "content/world/heralds-and-companions.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "602fb28364f5b594235e688e8c3c13cf95d0a94e56c46160ad8e68e1b82434d6",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "danhc.htm"
+      }
+    },
+    {
+      "path": "content/world/heralds-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "c6f08cc1072b2bb1c0cedc220cf706caac0bdd3d0de935ec8f770c962621d1b6",
+        "links": 1,
+        "images": 3,
+        "anchors": [
+          "Companion"
+        ],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqh.htm"
+      }
+    },
+    {
+      "path": "content/world/magic-of-velgarth.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (9 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "ca8a864692466b3a33d0ceb312f7e71beadc47fd28303c7f65c5abc26a3c4d76",
+        "links": 7,
+        "images": 7,
+        "anchors": [
+          "horse",
+          "mind",
+          "tm1",
+          "tm2",
+          "tm3",
+          "tm4",
+          "truth"
+        ],
+        "tables": 4,
+        "headings": [],
+        "legacy_source": "danmag1.htm"
+      }
+    },
+    {
+      "path": "content/world/military-faq.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (8 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "4cadd04e2eef188908137dd48ae4cd2df9b0bf32c9ee0fad6a3eaa637469c713",
+        "links": 1,
+        "images": 7,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qofaqm.htm"
+      }
+    },
+    {
+      "path": "content/world/northern-barbarians-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "73b6f587f3c84a7c7c8a7ce471ce9b51b24add30d88baaec3539c726063a8c85",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqba.htm"
+      }
+    },
+    {
+      "path": "content/world/plants-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "6105a97f96225e48165759d13357305f15e7514d1c5763b33e23b1fa3dbacef1",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqp.htm"
+      }
+    },
+    {
+      "path": "content/world/proverbs-of-velgarth.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "d9824c4fe9d34ec274e209a286a4a7e9dbbdbcc19f34c5604dae857bb5a9f4ca",
+        "links": 0,
+        "images": 2,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "danp.htm"
+      }
+    },
+    {
+      "path": "content/world/reincarnated-characters.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "169a09355dec2b716c5d62466c351a253edeb97e02bad16d9909f8c2a94c4a20",
+        "links": 0,
+        "images": 2,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "danr.htm"
+      }
+    },
+    {
+      "path": "content/world/religions-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "c32065de8aaa1989c780712b15e375f7d97848d1a8edaf64fc7b2ccf6fdbc3f4",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqrel.htm"
+      }
+    },
+    {
+      "path": "content/world/shina-in-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "70292944cbf022b6bef796773f4fae27ac00f96dfc964ec96c505aabb34836c7",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqs.htm"
+      }
+    },
+    {
+      "path": "content/world/tayledras-faq.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "de28369b237917b5ef3c2f1712735125430f53bb6f3069d25577a2617fd124ab",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqt.htm"
+      }
+    },
+    {
+      "path": "content/world/travel-guide.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "7f0f14701e9c09ce8d38197dcdf8eae8b388341aa655574605207fd7b4d38662",
+        "links": 0,
+        "images": 3,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qofaqtr.htm"
+      }
+    },
+    {
+      "path": "content/world/valdemar-timeline.md",
+      "findings": [],
+      "baseline": {
+        "visible_text_sha256": "2948a2ec857eb5e61dd18500f5bf76a8501c3605061d1396304ac3ab12af5279",
+        "links": 0,
+        "images": 2,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "dantime.htm"
+      }
+    },
+    {
+      "path": "content/world/world-reference-guide.md",
+      "findings": [
+        {
+          "rule": "table_without_header",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "table 1 (6 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "d3a330d6bf4bcb557ccea5045abd0a7dbc1d763eb2eef7c74cd420e38080c78a",
+        "links": 19,
+        "images": 3,
+        "anchors": [],
+        "tables": 1,
+        "headings": [],
+        "legacy_source": "qojust.htm"
+      }
+    }
+  ]
+}
