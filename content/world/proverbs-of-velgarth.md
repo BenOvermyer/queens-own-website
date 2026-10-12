@@ -16,7 +16,7 @@ canonical_path = "/proverbs-of-velgarth/"
 
 <div class="original-page">
 <font face="Harem">
-</font><center><h1>Proverbs from Velgarth</h1></center>
+</font><center><h2>Proverbs from Velgarth</h2></center>
 <center><h3>Compiled by</h3></center>
 <center><h2>Danielle DiFronzo</h2></center>
 <center><h2>(Revised 10/2/99)</h2></center>
@@ -135,7 +135,6 @@ well-meaning and paved with their good intentions.
 </p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
 <p>
 <font face="Harem">
-
 </font>
 </p>
 </div>

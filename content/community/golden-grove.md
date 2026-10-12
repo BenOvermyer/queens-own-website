@@ -16,7 +16,7 @@ canonical_path = "/golden-grove/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>Golden Grove</h1></center>
+</font><center><h2>Golden Grove</h2></center>
 <center><h2>The California Chapter of Queen's Own</h2></center>
 <center><h3>(Revised 7/12/08)</h3></center>
 <p>
@@ -71,7 +71,6 @@ site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href=
 <p>
 <a href="/danya-winterborn/"><img alt="" border="0" loading="lazy" src="/butback.gif"/></a> <a href="/danya-winterborn/">Back to Danya Winterborn's Page</a>
 </p><p>
-
 </p></font>
 </p>
 </div>

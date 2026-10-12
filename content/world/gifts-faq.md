@@ -14,9 +14,8 @@ canonical_path = "/gifts-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Gifts FAQ</h1></center>
+</font><center><h2>Gifts FAQ</h2></center>
 <center><h2>(Revised 2/7/02)</h2></center>
 <p>
 People often ask what characters with the various Gifts are capable of doing.  Here are the known Gifts and what they do:

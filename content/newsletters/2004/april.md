@@ -20,8 +20,8 @@ date_precision = "month"
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 5, No. 4<br/>
 April 1, 2004</h2></center>
 <p>
@@ -209,12 +209,10 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 
 <br/>
 <br/>
-
 <br/>
 <br/>
 <br/>
-
-</a><p>
+</a></p><p>
 </p><h3>Pennsylvania</h3><p>
 <b>MEPACON SPRING 2004. </b> Website: <a href="http://www.mepacon.com">http://www.mepacon.com</a>.  E-mail: <a href="mailto:mc@mepacon.com">mc@mepacon.com</a>.  Address: Clarion Hotel (Just off of Route 81), Scranton, Pennsylvania.  Dates: 4/2/04 - 4/4/04.
 </p><p>
@@ -465,5 +463,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></p>
+</p></g></p>
 </div>

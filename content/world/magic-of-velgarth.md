@@ -16,7 +16,7 @@ canonical_path = "/magic-of-velgarth/"
 
 <div class="original-page">
 <font face="Harem">
-</font><center><h1>The Magic of Velgarth</h1></center>
+</font><center><h2>The Magic of Velgarth</h2></center>
 <center><h2>(Revised 5/30/05)</h2></center>
 <p>
 As I work on making Danya a Herald-Mage in <a href="/">Queen's Own</a>,
@@ -775,7 +775,6 @@ a Gift akin to Mage Gift, which allows them to make use of spells.
 </p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
 <p>
 <font face="Harem">
-
 </font>
 </p>
 </div>

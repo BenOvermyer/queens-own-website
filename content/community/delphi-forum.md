@@ -14,10 +14,9 @@ canonical_path = "/delphi-forum/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
-<center><h1>Delphi Forum</h1></center>
+</font><center><h2>Queen's Own</h2></center>
+<center><h2>Delphi Forum</h2></center>
 <center><h3>(Revised 2/1/02)</h3></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>

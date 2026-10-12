@@ -16,7 +16,7 @@ canonical_path = "/vanyel-fan-club/newsletter/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>The Valdemaran Herald</h1></center>
+</font><center><h2>The Valdemaran Herald</h2></center>
 <p>
 </p><center><h3>(Revised 10/18/20)</h3></center>
 <p>

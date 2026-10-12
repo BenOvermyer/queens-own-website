@@ -20,8 +20,8 @@ date_precision = "month"
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 6, No. 9<br/>
 September 1, 2005</h2></center>
 <p>

@@ -14,9 +14,8 @@ canonical_path = "/fauna-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Fauna FAQ</h1></center>
+</font><center><h2>Fauna FAQ</h2></center>
 <center><h2>(Revised 2/7/02)</h2></center>
 <p>
 Misty has included a ton of different animals on Velgarth.  Some have equivalents in the "real world", and others are entirely products of her very fertile imagination.  Here are some of the known denizens of Velgarth:

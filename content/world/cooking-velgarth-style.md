@@ -14,9 +14,8 @@ canonical_path = "/cooking-velgarth-style/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Cooking Velgarth Style</h1></center>
+</font><center><h2>Cooking Velgarth Style</h2></center>
 <center><h2>(Revised 3/1/02)</h2></center>
 <p>
 Cooking in a medieval-style setting is sometimes a bit of a challenge.  This FAQ will probably develop into a Valdemar Cookbook eventually.  For the moment, it's a listing of the types of dishes and foods that are available on Velgarth.

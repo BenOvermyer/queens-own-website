@@ -27,7 +27,7 @@ canonical_path = "/compass-rose/summer-2000/in-the-name-of-god/"
 <p>
 </p></font><center><font size="7">In the Name of God</font></center>
 <p>
-</p><center><h3>by</h3></center>
+</p><center><h2>by</h2></center>
 <p>
 </p><center><h2><a href="mailto:Legend@malcor.com">Linda A. Malcor</a></h2></center>
 <p>

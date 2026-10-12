@@ -16,7 +16,7 @@ canonical_path = "/reincarnated-characters/"
 
 <div class="original-page">
 <font face="Harem">
-</font><center><h1>Herald List</h1></center>
+</font><center><h2>Herald List</h2></center>
 <center><h2>(Revised 4/10/03)</h2></center>
 <p>
 This is a list of characters who have been reincarnated in Misty's
@@ -181,7 +181,6 @@ They may or may not be reincarnations. If you know, please <a href="mailto:Legen
 </p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
 <p>
 <font face="Harem">
-
 </font>
 </p>
 </div>

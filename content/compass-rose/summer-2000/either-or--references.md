@@ -26,7 +26,7 @@ canonical_path = "/compass-rose/summer-2000/either-or/references/"
 <p>
 </p><hr/>
 <p>
-</p></font><center><h1>Either Or</h1></center>
+</p></font><center><h2>Either Or</h2></center>
 <p>
 </p><center><h3>by</h3></center>
 <p>

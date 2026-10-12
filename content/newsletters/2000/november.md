@@ -20,8 +20,8 @@ date_precision = "month"
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 1, No. 7<br/>
 November 1, 2000</h2></center>
 <p>
@@ -301,7 +301,7 @@ VATICON VII. E-mail: <a href="mailto:games.club@ucd.ie">.  Site Address:  Univer
 
 
 
-</a><p>
+</a></p><p>
 </p><h3>The Netherlands</h3><p>
 CONTREATY (BENELUXCON 24). E-mail: <a href="mailto:ConTreaty@Jimacred.demon.nl">ConTreaty@Jimacred.demon.nl</a>.  Website: http://homepage.eircom.net/~goudriaan/contreaty/Treaty-index.html.  Address: ConTreaty, Mozartlaan 38, 2253 HX Voorschofen, Holland.  Site Address:  The Best Western Grand Hotel de L'Empereur in Maastricht, The Netherlands. Dates: 11/17/00 - 11/19/00.
 </p><p>
@@ -459,5 +459,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></p>
+</p>
 </div>

@@ -17,12 +17,11 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 1, Vol. XI, No. 9<br/>
 August 1998</h2></center>
 <p>
@@ -150,7 +149,6 @@ Stamps for Life is still collecting used postage stamps from all countries but h
 <p>
 [Ed. note 2005:  Content withheld.]
 </p><p>
-
 </p><p>
 </p><h2>Personals:</h2>
 <p>
@@ -164,7 +162,7 @@ The next newsleeter you receive will have a new name, new logo, new editor and a
 mailing address.
 <p>
 Watch for<br/>
-</p><h1>Merging of the Ways</h1><br/>
+</p><h2>Merging of the Ways</h2><br/>
 [Ed. note 2005: Out-of-date info withheld.]
 <p>
 Coming in September!

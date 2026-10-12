@@ -15,8 +15,8 @@ canonical_path = "/newsletter-guidance/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
-<center><h1>Newsletters</h1></center>
+</font><center><h2>Queen's Own</h2></center>
+<center><h2>Newsletters</h2></center>
 <center><h3>(Revised 1/13/2024)</h3></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/></center>
@@ -97,7 +97,7 @@ These are personal messages from one member to other members.  Please tell us wh
 </p><p>
 </p><center><a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" border="0" loading="lazy" src="/ml18.gif"/></a></center>
 <p>
-</p><center><h1><a id="past" name="past">Past Newsletters</a></h1></center>
+</p><center><h2><a id="past" name="past">Past Newsletters</a></h2></center>
 <p>
 This section features links to the online editions of the Queen's Own newsletter.  Members will receive an e-mail version in MS Word prior to the issues being posted here in HTML.
 </p><p>

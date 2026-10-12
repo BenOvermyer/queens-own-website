@@ -14,9 +14,8 @@ canonical_path = "/herald-handout/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>The Helpful Handout of How to Become a Herald</h1></center>
+</font><center><h2>The Helpful Handout of How to Become a Herald</h2></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
 <center><h3>Based on the <b>Heralds of Valdemar</b> trilogy</h3></center>
 <p>
@@ -163,7 +162,7 @@ Choose and complete the requirements for two (minimum) of the following:
 <p>
 </p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
 <p>
-</p><center><h1>After you have acquired 25 points, you may be Chosen.</h1></center>
+</p><center><h2>After you have acquired 25 points, you may be Chosen.</h2></center>
 <p>
 </p><center><img alt="Companions by Laura Felton" border="0" loading="lazy" src="/qo34.jpg"/></center>
 <p>

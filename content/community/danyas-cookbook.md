@@ -16,7 +16,7 @@ canonical_path = "/danyas-cookbook/"
 
 <div class="original-page">
 <font face="Harem">
-</font><center><h1>Herald Danya's Cookbook</h1>
+</font><center><h2>Herald Danya's Cookbook</h2>
 <p>
 </p><h2>Created by</h2>
 <h2>L.A. Malcor</h2>
@@ -58,7 +58,7 @@ such as those available to the cooks at the Collegium.
 </p><p>
 </p><center><img alt="" loading="lazy" src="/barflow.gif"/></center>
 <p>
-</p><center><h1>Contents</h1></center>
+</p><center><h2>Contents</h2></center>
 <p>
 </p><table align="center" border="2" cellpadding="2" cellspacing="2">
 <th align="left" valign="top"><a href="/danyas-cookbook/#appetize">Appetizers</a></th>
@@ -907,7 +907,6 @@ Remove potatoes from oven.  Sprinkle with reserved leeks.  Sprinkle top with cru
 <font face="Harem">
 <a href="https://dragonlords.fans/index.htm"><img align="center" alt="" border="0" loading="lazy" src="/butback.gif"/>Return to Danya Winterborn's Page</a>
 <p>
-
 </p></font>
 </p>
 </div>

@@ -15,7 +15,7 @@ canonical_path = "/priest-and-priestess-handout/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>The Helpful Handout of How to Become a Priest/Priestess</h1></center>
+</font><center><h2>The Helpful Handout of How to Become a Priest/Priestess</h2></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
 <center><h3>Based on <b>The Valdemar Companion</b></h3></center>
 <p>

@@ -16,7 +16,7 @@ canonical_path = "/mercedes-lackey-release-form/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>Release Form for Mercedes Lackey</h1></center>
+</font><center><h2>Release Form for Mercedes Lackey</h2></center>
 <p>
 Date:  _______________________________
 </p><p>

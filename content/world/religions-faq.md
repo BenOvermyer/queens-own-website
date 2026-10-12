@@ -14,9 +14,8 @@ canonical_path = "/religions-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Religions FAQ</h1></center>
+</font><center><h2>Religions FAQ</h2></center>
 <center><h2>(Revised 5/30/05)</h2></center>
 <p>
 There are two types of Kal'enedral:  those Sworn to the Warrior and those Sworn to the Crone.  Those Sworn to the Warrior wear black.  Those Sworn to the Crone wear blue.

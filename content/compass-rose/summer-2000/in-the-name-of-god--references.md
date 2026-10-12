@@ -26,7 +26,7 @@ canonical_path = "/compass-rose/summer-2000/in-the-name-of-god/references/"
 <hr/>
 <p>
 </p><p>
-</p></font><center><h1>In the Name of God</h1></center>
+</p></font><center><h2>In the Name of God</h2></center>
 <p>
 </p><center><h3>by</h3></center>
 <p>
@@ -57,8 +57,8 @@ canonical_path = "/compass-rose/summer-2000/in-the-name-of-god/references/"
 </p></li><li><a id="note18" name="note18"></a><a href="/compass-rose/summer-2000/in-the-name-of-god/references/#hollister">Hollister 1982:185</a>.
 </li></ol>
 <p>
-<h3 id="ref">References Cited</h3>
-</p><p>
+</p><h3 id="ref">References Cited</h3>
+<p>
 <a id="bachrach" name="bachrach"></a>
 Bachrach, Bernard S.  1977.  <i>Early Medieval Jewish Policy in Western Europe</i>. Minneapolis: University of Minnesota Press.
 </p><p>

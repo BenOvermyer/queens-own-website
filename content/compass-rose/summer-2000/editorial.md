@@ -25,7 +25,7 @@ canonical_path = "/compass-rose/summer-2000/editorial/"
 </table>
 <hr/>
 <p>
-</p></font><center><h1>Letter from the Editor</h1></center>
+</p></font><center><h2>Letter from the Editor</h2></center>
 <p>
 </p><center>
 <img alt="Herald Aeroln and Kyler by Tony Barton" border="5" loading="lazy" src="/Aerolyn.jpg"/>

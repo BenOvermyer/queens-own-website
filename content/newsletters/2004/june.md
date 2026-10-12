@@ -20,8 +20,8 @@ date_precision = "month"
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 5, No. 6<br/>
 June 1, 2004</h2></center>
 <p>
@@ -258,12 +258,10 @@ Dates: 6/3/04 - 6/6/04.
 
 <br/>
 <br/>
-
 <br/>
 <br/>
 <br/>
-
-</a><p>
+</a></p><p>
 </p><h3>Australia</h3><p>
 <b>NSW DIPLOMACY CHAMPIONSHIPS. </b> Website:  <a href="http://daanz.org.au/dip-tournaments.htm">http://daanz.org.au/dip-tournaments.htm</a>.  E-mail: <a href="mailto:craigsed@ozemail.com.au">craigsed@ozemail.com.au</a>.  Address: Coogee/Randwick RSL, Sydney, NSW.  Dates: 6/12/04 - 6/14/04.
 </p><p>
@@ -473,5 +471,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></g></p></g></p></p>
+</p></g></g></p></g></p>
 </div>

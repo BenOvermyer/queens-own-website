@@ -26,14 +26,14 @@ canonical_path = "/compass-rose/spring-2002/diversity-in-libraries/references/"
 <hr/>
 <p>
 </p><p>
-</p></font><center><h1>The Death of Diversity in our Nation's Libraries</h1></center>
+</p></font><center><h2>The Death of Diversity in our Nation's Libraries</h2></center>
 <p>
 </p><center><h3>by</h3></center>
 <p>
 </p><center><h2><a href="mailto:Legend@malcor.com">Kendra Renaud</a></h2></center>
 <p>
-<h3 id="ref">References</h3>
-</p><p>
+</p><h3 id="ref">References</h3>
+<p>
 <a id="amer" name="amer"></a>American Library Association.  "Libraries Should Reflect Diverse Views."  <i>Censorship: Opposing Values</i>. Ed. Lisa Orr. San Diego: Greenhaven, 1990: 136-9.
 </p><p>
 <a id="barlow" name="barlow"></a>Barlow, Dudley.  "The Teachers' Lounge: Why We Still Need Huckleberry Finn."  <i>The Education Digest</i>.  September 1992:31-5.

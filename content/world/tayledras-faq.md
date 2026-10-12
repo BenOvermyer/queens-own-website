@@ -14,9 +14,8 @@ canonical_path = "/tayledras-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Tayledras FAQ</h1></center>
+</font><center><h2>Tayledras FAQ</h2></center>
 <center><h2>(Revised 2/7/02)</h2></center>
 <p>
 The general name for the Tayledras is the k'Varda, or "mage clans.".  These people are also called, Bird-Lords, Birdkin and Hawkbrothers.  The Tayledras, in general, are longer-lived than most humans, probably because of their constant exposure to the magic of the Heartstone.  Tayledras Adepts are exceptionally longlived, with some reaching 120 to 130 years of age; their longevity is attributed to the frequency with which they handle node magic.

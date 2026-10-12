@@ -17,12 +17,11 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 1, No. 1<br/>
 May 1, 2000</h2></center>
 <p>
@@ -40,7 +39,7 @@ Speaking of things going into the newsletter, we would be happy to consider item
 </p><p>
 </p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
 <p>
-</p><center><h1>From the Archives</h1></center>
+</p><center><h2>From the Archives</h2></center>
 <p>
 </p><center><a href="/pacific-northwest-collegium/"><img alt="Danya and Bard Kestran by Laura Cameron" border="0" loading="lazy" src="/cc2.gif"/></a></center>
 <p>
@@ -72,7 +71,7 @@ In the past we've had local chapters, zine, a cookbook, writer's circles, role p
 </p><p>
 </p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
 <p>
-</p><h1>Ren Faires:</h1>
+</p><h2>Ren Faires:</h2>
 <p>
 </p><p>
 <a href="/pacific-northwest-collegium/"><img align="right" alt="Yarik in the Companion's Field by Laura Cameron" border="0" loading="lazy" src="/cc8.gif"/></a>
@@ -94,7 +93,7 @@ Here are the faires we know about that are happening in May.  Faires are indexed
 <li>SOUTHERN SHAKESPEARE FESTIVAL, Website: http://www.southernshakespeare.org.  Address: P.O. BOX 38096, Tallahassee, FL 32315-8096, Site Address: 1014 North Adams St., Tallahassee, FL  32303.  When: 5/03/00 - 5/07/00, Open/Close: 11:00 AM - 10:30 PM.
 </li></ul>
 <p>
-</p><h2></h2><p>Georgia
+</p><p>Georgia
 </p><p>
 </p><ul>
 <li>GEORGIA RENAISSANCE FESTIVAL, Website: <a href="http://www.garenfest.com/">http://www.garenfest.com</a>.  Address:  P.O. Box 986, Fairburn, GA  30213-0986.  When: 4/29/00 - 06/11/00, Open/Close: 10:30 AM - 6:00 PM.
@@ -155,7 +154,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 </p><p>
 </p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
 <p>
-</p><h1>Conventions:</h1>
+</p><h2>Conventions:</h2>
 <p>
 </p><p>
 <a href="/pacific-northwest-collegium/"><img align="right" alt="Danya and Yarik Sparring by Laura Cameron" border="0" loading="lazy" src="/cc18.gif"/></a>
@@ -176,7 +175,7 @@ Have any information about conventions in your area?  Send it to us at <a href="
 <p>
 </p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
 <p>
-</p><h1>Member News:</h1>
+</p><h2>Member News:</h2>
 <p>
 </p><center><a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik by Laura Cameron" border="0" loading="lazy" src="/cc5.gif"/></a></center>
 <p>
@@ -220,7 +219,7 @@ For definitions of our fannish jargon, read "Pros &amp; Cons: An Introduction to
 <p>
 </p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
 <p>
-</p><h1>Collegium News:</h1>
+</p><h2>Collegium News:</h2>
 <p>
 </p><center><a href="/pacific-northwest-collegium/"><img alt="Danya, Yarik and Dean Terren by Laura Cameron" border="0" loading="lazy" src="/cc7.gif"/></a></center>
 <p>
@@ -244,7 +243,7 @@ The Queen�s Own mailing list was at one time about 1,100 members strong, and w
 </p><p>
 </p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
 <p>
-</p><h1>Fan Messages:</h1>
+</p><h2>Fan Messages:</h2>
 <p>
 </p><p>
 <a href="/pacific-northwest-collegium/"><img align="right" alt="Yarik, Danya and Sherrill by Laura Cameron" border="0" loading="lazy" src="/cc9.gif"/></a>
@@ -257,7 +256,7 @@ The only "fee" for a fan message is to write to two other people.  If your mailb
 <p>
 </p><center><img alt="Bar" border="0" loading="lazy" src="/bar2.gif"/></center>
 <p>
-</p><h1>Personals:</h1>
+</p><h2>Personals:</h2>
 <p>
 </p><center><a href="/pacific-northwest-collegium/"><img alt="Healing Session by Laura Cameron" border="0" loading="lazy" src="/cc27.gif"/></a></center>
 <p>

@@ -16,7 +16,7 @@ canonical_path = "/club-seal/"
 <div class="original-page">
 
 <font size="4">
-</font><center><h1>Queen's Own Seal</h1></center>
+</font><center><h2>Queen's Own Seal</h2></center>
 <center><h3>(Revised 9/28/03)</h3></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>

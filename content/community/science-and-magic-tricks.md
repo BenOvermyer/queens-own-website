@@ -16,7 +16,7 @@ canonical_path = "/science-and-magic-tricks/"
 
 <div class="original-page">
 <font face="Harem">
-</font><center><h1>Magic Spells</h1></center>
+</font><center><h2>Magic Spells</h2></center>
 <center><h3>or</h3></center>
 <center><h2>Fun Things You, Too, Can Do with Science</h2></center>
 <center><h2>(Revised 10/15/98)</h2></center>
@@ -131,7 +131,6 @@ the ingredient is and how much you add determines how much the color changes.</t
 </p><center><img alt="" height="7" loading="lazy" src="/rainbar.gif" width="800"/></center>
 <p>
 <font face="Harem">
-
 </font>
 </p>
 </div>

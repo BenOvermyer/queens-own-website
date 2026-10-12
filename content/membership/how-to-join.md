@@ -14,10 +14,9 @@ canonical_path = "/how-to-join/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
-<center><h1>Membership Information</h1></center>
+</font><center><h2>Queen's Own</h2></center>
+<center><h2>Membership Information</h2></center>
 <center><h3>(Revised 6/15/05)</h3></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>

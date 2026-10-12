@@ -14,9 +14,8 @@ canonical_path = "/guilds-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Guild FAQ</h1></center>
+</font><center><h2>Guild FAQ</h2></center>
 <center><h2>(Revised 3/1/02)</h2></center>
 <p>
 There are many Guilds on Velgarth.  Some are specific to a given country.  When we have such information, it is given in parentheses following the Guild name.  Here are the Guilds we know about:

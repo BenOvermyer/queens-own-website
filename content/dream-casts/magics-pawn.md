@@ -16,7 +16,7 @@ canonical_path = "/dream-casts/magics-pawn/"
 
 <div class="original-page">
 <font face="Harem">
-</font><center><h1>Dream Cast for <i>Magic's Pawn</i></h1></center>
+</font><center><h2>Dream Cast for <i>Magic's Pawn</i></h2></center>
 <center><h2>(Revised 4/8/03)</h2></center>
 <font size="4">
 <p>
@@ -504,7 +504,6 @@ Mercedes Lackey.
 </p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
 <p>
 <font face="Harem">
-
 </font>
 </p>
 </div>

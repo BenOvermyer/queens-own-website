@@ -14,9 +14,8 @@ canonical_path = "/kalen-edral-handout/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>Kal'enedral Handout</h1></center>
+</font><center><h2>Kal'enedral Handout</h2></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
 <center><h3>Based on the <b>Vows and Honor</b> duology</h3></center>
 <p>

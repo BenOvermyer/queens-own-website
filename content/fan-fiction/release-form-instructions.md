@@ -14,9 +14,8 @@ canonical_path = "/release-form-instructions/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>Release Form Instructions</h1></center>
+</font><center><h2>Release Form Instructions</h2></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/book2.gif"/></center>
 <p>

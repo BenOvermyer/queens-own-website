@@ -16,7 +16,7 @@ canonical_path = "/heralds-and-companions/"
 
 <div class="original-page">
 <font face="Harem">
-</font><center><h1>Herald List</h1></center>
+</font><center><h2>Herald List</h2></center>
 <center><h2>(Revised 4/10/02)</h2></center>
 <p>
 Here are lists of Heralds and Companions mentioned in the various books
@@ -412,7 +412,6 @@ Wulgra-??<br/>
 </p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
 <p>
 <font face="Harem">
-
 </font>
 </p>
 </div>

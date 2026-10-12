@@ -15,8 +15,8 @@ canonical_path = "/club-chat/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
-<center><h1>Chat List</h1></center>
+</font><center><h2>Queen's Own</h2></center>
+<center><h2>Chat List</h2></center>
 <center><h3>(Revised 7/23/08)</h3></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
@@ -45,16 +45,16 @@ Note:  Please keep your e-mail address up-to-date.  If your mail bounces, your s
 </p><p>
 If you are a nonmember, you must first create an approved persona by following the instructions on one of our approved <a href="/persona-handouts/">handouts</a> before you can join the QO chat list.
 </p><p>
-<h2 id="pending">The Pending List:  Nonmembers</h2>
-</p><p>
+</p><h2 id="pending">The Pending List:  Nonmembers</h2>
+<p>
 Nonmembers may join the "Pending List" at
 </p><p>
 </p><center>[This list is not currently working.  We hope to reestablish it soon.]</center>
 <p>
 Only subscribers may post to this list.  If you are a subscriber and wish to post a message, send your message to [This list is not currently working.  We hope to reestablish it soon.  In the meantime, you can send questions directly to Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.].
 </p><p>
-<h3 id="tracking">Persona Tracking</h3>
-</p><p>
+</p><h3 id="tracking">Persona Tracking</h3>
+<p>
 I <i>think</i> all personae that have been submitted to date have been read and either approved or replied to for a rewrite.  If you have submitted a persona and have not heard from me, please contact me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.  Here is a list of the current personae in our approval process:
 </p><p>
 </p><table border="2" cellpadding="2" cellspacing="2" width="100%">

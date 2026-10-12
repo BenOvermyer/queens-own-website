@@ -28,7 +28,7 @@ canonical_path = "/compass-rose/summer-2000/sink-or-swim/"
 </p></font><center><font size="7">Excerpts from<br/>
 <i>Sink or Swim</i></font></center>
 <p>
-</p><center><h3>Compiled by</h3></center>
+</p><center><h2>Compiled by</h2></center>
 <p>
 </p><center><h2><a href="mailto:evillurking@gmail.com">Aurora Nelson</a></h2></center>
 <p>

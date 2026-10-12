@@ -20,8 +20,8 @@ date_precision = "month"
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 3, No. 4<br/>
 April 1, 2002</h2></center>
 <p>
@@ -236,7 +236,7 @@ We regret that most of the e-mail links are not provided in this edition of the 
 
 
 
-</a><p>
+</a></p><p>
 </p><h3>Illinois</h3><p>
 <b>ANIME CENTRAL.</b>  Website: <a href="http://www.acen.org/">http://www.acen.org/</a>.  Address: Hyatt Regency O'Hare, Rosemont, Illinois.  Dates: 4/19/02 - 4/21/02.
 </p><p>
@@ -611,5 +611,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></p>
+</p></g></p>
 </div>

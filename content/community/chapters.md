@@ -15,15 +15,15 @@ canonical_path = "/chapters/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
-<center><h1>Chapters</h1></center>
+</font><center><h2>Queen's Own</h2></center>
+<center><h2>Chapters</h2></center>
 <center><h3>(Revised 11/21/20)</h3></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/book2.gif"/></center>
 <p>
 Looking for folks involved in Misty's fandom in your region?  Check out the chapters of Queen's Own!  (Note:  You do not need to be a member of Queen's Own in order to join most chapters.)
 </p><p>
-</p><center><h1>Chapters</h1></center>
+</p><center><h2>Chapters</h2></center>
 <p></p><h3><i>Golden Grove</i></h3>
 <p>Newsletter:  <i>Golden Grove</i> (e-copy)<br/>
 Editor: Sacre Noir
@@ -32,7 +32,7 @@ E-mail: <a href="mailto:sn.keeper@yahoo.com">Sacree Noir &lt;sn.keeper@yahoo.com
 Website: <a href="/golden-grove/">Golden Grove</a><br/>
 Note:  <i>Golden Grove</i> was formerly called <i>The Herald's Hall of California</i>, and it's publication was previously entitled <i>The California Arrow</i>.
 </p><p>
-</p><center><h1>Online Chapters</h1></center>
+</p><center><h2>Online Chapters</h2></center>
 <p>
 </p><h3><i>Valdemar Fan Club</i> (Facebook)</h3>
 E-mail: Patricia Nieves, Admin.

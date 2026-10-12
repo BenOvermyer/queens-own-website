@@ -27,7 +27,7 @@ canonical_path = "/compass-rose/spring-2002/arthurian-tales/"
 <p>
 </p></font><center><font size="7">The Arthurian Tales</font></center>
 <p>
-</p><center><h3>by</h3></center>
+</p><center><h2>by</h2></center>
 <p>
 </p><center><h2><a href="mailto:Legend@malcor.com">Linda A. Malcor (née Peterson)</a></h2></center>
 <p>

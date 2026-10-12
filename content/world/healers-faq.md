@@ -14,9 +14,8 @@ canonical_path = "/healers-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Healer FAQ</h1></center>
+</font><center><h2>Healer FAQ</h2></center>
 <center><h2>(Revised 2/5/02)</h2></center>
 <p>
 Medicine on Velgarth takes two basic forms.  There's the mundane application of herbs and things like bandages, and then there is Healing through Mind Magic.

@@ -11,6 +11,21 @@ def normalized(html):
     return normalize_soup(soup)
 
 
+class NormalizeHeadingTests(unittest.TestCase):
+    def test_content_h1_becomes_h2(self):
+        soup = normalized('<h1>Queen\'s Own</h1><h2>More</h2>')
+        self.assertIsNone(soup.find('h1'))
+        self.assertEqual(soup.find('h2').get_text(), "Queen's Own")
+
+    def test_skipped_level_is_filled(self):
+        soup = normalized('<h2>One</h2><h4>Two</h4>')
+        self.assertEqual([h.name for h in soup.find_all(['h2', 'h3', 'h4'])], ['h2', 'h3'])
+
+    def test_empty_heading_is_removed(self):
+        soup = normalized('<h2>Keep</h2><h3></h3>')
+        self.assertIsNone(soup.find('h3'))
+
+
 class NormalizeAnchorTests(unittest.TestCase):
     def test_named_anchor_wrapping_heading_moves_id_onto_heading(self):
         soup = normalized('<a id="s" name="s"><h2>Section</h2></a>')
@@ -19,7 +34,7 @@ class NormalizeAnchorTests(unittest.TestCase):
 
     def test_heading_link_keeps_the_link_inside_the_heading(self):
         soup = normalized('<a href="/reviews/#bwe"><h3>Beyond World\'s End</h3></a>')
-        heading = soup.find('h3')
+        heading = soup.find(['h1', 'h2', 'h3', 'h4'])
         self.assertEqual(heading.get_text(), "Beyond World's End")
         self.assertEqual(heading.find('a')['href'], '/reviews/#bwe')
 

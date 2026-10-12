@@ -20,8 +20,8 @@ date_precision = "month"
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 4, No. 8<br/>
 August 1, 2003</h2></center>
 <p>
@@ -161,24 +161,8 @@ Here are the Faires we know about for August.  Faires are indexed alphabetically
 </p><p>
 <b>WASHINGTON RENAISSANCE FANTASY FAIRE. </b> E-mail: <a href="mailto:bryonm@earthlink.net">bryonm@earthlink.net</a>.  Website: <a href="http://www.washingtonrenfaire.com">http://www.washingtonrenfaire.com/a&gt;.  Address: 12016 134th Ave. KPN, Gig Harbor, WA, 98329.  Site Address:   Minter Creek Ranch, 10215 State Road 302 NW, Gig Harbor, WA, 98329.  Dates:  8/02/03 - 8/10/03.  Open/Close: 10:00 AM - 6:00 PM.  <font color="red"><b>Note:  Misty and Larry will be here on August 2nd and 3rd!</b></font>
 <font face="Bookman Old Style" size="4">
-
-
-
-
 </font>
-
-
-
-
-
-
-
-
-
-
-
-
-</a><p>
+</a></p><p>
 </p><h3>Wisconsin</h3><p>
 <b>BRISTOL RENAISSANCE FAIRE. </b> FAX: 847-395-0547.  E-mail: <a href="mailto:lmcfeters@recfair.com">lmcfeters@recfair.com</a>.  Website: <a href="http://www.renfair.com">http://www.renfair.com</a>.  Address: 12550 120th Ave., Kenosha, WI, 53142-7337.  Dates:  6/28/03 - 8/24/03.  Open/Close: 10:00 AM - 7:00 PM.
 </p><p>
@@ -624,5 +608,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p></p>
+</p></g></p></g></p>
 </div>

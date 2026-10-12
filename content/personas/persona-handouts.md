@@ -14,9 +14,8 @@ canonical_path = "/persona-handouts/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
+</font><center><h2>Queen's Own</h2></center>
 <center><h2>Handouts</h2></center>
 <center><h3>(Revised 10/16/20)</h3></center>
 <p>

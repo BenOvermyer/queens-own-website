@@ -25,7 +25,7 @@ canonical_path = "/compass-rose/spring-2002/arthurian-tales/references/"
 </table>
 <hr/>
 <p>
-</p></font><center><h1>The Arthurian Tales</h1></center>
+</p></font><center><h2>The Arthurian Tales</h2></center>
 <p>
 </p><center><h3>by</h3></center>
 <p>
@@ -45,8 +45,8 @@ canonical_path = "/compass-rose/spring-2002/arthurian-tales/references/"
 </p></li><li><a id="note5" name="note5"></a>"The Dark One", pronounced "Ar' thoo".<p>
 </p></li></ol>
 <p>
-<h3 id="ref">References</h3>
-</p><p>
+</p><h3 id="ref">References</h3>
+<p>
 (<i>Ed. note: Actually, this is simply a straightforward bibliography.  The original paper did not use in-text citations.</i>)
 </p><p>
 Baines, Keith.  1962.  <i>Malory's Le Morte D'Arthur</i>.  New York: Times Mirror.

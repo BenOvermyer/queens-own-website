@@ -28,7 +28,7 @@ canonical_path = "/compass-rose/summer-2000/from-reptile-to-mammal/"
 </p></font><center><font size="7">From Reptile to Mammal:<br/>
 Evolution of Early Mammals</font></center>
 <p>
-</p><center><h3>by</h3></center>
+</p><center><h2>by</h2></center>
 <p>
 </p><center><h2><a href="mailto:dragonfodder@gmail.com">Katharine A. Knafelc</a></h2></center>
 <p>

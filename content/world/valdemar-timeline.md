@@ -16,7 +16,7 @@ canonical_path = "/valdemar-timeline/"
 
 <div class="original-page">
 <font face="Harem">
-</font><center><h1>Valdemar Timeline</h1></center>
+</font><center><h2>Valdemar Timeline</h2></center>
 <center><h2>(Revised 2/7/02)</h2></center>
 <p>
 Here is the timeline for Misty's Valdemar Series.
@@ -184,7 +184,6 @@ This is the order in which Mercedes Lackey copyrighted the various works:
 </p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
 <p>
 <font face="Harem">
-
 </font>
 </p>
 </div>

@@ -25,7 +25,7 @@ canonical_path = "/compass-rose/spring-2002/editorial/"
 </table>
 <hr/>
 <p>
-</p></font><center><h1>Letter from the Editor</h1></center>
+</p></font><center><h2>Letter from the Editor</h2></center>
 <p>
 </p><center>
 <img alt="The Compass Rose by Jan Tallevast" border="5" loading="lazy" src="/compassrose.jpg"/>

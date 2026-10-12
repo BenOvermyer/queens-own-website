@@ -14,9 +14,8 @@ canonical_path = "/garb-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Garb FAQ</h1></center>
+</font><center><h2>Garb FAQ</h2></center>
 <center><h2>(Revised 2/5/02)</h2></center>
 <p>
 What are the best-dressed personae on Velgarth wearing these days &lt;g&gt;?  Here's what we know about the outfits worn by personae of different ranks:

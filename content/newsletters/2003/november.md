@@ -20,8 +20,8 @@ date_precision = "month"
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 4, No. 11<br/>
 November 1, 2003</h2></center>
 <p>
@@ -109,7 +109,7 @@ You can find these and other titles through the Mercedes Lackey section of the D
 
 
 
-</a><p>
+</a></p><p>
 <b>Contest:</b> This came in from Paul via the Misty UK list:
 </p><p>
 "I have a number of bits and pieces, including some Music care of <a href="http://Firebirdarts.com">http://Firebirdarts.com</a>, copies of <i>Charmed Destinies</i> and <i>Outstretched Shadow</i> (Well, one copy of that.) and a few other snippets. We're supposed to have some of the Velgarth maps around, but I'm not promising those until I've seen them. Before it ships everything will be signed by at least one of the respective creators. I will get <i>Outstretched Shadow</i> signed by both! That's definitely in the pot.
@@ -620,5 +620,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></li></g></p></p>
+</p></li></g></p>
 </div>

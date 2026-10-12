@@ -14,9 +14,8 @@ canonical_path = "/plants-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Plants FAQ</h1></center>
+</font><center><h2>Plants FAQ</h2></center>
 <center><h2>(Revised 2/5/02)</h2></center>
 <p>
 There are many plants on Velgarth that are similar to those on Earth.  Then there are some that Misty has made up.  These are the plants that we know have been mentioned in the books:

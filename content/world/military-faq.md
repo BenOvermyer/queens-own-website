@@ -14,9 +14,8 @@ canonical_path = "/military-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Military FAQ</h1></center>
+</font><center><h2>Military FAQ</h2></center>
 <center><h2>(Revised 2/5/02)</h2></center>
 <p>
 There are a variety of military-type characters on Velgarth.  The ones we know the most about are the Guard and the Mercenaries.

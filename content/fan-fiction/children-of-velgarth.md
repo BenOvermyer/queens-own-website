@@ -14,10 +14,9 @@ canonical_path = "/children-of-velgarth/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
-<center><h1>Children of Velgarth</h1></center>
+</font><center><h2>Queen's Own</h2></center>
+<center><h2>Children of Velgarth</h2></center>
 <center><h2>The Official Queen's Own Fanzine</h2></center>
 <center><h3>(Revised 10/18/20)</h3></center>
 <p>

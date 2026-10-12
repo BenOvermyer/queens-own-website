@@ -14,9 +14,8 @@ canonical_path = "/travel-guide/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Travel Guide FAQ</h1></center>
+</font><center><h2>Travel Guide FAQ</h2></center>
 <center><h2>(Revised 10/18/20)</h2></center>
 <p>
 Here we briefly survey a number of types of places that people ask about on a regular basis.  For geography, you really want to refer to the maps by Larry Dixon that are printed in the front of many of Misty's Velgarth novels.  There is also a partial map in <i>The Valdemar Companion</i> (pp. 205-210).  (We are told that efforts are underway to make the entire map of the known realms of Velgarth available as a poster.  Watch the QO <a href="/newsletter-guidance/">newsletter</a> for details.)  Kerrie Hughes has written a delightful piece, "A Travelers' Guide to Valdemar and the Surrounding Kingdoms", in <i>The Valdemar Companion</i> (pp. 81-108).  We highly recommend it to anyone who is writing fanfic about characters travelling on Velgarth.

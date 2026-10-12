@@ -14,9 +14,8 @@ canonical_path = "/guild-handout/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>The Helpful Handout of How to Become a Guild Member</h1></center>
+</font><center><h2>The Helpful Handout of How to Become a Guild Member</h2></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
 <center><h3>Based on <b>Brightly Burning</b>, the <b>Vows and Honor</b> duology, and <i>By the Sword</i></h3></center>
 <p>

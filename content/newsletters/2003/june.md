@@ -20,8 +20,8 @@ date_precision = "month"
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 4, No. 6<br/>
 June 1, 2003</h2></center>
 <p>
@@ -97,7 +97,7 @@ Here are the Faires we know about for June.  Faires are indexed alphabetically b
 
 
 
-</a><p>
+</a></p><p>
 </p><h3>California</h3><p>
 <b>A ROYAL AFAYRE RENAISSANCE FESTIVAL. </b> FAX:  720-293-6660.  E-mail: jasmineh@earthlink.net <a href="mailto:jasmineh@earthlink.net">.  Website: </a><a href="http://www.aryalafayre.org">http://www.aryalafayre.org</a>.  Address: 843 N. Lincoln Street, Stockton, CA, 95203.  Site Address:   Discovery Park, I-5 and Richards Blvd., Sacraamento, CA.  Dates:
 7/05/03 - 7/06/03.  Open/Close: 10:00 AM - 06:00 PM.
@@ -608,5 +608,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p></p>
+</p></g></p></g></p>
 </div>

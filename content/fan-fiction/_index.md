@@ -15,8 +15,8 @@ canonical_path = "/fan-fiction/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
-<center><h1>Fan Fiction</h1></center>
+</font><center><h2>Queen's Own</h2></center>
+<center><h2>Fan Fiction</h2></center>
 <center><h3>(Revised 1/5/2024)</h3></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/qofanfic_files/ValdemarCrestsm.jpg"/></center>

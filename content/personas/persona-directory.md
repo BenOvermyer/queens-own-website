@@ -15,8 +15,8 @@ canonical_path = "/persona-directory/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
-<center><h1>Persona List</h1></center>
+</font><center><h2>Queen's Own</h2></center>
+<center><h2>Persona List</h2></center>
 <center><h3>(Revised 10/18/20)</h3></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/></center>

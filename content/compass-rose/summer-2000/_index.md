@@ -19,7 +19,7 @@ canonical_path = "/compass-rose/summer-2000/"
 <font face="Times New Roman" size="4">
 </font><center><img alt="The Compass Rose" border="5" loading="lazy" src="/comprose.jpg"/></center>
 <p>
-</p><center><h1>The Compass Rose</h1></center>
+</p><center><h2>The Compass Rose</h2></center>
 <center><h2>Volume 1, No. 1</h2></center>
 <center><h2>Summer 2000</h2></center>
 <p align="right">

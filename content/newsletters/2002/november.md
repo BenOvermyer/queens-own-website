@@ -20,8 +20,8 @@ date_precision = "month"
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 3, No. 11<br/>
 November 1, 2002</h2></center>
 <p>
@@ -129,7 +129,7 @@ Danya�s Herald-Mage costume has arrived, and it�s gorgeous!  She hopes to ha
 
 
 
-</a><p>
+</a></p><p>
 The new German chapter of Queen�s Own is forming.  Their website is underconstruction at <a href="http://www.heartstone.de">http://www.heartstone.de</a>.  See below for additional contact information.
 </p><p>
 <b>A reminder:</b>  The Mercedes Lackey section of the Dragonlords Bookstore is located at
@@ -553,5 +553,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></grin></p></g></p></p>
+</p></grin></p></g></p>
 </div>

@@ -14,9 +14,8 @@ canonical_path = "/herald-mage-handout/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>Herald-Mage Handout</h1></center>
+</font><center><h2>Herald-Mage Handout</h2></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
 <center><h3>Based on the <b>Heralds of Valdemar</b> series</h3></center>
 <p>

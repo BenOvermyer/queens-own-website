@@ -15,7 +15,7 @@ canonical_path = "/healer-handout/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>The Helpful Handout of How to Become a Healer</h1></center>
+</font><center><h2>The Helpful Handout of How to Become a Healer</h2></center>
 <center><h3>Criteria established by Mercedes Lackey</h3></center>
 <center><h3>Based on the <b>Heralds of Valdemar</b> and <i>Darian's Tale</i> trilogies</h3></center>
 <p>
@@ -107,7 +107,7 @@ develop your Velgarth persona so others may interact with you in character.
 <p>
 If you have additional questions, check out the <a href="/healers-faq/">Healers and Healing</a> FAQ.
 </p><p>
-</p><h1>Advanced Rank</h1>
+</p><h2>Advanced Rank</h2>
 <p>
 There are several ways to go up in rank as a Healer.
 </p><p>

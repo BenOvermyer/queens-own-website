@@ -17,12 +17,11 @@ date_precision = "month"
 +++
 
 <div class="original-page">
-
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 1, Vol. XI, No. 7<br/>
 May 1998</h2></center>
 <p>
@@ -32,11 +31,8 @@ May 1998</h2></center>
 </p><p>
 <img align="left" alt="QO Logo" border="0" loading="lazy" src="/qo180.jpg"/>
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
 <img align="right" alt="Border Art" border="0" loading="lazy" src="/qo286.jpg"/>
 <img align="left" alt="Border Art" border="0" loading="lazy" src="/qo287.jpg"/>

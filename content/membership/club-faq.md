@@ -14,9 +14,8 @@ canonical_path = "/club-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Queen's Own FAQ</h1></center>
+</font><center><h2>Queen's Own FAQ</h2></center>
 <center><h2>(Revised 7/22/08)</h2></center>
 <p>
 To quote the original editors of the Queen's Own newsletter, "Questions, we get questions . . . "  This FAQ is for all those questions about stuff in the "real world" related to Misty or the club that keep cropping up . . .

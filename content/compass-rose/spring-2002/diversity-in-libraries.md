@@ -27,7 +27,7 @@ canonical_path = "/compass-rose/spring-2002/diversity-in-libraries/"
 <p>
 </p></font><center><font size="7">The Death of Diversity in our Nation's Libraries</font></center>
 <p>
-</p><center><h3>by</h3></center>
+</p><center><h2>by</h2></center>
 <p>
 </p><center><h2><a href="mailto:healermoon@gmail.com">Kendra Renaud</a></h2></center>
 <p>

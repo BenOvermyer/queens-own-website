@@ -16,8 +16,8 @@ canonical_path = "/webring-code/"
 <div class="original-page">
 
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
-<center><h1>Official Webring</h1></center>
+</font><center><h2>Queen's Own</h2></center>
+<center><h2>Official Webring</h2></center>
 <center><h2>HTML Code</h2></center>
 <p>
 Before I can add you to the ring, you must add the ring graphics and the

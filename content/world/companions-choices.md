@@ -16,7 +16,7 @@ canonical_path = "/companions-choices/"
 
 <div class="original-page">
 <font face="Harem">
-</font><center><h1>Companions' Choices</h1></center>
+</font><center><h2>Companions' Choices</h2></center>
 <center><h3>or</h3></center>
 <center><h2>Why Companions Choose the Heralds They Do</h2></center>
 <center><h2>(Revised 10/15/98)</h2></center>
@@ -46,7 +46,6 @@ very nice, unGifted people in the world, and they can't become Heralds.
 </p><center><img alt="" border="0" loading="lazy" src="/bardrgn2.gif"/></center>
 <p>
 <font face="Harem">
-
 </font>
 </p>
 </div>

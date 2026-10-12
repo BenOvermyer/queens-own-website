@@ -26,7 +26,7 @@ canonical_path = "/compass-rose/spring-2002/music-in-medieval-ireland/references
 <hr/>
 <p>
 </p><p>
-</p></font><center><h1>Sources of Information on Music in Medieval Ireland</h1></center>
+</p></font><center><h2>Sources of Information on Music in Medieval Ireland</h2></center>
 <p>
 </p><center><h3>by</h3></center>
 <p>
@@ -44,8 +44,8 @@ canonical_path = "/compass-rose/spring-2002/music-in-medieval-ireland/references
 </p></li><li><a id="note5" name="note5"></a>A secular banquet in medieval Ireland, depicts a harper seated on the ground on the far right (woodcut: harper and reciter; circa 1581 AD; <a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#buckley2">Buckley 2000:174</a>).<p>
 </p></li></ol>
 <p>
-<h3 id="ref">References Cited</h3>
-</p><p>
+</p><h3 id="ref">References Cited</h3>
+<p>
 <a id="altramar"></a><a id="alramar" name="alramar"></a>
 Altramar. <i>Liner Notes to Crossroads of the Celts</i>. New York: Dorian, DOR-93177, 1999.
 </p><p>

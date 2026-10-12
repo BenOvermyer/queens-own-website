@@ -14,9 +14,8 @@ canonical_path = "/world-reference-guide/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
+</font><center><h2>Queen's Own</h2></center>
 <center><h2>Just the FAQs</h2></center>
 <center><h3>(Revised 3/26/02)</h3></center>
 <p>

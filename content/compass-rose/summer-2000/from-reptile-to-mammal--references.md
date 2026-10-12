@@ -26,7 +26,7 @@ canonical_path = "/compass-rose/summer-2000/from-reptile-to-mammal/references/"
 <hr/>
 <p>
 </p><p>
-</p></font><center><h1>From Reptile to Mammal</h1></center>
+</p></font><center><h2>From Reptile to Mammal</h2></center>
 <p>
 </p><center><h3>by</h3></center>
 <p>
@@ -76,25 +76,15 @@ Wuetrich, Bernice. 1997.  "Will Fossil From Down Under Upend Mammal Evolution?" 
 <p>
 </p><center>This edition © <i>The Compass Rose</i> 2000.  All rights reserved.</center>
 <p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
-
 </p><p>
 </p>
 </div>

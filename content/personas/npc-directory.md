@@ -15,8 +15,8 @@ canonical_path = "/npc-directory/"
 
 <div class="original-page">
 <font size="4">
-</font><center><h1>Queen's Own</h1></center>
-<center><h1>NPC List</h1></center>
+</font><center><h2>Queen's Own</h2></center>
+<center><h2>NPC List</h2></center>
 <center><h3>(Revised 7/13/08)</h3></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
@@ -73,7 +73,6 @@ the date they earned each of their Herald-Mage ranks.
 <p>
 </p><center><h2><a href="/herald-mage-handout/">Herald Mages</a></h2></center>
 <p>
-
 </p><p>
 </p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
 <p>
@@ -101,7 +100,6 @@ the date they earned each of their Herald-Mage ranks.
 <p>
 </p><center><h2><a href="/military-handout/">Mercenaries</a></h2></center>
 <p>
-
 </p><p>
 </p><center><img alt="" loading="lazy" src="/barcomp.gif"/></center>
 <p>

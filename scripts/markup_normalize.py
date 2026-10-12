@@ -20,11 +20,13 @@ element (whose escaped contents must survive verbatim) are left untouched.
 import json
 from difflib import SequenceMatcher
 from pathlib import Path
+import re
 
 from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 
+HEADING_PATTERN = re.compile(r'^h[1-6]$')
 BLOCK_ELEMENTS = {
     'address', 'article', 'aside', 'blockquote', 'center', 'div', 'dl', 'fieldset',
     'figure', 'footer', 'form', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'header', 'hr',
@@ -47,8 +49,26 @@ def _is_topmost_within(anchor, element):
     return True
 
 
+def normalize_headings(soup):
+    """Start content headings at <h2> (templates render the page <h1>) and avoid skipped levels."""
+    for heading in list(soup.find_all(HEADING_PATTERN)):
+        if not heading.get_text(strip=True) and not heading.find(True):
+            heading.decompose()
+    for heading in soup.find_all(HEADING_PATTERN):
+        if heading.name == 'h1':
+            heading.name = 'h2'
+    previous = 1
+    for heading in soup.find_all(HEADING_PATTERN):
+        level = int(heading.name[1])
+        if level > previous + 1:
+            level = previous + 1
+            heading.name = f'h{level}'
+        previous = level
+
+
 def normalize_soup(soup):
-    """Repair block-in-anchor nesting and empty anchors in place. Returns the soup."""
+    """Repair heading order, block-in-anchor nesting, and empty anchors in place."""
+    normalize_headings(soup)
     for anchor in list(soup.find_all('a')):
         if not anchor.get('href') and not anchor.get('id') and not anchor.get('name'):
             if not anchor.find(True) and not anchor.get_text(strip=True):

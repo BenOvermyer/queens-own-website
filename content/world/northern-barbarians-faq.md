@@ -14,9 +14,8 @@ canonical_path = "/northern-barbarians-faq/"
 +++
 
 <div class="original-page">
-
 <font face="Harem">
-</font><center><h1>Northern Barbarians</h1></center>
+</font><center><h2>Northern Barbarians</h2></center>
 <center><h2>(Revised 2/7/02)</h2></center>
 <p>
 These are the Northern Barbarian clans that we know about:

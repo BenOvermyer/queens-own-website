@@ -14,10 +14,9 @@ canonical_path = "/compass-rose/about/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-</font><center><h1>The Queen's Own</h1></center>
-<center><h1>Compass Rose</h1></center>
+</font><center><h2>The Queen's Own</h2></center>
+<center><h2>Compass Rose</h2></center>
 <center><h2>An Online, Nonfiction Journal</h2></center>
 <center><h3>(Revised 10/18/20)</h3></center>
 <p>

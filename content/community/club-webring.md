@@ -14,9 +14,8 @@ canonical_path = "/club-webring/"
 +++
 
 <div class="original-page">
-
 <font size="4">
-<a href="http://www.animfactory.com/"><img align="left" alt="Click to Visit Animfactory, the source of this image" border="0" loading="lazy" src="/qoq.gif"/></a><a href="http://www.animfactory.com/"><img align="right" alt="Click to Visit Animfactory, the source of this image" border="0" loading="lazy" src="/qoo.gif"/></a></font><center><h1>The Official Queen's Own Webring</h1></center>
+<a href="http://www.animfactory.com/"><img align="left" alt="Click to Visit Animfactory, the source of this image" border="0" loading="lazy" src="/qoq.gif"/></a><a href="http://www.animfactory.com/"><img align="right" alt="Click to Visit Animfactory, the source of this image" border="0" loading="lazy" src="/qoo.gif"/></a></font><center><h2>The Official Queen's Own Webring</h2></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
 <p>

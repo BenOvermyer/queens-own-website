@@ -20,8 +20,8 @@ date_precision = "month"
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
-<center><h1>P.O. Box 749<br/>
-Laguna Beach, CA 92652 USA</h1></center>
+<center><h2>P.O. Box 749<br/>
+Laguna Beach, CA 92652 USA</h2></center>
 <center><h2>Series 3, Vol. 3, No. 5<br/>
 May 1, 2002</h2></center>
 <p>
@@ -179,7 +179,7 @@ Here are the faires we know about that are happening in May.  Faires are indexed
 </p><h3>Pennsylvania</h3>
 <p>
 <b>KUTZTOWN RENAISSANCE FAIRE.</b>  E-mail:  <a href="mailto:medieval@kutztown.edu">medieval@kutztown.edu</a>.  Website:  <a href="http://www.geocitites.com/kumrc2000/faire2002.html">http://www.geocitites.com/kumrc2000/faire2002.html</a>.  Addresss:  Student Union Building, Kutztown University, Kutztown, PA, 19530.  Dates:  5/04/02 - 5/05/02.  Open/Close: 10:00 AM - 6:00 PM.
-<p>
+</p><p>
 </p><h3>Texas</h3>
 <p>
 <b>SCARBOROUGH RENAISSANCE FAIRE.</b>  FAX:  972-938-1890.  E-mail:  <a href="mailto:TheRenFest@aol.com">TheRenFest@aol.com</a>. Website:  <a href="http://www.ScarboroughRenFest.com">http://www.ScarboroughRenFest.com</a>.   Address: P.O. Box 538, Waxahachie, TX, 75168-0538.  Site Address:  2511 FM 66, Waxahachie, TX, 75165-5527.  Dates:  4/13/02 - 6/02/02.  Open/Close: 10:00 AM - 7:00 PM.
@@ -348,7 +348,7 @@ E-mail: <a href="mailto:information@animazement.org">information@animazement.org
 
 
 
-</a><p>
+</a></p><p>
 </p><h3>Pennsylvania</h3><p>
 <b>HERSHEY COMICON.</b> Website: <a href="http://www.hersheycomicon.com">http://www.hersheycomicon.com</a>.  E-mail: <a href="mailto:hersheycomicon@netrax.net">hersheycomicon@netrax.net</a>.  Address: Cocoaplex Cinema, Hershey, Pennsylvania. Dates: 5/3/02 - 5/4/02.
 </p><p>
@@ -623,5 +623,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></p></p>
+</p></g></p>
 </div>

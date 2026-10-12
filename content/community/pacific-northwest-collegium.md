@@ -17,7 +17,7 @@ canonical_path = "/pacific-northwest-collegium/"
 <div class="original-page">
 <font size="5">
 </font><center><img alt="" loading="lazy" src="/cc1.gif"/></center>
-<center><h3>(Revised 3/09/10)</h3></center>
+<center><h2>(Revised 3/09/10)</h2></center>
 <p>
 </p><center><img alt="" loading="lazy" src="/pegasus.gif"/></center>
 <p>
@@ -215,7 +215,6 @@ site is owned by <a href="mailto:Legend@malcor.com">L.A. Malcor</a>.<p>[<a href=
 <p>
 <a href="/danya-winterborn/"><img alt="" border="0" loading="lazy" src="/butback.gif"/></a> <a href="/danya-winterborn/">Back to Danya Winterborn's Page</a>
 </p><p>
-
 </p></font>
 </p>
 </div>
