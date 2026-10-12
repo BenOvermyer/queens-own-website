@@ -104,9 +104,9 @@ Here are the faires we know about that are happening in March.  Faires are index
 <p>
 <b>ESCONDIDO RENAISSANCE FAIRE &amp; SHAKESPEARE IN THE PARK.</b>  FAX: 805-496-6036.  E-mail: <a href="mailto:goldcoastprod@msn.com">goldcoastprod@msn.com</a>.  Website:  http://www.goldcoastfestivals.com.  Address: 2509 Thousand Oaks Blvd., #351, Thousand Oaks, CA  91362.  Site Address: Felicita County Park, 742 Clarence Lane, Escondido, CA  92025.  Dates:  3/3/01 - 3/4/01.  Open/Close: 10:00 AM - 5:00 PM.
 </p><p>
-<b>FRESNO CITY COLLEGE RENAISSANCE FAIR.</b>  E-mail: <a href="mailto:mrviii@aol.com">mrviii@aol.com</a>.  Website: <a href="http://www.cirga.org/fcityfaire.html'&gt;http://www.cirga.org/fcityfaire.html&lt;/a&gt;.  Address: PO Box 5621, Fresno, CA  93755-5621.  Site Address: 1101 E. University Ave., Fresno, CA.  Dates:  3/10/01 - 3/11/01.  Open/Close: 10:00 AM - 6:00 PM.
-&lt;p&gt;
-&lt;b&gt;OJAI RENAISSANCE FAIRE &amp; SHAKESPEARE AT THE LAKE.&lt;/b&gt;  FAX: 805-496-6036.  E-mail: &lt;a href=">goldcoastprod@msn.com</a>.  Address: 2509 Thousand Oaks Blvd., Ste. 351, Thousand Oaks, CA  91362.  Dates:  3/31/01 - 4/01/01.   Open/Close: 10:00 AM
+<b>FRESNO CITY COLLEGE RENAISSANCE FAIR.</b>  E-mail: <a href="mailto:mrviii@aol.com">mrviii@aol.com</a>.  Website: <a href="http://www.cirga.org/fcityfaire.html">http://www.cirga.org/fcityfaire.html</a>.  Address: PO Box 5621, Fresno, CA  93755-5621.  Site Address: 1101 E. University Ave., Fresno, CA.  Dates:  3/10/01 - 3/11/01.  Open/Close: 10:00 AM - 6:00 PM.
+</p><p>
+<b>OJAI RENAISSANCE FAIRE &amp; SHAKESPEARE AT THE LAKE.</b>  FAX: 805-496-6036.  E-mail: <a href="mailto:goldcoastprod@msn.com">goldcoastprod@msn.com</a>.  Address: 2509 Thousand Oaks Blvd., Ste. 351, Thousand Oaks, CA  91362.  Dates:  3/31/01 - 4/01/01.   Open/Close: 10:00 AM
 </p><p>
 </p><h3>Florida</h3>
 <p>

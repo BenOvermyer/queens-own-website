@@ -44,11 +44,11 @@ Remember to look for <i>The Fairy Godmother</i> in January 2004.  This is Misty�
 </p><p>
 In February 2004, <i>This Scepter�d Isle</i>, with Roberts Gellis, is scheduled to be released in hardcover.  <i>A Circus Of Witches</i>, <i>Queen of Air and Darkness</i>, <i>Phoenyx And Ashes</i> and <i>Altan</i>, Book Two in the same series with <i>Joust</i>, are also pending publication.  <i>Joust</i> should be out in paperback in March 2004.  <i>Stoned Souls</i>, with Josepha Sherman, has had its release date pushed back to January 2005.
 </p><p>
-You can find these and other titles through the Mercedes Lackey section of the Dragonlords� Bookstore <a href='http://www.dragonlordsnet.com/bkfanml.htm&gt;.  A portion of the proceeds goes directly to support QO.  This is how we keep our memberships free, so we greatly appreciate your support!
-&lt;P&gt;
-&lt;b&gt;Contest:&lt;/b&gt; This came in from Paul via the Misty UK list:
-&lt;P&gt;
-"I have a number of bits and pieces, including some Music care of &lt;a href='>http://Firebirdarts.com</a>, copies of <i>Charmed Destinies</i> and <i>Outstretched Shadow</i> (Well, one copy of that.) and a few other snippets. We're supposed to have some of the Velgarth maps around, but I'm not promising those until I've seen them. Before it ships everything will be signed by at least one of the respective creators. I will get <i>Outstretched Shadow</i> signed by both! That's definitely in the pot.
+You can find these and other titles through the Mercedes Lackey section of the Dragonlords� Bookstore <a href="http://www.dragonlordsnet.com/bkfanml.htm">.  A portion of the proceeds goes directly to support QO.  This is how we keep our memberships free, so we greatly appreciate your support!
+<p>
+<b>Contest:</b> This came in from Paul via the Misty UK list:
+</p><p>
+"I have a number of bits and pieces, including some Music care of <a href="http://Firebirdarts.com">http://Firebirdarts.com</a>, copies of <i>Charmed Destinies</i> and <i>Outstretched Shadow</i> (Well, one copy of that.) and a few other snippets. We're supposed to have some of the Velgarth maps around, but I'm not promising those until I've seen them. Before it ships everything will be signed by at least one of the respective creators. I will get <i>Outstretched Shadow</i> signed by both! That's definitely in the pot.
 </p><p>
 "Mr. Mallory doesn't come out of his shell much (he and I have that in common perhaps); anyway, I made him grudgingly promise to sign a copy of <i>Shadow</i>. At the time he said that he had only signed one of them to date, so this will be the second copy signed by Mr. M. Perhaps I caught him at a bad time--when he comes out to visit he does miss his dogs ;)
 </p><p>
@@ -534,17 +534,17 @@ One of the challenges running an online club is that people don�t always leave
 </li><li>Herald Ian Hawkwood (ianhawke1@aol.com) <br/>
 </li><li>Herald Kendryl Shadowwolf (kscarpat@altavista.com) <br/>
 </li><li>Herald Lisbeth Maye (wizardshome@hotmail.com)<br/>
-</li><li>Herald Liselle Aravon (rusalka@nac.net <a href="mailto:rusalka@nac.net&gt;) &lt;br&gt;
-&lt;li&gt;Herald Miracle Oceanfire (rhyme_reason@hotmail.com&gt;)&lt;br&gt;
-&lt;li&gt;Herald Paf (jaro@attbi.com)&lt;br&gt;
-&lt;li&gt;Herald Taras Taltos (billernoe@hotmail.com)&lt;br&gt;
-&lt;li&gt;Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)&lt;br&gt;
-&lt;/ul&gt;
-&lt;li&gt;Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
-&lt;/ul&gt;
-&lt;P&gt;
-If you know any of these folks, please have them contact Danya at &lt;a href=">Legend@malcor.com</a> with a current e-mail address.
+</li><li>Herald Liselle Aravon (rusalka@nac.net <a href="mailto:rusalka@nac.net">) <br/>
+<li>Herald Miracle Oceanfire (rhyme_reason@hotmail.com&gt;)<br/>
+</li><li>Herald Paf (jaro@attbi.com)<br/>
+</li><li>Herald Taras Taltos (billernoe@hotmail.com)<br/>
+</li><li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
+</li></a></li></ul>
+<li>Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
+
 <p>
+If you know any of these folks, please have them contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> with a current e-mail address.
+</p><p>
 <img align="right" alt="Two of Danya's Kids:  Kassie as Blue and John as Stitch" border="5" loading="lazy" src="/qo177.jpg"/>
 </p><p>
 </p><h3>From Healer Adept Moonstar k'Vala k'Sheyna:</h3>
@@ -621,5 +621,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></li></ul></g></p>
+</p></li></g></p></a></p>
 </div>

@@ -111,7 +111,7 @@ Here are the faires we know about that are happening in May.  Faires are indexed
 <p>
 <b>CEDAR SPRINGS RENAISSANCE MAYFAIRE.</b>  FAX:  530-642-1904.  Address:  6029 Gold Meadows Rd., Placerville, CA, 95067.  Site Address:  El Dorado County Fairgrounds, Placerville, CA, 95067.  Dates:  5/18/02 - 5/19/02.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
-<b>CROSSROADS EUROPEAN RENAISSANCE FESTIVAL, CORONA, CA.</b>  FAX: 909-490-0040.  E-mail:  <a href="mailto:rensite@renaissanceinfo.com&gt;">.  Website:  </a><a href="http://www.renaissanceinfo.com">http://www.renaissanceinfo.com</a>.  Address:  Crossroads Productions, P.O.  Box 95, Riverside, CA, 92502-0095.  Site Address:  Crossroads Riverview Park, River Road at Archibald, Corona, CA.   Dates: 4/13/02 - 5/27/02.  Open/Close: 10:00 AM - 6:00 PM.
+<b>CROSSROADS EUROPEAN RENAISSANCE FESTIVAL, CORONA, CA.</b>  FAX: 909-490-0040.  E-mail:  <a href="mailto:rensite@renaissanceinfo.com">"rensite@renaissanceinfo.com</a>.  Website:  <a href="http://www.renaissanceinfo.com">http://www.renaissanceinfo.com</a>.  Address:  Crossroads Productions, P.O.  Box 95, Riverside, CA, 92502-0095.  Site Address:  Crossroads Riverview Park, River Road at Archibald, Corona, CA.   Dates: 4/13/02 - 5/27/02.  Open/Close: 10:00 AM - 6:00 PM.
 </p><p>
 <b>EUROPEAN RENAISSANCE FESTIVAL.</b>  E-mail: <a href="mailto:renmail@renaissanceinfo.com">renmail@renaissanceinfo.com</a>.   Website:  <a href="http://www.renaissanceinfo.com">http://www.renaissanceinfo.com</a>.  Address:  Crossroads Productions, P.O. Box 95, Riverside, CA 92502-0095.  Dates:  4/13/02 - 5/27/02.  Open/Close:  10:00 AM - 6:00 PM.
 </p><p>
@@ -261,9 +261,9 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 </p><h3>Maryland</h3>
 <p>
-<b>BALTICON 36.</b> Website: <a href="http://www.balticon.org/">http://www.balticon.org/</a>.  E-mail: <a href="mailto:dale@bsfs.org&gt;dale@bsfs.org&lt;/a&gt;.  Address: Wyndham Baltimore Inner Harbor Hotel, Baltimore, Maryland.  Dates: 5/24/02 - 5/27/02.
-&lt;P&gt;
-&lt;b&gt;COLONEL SEBASTIAN T. RAWHIDE'S CIRCUS OF THE SPECTACULAR.&lt;/b&gt;  Website: &lt;a href=">http://www.interactivitiesink.com</a>.  E-mail: <a href="mailto:buggy@smart.net">buggy@smart.net</a>.  Address: 6802 Bradford Place, Laurel, Maryland.  Dates: 5/11/02 , 5/18/02.
+<b>BALTICON 36.</b> Website: <a href="http://www.balticon.org/">http://www.balticon.org/</a>.  E-mail: <a href="mailto:dale@bsfs.org">dale@bsfs.org</a>.  Address: Wyndham Baltimore Inner Harbor Hotel, Baltimore, Maryland.  Dates: 5/24/02 - 5/27/02.
+</p><p>
+<b>COLONEL SEBASTIAN T. RAWHIDE'S CIRCUS OF THE SPECTACULAR.</b>  Website: <a href="http://www.interactivitiesink.com">http://www.interactivitiesink.com</a>.  E-mail: <a href="mailto:buggy@smart.net">buggy@smart.net</a>.  Address: 6802 Bradford Place, Laurel, Maryland.  Dates: 5/11/02 , 5/18/02.
 </p><p>
 <b>GAMES DAY 2002.</b> Website: <a href="http://www.rtgames.com/gcom/">http://www.rtgames.com/gcom/</a>.  E-mail: <a href="mailto:GamesClubofMD@home.com">GamesClubofMD@home.com</a>.  Address: Cockeysville Volunteer Fire Hall, Cockeysville, Maryland.  Dates: 5/3/02 - 5/5/02.
 </p><p>

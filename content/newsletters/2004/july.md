@@ -114,11 +114,11 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 </p><p>
 <b>COMIC-CON INTERNATIONAL. </b> Website: <a href="http://www.comic-con.org/">http://www.comic-con.org/</a>.  E-mail: <a href="mailto:CCIWEB@NUCGEN.COM">CCIWEB@NUCGEN.COM</a>.  Address: San Diego Convention Center, San Diego, California.  Dates: 7/22/04 - 7/25/04.
 </p><p>
-<b>POLYCON XXII.</b>  Website:  <a href="http://www.polycon.org">http://www.polycon.org</a>.  E-mail: <a href="mailto:joe@polycon.org&lt;/a&gt;.  Address: Trinity Dorm, Cal Poly State University, San Luis Obispo, California.  Dates: 7/2/04 - 7/5/04.
-&lt;p&gt;
-&lt;h3&gt;Connecticut&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;CONNECTICON 2004.&lt;/b&gt;  Website:  &lt;a href=">http://www.ConnectiCon.org/</a>.  E-mail: <a href="mailto:thehappyguy@ConnectiCon.org">thehappyguy@ConnectiCon.org</a>.  Address: University of Hartford, West Hartford, Connecticut.  Dates: 7/16/04 - 7/18/04.
+<b>POLYCON XXII.</b>  Website:  <a href="http://www.polycon.org">http://www.polycon.org</a>.  E-mail: <a href="mailto:joe@polycon.org">joe@polycon.org</a>.  Address: Trinity Dorm, Cal Poly State University, San Luis Obispo, California.  Dates: 7/2/04 - 7/5/04.
+</p><p>
+</p><h3>Connecticut</h3>
+<p>
+<b>CONNECTICON 2004.</b>  Website:  <a href="http://www.ConnectiCon.org/">http://www.ConnectiCon.org/</a>.  E-mail: <a href="mailto:thehappyguy@ConnectiCon.org">thehappyguy@ConnectiCon.org</a>.  Address: University of Hartford, West Hartford, Connecticut.  Dates: 7/16/04 - 7/18/04.
 </p><p>
 </p><h3>Florida</h3>
 <p>

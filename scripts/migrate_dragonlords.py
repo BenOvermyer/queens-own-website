@@ -11,6 +11,7 @@ from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
 from inventory_dragonlords import INTERNAL_HOSTS
+from markup_repairs import repair_markup
 
 ROOT = Path(__file__).resolve().parents[1]
 ROUTES = {
@@ -131,7 +132,7 @@ def migrate(source):
     decision = []
     soups = {}
     for name, route in ROUTES.items():
-        soup = BeautifulSoup(files[name].read_bytes(), 'lxml')
+        soup = BeautifulSoup(repair_markup(files[name].read_bytes()), 'lxml')
         reasons = dragonlords_references(soup)
         # These groups are dedicated club publications and activities. Dragonlords
         # appearances are shared hosting/commerce furniture, not its own-world content.
@@ -191,7 +192,7 @@ def migrate(source):
             body.insert(0, soup.new_tag('a', id='Herald'))
         if name == 'vfcindex.htm':
             for a in body.select('a[href]'):
-                if '<' in a['href']:
+                if '<' in a['href'] or not a['href']:
                     a['href'] = 'vfcchat.htm'
                     a.string = 'VFC Chat List'
                     parent = a.parent

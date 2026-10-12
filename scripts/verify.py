@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 from bs4 import BeautifulSoup
+import audit_html
 from audit_links import audit
 from verify_routes import validate
 
@@ -41,5 +42,10 @@ if errors:
 print(f'Checked {len(documents)} HTML files: all local files resolve, PDF host substituted, no bundled PDFs.')
 print(f'{len(anchor_warnings)} unresolved original anchor references listed in data/anchor-report.json.')
 audit()
+html_report = audit_html.audit()
+if html_report['summary']['unresolved_errors']:
+    raise SystemExit('Unresolved HTML structural errors: see data/html-audit-report.json')
+print(f"HTML audit: {html_report['summary']['files_scanned']} documents, "
+      f"{html_report['summary']['acknowledged_findings']} acknowledged exceptions, no unresolved structural errors.")
 if (ROOT / 'data/site-routes.json').exists():
     validate(ROOT)

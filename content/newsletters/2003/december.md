@@ -114,11 +114,11 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 </p><h3>California</h3>
 <p>
-<b>GEN CON SO CAL.</b>  Website: <a href="http://www.gencon.com">http://www.gencon.com</a>.  E-mail: <a href="mailto:lindsay@gencon.com&gt;lindsay@gencon.com&lt;/a&gt;.  Address: Anaheim Convention Center, Anaheim, California.  Dates: 12/11/03 - 12/14/03.
-&lt;P&gt;
-&lt;h3&gt;Colorado&lt;/h3&gt;
-&lt;P&gt;
-&lt;b&gt;1ST ROCKY MOUNTAIN WARS. &lt;/b&gt; Website: &lt;a href=">http://www.nasamw.org/tournaments02.htm</a>.  E-mail: <a href="mailto:wbroadhead@rmc-consultants.com">wbroadhead@rmc-consultants.com</a>.  Address: Valhalla's Game Center. Wheat Ridge, Colorado.  Dates: 12/6/03.
+<b>GEN CON SO CAL.</b>  Website: <a href="http://www.gencon.com">http://www.gencon.com</a>.  E-mail: <a href="mailto:lindsay@gencon.com">lindsay@gencon.com</a>.  Address: Anaheim Convention Center, Anaheim, California.  Dates: 12/11/03 - 12/14/03.
+</p><p>
+</p><h3>Colorado</h3>
+<p>
+<b>1ST ROCKY MOUNTAIN WARS. </b> Website: <a href="http://www.nasamw.org/tournaments02.htm">http://www.nasamw.org/tournaments02.htm</a>.  E-mail: <a href="mailto:wbroadhead@rmc-consultants.com">wbroadhead@rmc-consultants.com</a>.  Address: Valhalla's Game Center. Wheat Ridge, Colorado.  Dates: 12/6/03.
 </p><p>
 <b>BROOKFEST.  </b>Website: <a href="http://home.attbi.com/~the_egg_race/Brookfest/">http://home.attbi.com/~the_egg_race/Brookfest/</a>.  E-mail: <a href="mailto:the_egg_race@attbi.com">the_egg_race@attbi.com</a>.  Address: Valhalla's Game Center, Wheat Ridge, Colorado.  Dates: 12/26/03 - 1/1/04.
 </p><p>
@@ -353,17 +353,17 @@ One of the challenges running an online club is that people don�t always leave
 </li><li>Herald Ian Hawkwood (ianhawke1@aol.com) <br/>
 </li><li>Herald Kendryl Shadowwolf (kscarpat@altavista.com) <br/>
 </li><li>Herald Lisbeth Maye (wizardshome@hotmail.com)<br/>
-</li><li>Herald Liselle Aravon (rusalka@nac.net <a href="mailto:rusalka@nac.net&gt;) &lt;br&gt;
-&lt;li&gt;Herald Miracle Oceanfire (rhyme_reason@hotmail.com&gt;)&lt;br&gt;
-&lt;li&gt;Herald Paf (jaro@attbi.com)&lt;br&gt;
-&lt;li&gt;Herald Taras Taltos (billernoe@hotmail.com)&lt;br&gt;
-&lt;li&gt;Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)&lt;br&gt;
-&lt;/ul&gt;
-&lt;li&gt;Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
-&lt;/ul&gt;
-&lt;P&gt;
-If you know any of these folks, please have them contact Danya at &lt;a href=">Legend@malcor.com</a> with a current e-mail address.
+</li><li>Herald Liselle Aravon (rusalka@nac.net <a href="mailto:rusalka@nac.net">) <br/>
+<li>Herald Miracle Oceanfire (rhyme_reason@hotmail.com&gt;)<br/>
+</li><li>Herald Paf (jaro@attbi.com)<br/>
+</li><li>Herald Taras Taltos (billernoe@hotmail.com)<br/>
+</li><li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
+</li></a></li></ul>
+<li>Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
+
 <p>
+If you know any of these folks, please have them contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> with a current e-mail address.
+</p><p>
 <img align="left" alt="Lavan and Kalira by Stephanie Blackwell" border="5" loading="lazy" src="/qo189.jpg"/>
 </p><p>
 </p><h3>From Herald-Mage Adept Danya Winterborn:</h3>
@@ -427,5 +427,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></li></ul></g></p>
+</p></li></g></p>
 </div>

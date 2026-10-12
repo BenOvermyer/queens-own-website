@@ -252,11 +252,11 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 <b>SHOUJOCON. </b> Website: <a href="http://www.shoujocon.com">http://www.shoujocon.com</a>.  E-mail: <a href="mailto:admin@shoujocon.com">admin@shoujocon.com</a>.  Address: New Brunswick Hilton New Brunswick, NJ.  Dates: 7/19/02 - 7/21/02.
 </p><p>
-<b>SVAHA: NO SLEEP TIL WRESKA.</b>  Website: <a href="http://www.wildgazebo.com/">http://www.wildgazebo.com/</a>.  E-mail: <a href="mailto:GM@wildgazebo.com&gt;GM@wildgazebo.com&lt;/a&gt;.  Address: The Somerset Marriott, Somerset, NJ.  Dates: 7/19/02 - 7/21/02.
-&lt;P&gt;
-&lt;h3&gt;New York&lt;/h3&gt;
-&lt;P&gt;
-&lt;b&gt;BIG APPLE COMIC CON.&lt;/b&gt;  Website: &lt;a href=">http://www.bigapplecon.com/</a>.  E-mail: <a href="mailto:bigapplecon@earthlink.net">bigapplecon@earthlink.net</a>.  Address: St. Paul Church Auditorium - Columbus (9th) Ave. &amp; 60th St,.New York, NY.  Dates: 7/12/02 - 7/13/02.
+<b>SVAHA: NO SLEEP TIL WRESKA.</b>  Website: <a href="http://www.wildgazebo.com/">http://www.wildgazebo.com/</a>.  E-mail: <a href="mailto:GM@wildgazebo.com">GM@wildgazebo.com</a>.  Address: The Somerset Marriott, Somerset, NJ.  Dates: 7/19/02 - 7/21/02.
+</p><p>
+</p><h3>New York</h3>
+<p>
+<b>BIG APPLE COMIC CON.</b>  Website: <a href="http://www.bigapplecon.com/">http://www.bigapplecon.com/</a>.  E-mail: <a href="mailto:bigapplecon@earthlink.net">bigapplecon@earthlink.net</a>.  Address: St. Paul Church Auditorium - Columbus (9th) Ave. &amp; 60th St,.New York, NY.  Dates: 7/12/02 - 7/13/02.
 </p><p>
 <b>UB SUMMER GAMES. </b> Website: <a href="http://www.ubsarpa.com">http://www.ubsarpa.com</a>,  E-mail: <a href="mailto:condir@keean.ws">condir@keean.ws</a>.  Address: University At Buffalo, Buffalo, NY.  Dates: 7/27/02 - 7/28/02.
 </p><p>

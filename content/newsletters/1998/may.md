@@ -17,6 +17,7 @@ date_precision = "month"
 +++
 
 <div class="original-page">
+
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">Mercedes Lackey Fan Club</font></center>
@@ -118,7 +119,7 @@ THE VALES issue two the 1997 edition has 10 personas, over 80 pages at a basemen
 </p><p>
 A woman like no other, on an ever racing mare.  She leads you to a temple in the wood.  Enter.  She has summoned you.  RHIANNON is a zine of feminism, spirituality and fantasy.  A very logical combination!  Get your own issue for [Ed. note 2005: Out-of-date info withheld.] or get yourself a free issue by contributing.  RHIANNON is articles, fiction, poetry, and art.  My goal is to have the first issue out by July 1.  Make checks payable to [Ed. note 2005: Out-of-date info withheld.].
 </p><p>
-<b>Dragonlords of Dumnonia</b>--a place for fantasy writers to practice their craft by publishing in fanzines, and for people who like role-playing on a detailed fantasy world.  Visit the website at <a href="http://www.dragonlordsnet.com&gt;http://www.dragonlordsnet.com&lt;/a&gt; or send e-mail to L.A. Malcor at &lt;a href=">Legend@malcor.com</a>.
+<b>Dragonlords of Dumnonia</b>--a place for fantasy writers to practice their craft by publishing in fanzines, and for people who like role-playing on a detailed fantasy world.  Visit the website at <a href="http://www.dragonlordsnet.com">http://www.dragonlordsnet.com</a> or send e-mail to L.A. Malcor at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
 Re NIGHT RUNES:  Shadow Dancer would like you to know that the stories sent to him for the zine NIGHT RUNES <b>will</b> be published.  He has moved six times in the past few years and lost a few addresses.  For more information, write to Shadow Dancer [Ed. note 2005: Out-of-date info withheld.].
 </p><p>

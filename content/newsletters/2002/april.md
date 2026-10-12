@@ -359,9 +359,9 @@ We regret that most of the e-mail links are not provided in this edition of the 
 </p><p>
 <b>PHALLANGITE FURY 2002.</b>  Website: <a href="http://www.geocities.com/TimesSquare/Labyrinth/3927/">http://www.geocities.com/TimesSquare/Labyrinth/3927/</a>.  Address: Holsworthy Barracks Maxwell Club Theatre, Holsworthy, NSW, Australia.  Dates: 4/20/02 - 4/21/02.
 </p><p>
-<b>SWANCON 2002.</b>  Website: <a href="http://www.swancon.com/">http://www.swancon.com/</a>.  E-mail: <a href="mailto:2002@sf.org.au&gt;2002@sf.org.au&lt;/a&gt;.  Address: The Kings Perth Hotel, Perth, Western Australia, Australia.  Dates: 3/28/02 - 4/1/02.
-&lt;P&gt;
-&lt;b&gt;WORLD DIPCON 2002.&lt;/b&gt;  Website: &lt;a href=">http://wdc2002downunder.com/</a>.  E-mail: <a href="mailto:rstephenson@mfbb.vic.gov.au">rstephenson@mfbb.vic.gov.au</a>.  Address: Canberra, Australia.  Dates: 3/29/02 - 4/1/02.
+<b>SWANCON 2002.</b>  Website: <a href="http://www.swancon.com/">http://www.swancon.com/</a>.  E-mail: <a href="mailto:2002@sf.org.au">2002@sf.org.au</a>.  Address: The Kings Perth Hotel, Perth, Western Australia, Australia.  Dates: 3/28/02 - 4/1/02.
+</p><p>
+<b>WORLD DIPCON 2002.</b>  Website: <a href="http://wdc2002downunder.com/">http://wdc2002downunder.com/</a>.  E-mail: <a href="mailto:rstephenson@mfbb.vic.gov.au">rstephenson@mfbb.vic.gov.au</a>.  Address: Canberra, Australia.  Dates: 3/29/02 - 4/1/02.
 </p><p>
 </p><h3>Canada</h3>
 <p>

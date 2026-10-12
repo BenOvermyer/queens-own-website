@@ -17,6 +17,7 @@ date_precision = "month"
 +++
 
 <div class="original-page">
+
 <font face="Bookman Old Style" size="4">
 </font><center><font color="#0000ff" size="9"><b>Queen's Own</b></font></center>
 <center><font color="#0000ff" size="6">The Official Mercedes Lackey Fan Club</font></center>
@@ -237,9 +238,9 @@ CONCAT 12. E-mail: <a href="mailto:chloiea@mailexcite.com">chloiea@mailexcite.co
 </p><p>
 </p><h3>Texas</h3>
 <p>
-CONUNDRUM 2000. E-mail: <a href="mailto:ScottP@Skyeenterprises.com">ScottP@Skyeenterprises.com</a>. Website: <a href="http://www.conundrumconvention.com'&gt;http://www.conundrumconvention.com&lt;/a&gt;.  Site Address: Ramada Inn I-35 &amp; Weidner, San Antonio, Texas. Dates: 11/10/00 - 11/12/00.
-&lt;p&gt;
-PROTOCON. E-mail: &lt;a href=">taihen@tamu.edu</a>. Website: <a href="http://gaming.tamu.edu/protocon">http://gaming.tamu.edu/protocon</a>.  Site Address: Memorial Student Center at Texas A&amp;M University, College Station, Texas. Dates: 11/3/00 - 11/5/00.
+CONUNDRUM 2000. E-mail: <a href="mailto:ScottP@Skyeenterprises.com">ScottP@Skyeenterprises.com</a>. Website: <a href="http://www.conundrumconvention.com">http://www.conundrumconvention.com</a>.  Site Address: Ramada Inn I-35 &amp; Weidner, San Antonio, Texas. Dates: 11/10/00 - 11/12/00.
+</p><p>
+PROTOCON. E-mail: <a href="mailto:taihen@tamu.edu">taihen@tamu.edu</a>. Website: <a href="http://gaming.tamu.edu/protocon">http://gaming.tamu.edu/protocon</a>.  Site Address: Memorial Student Center at Texas A&amp;M University, College Station, Texas. Dates: 11/3/00 - 11/5/00.
 </p><p>
 SCI-FI EXPO. E-mail: <a href="mailto:info@hollywoodexpo.com">nfo@hollywoodexpo.com</a>. Website: <a href="http://www.scifiexpo.com">http://www.scifiexpo.com</a>.  Site Address: Convention Center, Austin, Texas. Dates:  11/11/00 - 11/12/00.
 </p><p>
@@ -288,9 +289,9 @@ BIFROST 2000. E-mail: <a href="mailto:info@bifrost.org.uk">info@bifrost.org.uk</
 CON-FICTION STAR TREK/MEDIA. E-mail: <a href="mailto:confiction@breathemail.net">confiction@breathemail.net</a>.  Website: <a href="http://users.breathemail.net/chaosfan/con-fiction.htm">http://users.breathemail.net/chaosfan/con-fiction.htm</a>.  Address: Con-Fiction, 36 Finsbury Avenue, Blackpool, Lancashire FY1 6QN.
 Site Address: The Imperial Hotel, Blackpool.  Dates:  11/24/00 -11/27/00.
 </p><p>
-DAY OF THE DALEKS. E-mail: <a href="mailto:daleks@indelible.org.uk?subject=Day of the Daleks Enquiry">daleks@indelible.org.uk</a>.  Website: <a href="http://indelible.org.uk/daleks/'&gt;http://indelible.org.uk/daleks/&lt;/a&gt;.  Address:  Liverpool, UK.  Dates: 11/11/00.
-&lt;p&gt;
-DIMENSION JUMP 2000: The Official Red Dwarf Fan Club convention. E-mail: &lt;a href=">roryajd@netscape.net</a>.  Webpage: <a href="http://www.tordfc.co.uk">http://www.tordfc.co.uk</a>.  Address: DJ2K, PO Box 35, Hitchin, SG4 9XZ.  Site Address:  Heathrow Park Hotel, Heathrow, Middx.  Dates: 11/10/00 - 11/12/00.
+DAY OF THE DALEKS. E-mail: <a href="mailto:daleks@indelible.org.uk?subject=Day of the Daleks Enquiry">daleks@indelible.org.uk</a>.  Website: <a href="http://indelible.org.uk/daleks/">http://indelible.org.uk/daleks/</a>.  Address:  Liverpool, UK.  Dates: 11/11/00.
+</p><p>
+DIMENSION JUMP 2000: The Official Red Dwarf Fan Club convention. E-mail: <a href="mailto:roryajd@netscape.net">roryajd@netscape.net</a>.  Webpage: <a href="http://www.tordfc.co.uk">http://www.tordfc.co.uk</a>.  Address: DJ2K, PO Box 35, Hitchin, SG4 9XZ.  Site Address:  Heathrow Park Hotel, Heathrow, Middx.  Dates: 11/10/00 - 11/12/00.
 </p><p>
 DRAGONMEET. E-mail: <a href="mailto:info@dragonmeet.com">info@dragonmeet.com</a>.  Website: <a href="http://www.dragonmeet.com">http://www.dragonmeet.com</a>. Address: London, England.  Dates:  11/25/00.
 </p><p>

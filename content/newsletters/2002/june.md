@@ -116,7 +116,7 @@ Here are the faires we know about that are happening in June.  Faires are indexe
 </p><p>
 </p><h3>Alaska</h3>
 <p>
-<b>THREE BARONS RENAISSANCE FAIRE.</b>  E-mail: <a href="mailto:info@3barons.org&gt;info@3barons.org&lt;/a&gt;.  Website: &lt;a href=">http://www.3barons.org</a>.  Address: Carol LaLone, Three Barons Renaissance Faire, Inc. P.O. Box 233617, Anchorage, A5 99523-3617.  Site  Address:  Alaska Pacific University, Anchorage, AK.  Dates:  6/2/02-6/10/02.  Open/Close:  12 noon - 9 PM (Sun. until 7 PM).
+<b>THREE BARONS RENAISSANCE FAIRE.</b>  E-mail: <a href="mailto:info@3barons.org">info@3barons.org</a>.  Website: <a href="http://www.3barons.org">http://www.3barons.org</a>.  Address: Carol LaLone, Three Barons Renaissance Faire, Inc. P.O. Box 233617, Anchorage, A5 99523-3617.  Site  Address:  Alaska Pacific University, Anchorage, AK.  Dates:  6/2/02-6/10/02.  Open/Close:  12 noon - 9 PM (Sun. until 7 PM).
  </p><p>
 </p><h3>Arizona</h3>
 <p>
@@ -441,9 +441,9 @@ E-mail: <a href="mailto:scifiexpo@aol.com">scifiexpo@aol.com</a>.  Address: Plan
 </p><p>
 <b>SECTOR 14: HOMECOMING.</b>  Website: <a href="http://www.sector14.co.uk/">http://www.sector14.co.uk/</a>.  E-mail: <a href="mailto:homecomingenquiries@sector14.co.uk">homecomingenquiries@sector14.co.uk</a>.  Address: Normandy Hotel, Glasgow, Scotland.  Dates: 6/1/02 - 6/2/02.
 </p><p>
-<b>SFRA 2002.</b>  Website: <a href="http://www.sfra.org/sfra2002.htm">http://www.sfra.org/sfra2002.htm</a>.  E-mail: <a href="mailto:farah3@mdx.ac.uk&gt;farah3@mdx.ac.uk&lt;/a&gt;.  Address: New Lanark, Scotland.  Dates: 6/28/02 - 6/30/02.
-&lt;P&gt;
-&lt;b&gt;SFX EVENT.&lt;/b&gt;  Website: &lt;a href=">http://www.sfx.co.uk</a>.  E-mail: <a href="mailto:information@wolfevents.co.uk">information@wolfevents.co.uk</a>.  Address: Norbreck Castle Hotel, Blackpool, UK.  Dates: 6/21/02 - 6/23/02.
+<b>SFRA 2002.</b>  Website: <a href="http://www.sfra.org/sfra2002.htm">http://www.sfra.org/sfra2002.htm</a>.  E-mail: <a href="mailto:farah3@mdx.ac.uk">farah3@mdx.ac.uk</a>.  Address: New Lanark, Scotland.  Dates: 6/28/02 - 6/30/02.
+</p><p>
+<b>SFX EVENT.</b>  Website: <a href="http://www.sfx.co.uk">http://www.sfx.co.uk</a>.  E-mail: <a href="mailto:information@wolfevents.co.uk">information@wolfevents.co.uk</a>.  Address: Norbreck Castle Hotel, Blackpool, UK.  Dates: 6/21/02 - 6/23/02.
 </p><p>
 <b>SUMMER STABCON.</b>  Website: <a href="http://www.philm.demon.co.uk/RPGs/conventions.htm">http://www.philm.demon.co.uk/RPGs/conventions.htm</a>.  E-mail: <a href="mailto:hammy@riverbank.win-uk.net">hammy@riverbank.win-uk.net</a>.  Address: Woolton Hall, on the Fallowfield Campus of the University of Manchester, Manchester, UK.  Dates: 6/28/02 - 6/30/02.
 </p><p>

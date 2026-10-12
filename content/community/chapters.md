@@ -28,7 +28,7 @@ Looking for folks involved in Misty's fandom in your region?  Check out the chap
 <p>Newsletter:  <i>Golden Grove</i> (e-copy)<br/>
 Editor: Sacre Noir
 <br/>
-E-mail: <a href="mailto:Sacree Noir &lt;sn.keeper@yahoo.com&gt;">Sacree Noir <sn.keeper@yahoo.com></sn.keeper@yahoo.com></a><br/>
+E-mail: <a href="mailto:sn.keeper@yahoo.com">Sacree Noir &lt;sn.keeper@yahoo.com&gt;</a><br/>
 Website: <a href="/golden-grove/">Golden Grove</a><br/>
 Note:  <i>Golden Grove</i> was formerly called <i>The Herald's Hall of California</i>, and it's publication was previously entitled <i>The California Arrow</i>.
 </p><p>

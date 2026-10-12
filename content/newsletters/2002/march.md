@@ -235,11 +235,11 @@ These are the upcoming cons we know about.  Have any information about conventio
 <p>
 <b>A GAZEBO OF GAMES.</b>  Website: <a href="http://www.wildgazebo.com/">http://www.wildgazebo.com/</a>.  E-mail: <a href="mailto:GM@wildgazebo.com">GM@wildgazebo.com</a>.  Address: The Somerset Marriott, Somerset, New Jersey.  Dates: 3/2/02.
 </p><p>
-<b>PRINCECON 27.</b>  Website: <a href="http://www.princetongames.org/princecon/">http://www.princetongames.org/princecon/</a>.  E-mail: <a href="mailto:princecon@princetongames.org&gt;princecon@princetongames.org&lt;/a&gt;.  Address: Princeton University, Princeton, New Jersey.  Dates: 3/15/02 - 3/17/02.
-&lt;P&gt;
-&lt;h3&gt;New York&lt;/h3&gt;
-&lt;P&gt;
-&lt;b&gt;BIG APPLE COMIC CON.&lt;/b&gt;  Website: &lt;a href=">http://www.bigapplecon.com/</a>.
+<b>PRINCECON 27.</b>  Website: <a href="http://www.princetongames.org/princecon/">http://www.princetongames.org/princecon/</a>.  E-mail: <a href="mailto:princecon@princetongames.org">princecon@princetongames.org</a>.  Address: Princeton University, Princeton, New Jersey.  Dates: 3/15/02 - 3/17/02.
+</p><p>
+</p><h3>New York</h3>
+<p>
+<b>BIG APPLE COMIC CON.</b>  Website: <a href="http://www.bigapplecon.com/">http://www.bigapplecon.com/</a>.
 E-mail: <a href="mailto:bigapplecon@earthlink.net">bigapplecon@earthlink.net</a>.  Address: St. Paul's Church Auditorium, New York, New York.  Dates: 3/29/02 - 3/30/02.
 </p><p>
 <b>CREATION SALUTES XENA AND STRONG WOMEN OF TV AND FILM.</b>  Website: <a href="http://www.creationent.com/">http://www.creationent.com/</a>.  E-mail: <a href="mailto:tickets@creationent.com">tickets@creationent.com</a>.  Address: Pennsylvania Hotel, Manhattan, New York.  Dates: 3/16/02 - 3/17/02.
@@ -288,11 +288,11 @@ E-mail: <a href="mailto:bigapplecon@earthlink.net">bigapplecon@earthlink.net</a>
 </p><p>
 </p><h3>South Carolina</h3>
 <p>
-<b>BATTLE OF COWPENS.</b>  Website: <a href="http://www.warweb.com/histconv.html">http://www.warweb.com/histconv.html</a>.  E-mail: <a href="mailto:cpagano@clemson.edu&gt;cpagano@clemson.edu&lt;/a&gt;.  Address: Clemson University, Clemson, South Carolina.  Dates: 3/1/02 - 3/3/02.
-&lt;P&gt;
-&lt;h3&gt;Tennessee&lt;/h3&gt;
-&lt;P&gt;
-&lt;b&gt;CHAOS CON 4.&lt;/b&gt;  Website: &lt;a href=">http://www.chaoscentral.org</a>.  E-mail: <a href="mailto:chaoscon666@yahoo.com">chaoscon666@yahoo.com</a>.  Address: Austin Peay State University, Clarksville, Tennessee.  Dates: 3/8/02 - 3/10/02.
+<b>BATTLE OF COWPENS.</b>  Website: <a href="http://www.warweb.com/histconv.html">http://www.warweb.com/histconv.html</a>.  E-mail: <a href="mailto:cpagano@clemson.edu">cpagano@clemson.edu</a>.  Address: Clemson University, Clemson, South Carolina.  Dates: 3/1/02 - 3/3/02.
+</p><p>
+</p><h3>Tennessee</h3>
+<p>
+<b>CHAOS CON 4.</b>  Website: <a href="http://www.chaoscentral.org">http://www.chaoscentral.org</a>.  E-mail: <a href="mailto:chaoscon666@yahoo.com">chaoscon666@yahoo.com</a>.  Address: Austin Peay State University, Clarksville, Tennessee.  Dates: 3/8/02 - 3/10/02.
 </p><p>
 <b>GALACTICON.</b>  Website: <a href="http://www.thewebfool.com/galacticon/">http://www.thewebfool.com/galacticon/</a>.  E-mail: <a href="mailto:galacticon@vei.net">galacticon@vei.net</a>.  Address: Ramada Inn South, Chattanooga, Tennessee.  Dates: 3/22/02 - 3/24/02.
 </p><p>
@@ -335,9 +335,9 @@ E-mail: <a href="mailto:gelp@juno.com">gelp@juno.com</a>.  Address: Executive In
 <p>
 <b>CONQUEST 2002.</b>  Website: <a href="http://www.conquest.asn.au/">http://www.conquest.asn.au/</a>.  E-mail: <a href="mailto:enquiries@conquest.asn.au">enquiries@conquest.asn.au</a>.  Address: Melbourne High School, South Yarra, Melbourne, VIC, Australia.  Dates: 3/29/02 - 4/1/02.
 </p><p>
-<b>SWANCON 2002.</b>  Website: <a href="http://www.swancon.com/">http://www.swancon.com/</a>.  E-mail: <a href="mailto:2002@sf.org.au&gt;2002@sf.org.au&lt;/a&gt;.  Address: The Kings Perth Hotel, Perth, Western Australia, Australia.  Dates: 3/28/02 - 4/1/02.
-&lt;P&gt;
-&lt;b&gt;WORLD DIPCON 2002.&lt;/b&gt;  Website: &lt;a href=">http://wdc2002downunder.com/</a>.  E-mail: <a href="mailto:rstephenson@mfbb.vic.gov.au">rstephenson@mfbb.vic.gov.au</a>.  Address: Canberra, Australia.  Dates: 3/29/02 - 4/1/02.
+<b>SWANCON 2002.</b>  Website: <a href="http://www.swancon.com/">http://www.swancon.com/</a>.  E-mail: <a href="mailto:2002@sf.org.au">2002@sf.org.au</a>.  Address: The Kings Perth Hotel, Perth, Western Australia, Australia.  Dates: 3/28/02 - 4/1/02.
+</p><p>
+<b>WORLD DIPCON 2002.</b>  Website: <a href="http://wdc2002downunder.com/">http://wdc2002downunder.com/</a>.  E-mail: <a href="mailto:rstephenson@mfbb.vic.gov.au">rstephenson@mfbb.vic.gov.au</a>.  Address: Canberra, Australia.  Dates: 3/29/02 - 4/1/02.
 </p><p>
 </p><h3>Canada</h3>
 <p>

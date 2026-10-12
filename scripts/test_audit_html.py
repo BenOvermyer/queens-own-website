@@ -1,0 +1,107 @@
+"""Regression tests for the legacy-HTML audit and its content-preservation baseline."""
+import json
+from pathlib import Path
+import tempfile
+import unittest
+from unittest.mock import patch
+
+import audit_html
+from audit_html import audit, audit_file, read_body
+
+FRONT = '+++\ntitle = "T"\n[extra]\nlegacy_source = "sample.htm"\n+++\n'
+
+
+class HtmlAuditTests(unittest.TestCase):
+    def setUp(self):
+        self.temp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temp.cleanup)
+        self.root = Path(self.temp.name)
+        (self.root / 'content').mkdir()
+        (self.root / 'data').mkdir()
+        self.patcher = patch.object(audit_html, 'ROOT', self.root)
+        self.patcher.start()
+        self.addCleanup(self.patcher.stop)
+
+    def write(self, relative, body, front=FRONT):
+        path = self.root / relative
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(front + body)
+        return path
+
+    def findings(self, body):
+        path = self.write('content/sample.md', body)
+        result = audit_file(path, path.read_text(), self.root)
+        return {finding['rule']: finding for finding in result['findings']}, result
+
+    def test_unterminated_attribute_is_a_structural_error(self):
+        found, _ = self.findings('<a href="mailto:x@y.com>Site</a>. Email <a href="/next/">next</a>')
+        self.assertEqual(found['malformed_attribute']['severity'], 'error')
+
+    def test_balanced_markup_has_no_structural_errors(self):
+        found, _ = self.findings('<div><p><a href="/">x</a></p><table><tr><th>h</th></tr></table></div>')
+        self.assertNotIn('mismatched_end_tag', found)
+        self.assertNotIn('unclosed_element', found)
+
+    def test_anchor_wrapping_a_heading_is_reported(self):
+        found, _ = self.findings('<a name="s"><h2>Section</h2></a>')
+        self.assertIn('block_in_anchor', found)
+
+    def test_heading_inside_open_paragraph_is_reported(self):
+        found, _ = self.findings('<p>text</p><p>more<h2>Next</h2></p>')
+        self.assertIn('block_in_paragraph', found)
+
+    def test_obsolete_and_presentational_markup_is_reported(self):
+        found, _ = self.findings('<font color="red"><center>x</center></font>')
+        self.assertIn('obsolete_element', found)
+        self.assertIn('presentational_attribute', found)
+
+    def test_migration_image_placeholder_is_not_a_missing_source(self):
+        found, _ = self.findings('<img alt="unavailable" data-unavailable-target="https://e/x.jpg"/>')
+        self.assertNotIn('image_missing_src', found)
+
+    def test_image_without_alt_is_reported(self):
+        found, _ = self.findings('<img src="/a.gif"/>')
+        self.assertIn('image_missing_alt', found)
+
+    def test_duplicate_anchor_id_is_reported(self):
+        found, _ = self.findings('<h2 id="special">A</h2><h3 id="special">B</h3>')
+        self.assertIn('duplicate_id', found)
+
+    def test_heading_semantics_are_reported(self):
+        found, _ = self.findings('<h1>A</h1><h1>B</h1><h3>C</h3>')
+        self.assertIn('multiple_h1', found)
+        self.assertIn('heading_level_skipped', found)
+
+    def test_baseline_records_structure_and_notices_text_changes(self):
+        _, first = self.findings('<p>Hello <a href="/">world</a></p><img src="/i.gif" alt="i"/>')
+        _, second = self.findings('<p>Goodbye <a href="/">world</a></p><img src="/i.gif" alt="i"/>')
+        self.assertEqual(first['baseline']['links'], 1)
+        self.assertEqual(first['baseline']['images'], 1)
+        self.assertNotEqual(first['baseline']['visible_text_sha256'], second['baseline']['visible_text_sha256'])
+
+    def test_exception_acknowledges_a_finding_and_clears_the_error(self):
+        self.write('content/sample.md', '<p>Copy this fragment:</p>&lt;a href="/"&gt;copy me&lt;/a&gt;')
+        (self.root / 'data/html-exceptions.json').write_text(json.dumps([{'file': 'content/sample.md', 'rule': 'escaped_markup_in_text', 'reason': 'sample'}]))
+        report = audit()
+        self.assertEqual(report['summary']['acknowledged_findings'], 1)
+        self.assertEqual(report['summary']['unresolved_errors'], 0)
+
+    def test_audit_writes_the_report_and_counts_files(self):
+        self.write('content/sample.md', '<p>text</p>')
+        report = audit()
+        self.assertEqual(report['summary']['files_scanned'], 1)
+        written = json.loads((self.root / 'data/html-audit-report.json').read_text())
+        self.assertEqual(written['summary']['files_scanned'], 1)
+
+    def test_documents_without_html_are_skipped(self):
+        path = self.write('content/plain.md', 'Just [Markdown](/here/).')
+        self.assertIsNone(audit_file(path, path.read_text(), self.root))
+
+    def test_read_body_splits_front_matter(self):
+        meta, body = read_body(FRONT + '<p>hi</p>')
+        self.assertEqual(meta['extra']['legacy_source'], 'sample.htm')
+        self.assertEqual(body.strip(), '<p>hi</p>')
+
+
+if __name__ == '__main__':
+    unittest.main()

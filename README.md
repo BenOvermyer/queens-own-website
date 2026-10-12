@@ -99,6 +99,19 @@ After recovering a resource, remove its entry from `data/link-dispositions.json`
 and its unavailable notice from the page, refresh live evidence where appropriate,
 then rerun the organizer, rebuild, and verify.
 
+## HTML markup repair and audit
+
+The original pages contain malformed attribute quoting that a lenient parser turns
+into swallowed links and escaped markup. `scripts/markup_repairs.py` repairs those
+fragments in the raw archive bytes, and both importers apply it before parsing, so a
+reimport does not restore the breakage. `scripts/audit_html.py` audits the preserved
+HTML for structural, presentational, and semantic problems and records a
+content-preservation baseline. `python3 scripts/audit_html.py --check` fails while
+unresolved structural errors remain, and `scripts/verify.py` runs it during
+deployment verification. Intentional exceptions are listed in
+`data/html-exceptions.json` and documented in
+[`docs/html-audit.md`](docs/html-audit.md).
+
 ## Content remaining on Dragonlords
 
 [`docs/dragonlords-migration-inventory.md`](docs/dragonlords-migration-inventory.md)

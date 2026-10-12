@@ -126,7 +126,7 @@ You can earn a specialty by creating an approved Healer persona, and then
 </li><li>After you have written your paper, roll on the appropriate chart below.
 <p>
 </p><ul>
-<li><a id="special" name="special"></a><a id="low"></a><h3>Low Strength Healing Specialties</h3>
+<li><a id="low"></a><h3>Low Strength Healing Specialties</h3>
 <p>
 If you have a Low Strength Healing Gift, roll on this chart:
 </p><p>

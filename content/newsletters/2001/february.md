@@ -172,9 +172,9 @@ CON OF THE NORTH 2001. E-mail: <a href="mailto:info@conofthenorth.org">info@cono
 </p><p>
 </p><h3>Missouri</h3>
 <p>
-<b>ALPHAOMEGACON.</b> E-mail: <a href="mailto:darkstr@mindspring.com">darkstr@mindspring.com</a>. Website: <a href="http://darkstr.home.mindspring.com'&gt;http://darkstr.home.mindspring.com&lt;/a&gt;. Address: Kansas City, Missouri. Dates: 2/23/01 - 2/25/01.
-&lt;P&gt;
-&lt;b&gt;VISIONCON.&lt;/b&gt; E-mail: &lt;a href=">Junior@visioncon.net</a>. Website: <a href="http://www.visioncon.net">http://www.visioncon.net</a>. Address: Clarion Hotel, Springfield, Missouri. Dates: 2/16/01 - 2/18/01.
+<b>ALPHAOMEGACON.</b> E-mail: <a href="mailto:darkstr@mindspring.com">darkstr@mindspring.com</a>. Website: <a href="http://darkstr.home.mindspring.com">http://darkstr.home.mindspring.com</a>. Address: Kansas City, Missouri. Dates: 2/23/01 - 2/25/01.
+</p><p>
+<b>VISIONCON.</b> E-mail: <a href="mailto:Junior@visioncon.net">Junior@visioncon.net</a>. Website: <a href="http://www.visioncon.net">http://www.visioncon.net</a>. Address: Clarion Hotel, Springfield, Missouri. Dates: 2/16/01 - 2/18/01.
 </p><p>
 </p><h3>New York</h3>
 <p>
@@ -184,9 +184,9 @@ CON OF THE NORTH 2001. E-mail: <a href="mailto:info@conofthenorth.org">info@cono
 </p><p>
 </p><h3>Ohio</h3>
 <p>
-<b>BASHCON 2001.</b> E-mail: <a href="mailto:utbash@hotmail.com">utbash@hotmail.com</a>. Website: <a href="http://sites.netscape.net/utbash/web/bashcon'&gt;http://sites.netscape.net/utbash/web/bashcon&lt;/a&gt;. Address: University of Toledo, Student Union, Toledo, Ohio. Dates: 2/2001.
-&lt;P&gt;
-&lt;b&gt;MILLENNICON.&lt;/b&gt;  Phone: (513) 933-0452.  E-mail: &lt;a href=">millennicon@mvfl.org</a>.  Website: <a href="http://www.millennicon.org">http://www.millennicon.org</a>.  Address:  143 Schloss Lane, Dayton, OH, 45418.  Site Address:  Kings Island Resort &amp; Conference Center, Kings Island, Ohio.  Dates:  3/23/01-3/25/01.
+<b>BASHCON 2001.</b> E-mail: <a href="mailto:utbash@hotmail.com">utbash@hotmail.com</a>. Website: <a href="http://sites.netscape.net/utbash/web/bashcon">http://sites.netscape.net/utbash/web/bashcon</a>. Address: University of Toledo, Student Union, Toledo, Ohio. Dates: 2/2001.
+</p><p>
+<b>MILLENNICON.</b>  Phone: (513) 933-0452.  E-mail: <a href="mailto:millennicon@mvfl.org">millennicon@mvfl.org</a>.  Website: <a href="http://www.millennicon.org">http://www.millennicon.org</a>.  Address:  143 Schloss Lane, Dayton, OH, 45418.  Site Address:  Kings Island Resort &amp; Conference Center, Kings Island, Ohio.  Dates:  3/23/01-3/25/01.
 </p><p>
 <b>PALADIN GAME HUNTERS GAME AUCTION.</b> E-mail: <a href="mailto:PaladinGH@gateway.net">PaladinGH@gateway.net</a>.  Address: 10421 Fidelity Cleveland, Ohio, 44111. Dates: 2/3/01.
 </p><p>

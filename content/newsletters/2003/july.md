@@ -56,7 +56,7 @@ Here are the Faires we know about for July.  Faires are indexed alphabetically b
 </p><p>
 </p><h3>California</h3>
 <p>
-<b>A ROYAL AFAYRE RENAISSANCE FESTIVAL. </b> FAX:  720-293-6660.  E-mail: jasmineh@earthlink.net <a href="mailto:jasmineh@earthlink.net&gt;.  Website: &lt;a href=">http://www.aryalafayre.org</a>.  Address: 843 N. Lincoln Street, Stockton, CA, 95203.  Site Address:   Discovery Park, I-5 and Richards Blvd., Sacraamento, CA.  Dates:
+<b>A ROYAL AFAYRE RENAISSANCE FESTIVAL. </b> FAX:  720-293-6660.  E-mail: jasmineh@earthlink.net <a href="mailto:jasmineh@earthlink.net">.  Website: </a><a href="http://www.aryalafayre.org">http://www.aryalafayre.org</a>.  Address: 843 N. Lincoln Street, Stockton, CA, 95203.  Site Address:   Discovery Park, I-5 and Richards Blvd., Sacraamento, CA.  Dates:
 7/05/03 - 7/06/03.  Open/Close: 10:00 AM - 06:00 PM.
 </p><p>
 <b>CENTRAL COAST RENAISSANCE FESTIVAL. </b> E-mail: <a href="mailto:hisrev@xprs.net">hisrev@xprs.net</a>.  Website: <a href="http://www.hisrev.org">http://www.hisrev.org</a>.  Address:  Larry Gunn, 10147 Monte Custo Dr, Kelseyville CA, 94851. Site Address: El Chorro Regional Park, on Hwy 1 between San Luis Obispo and Morro Bay.  Dates:  7/19/03 - 7/20/03.  Open/Close: 10 AM - 6 PM.
@@ -85,9 +85,9 @@ Here are the Faires we know about for July.  Faires are indexed alphabetically b
 <b>ROBIN ON SHERWOOD CONVENTION. </b> E-mail: <a href="mailto:ChrisRHood@aol.com">ChrisRHood@aol.com</a>.  Website: <a href="http://dutepp0.et.tudelft.nl/~tirza/RoS/">http://dutepp0.et.tudelft.nl/~tirza/RoS/</a>.  Address: Christine Alexander, 2536 Dundee Dr, Warren, MI.  Site Address: Holiday Inn, Farmington Hills, MI.  Dates:  7/4/03 - 7/6/03.
 
 </p><p>
-<b>SILVER LEAF RENAISSANCE FESTIVAL.  </b>E-mail: <a href="mailto:moradesame@aol.com">moradesame@aol.com</a>. Website: <a href="http://www.silverleafrenfaire.org&gt;http://www.silverleafrenfaire.org&lt;/a&gt;.  Address: Box 2346, Portage MI 49081-2346.  Site Address: River Oaks Park. Dates: 7/12/03 - 7/27/03.  Open/Close: 10 AM - 6 PM.
-&lt;P&gt;
-&lt;b&gt;UPPER GREAT LAKES RENAISSANCE FAIRE.&lt;/b&gt;  E-mail: &lt;a href=">info@uppergreatlakesrenfaire.org</a>.  Website: <a href="http://www.uppergreatlakesrenaire.org">http://www.uppergreatlakesrenaire.org</a>.  Address: Mary Powell, P.O. Box 131, Ironwood, MI 49938.  Site Address: Norrie Park, Ironwood, MI.  Dates:  7/12/03-7/13/03.  Open/Close: 11 AM - 6 PM.
+<b>SILVER LEAF RENAISSANCE FESTIVAL.  </b>E-mail: <a href="mailto:moradesame@aol.com">moradesame@aol.com</a>. Website: <a href="http://www.silverleafrenfaire.org">http://www.silverleafrenfaire.org</a>.  Address: Box 2346, Portage MI 49081-2346.  Site Address: River Oaks Park. Dates: 7/12/03 - 7/27/03.  Open/Close: 10 AM - 6 PM.
+</p><p>
+<b>UPPER GREAT LAKES RENAISSANCE FAIRE.</b>  E-mail: <a href="mailto:info@uppergreatlakesrenfaire.org">info@uppergreatlakesrenfaire.org</a>.  Website: <a href="http://www.uppergreatlakesrenaire.org">http://www.uppergreatlakesrenaire.org</a>.  Address: Mary Powell, P.O. Box 131, Ironwood, MI 49938.  Site Address: Norrie Park, Ironwood, MI.  Dates:  7/12/03-7/13/03.  Open/Close: 11 AM - 6 PM.
 </p><p>
 </p><h3>Nevada</h3>
 <p>
@@ -298,7 +298,7 @@ Mercer Island, WA 98040.  Dates:  7/25/03 - 7/27/03.  <font color='red"'>Note:  
 </p><p>
 <b>CONTINUUM. </b> Website: <a href="http://www.continuum.org.au">http://www.continuum.org.au</a>.  E-mail: <a href="mailto:info@continuum.org.au">info@continuum.org.au</a>.  Address: Cato Convention Centre, Melbourne, VIC, Australia.  Dates: 7/11/03 - 7/13/03.
 </p><p>
-<b>DWARFCON. </b> Website: <a href="http://www.bad-sports.com/~dwarfcon/index.html&gt;http://www.bad-sports.com/~dwarfcon/index.html&lt;/a&gt;.  E-mail: &lt;a href=">spericks@bigpond.net.au</a>.  Address: Carwatha College, Browns Road in Noble Park North, Dandenong, Victoria, Australia.  Dates: 7/11/03 - 7/13/03.
+<b>DWARFCON. </b> Website: <a href="http://www.bad-sports.com/~dwarfcon/index.html">http://www.bad-sports.com/~dwarfcon/index.html</a>.  E-mail: <a href="mailto:spericks@bigpond.net.au">spericks@bigpond.net.au</a>.  Address: Carwatha College, Browns Road in Noble Park North, Dandenong, Victoria, Australia.  Dates: 7/11/03 - 7/13/03.
 </p><p>
 </p><h3>Canada</h3>
 <p>

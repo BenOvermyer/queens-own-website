@@ -125,9 +125,9 @@ EVECON 18. E-mail: <a href="mailto:Cherylz@fantek.org">Cherylz@fantek.org</a>. W
 <p>
 CAMP COSTUME. E-mail: <a href="mailto:stilskin@netspace.net.au">stilskin@netspace.net.au</a>. Website: <a href="http://www.vicnet.net.au/~costume">http://www.vicnet.net.au/~costume</a>.  Address: Polana Camp, Healesville, Victoria, Australia. Dates: 12/8/00 - 12/10/00.
 </p><p>
-GRASS CROWN 2000. E-mail: <a href="mailto:trailape@primus.com.au">trailape@primus.com.au</a>. Website: <a href="http://www.geocities.com/TimesSquare/Labyrinth/3927'&gt;http://www.geocities.com/TimesSquare/Labyrinth/3927&lt;/a&gt;.  Address: The Pymble Army Reserve Training Depot, Pymble, Holsworthy, NSW, Australia. Dates: 12/9/00 - 12/10/00.
-&lt;p&gt;
-MACQUARIECON 2000. E-mail: &lt;a href=">murps@hardy.ocs.mq.edu.au</a>. Website: http://members.xoom.com/murps.  Address: Macquarie University, North Ryde, Sydney, New South Wales, Australia. Dates: 12/9/00 - 12/11/00.
+GRASS CROWN 2000. E-mail: <a href="mailto:trailape@primus.com.au">trailape@primus.com.au</a>. Website: <a href="http://www.geocities.com/TimesSquare/Labyrinth/3927">http://www.geocities.com/TimesSquare/Labyrinth/3927</a>.  Address: The Pymble Army Reserve Training Depot, Pymble, Holsworthy, NSW, Australia. Dates: 12/9/00 - 12/10/00.
+</p><p>
+MACQUARIECON 2000. E-mail: <a href="mailto:murps@hardy.ocs.mq.edu.au">murps@hardy.ocs.mq.edu.au</a>. Website: http://members.xoom.com/murps.  Address: Macquarie University, North Ryde, Sydney, New South Wales, Australia. Dates: 12/9/00 - 12/11/00.
 </p><p>
 SECRETCON 2000. E-mail: <a href="mailto:alastair@ucc.gu.uwa.edu.au">alastair@ucc.gu.uwa.edu.au</a>. Website: http://www.cia.asn.au.  Address:  Near Manjimup, WA, Australia. Dates: 12/??/00.
 </p><p>

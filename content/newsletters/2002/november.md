@@ -78,9 +78,9 @@ Teri Lee also reports that "Another book in progress is <i>Joust</i>, a brand ne
 </p><p>
 In other book news, Mercedes Lackey and Rosemary Edghill�s <i>Spirits White as Lightning</i> will be out in paperback in May 2003.
 </p><p>
-Danya�s Herald-Mage costume has arrived, and it�s gorgeous!  She hopes to have pictures taken while wearing it in the near future.  The company that produced it is Anastacia's Garb &amp; Pavilions, <a href="mailto:anastacias@anastacias.com">anastacias@anastacias.com</a>, <a href="http://www.anastacias.com&gt;, (916) 723-9547, 7410 Circlet Way, Citrus Heights, CA, 95621.
-&lt;P&gt;
-The new German chapter of Queen�s Own is forming.  Their website is underconstruction at &lt;a href=">http://www.heartstone.de</a>.  See below for additional contact information.
+Danya�s Herald-Mage costume has arrived, and it�s gorgeous!  She hopes to have pictures taken while wearing it in the near future.  The company that produced it is Anastacia's Garb &amp; Pavilions, <a href="mailto:anastacias@anastacias.com">anastacias@anastacias.com</a>, <a href="http://www.anastacias.com">, (916) 723-9547, 7410 Circlet Way, Citrus Heights, CA, 95621.
+<p>
+The new German chapter of Queen�s Own is forming.  Their website is underconstruction at <a href="http://www.heartstone.de">http://www.heartstone.de</a>.  See below for additional contact information.
 </p><p>
 <b>A reminder:</b>  The Mercedes Lackey section of the Dragonlords Bookstore is located at
 </p><p>
@@ -313,9 +313,9 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 </p><h3>Australia</h3>
 <p>
-<b>A DAY WITH AMANDA TAPPING: STARGATE'S SAMANTHA CARTER. </b> Website: <a href="http://www.multiverse.org.au/">http://www.multiverse.org.au/</a>.  E-mail: <a href="mailto:multiverse@multiverse.org.au&gt;multiverse@multiverse.org.au&lt;/a&gt;.  Address: Victoria, Australia.  Dates: 11/16/02.
-&lt;P&gt;
-&lt;b&gt;FSF PRESENTS: AMANDA TAPPING. &lt;/b&gt; Website: &lt;a href=">http://www.fsf.com.au/</a>.  E-mail: <a href="mailto:bookings@fsf.com.au">bookings@fsf.com.au</a>.  Address: Lidcombe Catholic Workmens Club, Sydney, New South Wales, Australia.  Dates: 11/10/02.
+<b>A DAY WITH AMANDA TAPPING: STARGATE'S SAMANTHA CARTER. </b> Website: <a href="http://www.multiverse.org.au/">http://www.multiverse.org.au/</a>.  E-mail: <a href="mailto:multiverse@multiverse.org.au">multiverse@multiverse.org.au</a>.  Address: Victoria, Australia.  Dates: 11/16/02.
+</p><p>
+<b>FSF PRESENTS: AMANDA TAPPING. </b> Website: <a href="http://www.fsf.com.au/">http://www.fsf.com.au/</a>.  E-mail: <a href="mailto:bookings@fsf.com.au">bookings@fsf.com.au</a>.  Address: Lidcombe Catholic Workmens Club, Sydney, New South Wales, Australia.  Dates: 11/10/02.
 </p><p>
 <b>GONG CON.</b>  Website: <a href="http://daanz.org.au/dip-tournaments.htm">http://daanz.org.au/dip-tournaments.htm</a>.  E-mail: <a href="mailto:scolman@optushome.com.au">scolman@optushome.com.au</a>.  Address: North Wollongong PCYC, Wollongong, Australia.  Dates: 11/30/02 - 12/1/02.
 </p><p>
@@ -554,5 +554,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></grin></p></g></p>
+</p></grin></p></g></p></a></p>
 </div>

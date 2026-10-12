@@ -121,7 +121,7 @@ Here are the faires we know about that are happening in October.  Faires are ind
 </p><p>
 </p><h3>New Jersey</h3>
 <p>
-<b>FAMILY HARVEST FESTIVAL AND MEDIEVAL FAIRE.</b>  FAX: 973-248-0766.  E-mail: <a href="mailto:paladinmusic@yahoo.com&gt;paladinmusic@yahoo.com&lt;/a&gt;.  Website: &lt;a href=">http://www.thepaladin.com/medievalfaire2002.html</a>.  Address:  P.O. Box 179, Pompto Plains, NJ, 07444.  Site Address:  Four Sisters Winery, 783 Route 519, Belvidere, NJ, 07823.  Dates:  10/05/02 - 10/06/02.  Open/Close: 10:00 AM - 5:00 PM.
+<b>FAMILY HARVEST FESTIVAL AND MEDIEVAL FAIRE.</b>  FAX: 973-248-0766.  E-mail: <a href="mailto:paladinmusic@yahoo.com">paladinmusic@yahoo.com</a>.  Website: <a href="http://www.thepaladin.com/medievalfaire2002.html">http://www.thepaladin.com/medievalfaire2002.html</a>.  Address:  P.O. Box 179, Pompto Plains, NJ, 07444.  Site Address:  Four Sisters Winery, 783 Route 519, Belvidere, NJ, 07823.  Dates:  10/05/02 - 10/06/02.  Open/Close: 10:00 AM - 5:00 PM.
 </p><p>
 </p><h3>North Carolina</h3>
 <p>

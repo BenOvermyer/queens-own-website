@@ -147,74 +147,75 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 </p><p>
 </p><h3>Missouri</h3>
 <p>
-<b>CONFLATION 2004. </b> Website: <a href='http://fluidicimpulsesofthesoul.com/Conflation/index.html"&gt;http://fluidicimpulsesofthesoul.com/Conflation/index.html&lt;/a&gt;.  E-mail: &lt;a href="mailto:conflation@lycos.com"&gt;conflation@lycos.com&lt;/a&gt;.  Address: Six Flags Ramada, Eureka, Missouri.  Dates: 1/30/04 - 2/1/04.
-&lt;p&gt;
-&lt;b&gt;CON PETROL. &lt;/b&gt; Website: &lt;a href="http://www.sff.net/people/sfreader/czarkon.htm"&gt;http://www.sff.net/people/sfreader/czarkon.htm&lt;/a&gt;.  E-mail: &lt;a href="mailto:takki2takki@earthlink.net"&gt;takki2takki@earthlink.net&lt;/a&gt;.  Address: Comfort Inn, Independence, Kansas City, Missouri.  Dates: 2/04.
-&lt;p&gt;
-&lt;b&gt;VISIONCON 2004. &lt;/b&gt; Website: &lt;a href="http://www.visioncon.net"&gt;http://www.visioncon.net&lt;/a&gt;.  E-mail: &lt;a href="mailto:junior@visioncon.net"&gt;junior@visioncon.net&lt;/a&gt;.  Address: The Clarion Hotel, Springfield, Missouri.  Dates: 2/20/04 - 2/22/04.
-&lt;p&gt;
-&lt;h3&gt;New Jersey&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;SVAHA: COSMIC ENCOUNTERS.&lt;/b&gt;  Website: &lt;a href="http://www.wildgazebo.com/"&gt;http://www.wildgazebo.com/&lt;/a&gt;.  E-mail: &lt;a href="mailto:GM@wildgazebo.com"&gt;GM@wildgazebo.com&lt;/a&gt;.  Address: Sheraton Raritan Center in Edison, Edison, New Jersey.  Dates: 2/27/04 - 2/29/04.
-&lt;p&gt;
-&lt;b&gt;UBERCON III. &lt;/b&gt; Website: &lt;a href="http://www.ubercon.com"&gt;http://www.ubercon.com&lt;/a&gt;.  E-mail:&lt;a href="mailto:kevin@ubercon.com"&gt;kevin@ubercon.com&lt;/a&gt;.  Address: Radisson Suites Meadowlands Hotel, Secaucus, New Jersey.  Dates: 2/27/04 - 2/29/04.
-&lt;p&gt;
-&lt;h3&gt;New York&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;NONCON THE NO SUCH CONVENTION. &lt;/b&gt; Website: &lt;a href="http://www.noncon.net"&gt;http://www.noncon.net&lt;/a&gt;.  E-mail: &lt;a href="mailto:chair@noncon.net"&gt;chair@noncon.net&lt;/a&gt;.  Address: Vassar College, Poughkeepsie, New York.  Dates: 2/27/04 - 2/29/04.
-&lt;p&gt;
-&lt;h3&gt;Ohio&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;BASHCON.  &lt;/b&gt;Website: &lt;a href="http://utbash.utoledo.edu/"&gt;http://utbash.utoledo.edu/&lt;/a&gt;.  E-mail: &lt;a href="mailto:dfriess3@utnet.utoledo.edu"&gt;dfriess3@utnet.utoledo.edu&lt;/a&gt;.  Address: University of Toledo, Toledo, Ohio.  Dates: 2/27/04 - 2/29/04.
-&lt;p&gt;
-&lt;h3&gt;Oregon&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;JUST A GAME CON.  &lt;/b&gt;E-mail: &lt;a href="mailto:matt@ilovespidey.com"&gt;matt@ilovespidey.com&lt;/a&gt;.  Address: Benton County Fairgrounds, Corvallis, Oregon.  Dates: 2/21/04 - 2/22/04.
-&lt;p&gt;
-&lt;h3&gt;Pennsylvania&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;GROUND ZERO GAMES EAST COAST CONVENTION. &lt;/b&gt; Website: &lt;a href="http://www.warpfish.com/gzgecc/"&gt;http://www.warpfish.com/gzgecc/&lt;/a&gt;.  E-mail: &lt;a href="mailto:jhan@warpfish.com"&gt;jhan@warpfish.com&lt;/a&gt;.  Address: Hotel Brunswick, Lancaster, Pennsylvania.  Dates: 2/27/04 - 2/29/04.
-&lt;p&gt;
-&lt;h3&gt;South Carolina&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;SOUTH CAROLINA BOOK FESTIVAL.&lt;/b&gt;  Website: &lt;a href="http://www.schumanities.org/bookfestival.htm"&gt;http://www.schumanities.org/bookfestival.htm&lt;/a&gt;.  E-mail: &lt;a href="mailto:bookfest@schumanities.org"&gt;bookfest@schumanities.org&lt;/a&gt;.  Address: State Fairgrounds, Greenville, South Carolina.  Dates: 2/28/04 - 2/29/04.
-&lt;p&gt;
-&lt;h3&gt;Texas&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;CONDFW. &lt;/b&gt; Website: &lt;a href="http://www.condfw.org"&gt;http://www.condfw.org&lt;/a&gt;&lt;/a&gt;.  E-mail: &lt;a href="mailto:info@condfw.org"&gt;info@condfw.org&lt;/a&gt;.  Address: Radisson Hotel Dallas North at Richardson, Richardson, Texas.  Dates: 2/20/04 - 2/22/04.
-&lt;p&gt;
-&lt;b&gt;OWLCON XXIII. &lt;/b&gt; Website: &lt;a href="http://www.rice.edu/owlcon"&gt;http://www.rice.edu/owlcon&lt;/a&gt;.  E-mail: &lt;a href="mailto:owlcon@rice.edu"&gt;owlcon@rice.edu&lt;/a&gt;.  Address: Rice Student Center, Rice University, Houston, TX.  Dates: 2/6/04 - 2/8/04.
-&lt;p&gt;
-&lt;h3&gt;Virginia&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;CAPITAL ASSOCIATES. &lt;/b&gt; Website: &lt;a href="http://www.capicons.com/"&gt;http://www.capicons.com/&lt;/a&gt;.  E-mail: &lt;a href="mailto:comicshow@aol.com"&gt;comicshow@aol.com&lt;/a&gt;.  Address: Tysons Westpark Hotel, McLean, Virginia.  Dates: 2/8/04.
-&lt;p&gt;
-&lt;b&gt;KATSUCON TEN. &lt;/b&gt; Website: &lt;a href="http://www.katsucon.com/"&gt;http://www.katsucon.com/&lt;/a&gt;.  E-mail: &lt;a href="mailto:katsucon@katsucon.com"&gt;katsucon@katsucon.com&lt;/a&gt;.  Address: Hyatt Regency in Crystal City, Arlington, Virginia.  Dates: 2/13/04 - 2/15/04.
-&lt;p&gt;
-&lt;b&gt;PREZCON 2004. &lt;/b&gt; Website: &lt;a href="http://www.prezcon.com/"&gt;http://www.prezcon.com/&lt;/a&gt;.  E-mail: &lt;a href="mailto:kingmaker96@mindspring.com"&gt;kingmaker96@mindspring.com&lt;/a&gt;.  Address: Doubletree Hotel, Charlottesville, Virginia.  Dates: 2/25/04 - 2/29/04.
-&lt;p&gt;
-&lt;b&gt;SHEVACON 12. &lt;/b&gt; Website: &lt;a href="http://www.shevacon.org"&gt;http://www.shevacon.org&lt;/a&gt;.  E-mail: &lt;a href="mailto:themecon@juno.com"&gt;themecon@juno.com&lt;/a&gt;.  Address: Holiday Inn Roanoke Tanglewood, Roanoke, Virginia.  Dates: 2/27/04 - 2/29/04.
-&lt;p&gt;
-&lt;h3&gt;Washington&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;EMERALD CITY COMICON. &lt;/b&gt; Website: &lt;a href="http://www.emeraldcitycomicon.com"&gt;http://www.emeraldcitycomicon.com&lt;/a&gt;.  E-mail: &lt;a href="mailto:jim@emeraldcitycomicon.com"&gt;jim@emeraldcitycomicon.com&lt;/a&gt;.  Address: Seahawks Stadium, West Field Plaza, Seattle, Washington.  Dates: 2/29/04.
-&lt;p&gt;
-&lt;b&gt;POTLATCH 13. &lt;/b&gt; Website: &lt;a href="http://www.potlatch-sf.org/"&gt;http://www.potlatch-sf.org/&lt;/a&gt;.  E-mail: &lt;a href="mailto:info@potlatch-sf.org"&gt;info@potlatch-sf.org&lt;/a&gt;.  Address: Best Western Executive Inn, Seattle, Washington.  Dates: 2/27/04 - 2/29/04.
-&lt;p&gt;
-&lt;b&gt;RADCON 4. &lt;/b&gt; Website: &lt;a href="http://www.radcon.org/"&gt;http://www.radcon.org/&lt;/a&gt;.  E-mail:&lt;a href="mailto: shawn_pack@yahoo.com"&gt;shawn_pack@yahoo.com&lt;/a&gt;.  Address: Red Lion Hotel, Pasco, Washington.  Dates: 2/13/04 - 2/15/04.
-&lt;p&gt;
-&lt;b&gt;STAR TREK, BUFFY AND SCI-FI. &lt;/b&gt; Website: &lt;a href="http://www.creationent.com/"&gt;http://www.creationent.com/&lt;/a&gt;.  E-mail: &lt;a href="mailto:tickets@creationent.com"&gt;tickets@creationent.com&lt;/a&gt;.  Address: Doubletree Bellevue Hotel, Seattle, Washington.  Dates: 2/6/04 - 2/8/04.
-&lt;p&gt;
-&lt;b&gt;STARFLEET REGION 5 SUMMIT.  &lt;/b&gt;Website: &lt;a href="http://www.uss-rubicon.org/Summit/RadCon.htm"&gt;http://www.uss-rubicon.org/Summit/RadCon.htm&lt;/a&gt;.  E-mail: &lt;a href="mailto:Communications@uss-rubicon.org"&gt;Communications@uss-rubicon.org&lt;/a&gt;.  Address: Red Lion Hotel, Pasco, Washington.  Dates: 2/13/04 - 2/15/04.
-&lt;p&gt;
-&lt;h3&gt;Wisconsin&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;FILMCON.&lt;/b&gt;  Website: &lt;a href="http://www.filmcon.com"&gt;http://www.filmcon.com&lt;/a&gt;.  E-mail: &lt;a href="mailto:filmcon@earthlink.net"&gt;filmcon@earthlink.net&lt;/a&gt;.  Address: Radisson, Madison, Wisconsin.  Dates: 2/20/04 - 2/22/04.
-&lt;p&gt;
-&lt;b&gt;POINTCON 11. &lt;/b&gt; Website: &lt;a href="http://www.uwsp.edu/stuorg/gasp/PointCon.htm"&gt;http://www.uwsp.edu/stuorg/gasp/PointCon.htm&lt;/a&gt;.  E-mail: &lt;a href="mailto:GASP@uwsp.edu"&gt;GASP@uwsp.edu&lt;/a&gt;.  Address: University of Wisconsin Stevens Point, Laird room of the University Center, located at 1015 Reserve Street, Stevens Point, Wisconsin.  Dates: 2/04.
-&lt;p&gt;
-&lt;b&gt;SWAGS ARMATI TOURNAMENT.&lt;/b&gt;  Website: &lt;a href="http://www.nasamw.org/tournaments02.htm"&gt;http://www.nasamw.org/tournaments02.htm&lt;/a&gt;.  E-mail: &lt;a href="mailto:admin@ancientgaming.com"&gt;admin@ancientgaming.com&lt;/a&gt;.  Address: Napoleon'>
-<h3>Canada</h3>
+<b>CONFLATION 2004. </b> Website: <a href="http://fluidicimpulsesofthesoul.com/Conflation/index.html">http://fluidicimpulsesofthesoul.com/Conflation/index.html</a>.  E-mail: <a href="mailto:conflation@lycos.com">conflation@lycos.com</a>.  Address: Six Flags Ramada, Eureka, Missouri.  Dates: 1/30/04 - 2/1/04.
+</p><p>
+<b>CON PETROL. </b> Website: <a href="http://www.sff.net/people/sfreader/czarkon.htm">http://www.sff.net/people/sfreader/czarkon.htm</a>.  E-mail: <a href="mailto:takki2takki@earthlink.net">takki2takki@earthlink.net</a>.  Address: Comfort Inn, Independence, Kansas City, Missouri.  Dates: 2/04.
+</p><p>
+<b>VISIONCON 2004. </b> Website: <a href="http://www.visioncon.net">http://www.visioncon.net</a>.  E-mail: <a href="mailto:junior@visioncon.net">junior@visioncon.net</a>.  Address: The Clarion Hotel, Springfield, Missouri.  Dates: 2/20/04 - 2/22/04.
+</p><p>
+</p><h3>New Jersey</h3>
+<p>
+<b>SVAHA: COSMIC ENCOUNTERS.</b>  Website: <a href="http://www.wildgazebo.com/">http://www.wildgazebo.com/</a>.  E-mail: <a href="mailto:GM@wildgazebo.com">GM@wildgazebo.com</a>.  Address: Sheraton Raritan Center in Edison, Edison, New Jersey.  Dates: 2/27/04 - 2/29/04.
+</p><p>
+<b>UBERCON III. </b> Website: <a href="http://www.ubercon.com">http://www.ubercon.com</a>.  E-mail:<a href="mailto:kevin@ubercon.com">kevin@ubercon.com</a>.  Address: Radisson Suites Meadowlands Hotel, Secaucus, New Jersey.  Dates: 2/27/04 - 2/29/04.
+</p><p>
+</p><h3>New York</h3>
+<p>
+<b>NONCON THE NO SUCH CONVENTION. </b> Website: <a href="http://www.noncon.net">http://www.noncon.net</a>.  E-mail: <a href="mailto:chair@noncon.net">chair@noncon.net</a>.  Address: Vassar College, Poughkeepsie, New York.  Dates: 2/27/04 - 2/29/04.
+</p><p>
+</p><h3>Ohio</h3>
+<p>
+<b>BASHCON.  </b>Website: <a href="http://utbash.utoledo.edu/">http://utbash.utoledo.edu/</a>.  E-mail: <a href="mailto:dfriess3@utnet.utoledo.edu">dfriess3@utnet.utoledo.edu</a>.  Address: University of Toledo, Toledo, Ohio.  Dates: 2/27/04 - 2/29/04.
+</p><p>
+</p><h3>Oregon</h3>
+<p>
+<b>JUST A GAME CON.  </b>E-mail: <a href="mailto:matt@ilovespidey.com">matt@ilovespidey.com</a>.  Address: Benton County Fairgrounds, Corvallis, Oregon.  Dates: 2/21/04 - 2/22/04.
+</p><p>
+</p><h3>Pennsylvania</h3>
+<p>
+<b>GROUND ZERO GAMES EAST COAST CONVENTION. </b> Website: <a href="http://www.warpfish.com/gzgecc/">http://www.warpfish.com/gzgecc/</a>.  E-mail: <a href="mailto:jhan@warpfish.com">jhan@warpfish.com</a>.  Address: Hotel Brunswick, Lancaster, Pennsylvania.  Dates: 2/27/04 - 2/29/04.
+</p><p>
+</p><h3>South Carolina</h3>
+<p>
+<b>SOUTH CAROLINA BOOK FESTIVAL.</b>  Website: <a href="http://www.schumanities.org/bookfestival.htm">http://www.schumanities.org/bookfestival.htm</a>.  E-mail: <a href="mailto:bookfest@schumanities.org">bookfest@schumanities.org</a>.  Address: State Fairgrounds, Greenville, South Carolina.  Dates: 2/28/04 - 2/29/04.
+</p><p>
+</p><h3>Texas</h3>
+<p>
+<b>CONDFW. </b> Website: <a href="http://www.condfw.org">http://www.condfw.org</a>.  E-mail: <a href="mailto:info@condfw.org">info@condfw.org</a>.  Address: Radisson Hotel Dallas North at Richardson, Richardson, Texas.  Dates: 2/20/04 - 2/22/04.
+</p><p>
+<b>OWLCON XXIII. </b> Website: <a href="http://www.rice.edu/owlcon">http://www.rice.edu/owlcon</a>.  E-mail: <a href="mailto:owlcon@rice.edu">owlcon@rice.edu</a>.  Address: Rice Student Center, Rice University, Houston, TX.  Dates: 2/6/04 - 2/8/04.
+</p><p>
+</p><h3>Virginia</h3>
+<p>
+<b>CAPITAL ASSOCIATES. </b> Website: <a href="http://www.capicons.com/">http://www.capicons.com/</a>.  E-mail: <a href="mailto:comicshow@aol.com">comicshow@aol.com</a>.  Address: Tysons Westpark Hotel, McLean, Virginia.  Dates: 2/8/04.
+</p><p>
+<b>KATSUCON TEN. </b> Website: <a href="http://www.katsucon.com/">http://www.katsucon.com/</a>.  E-mail: <a href="mailto:katsucon@katsucon.com">katsucon@katsucon.com</a>.  Address: Hyatt Regency in Crystal City, Arlington, Virginia.  Dates: 2/13/04 - 2/15/04.
+</p><p>
+<b>PREZCON 2004. </b> Website: <a href="http://www.prezcon.com/">http://www.prezcon.com/</a>.  E-mail: <a href="mailto:kingmaker96@mindspring.com">kingmaker96@mindspring.com</a>.  Address: Doubletree Hotel, Charlottesville, Virginia.  Dates: 2/25/04 - 2/29/04.
+</p><p>
+<b>SHEVACON 12. </b> Website: <a href="http://www.shevacon.org">http://www.shevacon.org</a>.  E-mail: <a href="mailto:themecon@juno.com">themecon@juno.com</a>.  Address: Holiday Inn Roanoke Tanglewood, Roanoke, Virginia.  Dates: 2/27/04 - 2/29/04.
+</p><p>
+</p><h3>Washington</h3>
+<p>
+<b>EMERALD CITY COMICON. </b> Website: <a href="http://www.emeraldcitycomicon.com">http://www.emeraldcitycomicon.com</a>.  E-mail: <a href="mailto:jim@emeraldcitycomicon.com">jim@emeraldcitycomicon.com</a>.  Address: Seahawks Stadium, West Field Plaza, Seattle, Washington.  Dates: 2/29/04.
+</p><p>
+<b>POTLATCH 13. </b> Website: <a href="http://www.potlatch-sf.org/">http://www.potlatch-sf.org/</a>.  E-mail: <a href="mailto:info@potlatch-sf.org">info@potlatch-sf.org</a>.  Address: Best Western Executive Inn, Seattle, Washington.  Dates: 2/27/04 - 2/29/04.
+</p><p>
+<b>RADCON 4. </b> Website: <a href="http://www.radcon.org/">http://www.radcon.org/</a>.  E-mail:<a href="mailto: shawn_pack@yahoo.com">shawn_pack@yahoo.com</a>.  Address: Red Lion Hotel, Pasco, Washington.  Dates: 2/13/04 - 2/15/04.
+</p><p>
+<b>STAR TREK, BUFFY AND SCI-FI. </b> Website: <a href="http://www.creationent.com/">http://www.creationent.com/</a>.  E-mail: <a href="mailto:tickets@creationent.com">tickets@creationent.com</a>.  Address: Doubletree Bellevue Hotel, Seattle, Washington.  Dates: 2/6/04 - 2/8/04.
+</p><p>
+<b>STARFLEET REGION 5 SUMMIT.  </b>Website: <a href="http://www.uss-rubicon.org/Summit/RadCon.htm">http://www.uss-rubicon.org/Summit/RadCon.htm</a>.  E-mail: <a href="mailto:Communications@uss-rubicon.org">Communications@uss-rubicon.org</a>.  Address: Red Lion Hotel, Pasco, Washington.  Dates: 2/13/04 - 2/15/04.
+</p><p>
+</p><h3>Wisconsin</h3>
+<p>
+<b>FILMCON.</b>  Website: <a href="http://www.filmcon.com">http://www.filmcon.com</a>.  E-mail: <a href="mailto:filmcon@earthlink.net">filmcon@earthlink.net</a>.  Address: Radisson, Madison, Wisconsin.  Dates: 2/20/04 - 2/22/04.
+</p><p>
+<b>POINTCON 11. </b> Website: <a href="http://www.uwsp.edu/stuorg/gasp/PointCon.htm">http://www.uwsp.edu/stuorg/gasp/PointCon.htm</a>.  E-mail: <a href="mailto:GASP@uwsp.edu">GASP@uwsp.edu</a>.  Address: University of Wisconsin Stevens Point, Laird room of the University Center, located at 1015 Reserve Street, Stevens Point, Wisconsin.  Dates: 2/04.
+</p><p>
+<b>SWAGS ARMATI TOURNAMENT.</b>  Website: <a href="http://www.nasamw.org/tournaments02.htm">http://www.nasamw.org/tournaments02.htm</a>.  E-mail: <a href="mailto:admin@ancientgaming.com">admin@ancientgaming.com</a>.  Address: Napoleon's, N. Maryland Ave., Shorewood, Milwaukee, Wisconsin.  Dates: 2/28/04 - 2/29/04.
+</p><p>
+</p><h3>Canada</h3>
 <p>
 <b>PANDEMONIUM 21. </b> Website: <a href="http://www.realmsquest.org">http://www.realmsquest.org</a>.  E-mail: <a href="mailto:pandemoniumcon@rogers.com">pandemoniumcon@rogers.com</a>.  Address: Inn on the Park , 1100 Egington Ave. East, Toronto, Ontario.  Dates: 2/20/04 - 2/22/04.
 </p><p>
@@ -402,9 +403,9 @@ Inside is a maze of halls that lead to a series of bars, dining rooms, museum di
 </p><p>
 We watched a display of prestidigitation by a British magician.  A woman (yes, a woman!  That�s almost unheard of in the world of professional magicians) from Yorkshire demonstrated several card tricks and other bits of close-up magic for us.  The stage show opened with an act by a German magician who recently won the Sigfried and Roy award for best newcomer, after which we were treated to a display of stage magic performed by none other than the president of the Academy of Magical Arts, Dale R. Hindman.  (I wish I could remember the names of the other fabulous performers we saw, but, alas, I�m absolutely dreadful with names, and the schedule for the day we attended has already been taken down from the website.)
 </p><p>
-The scariest thing I saw was a card table; just the thought of a bunch of close-up magicians sitting down to a game of poker with an untold number of Aces up their collective sleeves . . . well, you get the idea.  As a Misty fan, the thing that really caught my eye was the banister that leads from a bar on the first floor to a landing that led to another bar and to the dining rooms.  The base was a gryphon, and the wings formed the rail.  If I ever get the chance to design my own home, I definitely want something like that in it!  My son picked up a wand and a deck of Magic Castle cards at the gift shop on the way out.  I found a nightlight with a fabulous stained-glass wizard that came home with me as well.  I intended to put it in my master bath, but somehow it wound up in my kitchen; it�s positively gorgeous &lt;g&gt;!  (If you want one, you can order online through their gift store:  <a href='http://www.magiccastle.com/giftshop/Product_Detail.cfm?Product_ID=117"&gt;http://www.magiccastle.com/giftshop/Product_Detail.cfm?Product_ID=117&lt;/a&gt;.  The name of the one I bought is "Levitation".)
-&lt;P&gt;
-My upcoming adventures will include attending Creation'>http://www.creationent.com/</a>.  I�ll be attending as a fan, not a guest, but I do plan to wear my QO button!  Let me know if you plan to attend.
+The scariest thing I saw was a card table; just the thought of a bunch of close-up magicians sitting down to a game of poker with an untold number of Aces up their collective sleeves . . . well, you get the idea.  As a Misty fan, the thing that really caught my eye was the banister that leads from a bar on the first floor to a landing that led to another bar and to the dining rooms.  The base was a gryphon, and the wings formed the rail.  If I ever get the chance to design my own home, I definitely want something like that in it!  My son picked up a wand and a deck of Magic Castle cards at the gift shop on the way out.  I found a nightlight with a fabulous stained-glass wizard that came home with me as well.  I intended to put it in my master bath, but somehow it wound up in my kitchen; it�s positively gorgeous &lt;g&gt;!  (If you want one, you can order online through their gift store:  <a href="http://www.magiccastle.com/giftshop/Product_Detail.cfm?Product_ID=117">http://www.magiccastle.com/giftshop/Product_Detail.cfm?Product_ID=117</a>.  The name of the one I bought is "Levitation".)
+</p><p>
+My upcoming adventures will include attending Creation's 12th Annual Grand Slam: The Sci-Fi Summit, March 26-28, in Pasadena, CA.  You can find out more about it at <a href="http://www.creationent.com/">http://www.creationent.com/</a>.  I�ll be attending as a fan, not a guest, but I do plan to wear my QO button!  Let me know if you plan to attend.
 </p><p>
 Zhai�helleva,
 </p><p>
@@ -453,5 +454,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></a></p></g></p>
+</p></g></p></g></p>
 </div>

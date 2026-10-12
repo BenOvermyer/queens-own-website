@@ -64,11 +64,11 @@ Here are the Faires we know about for June.  Faires are indexed alphabetically b
 </p><p>
 </p><h3>Arizona</h3>
 <p>
-<b>RENAISSANCE IN THE PINES.</b>  FAX: 928-636-6554.  E-mail: <a href="mailto:jpelzer@renaissanceinthepines.com">jpelzer@renaissanceinthepines.com</a>.  Website: <a href="http://www.renaissanceinthepines.com&gt;.  Address: Box 792, Williams, AZ, 86046.  Site Address:  225 West Grant, Williams, AZ, 86046.  Dates:  6/14/03 - 6/15/03.  Open/Close: 9:00 AM - 6:00 PM.
-&lt;P&gt;
-&lt;h3&gt;California&lt;/h3&gt;
-&lt;P&gt;
-&lt;b&gt;A ROYAL AFAYRE RENAISSANCE FESTIVAL. &lt;/b&gt; FAX:  720-293-6660.  E-mail: jasmineh@earthlink.net &lt;a href=">.  Website: </a><a href="http://www.aryalafayre.org">http://www.aryalafayre.org</a>.  Address: 843 N. Lincoln Street, Stockton, CA, 95203.  Site Address:   Discovery Park, I-5 and Richards Blvd., Sacraamento, CA.  Dates:
+<b>RENAISSANCE IN THE PINES.</b>  FAX: 928-636-6554.  E-mail: <a href="mailto:jpelzer@renaissanceinthepines.com">jpelzer@renaissanceinthepines.com</a>.  Website: <a href="http://www.renaissanceinthepines.com">.  Address: Box 792, Williams, AZ, 86046.  Site Address:  225 West Grant, Williams, AZ, 86046.  Dates:  6/14/03 - 6/15/03.  Open/Close: 9:00 AM - 6:00 PM.
+<p>
+</p><h3>California</h3>
+<p>
+<b>A ROYAL AFAYRE RENAISSANCE FESTIVAL. </b> FAX:  720-293-6660.  E-mail: jasmineh@earthlink.net <a href="mailto:jasmineh@earthlink.net">.  Website: </a><a href="http://www.aryalafayre.org">http://www.aryalafayre.org</a>.  Address: 843 N. Lincoln Street, Stockton, CA, 95203.  Site Address:   Discovery Park, I-5 and Richards Blvd., Sacraamento, CA.  Dates:
 7/05/03 - 7/06/03.  Open/Close: 10:00 AM - 06:00 PM.
 </p><p>
 <b>FAIRE OAKS TUDOR FAYRE.</b>  FAX: 916-966-9863.  E-mail: <a href="mailto:recreation@fairoakspark.org">recreation@fairoakspark.org</a>.  Website: <a href="http://www.fairoakspark.org">http://www.fairoakspark.org</a>.  Address: 4150 Temescal, Fair Oaks, CA, 95628.  Dates:  6/21/03 - 6/22/03.  Open/Close: 10:00 AM - 6:00 PM.
@@ -609,5 +609,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img align="center" alt="" border="0" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img align="center" alt="" border="0" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></g></p></g></p></a></p>
 </div>

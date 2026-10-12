@@ -20,7 +20,7 @@ canonical_path = "/vanyel-fan-club/"
 <p>
 </p><center>
 <ul>
-<li><a href="/vanyel-fan-club/chat/" vfcqa.htm"="">VFC Chat List</a><p>
+<li><a href="/vanyel-fan-club/chat/">VFC Chat List</a><p>
 </p><br/><a href="/vanyel-fan-club/faq/">Q &amp; A</a></li><li><a href="/vanyel-fan-club/newsletter/">The Valdemaran Herald</a><p>
 </p></li><li><a href="/vanyel-fan-club/heralds-haven-gate/">Gate to Heralds' Haven</a><p>
 </p></li></ul>

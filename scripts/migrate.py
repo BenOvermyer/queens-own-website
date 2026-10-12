@@ -11,6 +11,7 @@ from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
 from link_repairs import annotate_gaps, corrected_link, repair_anchors
+from markup_repairs import repair_markup
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -77,14 +78,20 @@ def migrate(source):
         # Preserve the editorial homepage; its source replacement is complete.
         if name == "index.html":
             continue
-        soup = BeautifulSoup(files[name].read_bytes(), 'lxml')
+        soup = BeautifulSoup(repair_markup(files[name].read_bytes()), 'lxml')
         title = soup.title.get_text(' ', strip=True) if soup.title else Path(name).stem
         body = soup.body or soup
         repair_anchors(soup, name)
         for node in list(body.find_all(['script', 'style', 'iframe', 'object', 'embed'])):
             node.decompose()
+        seen_anchors = set()
         for node in list(body.find_all(True)):
             if node.name == 'a' and node.get('name'):
+                if node['name'] in seen_anchors:
+                    # Duplicate named anchor; keep the first occurrence only.
+                    node.decompose()
+                    continue
+                seen_anchors.add(node['name'])
                 node['id'] = node['name']
             for attr in list(node.attrs):
                 if attr in ('href', 'src'):

@@ -112,11 +112,11 @@ Here are the Faires we know about for June.  Faires are indexed alphabetically b
 <p>
 <b>Ardenwood Celtic Festival.</b> E-mail: <a href="mailto:info@ardenwood-celtic-festival.com">info@ardenwood-celtic-festival.com</a>.  Website: <a href="http://www.ardenwood-celtic-festival.com/">http://www.ardenwood-celtic-festival.com/</a>.  Site Address: Ardenwood Historic Farm, 34600 Ardenwood Blvd., Fremont, CA.  Dates: 4/16/05-6/5/05.  Open/Close: 10 a.m. - 6 p.m.
 </p><p>
-<b>Fair Oaks Renaissance Tudor Fayre.</b> E-mail: <a href="mailto:&lt;a href=">evolvingtimes@aol.com</a>.  Website: <a href="http://www.fairoakspark.org/">http://www.fairoakspark.org/</a>.  Address: Evolving Times Productions, 10207 Fair Oaks Blvd., Fair Oaks, CA 95628.  Site Address: Fair Oaks Park at Madison Ave. &amp; Fair Oaks Blvd., Fair Oaks, CA.  Dates: 5/25/05-5/26/05.  Open/Close: 10 a.m. - 6 p.m.
+<b>Fair Oaks Renaissance Tudor Fayre.</b> E-mail: <a href="mailto:evolvingtimes@aol.com">evolvingtimes@aol.com</a>.  Website: <a href="http://www.fairoakspark.org/">http://www.fairoakspark.org/</a>.  Address: Evolving Times Productions, 10207 Fair Oaks Blvd., Fair Oaks, CA 95628.  Site Address: Fair Oaks Park at Madison Ave. &amp; Fair Oaks Blvd., Fair Oaks, CA.  Dates: 5/25/05-5/26/05.  Open/Close: 10 a.m. - 6 p.m.
 </p><p>
 <b>Heart of the Forest Renaissance Faire.</b> E-mail: <a href="mailto:office@redbarnproductions.org">office@redbarnproductions.org</a>.  Website: <a href="http://www.forestfaire.com">http://www.forestfaire.com</a>.  Address: P.O. Box 1768, Novato, CA 94948.  Site Address: Camp Richardson, 1900 Jameson Beach Rd., South Lake Tahoe, CA.  Dates: 6/4/05-6/12/05.  Open/Close: 10 a.m. - 6 p.m.
 </p><p>
-<b>Queen Bess and the Pirates.</b> E-mail: <a href="mailto:&lt;a href=">jroberts@ccdof.org</a>.  Address: 4413 E. Ashcroft, Fresno, CA 93726.  Site Address: Kern County Fairgrounds, Bakersfield, CA.  Dates: 6/11/05-6/12/05.  Open/Close: 10 a.m. - 6 p.m.
+<b>Queen Bess and the Pirates.</b> E-mail: <a href="mailto:jroberts@ccdof.org">jroberts@ccdof.org</a>.  Address: 4413 E. Ashcroft, Fresno, CA 93726.  Site Address: Kern County Fairgrounds, Bakersfield, CA.  Dates: 6/11/05-6/12/05.  Open/Close: 10 a.m. - 6 p.m.
 </p><p>
 </p><h3>Colorado</h3>
 <p>

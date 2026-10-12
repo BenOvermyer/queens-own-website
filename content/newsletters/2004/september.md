@@ -118,7 +118,7 @@ I found this to be an enjoyable read, especially for fans of dragon stories.
 </p><p>
 </p><h3>Michigan</h3>
 <p>
-<b>MICHIGAN RENAISSANCE FESTIVAL.</b>  E-mail:  <a href="mailto:Katparker47@aol.com">Katparker47@aol.com</a>.  Website: &lt; a href="http://www.michrenfest.com"&gt;http://www.michrenfest.com.  Address: Michigan Renaissance Festival, 12600 Dixie Hwy, Holly, MI, 48442.  Site Address: Exit 106 (Grand Blanc) on I-75 and head S. on Dixie Hwy; located bet. Pontiac and Flint, MI.  Dates:  8/14/04 � 9/26/04.   Open/Close: 10:00 AM � 7:00 PM.
+<b>MICHIGAN RENAISSANCE FESTIVAL.</b>  E-mail:  <a href="mailto:Katparker47@aol.com">Katparker47@aol.com</a>.  Website: <a href="http://www.michrenfest.com">http://www.michrenfest.com</a>.  Address: Michigan Renaissance Festival, 12600 Dixie Hwy, Holly, MI, 48442.  Site Address: Exit 106 (Grand Blanc) on I-75 and head S. on Dixie Hwy; located bet. Pontiac and Flint, MI.  Dates:  8/14/04 � 9/26/04.   Open/Close: 10:00 AM � 7:00 PM.
 </p><p>
 </p><h3>Minnesota</h3>
 <p>

@@ -119,29 +119,29 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at <a
 </p><p>
 <b>CULT TV EXPO.</b>  Website: <a href="http://dg-promotions.5u.com/galactica.htm">http://dg-promotions.5u.com/galactica.htm</a><a></a>.  E-mail: <a href="mailto:dgpromotions@intouchmi.com">dgpromotions@intouchmi.com</a>.  Address: Ramada Plaza O'Hare, Chicago, Illinois.  Dates: 3/20/04 - 3/21/04.
 </p><p>
-<b>EGYPTIAN CAMPAIGN 2004.</b>  Website: <a href='http://www.siu.edu/~gamesoc"&gt;http://www.siu.edu/~gamesoc&lt;/a&gt;.  E-mail: &lt;a href="mailto:sickle_weasel_rune@yahoo.com"&gt;sickle_weasel_rune@yahoo.com&lt;/a&gt;.  Address: Southern Illinois University at Carbondale, Carbondale, Illinois.  Dates: 3/26/04 - 3/28/04.
-&lt;p&gt;
-&lt;b&gt;WINDY CITY PULP &amp; PAPERBACK.  &lt;/b&gt;Website: &lt;a href="http://members.aol.com/WCPPS/"&gt;http://members.aol.com/WCPPS/&lt;/a&gt;.  E-mail: &lt;a href="mailto:wcpps@aol.com"&gt;wcpps@aol.com&lt;/a&gt;.  Address: The Radisson Lincolnwood, Lincolnwood, Illinois.  Dates: 3/26/04 - 3/28/04.
-&lt;p&gt;
-&lt;h3&gt;Kansas&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;GORILLA CON. &lt;/b&gt; Website: &lt;a href="http://www.gorilla-con.com"&gt;http://www.gorilla-con.com&lt;/a&gt;.  E-mail: &lt;a href="mailto:gorillacon@classicnet.net"&gt;gorillacon@classicnet.net&lt;/a&gt;.  Address: Overman Student Center, Pittsburg State University, Pittsburg, Kansas.  Dates: 3/12/04 - 3/14/04.
-&lt;p&gt;
-&lt;h3&gt;Maryland&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;ECUMENICON 2004.&lt;/b&gt;  Website: &lt;a href="http://ecumenicon.org"&gt;http://ecumenicon.org&lt;/a&gt;.  E-mail: &lt;a href="mailto:chazzer3332000@yahoo.com"&gt;chazzer3332000@yahoo.com&lt;/a&gt;.  Address: Fairfield Inn, Beltsville, Maryland.  Dates: 3/15/04 - 3/18/04.
-&lt;p&gt;
-&lt;h3&gt;Massachusetts&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;INTERCON D.&lt;/b&gt;  Website:  &lt;a href="http://www.intercon-d.org/"&gt;http://www.intercon-d.org/&lt;/a&gt;.  E-mail: &lt;a href="mailto:con-chair@intercon-d.org"&gt;con-chair@intercon-d.org&lt;/a&gt;.  Address: Radisson Hotel And Suites, Chelmsford, Massachusetts.  Dates: 3/12/04 - 3/14/04.
-&lt;p&gt;
-&lt;h3&gt;Michigan&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;AMBERCON US.&lt;/b&gt;  Website: &lt;a href="http://acus.ambercons.com/"&gt;http://acus.ambercons.com/&lt;/a&gt;.  E-mail: &lt;a href="mailto:ambercon@juno.com"&gt;ambercon@juno.com&lt;/a&gt;.  Address: Embassy Suites Detroit-Livonia, Detroit, Michigan.  Dates: 3/25/04 - 3/28/04.
-&lt;p&gt;
-&lt;h3&gt;Minnesota&lt;/h3&gt;
-&lt;p&gt;
-&lt;b&gt;MARSCON 2004 "LET'>  Website: </a><a href="http://www.marscon.org">http://www.marscon.org</a>.  E-mail: <a href="mailto:info@marscon.org">info@marscon.org</a>.  Address: Airport Hilton, Bloomington, Minnesota.  Dates: 3/5/04 - 3/7/04.
+<b>EGYPTIAN CAMPAIGN 2004.</b>  Website: <a href="http://www.siu.edu/~gamesoc">http://www.siu.edu/~gamesoc</a>.  E-mail: <a href="mailto:sickle_weasel_rune@yahoo.com">sickle_weasel_rune@yahoo.com</a>.  Address: Southern Illinois University at Carbondale, Carbondale, Illinois.  Dates: 3/26/04 - 3/28/04.
+</p><p>
+<b>WINDY CITY PULP &amp; PAPERBACK.  </b>Website: <a href="http://members.aol.com/WCPPS/">http://members.aol.com/WCPPS/</a>.  E-mail: <a href="mailto:wcpps@aol.com">wcpps@aol.com</a>.  Address: The Radisson Lincolnwood, Lincolnwood, Illinois.  Dates: 3/26/04 - 3/28/04.
+</p><p>
+</p><h3>Kansas</h3>
+<p>
+<b>GORILLA CON. </b> Website: <a href="http://www.gorilla-con.com">http://www.gorilla-con.com</a>.  E-mail: <a href="mailto:gorillacon@classicnet.net">gorillacon@classicnet.net</a>.  Address: Overman Student Center, Pittsburg State University, Pittsburg, Kansas.  Dates: 3/12/04 - 3/14/04.
+</p><p>
+</p><h3>Maryland</h3>
+<p>
+<b>ECUMENICON 2004.</b>  Website: <a href="http://ecumenicon.org">http://ecumenicon.org</a>.  E-mail: <a href="mailto:chazzer3332000@yahoo.com">chazzer3332000@yahoo.com</a>.  Address: Fairfield Inn, Beltsville, Maryland.  Dates: 3/15/04 - 3/18/04.
+</p><p>
+</p><h3>Massachusetts</h3>
+<p>
+<b>INTERCON D.</b>  Website:  <a href="http://www.intercon-d.org/">http://www.intercon-d.org/</a>.  E-mail: <a href="mailto:con-chair@intercon-d.org">con-chair@intercon-d.org</a>.  Address: Radisson Hotel And Suites, Chelmsford, Massachusetts.  Dates: 3/12/04 - 3/14/04.
+</p><p>
+</p><h3>Michigan</h3>
+<p>
+<b>AMBERCON US.</b>  Website: <a href="http://acus.ambercons.com/">http://acus.ambercons.com/</a>.  E-mail: <a href="mailto:ambercon@juno.com">ambercon@juno.com</a>.  Address: Embassy Suites Detroit-Livonia, Detroit, Michigan.  Dates: 3/25/04 - 3/28/04.
+</p><p>
+</p><h3>Minnesota</h3>
+<p>
+<b>MARSCON 2004 "LET'S PLAY DOCTOR".</b>  Website: <a href="http://www.marscon.org">http://www.marscon.org</a>.  E-mail: <a href="mailto:info@marscon.org">info@marscon.org</a>.  Address: Airport Hilton, Bloomington, Minnesota.  Dates: 3/5/04 - 3/7/04.
 </p><p>
 </p><h3>Missouri</h3>
 <p>
