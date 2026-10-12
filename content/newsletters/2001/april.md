@@ -497,7 +497,7 @@ The QO trip to the Southern California Renaissance Pleasure Faire will be Saturd
 </p><p>
 The QO Midsummer Festival for Southern California will be held June 23rd in Aliso Viejo.  Contact me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> for directions and additional information.  (Anyone else trying to put together a Midsummer Festival?  Do let us know so we can advertise it in the newsletter.)
 </p><p>
-I�m also working on my Adept rank <g>.  I published a book (and more articles than I care to think about) on the historical King Arthur.  I�m working on the paper discussing the ethics and morality of Adept-level power and possession, and I�m currently researching constraints that must be placed on the arbitrator.  Oh, and I learned the magic tricks <g>.  Now I just have to find the time to finish all that . . . Any of you other Herald-Mages working on the next rank?
+I�m also working on my Adept rank &lt;g&gt;.  I published a book (and more articles than I care to think about) on the historical King Arthur.  I�m working on the paper discussing the ethics and morality of Adept-level power and possession, and I�m currently researching constraints that must be placed on the arbitrator.  Oh, and I learned the magic tricks &lt;g&gt;.  Now I just have to find the time to finish all that . . . Any of you other Herald-Mages working on the next rank?
 <p>
 Zhai�helleva,
 </p><p>
@@ -556,5 +556,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></g></p>
+</p></p>
 </div>

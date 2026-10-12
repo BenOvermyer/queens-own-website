@@ -46,9 +46,17 @@ class HtmlAuditTests(unittest.TestCase):
         found, _ = self.findings('<a name="s"><h2>Section</h2></a>')
         self.assertIn('block_in_anchor', found)
 
-    def test_heading_inside_open_paragraph_is_reported(self):
+    def test_block_that_implicitly_closes_paragraph_is_not_flagged(self):
         found, _ = self.findings('<p>text</p><p>more<h2>Next</h2></p>')
+        self.assertNotIn('block_in_paragraph', found)
+
+    def test_block_that_cannot_close_a_paragraph_is_flagged(self):
+        found, _ = self.findings('<p>text<center>kept</center></p>')
         self.assertIn('block_in_paragraph', found)
+
+    def test_unknown_element_is_reported(self):
+        found, _ = self.findings('<p><g> and more</p>')
+        self.assertIn('unknown_element', found)
 
     def test_obsolete_and_presentational_markup_is_reported(self):
         found, _ = self.findings('<font color="red"><center>x</center></font>')

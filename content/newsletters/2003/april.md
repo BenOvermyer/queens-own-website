@@ -33,7 +33,7 @@ Can you believe it�s spring already?  This year is really flying by!  Remember
 </p><p>
 <b>Publications:</b>  By way of upcoming book news, the paperback edition of Misty�s <i>Spirits White as Lightning</i> is scheduled for release in May.  <i>Stoned Souls</i>, written by Misty and by Josepha Sherman, looks as if it will have a summer release.  <i>The Shadow of the Lion</i> is due to appear in paperback this August, and the new <i>Mad Maudlin</i> should be released from Baen around the same time.  Danya hopes to have these titles listed in the Mercedes Lackey section of the Dragonlords� Bookstore soon (<a href="https://dragonlords.fans/bkfanml.htm">http://www.dragonlordsnet.com/bkfanml.htm</a>)!  Remember, a portion of all sales through this site goes to support Queen�s Own, which is how we keep our memberships free.
 </p><p>
-<b>Button Contest:</b>  The results of the first annual button contest are in, and the winner is Laura Cameron.  Her stunning artwork is now available on buttons or magnets available to Queen's Own members.  They cost only $1.00 plus s/h of $1.50 for up to 9 buttons.  Visit Happy Cat Buttons (<a href="http://trak.to/HCB">http://trak.to/HCB</a> or <a href="http://www.marymuse.com/happycat/">http://www.marymuse.com/happycat/</a>) to see the artwork and purchase buttons or magnets.  Our shopping cart is easy to use and powered by paypal.  For more information email <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a>.  (We�ve decided to make this design contest an annual event.  Collect your first edition now <g>!  The buttons and magnets are absolutely gorgeous!)
+<b>Button Contest:</b>  The results of the first annual button contest are in, and the winner is Laura Cameron.  Her stunning artwork is now available on buttons or magnets available to Queen's Own members.  They cost only $1.00 plus s/h of $1.50 for up to 9 buttons.  Visit Happy Cat Buttons (<a href="http://trak.to/HCB">http://trak.to/HCB</a> or <a href="http://www.marymuse.com/happycat/">http://www.marymuse.com/happycat/</a>) to see the artwork and purchase buttons or magnets.  Our shopping cart is easy to use and powered by paypal.  For more information email <a href="mailto:adeptstarfeather@marymuse.com">adeptstarfeather@marymuse.com</a>.  (We�ve decided to make this design contest an annual event.  Collect your first edition now &lt;g&gt;!  The buttons and magnets are absolutely gorgeous!)
 <p>
 <b>Certificates:</b>  Judith Louvis, the former president of Queen�s Own, wrote to say that the original plan to print certificates of membership eventually fell through.  She can�t remember who was in charge of it.  Since we�re online now, though, we�ve been thinking about designing and offering a �membership seal� instead of a certificate.  Approved members of Queen�s Own would be authorized to display this seal on their websites and home computers. Does this sound like something people would like us to do?  If so, please contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> and let her know that you like this idea.  If we get a large enough response, we�ll announce the contest to design the seal in the next newsletter.
 
@@ -478,7 +478,7 @@ Welcome back!  If you are a returning member who has recently activated your mem
 </p><p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -578,5 +578,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

@@ -33,7 +33,7 @@ For those of you who just can�t wait for <i>Exile�s Honor</i> (the upcoming 
 </p><p>
 <a href="http://mercedeslackey.com">http://mercedeslackey.com</a>
 </p><p>
-There�s a bunch of other really cool stuff at the site as well.  Poke around a bit!  You�ll have a lot of fun <g>.
+There�s a bunch of other really cool stuff at the site as well.  Poke around a bit!  You�ll have a lot of fun &lt;g&gt;.
 <p>
 You can see what Herald Auryn Bancroft (Amber Taufen) has been up to at
 </p><p>
@@ -510,7 +510,7 @@ Welcome back!  If you are a returning member who has recently activated your mem
 </p><p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -590,5 +590,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

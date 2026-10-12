@@ -29,7 +29,7 @@ July 1, 2002</h2></div>
 <p>
 Heyla, Misty fans!
 </p><p>
-June turned out to be a little more chaotic than either of us had planned.  Danya�s mother had thyroid surgery, Danya and her three children all got sick (Her husband stayed well fortunately), Moonstar moved, Danya went on vacation, Moonstar started divorce proceedings and Danya�s mother sold her home.  Add all that on top of what we normally have going on in our lives, and we turned into two rather overworked women <g>.  That means that a few things (such as the coding of past newsletters for our website) got put on hold.  We�re finally getting caught up on our mail.
+June turned out to be a little more chaotic than either of us had planned.  Danya�s mother had thyroid surgery, Danya and her three children all got sick (Her husband stayed well fortunately), Moonstar moved, Danya went on vacation, Moonstar started divorce proceedings and Danya�s mother sold her home.  Add all that on top of what we normally have going on in our lives, and we turned into two rather overworked women &lt;g&gt;.  That means that a few things (such as the coding of past newsletters for our website) got put on hold.  We�re finally getting caught up on our mail.
 <p>
 The chatlists (both the QO chat list and the Pending list) hit some bug and were accidentally deleted.  We are still trying to fix them.  Hopefully we will have everyone resubscribed soon.  There may be a few glitches, though, where some of you are accidentally dropped.  If that happens to you, simply resubscribe to the list.  We�ll sort out duplicate subscriptions on the administrative end.  Also, if you wind up on a list you don�t want to be on, simply let us know, and we�ll remove you as soon as we can.
 </p><p>
@@ -476,7 +476,7 @@ Welcome back!  If you are a returning member who has recently activated your mem
 </p><p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -553,5 +553,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

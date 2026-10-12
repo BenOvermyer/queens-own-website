@@ -62,8 +62,8 @@ And if you've never read J.R.R. Tolkien's <i>The Hobbit</i> or <i>Lord of the Ri
 </p><h3>Online:</h3>
 <p>
 </p><ul>
-<li>Arrows Online meets in the Fantasy Ficion Chat Room on AOL. For details, AOL folk can e-mail the Dean of Westhaven Collegia at [Ed. Note 2002: Out-of-Date Contact info withheld.]. Or, if you want to take a look from afar, come to tha Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm <keyword:fictional> on AOL. Look for the message board named "Arrows Online". None AOL folk can learn a bit about us by visiting our webpage at [Ed. Note 2002: Out-of-Date Contact info withheld.].
-</keyword:fictional></li></ul>
+<li>Arrows Online meets in the Fantasy Ficion Chat Room on AOL. For details, AOL folk can e-mail the Dean of Westhaven Collegia at [Ed. Note 2002: Out-of-Date Contact info withheld.]. Or, if you want to take a look from afar, come to tha Lackey Fan forum, located in the listbox of the Fantasy forum of Fictional Realm &lt;keyword:fictional&gt; on AOL. Look for the message board named "Arrows Online". None AOL folk can learn a bit about us by visiting our webpage at [Ed. Note 2002: Out-of-Date Contact info withheld.].
+</li></ul>
 <p>
 </p><h3>United States</h3>
 <ul>

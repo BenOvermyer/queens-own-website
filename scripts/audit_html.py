@@ -52,6 +52,20 @@ PRESENTATIONAL_ATTRIBUTES = {
     'vlink', 'vspace', 'width',
 }
 VALID_ATTRIBUTE_NAME = re.compile(r'^[A-Za-z_:][-A-Za-z0-9_:.]*$')
+# HTML elements the archive may legitimately contain (including retained legacy ones).
+KNOWN_HTML_ELEMENTS = {
+    'a', 'abbr', 'address', 'area', 'article', 'aside', 'audio', 'b', 'base', 'bdi', 'bdo',
+    'big', 'blockquote', 'body', 'br', 'button', 'canvas', 'caption', 'center', 'cite', 'code',
+    'col', 'colgroup', 'data', 'datalist', 'dd', 'del', 'details', 'dfn', 'dialog', 'div', 'dl',
+    'dt', 'em', 'embed', 'fieldset', 'figcaption', 'figure', 'font', 'footer', 'form', 'h1', 'h2',
+    'h3', 'h4', 'h5', 'h6', 'head', 'header', 'hgroup', 'hr', 'html', 'i', 'iframe', 'img', 'input',
+    'ins', 'kbd', 'label', 'legend', 'li', 'link', 'main', 'map', 'mark', 'menu', 'meta', 'meter',
+    'nav', 'noscript', 'object', 'ol', 'optgroup', 'option', 'output', 'p', 'param', 'picture',
+    'pre', 'progress', 'q', 'rp', 'rt', 'ruby', 's', 'samp', 'script', 'search', 'section', 'select',
+    'slot', 'small', 'source', 'span', 'strike', 'strong', 'style', 'sub', 'summary', 'sup', 'table',
+    'tbody', 'td', 'template', 'textarea', 'tfoot', 'th', 'thead', 'time', 'title', 'tr', 'track',
+    'tt', 'u', 'ul', 'var', 'video', 'wbr', 'xmp',
+}
 # Escaped markup that leaked into text, e.g. "&lt;/a&gt;" from a link whose tag was mangled.
 # Only escaped opening angle brackets count: a bare "&gt;" is an ordinary quoted-reply marker
 # or an emoticon such as "&lt;g&gt;", not malformed markup.
@@ -74,6 +88,15 @@ def read_body(text):
 class MarkupChecker(HTMLParser):
     """Track tag structure and malformed attributes in a raw HTML fragment."""
 
+    # Block-level start tags that implicitly close an open <p>, per HTML parsing, so a
+    # paragraph followed by one of these is not a nesting error.
+    P_CLOSING_ELEMENTS = {
+        'address', 'article', 'aside', 'blockquote', 'details', 'div', 'dl', 'fieldset',
+        'figcaption', 'figure', 'footer', 'form', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+        'header', 'hgroup', 'hr', 'main', 'menu', 'nav', 'ol', 'p', 'pre', 'section',
+        'table', 'ul',
+    }
+
     def __init__(self):
         super().__init__(convert_charrefs=False)
         self.stack = []
@@ -94,8 +117,8 @@ class MarkupChecker(HTMLParser):
             open_tags = [entry[0] for entry in self.stack]
             if 'a' in open_tags:
                 self.block_in_anchor.append(tag)
-            # A <p> opened inside a <p> is an implicit close, not a structural error.
-            if 'p' in open_tags and tag != 'p':
+            if tag != 'p' and tag not in self.P_CLOSING_ELEMENTS and 'p' in open_tags:
+                # A block that does not implicitly close a paragraph (e.g. <center>).
                 self.block_in_paragraph.append(tag)
         if tag not in VOID_ELEMENTS:
             self.stack.append([tag])
@@ -165,6 +188,11 @@ def audit_file(path, text, root):
     if presentational:
         counts = sorted(({attr: sum(1 for n in soup.find_all(True) if attr in n.attrs) for attr in presentational}).items(), key=lambda item: -item[1])
         add('presentational_attribute', 'warning', [f'{attr} x{count}' for attr, count in counts], count=sum(count for _, count in counts))
+
+    unknown = sorted({node.name for node in soup.find_all(True) if node.name not in KNOWN_HTML_ELEMENTS})
+    if unknown:
+        counts = {name: len(soup.find_all(name)) for name in unknown}
+        add('unknown_element', 'warning', [f'<{name}> x{counts[name]}' for name in unknown], count=sum(counts.values()))
 
     missing_alt = ['<img>'] * sum(1 for img in soup.find_all('img') if not img.has_attr('alt'))
     if missing_alt:

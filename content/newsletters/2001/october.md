@@ -135,7 +135,7 @@ Here are the faires we know about that are happening in October.  Faires are ind
 </p><p>
 </p><h3>Oklahoma</h3>
 <p>
-<b>KING ARTHUR FAIRE.</b> Phone: 918-377-4072. E-mail: <a href="mailto:wnp@brightok.net">wnp@brightok.net</a>. Website: <http:>. Snail Mail: P.O. Box 311, Davenport, OK 74026. Site Address: 4302 N. Graham Rd., Stroud, OK 74079. Dates: 10/5/01 - 10/14/01. Open/Close: 10:30 AM - 6:00 PM.
+<b>KING ARTHUR FAIRE.</b> Phone: 918-377-4072. E-mail: <a href="mailto:wnp@brightok.net">wnp@brightok.net</a>. Website: &lt;http:&gt;. Snail Mail: P.O. Box 311, Davenport, OK 74026. Site Address: 4302 N. Graham Rd., Stroud, OK 74079. Dates: 10/5/01 - 10/14/01. Open/Close: 10:30 AM - 6:00 PM.
 <p>
 </p><h3>Pennsylvania</h3>
 <p>
@@ -596,5 +596,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></http:></p>
+</p></p>
 </div>

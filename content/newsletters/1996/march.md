@@ -171,7 +171,7 @@ Send a SASE for a how-to handout for a Herald, Healer, bard, Shin'a'in, Tayledra
 </p></li></ul>
 <h3>From Herald Housemother:</h3>
 <p>
-The very first issue of the Queen's Own newsletter was mailed in February 1988.  If was one page, single sided and maile dot about two dozen people.  Today we have between 900 and 1000 members, and a six-page mewsletter that is almost always mailed on schedule.  I'd like to thank Baen Books, DAW, Firebird Arts &amp; <usic>
+The very first issue of the Queen's Own newsletter was mailed in February 1988.  If was one page, single sided and maile dot about two dozen people.  Today we have between 900 and 1000 members, and a six-page mewsletter that is almost always mailed on schedule.  I'd like to thank Baen Books, DAW, Firebird Arts &amp; &lt;usic&gt;
 Speaking of letters . . . the oddest request for information that I've received yet came from someone who added the warning "Don't lick the envelope, it might be covered with rat poison."  Doesn't it make you wonder where she keeps her stationery?
 <p>
 </p><h2>Fan Messages:</h2>
@@ -219,5 +219,5 @@ Herald-Mage Adept Danya Winterborn
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></usic></p>
+</p></p>
 </div>

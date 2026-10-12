@@ -29,7 +29,7 @@ February 1, 2004</h2></div>
 <p>
 Heyla, Misty fans!
 </p><p>
-Happy Valentine�s Day!  We hope the new year has started out well for all of you.  We apologize for this newsletter being late (yet again), but Moonstar and Danya both managed to come down with sinus infections at the same time (yet again).  Hopefully our doctors will get their collective acts under control and keep us healthy for next month <g>.
+Happy Valentine�s Day!  We hope the new year has started out well for all of you.  We apologize for this newsletter being late (yet again), but Moonstar and Danya both managed to come down with sinus infections at the same time (yet again).  Hopefully our doctors will get their collective acts under control and keep us healthy for next month &lt;g&gt;.
 <p>
 <b>QO Member Published:</b>  Adept Starfeather�s short story, "Freeing Angel", in the anthology <i>Darker than Tin, Brighter than Sin</i>, which is now available for purchase at:
 </p><p>
@@ -362,7 +362,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
 </p><h3>Lost . . .</h3>
-<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Valiena (laughsong@aol.com)</li>
 <li>Guardsman Faolan Ixran (Timmeu@scubadiving.com)</li>
@@ -453,5 +453,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

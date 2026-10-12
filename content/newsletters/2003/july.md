@@ -37,7 +37,7 @@ Hope you all are having a great summer!
 </p><p>
 <b>Birthday Wishes:</b>  Happy Birthday to Misty (June 24) and Larry (July 28). If you wish to send cards, please use their business address: Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017.  (The QO PO Box in Laguna Beach, CA is only for business mail intended for QO.  We don�t handle mail for Misty and Larry.)
 </p><p>
-<b>Publication News:</b>  Coming up from Misty:  <i>Mad Maudlin</i> (with Rosemary Edghill), <i>The Shadow of the Lion</i> (anthology), <i>The Outstretched Shadow: The Obsidian Trilogy: Book One</i> (with James Mallory), <i>Exile�s Valor</i> (October 2003), <i>Exile�s Honor</i> (Mass Market Paperback, October 2003), <i>Elvenborn</i> (with Andre Norton, Mass Market Paperback, October 2003), <i>Charmed Destinies</i> (anthology, November 2003), <i>Brain Ships</i> (edited by Anne McCaffrey, anthology), <i>Sun in Glory</i> (Valdermar anthology, December 2003), <i>This Rough Magic</i>, <i>The Fairy Godmother</i> (January 2004), and <i>Stoned Souls</i> (with Josepha Sherman).  Yes, Misty has been very busy <g>.  Keep watch for these new releases at <a href="https://dragonlords.fans/bkfanml.htm">http://www.dragonlordsnet.com/bkfanml.htm</a>.  Remember, a portion of all purchases made through the Dragonlords� Bookstore goes to Queen�s Own.  This is how we keep our memberships free, so we truly appreciate your support!
+<b>Publication News:</b>  Coming up from Misty:  <i>Mad Maudlin</i> (with Rosemary Edghill), <i>The Shadow of the Lion</i> (anthology), <i>The Outstretched Shadow: The Obsidian Trilogy: Book One</i> (with James Mallory), <i>Exile�s Valor</i> (October 2003), <i>Exile�s Honor</i> (Mass Market Paperback, October 2003), <i>Elvenborn</i> (with Andre Norton, Mass Market Paperback, October 2003), <i>Charmed Destinies</i> (anthology, November 2003), <i>Brain Ships</i> (edited by Anne McCaffrey, anthology), <i>Sun in Glory</i> (Valdermar anthology, December 2003), <i>This Rough Magic</i>, <i>The Fairy Godmother</i> (January 2004), and <i>Stoned Souls</i> (with Josepha Sherman).  Yes, Misty has been very busy &lt;g&gt;.  Keep watch for these new releases at <a href="https://dragonlords.fans/bkfanml.htm">http://www.dragonlordsnet.com/bkfanml.htm</a>.  Remember, a portion of all purchases made through the Dragonlords� Bookstore goes to Queen�s Own.  This is how we keep our memberships free, so we truly appreciate your support!
 <p>
 <b>E-mail Change Reminder:</b>  As of June 30th, Moonstar�s e-mail address will be <a href="mailto:healermoon@gmail.com">healermoon@gmail.com</a>.  (Comcast bought her current provider.)  Make sure you update your records!
 </p><p>
@@ -459,7 +459,7 @@ If you are a returning member who has recently activated your membership in Quee
 </p><p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -554,5 +554,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

@@ -300,7 +300,7 @@ If you were working on a persona who is no longer listed at <a href="/club-chat/
 </p><p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
 </p><h3>Lost . . .</h3>
-<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Revelin Tionne  (sazimarc@mindspring.com)
 </li><li>Bard Valiena (laughsong@aol.com)
@@ -335,11 +335,11 @@ Herald Robihane (Tevye@speakintosilence.com)
 </p><p>
 </p><h3>From Herald-Mage Adept Danya Winterborn:</h3>
 <p>
-March came in like a lion here . . . and pretty much stayed that way all month.  Lots of rain has given way to lots of wind�and more than a few butterflies.  The painted ladies are migrating, and there are literally tens of thousands of them in Orange County.  We�re supposed to have another swarm in about a month when all the eggs that have been laid by the current batch hatch and the caterpillars become set of butterflies.  Unlike monarchs, which fly at a rather high altitude, painted ladies fly right at eye level, so walking around outside can be a bit disconcerting.  The children are delighted by the butterflies, though, and my collie is going crazy, chasing them around our yard <g>.
+March came in like a lion here . . . and pretty much stayed that way all month.  Lots of rain has given way to lots of wind�and more than a few butterflies.  The painted ladies are migrating, and there are literally tens of thousands of them in Orange County.  We�re supposed to have another swarm in about a month when all the eggs that have been laid by the current batch hatch and the caterpillars become set of butterflies.  Unlike monarchs, which fly at a rather high altitude, painted ladies fly right at eye level, so walking around outside can be a bit disconcerting.  The children are delighted by the butterflies, though, and my collie is going crazy, chasing them around our yard &lt;g&gt;.
 <p>
 Sabato Scala is presenting <i>King Arthur: Tra storia e leggenda: Da Cimitile a Camelot</i> at the Museum of Naples this weekend.  This is the book that contains the report on my research that I gave in Germany last year.  The text will be on sale in the museum bookstore for the next month.  I�m very excited!  I think this is the largest museum my work has ever been presented in to date.
 </p><p>
-My next trip to Italy has been postponed until 2006.  I�m hoping to get over to Britain before that, but nothing is firm yet.  In the meantime, I�m going to keep doing what research I can through UCLA and other libraries, as well as by interviewing colleagues online.  I�d like to see the Sword in the Stone book finished in the next year or two, but I know how much time that will take.  (Writing goes so much slower these days than it used to before I had kids <g>, but I do eventually get things done.)  I gave a paper at a conference in San Diego on "San Galgano and the Sword in the Stone."  I�m now in the process of converting the text from an academic paper into a chapter in a book.  So that�s one more chapter down, more than I care to think about still to go . . . &lt;g&gt;.
+My next trip to Italy has been postponed until 2006.  I�m hoping to get over to Britain before that, but nothing is firm yet.  In the meantime, I�m going to keep doing what research I can through UCLA and other libraries, as well as by interviewing colleagues online.  I�d like to see the Sword in the Stone book finished in the next year or two, but I know how much time that will take.  (Writing goes so much slower these days than it used to before I had kids &lt;g&gt;, but I do eventually get things done.)  I gave a paper at a conference in San Diego on "San Galgano and the Sword in the Stone."  I�m now in the process of converting the text from an academic paper into a chapter in a book.  So that�s one more chapter down, more than I care to think about still to go . . . &lt;g&gt;.
 <p>
 We had a great Easter, though I always feel way too rushed when it falls close to St. Patrick�s Day.  Still, this does mean that the holiday madness will finally calm down around here until the Fourth of July.  (Huzzah!  I love holidays, but I�m a bit worn out by all the work by this time of year.)
 </p><p>
@@ -392,5 +392,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p></g></p>
+</p></p></p></p>
 </div>

@@ -39,7 +39,7 @@ This October Misty joins James Mallory to bring us <i>The Outstretched Shadow </
 </p><p>
 <i>Exile's Valor</i>, the sequel to <i>Exile�s Honor</i>, is scheduled for release in November (but there�s a possibility it might show up as early as October, so keep your eyes peeled).  This will be the last major Valdemar book for several years as the series is going on hiatus while Misty concentrates on her other projects.  (<i>Exile�s Honor</i> will be out in paperback on October 7, 2003.)  Brain Ships, with Anne McCaffrey and Margaret Ball, is scheduled for release November 1st.  <i>Charmed Destinies</i>, which contains three novellas by Misty, Rachel Lee and Catherine Asaro, will also be out November 2003.
 </p><p>
-For your Christmas lists, <i>Sun In Glory (A Valdemar Anthology)</i> (An alternate title was <i>Homecoming and Other Tales of Valdemar</i>; we�re pretty certain Misty isn�t coming out with two Valdemar anthologies in the same month <g>.) is scheduled for release in December; this collection will contain the story of how Talia became a Sun Priest.  If the anthology does well, there are hopes that several more such anthologies will be published while we are waiting for the next Valdemar novel.  So definitely consider this book for a stocking stuffer!  Misty teams up with Eric Flint and Dave Freer, who were her co-authors for <i>The Shadow of the Lion</i>, to bring us <i>This Rough Magic</i>, which is scheduled for release December 1, 2003. (<i>The Shadow of the Lion</i> should be out in paperback in October 2003.)
+For your Christmas lists, <i>Sun In Glory (A Valdemar Anthology)</i> (An alternate title was <i>Homecoming and Other Tales of Valdemar</i>; we�re pretty certain Misty isn�t coming out with two Valdemar anthologies in the same month &lt;g&gt;.) is scheduled for release in December; this collection will contain the story of how Talia became a Sun Priest.  If the anthology does well, there are hopes that several more such anthologies will be published while we are waiting for the next Valdemar novel.  So definitely consider this book for a stocking stuffer!  Misty teams up with Eric Flint and Dave Freer, who were her co-authors for <i>The Shadow of the Lion</i>, to bring us <i>This Rough Magic</i>, which is scheduled for release December 1, 2003. (<i>The Shadow of the Lion</i> should be out in paperback in October 2003.)
 <p>
 Misty has followed in the footsteps of her infamous detective Di Tregarde and actually written an adult romance!  Coming from Harlequin, January 2004 is <i>The Fairy Godmother</i> (sometimes titled <i>The Godmother Heir</i>, but we think <i>The Fairy Godmother</i> will be the real title).  Also in January 2004, look for <i>Stoned Souls</i>, with Josepha Sherman.
 </p><p>
@@ -552,7 +552,7 @@ If you are a returning member who has recently activated your membership in Quee
 <p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -647,5 +647,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

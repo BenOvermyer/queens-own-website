@@ -29,7 +29,7 @@ March 1, 2005</h2></div>
 <p>
 Heyla, Misty fans!
 </p><p>
-Happy St. Patrick�s Day to all you Irish (and honorary Irish <g>) folk out there!  Hope all is going well with the lot of you.  Do drop us a line and tell us what you are doing.  We love to hear from you!
+Happy St. Patrick�s Day to all you Irish (and honorary Irish &lt;g&gt;) folk out there!  Hope all is going well with the lot of you.  Do drop us a line and tell us what you are doing.  We love to hear from you!
 <p>
 The Renaissance Pleasure Faire of Southern California (the one featured in Bedlam�s Bard) is going to be held April 16 - May 22, 2005, Saturdays and Sundays, at the Santa Fe Dam Recreation Area.  Contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> if you are interested in getting a QO group together to attend.
 </p><p>
@@ -191,7 +191,7 @@ If you were working on a persona who is no longer listed at <a href="/club-chat/
 </p><p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
 </p><h3>Lost . . .</h3>
-<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Revelin Tionne  (sazimarc@mindspring.com)
 </li><li>Bard Valiena (laughsong@aol.com)
@@ -279,5 +279,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

@@ -336,7 +336,7 @@ If you are a returning member who has recently activated your membership in Quee
 </p><p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Revelin Tionne  (sazimarc@mindspring.com)
 </li><li>Bard Valiena (laughsong@aol.com)
@@ -431,5 +431,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p>
+</p></p>
 </div>

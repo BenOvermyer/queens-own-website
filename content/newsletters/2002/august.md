@@ -477,7 +477,7 @@ Welcome back!  If you are a returning member who has recently activated your mem
 </p><p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -505,11 +505,11 @@ If you know any of these folks, please have them contact Danya at <a href="mailt
 <p>
 Heyla, folks!
 </p><p>
-It�s turning out to be a very busy summer, what with my mother moving, my eldest son getting ready to start kindergarten, and my youngest son starting to walk.  (My 21-month-old daughter spends most of her time swinging from the rafters and doing her best to raise my blood pressure <g>.)  My husband has to go on a business trip this month, which will be interesting since I�ve never had all three kids on my own for an entire week before . . .  If my response time to mail slows down, please be patient with me.  I have my hands a bit full &lt;G&gt;.
+It�s turning out to be a very busy summer, what with my mother moving, my eldest son getting ready to start kindergarten, and my youngest son starting to walk.  (My 21-month-old daughter spends most of her time swinging from the rafters and doing her best to raise my blood pressure &lt;g&gt;.)  My husband has to go on a business trip this month, which will be interesting since I�ve never had all three kids on my own for an entire week before . . .  If my response time to mail slows down, please be patient with me.  I have my hands a bit full &lt;G&gt;.
 <p>
 My mother�s move means that I�m acquiring a ton of furniture that I don�t exactly have room for.  So my husband and I will be spending this weekend shifting our library to our living room, creating a bedroom from our daughter where our library used to be (She climbs out of her crib now, so she needs a real bed.), figuring out how to get yet another dresser in the boys� room, and putting everything else in the garage in some fashion that we can still access our art supplies, games, storage, beach equipment, decorations and all the other stuff we seem to get into all the time.  (We gave up on trying to get either of our cars in the garage about five months ago.  The van is too long, and we needed the extra square footage for bicycles, toys, balls, and so forth.)
 </p><p>
-I finally got my garden in some sort of decent shape.  I have an English-style garden with lots of herbs, vegetables, holly, juniper, lilac, and other fun stuff (including a fairy and a bronze dragon!).  The humming birds are out in full force this year, and they are turning up in an amazing array of colors.  My butterfly bush, "Dark Knight", is in full bloom, as are my various flower boxes.  I have miniature fruit trees in grey, Greek-style pots that flank arches that are loaded with Morning Glories and red flame grapes.  Our grey flagstone patio boasts a plastic castle/clubhouse/slide that gets moved onto our grassy path when the kids need to get outside for a bit.  I hope to get a little fountain and a gas barbecue eventually (I�m still dealing with a charcoal barbecue, but I�m finding that I don�t much like the amount of time it takes to clean.).  Tomatoes are everywhere!  A raccoon keeps stealing my raspberries and blackberries (He doesn�t seem to like the strawberries; go figure.).  My yarrow bloomed for the first time this year, and my lavender is taller than my eldest son <g>.  After two years of neglect, it�s rather nice to see everything coming back to life.
+I finally got my garden in some sort of decent shape.  I have an English-style garden with lots of herbs, vegetables, holly, juniper, lilac, and other fun stuff (including a fairy and a bronze dragon!).  The humming birds are out in full force this year, and they are turning up in an amazing array of colors.  My butterfly bush, "Dark Knight", is in full bloom, as are my various flower boxes.  I have miniature fruit trees in grey, Greek-style pots that flank arches that are loaded with Morning Glories and red flame grapes.  Our grey flagstone patio boasts a plastic castle/clubhouse/slide that gets moved onto our grassy path when the kids need to get outside for a bit.  I hope to get a little fountain and a gas barbecue eventually (I�m still dealing with a charcoal barbecue, but I�m finding that I don�t much like the amount of time it takes to clean.).  Tomatoes are everywhere!  A raccoon keeps stealing my raspberries and blackberries (He doesn�t seem to like the strawberries; go figure.).  My yarrow bloomed for the first time this year, and my lavender is taller than my eldest son &lt;g&gt;.  After two years of neglect, it�s rather nice to see everything coming back to life.
 <p>
 In my nonexistent free time I�ve been reading several works on ancient Rome.  I�m trying to decide whether my next book is going to be a nonfiction work about the Roman soldier who I think was the real King Arthur or whether I�m going to take a break from nonfiction and do an historical novel set in the Antonine period.  It�s probably going to be another couple years before I can get back to writing regularly, but I always like to have several projects in progress, just in case I happen to get the time to work on any of them.
 </p><p>
@@ -558,5 +558,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p></g></p>
+</p></p></p></p>
 </div>

@@ -81,7 +81,7 @@ Haven't been to one yet.
 </p><p>
 </p></li><li><b>What do you like the best about Queen's Own?</b>
 <p>
-There are other people out there that are like me!!  We help each other too, personally if it just so happens <g>.
+There are other people out there that are like me!!  We help each other too, personally if it just so happens &lt;g&gt;.
 <p>
 </p><li><b>Why did you choose to the editor of a Queen's Own fanzine/newsletter?</b>
 <p>
@@ -98,7 +98,7 @@ Any at all, as long as it's based on QO.  I'm actually planning myself in submit
 </p></li><li><b>What other projects besides Queen's Own occupy your time?</b>
 <p>
 A story set in the time of Heralds of Valdemar series, only after the events of the Mages Storms and Darian�s tale.  About another Eastern Empire attack and the return of a demon.  More on that later . . .
-</p></li></g></p></li></ol>
+</p></li></p></li></ol>
 <p>
 </p><div class="center"><img alt="" loading="lazy" src="/barcomp.gif"/></div>
 <p>
@@ -531,7 +531,7 @@ Welcome back!  If you are a returning member who has recently activated your mem
 Several former members have returned.  Check out <a href="/persona-directory/">/persona-directory/</a> as well as our Delphi forum to see who has reappeared!  (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 </p><p>
 </p><h3>Lost . . .</h3><p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -623,5 +623,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p>
+</p></p>
 </div>

@@ -266,7 +266,7 @@ Send a SASE for guidelines for stories and poetry for <b>Companion's Rest</b> to
 <p>
 <b>Jody Lee</b> will have her artwork on display at Boscon '91, Lunacon, and the Chicago Worldcon.  She's trying for Baycon, too.  We'll give you more details on these cons later.  (Please send Pat or me flyers on these cons if you have them.)
 </p><p>
-<soonercon<>, November 2-4, at the Central Plaza Hotel, Oklahoma City, Oklahoma.  Lois McMaster Bujold is the Guest of Honor, but other guests are expected to include Misty and C.J. Cherryh.  [Ed. note 2002: Out-of-date information withheld.].
+&lt;soonercon&lt;&gt;, November 2-4, at the Central Plaza Hotel, Oklahoma City, Oklahoma.  Lois McMaster Bujold is the Guest of Honor, but other guests are expected to include Misty and C.J. Cherryh.  [Ed. note 2002: Out-of-date information withheld.].
 <p>
 <b>Renaissance Faire</b>, starting September 1 and running every weekend for about four weeks in MArin County, San Francisco Bay area.  [Ed. note 2002: Out-of-date information withheld.].
 </p><p>
@@ -338,5 +338,5 @@ Herald-Mage Adept Danya Winterborn
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></soonercon<></p>
+</p></p>
 </div>

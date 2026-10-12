@@ -31,7 +31,7 @@ Heyla, Misty fans!
 </p><p>
 Happy Mother�s Day to all you mothers and mothers-to-be out there!  Hope you all have a great day.
 </p><p>
-Here we are once again at our anniversary issue of the newsletter!  This one marks three years since we became the co-Presidents of Queen�s Own.  By way of statistics, we now have 468 approved Heralds, 26 Bards, one Blue (Hi, Devyn!), three Guardsmen, 21 Healers, three Mercenaries, 11 Shin�a�in, three Sorceresses, 34 Tayledras, and two folks whom we aren�t exactly sure how to classify <g>.  That makes 572 members, 123 of whom are currently active in the club.  We also have another 123 people whom we know about who are working on their persona submissions!  The counter is not currently working on the website (Sorry we haven�t had time to fix that yet.), but we�ve had about 100,000 visitors to our site!
+Here we are once again at our anniversary issue of the newsletter!  This one marks three years since we became the co-Presidents of Queen�s Own.  By way of statistics, we now have 468 approved Heralds, 26 Bards, one Blue (Hi, Devyn!), three Guardsmen, 21 Healers, three Mercenaries, 11 Shin�a�in, three Sorceresses, 34 Tayledras, and two folks whom we aren�t exactly sure how to classify &lt;g&gt;.  That makes 572 members, 123 of whom are currently active in the club.  We also have another 123 people whom we know about who are working on their persona submissions!  The counter is not currently working on the website (Sorry we haven�t had time to fix that yet.), but we�ve had about 100,000 visitors to our site!
 <p>
 For those who have asked, Misty, Larry and company were not harmed by the recent tornadoes in Oklahoma.  Thanks to all of you for your concern.
 </p><p>
@@ -515,7 +515,7 @@ Welcome back!  If you are a returning member who has recently activated your mem
 </p><p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -602,5 +602,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

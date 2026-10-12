@@ -83,7 +83,7 @@ In 1994 Larry gave us a few hints about future Gryphon books:  "<i>White Gryphon
 Misty &amp; Larry shared their home with eight large exotic birds and a parakeet in 1995.  After telling us of the joy the birds bring them Misty warned, "If this all sounds delightful and you can't wait to get a bird of your own, you should be aware that having an exotic bird means work and a lot of responsibility.  Exotic birds are highly intelligent and need stimulation and attention.  By hand raising and socializing these young birds, we are making ourselces the substitues for their flock; we must now provide all the social contact and stimulation they need and crave, not just once in a while, but every day."
 </p><p>
 Firebird's long-awaited <i>Arrows of the Queen Concordance</i> was ready for mailing in 1996.  <i>The Silver Gryphon</i> and <i>Storm Breaking</i> arrived in bookstores and were promptly bought up.
-<o>
+&lt;o&gt;
 1997 brought us <i>Owlflight</i> and more new merchandise from Firebird, including Herald and Shin'a'in doll-sized costume patterns.
 <p>
 And here we are in 1998!
@@ -216,5 +216,5 @@ Herald-Mage Adept Danya Winterborn
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></o></p>
+</p></p>
 </div>

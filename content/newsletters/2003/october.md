@@ -610,7 +610,7 @@ If you are a returning member who has recently activated your membership in Quee
 <p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Bard Valiena (laughsong@aol.com)<br/>
@@ -624,12 +624,12 @@ One of the challenges running an online club is that people don�t always leave
 </li><li>Herald Kalendel (itsmyage@aol.com)<br/>
 </li><li>Herald Kendryl Shadowwolf (kscarpat@altavista.com) <br/>
 </li><li>Herald Lisbeth Maye (wizardshome@hotmail.com)<br/>
-</li><li>Herald Liselle Aravon (rusalka@nac.net <mailto:rusalka@nac.net>) <br/>
+</li><li>Herald Liselle Aravon (rusalka@nac.net &lt;mailto:rusalka@nac.net&gt;) <br/>
 <li>Herald Miracle Oceanfire (rhyme_reason@hotmail.com&gt;)<br/>
 </li><li>Herald Paf (jaro@attbi.com)<br/>
 </li><li>Herald Taras Taltos (billernoe@hotmail.com)<br/>
 </li><li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
-</li></mailto:rusalka@nac.net></li></ul>
+</li></li></ul>
 <li>Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
 
 <p>
@@ -641,7 +641,7 @@ Heyla, Misty fans!
 </p><p>
 Life has been ridiculously busy around here.  In addition to having my daughter start preschool and my eldest son enter first grade, my career is once again going into overdrive.  I�m consulting on a major motion picture about King Arthur, coauthoring a nonfiction book about the Sword in the Stone, and staring at requests for more articles than I really know what to do with.  I have a huge stack of stuff to code for the QO site, which I hope to get to eventually, but the paying jobs have to come first.
 </p><p>
-I�m looking forward to Halloween.  I�m holding a joint birthday party for my three kids.  Joe turned 7 on September 2nd.  Kassie will turn 3 on October 27th, and John will be 2 on November 7th (He�s already practicing for the �terrible twos� &lt;g&gt;.).  Joe is going to be Yugi for Halloween.  He�s very excited about the Yu-Gi-Oh! page that I�ve designed for him at <a href="https://dragonlords.fans/bkjuvygo.htm">http://www.dragonlordsnet.com/bkjuvygo.htm</a>.  You can see a picture of his birthday cake on the page in the party section.  He loves dueling, and I�m amazed at the level of math he�s doing because of all the scores he has to keep track of.  Kassie is planning to be Blue from Blue�s Clues.  She�s quite the big girl these days, and she�s never happier than when she�s being Mama�s Helper.  John will be Experiment 626.  His nickname is "Stitch", partly because he always cuts two to five teeth at the same time (which made him go from gums to teeth everywhere almost overnight &lt;G&gt;) and partly because his destructive programming is kicking in (I told you he was practicing to be two.).  Fortunately he�s also "cute and fluffy," with an amazing grin (How could it be anything else with all those teeth <g>?).
+I�m looking forward to Halloween.  I�m holding a joint birthday party for my three kids.  Joe turned 7 on September 2nd.  Kassie will turn 3 on October 27th, and John will be 2 on November 7th (He�s already practicing for the �terrible twos� &lt;g&gt;.).  Joe is going to be Yugi for Halloween.  He�s very excited about the Yu-Gi-Oh! page that I�ve designed for him at <a href="https://dragonlords.fans/bkjuvygo.htm">http://www.dragonlordsnet.com/bkjuvygo.htm</a>.  You can see a picture of his birthday cake on the page in the party section.  He loves dueling, and I�m amazed at the level of math he�s doing because of all the scores he has to keep track of.  Kassie is planning to be Blue from Blue�s Clues.  She�s quite the big girl these days, and she�s never happier than when she�s being Mama�s Helper.  John will be Experiment 626.  His nickname is "Stitch", partly because he always cuts two to five teeth at the same time (which made him go from gums to teeth everywhere almost overnight &lt;G&gt;) and partly because his destructive programming is kicking in (I told you he was practicing to be two.).  Fortunately he�s also "cute and fluffy," with an amazing grin (How could it be anything else with all those teeth &lt;g&gt;?).
 <p>
 I�m really excited to be back working on a book again.  The Sword in the Stone material is a lot of fun to work with.  C. Scott Littleton and I are tracing the legend through time and across the face of Europe.  As things stand, it looks as if we will be arguing for a case of diffusion from the steppes via the Alano-Sarmatians as opposed to parallel development within Indo-European cultures.  We hinted at some of this stuff in our chapter on the Sword in the Stone in <i>From Scythia to Camelot</i>, but we�re now taking the arguments a lot further with tons of new material to support our claims.  You�ll be amazed where this story shows up, in many cases well before any of the Arthurian legends were recorded.  I�ve had several requests lately for information about how to find my publications.  You can locate most of them at <a href="https://dragonlords.fans/bkmalcor.htm">http://www.dragonlordsnet.com/bkmalcor.htm</a> and on my bio page at <a href="https://dragonlords.fans/author.htm">http://www.dragonlordsnet.com/author.htm</a>.
 </p><p>
@@ -705,5 +705,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></li></g></p>
+</p></p></li></p>
 </div>

@@ -379,7 +379,7 @@ If you were working on a persona who is no longer listed at <a href="/club-chat/
 
 </p><p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
-</p><h3>Lost . . .</h3><p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+</p><h3>Lost . . .</h3><p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Valiena (laughsong@aol.com)</li>
 <li>Guardsman Faolan Ixran (Timmeu@scubadiving.com)</li>
@@ -413,7 +413,7 @@ Heyla, folks!
 </p><p>
 As you�ve all noticed from the erratic nature of my communication with you over the past few months, my life has become more chaotic than usual.  Fun, but chaotic &lt;G&gt;.
 </p><p>
-I�m <i>still</i> in the process of moving.  Most of my stuff remains in boxes.  My built-in bookcase (17� long, 8� high) is finally done, but I can�t load it for a couple more days until the lacquer sets.  The flooring people are supposedly coming to fix my new Pergo floor (They put in several boxes of the wrong color flooring.), and I�m hoping they can do the tile in my powder room while they are here.  The handyman is coming back to fix my only bathtub (which is still leaking after the installation of a new Jacuzzi-style tub).  The painter needs to touch up the baseboards again and fix the remaining glitches.  We still need our fireplace mantle installed, the front door refinished, the oven/cooktop/dishwasher replaced . . . For a "turnkey" property, this place really turned out to be a major "fixer."  At least I�m almost finished with the yard, which was three-feet high in weeds when I acquired it.  I eventually want to install a garden railway, but I�m settling for healthy plants at the moment <g>.  It�s coming out rather nice.  Most of the stuff I�m putting in has names like "Midknight", "Dark Knight" and "Silver Dragon."  It�s looking pretty cool, if I do say so myself <g>.
+I�m <i>still</i> in the process of moving.  Most of my stuff remains in boxes.  My built-in bookcase (17� long, 8� high) is finally done, but I can�t load it for a couple more days until the lacquer sets.  The flooring people are supposedly coming to fix my new Pergo floor (They put in several boxes of the wrong color flooring.), and I�m hoping they can do the tile in my powder room while they are here.  The handyman is coming back to fix my only bathtub (which is still leaking after the installation of a new Jacuzzi-style tub).  The painter needs to touch up the baseboards again and fix the remaining glitches.  We still need our fireplace mantle installed, the front door refinished, the oven/cooktop/dishwasher replaced . . . For a "turnkey" property, this place really turned out to be a major "fixer."  At least I�m almost finished with the yard, which was three-feet high in weeds when I acquired it.  I eventually want to install a garden railway, but I�m settling for healthy plants at the moment &lt;g&gt;.  It�s coming out rather nice.  Most of the stuff I�m putting in has names like "Midknight", "Dark Knight" and "Silver Dragon."  It�s looking pretty cool, if I do say so myself &lt;g&gt;.
 <p>
 My European lecture tour was quite productive.  The lecture I gave in Germany will most likely be published in a journal of Italian studies.  I�ll let you know when it comes out.  I met with many interesting people in Nola, Naples and adjacent areas, several of whom helped me tremendously with my research.  I even got a plug recently in a major newspaper in Naples.  Rome was fabulous, though I could have used more time there.  I think I gathered enough material for a popular book about L. Artorius Castus, the Roman soldier whom I think was the historical King Arthur.  The scholarly book will still be a while, since I�m coauthoring another book (This one is on "The Sword in the Stone.") with C. Scott Littleton.  My youngest son starts preschool in the Fall, so I hope to have more time to write then.
 </p><p>
@@ -471,5 +471,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></g></p></g></p>
+</p></p></p>
 </div>

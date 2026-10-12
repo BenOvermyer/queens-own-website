@@ -472,9 +472,9 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 </p><ul>
 <li>Welcome to <b>Herald Jhenna Leisater</b>, Chosen by Aelyssa and Gifted with Mindspeech and Foresight!  <b>Alison Steele</b> wrote about Jhenna and her family and her friends, created a recipe and wrote a poem.
 
-</li><li>Congratulations to <b>Herald-Mage Apprentice Ryhannon Gaia Degent</b>!  She rolled her double sixes before the year was out <g>!
+</li><li>Congratulations to <b>Herald-Mage Apprentice Ryhannon Gaia Degent</b>!  She rolled her double sixes before the year was out &lt;g&gt;!
 
-</g></li></ul>
+</li></ul>
 <p>
 <img alt="Cyril of Nightglade by Michelle Cornette" class="float-right border-5" loading="lazy" src="/qo77.jpg"/></p><h3>From Healer Adept Moonstar:</h3>
 <p>

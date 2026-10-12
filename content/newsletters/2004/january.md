@@ -70,7 +70,7 @@ December 23, 2003"
 </p><p>If you would like to find out which character you are most like in the new series, you can take Luna's quiz by following this link:
 
 <a href="http://www.electricartists.com/luna/quiz">http://www.electricartists.com/luna/quiz</a>
-</p><p>This is a truly fun and engaging new world, and the story is compelling (What else would we expect from our favorite author <g>?).  Do check it out!
+</p><p>This is a truly fun and engaging new world, and the story is compelling (What else would we expect from our favorite author &lt;g&gt;?).  Do check it out!
 
 <p><b>Trivia:</b>  Did you know that Larry Dixon supplied some of the research for the creation of the eagles in <i>The Lord of the Rings: Return of the King</i>?  Here's what he told one fan who asked him about it:
 
@@ -353,7 +353,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 <p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
 </p><h3>Lost . . .</h3>
-<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Valiena (laughsong@aol.com)</li>
 <li>Guardsman Faolan Ixran (Timmeu@scubadiving.com)</li>
@@ -400,7 +400,7 @@ more information visit our website at <a href="http://deserthorses.com/heraldswa
 
 </p><p>Beyond my movie adventures, Erik's and my cars died, and we spent the better part of a Friday evening in December in a Toyota dealership to end up with two car payments per month (for the next 5 years � &lt;sigh&gt;), but we are both much happier with what we are driving. Our old cars will be donated to help M.A.D.D. out in their causes.
 
-</p><p>Joy to all in the New Year.  Remember to write 2004 on all your assignments and checks as the case may be.  I know it won't be until March I get the hang of it. <grin>
+</p><p>Joy to all in the New Year.  Remember to write 2004 on all your assignments and checks as the case may be.  I know it won't be until March I get the hang of it. &lt;grin&gt;
 <p>Hugs-
 
 </p><p>Moonstar
@@ -448,5 +448,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></grin></p></g></p></g></p>
+</p></p></p></p>
 </div>

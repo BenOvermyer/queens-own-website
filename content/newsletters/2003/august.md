@@ -506,7 +506,7 @@ If you are a returning member who has recently activated your membership in Quee
 </li><li><b>Herald Ashaya Thielle</b> (Nere) (March 1994) (strong Mindspeech)
  </li></ul><p>
 </p><h3>Lost . . .</h3><p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -542,7 +542,7 @@ Next we visited friends in Pocatello, Idaho, which is where my husband lived whi
 </p><p>
 We�re now in Lake Tahoe.  We started out the visit in a hotel on Stateline of the south shore.  We took the Heavenly Gondola to the rim for a spectacular view of the lake and surrounding areas.  We then did something I�d been wanting to do for years:  We purchased a timeshare on the lake side at the end of the street that leads up to Heavenly Valley!  I�m very excited.  I�ve vacationed up here for years and always wanted to own property on the lake.  So now we can enjoy 6.5 acres of lake front property every year.  I�m very jazzed!  Other activities included sailing on the Tahoe Queen (a paddle boat) where we heard tales spun by a Mark Twain impersonator, a side trip to Virginia City, Nevada (where I did my fieldwork for my Masters in Folklore and Mythology many years ago), and a tour of the Ponderosa Ranch (Yes, I�m also a <i>Bonanza</i> fan &lt;g&gt;.).
 </p><p>
-We return home Sunday night.  (I start teaching Vacation Bible School early Monday morning, so we�d better make it <g>.)
+We return home Sunday night.  (I start teaching Vacation Bible School early Monday morning, so we�d better make it &lt;g&gt;.)
 <p>
 Hope you all have a great summer.
 </p><p>
@@ -608,5 +608,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

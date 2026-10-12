@@ -54,14 +54,14 @@ What are the best-dressed personae on Velgarth wearing these days &lt;g&gt;?  He
 <td class="align-center valign-middle"><span class="ff-comic-sans fs-4">White, but fancier fabrics; silk brocade with silver thread.</span></td>
 </tr>
 <tr>
-<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Herald-Mage<nr>
+<td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Herald-Mage&lt;nr&gt;
 <ul>
 <li>Undershirt (wool or ramie)
 </li><li>Overtunic
 </li><li>Breeches or Split Skirt
 </li><li>Riding boots or Leather Shoes
 </li><li>Cape or Cloak
-</li></ul></nr></span></td>
+</li></ul></span></td>
 <td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Yellow</span></td>
 <td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Golden-Brown</span></td>
 <td class="align-center valign-middle"><span class="ff-comic-sans fs-4">Golden-Brown, but fancier fabrics; silk brocade with gold thread</span></td>

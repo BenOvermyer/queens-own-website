@@ -35,7 +35,7 @@ Danya will be attending Creation's 12th Annual Grand Slam: The Sci-Fi Summit.  (
 </p><p>
 Danya is also scheduled to chair a session at the California Folklore Society meeting at Cal State Northridge on Saturday, April 3rd at 11 a.m.  The panel is tentatively entitled �Religion and Belief�.  If you plan to attend, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> to let her know to look for you.
 </p><p>
-For those of you who like to plan ahead <g>, Danya will be in Germany to lecture at Ruhr-Universit�t Bochum on April 30th.  Perhaps the German chapter would like to arrange a group trip?  We aren�t sure if we have any active members in Italy, but Danya hopes to pop down to Campania for a couple of days before flying back to Southern California.  She�d like to say "Heyla!" if any of you will be in the area as well.  Message her at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> to coordinate schedules.
+For those of you who like to plan ahead &lt;g&gt;, Danya will be in Germany to lecture at Ruhr-Universit�t Bochum on April 30th.  Perhaps the German chapter would like to arrange a group trip?  We aren�t sure if we have any active members in Italy, but Danya hopes to pop down to Campania for a couple of days before flying back to Southern California.  She�d like to say "Heyla!" if any of you will be in the area as well.  Message her at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> to coordinate schedules.
 <p>
 <b>Chapter Presidents:</b>  We�d love to hear from you about what your organizations are doing.  Drop Danya a line at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a> so she can share your news with the club!
 </p><p>
@@ -349,7 +349,7 @@ Formerly approved members who are returning to QO include
 <p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
 </p><h3>Lost . . .</h3>
-<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Valiena (laughsong@aol.com)</li>
 <li>Guardsman Faolan Ixran (Timmeu@scubadiving.com)</li>
@@ -381,7 +381,7 @@ Formerly approved members who are returning to QO include
 <p>
 Heyla all-
 </p><p>
-My computer has died again. <sigh> I am now waiting to send my computer back to HP to get fixed, the CPU fan has come off. I was panicky because I hadn't backed up my material yet; we did pull the hard drive and put it in our other computer to save everything. All personas are still intact.
+My computer has died again. &lt;sigh&gt; I am now waiting to send my computer back to HP to get fixed, the CPU fan has come off. I was panicky because I hadn't backed up my material yet; we did pull the hard drive and put it in our other computer to save everything. All personas are still intact.
 <p>
 I have been working hard at school and have finished off another class. I have two left before I am done with my degree. I can hardly believe that I will be done at the end of May. I did decide to go back to school in the fall for my master's degree.
 </p><p>
@@ -435,5 +435,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></sigh></p></g></p></g></p>
+</p></p></p></p>
 </div>

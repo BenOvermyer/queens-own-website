@@ -106,7 +106,7 @@ Welcome, Herald Mirale Bandur (Miri), chosen by Rudin and gifted with Mindspeech
 Welcome, Herald Sean-Christian Tanttelet, chosen by the mare Synergy.  Sean-Christian's gifts are strong Empathy, Mindspeech, and uncontrollable Foresight.  <b>Sean Miller</b> wrote of his persona and the friends who shaped his early life, and sent too a poem/song and a recipe.
 </p><p>
 Congratulations to our fifteen new Heralds, our first Bard, and our Shin'a'in scout!
-<o>
+&lt;o&gt;
 You know what's coming next:  <b>Please</b> send your stories, poems, and artwork on to one of our zines.  'Twould be very Heraldic of you to share your talents with others.
 <p>
 </p><h3>Convention News:</h3>
@@ -164,5 +164,5 @@ Herald-Mage Adept Danya Winterborn
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></o></p>
+</p></p>
 </div>

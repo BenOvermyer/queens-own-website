@@ -463,7 +463,7 @@ Formerly accepted members, returning to Queen�s Own:
 Welcome back!  If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 </p><p>
 </p><h3>Lost . . .</h3><p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -494,7 +494,7 @@ The past couple of months have been very difficult for me. I have lost both of m
 </p><p>
 	Erik was gifted with a Heeler/Pointer cross, which is keeping us very busy. She is six months old and came from a shelter in LA, where she was on the next to go list. She is very smart but has separation anxiety, which has driven us crazy at times.
 </p><p>
-	Erik and I have become officially engaged with a wedding sometime in the future. We are likely to elope and tell everyone the exact date later. I am thinking either fall or next spring. <grin> Anyways, we are very happy together.
+	Erik and I have become officially engaged with a wedding sometime in the future. We are likely to elope and tell everyone the exact date later. I am thinking either fall or next spring. &lt;grin&gt; Anyways, we are very happy together.
 <p>
 	I am still taking classes and that has filled up most of my time. I am into the programming classes and all my time that is not spent sleeping or working is spent programming. I am finishing up a Visual Basic class this month, and I feel like I was thrown into the deep end of the pool headfirst.
 </p><p>
@@ -553,5 +553,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></grin></p></g></p>
+</p></p></p>
 </div>

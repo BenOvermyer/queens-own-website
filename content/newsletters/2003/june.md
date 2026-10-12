@@ -511,7 +511,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 </p><p>
 </p><h3>Lost . . .</h3><p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -545,7 +545,7 @@ Thanks to all of you who have inquired about my health.  I�m still having quit
 </p><p>
 My eldest son, Joe, and I are Yu-Gi-Oh! dueling buddies.  We have actual cards as well as GameBoys.  I can beat him using the electronic version of the game (He hasn�t developed his deck much yet, and it�s the Japanese as opposed to the American rules.), but he has an Exodia deck for the real cards and mops the floor with me 19 times out of 20 &lt;G&gt;.  He�s becoming quite the expert duelist.  I want to take him to a real tournament, but they keep holding them on weekends where we have conflicts like wedding, graduations, and everyone in the family catching the flu &lt;g&gt;.  Hopefully we�ll get the timing right in the near future and finally get to see some real duelists in action.
 </p><p>
-John may be only 18-months, but he�s practicing to be a mountain climber.  "Hi, Mama!" he gleefully squeals from atop my microwave, dining room table, piano . . . It puts the recent National Geographic coverage on Mt. Everest in a new perspective <g>.
+John may be only 18-months, but he�s practicing to be a mountain climber.  "Hi, Mama!" he gleefully squeals from atop my microwave, dining room table, piano . . . It puts the recent National Geographic coverage on Mt. Everest in a new perspective &lt;g&gt;.
 <p>
 Hope you all have a great summer, and I hope I get the chance to meet some of you in person soon!
 </p><p>
@@ -608,5 +608,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

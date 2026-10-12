@@ -2,10 +2,6 @@
   "summary": {
     "files_scanned": 249,
     "rules": {
-      "block_in_paragraph": {
-        "occurrences": 1540,
-        "files": 62
-      },
       "escaped_markup_in_text": {
         "occurrences": 45,
         "files": 2
@@ -118,22 +114,6 @@
       "path": "content/community/danya-winterborn.md",
       "findings": [
         {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "h2",
-            "h2",
-            "h2",
-            "h2",
-            "h2",
-            "h2",
-            "h2",
-            "h2"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 7,
@@ -193,22 +173,6 @@
     {
       "path": "content/community/danyas-cookbook.md",
       "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 17,
-          "examples": [
-            "h2",
-            "h2",
-            "h2",
-            "h3",
-            "h3",
-            "h2",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
         {
           "rule": "table_without_header",
           "severity": "warning",
@@ -460,17 +424,7 @@
     },
     {
       "path": "content/community/science-and-magic-tricks.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "h2"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "43494e3e2f956eeebb586e2efec60de464fa9740862947fa1be5fb82af02adc1",
         "links": 4,
@@ -1077,16 +1031,6 @@
       "path": "content/compass-rose/summer-2000/either-or.md",
       "findings": [
         {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "blockquote",
-            "blockquote"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -1405,17 +1349,7 @@
     },
     {
       "path": "content/dream-casts/magics-pawn.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "h2"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "9fe64289322b1aaa14cd314322733a51000e0d394301c7903ffb220b177eeb5b",
         "links": 2,
@@ -1432,20 +1366,9 @@
     },
     {
       "path": "content/dream-casts/magics-price.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "h2",
-            "h2"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "8dd68309201fbc491f11bacabe3ae3acb07e0ce325755b1147a4be913eb5cc2c",
+        "visible_text_sha256": "36be8a7c76ef1f53fbca70f9022c403008e919dccc764e9b36d315dbd26010cd",
         "links": 3,
         "images": 3,
         "anchors": [],
@@ -1461,17 +1384,7 @@
     },
     {
       "path": "content/dream-casts/magics-promise.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "h2"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "8096245046574f1a7aac66a283cc032f2475ee3f822ba121be1ea240c8a85481",
         "links": 2,
@@ -2043,18 +1956,6 @@
       "path": "content/newsletters/1990/july.md",
       "findings": [
         {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "h2",
-            "h2",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 1,
@@ -2065,7 +1966,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "9348fe207e534001f07a506f73d793fd5491a56ec56474116fc0f8241e2654b5",
+        "visible_text_sha256": "1501cf23dcef590afb0733f2817f440d0685a345df2e4ccbb7c5c3ccf01bba9b",
         "links": 8,
         "images": 4,
         "anchors": [],
@@ -2146,23 +2047,9 @@
     },
     {
       "path": "content/newsletters/1990/september.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "h3",
-            "h2",
-            "h2",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "8dea26158980d7295559da4c6d99a797f0be5b98175eb248be9bfcc1c6f36d5f",
+        "visible_text_sha256": "b95de4d524cb9c3371b28369f33e07821ac2f3c95d29d700a92a3c8f7b1dcef3",
         "links": 8,
         "images": 4,
         "anchors": [],
@@ -2181,23 +2068,9 @@
     },
     {
       "path": "content/newsletters/1991/april.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 5,
-          "examples": [
-            "h3",
-            "h2",
-            "h2",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "d6db888805f3a285a871a9280b3afebe2a4d4277d0392f3a27d4d4d2bdc82646",
+        "visible_text_sha256": "5d7a22c6ad2dc8150488560ea2580450ba685fd96928a01d3e812b8105b0618f",
         "links": 7,
         "images": 5,
         "anchors": [],
@@ -3109,22 +2982,9 @@
     },
     {
       "path": "content/newsletters/1996/march.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "h2",
-            "h2",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "7ad84b335e4f8e47c46fd0edca5fb86daa2cb09b44a48071c55ff920e47b871e",
+        "visible_text_sha256": "9720d1d190862661f054255ce28c2001b7d29d1629eb6a1b25162e3f1025d614",
         "links": 7,
         "images": 5,
         "anchors": [],
@@ -3310,7 +3170,7 @@
       "path": "content/newsletters/1997/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "d73b8ed69c3c101120182723c9f953be3c9deb4f145fd2dbb31cf3ccb14423aa",
+        "visible_text_sha256": "a65e68aa618c5006ebaaf75217feef77a505286d9ce30584c0419695315fb895",
         "links": 9,
         "images": 5,
         "anchors": [],
@@ -3439,22 +3299,6 @@
       "path": "content/newsletters/1998/august.md",
       "findings": [
         {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 14,
-          "examples": [
-            "table",
-            "h2",
-            "table",
-            "h2",
-            "ul",
-            "div",
-            "div",
-            "h2"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 4,
@@ -3468,7 +3312,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "5bdb416faa7adda40c9719288b789fa46fbc005c4aa20c20c7f6632b08858a63",
+        "visible_text_sha256": "18984e92633f71e056f2f73a0d3ce82e69d14f9fbf7c5f8397d1ead9bebb3825",
         "links": 6,
         "images": 7,
         "anchors": [],
@@ -3905,17 +3749,7 @@
     },
     {
       "path": "content/newsletters/2000/august.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "ol"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "c5262afe2c5965bb1c2d0e545317cf785502c199bd8e0f5f31413360f238709e",
         "links": 76,
@@ -3960,7 +3794,7 @@
       "path": "content/newsletters/2000/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "fe7f22d056a1080d7c66d7c81984aa45b2d2b91434d25ee487d556473448e246",
+        "visible_text_sha256": "39a4b360ea49ebc07df4e86113e8fe65e6ca17e467b5da8ae52a87b316066a46",
         "links": 75,
         "images": 19,
         "anchors": [],
@@ -4082,26 +3916,9 @@
     },
     {
       "path": "content/newsletters/2000/may.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "ul",
-            "div",
-            "h2",
-            "h2",
-            "ul",
-            "h2",
-            "ul",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "5bdba023896bb21d294e75fad95bcdb7a1112d3968d8128f06b5310a09cc282b",
+        "visible_text_sha256": "80bdfd3c1d8698233681d30994db792bb64e5b33d69bdf0d8245f79d83ce6f62",
         "links": 83,
         "images": 21,
         "anchors": [],
@@ -4291,26 +4108,9 @@
     },
     {
       "path": "content/newsletters/2001/april.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "e1a76def25eb985a8261068b5d04ce02cba97b872dd5e29ce74661f575cb5a4f",
+        "visible_text_sha256": "fc68c26d0b5bdfc4bcbbc86341cce8df40d21beeb944a4ce440edec32110b942",
         "links": 245,
         "images": 13,
         "anchors": [],
@@ -4497,26 +4297,9 @@
     },
     {
       "path": "content/newsletters/2001/february.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "ee8892c6cd7b7e0e561ba6bed1579df38c8ea6ee459a9e29b02201a3cd275424",
+        "visible_text_sha256": "81c1e9c9e3190a5f133b3f717469735b15aacc8fb17cf8e7ddd13fce8b695dd3",
         "links": 134,
         "images": 16,
         "anchors": [],
@@ -4616,26 +4399,9 @@
     },
     {
       "path": "content/newsletters/2001/july.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 49,
-          "examples": [
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "997ff4f0fd7ef7e4431066e91b832262dc271de11f14edb432546c68af3d5dac",
+        "visible_text_sha256": "4ae4c111305fafd77f21f95e7b305cf9a577ed1a2360cc889cc46dfb100db7c0",
         "links": 208,
         "images": 14,
         "anchors": [],
@@ -4778,7 +4544,7 @@
       "path": "content/newsletters/2001/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "2af93cf14298699b3485114568d6f322993346272ceda5907274a680f4773fb6",
+        "visible_text_sha256": "98c7b7b0fe90dd74c18e20b05ff505a4127fb6f4fc136ca5b14f7d1c1c807436",
         "links": 222,
         "images": 16,
         "anchors": [],
@@ -4842,7 +4608,7 @@
       "path": "content/newsletters/2001/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7f3bf7635f244b1e763f0cd42d25014a3e2a02a70d69d56dc010aae518d56209",
+        "visible_text_sha256": "1adb632e4a5ef21c3300a324525a1392c8a0ba4fd711ab46e4fbbad232469de8",
         "links": 222,
         "images": 16,
         "anchors": [],
@@ -4966,26 +4732,9 @@
     },
     {
       "path": "content/newsletters/2001/october.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 61,
-          "examples": [
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h2",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "c8b6f71a22e76e2a9e76e63ed95e268023cc00aac341bb695f740d14aeda6195",
+        "visible_text_sha256": "7fe1e3f0d27e35caec0498a86e748ded4ac179d9f4e8d882bb30a08280800eeb",
         "links": 287,
         "images": 14,
         "anchors": [],
@@ -5068,26 +4817,9 @@
     },
     {
       "path": "content/newsletters/2001/september.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 35,
-          "examples": [
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "00539436d1b8e876ae8022981a6ee7251cccaadaf39004ad59268ca9d8744283",
+        "visible_text_sha256": "f407abc20988e64bb33f408aa50e0875075d2d312173f3637d5e414c0c62ee5f",
         "links": 231,
         "images": 14,
         "anchors": [],
@@ -5167,26 +4899,9 @@
     },
     {
       "path": "content/newsletters/2002/april.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 10,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "h2",
-            "ul"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "e3c6a49470402b67555c8812b0fe3d10c5ab353f6d3e4783885cf43b537fafdb",
+        "visible_text_sha256": "5d96b23b87ce11ed60e98d7fffdfea40ab465e81945387fd9dd19f2a4f0f8727",
         "links": 187,
         "images": 12,
         "anchors": [],
@@ -5254,25 +4969,9 @@
     },
     {
       "path": "content/newsletters/2002/august.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "bb0942cac1d1c1bfc621043e503198ebed053f123aed6f2edcbbe4c5a12b8321",
+        "visible_text_sha256": "036b6e4251d25cacda35685cd4b59aebab4e7a5a780c8d2a153950f07df84772",
         "links": 213,
         "images": 13,
         "anchors": [],
@@ -5343,26 +5042,9 @@
     },
     {
       "path": "content/newsletters/2002/december.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "096b4104792faf977228c09e0d5b636b610dfb78a13b10e15c2f5793dc694900",
+        "visible_text_sha256": "36261273f0fc9a8981d72b2d1c1fc062efd693f41a616c519fe91707721630ff",
         "links": 105,
         "images": 13,
         "anchors": [],
@@ -5449,26 +5131,9 @@
     },
     {
       "path": "content/newsletters/2002/january.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 46,
-          "examples": [
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h2",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "4b014addb1d72a52eb7d90677d20d92b44f48a512db59b07ac580f70901bb8a3",
+        "visible_text_sha256": "f0bad2b769f76ad3e5bc89062a48fcb0f5ed8bdbaf9e90cf19403caa9c4a46d2",
         "links": 147,
         "images": 14,
         "anchors": [],
@@ -5516,26 +5181,9 @@
     },
     {
       "path": "content/newsletters/2002/july.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 72,
-          "examples": [
-            "div",
-            "ol",
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "ec5129a7649c9c47d01857cbfd1fdd791603318f361a6379204e1da8eea5b513",
+        "visible_text_sha256": "9f9fb3fc261eb8b2f6b1ef4ef5fcbd86c67e398ec921e7831f6137f812f62155",
         "links": 231,
         "images": 11,
         "anchors": [],
@@ -5605,26 +5253,9 @@
     },
     {
       "path": "content/newsletters/2002/june.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 84,
-          "examples": [
-            "div",
-            "ol",
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "76091ee0e84d1fc6be8bd7f3eb3b8953fa534b35685322a7fd2e2a6e8f63ba6d",
+        "visible_text_sha256": "583484d2697825d7e6d264446a78d2a2eaa48d014442b34543e34cd0a937bc32",
         "links": 277,
         "images": 13,
         "anchors": [],
@@ -5772,26 +5403,9 @@
     },
     {
       "path": "content/newsletters/2002/may.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 11,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "h2"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "6927d54d5eb9b6470899a025fc45b75f994a061d3ca34ed33c0ad95ee5bc3cdd",
+        "visible_text_sha256": "5f0da0de05fae224985fb4dd6b22c595b58a1f827fe7a23123eeef89634bb2b0",
         "links": 244,
         "images": 13,
         "anchors": [],
@@ -5871,22 +5485,6 @@
       "path": "content/newsletters/2002/november.md",
       "findings": [
         {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        },
-        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 1,
@@ -5897,7 +5495,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "e1c4a9e7ec7cf7e23901bd8e1446c62b1ba01c81381f74336f46c8f4e0fb016a",
+        "visible_text_sha256": "3660fa873d4702905e90ba8e5a101978d9e08e070ee79cb120cb542d5e356f3d",
         "links": 201,
         "images": 12,
         "anchors": [],
@@ -5955,26 +5553,9 @@
     },
     {
       "path": "content/newsletters/2002/october.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "4e10aa3662f589c86b9c6b9b127ee7531855ad397cd6a1391de7ffa8d5bea59f",
+        "visible_text_sha256": "774b036d626114a429e5c10405e525e0d67243ab9e942bf1c73b14c182a5a791",
         "links": 219,
         "images": 12,
         "anchors": [],
@@ -6045,26 +5626,9 @@
     },
     {
       "path": "content/newsletters/2002/september.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 78,
-          "examples": [
-            "ul",
-            "ol",
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "b782a79d3a6db3dad2c68893c96f8abd422f572bc1c705a1149ddb299a8163cd",
+        "visible_text_sha256": "ddef9a29a7214a050d3d89d6260b1acd37e6392b331c5e1d7625b448426f91b7",
         "links": 234,
         "images": 11,
         "anchors": [],
@@ -6139,26 +5703,9 @@
     },
     {
       "path": "content/newsletters/2003/april.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 67,
-          "examples": [
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h2",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "543c9d19450301e7d9787589a33dd84014d9c5c79b2a4b9e303e0d9006202d10",
+        "visible_text_sha256": "6856fe76b5367b6cfa4dbf6ac6c8f23f7c5fb3c5aa91b905049d2a1c06818dd6",
         "links": 279,
         "images": 13,
         "anchors": [],
@@ -6224,26 +5771,9 @@
     },
     {
       "path": "content/newsletters/2003/august.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 41,
-          "examples": [
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "9a2619a21fa023e3c71364088ff2aa2019843176abca7fbd33b3e3fc0c5b0387",
+        "visible_text_sha256": "58839917fa1c088b3d3e75f4420d935954e07e54c19704c5e29ee72317d59ee6",
         "links": 294,
         "images": 13,
         "anchors": [],
@@ -6320,25 +5850,9 @@
     },
     {
       "path": "content/newsletters/2003/december.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "0f45a6f641a1f2e85ece02a11db8c67107e1fe10dfd8da2b0027c9950557ac2c",
+        "visible_text_sha256": "b711ea9ea53e683720cd52d3736f5d7fe71475712d68b2af71edd4f97d59ef19",
         "links": 151,
         "images": 13,
         "anchors": [],
@@ -6383,26 +5897,9 @@
     },
     {
       "path": "content/newsletters/2003/february.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "ul",
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "ul",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "3a1c3696209a6b02a569940600e0734c246cd87bb0105be8c55e5181a3a37d68",
+        "visible_text_sha256": "0f482c33472263d6cfb4e602fb8b2809d7bc4ca671151a118cc9989d9039360f",
         "links": 181,
         "images": 13,
         "anchors": [],
@@ -6451,26 +5948,9 @@
     },
     {
       "path": "content/newsletters/2003/january.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 9,
-          "examples": [
-            "ul",
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "ul",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "758696deb3927ee67ee75463229e11332f7a2ee4b081ed4de5afd8cfc8711b50",
+        "visible_text_sha256": "7ec5b49f346d60340b557cc6a0563873d3059219187be6a4be055f3cf4ff0db9",
         "links": 143,
         "images": 13,
         "anchors": [],
@@ -6516,26 +5996,9 @@
     },
     {
       "path": "content/newsletters/2003/july.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 73,
-          "examples": [
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "0d5348aeb76bd2b9e11b069cf05443e29b2a97ea823bf817d65d5461bae78318",
+        "visible_text_sha256": "4a9d88af71f271568ebc8fdbe550ce43cd2b8595548ebe0694465726e0a7c124",
         "links": 255,
         "images": 12,
         "anchors": [],
@@ -6607,26 +6070,9 @@
     },
     {
       "path": "content/newsletters/2003/june.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 40,
-          "examples": [
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "455355626264d9cee3887af70180fd83b969a31c7f9cf694f824c8c03630517d",
+        "visible_text_sha256": "59d2a3b0889d572db8575f50d970fa2e8865a10287541b583f3e497d9382fac9",
         "links": 287,
         "images": 12,
         "anchors": [],
@@ -6701,26 +6147,9 @@
     },
     {
       "path": "content/newsletters/2003/march.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 57,
-          "examples": [
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h2",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "f945071290d0140279cf8529b830b06fc781205ad545be7ac95c36d591391bc2",
+        "visible_text_sha256": "3b3cbf106ba14f3bb86c4103ef83e857d316cdebd08575189f723dd3d20e4694",
         "links": 226,
         "images": 13,
         "anchors": [],
@@ -6776,26 +6205,9 @@
     },
     {
       "path": "content/newsletters/2003/may.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 76,
-          "examples": [
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "d62ab9e5a6538207630b1e34187870c03778a1c8792e9c47835b7a69665b4749",
+        "visible_text_sha256": "5966a1a41093f4e235f37d67db17e2ff1068ce35a87752699dbcdc73f910d90c",
         "links": 284,
         "images": 13,
         "anchors": [],
@@ -6869,26 +6281,9 @@
     },
     {
       "path": "content/newsletters/2003/november.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 8,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "8a8d824aa0c28042533a80d0efe1e441ec896bdd103eb64c4371b706e9754d36",
+        "visible_text_sha256": "a6af6e2e4cb9340f266876d300226b1693b060814a5b1815be8adb09b70a123e",
         "links": 288,
         "images": 12,
         "anchors": [],
@@ -6958,26 +6353,9 @@
     },
     {
       "path": "content/newsletters/2003/october.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 51,
-          "examples": [
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "595e18355fc93a42dfec03a703cb7527f105df74e710806ecf3eca4cf4218060",
+        "visible_text_sha256": "0a9ebe26b11eeab55bd47bdb781a45ee0e665f6fa0220b68b6afd76988255423",
         "links": 364,
         "images": 11,
         "anchors": [],
@@ -7063,26 +6441,9 @@
     },
     {
       "path": "content/newsletters/2003/september.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 85,
-          "examples": [
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "ab829822c8cfe90e1fa18e20c910070238770410b79befbab5ff996bd7f102da",
+        "visible_text_sha256": "7496e3d41669658260ae0e855dc30c9f094e978af98bbbe6eb082afb35ced561",
         "links": 308,
         "images": 12,
         "anchors": [],
@@ -7165,25 +6526,9 @@
     },
     {
       "path": "content/newsletters/2004/april.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "1c2a2e7ad539c170c9c4bf3042c98a317baa5ccf3f694cbc70d5f20cb3a4bbc2",
+        "visible_text_sha256": "99ec659f92236ea1e564b7b7564f1872ce68198760254d750e9dd27ed3938bd5",
         "links": 216,
         "images": 10,
         "anchors": [],
@@ -7239,25 +6584,9 @@
     },
     {
       "path": "content/newsletters/2004/august.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "0823ed3b5bbbb8719d5a0a2640f9dea0e2ac39fbf67f3e0a4f2624c4bbb6eb9f",
+        "visible_text_sha256": "d739ce5aa61728917af0068673039b4c37612b79bf1af95e3a733b2973ab6dfd",
         "links": 145,
         "images": 11,
         "anchors": [],
@@ -7304,25 +6633,9 @@
     },
     {
       "path": "content/newsletters/2004/december.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "7dcc2d5d26a80dff357d78290c2f20a4b234e792dbae915843c0de601e2f87f9",
+        "visible_text_sha256": "69d782fad1fd7ff65f3eb951e92e694d932ec1987a6afebe60772299d0f92487",
         "links": 81,
         "images": 11,
         "anchors": [],
@@ -7353,26 +6666,9 @@
     },
     {
       "path": "content/newsletters/2004/february.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 49,
-          "examples": [
-            "h2",
-            "h3",
-            "h3",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "0420726ef9c13df7cbc37a14bfc86117eeb91ef7bc9b455a6adc7047c098e87d",
+        "visible_text_sha256": "9f6b70e35c059825110869f7cd3fee3ed2dfaeb898068101b2a8821d6ed53f49",
         "links": 208,
         "images": 11,
         "anchors": [],
@@ -7422,26 +6718,9 @@
     },
     {
       "path": "content/newsletters/2004/january.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 48,
-          "examples": [
-            "h2",
-            "h3",
-            "h3",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "d537db6facb7763631cb7a4326bc9ceb12ee09b3db515bb0c73a18fc0b6fe414",
+        "visible_text_sha256": "c17a831ab3ca2847e51005fcde19f3b7c9260b65bd77ba77775def8418f4c6ba",
         "links": 181,
         "images": 11,
         "anchors": [],
@@ -7490,25 +6769,9 @@
     },
     {
       "path": "content/newsletters/2004/july.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "2622de7467f7b9f826a38eac36f9570826b4fffb2651a9d3811e7146c2fbd17f",
+        "visible_text_sha256": "3d09797f299351d9d94a5167a88551a6e9b09db66461a50716a6429ee06179bf",
         "links": 177,
         "images": 10,
         "anchors": [],
@@ -7565,25 +6828,9 @@
     },
     {
       "path": "content/newsletters/2004/june.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "28dcd32f763b4ecc37e1ea8bea1a89fe271360be4481158dbdda0507a3db19d5",
+        "visible_text_sha256": "f92c1ee57f84687e4b93db252edf7067216ab63cd670af1dca63992d1d1e11c6",
         "links": 203,
         "images": 10,
         "anchors": [],
@@ -7647,26 +6894,9 @@
     },
     {
       "path": "content/newsletters/2004/march.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 53,
-          "examples": [
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h2",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "fba5af1fabf064b86cd2a232a1fdf75eb9dedc71803c6acbc3f2bcbc932f6aa5",
+        "visible_text_sha256": "de0e5e7d106ff060da959ffdc3963539de360d5cae6eca8c9e199808222864d6",
         "links": 190,
         "images": 11,
         "anchors": [],
@@ -7719,25 +6949,9 @@
     },
     {
       "path": "content/newsletters/2004/may.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "6f9f7ff51b72f80b9d76ef3261b701af4a4f6fac93f97d91110b2008673da858",
+        "visible_text_sha256": "5dfed8f04dd2837162eef772af6db6013e69caffc48096fb143c37fc26ff1c5a",
         "links": 191,
         "images": 10,
         "anchors": [],
@@ -7794,25 +7008,9 @@
     },
     {
       "path": "content/newsletters/2004/november.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "25c7e843b3249dacd4cc7a3586a6e57a0407dae52e1c945df2a11d0008a6b14f",
+        "visible_text_sha256": "de5ab34bcb6dfd36181a734095a8844dac9df99d3878f9cce2e4c1c07d03e9e8",
         "links": 137,
         "images": 10,
         "anchors": [],
@@ -7859,25 +7057,9 @@
     },
     {
       "path": "content/newsletters/2004/october.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "846fc700927713048a1790bec89d56ad5153e6613341a3f085d4299b790c513a",
+        "visible_text_sha256": "c03211831f844e7f09923951218cf204b2ced8d627144778c610b2f403280e64",
         "links": 180,
         "images": 11,
         "anchors": [],
@@ -7939,25 +7121,9 @@
     },
     {
       "path": "content/newsletters/2004/september.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h3",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "427d185a6557413851f7346e8f295dcac844fb812e5532cb392f55f5924a977c",
+        "visible_text_sha256": "506638607992e8cc5467130fdb157b333f3be7d2c03e2d12d733c56def15f029",
         "links": 164,
         "images": 11,
         "anchors": [],
@@ -8017,26 +7183,9 @@
     },
     {
       "path": "content/newsletters/2005/april.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 16,
-          "examples": [
-            "h3",
-            "h3",
-            "h2",
-            "h3",
-            "ul",
-            "h3",
-            "ul",
-            "ul"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "ad5bc64ad51cbe0dc3d6da7f3973f9c839d9c49a7387af0d3bbbb3c02183a1fc",
+        "visible_text_sha256": "37c81be67cc1e3fe7a81af38315e0e7be2c596c2e96d856a4e85e5f9caade24c",
         "links": 95,
         "images": 12,
         "anchors": [],
@@ -8073,25 +7222,9 @@
     },
     {
       "path": "content/newsletters/2005/august.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h2",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "3014d893fd79e3f8471fb77789862d5665bbd28cbc93ae96a521a3bf1fbc950c",
+        "visible_text_sha256": "9ad9cd55e7f450192626cc0f626a5f888ac7df731a72a9e7dfbe9d19ea887c21",
         "links": 125,
         "images": 12,
         "anchors": [],
@@ -8143,26 +7276,9 @@
     },
     {
       "path": "content/newsletters/2005/february.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "h3",
-            "h2",
-            "h3",
-            "ul",
-            "h3",
-            "ul",
-            "ul",
-            "ol"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "140b1407c7938d3a83e839c7053cb6e47dbee8e530cb92673fbd62af7c08869f",
+        "visible_text_sha256": "34237dffc1588d9f4e752e3d93306aa744b05ac80cdd2b213780c21438a78f54",
         "links": 66,
         "images": 12,
         "anchors": [],
@@ -8190,26 +7306,9 @@
     },
     {
       "path": "content/newsletters/2005/january.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 22,
-          "examples": [
-            "h3",
-            "h2",
-            "h3",
-            "ul",
-            "h3",
-            "ul",
-            "ul",
-            "ol"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "2d21d0c649b09e24854e9f549a4569432e10ef0137c6308ca2ea87d8d3a68f6c",
+        "visible_text_sha256": "36c94494924dfae32548846c7e7b3cb92a525fe646b9c7e03986cff453a37ab8",
         "links": 68,
         "images": 12,
         "anchors": [],
@@ -8236,26 +7335,9 @@
     },
     {
       "path": "content/newsletters/2005/july.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 18,
-          "examples": [
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h2",
-            "h3",
-            "ul",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "dae75bc3f9fe5028f9ccac730bdd265877a7fb7c7a362320bab16c14a007763d",
+        "visible_text_sha256": "d82432a94b42c4a659e725ab12c6044d47b70cd0df366a31d66c7a2bfe19fe02",
         "links": 158,
         "images": 12,
         "anchors": [],
@@ -8311,26 +7393,9 @@
     },
     {
       "path": "content/newsletters/2005/june.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 62,
-          "examples": [
-            "h3",
-            "h3",
-            "div",
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "5aceedff3dd6df650014a9d0ef29d5aa4e041dce6ffaa11b8b83cf316af0c997",
+        "visible_text_sha256": "9ac8d024865cd798016820167643851c6d716acbd04d8b87d1eec392a7d4dfb7",
         "links": 150,
         "images": 12,
         "anchors": [],
@@ -8392,26 +7457,9 @@
     },
     {
       "path": "content/newsletters/2005/march.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 29,
-          "examples": [
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h2",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "3ff1aacf88e57ee52738a379de16fdaa70840a101dc1a6be7402982d503dcf9e",
+        "visible_text_sha256": "4feb4d05e60c9011b4ed40c34dea405d4c15eade60706bdf8f5d66e3a8b503d8",
         "links": 64,
         "images": 12,
         "anchors": [],
@@ -8440,26 +7488,9 @@
     },
     {
       "path": "content/newsletters/2005/may.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 54,
-          "examples": [
-            "div",
-            "h2",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3",
-            "h3"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "c525fc4af33cf24c5883aa187274191c76ed15278dea6385bc32819e8136fbf5",
+        "visible_text_sha256": "ebc94145a7a716f34f0b8a1a503d5ab380751ccaf5e11d5aeb651d722442caf2",
         "links": 129,
         "images": 11,
         "anchors": [],
@@ -8514,25 +7545,9 @@
     },
     {
       "path": "content/newsletters/2005/september.md",
-      "findings": [
-        {
-          "rule": "block_in_paragraph",
-          "severity": "warning",
-          "count": 7,
-          "examples": [
-            "ul",
-            "h2",
-            "div",
-            "h2",
-            "ul",
-            "div",
-            "div"
-          ],
-          "note": "Block element opened while a <p> is open; close the paragraph first."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "66142d11762269e2d08eb6a14b2a304beb0b0a501ec5a4de98ef398bc6c9c570",
+        "visible_text_sha256": "55e4999f5758ae7003ed36b6af89e9bb72f88358735f6d3ba39738a8c0bdf7f8",
         "links": 87,
         "images": 11,
         "anchors": [],
@@ -9484,7 +8499,7 @@
       "path": "content/world/garb-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "12c422465501976575138ec4299f78d4b4f80c59c851b492179dc64066252aa8",
+        "visible_text_sha256": "eef66e7da0be44c716c175e53d61dbeb6193f75853bd8d3e547bce95f6264c53",
         "links": 2,
         "images": 3,
         "anchors": [],

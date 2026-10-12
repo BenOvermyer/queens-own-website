@@ -288,7 +288,7 @@ Arizona
 <p>
 <b>AURA FANTASY.</b> E-mail: <a href="mailto:gameregistration@auralive.com">gameregistration@auralive.com</a>. Website: <a href="http://www.auralive.com">http://www.auralive.com</a>. Address: Blue Mountain Campground, Hamburg, Pennsylvania. Dates: 9/29/01 - 9/30/01.
 </p><p>
-<b>KINGCON 2001.</b> E-mail: <a href="mailto:Gallion@aol.com">Gallion@aol.com</a>. Website: <http:>. Address: Camp Lindenmere, Poconos, Pennsylvania. Dates: 9/1/01.
+<b>KINGCON 2001.</b> E-mail: <a href="mailto:Gallion@aol.com">Gallion@aol.com</a>. Website: &lt;http:&gt;. Address: Camp Lindenmere, Poconos, Pennsylvania. Dates: 9/1/01.
 <p>
 <b>PHILADELPHIA IN 2001: THE MILLENNIUM PHILCON.</b> E-mail: <a href="mailto:phil2001@netaxs.com">phil2001@netaxs.com</a>. Website: <a href="http://www.netaxs.com/~phil2001">http://www.netaxs.com/~phil2001</a>. Address: Pennsylvania Convention Center &amp; Philadelphia Marriott Hotel, Philadelphia, Pennsylvania. Dates: 8/30/01 - 9/3/01.
 </p><p>
@@ -558,5 +558,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></http:></p>
+</p></p>
 </div>

@@ -201,7 +201,7 @@ If you were working on a persona who is no longer listed at <a href="/club-chat/
 </p><p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
 </p><h3>Lost . . .</h3>
-<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Revelin Tionne  (sazimarc@mindspring.com)
 </li><li>Bard Valiena (laughsong@aol.com)
@@ -243,7 +243,7 @@ I�ll be heading to San Diego in March to give a lecture on San Galgano and the
 </p><p>
 I will most likely be returning to Italy at the end of June, and I may be making a trip to the United Kingdom this year as well.  I�d love to see any QO fans, if time allows.
 </p><p>
-My interview didn�t make it onto the <i>King Arthur</i> DVD, which is disappointing.  Oh, well.  As they say, that�s Hollywood <g>.
+My interview didn�t make it onto the <i>King Arthur</i> DVD, which is disappointing.  Oh, well.  As they say, that�s Hollywood &lt;g&gt;.
 <p>
 I�m up to my proverbial ears in writing assignments, which is keeping life interesting.  Please bear with me if newsletters are released a bit late.  (I have to take the paying assignments first.)  I do hope to find time to do a little QO fan fiction this year, though.  I have an idea for a backstory about Kaylan that�s been bugging me for a while . . .
 </p><p>
@@ -292,5 +292,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

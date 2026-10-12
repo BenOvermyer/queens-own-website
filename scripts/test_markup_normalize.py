@@ -26,6 +26,12 @@ class NormalizeHeadingTests(unittest.TestCase):
         self.assertIsNone(soup.find('h3'))
 
 
+    def test_unescaped_pseudo_tag_becomes_text(self):
+        soup = normalized('<p>grin <g> and more</p>')
+        self.assertIsNone(soup.find('g'))
+        self.assertIn('&lt;g&gt;', str(soup))
+
+
 class NormalizeAnchorTests(unittest.TestCase):
     def test_named_anchor_wrapping_heading_moves_id_onto_heading(self):
         soup = normalized('<a id="s" name="s"><h2>Section</h2></a>')

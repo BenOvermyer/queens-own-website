@@ -29,11 +29,11 @@ May 1, 2005</h2></div>
 <p>
 Heyla, Misty fans!
 </p><p>
-Happy Mother�s Day to all you moms out there!  Hope you have a great day.  (We�re supposed to get rain here in Southern California . . . suppose we should be used to it by now <g>.)
+Happy Mother�s Day to all you moms out there!  Hope you have a great day.  (We�re supposed to get rain here in Southern California . . . suppose we should be used to it by now &lt;g&gt;.)
 
 The big news this month is that Moonstar has moved.  Please make note of her new e-mail address:  healermoon@gmail.com.  Most of the website should now reflect the change.  Let Danya know at Legend@malcor.com if we missed anything!
 
-Moonstar and Danya have now been running QO for five years!  Doesn�t seem possible . . . As they say, �Time flies when you�re having fun� <g>.  This year, our ranks have swelled to 582 people with approved personae in Queen�s Own: 474 Heralds, 9 Herald-Mages, 29 Bards, 1 Blue, 22 Healers, 3 Mercenaries, 11 Shin�a�in, 3 Sorceressess, 35 Tayledras and 2 �other� folks. The numbers don�t entirely add up because of some crossover characters like our 5 Shin�a�in-Heralds, 1 Herald-Sorceress and 1 Shin�a�in-Herald-Mercenary. And let�s not forget our stack of 29 NPC�s: 16 Heralds (including 1 Shin�a�in-Herald), 4 Bards, 4 Healers, 1 Kal�enedral, 3 Tayledras and 1 Sorceress. There are 7 active chapters of QO, including 2 online chapters, and several chapters are up for adoption.  If you are interested in joining or adopting a chapter, please visit http://www.dragonlordsnet.com/qochap.htm.
+Moonstar and Danya have now been running QO for five years!  Doesn�t seem possible . . . As they say, �Time flies when you�re having fun� &lt;g&gt;.  This year, our ranks have swelled to 582 people with approved personae in Queen�s Own: 474 Heralds, 9 Herald-Mages, 29 Bards, 1 Blue, 22 Healers, 3 Mercenaries, 11 Shin�a�in, 3 Sorceressess, 35 Tayledras and 2 �other� folks. The numbers don�t entirely add up because of some crossover characters like our 5 Shin�a�in-Heralds, 1 Herald-Sorceress and 1 Shin�a�in-Herald-Mercenary. And let�s not forget our stack of 29 NPC�s: 16 Heralds (including 1 Shin�a�in-Herald), 4 Bards, 4 Healers, 1 Kal�enedral, 3 Tayledras and 1 Sorceress. There are 7 active chapters of QO, including 2 online chapters, and several chapters are up for adoption.  If you are interested in joining or adopting a chapter, please visit http://www.dragonlordsnet.com/qochap.htm.
 
 Publication news:
 
@@ -311,7 +311,7 @@ We have no new personae to announce this month, but several people are very clos
 </p><p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
 </p><h3>Lost . . .</h3>
-<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Revelin Tionne  (sazimarc@mindspring.com)
 </li><li>Bard Valiena (laughsong@aol.com)
@@ -400,5 +400,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></g></p>
+</p></p></p>
 </div>

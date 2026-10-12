@@ -157,27 +157,27 @@ These are the upcoming cons we know about.  Have any information about conventio
 </p><p>
 </p><h3>Massachusetts</h3>
 <p>
-<b>READERCON 13.</b>  E-mail: info@readercon.org <mailto:info@readercon.org>.  Website: <http:>.  Address: The Burlington Marriott, Burlington, Massachusetts.  Dates: 7/13/01 - 7/15/01.
+<b>READERCON 13.</b>  E-mail: info@readercon.org &lt;mailto:info@readercon.org&gt;.  Website: &lt;http:&gt;.  Address: The Burlington Marriott, Burlington, Massachusetts.  Dates: 7/13/01 - 7/15/01.
 <p>
-<b>STAR TREK.</b>  E-mail: sfedora1@aol.com <mailto:sfedora1@aol.com>.  Website: <http:>.  Address: Sheraton Framingham - Tara, Framingham, Massachusetts.  Dates: 7/27/01 - 7/29/01.
+<b>STAR TREK.</b>  E-mail: sfedora1@aol.com &lt;mailto:sfedora1@aol.com&gt;.  Website: &lt;http:&gt;.  Address: Sheraton Framingham - Tara, Framingham, Massachusetts.  Dates: 7/27/01 - 7/29/01.
 <p>
-<b>TOTEMCON 2001.</b>  E-mail: info@totemcon.com <mailto:info@totemcon.com>.  Website: <http:>.  Address: Sheraton Ferncroft Resort, Danvers, Massachusetts.  Date: 7/15/01.
+<b>TOTEMCON 2001.</b>  E-mail: info@totemcon.com &lt;mailto:info@totemcon.com&gt;.  Website: &lt;http:&gt;.  Address: Sheraton Ferncroft Resort, Danvers, Massachusetts.  Date: 7/15/01.
 <p>
 </p><h3>Michigan</h3>
 <p>
-<b>THE SISKO FAMILY REUNION.</b>  E-mail: emily@makeitsoproductions.com <mailto:emily@makeitsoproductions.com>.  Website: <http:>.  Address: Hyatt Regency, Dearborn, Michigan.  Dates: 7/21/01 - 7/22/01.
+<b>THE SISKO FAMILY REUNION.</b>  E-mail: emily@makeitsoproductions.com &lt;mailto:emily@makeitsoproductions.com&gt;.  Website: &lt;http:&gt;.  Address: Hyatt Regency, Dearborn, Michigan.  Dates: 7/21/01 - 7/22/01.
 <p>
 </p><h3>Minnesota</h3>
 <p>
-<b>CONVERGENCE.</b>  E-mail: info@convergence-con.org <mailto:info@convergence-con.org>.  Website: <http:>.  Address: Radisson, St. Paul, Minnesota.  Dates: 7/6/01 - 7/8/01.
+<b>CONVERGENCE.</b>  E-mail: info@convergence-con.org &lt;mailto:info@convergence-con.org&gt;.  Website: &lt;http:&gt;.  Address: Radisson, St. Paul, Minnesota.  Dates: 7/6/01 - 7/8/01.
 <p>
 </p><h3>Missouri</h3>
 <p>
-<b>GATEWAY SCI-FI/MEDIA CON</b>.  E-mail: gateway@stlf.org <mailto:gateway@stlf.org>.  Website: <http:>.  Address: Henry VIII Inn &amp; Lodge, St. Louis, Missouri.  Dates: 7/6/01 - 7/8/01.
+<b>GATEWAY SCI-FI/MEDIA CON</b>.  E-mail: gateway@stlf.org &lt;mailto:gateway@stlf.org&gt;.  Website: &lt;http:&gt;.  Address: Henry VIII Inn &amp; Lodge, St. Louis, Missouri.  Dates: 7/6/01 - 7/8/01.
 <p>
 <b>SAGACON.</b>  Website: <a href="http://sagacon.8m.com">http://sagacon.8m.com</a>.  E-mail: <a href="mailto:info@sagacon.8m.com">info@sagacon.8m.com</a>.  Address: Day Inn Hotel and Conferance Center, Springfield, Missouri.  Dates: 6/29/01 - 7/1/01.
 </p><p>
-<b>STARFLEET IC 2001.</b>  E-mail: ic2001@sfi.org <mailto:ic2001@sfi.org>.  Website: <http:>.  Address: Marriott Kansas City - Airport, Kansas City, Missouri.  Dates: 7/27/01 - 7/29/01.
+<b>STARFLEET IC 2001.</b>  E-mail: ic2001@sfi.org &lt;mailto:ic2001@sfi.org&gt;.  Website: &lt;http:&gt;.  Address: Marriott Kansas City - Airport, Kansas City, Missouri.  Dates: 7/27/01 - 7/29/01.
 <p>
 </p><h3>Nebraska</h3>
 <p>
@@ -522,5 +522,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></http:></mailto:ic2001@sfi.org></p></http:></mailto:gateway@stlf.org></p></http:></mailto:info@convergence-con.org></p></http:></mailto:emily@makeitsoproductions.com></p></http:></mailto:info@totemcon.com></p></http:></mailto:sfedora1@aol.com></p></http:></mailto:info@readercon.org></p>
+</p></p></p></p></p></p></p></p>
 </div>

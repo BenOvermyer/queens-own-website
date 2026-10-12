@@ -341,7 +341,7 @@ Moonstar will be moving closer to me in June, and we expect activities in Southe
 </p><p>
 I've already met several of you face-to-face, and I'd love to meet as many of the rest of you as possible eventually &lt;g&gt;.  If you are coming to Southern California to visit Disneyland or check out a college or for any other reason, let us know, and we'll try to set up a QO event at a convenient spot.  (Join your local chapter and bug your leaders if you want to see an event in your area.)
 </p><p>
-Keep us posted about your activities, and continue to send art and stories to our 'zines!  <i>Children of Velgarth</i> will release its next issue on February 7th, and I'll have the next installment of The Compass Rose online as soon as I find the time to code it <g>.  Keep up the good work, and, above all, have fun!
+Keep us posted about your activities, and continue to send art and stories to our 'zines!  <i>Children of Velgarth</i> will release its next issue on February 7th, and I'll have the next installment of The Compass Rose online as soon as I find the time to code it &lt;g&gt;.  Keep up the good work, and, above all, have fun!
 <p>
 Zhai'helleva,
 </p><p>
@@ -401,5 +401,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p>
+</p></p>
 </div>

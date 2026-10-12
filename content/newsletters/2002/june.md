@@ -33,7 +33,7 @@ The big news of the month is that we have been granted permission to hold online
 </p><p>
 The <i>DAW 30th Anniversary Fantasy Anthology</i> is now available!  It contains a story by Misty in which she receives a midnight visit from several of her characters who have a bone to pick with her about the way she wrote about them.  Very clever-and lots of Valdemar trivia from Vanyel, Kerowyn, Myste, Talia and others in addition to tidbits from Di Tregarde, Tannim and others!  Larry Dixon also has a story in the collection.  His contribution is set after the founding of k�Valdemar and features details about Healers, the Guard and gryphons.  You can see the coverart at <a href="https://dragonlords.fans/bkmlvs.htm#DAW">http://www.dragonlordsnet.com/bkmlvs.htm#DAW</a>.
 </p><p>
-The new Valdemar novel about Alberich, <i>Exile�s Honor</i>, is running a bit behind schedule.  (Alberich wasn�t cooperating as a character, and Misty had to do some major rewriting.)  In the meantime, do check out Misty�s short story in the DAW Anthology.  There seems to be a preview of �Coming Attractions,� so to speak <g>.
+The new Valdemar novel about Alberich, <i>Exile�s Honor</i>, is running a bit behind schedule.  (Alberich wasn�t cooperating as a character, and Misty had to do some major rewriting.)  In the meantime, do check out Misty�s short story in the DAW Anthology.  There seems to be a preview of �Coming Attractions,� so to speak &lt;g&gt;.
 
 Word on the Mercedes-Lackey mailing list (<a href="mailto:Mercedes-Lackey@lists.herald.co.uk">Mercedes-Lackey@lists.herald.co.uk</a>; <a href="http://lists.herald.co.uk/mailman/listinfo/mercedes-lackey">http://lists.herald.co.uk/mailman/listinfo/mercedes-lackey</a>) is that Misty and Larry have plans to put in an appearance at a con sometime this summer.  We�ll let you know when we find out which one.
 <p>
@@ -550,7 +550,7 @@ Returning Misty fans who have activated their memberships include:
 Welcome back!  If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 </p><p>
 </p><h3>Lost . . .</h3><p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -573,7 +573,7 @@ If you know any of these folks, please have them contact Danya at <a href="mailt
 <p>
 Real life has become a bit hectic around here lately.  We�re coming to the end of the school year (which is always a crazy time).  My mother has developed a bunch of critical health problems (She just had her thyroid removed on May 31st.) and is looking for a new home. Moonstar is selling her home and moving, and we�ve seriously outgrown our current home and are thinking about moving as well.
 </p><p>
-I plan to put all the chaos on hold, however, from June 14th - June 23rd when I will be taking the first vacation I�ve had since 1995.  My family and I will be traveling to Alameda for a few days to visit friends, and then we�re heading up to Lake Tahoe, with day trips planned to Virginia City, Nevada, Carson City, and various other locations near the lake.  I�m very much looking forward to the break (not to mention help with childcare and the glory that is maid service <g>!).  I�ll be traveling with a computer, as always, but I may not be as speedy in replies as I usually am.  (Not that I�ve been all that speedy lately, a lapse which I regret but for which I have no current remedy until real life decides to settle down.  Sorry!)
+I plan to put all the chaos on hold, however, from June 14th - June 23rd when I will be taking the first vacation I�ve had since 1995.  My family and I will be traveling to Alameda for a few days to visit friends, and then we�re heading up to Lake Tahoe, with day trips planned to Virginia City, Nevada, Carson City, and various other locations near the lake.  I�m very much looking forward to the break (not to mention help with childcare and the glory that is maid service &lt;g&gt;!).  I�ll be traveling with a computer, as always, but I may not be as speedy in replies as I usually am.  (Not that I�ve been all that speedy lately, a lapse which I regret but for which I have no current remedy until real life decides to settle down.  Sorry!)
 <p>
 In the meantime, I�ve been plowing through Misty�s Elemental Mage series, which I�m enjoying quite a lot.  I have also finished reading Misty�s and Larry�s short stories in the <i>DAW 30th Anniversary Fantasy Anthology</i>.  Good stuff!
 </p><p>
@@ -642,5 +642,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p></g></p>
+</p></p></p></p>
 </div>

@@ -144,7 +144,7 @@ Here are the faires we know about that are happening in May.  Faires are indexed
 <li>TENNESSEE RENAISSANCE FESTIVAL, E-mail: <a href="mailto:TennRenFest@netscape.net">TennRenFest@netscape.net</a>.  Website:  http://sites.netscape.net/tennrenfest/homepage.  Address: 2124 Newcastle Rd., Arrington-Triune, TN  37014.  When:  5/05/00 - 5/29/00, Open/Close: 10:00 AM - 6:00 PM.
 </li></ul>
 <p>
-<h2texas<>
+&lt;h2texas&lt;&gt;
 <p>
 </p><ul>
 <li>SCARBOROUGH RENAISSANCE FAIRE, E-mail: <a href="mailto:TheRenFest@aol.com">TheRenFest@aol.com</a>, Website: <a href="http://www.ScarboroughRenFest.com/">http://www.ScarboroughRenFest.com</a>.  Address: P.O. Box 538, Waxahachie, TX  75168-0538, Site Address: 2511 FM 66, Waxahachie, TX  75165-5527.  When:  4/15/00 - 6/04/00, Open/Close: 10:00 AM - 7:00 PM.
@@ -210,7 +210,7 @@ For definitions of our fannish jargon, read "Pros &amp; Cons: An Introduction to
 </p></li><li><b>L.A. Malcor:</b> <b>Dragonlords of Dumnonia</b>:  L.A. Malcor, <a href="https://dragonlords.fans/index.html">http://www.dragonlordsnet.com</a>, <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.<p>
 </p></li><li><b>Anne McCaffrey/Pern:</b> <b>The Third Pass Weyrs</b>.  Contact Weyrwoman Second Naerah at
 <a href="mailto:Nyco@aol.com">Nyco@aol.com</a> or visit the website at http://www.3rdpass.com/ for more information.<p>
-</p></li><li><b>Adrian Paul of Highlander:</b> <b>Peace</b>, APFC P.O. Box 4593, North Hollywood, CA  91617 or <b>Peace</b>, APFC P.O. Box 519, Broley, Kent, BR29WX, England.</li></ul></h2texas<></p>
+</p></li><li><b>Adrian Paul of Highlander:</b> <b>Peace</b>, APFC P.O. Box 4593, North Hollywood, CA  91617 or <b>Peace</b>, APFC P.O. Box 519, Broley, Kent, BR29WX, England.</li></ul></p>
 <li><b>Michae Praed:</b> <i>Michael Praed Network Newsletter</i>, c/o Kate Raymond, P.O. Box 516, Midlotioan, IL  60445.<p>
 </p></li><li><b>Melanie Rawn:</b> <b>Pandemonium</b> - The official Melanie Rawn club invites you to join their ranks.  SASE for more information:  Irena Pereira, P.O. Box 18A146 , Los Angeles, CA 90018.<p>
 </p></li><li><b>SCA event:</b> Mad Slug Tourney - Place: University of California: Santa Cruz, campus, East Field, Santa Cruz, California.  When: May 14th. If you'd like more information, e-mail <a href="mailto:erynf@cats.ucsc.edu">erynf@cats.ucsc.edu</a>, and she'll send you more info when she gets it.

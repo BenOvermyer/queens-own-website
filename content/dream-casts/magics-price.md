@@ -202,7 +202,7 @@ Starwind, Healing Adept, Tayledras, of k'Treva) {Promise, Price}</td>
 </tr>
 <tr>
 <td class="align-left valign-top">Geof Larimar</td>
-<td class="align-left valign-top">(farmer in Wendwinter Forest <forest of="" sorrows="">){Price}</forest></td>
+<td class="align-left valign-top">(farmer in Wendwinter Forest &lt;forest&gt;){Price}</td>
 <td class="align-left valign-top"> </td>
 </tr>
 <tr>
@@ -222,8 +222,8 @@ Starwind, Healing Adept, Tayledras, of k'Treva) {Promise, Price}</td>
 </tr>
 <tr>
 <td class="align-left valign-top">Hyrryl</td>
-<td class="align-left valign-top">(kyree, female, strong Mindspeech, Winged One <shaman> of Hot
-Springs Clan) {Price}</shaman></td>
+<td class="align-left valign-top">(kyree, female, strong Mindspeech, Winged One &lt;shaman&gt; of Hot
+Springs Clan) {Price}</td>
 <td class="align-left valign-top"> </td>
 </tr>
 <tr>

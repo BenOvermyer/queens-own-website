@@ -59,6 +59,13 @@ text and following markup; on serialization the swallowed tags returned as escap
   styles. Valid `<u>`/`<s>` and the intentional `<xmp>` code-sample element are left
   alone.
 
+**Unescaped pseudo-tags.**
+
+- Unescaped `<` in the source turned emoticons (`<g>`, `<grin>`, `<sigh>`) and
+  malformed links (`<http:>`, `<mailto:…>`, `<ahref="http:">`) into bogus elements
+  that hid their text. `markup_normalize` escapes them back to text, and the audit
+  reports any such element as `unknown_element`.
+
 `markup_normalize.run()` applies all three transforms and is idempotent over existing
 content (`python3 scripts/markup_normalize.py`). The two `<xmp>` pages are processed
 with their `<xmp>` blocks protected, so their escaped contents survive verbatim.
@@ -78,9 +85,12 @@ These are reported but are not structural errors.
 
 | Rule | Occurrences | Files | Disposition |
 | --- | ---: | ---: | --- |
-| `block_in_paragraph` | 1540 | 62 | Editorial: a block opens while a `<p>` is open; browsers close the paragraph implicitly and render correctly. Candidate for a dedicated semantics pass. |
 | `table_without_header` | 150 | 62 | Editorial: most are genuine data tables with no header row (recipe ingredient lists, schedule grids); adding `<th>` automatically would corrupt data. |
 | `nested_table` | 2 | 2 | Acceptable: a webring badge and one nested data table; retained. |
+
+The audit models HTML's implicit paragraph closing, so a `<p>` followed by a block
+element is not reported as a nesting error; only a block that cannot close a
+paragraph (such as the obsolete `<center>`) is.
 
 Every image carries an `alt` attribute (many are intentionally empty decorative
 spacers), and no migrated image lacks `src`; unavailable-image placeholders use

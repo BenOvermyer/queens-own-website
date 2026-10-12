@@ -55,7 +55,7 @@ Also, is anyone in California willing to help Jaime Paz with Golden Grove?  Ther
 </p><p>
 Heartland Arrows is starting up a new �zine, <i>Riding Circuit</i>, as well as bringing back the beloved <i>Tales of the Unicorn</i>.  See the ads below for details!
 </p><p>
-<b>Old Newsletters:</b>  A special note of thanks goes to <b>Herald-Mage Apprentice Ryhannon Gaia Degent (Laura Felton)</b> for helping to proofread pages on the QO website!  If any of you have some free time and would like to help out with some of the zillion and one chores that QO generates, contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.  She�ll be happy to find something for you to do <g>.
+<b>Old Newsletters:</b>  A special note of thanks goes to <b>Herald-Mage Apprentice Ryhannon Gaia Degent (Laura Felton)</b> for helping to proofread pages on the QO website!  If any of you have some free time and would like to help out with some of the zillion and one chores that QO generates, contact Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.  She�ll be happy to find something for you to do &lt;g&gt;.
 <p>
 Speaking of old newsletters, we now have most of the newsletters from the first four years of Queen�s Own online at <a href="/newsletter-guidance/">/newsletter-guidance/</a>.  Take some time and read them!  You�ll find lots of interviews with Misty, biographical and bibliographic details, ideas for things that chapters and zines did that you might want to do in your current chapter or zine and much more!  I�ve been learning a lot about the history of the club by typing and coding the newsletters, and I think the information is something that all you fans will find valuable.  Also, if you have copies of the newsletters that we are missing, please contact me at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.  Our goal is to eventually have a complete set of the newsletters online.
 </p><p>
@@ -439,7 +439,7 @@ If you are a returning member who has recently activated your membership in Quee
 </p><p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -470,7 +470,7 @@ In early January my car, which I bought in October, died completely. It turns ou
  </p><p>
 I spent the last month and a half seeing doctors and orthopedic specialists about my right shoulder. It seems that my rotator cuff tore, and I didn�t realize it because I thought my shoulder still was not quite recovered and so I kept lifting and working like I normally do. As a result I tore up the tendons (which have to be stapled or screwed back to the bone), the muscles and cartilage. During the surgery they are going to remove the flexor and tighten and fix everything else. The surgery itself will be 2-3 hours, and I will not be able to move my shoulder for 6 weeks after the surgery. I will likely have to be on disability for a couple of months following the surgery. The surgery will be March 7th, and I will likely spend one night in the hospital. The surgery will be in Huntington Beach by Dr. Reynolds, a shoulder specialist.
  </p><p>
-My desktop computer is also completely dead. All I can say is please whenever you buy a new computer do yourself a favor and call the manufacturer and get the longest warranty you can! <grin> I know it has saved my butt several times. They decided it needed a new hard drive, so they replaced it with an XP hard drive. My computer had come with ME, and I thought "Great. I don�t have to upgrade." They did not send a product key. We managed to copy the product key from Erik�s computer and get it going. However, when I loaded a program onto it, then it started to restart for no apparent reason again. I called; they had me reformat it with the ME disks.  Then suddenly it started again with XP, and we can�t get back into it. That is when the tech moved my case to quality control, and they chose to give me a new computer.  All the stats are better with the new computer, but it doesn�t have an upgraded sound card. I don�t really mind since I don�t really listen to music on my computer.
+My desktop computer is also completely dead. All I can say is please whenever you buy a new computer do yourself a favor and call the manufacturer and get the longest warranty you can! &lt;grin&gt; I know it has saved my butt several times. They decided it needed a new hard drive, so they replaced it with an XP hard drive. My computer had come with ME, and I thought "Great. I don�t have to upgrade." They did not send a product key. We managed to copy the product key from Erik�s computer and get it going. However, when I loaded a program onto it, then it started to restart for no apparent reason again. I called; they had me reformat it with the ME disks.  Then suddenly it started again with XP, and we can�t get back into it. That is when the tech moved my case to quality control, and they chose to give me a new computer.  All the stats are better with the new computer, but it doesn�t have an upgraded sound card. I don�t really mind since I don�t really listen to music on my computer.
  <p>
 I put my latest class off until the 13th of March so that I could get a little recovery for my shoulder. They wanted me to start the class yesterday, and with surgery in a week that just wasn�t do able. I am into Database Management now.
  </p><p>
@@ -536,5 +536,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></grin></p></g></p></g></p>
+</p></p></p></p>
 </div>

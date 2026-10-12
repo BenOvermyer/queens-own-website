@@ -279,7 +279,7 @@ Welcome back!  If you are a returning member who has recently activated your mem
 </p><p>
 </p><h3>Lost . . .</h3>
 <p>
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 <p>
 </p><ul>
 <li>Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)<br/>
@@ -315,7 +315,7 @@ My co-author, C. Scott Littleton, had his first novel, <i>Phase Two</i>, publish
 </p><p>
 <a href="https://dragonlords.fans/bkscifi.htm">http://www.dragonlordsnet.com/bkscifi.htm</a>
 </p><p>
-He�s now bugging me to get my own growing stack of novels published.  I did notice, though, that he waited until he retired to start putting out fiction rather than attempting to write novels while raising his kids.  ::chuckle::  I hope it�s not going to take me that long to get back to writing seriously, but things are simply a bit hectic around her right now with my rambunctious offspring pinging off the walls.  Time does seem to get away from me before I notice it�s gone <g>.
+He�s now bugging me to get my own growing stack of novels published.  I did notice, though, that he waited until he retired to start putting out fiction rather than attempting to write novels while raising his kids.  ::chuckle::  I hope it�s not going to take me that long to get back to writing seriously, but things are simply a bit hectic around her right now with my rambunctious offspring pinging off the walls.  Time does seem to get away from me before I notice it�s gone &lt;g&gt;.
 <p>
 My best to all of you and yours in the coming Year!  Happy Hanukkah, Blessed Yule, Merry Christmas, Blessed Ramadan, Happy Kwanzaa, and the fabulous holiday of your choice to all of you!
 </p><p>
@@ -372,5 +372,5 @@ Healer Adept Moonstar
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

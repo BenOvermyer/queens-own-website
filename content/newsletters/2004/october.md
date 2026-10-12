@@ -362,7 +362,7 @@ If you were working on a persona who is no longer listed at <a href="/club-chat/
 </p><p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
 </p><h3>Lost . . .</h3>
-<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Valiena (laughsong@aol.com)
 </li><li>Guardsman Faolan Ixran (Timmeu@scubadiving.com)
@@ -407,7 +407,7 @@ I�m in the market for a mahogany sable or sable and white male collie pup.  I�
 </p><p>
 As you do your holiday shopping, please consider making purchases through the Dragonlords� Bookstore at <a href="https://dragonlords.fans/bkstore.htm">http://www.dragonlordsnet.com/bkstore.htm</a>.  A portion of all proceeds goes to help pay for QO.  This is how we keep our memberships free, and we really need to do well over the holiday season (This is when our website fees, P.O. Box fees and such all come due.).  We thank you so much for your support!
 </p><p>
-Finally got most of my artwork up in my new home.  I�m beginning to feel as if we�ve really moved in <g>.  I�m having fun trying to figure out how to decorate the new house for Halloween.  I don�t seem to have as many flat surfaces, but I have a covered patio that is great for hanging special effect, drop-down ghoulies and such.  Write to us and let us know what you are doing for the holidays.  We love to hear from you!
+Finally got most of my artwork up in my new home.  I�m beginning to feel as if we�ve really moved in &lt;g&gt;.  I�m having fun trying to figure out how to decorate the new house for Halloween.  I don�t seem to have as many flat surfaces, but I have a covered patio that is great for hanging special effect, drop-down ghoulies and such.  Write to us and let us know what you are doing for the holidays.  We love to hear from you!
 <p>
 Zhai�helleva,
 </p><p>
@@ -455,5 +455,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

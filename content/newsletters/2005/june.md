@@ -33,7 +33,7 @@ It�s hard to believe that another school year has come and gone.  Moonstar lef
 </p><p>
 Danya has been back at work on the website.  All of the 2005 newsletters are now online, and a few more from past years have been added.  We do need art for the online versions of the newsletters.  If you have any, please send it to Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>.
 </p><p>
-If you change your e-mail address, please let us know!  Send Danya your old address and the new one along with your request that your information be updated.  Our section of "Lost" members continues to grow because we no longer have working e-mail addresses for some people.  Do take a moment to look over the list and let us know if you have a new address for any of these people.  We miss them, and we�d like to be able to send them their newsletters again <g>.
+If you change your e-mail address, please let us know!  Send Danya your old address and the new one along with your request that your information be updated.  Our section of "Lost" members continues to grow because we no longer have working e-mail addresses for some people.  Do take a moment to look over the list and let us know if you have a new address for any of these people.  We miss them, and we�d like to be able to send them their newsletters again &lt;g&gt;.
 <p>
 </p><h3>Publication news:</h3>
 <p>
@@ -378,7 +378,7 @@ We have no new personae to announce this month, but several people are very clos
 </p><p>If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at <a href="mailto:Legend@malcor.com">Legend@malcor.com</a>, and she�ll make sure you are greeted in the next newsletter.
 
 </p><h3>Lost . . .</h3>
-<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move <g>.  We are missing current e-mail addresses for the following members:
+<p>One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g&gt;.  We are missing current e-mail addresses for the following members:
 	<ul>
 <li>Bard Revelin Tionne  (sazimarc@mindspring.com)
 </li><li>Bard Valiena (laughsong@aol.com)
@@ -475,5 +475,5 @@ Claremore, OK 74017
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></g></p></g></p>
+</p></p></p>
 </div>

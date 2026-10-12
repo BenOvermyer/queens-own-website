@@ -84,7 +84,7 @@ For you lucky fans in the Atlanta area, Misty will be autographing books a <b>SF
 <i>Tales of Valdemar and Beyond</i> is available now [Ed. note 2003: Out-of-date information withheld.].
 </p><p>
 <i>Circle of Light</i> Is a monthly newsletter devoted to Heralds, Beauty &amp; the Beast, and other facets of Fantasy.  The cost is [Ed. note 2003: Out-of-date information withheld.].
-<o>
+&lt;o&gt;
 From <b>Thornton Kimes [Ed. note 2003: Out-of-date information withheld.]</b>:
 <p>
 "I want to create a QO Joke Collection. Jokes about HEralds, Companions, Hawkbrethern (and sistren), etc., etc.  Daffynitions too, and uh, puns . . . "
@@ -162,5 +162,5 @@ Herald-Mage Adept Danya Winterborn
 <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> <a href="/newsletter-guidance/">Return to the Queen's Own Newsletter Page</a>
 </p><p>
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> <a href="/">Return to the Queen's Own Home Page</a>
-</p></o></p>
+</p></p>
 </div>

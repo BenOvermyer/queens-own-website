@@ -22,7 +22,9 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 from bs4 import BeautifulSoup
+from bs4.element import NavigableString
 
+from audit_html import KNOWN_HTML_ELEMENTS
 from markup_destyle import destyle_soup
 from markup_repairs import repair_markup
 
@@ -68,9 +70,21 @@ def normalize_headings(soup):
         previous = level
 
 
+def _unescape_unknown(soup):
+    """Turn unescaped pseudo-tags (emoticons such as <g>, malformed links) back into text."""
+    while True:
+        unknown = [element for element in soup.find_all(True) if element.name not in KNOWN_HTML_ELEMENTS]
+        if not unknown:
+            return
+        for element in unknown:
+            element.insert_before(NavigableString(f'<{element.name}>'))
+            element.unwrap()
+
+
 def normalize_soup(soup):
     """Repair heading order, block-in-anchor nesting, and empty anchors in place."""
     normalize_headings(soup)
+    _unescape_unknown(soup)
     for anchor in list(soup.find_all('a')):
         if not anchor.get('href') and not anchor.get('id') and not anchor.get('name'):
             if not anchor.find(True) and not anchor.get_text(strip=True):
