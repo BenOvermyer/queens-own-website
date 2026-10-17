@@ -55,25 +55,30 @@ If you have two Gifts, you *might* be a Bard. Roll twice on the table below, ign
 If you rolled a result of three Gifts, you have Talent, Creativity and Bardic. You are a Bard, and you do not need to roll on this table. Continue to the next section of the handout.
 
 <table>
-<tr>
-<th>Die Roll</th>
-<th>Musical Gift</th>
-<th>Description</th>
-</tr><tr>
-<td>1-2</td>
-<td>Talent</td>
-<td>A combination of skill and aptitude</td>
-</tr>
-<tr>
-<td>3-4</td>
-<td>Creativity</td>
-<td>The ability to compose music</td>
-</tr>
-<tr>
-<td>5-6</td>
-<td>Bardic</td>
-<td>Projective Empathy</td>
-</tr>
+    <thead>
+        <tr>
+            <th>Die Roll</th>
+            <th>Musical Gift</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1-2</td>
+            <td>Talent</td>
+            <td>A combination of skill and aptitude</td>
+        </tr>
+        <tr>
+            <td>3-4</td>
+            <td>Creativity</td>
+            <td>The ability to compose music</td>
+        </tr>
+        <tr>
+            <td>5-6</td>
+            <td>Bardic</td>
+            <td>Projective Empathy</td>
+        </tr>
+    </tbody>
 </table>
 
 ## II. Develop a Character

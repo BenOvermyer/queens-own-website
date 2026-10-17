@@ -5,10 +5,6 @@ template = "page.html"
 date = 2000-07-01
 [extra]
 legacy_source = "qojul00.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2000/july/"
@@ -32,8 +28,6 @@ This month it's my turn to play interviewer. It is my pleasure to introduce you 
 
 **Herald-Mage Master Danya Winterborn**
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 1. Tell us about your family.
 
   I moved in with my husband, Jay, a week and a half after I met him. We met at a local Laundromat, in Cheyenne, Wyoming where I had moved after high school. He was on his first assignment in the Air Force as a deputy combat crew commander in the nuclear missiles field. He was 23, and I was 18. We got married exactly one year after we met: 23 July 1993.
@@ -54,7 +48,7 @@ This month it's my turn to play interviewer. It is my pleasure to introduce you 
 4. When did you join Queen's Own?
 
   I joined Queen's Own in late 1995, mostly out of curiosity. I noticed the Queen's Own address in the back of *Arrows of the Queen*. I decided to take a chance.
-5. What got you hooked on Misty�s books?
+5. What got you hooked on Misty's books?
 
   I had read the *Last Herald Mage* trilogy in Junior High. My best friend, Misty (interesting coincidence don't you think?), gave me *Magic's Pawn* at lunch one day and said, "Here, Kendra. You'll like this book. The main character is gay." I just looked at her in shock. I had never been given a book in that way, but she was right. I fell in love with Vanyel. (Didn't we all?) A few years later I came across the Arrows trilogy at a used bookstore. Then I read every Valdemar novel I could find!
 6. What else do you read?
@@ -66,14 +60,12 @@ This month it's my turn to play interviewer. It is my pleasure to introduce you 
 8. What was the first con you went to?
 
   Actually, I have only been to one con. I can't remember what it was called. It was a little one at the Colorado State University Student Center. I think it was in 1996 right before we moved to California. Jay was in the field, and I went with my good friends, Pete and Andy. We ended up in a Mage game. We had never played Mage before, but having played Vampire it wasn't a big jump. Those present voted me best role-player of the game.
-9. What other projects besides Queen�s Own occupy your time?
+9. What other projects besides Queen's Own occupy your time?
 
   I am on the Board of Dragonlords of Dumnonia for Linda's fan club, which includes approving personas, putting together timelines, and keeping up numerous lists. I also work with the Idaho Great Dane Rescue Inc. So far this year I have rescued three pups, and they have all been placed in safe, happy loving homes. I also write articles for the Pagan newsletter, "Silver Chalice." I write and submit to the various chapter zines listed in our newsletter. I maintain a web site. I love to keep our photos scrapbook style, and I have one family set and one for Alex that I have just started. Not to mention that I also keep house and take care of my fourteen month old son, Alex.
-10. What do you like the best about Queen�s Own?
+10. What do you like the best about Queen's Own?
 
   For me it is all about the great people I get to meet and the wonderful writing I get to read. I like getting in contact with all those people that share the same interests as I do. As a military spouse, I don't really fit the mold, and I move too much. Both of these things make it difficult to make many good friends. Among Queen's Own I always have friends and people who help me through moves and trying to settle again. Thanks everyone for helping us. Without you, there wouldn't be a club.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -161,8 +153,6 @@ WORLDCON (Chicon2000). Website: [http://www.chicon.org](http://www.chicon.org). 
 
 STERLING GAME CON BY SGR. E-mail: [dweaver@integrityonline4.com](mailto:dweaver@integrityonline4.com). Where: Spokane. Dates: 8/22/00 - 8/23/00.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Tayledras by Laura Felton" class="border-3" loading="lazy" src="/qopic7.jpg"/>
 
 ## Member News:
@@ -182,8 +172,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Collegium Chronicles*:** The Venerable Pacific Northwest Collegium is looking for a few good writers and artists for its newsletter *Collegium Chronicles*. It would e preferable if folks had e-mail access. I am looking for stories that are primarily fantasy--QO persona requirements are acceptable, so long as they are in story format. Poetry, articles and essays also welcome. Come join us in what will be the final year of this nearly decade-long newsletter. $8 per year/$4 for a half-year, $2 per issue. Final issue will be June/July of 2001. Get your dues in early reap the full benefits! Great artwork (see our webpage at [Collegium Chronicles](/pacific-northwest-collegium/)) great stories, news of local events in the Pacific Northwest area. All are welcome. Send general inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (P.S. If anyone is interested in taking over the Chronicles after next summer, let me know! I'd hate to see such a noble creature die out.)
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -218,8 +206,6 @@ Remember your stories need a release sent to High Flight. Always make copies of 
 
 In short, keep writing! I look forward to seeing your work.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Companion by Aurora Nelson" class="border-3" loading="lazy" src="/qopic9.jpg"/>
 
 ## Fan Messages:
@@ -232,16 +218,12 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Companion Rolling in Companion's Field by Aurora Nelson" class="border-3" loading="lazy" src="/qopic5.jpg"/>
 
 ## Personals:
 
 - From **[Herald-Mage Master Danya Winterborn](mailto:shashtah@gmail.com)**. To **Mage Azurefrost shena k'Chona** (**Azurefrost@aol.com**), **cridland@telecall.co.uk**, and **Shiniin@aol.com**: Your e-mail addresses are bouncing. Please contact me with your updated information (or if you see a typo in the addresses as I have them).
 - From **Herald Kalendel** ([Itsmyage@aol.com](mailto:Itsmyage@aol.com)). In 1995, I met several people through a fan message in the Q.O. newsletter. I'm trying to find one in particular. Does anyone here possibly know where I could find a Dara Murphy? She had other pen-pals from here, I think. We fought over something silly and I'd really like to make up and see where she's at now.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -262,9 +244,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

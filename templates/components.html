@@ -7,3 +7,15 @@
     <span class="signature"><a href="mailto:{{ config.extra.signoff.email }}">{{ config.extra.signoff.name }}</a></span>
 </div>
 {%- endcomponent signoff -%}
+
+{# Artwork with its title, artist credit, and optional provenance note. #}
+{%- component artwork(src, title, artist, alt, note="", href="", artist_url="", @config) -%}
+<figure class="artwork">
+{% if href %}<a href="{{ get_url(path=href) }}">{% endif %}<img src="{{ get_url(path=src) }}" alt="{{ alt }}" loading="lazy">{% if href %}</a>{% endif %}
+<figcaption>
+<span class="artwork-title">{{ title }}</span>
+<span class="artwork-credit">by {% if artist_url %}<a href="{{ get_url(path=artist_url) }}">{% endif %}{{ artist }}{% if artist_url %}</a>{% endif %}</span>{% if note %}
+<span class="artwork-note">{{ note }}</span>{% endif %}
+</figcaption>
+</figure>
+{%- endcomponent artwork -%}

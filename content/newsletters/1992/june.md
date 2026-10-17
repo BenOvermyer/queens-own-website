@@ -5,10 +5,6 @@ template = "page.html"
 date = 1992-06-01
 [extra]
 legacy_source = "qojun92.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1992/june/"
@@ -136,11 +132,11 @@ Step 6: To earn the rank of Herald-Mage, Adept, first qualify for Hedge-Wizard, 
 
 Misty says: "Lest you think I am being too hard on those who would be Herald-Mages, I would like to point out that both Ellen Guon and myself qualify for Adept. Like aspiring Kafenedral, if you want something extraordinary, you will have to make an extraordinary effort."
 
-For those wishing to have a Guardian persona, you must follow all the guidelines for Herald-Mage, Adept rank, AND write a 20-page paper on how stage-magic can be used to simulate the most common "mediumistic powers" (manifesting spirits, moving tables, voices and objects from nowhere, appearance of ectoplasm, etc.) and submit it to a local magazine. AND write a 20-page paper on "modern myths" (the Hitchhiking Ghost, Ghost Lights, Kentucky Fried Rat, the Haunted Dormitory, the Lover's Lane Stalker, etc.) and submit it to a local magazine. AND create a &uqot;modern myth" of your own; write it as a story. AND write a 20-page paper explaining how "unexplained phenomena" (Floating Lights, Phantom Headlights, Psychic Attacks, deia-vu, spoon-bending, watch-stopping, etc.) can be explained by purely mundane means. AND write a 20�page paper on televangelism, aild how the miracles shown on ~a particular show can be explained by mundane means. Submit both papers to a local magazine.
+For those wishing to have a Guardian persona, you must follow all the guidelines for Herald-Mage, Adept rank, AND write a 20-page paper on how stage-magic can be used to simulate the most common "mediumistic powers" (manifesting spirits, moving tables, voices and objects from nowhere, appearance of ectoplasm, etc.) and submit it to a local magazine. AND write a 20-page paper on "modern myths" (the Hitchhiking Ghost, Ghost Lights, Kentucky Fried Rat, the Haunted Dormitory, the Lover's Lane Stalker, etc.) and submit it to a local magazine. AND create a &uqot;modern myth" of your own; write it as a story. AND write a 20-page paper explaining how "unexplained phenomena" (Floating Lights, Phantom Headlights, Psychic Attacks, deia-vu, spoon-bending, watch-stopping, etc.) can be explained by purely mundane means. AND write a 20'page paper on televangelism, aild how the miracles shown on ~a particular show can be explained by mundane means. Submit both papers to a local magazine.
 
 Remember that Diana Tregarde spends as much time debunking phonies as she does handling real "cases." And if Herald-Mages are rare, Guardians are a hundred times rarer, so the effort is that much more.
 
-Judith's opinion: If you're already whining "it's too hard; it's not fair," for haven's sake, find something more enjoyable to do with your time! If you want to daydream as Herald-Mage/Doc Savage/Buckeroo Bonsai or Herald�Mage/Sheena/Wonder Woman, do so. But if you want us to acknowledge your persona, you've got to play by our rules. That includes finding your own publishers and essay contests. Asking me for help automatically disqualifies you.
+Judith's opinion: If you're already whining "it's too hard; it's not fair," for haven's sake, find something more enjoyable to do with your time! If you want to daydream as Herald-Mage/Doc Savage/Buckeroo Bonsai or Herald'Mage/Sheena/Wonder Woman, do so. But if you want us to acknowledge your persona, you've got to play by our rules. That includes finding your own publishers and essay contests. Asking me for help automatically disqualifies you.
 
 **News from Members:**
 
@@ -152,7 +148,7 @@ From *Stephanie Wong of Arrow's Message:* My summer address will be [Ed. note 20
 
 From *Meri Anthony* [Ed. note 2004: Out-of-date contact information withheld.]: Winds of Velgarth is still in trouble. There's a hostile takeover in sight and all the Heralds have disappeared. Please send help (or an SASE.)
 
-Anyone over eighteen is welcome to join the Live Action Fantasy Society in Austin, Texas; please contact president Greg "Tremlock" Burrow at [Ed. note 2004: Out-of-date contact information withheld.]. As yet, we've no Heralds in our group, but I'd love to see some. Correspondence welcome!!! (Penumbra explains that LAFS combines paper-and-dice gaming with live-action "in a unique mixture of costumed padded-weapons combat and fantastic shared�universe fiction." Sounds like fun, especially for you folks who don't want the restrictions of the SCA.)
+Anyone over eighteen is welcome to join the Live Action Fantasy Society in Austin, Texas; please contact president Greg "Tremlock" Burrow at [Ed. note 2004: Out-of-date contact information withheld.]. As yet, we've no Heralds in our group, but I'd love to see some. Correspondence welcome!!! (Penumbra explains that LAFS combines paper-and-dice gaming with live-action "in a unique mixture of costumed padded-weapons combat and fantastic shared'universe fiction." Sounds like fun, especially for you folks who don't want the restrictions of the SCA.)
 
 From *Vicki McElfresh* [Ed. note 2004: Out-of-date contact information withheld.]: Issue 5 of Companion's Rest is ready for mailing. Individual copies are $2; a subscription is $12. Send a SASE for guidelines or back issue prices. (Make checks out to Vicki.)
 
@@ -186,8 +182,6 @@ From M. L. Jannsen: What do Vanyel, Talia, and Kethry have in common? They all h
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -201,9 +195,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

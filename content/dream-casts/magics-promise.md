@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "dcprom.htm"
 source_site = "dragonlords.fans"
-bgcolor = "lightgrey"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "community"
 canonical_path = "/dream-casts/magics-promise/"
@@ -389,7 +385,7 @@ Mark Dacascos (2); Adrian Grenier; Keanu Reeves (2); Orlando Bloom (2); Trent Re
 </tr>
 <tr>
 <td class="align-left valign-top">Vedric Mavelan</td>
-<td class="align-left valign-top">(�bro. Ylyna) {Promise}</td>
+<td class="align-left valign-top">('bro. Ylyna) {Promise}</td>
 <td class="align-left valign-top"> </td>
 </tr>
 <tr>
@@ -407,17 +403,13 @@ Maureen O'Hara; Elizabeth McCormack</td>
 </tr>
 <tr>
 <td class="align-left valign-top">Ylyna Mavelan</td>
-<td class="align-left valign-top">(�sis. Vedric, m:Deveran, Lady of Baires) {Promise}</td>
+<td class="align-left valign-top">('sis. Vedric, m:Deveran, Lady of Baires) {Promise}</td>
 <td class="align-left valign-top"> </td>
 </tr>
 </table>
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Original list compiled by Firestorm.
 
 The information on this page is intended solely for the enjoyment of fans of the Last Herald Mage series. It is not intended to infringe in any way upon the rights held by Mercedes Lackey.
 
 <a href="http://leader.linkexchange.com/18/X513002/clicklogo" target="_top"><img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/18/X513002/showlogo?" style="width:468px; height:16px"/></a>
-
-<img alt="" loading="lazy" src="/bardrgn2.gif"/>

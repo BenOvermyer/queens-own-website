@@ -5,10 +5,6 @@ template = "page.html"
 date = 2003-03-01
 [extra]
 legacy_source = "qomar03.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2003/march/"
@@ -28,15 +24,15 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-**New release:** *Joust*, the first book in Misty�s newest fantasy series, will be released on March 4th! This time the fantasy culture is inspired by ancient Egypt. You can preorder your copy through the link at:
+**New release:** *Joust*, the first book in Misty's newest fantasy series, will be released on March 4th! This time the fantasy culture is inspired by ancient Egypt. You can preorder your copy through the link at:
 
 [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm)
 
-Remember, a portion of all sales through the Dragonlords� Bookstore goes to QO. This is how we keep our memberships free, so we really appreciate your support.
+Remember, a portion of all sales through the Dragonlords' Bookstore goes to QO. This is how we keep our memberships free, so we really appreciate your support.
 
-**Columbia disaster:** The Science Fiction Writers of America have posted a response to the Columbia disaster at [http://www.nyx.net/columbia](http://www.nyx.net/columbia). (Both Misty and Larry are SFWA members.) It�s well worth the time it takes to read.
+**Columbia disaster:** The Science Fiction Writers of America have posted a response to the Columbia disaster at [http://www.nyx.net/columbia](http://www.nyx.net/columbia). (Both Misty and Larry are SFWA members.) It's well worth the time it takes to read.
 
-**E-mail addresses:** Please keep your e-mail addresses up to date! We can�t send you the newsletter if we don�t have a current e-mail address for you. Also, if your account starts bouncing mail to one of our lists, you will be changed to digest mode. If that does not fix the problem, you will be removed from the list and have to subscribe again when the trouble with your account is fixed. (Our server is very cranky about bounced mail.)
+**E-mail addresses:** Please keep your e-mail addresses up to date! We can't send you the newsletter if we don't have a current e-mail address for you. Also, if your account starts bouncing mail to one of our lists, you will be changed to digest mode. If that does not fix the problem, you will be removed from the list and have to subscribe again when the trouble with your account is fixed. (Our server is very cranky about bounced mail.)
 
 **Mentors:** Does anyone remember the QO Mentor program? The club used to have people who volunteered to answer questions in various fields, including Star Trek fandom, the Society for Creative Anachronism (SCA), costuming ideas, filk, Role-Playing Games (RPGs), horseback riding, writing, Robin Hood, and Pern fandom. Would you like to start up this program again? If so, would you like this program to be through the QO website or a part of our Delphi forum? Are you an expert in an area? Would you like to be a QO mentor? Let us know what you think by sending e-mail to Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
@@ -46,37 +42,35 @@ Remember, a portion of all sales through the Dragonlords� Bookstore goes to QO
 
 The QO chat list is for QO members only. Non-members may subscribe to the Pending List at the same URL. If you want alerts to publications, happenings at cons, website updates, and other Misty-related news that comes up between newsletters, you need to sign up for this list.
 
-**RPG:** The next QO RPG will be held at 7 PM Pacific Standard Time, March 2nd. If you would like to attend, you can find instructions at [Role-playing instructions](/role-playing/). Also, if you can�t make this event (We realize it�s rather short notice. We�re trying to get an event in before Moonstar has her surgery-see below for more details about that.), we�re going to try something new. If you are online and feel like RPGing, use AIM to IM Danya (Her AIM ID is �Shashtah.�) If she has time, she�ll pop into the chat room with you and RP for a while. (Remember, there is no RPGing in the QO chat room unless either Danya or Moonstar is present.)
+**RPG:** The next QO RPG will be held at 7 PM Pacific Standard Time, March 2nd. If you would like to attend, you can find instructions at [Role-playing instructions](/role-playing/). Also, if you can't make this event (We realize it's rather short notice. We're trying to get an event in before Moonstar has her surgery-see below for more details about that.), we're going to try something new. If you are online and feel like RPGing, use AIM to IM Danya (Her AIM ID is 'Shashtah.') If she has time, she'll pop into the chat room with you and RP for a while. (Remember, there is no RPGing in the QO chat room unless either Danya or Moonstar is present.)
 
 **Chapter News:** Does anyone know if Arrows OnLine is still functioning? The current Dean has not been responding to our attempts to contact him.
 
 Also, is anyone in California willing to help Jaime Paz with Golden Grove? Theresa Young lives in Ohio and thinks it would be great if someone who lived in the territory covered by the chapter would take over her position as co-Editor.
 
-Heartland Arrows is starting up a new �zine, *Riding Circuit*, as well as bringing back the beloved *Tales of the Unicorn*. See the ads below for details!
+Heartland Arrows is starting up a new 'zine, *Riding Circuit*, as well as bringing back the beloved *Tales of the Unicorn*. See the ads below for details!
 
-**Old Newsletters:** A special note of thanks goes to **Herald-Mage Apprentice Ryhannon Gaia Degent (Laura Felton)** for helping to proofread pages on the QO website! If any of you have some free time and would like to help out with some of the zillion and one chores that QO generates, contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com). She�ll be happy to find something for you to do &lt;g>.
+**Old Newsletters:** A special note of thanks goes to **Herald-Mage Apprentice Ryhannon Gaia Degent (Laura Felton)** for helping to proofread pages on the QO website! If any of you have some free time and would like to help out with some of the zillion and one chores that QO generates, contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com). She'll be happy to find something for you to do &lt;g>.
 
-Speaking of old newsletters, we now have most of the newsletters from the first four years of Queen�s Own online at [Newsletter publication and submission guidance](/newsletter-guidance/). Take some time and read them! You�ll find lots of interviews with Misty, biographical and bibliographic details, ideas for things that chapters and zines did that you might want to do in your current chapter or zine and much more! I�ve been learning a lot about the history of the club by typing and coding the newsletters, and I think the information is something that all you fans will find valuable. Also, if you have copies of the newsletters that we are missing, please contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com). Our goal is to eventually have a complete set of the newsletters online.
+Speaking of old newsletters, we now have most of the newsletters from the first four years of Queen's Own online at [Newsletter publication and submission guidance](/newsletter-guidance/). Take some time and read them! You'll find lots of interviews with Misty, biographical and bibliographic details, ideas for things that chapters and zines did that you might want to do in your current chapter or zine and much more! I've been learning a lot about the history of the club by typing and coding the newsletters, and I think the information is something that all you fans will find valuable. Also, if you have copies of the newsletters that we are missing, please contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com). Our goal is to eventually have a complete set of the newsletters online.
 
 In the January 1992 newsletter, Judith wrote: "Yes, Collegium members, you **will** receive the promised certificate some day." If you are a member who did receive one of those certificates, could you please send us the scanned image as a .jpg at [shashtah@gmail.com](mailto:shashtah@gmail.com) or as a photocopy to the QO PO Box, which is listed below? We'd love to revive this tradition, but we've never seen what the certificates looked like!
 
-**Kal�enedral:** The Kal'enedral Handout ([Kal’enedral handout](/kalen-edral-handout/)) has been revised to incorporate details we found in the April 1992 newsletter. If you were already working on a Kal'enedral persona, you may submit your current level according to the old guidelines.
+**Kal'enedral:** The Kal'enedral Handout ([Kal’enedral handout](/kalen-edral-handout/)) has been revised to incorporate details we found in the April 1992 newsletter. If you were already working on a Kal'enedral persona, you may submit your current level according to the old guidelines.
 
 **Artists:** The deadline for the QO button design contest has been moved to March 15th. See details in the Heartland Arrows ad below.
 
-**Attention �zine and newsletter editors:** If you get an e-copy of your guidelines to us, we�d be happy to post them on the QO site. A couple of the QO publications already have such information pages set up with us, but we�d like to have one for each of you eventually.
+**Attention 'zine and newsletter editors:** If you get an e-copy of your guidelines to us, we'd be happy to post them on the QO site. A couple of the QO publications already have such information pages set up with us, but we'd like to have one for each of you eventually.
 
 **Jody Lee Prints:** Teri Lee of Firebird Arts & Magic writes, "All of the original run of Magic's Price have sold. There are still some copies of the Artist Proof left. There are still copies of the original runs of Magic's Pawn and Magic's Promise, as well as Artist Proofs, which will have to be special ordered." To order, visit
 
 [http://firebirdarts.com/mlackey/1jodymagic.shtml](http://firebirdarts.com/mlackey/1jodymagic.shtml)
 
-We�re going to forgo the member interview this month because of all the other stuff we�ve crammed into this newsletter. The feature will return in the near future.
+We're going to forgo the member interview this month because of all the other stuff we've crammed into this newsletter. The feature will return in the near future.
 
-Zhai'helleva and Happy Valentine�s Day,
+Zhai'helleva and Happy Valentine's Day,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <img alt="Ally by Laura Felton" class="border-5 float-left" loading="lazy" src="/qo151.jpg"/>
 
@@ -304,8 +298,6 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Ally by Laura Felton" class="border-5 float-left" loading="lazy" src="/qo149.jpg"/>
 
 ## Member News:
@@ -314,11 +306,11 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ### Local chapters:
 
-- **Arrows OnLine:** Check us out! *Arrows OnLine* is the official online chapter of Queen�s Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion�s Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey�s Fiction**, is a general discussion of Misty�s books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Tayledras Scout Nightwisp "Royal" k'Jeia, at [Tayledrasroyal@aol.com](mailto:Tayledrasroyal@aol.com).
+- **Arrows OnLine:** Check us out! *Arrows OnLine* is the official online chapter of Queen's Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion's Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey's Fiction**, is a general discussion of Misty's books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Tayledras Scout Nightwisp "Royal" k'Jeia, at [Tayledrasroyal@aol.com](mailto:Tayledrasroyal@aol.com).
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **German Heartstone:** Website: [http://www.heartstone.de](http://www.heartstone.de). Contact: [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de). A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on [http://www.heartstone.de](http://www.heartstone.de)! For more information contact [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de).
 - **Golden Grove:** Website: [Golden Grove](/golden-grove/). Contact [Theresa Young](mailto:minna@adelphia.net). Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
-- **Heartland Arrows:** Website: [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). Contact [Mary Wilson](mailto:mary@marymuse.com). This chapter is for Queen�s Own members in Iowa, Illinois, Minnesota, & Wisconsin. For information e-mail [mary@marymuse.com](mailto:mary@marymuse.com), or send a SASE to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169. Our new homepage is [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). (Formerly Illinois Arrow.)
+- **Heartland Arrows:** Website: [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). Contact [Mary Wilson](mailto:mary@marymuse.com). This chapter is for Queen's Own members in Iowa, Illinois, Minnesota, & Wisconsin. For information e-mail [mary@marymuse.com](mailto:mary@marymuse.com), or send a SASE to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169. Our new homepage is [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). (Formerly Illinois Arrow.)
 - **Herald's Waystation:** Website: [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation). Contact: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - **Sonoran Collegium:** Website: [Sonoran Collegium](/sonoran-collegium/). Contact: [Laura Felton](mailto:Mistykalia@aol.com). Our Region: THE SOUTHWEST (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome). Snail mail: Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX. E-mail: [Mistykalia@aol.com](mailto:Mistykalia@aol.com). .
 - **The Vanyel Fan Club**: Website: [Vanyel Fan Club](/vanyel-fan-club/). Contact: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). For more information, see the VFC website at [Vanyel Fan Club](/vanyel-fan-club/).
@@ -326,8 +318,8 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa. We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption. *Austral'a'in* is up for adoption. If you are interested in adopting the chapter, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
-- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
-- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists�particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I�ve had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
+- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I'm moving at the end of May. I don't want any orders to go astray.)
+- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists'particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I've had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
 
   *- Companions' Grove Volume One - $4.00 ($4.75 with color cover) - Companions' Grove Volume Two - $5.60 ($6.35 with color cover) - Companions' Grove Volume Three - $5.20 ($5.95 with color cover) - Companions' Grove Volume Four - $4.20 ($4.95 with color cover) - Companions' Grove Volume Five - $7.00 ($7.75 with color cover) - Companions' Grove Volume Six - $5.80 ($6.55 with color cover) - Companions' Grove Volume Seven - $5.20 ($5.95 with color cover) - The Danya Winterborn Saga - $5.20 - Endgame - $3.85 - Fire Eyes - $4.40 - Shards of Autumn - $3.90 - The Sum of Duty - $5.80 - Do or Dye: A Guide to Companion Camouflage - $1.25 - Cat's Cradle - $7.60*
 
@@ -341,8 +333,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable).
 - ***Riding Circuit***, a quarterly zine of Velgarth fanfiction seeks submissions. The first issue is due out in early April, and I look forward to stories of Heralds, Hawkbrothers, Bards and other people of Velgarth. Art and poetry are also welcome. Submissions may be sent by mail to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169 or e-mailed to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com). Visit our website [http://www.marymuse.com/HeartlandArrows/RC.html](http://www.marymuse.com/HeartlandArrows/RC.html) for more information.
 - ***Tales of the Unicorn*:** After a decade hiatus it's back … *Tales of the Unicorn*. Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy. Tales will be published quarterly with the first issue coming in late April. Art and poetry are also welcome. Visit our website at [http://www.marymuse.com/HeartlandArrows/TotU.html](http://www.marymuse.com/HeartlandArrows/TotU.html) for more information. Submissions may be sent to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com) or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <img alt="Companion by Laura Felton" class="border-5 float-right" loading="lazy" src="/qo150.jpg"/>
 
@@ -360,26 +350,24 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at http://www.epix.net/~ckocher/starfire.html or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ### Collegium News:
 
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in. You can find these handouts online at [Persona handouts and submission instructions](/persona-handouts/).
 
 You need a release form (online at [Release form instructions](/release-form-instructions/)) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. Do NOT include the *original* of the release form with your persona material; send it to Misty. Send a *copy* to us.
 
-- Welcome, **Herald Amber Nightseer**, Gifted with Mindspeech and very strong Farsight and Chosen by the stallion Darach. **Leila Smith** wrote about her persona and Amber�s family and friends, studied martial arts and learned to ride a horse.
-- Welcome, **Tayledras Master Skydance K�Shira** and her Bondbirds, the gyrfalcons Kai and Kree. Skydance has Mindspeech with her Bondbirds, humans and other races. **Jennifer Williams** wrote a story about Skydance and her family and friends, created a new Pelagris race, and sent drawings of her persona and Bondbirds.
+- Welcome, **Herald Amber Nightseer**, Gifted with Mindspeech and very strong Farsight and Chosen by the stallion Darach. **Leila Smith** wrote about her persona and Amber's family and friends, studied martial arts and learned to ride a horse.
+- Welcome, **Tayledras Master Skydance K'Shira** and her Bondbirds, the gyrfalcons Kai and Kree. Skydance has Mindspeech with her Bondbirds, humans and other races. **Jennifer Williams** wrote a story about Skydance and her family and friends, created a new Pelagris race, and sent drawings of her persona and Bondbirds.
 
 All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
-There are no formerly accepted members who have returned to Queen�s Own this month. (Well, there�s one, but we�re still trying to clear up the spelling of her persona�s name. We�ll announce her return in next month�s newsletter.)
+There are no formerly accepted members who have returned to Queen's Own this month. (Well, there's one, but we're still trying to clear up the spelling of her persona's name. We'll announce her return in next month's newsletter.)
 
-If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
+If you are a returning member who has recently activated your membership in Queen's Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she'll make sure you are greeted in the next newsletter.
 
 ### Lost …
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don't always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
 - Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
 - Herald Cateryna Cyray (KimChrist@Home.com)
@@ -402,15 +390,15 @@ If you know any of these folks, please have them contact Danya at [shashtah@gmai
 
 My life has been pretty hectic the last few weeks, so here is the update.
 
-Alex is doing well and loves his school! He wakes up and gets very excited on school days. He had his vision tested, and it is 20/30 in each eye. His current favorite musical artist is Michael Jackson, and he loves "Thriller," which he calls the dog song. He also loves the song "Somebody�s Watching Me" by Rockwell, with Michael Jackson singing in the chorus. Alex is always singing all the time and generally making songs up. He spends a lot more time playing than watching movies now, something that I am very happy about. Alex is growing and seems to be bigger every time I see him. He is fitting well into 4T clothes. The pants are still a little long, but I am not sure how much longer that will be true. He can count to 10, and he can look at a collection of objects and generally tell you quickly how many there are. He has his own chores, like helping put away shoes and the puppy toys. He also cleans his room every day at 7 PM. He likes reading, and we are in the middle of *Stuart Little*. He also loves hearing anything about dinosaurs. His latest favorite movie is *Aladdin*. I think that is because he and Erik went to see the new Aladdin show at California Adventure this week.
+Alex is doing well and loves his school! He wakes up and gets very excited on school days. He had his vision tested, and it is 20/30 in each eye. His current favorite musical artist is Michael Jackson, and he loves "Thriller," which he calls the dog song. He also loves the song "Somebody's Watching Me" by Rockwell, with Michael Jackson singing in the chorus. Alex is always singing all the time and generally making songs up. He spends a lot more time playing than watching movies now, something that I am very happy about. Alex is growing and seems to be bigger every time I see him. He is fitting well into 4T clothes. The pants are still a little long, but I am not sure how much longer that will be true. He can count to 10, and he can look at a collection of objects and generally tell you quickly how many there are. He has his own chores, like helping put away shoes and the puppy toys. He also cleans his room every day at 7 PM. He likes reading, and we are in the middle of *Stuart Little*. He also loves hearing anything about dinosaurs. His latest favorite movie is *Aladdin*. I think that is because he and Erik went to see the new Aladdin show at California Adventure this week.
 
-In early January my car, which I bought in October, died completely. It turns out that the place I bought it from didn�t check the spark plugs ,and I didn�t think to check it. Well, that was a stupid move. The place said they did a 100-point inspection, and I thought that would have included the spark plugs. As a result of my not checking it, one broke and dinged through my engine, ruining it. So, I needed a new engine. Luckily we had just gotten Erik�s car fixed, so we still had a running car. After two months and lots of talks with the sales manager and then the general manager, they replaced my engine with a rebuilt engine at no charge. I just got my car back this week. I got to play more with the stereo Erik had put into it for my Yule gift, and I was happy to realize it does play MP3s! >grin&lt;
+In early January my car, which I bought in October, died completely. It turns out that the place I bought it from didn't check the spark plugs ,and I didn't think to check it. Well, that was a stupid move. The place said they did a 100-point inspection, and I thought that would have included the spark plugs. As a result of my not checking it, one broke and dinged through my engine, ruining it. So, I needed a new engine. Luckily we had just gotten Erik's car fixed, so we still had a running car. After two months and lots of talks with the sales manager and then the general manager, they replaced my engine with a rebuilt engine at no charge. I just got my car back this week. I got to play more with the stereo Erik had put into it for my Yule gift, and I was happy to realize it does play MP3s! >grin&lt;
 
-I spent the last month and a half seeing doctors and orthopedic specialists about my right shoulder. It seems that my rotator cuff tore, and I didn�t realize it because I thought my shoulder still was not quite recovered and so I kept lifting and working like I normally do. As a result I tore up the tendons (which have to be stapled or screwed back to the bone), the muscles and cartilage. During the surgery they are going to remove the flexor and tighten and fix everything else. The surgery itself will be 2-3 hours, and I will not be able to move my shoulder for 6 weeks after the surgery. I will likely have to be on disability for a couple of months following the surgery. The surgery will be March 7th, and I will likely spend one night in the hospital. The surgery will be in Huntington Beach by Dr. Reynolds, a shoulder specialist.
+I spent the last month and a half seeing doctors and orthopedic specialists about my right shoulder. It seems that my rotator cuff tore, and I didn't realize it because I thought my shoulder still was not quite recovered and so I kept lifting and working like I normally do. As a result I tore up the tendons (which have to be stapled or screwed back to the bone), the muscles and cartilage. During the surgery they are going to remove the flexor and tighten and fix everything else. The surgery itself will be 2-3 hours, and I will not be able to move my shoulder for 6 weeks after the surgery. I will likely have to be on disability for a couple of months following the surgery. The surgery will be March 7th, and I will likely spend one night in the hospital. The surgery will be in Huntington Beach by Dr. Reynolds, a shoulder specialist.
 
-My desktop computer is also completely dead. All I can say is please whenever you buy a new computer do yourself a favor and call the manufacturer and get the longest warranty you can! &lt;grin> I know it has saved my butt several times. They decided it needed a new hard drive, so they replaced it with an XP hard drive. My computer had come with ME, and I thought "Great. I don�t have to upgrade." They did not send a product key. We managed to copy the product key from Erik�s computer and get it going. However, when I loaded a program onto it, then it started to restart for no apparent reason again. I called; they had me reformat it with the ME disks. Then suddenly it started again with XP, and we can�t get back into it. That is when the tech moved my case to quality control, and they chose to give me a new computer. All the stats are better with the new computer, but it doesn�t have an upgraded sound card. I don�t really mind since I don�t really listen to music on my computer.
+My desktop computer is also completely dead. All I can say is please whenever you buy a new computer do yourself a favor and call the manufacturer and get the longest warranty you can! &lt;grin> I know it has saved my butt several times. They decided it needed a new hard drive, so they replaced it with an XP hard drive. My computer had come with ME, and I thought "Great. I don't have to upgrade." They did not send a product key. We managed to copy the product key from Erik's computer and get it going. However, when I loaded a program onto it, then it started to restart for no apparent reason again. I called; they had me reformat it with the ME disks. Then suddenly it started again with XP, and we can't get back into it. That is when the tech moved my case to quality control, and they chose to give me a new computer. All the stats are better with the new computer, but it doesn't have an upgraded sound card. I don't really mind since I don't really listen to music on my computer.
 
-I put my latest class off until the 13th of March so that I could get a little recovery for my shoulder. They wanted me to start the class yesterday, and with surgery in a week that just wasn�t do able. I am into Database Management now.
+I put my latest class off until the 13th of March so that I could get a little recovery for my shoulder. They wanted me to start the class yesterday, and with surgery in a week that just wasn't do able. I am into Database Management now.
 
 That really is all the news at my house.
 
@@ -419,8 +407,6 @@ Until next time!
 Hugs-
 
 Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Personals:
 
@@ -435,11 +421,9 @@ Moonstar
   - Child care for Danya so she can code.
 
   If you can be of assistance, please contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
-- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
-- **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.
+- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen's Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
+- **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -460,9 +444,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

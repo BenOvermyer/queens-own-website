@@ -4,10 +4,6 @@ path = "tayledras-handout"
 template = "page.html"
 [extra]
 legacy_source = "qot.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/tayledras-handout/"
@@ -15,11 +11,11 @@ canonical_path = "/tayledras-handout/"
 
 ## The Helpful Handout of How to Become a Tayledras
 
-### Criteria established by Mercedes Lackey
+Criteria established by Mercedes Lackey
 
 Distributed by:
 
-### Queen's Own The Official Mercedes Lackey Fan Club
+Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -31,63 +27,170 @@ Honor applies; what you roll is what you get.
 
 Determine your Clan by rolling three six-sided dice.
 
-1. k'Chona
-2. k'Jeia
-3. k'Lissa
-4. k'Onsova
-5. k'Rika
-6. k'Sheyna
-7. k'Shira
-8. k'Saurai
-9. k'Treva
-10. k'Vaia
-11. k'Vala
-12. k'Valdemar
-13. k'Varis
-14. k'Verei
-15. k'Vesia
-16. k'Veyas
+<table>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Clan</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>3</td>
+            <td>k'Chona</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>k'Jeia</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>k'Lissa</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>k'Onsova</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>k'Rika</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>k'Sheyna</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>k'Shira</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>k'Saurai</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>k'Treva</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>k'Vaia</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>k'Vala</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>k'Valdemar</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>k'Varis</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>k'Verei</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>k'Vesia</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>k'Veyas</td>
+        </tr>
+    </tbody>
+</table>
 
 ### Position
 
 Determine your Position within the clan by rolling two six-sided dice.
 
-1. Healer Adept
-2. Adept Mage
-3. Bondbird Healer
-4. Clan Member
-5. Journeyman Mage
-6. Scout
-7. Artisan/Craftsman
-8. Master Mage
-9. Healer-Mage
-10. Musician
-11. Blacksmith
+<table>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Position</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2</td>
+            <td>Healer Adept</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Adept Mage</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Bondbird Healer</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Clan Member</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Journeyman Mage</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Scout</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Artisan/Craftsman</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Master Mage</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Healer-Mage</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Musician</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Blacksmith</td>
+        </tr>
+    </tbody>
+</table>
 
 ### Mindspeech:
 
 Determine what type of Mindspeech you have by rolling one six-sided die.
 
 <table>
-<tr>
-<td>1:</td>
-<td>With your bondbird only</td>
-</tr>
-<tr>
-<td>2-3:</td>
-<td>With your bondbird and non-human races (hertasi, dyheli, tervandi)</td>
-</tr>
-<tr>
-<td>4-5:</td>
-<td>With your bondbird and humans</td>
-</tr>
-<tr>
-<td>6:</td>
-<td>With your bondbird, humans and other races</td>
-</tr>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Mindspeech</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>With your bondbird only</td>
+        </tr>
+        <tr>
+            <td>2-3</td>
+            <td>With your bondbird and non-human races (hertasi, dyheli, tervandi)</td>
+        </tr>
+        <tr>
+            <td>4-5</td>
+            <td>With your bondbird and humans</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>With your bondbird, humans and other races</td>
+        </tr>
+    </tbody>
 </table>
-
-<img alt="" loading="lazy" src="/barhawk.gif"/>
 
 ## II. Develop a Character
 
@@ -97,13 +200,9 @@ This is a biography. Describe your persona's physical and emotional characterist
 
 Remember to roll for Clan and Position first; it is the prerequisite for developing your persona. You can't write your story without knowing who you are. (10 points)
 
-<img alt="" loading="lazy" src="/barhawk.gif"/>
-
 ## III. Develop One or More Friend or Relative Characters
 
 You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
-
-<img alt="" loading="lazy" src="/barhawk.gif"/>
 
 ## IV. Extra Point Requirements (5 points each)
 
@@ -128,11 +227,7 @@ Choose and complete the requirements for two (minimum) of the following:
 17. Learn the care and feeding of Raptors. Prepare a minimum of 3 pages.
 18. Send a story, poem, or art to one of our [zines](/fan-fiction/).
 
-<img alt="" loading="lazy" src="/barhawk.gif"/>
-
-## After you have acquired 25 points, you may become a member of the Vale!
-
-<img alt="" loading="lazy" src="/barhawk.gif"/>
+After you have acquired 25 points, you may become a member of the Vale!
 
 ## Special Notes for Tayledras
 
@@ -143,8 +238,6 @@ Choose and complete the requirements for two (minimum) of the following:
 
 If you have additional questions, check out the [Tayledras](/tayledras-faq/) FAQ.
 
-<img alt="" loading="lazy" src="/barhawk.gif"/>
-
 <a id="elder"></a>
 
 ## Advanced Rank
@@ -152,7 +245,3 @@ If you have additional questions, check out the [Tayledras](/tayledras-faq/) FAQ
 There is one advanced rank available for Tayledras personae.
 
 - Clan Elder (Write a 20-page paper about the Iroquois Confederation or about British Fairy Lore.)
-
-<img alt="" loading="lazy" src="/barhawk.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

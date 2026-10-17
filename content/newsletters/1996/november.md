@@ -5,10 +5,6 @@ template = "page.html"
 date = 1996-11-01
 [extra]
 legacy_source = "qonov96.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1996/november/"
@@ -80,7 +76,7 @@ The Herald's Companion--Typo-Dragon & Feezil seek fun-loving characters who don'
 
 Heralds' Revel--c/o H. Wegemer [Ed. note 2005: Out-of-date info withheld.]: Send e-mail to [Ed. note 2005: Out-of-date info withheld.] The first issue has been mailed, submissions are needed for the second.
 
-Outkingdom--Y'larna Finnareth c/o Joanne Thwaites [Ed. note 2005: Out-of-date info withheld.]. For all you stray residents of Valdemar. Your Summer 96 Newsletter and Zine - THE OUTKINCJDOM CHRONICLES - is ready and waiting for you. Full of recipes, poems, stories and puzzles, you can't go wrong for �4.00 in STERLING only please. Anyone sending for guidelines send SAE or 2 IRC's outside the UK. Cheques etc or submissions (Always very welcome and needed) make them out to Joanne Thwaites.
+Outkingdom--Y'larna Finnareth c/o Joanne Thwaites [Ed. note 2005: Out-of-date info withheld.]. For all you stray residents of Valdemar. Your Summer 96 Newsletter and Zine - THE OUTKINCJDOM CHRONICLES - is ready and waiting for you. Full of recipes, poems, stories and puzzles, you can't go wrong for '4.00 in STERLING only please. Anyone sending for guidelines send SAE or 2 IRC's outside the UK. Cheques etc or submissions (Always very welcome and needed) make them out to Joanne Thwaites.
 
 Pacitic Northwest Collegium - c/o Charlene Ryan [Ed. note 2005: Out-of-date info withheld.]. PNC is starting its sixth year. *Collegium Chronicles* contains art, member biographies, news of area conventions, book reviews and more. Dues are a book of 20 stamps/$6.40 a year, or 10 stamps/$3.20 a half-year.
 
@@ -116,7 +112,7 @@ Are you having fun in another club? Share the information with Queen&#96;s Own m
 
 Join The National Fantasy Fan Federation (N3F) and get in touch with hundreds of members all around the globe. Through the two newsletters that are published bi-monthly members can contact each other and share fandom information. Dues are $18 per year. Send check, money order, or simply a SASE for more info; to [Ed. note 2005: Out-of-date info withheld.]. (Make check or money order payable to William Center, not N3F.)
 
-Staten Island Science Fiction & Fantasy Association (SISF F�A) is forming in the New York/New Jersey area. For more information write to QO member Jake Adamo [Ed. note 2005: Out-of-date info withheld.].
+Staten Island Science Fiction & Fantasy Association (SISF F'A) is forming in the New York/New Jersey area. For more information write to QO member Jake Adamo [Ed. note 2005: Out-of-date info withheld.].
 
 Ellen Million Graphics has expanded! Now, six artists offer over 50 designs of fantasy stationery, cards, postcards and bookmarks! For fabulous stationery products on partly recycled paper, write. and .join the mailing list. Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.]. No SASE needed. Order... and be enchanted!
 
@@ -186,8 +182,6 @@ Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -201,9 +195,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

@@ -4,10 +4,6 @@ path = "herald-handout"
 template = "page.html"
 [extra]
 legacy_source = "qohh.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/herald-handout/"
@@ -15,13 +11,13 @@ canonical_path = "/herald-handout/"
 
 ## The Helpful Handout of How to Become a Herald
 
-### Criteria established by Mercedes Lackey
+Criteria established by Mercedes Lackey
 
-### Based on the **Heralds of Valdemar** trilogy
+Based on the **Heralds of Valdemar** trilogy
 
 Distributed by:
 
-### Queen's Own The Official Mercedes Lackey Fan Club
+Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -30,15 +26,26 @@ Distributed by:
 Determine your Gifts by rolling a six-sided die. Honor applies; what you roll is what you get. If you roll the same number twice, it means you have that Gift in double strength. Do not roll again for a different Gift.
 
 <table>
-<tr>
-<td>1-3 = one Gift</td>
-<td> </td>
-<td> </td>
-<td>4-5 = two Gifts</td>
-<td> </td>
-<td> </td>
-<td>6 = three Gifts</td>
-</tr>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Result</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1-3</td>
+            <td>one Gift</td>
+        </tr>
+        <tr>
+            <td>4-5</td>
+            <td>two Gifts</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>three Gifts</td>
+        </tr>
+    </tbody>
 </table>
 
 ### Gifts
@@ -46,18 +53,26 @@ Determine your Gifts by rolling a six-sided die. Honor applies; what you roll is
 Roll two dice, or one die twice, and add the numbers.
 
 <table>
-<tr>
-<td>2-8:</td>
-<td>Mindspeech (Also called Mindtouch, Mindreaching, Mindcalling and Farspeaking)</td>
-</tr>
-<tr>
-<td>9-11:</td>
-<td>Farsight (also called Looking and Seeing)</td>
-</tr>
-<tr>
-<td>12:</td>
-<td>Wild Talent (roll one six-sided die on the Wild Talent table below)</td>
-</tr>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Gift</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2-8:</td>
+            <td>Mindspeech (Also called Mindtouch, Mindreaching, Mindcalling and Farspeaking)</td>
+        </tr>
+        <tr>
+            <td>9-11:</td>
+            <td>Farsight (also called Looking and Seeing)</td>
+        </tr>
+        <tr>
+            <td>12:</td>
+            <td>Wild Talent (roll one six-sided die on the Wild Talent table below)</td>
+        </tr>
+    </tbody>
 </table>
 
 ### Wild Talents
@@ -65,30 +80,38 @@ Roll two dice, or one die twice, and add the numbers.
 Roll one die.
 
 <table>
-<tr>
-<td>1:</td>
-<td>Empathy</td>
-</tr>
-<tr>
-<td>2:</td>
-<td>ForeSight</td>
-</tr>
-<tr>
-<td>3:</td>
-<td>Fetching (Roll again; if you get a 6 on a d6, your Gift is Firestarting)</td>
-</tr>
-<tr>
-<td>4:</td>
-<td>Bardic</td>
-</tr>
-<tr>
-<td>5:</td>
-<td>Healing (Roll again; if you get a 6 on a d6, you have been trained in Mindhealing)</td>
-</tr>
-<tr>
-<td>6:</td>
-<td>Animal Mindspeech</td>
-</tr>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Wild Talent</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Empathy</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>ForeSight</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Fetching (Roll again; if you get a 6 on a d6, your Gift is Firestarting)</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Bardic</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Healing (Roll again; if you get a 6 on a d6, you have been trained in Mindhealing)</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Animal Mindspeech</td>
+        </tr>
+    </tbody>
 </table>
 
 Regardless of your roll, you will always have limited Mindspeech with your Companion in trance.
@@ -98,18 +121,27 @@ Regardless of your roll, you will always have limited Mindspeech with your Compa
 Determine the strength of your Gifts by rolling a six-sided die:
 
 <table>
-<tr>
-<td>1 = Low</td>
-<td> </td>
-<td> </td>
-<td>2-5 = Normal</td>
-<td> </td>
-<td> </td>
-<td>6 = Strong</td>
-</tr>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Strength</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Low</td>
+        </tr>
+        <tr>
+            <td>2-5</td>
+            <td>Normal</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Strong</td>
+        </tr>
+    </tbody>
 </table>
-
-<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
 
 ## II. Develop a Character
 
@@ -119,13 +151,9 @@ This is a biography. Describe your persona's physical and emotional characterist
 
 Remember, to write about your persona before s/he became a Herald and his/her Gifts manifested. A Chosen must learn to cope with his/her Gifts, not have his/her life built around them. Most Gifts manifest themselves around puberty; they are not evident at birth. (10 points)
 
-<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
-
 ## III. Develop One or More Friend or Relative Characters
 
 You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
-
-<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
 
 ## IV. Extra Point Requirements (5 points each)
 
@@ -150,11 +178,7 @@ Choose and complete the requirements for two (minimum) of the following:
 17. Learn the care and feeding of horses; write an essay of at least 3 pages.
 18. Send a story, poem, or art to one of our [zines](/fan-fiction/).
 
-<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
-
-## After you have acquired 25 points, you may be Chosen.
-
-<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
+After you have acquired 25 points, you may be Chosen.
 
 ## Special Notes for Heralds
 
@@ -166,8 +190,6 @@ Choose and complete the requirements for two (minimum) of the following:
 - For Helpful Hints, click [here](/persona-handouts/#help).
 
 If you have additional questions, check out [The Heralds of Valdemar](/heralds-faq/) FAQ.
-
-<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
 
 ## Advanced Rank
 
@@ -193,9 +215,3 @@ To attain a specialty as a Herald:
 ### Herald-Mage
 
 You may work for [Herald-Mage](/herald-mage-handout/) status once you've completed your Herald requirements.
-
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml2.gif"/></a>
-
-<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

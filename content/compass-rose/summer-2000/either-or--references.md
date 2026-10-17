@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "crbi1.htm"
 source_site = "dragonlords.fans"
-bgcolor = "blue"
-text = "#000000"
-link = "#0000ff"
-vlink = "#FF0000"
 historical = true
 topic = "publications"
 canonical_path = "/compass-rose/summer-2000/either-or/references/"
@@ -40,7 +36,7 @@ canonical_path = "/compass-rose/summer-2000/either-or/references/"
 
 <a id="kingston"></a> Kingston, Tim. 1997. "Bi Bye or Bi Year?" [http://www.bi-bye.html](http://www.bi-bye.html). Accessed 29 March 1997.
 
-<a id="leland"></a> Leland, John. 1995: "Bisexuality is the wild card of our erotic life. Now it�s coming out in the open--in pop culture, in cyberspace and on campus. But can you really have it both ways?" *Newsweek* 17:44-50.
+<a id="leland"></a> Leland, John. 1995: "Bisexuality is the wild card of our erotic life. Now it's coming out in the open--in pop culture, in cyberspace and on campus. But can you really have it both ways?" *Newsweek* 17:44-50.
 
 <a id="newitz"></a> Newitz, Annalee and Jillian Sandell. 1994. "Bisexuality and how to use it: Toward Coalitional Identity Politics." *Bad Subjects* 16. [http://english-www.hss.cmu.edu/bs/16/sandell.html](http://english-www.hss.cmu.edu/bs/16/sandell.html). Accessed 26 August 2000.
 

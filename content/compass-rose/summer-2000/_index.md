@@ -6,10 +6,6 @@ weight = 24
 [extra]
 legacy_source = "crtoc.htm"
 source_site = "dragonlords.fans"
-bgcolor = "blue"
-text = "#000000"
-link = "#0000ff"
-vlink = "#FF0000"
 historical = true
 topic = "publications"
 canonical_path = "/compass-rose/summer-2000/"

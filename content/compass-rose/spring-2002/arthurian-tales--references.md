@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "cr2tat1.htm"
 source_site = "dragonlords.fans"
-bgcolor = "blue"
-text = "#000000"
-link = "#0000ff"
-vlink = "#FF0000"
 historical = true
 topic = "publications"
 canonical_path = "/compass-rose/spring-2002/arthurian-tales/references/"

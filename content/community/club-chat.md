@@ -4,21 +4,11 @@ path = "club-chat"
 template = "page.html"
 [extra]
 legacy_source = "qochat.htm"
-bgcolor = "blue"
-text = "white"
-link = "aqua"
-vlink = "silver"
 historical = true
 topic = "community"
 canonical_path = "/club-chat/"
 revised = "7/23/08"
 +++
-
-## Queen's Own
-
-## Chat List
-
-<img alt="" loading="lazy" src="/pegasus.gif"/>
 
 Members of Queen's Own are invited to join this listserv to receive information that might come up between newsletters, including announcements of new memberships. Greet new members, ask questions about Queen's Own, and keep abreast of the latest Misty news!
 
@@ -194,10 +184,6 @@ Please note, that if your e-mail address is not working, then we have no way to 
 
 We will wait for a year for a rewrite. After a year, we will assume that life has interfered with your ability to complete your persona submission, and the unapproved persona submission will be moved to "deep storage". To reactivate your submission, all you need to do is contact us at [shashtah@gmail.com](mailto:shashtah@gmail.com?subject=Personarevival). Your persona will be returned to this list, and the submission process will continue from wherever we left off.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Removal Instructions for the Queen's Own Chat List
 
 You may unsubscribe from the general information list for each list. If you have trouble, message Herald-Mage Adept Danya Winterborn at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she will handle your request as soon as possible.
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

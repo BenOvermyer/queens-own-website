@@ -5,10 +5,6 @@ template = "page.html"
 date = 1991-09-01
 [extra]
 legacy_source = "qosep91.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1991/september/"
@@ -305,8 +301,6 @@ Wind to thy Wings--Judith
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -320,9 +314,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

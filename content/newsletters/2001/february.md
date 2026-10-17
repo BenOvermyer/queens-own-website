@@ -5,10 +5,6 @@ template = "page.html"
 date = 2001-02-01
 [extra]
 legacy_source = "qofeb01.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2001/february/"
@@ -40,8 +36,6 @@ Zhai'helleva,
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 1. **When did you join Queen's Own?**
 
   1992, I think.
@@ -72,8 +66,6 @@ Zhai'helleva,
 10. **What other projects besides Queen's Own occupy your time?**
 
   I use to be an avid contributor to Karen Bertke's *The Herald's Companion* and Patricia Roe's *The Unicorn Vale*… as well as the past fanzine called *Betes Noires* dedicated to vampires, werewolves and other creatures of fantasy and horror … You could also find some of my work in past issues of *Companions' Grove* … I always look for others that I enjoy sending my work to.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -121,7 +113,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **GAME INVASION 2001.** E-mail: [info@gameinvasion.net](mailto:info@gameinvasion.net). Website: [http://www.gameinvasion.net](http://www.gameinvasion.net). Address: University of North Florida, Bldg. 43, Jacksonville, Florida. Dates: 2/24/01 - 2/25/01.
 
-**LFN FLORIDA.** E-mail: [oversight_1@hotmail.com](mailto:oversight_1@hotmail.com). Website: [http://www.oversight.org](http://www.oversight.org). Address: Hard Rock Caf�, Orlando, Florida. Dates: 2/17/01.
+**LFN FLORIDA.** E-mail: [oversight_1@hotmail.com](mailto:oversight_1@hotmail.com). Website: [http://www.oversight.org](http://www.oversight.org). Address: Hard Rock Caf', Orlando, Florida. Dates: 2/17/01.
 
 ### Georgia
 
@@ -231,8 +223,6 @@ CON OF THE NORTH 2001. E-mail: [info@conofthenorth.org](mailto:info@conofthenort
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Girl and Man by Jan Tallevast" class="border-3" loading="lazy" src="/qo59.jpg"/>
 
 ## Member News:
@@ -258,8 +248,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at the above address (Please include a SASE when requesting information via snail mail.). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -305,8 +293,6 @@ Zhai'helleva,
 
 Danya
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Fan Messages:
 
 The newsletter is routinely posted to the Net. If you are concerned about your address falling into unfriendly hands, don't place a fan message! You may answer fan messages without ever placing one yourself. The editors reserve the right to edit--and shorten!--all messages. (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
@@ -319,14 +305,10 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - **To All, From Cassandra Vuksa**: Heyla! I am looking for people to co-write stories with me for fun and profit! (Okay, okay, not profit.) I have three or four personas - depending if the Bard's been acknowledged yet or not - and I think it would be fun to have some stories written with other personas in them. All I ask other than that is that a) you're tolerant of my perfectionism &#42;grins&#42;, and b) that I can publish it in Austral'a'in afterwards. Just think of all the points toward your persona (if it's not done yet)! If you like the sound of this but aren't much of a writer yourself, I am happy to write it and treat your persona with the love and respect it deserves. You would, of course, have creative control over what it got up to regardless of if I wrote it by myself or not. Anyway, my Valdemar personas are Herald Jaala Neroli, Healer Cinnamon Ava, and Bard Tiernan Ava - yes, they're related. (My Tayledras one is Healer-Adept Winterfire k'Tayle, but I am a bit more reluctant to share her than the other three, because she was my first.) You can contact me at [garou@netspeed.com.au](mailto:garou@netspeed.com.au). Wind to thy Wings, Cassandra Vuksa.
 - **To All, From Jan**: Wanted: anyone interested in helping form a Chapter of Queen's Own in the Texas/OK or surrounding states. It would be an online chapter with an e-mail nonfiction newsletter and e-submissions for a hardcopy zine. But we could all meet at a close Rennie Faire if everyone wanted to. I do not have a name for the chapter yet and will accept suggestions on what it should be names. If only one is interested, please contact me, Jan, at [heraldauralynn@hotmail.com](mailto:heraldauralynn@hotmail.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -347,9 +329,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

@@ -4,10 +4,6 @@ path = "persona-directory"
 template = "page.html"
 [extra]
 legacy_source = "qolist.htm"
-bgcolor = "blue"
-text = "white"
-link = "aqua"
-vlink = "silver"
 historical = true
 topic = "personas"
 canonical_path = "/persona-directory/"
@@ -18,26 +14,21 @@ revised = "10/17/26"
 
 ## Persona List
 
-<img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
+These are the approved personae for Queen's Own. If you have an approved persona who is not listed here, please contact the club.
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" class="float-left" loading="lazy" src="/ml4.gif"/></a>These are the approved personae for Queen's Own. If you have an approved persona who is not listed here, please contact the club.
+†: In memoriam; the member is deceased.
 
-If a name is not linked and does not have an asterisk (&#42;), then we do not know how to reach that person. If you know him/her, please have him/her contact us with a current address!
-
-&#42;=e-mail withheld by request or unavailable. †=In memoriam; the member is deceased.
-
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" class="float-right" loading="lazy" src="/ml5.gif"/></a>Each person may only have one persona on this list at a time. Only the first-approved persona will be recognized in the newsletter. (These rules exist simply for our record-keeping sanity. You are perfectly free to develop as many personae as you please.)
+Each person may only have one persona on this list at a time. Only the first-approved persona will be recognized in the newsletter. (These rules exist simply for our record-keeping sanity. You are perfectly free to develop as many personae as you please.)
 
 Dates following the names indicate the date of publication of the newsletter in which the persona was recognized. Herald-Mages have multiple dates, indicating their date of acceptance as a Herald and the date they earned each of their Herald-Mage ranks.
 
 If you have any of the [newsletters](/newsletter-guidance/) that we are missing, please let us know!
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml7.gif"/></a>
-
 ## [Heralds](/herald-handout/)
 
 Note: Some of the Gift details do not match the current handout because the handout has developed over the course of time. The Gifts that are listed are those that appeared in the newsletter when the persona was approved.
 
+<!-- persona-list:heralds:start -->
 1. Herald Aasynia Mentires (November/December 1993) (Mindspeech, Farsight)
 2. Herald Acira Noran ([May 1997](/newsletters/1997/may/)) (Mindspeech, Fetching)
 3. Herald Adalla Rourke ([October/November 1992](/newsletters/1992/october/)) (Mindspeech, Foresight)
@@ -527,13 +518,13 @@ Note: Some of the Gift details do not match the current handout because the hand
 487. Herald Zinah Starbreaker (June 1994) (Triple Mindspeech)
 488. Herald Zora Evansdotter ([October 1994](/newsletters/1994/october/)) (Mindspeech, Double-strength Fetching)
 489. Herald &#42;&#42;&#42; (&#42;&#42;&#42;) ([March 1990](/newsletters/1990/march/)) (&#42;&#42;&#42;)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:heralds:end -->
 
 ## [Herald Mages](/herald-mage-handout/)
 
 Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, even though they do not maintain personae in Queen's Own.
 
+<!-- persona-list:herald-mages:start -->
 1. Herald-Mage Adept Danya Winterborn ([March 1996](/newsletters/1996/march/); [July 1996](/newsletters/1996/july/); [November 1998](/newsletters/1998/november/)(unavailable in archive); [June 2000](/newsletters/2000/june/); [April 2002](/newsletters/2002/april/)) (Mindspeech, Fetching, Empathy, Mage Gift)
 2. Herald-Mage Hedge Wizard Jensen Redstart (June 1995; [June 2000](/newsletters/2000/june/)) (Mindspeech, Double-strength Fetching, Mage Gift)
 3. Herald-Mage Apprentice Kadia Linder (November/December 1995) (Mindspeech, Fetching, Firestarting, Mage Gift)
@@ -543,11 +534,11 @@ Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, 
 7. &#42;Herald-Mage Hedge Wizard Rhiannon Ardrin of Shadowspire ([October/November 1992](/newsletters/1992/october/); 1992) (Mindspeech, Animal Mindspeech, Foresight, Mage Gift) (Persona deceased.)
 8. Herald-Mage Apprentice Ryhannon Gaia Degent ([July 2000](/newsletters/2000/july/); [May 2001](/newsletters/2001/may/)) (Double-strength Mindspeech, Farsight, Mage Gift)
 9. Herald Valana Dorrandale ([February 2003](/newsletters/2003/february/); [September 2003](/newsletters/2003/september/)) (Mindspeech, Empathy, Farsight, Mage Gift)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:herald-mages:end -->
 
 ## [Bards](/bard-handout/)
 
+<!-- persona-list:bards:start -->
 1. Bard Elarose ([September 2003](/newsletters/2003/september/)) (Bardic Gift, Creativity, Talent)
 2. Bard Bram Gader (September 1994) (Talent, Creativity)
 3. Bard Brihanna Rhella Mystmoore ([November 1996](/newsletters/1996/november/)) (Bardic Gift, Creativity)
@@ -578,32 +569,33 @@ Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, 
 28. Bard Zenith (June 1994)
 29. Bard Zhelhala Kharhal ([November 1991](/newsletters/1991/november/)) (Creativity, Talent)
 30. Bard &#42;&#42;&#42; ([September 1990](/newsletters/1990/september/)) (Bardic Gift, Creativity)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:bards:end -->
 
 ## [Blues](/blues-handout/)
 
+<!-- persona-list:blues:start -->
 1. Devyn Aeryn ([March 2001](/newsletters/2001/march/))
 2. Master Scholar James Archer (Fall 2026)
 3. Blue Rennik Wexan (June-July 2021)
 4. Master Scholar Sheine Notch (November 2020)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:blues:end -->
 
 ## [Guards](/military-handout/)
 
+<!-- persona-list:guards:start -->
 1. Guardsman Adoni Kitanomanjaro ([December 1992](/newsletters/1992/december/))
 2. Guardsman Faolan Ixran ([March 2002](/newsletters/2002/march/))
 3. Guardsman Vena LaRue ([October 2002](/newsletters/2002/october/))
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:guards:end -->
 
 ## [Guild Members](/guild-handout/)
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:guild-members:start -->
+<!-- persona-list:guild-members:end -->
 
 ## [Healers](/healer-handout/)
 
+<!-- persona-list:healers:start -->
 1. Healer Althaia ([August 1996](/newsletters/1996/august/)) (Very Strong Physical Healing)
 2. Healer Andriel ([May 2004](/newsletters/2004/may/)) (Automatic Membership; Details Pending)
 3. Healer Brandyn Pendar ([May 1997](/newsletters/1997/may/)) (Physical Healing)
@@ -626,33 +618,34 @@ Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, 
 20. Healer Tam Windsorm ([March 1991](/newsletters/1991/march/)) (Empathy, Mindhealing, Speedhealing)
 21. Healer Tamesin na Coille ([May 1992](/newsletters/1992/may/)) (Empathy, rudimentary Animal Mindspeech)
 22. Healer Veraina Cellaya ([December 1991](/newsletters/1991/december/)) (Trauma Healing)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:healers:end -->
 
 ## [Mercenaries](/military-handout/)
 
+<!-- persona-list:mercenaries:start -->
 1. Mercenary Ma'ren'kar shena Vuysher'edras ([January 1996](/newsletters/1996/january/))
 2. Mercenary Owen Penandron ([January 1996](/newsletters/1996/january/))
 3. Shin'a'in Scout/Captain Stephania shena Pretera'sedrin (Clan of the Shadow Cats) ([September 1990](/newsletters/1990/september/); [November 1991](/newsletters/1991/november/)) (also Shin'a'in)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:mercenaries:end -->
 
 ## [Northern Barbarians](/northern-barbarian-handout/)
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:northern-barbarians:start -->
+<!-- persona-list:northern-barbarians:end -->
 
 ## [Priests/Priestesses](/priest-and-priestess-handout/)
 
+<!-- persona-list:priests-priestesses:start -->
 1. Hedge Priestess of Vykandis Avra Steibarn (January 2018)
 2. Priest Pavil Redfield (June-July 2021)
 3. Apprentice Priestess Scarlet (August 2021)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:priests-priestesses:end -->
 
 ## [Shin'a'in](/shina-in-handout/)
 
 Note: Some details do not match the current handout because the characters were developed and approved prior to the creation of the handout.
 
+<!-- persona-list:shin-a-in:start -->
 1. Shin'a'in Aarayen shena Tek'lyren ([September 1997](/newsletters/1997/september/)) (Chief of Wolf Clan; Battlesteed: Skyfire)
 2. Shin'a'in Herald Derai Jekanah shena Vyusher'edras ([February 1991](/newsletters/1991/february/)) (Mindspeech) (Also a Herald)
 3. Shin'a'in Herald Eanaree shena Pretora ([September 1991](/newsletters/1991/september/)) (Mindspeech, Firestarting) (Also a Herald)
@@ -665,26 +658,27 @@ Note: Some details do not match the current handout because the characters were 
 10. Shin'a'in Warrior Raven shena Rotale'sedrin ([November 1991](/newsletters/1991/november/))
 11. Shin'a'in Scout/Captain Stephania shena Pretera'sedrin (Clan of the Shadow Cats) ([September 1990](/newsletters/1990/september/); [November 1991](/newsletters/1991/november/)) (also Mercenary) Foresight) (Also a Herald)
 12. Shin'a'in Herald Thyria Lyrrithernnas shena Pretera'sedrin ([February 1991](/newsletters/1991/february/)) (Mindspeech, Fetching, Firestarting) (Also a Herald)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:shin-a-in:end -->
 
 ## [Kal'enedral](/shina-in-handout/)
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:kal-enedral:start -->
+<!-- persona-list:kal-enedral:end -->
 
 ## [Sorcerers/Sorceresses](/sorcerer-handout/)
 
+<!-- persona-list:sorcerers-sorceresses:start -->
 1. White Winds Sorceress Cime Shadow Weaver ([June 1996](/newsletters/1996/june/)) (Earth Magic, Sensual Power)
 2. White Winds Sorceress Herald Coranna (Companion: Armara) ([May 1991](/newsletters/1991/may/)) (Mindspeech, Animal Mindspeech) (Also a Herald)
 3. White Winds Sorceress Rea Wildfire ([January 1997](/newsletters/1997/january/)) (Thoughtsensing, Elemental Magic, Healing Magic)
 4. White Winds Sorceress Taylu (Gryphon: Brennon) ([October 1990](/newsletters/1990/october/))
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:sorcerers-sorceresses:end -->
 
 ## [Tayledras](/tayledras-handout/)
 
 Note: Some of these names and details don't quite match the patterns on the [Tayledras Handout](/tayledras-handout/) because the personae were approved before the Handout developed into its current form.
 
+<!-- persona-list:tayledras:start -->
 1. Healer Adept Amberfire k'Treva ([October 2002](/newsletters/2002/october/)) (Bondbird: Hai'zael; Snow Eagle)
 2. Aurora Windflower Thundering k'Treva ([Queen’s Own newsletter — December 1996](/newsletters/1996/december/)[December 1996](/newsletters/1996/december/)) (Bondbird: Camori)
 3. Mage Autumnwynd k'Vaia ([October 1997](/newsletters/1997/october/)) (Bondbird: K'tari)
@@ -716,26 +710,21 @@ Note: Some of these names and details don't quite match the patterns on the [Tay
 29. Scout Starsong k'Sheyna ([January 1996](/newsletters/1996/january/)) (Bondbird: Skkye)
 30. Healer-Mage Starstorm k'Valdemar ([October 2002](/newsletters/2002/october/)) (Bondbird: Kou; eagle-owl) (Mindspeech with bondbirds and all non-human races)
 31. Mage Stormfire ([November/December 1994](/newsletters/1994/november/)) (Bondbird: Tylen)
-32. Healer Mage Swanstar k�Vaia (November 2009) (Bondbird: Avala) (Mindspeech wtih all non-human races)
+32. Healer Mage Swanstar k'Vaia (November 2009) (Bondbird: Avala) (Mindspeech wtih all non-human races)
 33. Healer Adept ThunderEagle k'Chona ([May 1995](/newsletters/1995/may/))
-34. Journeyman Mage Windreed k'Verei (November 2009) (Bondbird: Ja�rek; hawk eagle) (Mindspeech with bondbird, humans and non-human races)
+34. Journeyman Mage Windreed k'Verei (November 2009) (Bondbird: Ja'rek; hawk eagle) (Mindspeech with bondbird, humans and non-human races)
 35. Healer Adept Winterfire k'Tayle (November/December 1995) (Bondbird: Leshy'a; Boobook Owl)
 36. Healer Adept Winterstar ([March 1995](/newsletters/1995/march/))
 37. Healer Adept Willowstar k'Vala ([March 2002](/newsletters/2002/march/)) (Bondbird: Ameri; Sooty Owl) (Mindspeech with his Bondbird, Humans and Other Races)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:tayledras:end -->
 
 ## Other
 
 This list is for strange ranks that were approved in the past that we don't have handouts for.
 
+<!-- persona-list:other:start -->
 1. Gwyneth Myrna Firefeather ([February 1993](/newsletters/1993/february/)) (Nomadic Trader/Merchant)
 2. &#42;Shadow Herald Gabrin ([April 1990](/newsletters/1990/april/)) (No Gifts Listed)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:other:end -->
 
 [Click here](/npc-directory/) to see the list of additional personae that have been created by existing Queen's Own members.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "vfcnews.htm"
 source_site = "dragonlords.fans"
-bgcolor = "white"
-text = "blue"
-link = "darkblue"
-vlink = "blue"
 historical = true
 topic = "community"
 canonical_path = "/vanyel-fan-club/newsletter/"
@@ -23,15 +19,15 @@ Each issue features:
 
 - **Letter from the editors**
 - **Latest news from Misty**
-- **Articles of Interest:** Do you have a favorite topic that relates to Misty�s work and Vanyel�s time? Have you come across some real-world information that you think should be shared with other members of the Vanyel Fan Club? Articles should be under 1000 words and include a reference listing for readers to follow up on the story.
-- **Fan Fiction:** Characters should stay in the present day time and use an alternate time-line in which Kris doesn't die but staggers into camp after Talia�s rescue. Northern Barbarians must use a time-line after the founding of k'Valdemar. Priests and Priestesses must stick to the portion of the time-line after Solaris has become the Son of the Sun. For complete fan fiction rules, please see the [Queen's Own](/) website. Every time you write a story based on Misty's stories, you need to file a [release](/mercedes-lackey-release-form/) form with High Flight.
-- **Fan Art:** Accepting fan art from all of Misty�s works, not just *The Last Herald-Mage (LHM)*. No release form required.
+- **Articles of Interest:** Do you have a favorite topic that relates to Misty's work and Vanyel's time? Have you come across some real-world information that you think should be shared with other members of the Vanyel Fan Club? Articles should be under 1000 words and include a reference listing for readers to follow up on the story.
+- **Fan Fiction:** Characters should stay in the present day time and use an alternate time-line in which Kris doesn't die but staggers into camp after Talia's rescue. Northern Barbarians must use a time-line after the founding of k'Valdemar. Priests and Priestesses must stick to the portion of the time-line after Solaris has become the Son of the Sun. For complete fan fiction rules, please see the [Queen's Own](/) website. Every time you write a story based on Misty's stories, you need to file a [release](/mercedes-lackey-release-form/) form with High Flight.
+- **Fan Art:** Accepting fan art from all of Misty's works, not just *The Last Herald-Mage (LHM)*. No release form required.
 - **Poetry:** Accepting all poems that relate to Misty, *LHM* and life in general. Poems should be under 1 page in length. No relase form required for poems.
-- **Recipes:** Do you have original recipes or recipes you�ve adapted for use at home? Send us your favorites. Please, no reprints of recipes found in magazines, on-line or in books.
+- **Recipes:** Do you have original recipes or recipes you've adapted for use at home? Send us your favorites. Please, no reprints of recipes found in magazines, on-line or in books.
 - **Member news:** Do you have good news to share? Will also accept interesting stories from members that relate to the club or Misty.
-- **Reader�s Corner:** Do you have any good books you think Misty fans would enjoy. Submit a short review (100 words or less). Please include the book�s title, author�s full name, and publishing company.
-- **Writer�s Corner:** Do you have any words of wisdom or book recommendations for aspiring writers? Short essays of 500 words or less and reading lists will be accepted. Please, no reprints from magazines, webzine articles or books.
-- **Convention, Fair and Festival Info:** Convention, fair and festival listings for all states/countries. Do you have a convention report you�d like to submit? Please keep reports to 500 words or less and include a link to the events website, if one is available.
+- **Reader's Corner:** Do you have any good books you think Misty fans would enjoy. Submit a short review (100 words or less). Please include the book's title, author's full name, and publishing company.
+- **Writer's Corner:** Do you have any words of wisdom or book recommendations for aspiring writers? Short essays of 500 words or less and reading lists will be accepted. Please, no reprints from magazines, webzine articles or books.
+- **Convention, Fair and Festival Info:** Convention, fair and festival listings for all states/countries. Do you have a convention report you'd like to submit? Please keep reports to 500 words or less and include a link to the events website, if one is available.
 
 ### Submission Instructions
 
@@ -62,7 +58,3 @@ For more information, please contact:
 Advisor [Herald-Mage Adept Danya](mailto:Shashtah@gmail.com)
 
 Zhai'helleva, The Valdemaran Herald Staff and Contributors
-
-<img alt="" loading="lazy" src="/rainbar.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page](/vanyel-fan-club/)

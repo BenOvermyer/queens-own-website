@@ -5,10 +5,6 @@ template = "page.html"
 date = 1999-12-01
 [extra]
 legacy_source = "qodec99.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1999/december/"
@@ -32,9 +28,9 @@ Mercedes Lackey Fan Club
 
 ## The Official Mercedes Lackey Fan Club
 
-<img alt="Snowflake" class="float-left" loading="lazy" src="/qo184.jpg"/><img alt="Snowflake Border" class="float-right" loading="lazy" src="/qo185.jpg"/>Let's start this issue out with a few explanations. I know a lot of you must be wondering why the newsletter hasn't been received since September's issue. This was due to my com�puter crashing and refusing to work for over two months. Let me tell you, I was pretty miffed about it. I just bought this computer before I started Queen's Own (Sept. 1998). Af�ter many a hard and arduous journey, I have arrived at the decision that by next February I am getting a Mac; I am tired of the PC game. To all of you who have PC computers that are happy, I wish I had had your luck.
+<img alt="Snowflake" class="float-left" loading="lazy" src="/qo184.jpg"/><img alt="Snowflake Border" class="float-right" loading="lazy" src="/qo185.jpg"/>Let's start this issue out with a few explanations. I know a lot of you must be wondering why the newsletter hasn't been received since September's issue. This was due to my com'puter crashing and refusing to work for over two months. Let me tell you, I was pretty miffed about it. I just bought this computer before I started Queen's Own (Sept. 1998). Af'ter many a hard and arduous journey, I have arrived at the decision that by next February I am getting a Mac; I am tired of the PC game. To all of you who have PC computers that are happy, I wish I had had your luck.
 
-With a new year and a new millenium starting, I had hoped to have a different look for the newsletter. Something new to take the club into the next century. Well, I've not been able to accomplish much in that area, but you will notice that, the, newsletter, now has COLOR!!! So, now anyone who sends me art�work that has color in X, will be included in the newsletter. Personally, I like color!
+With a new year and a new millenium starting, I had hoped to have a different look for the newsletter. Something new to take the club into the next century. Well, I've not been able to accomplish much in that area, but you will notice that, the, newsletter, now has COLOR!!! So, now anyone who sends me art'work that has color in X, will be included in the newsletter. Personally, I like color!
 
 As to the competition for the new Queen's Own logo, I've only had three entrants. Herald Alora and Ellen Million are co-winners. You see Herald Alora's work on the new title header and Ellen's work on the envelope and as a water mark on every page. The third entrant submitted wonderful artwork. I'm just sorry I couldn't use it, but it is shown on page 3 of this newsletter. Herald Alora and Ellen each receive a one-year subscription, while Aubrey Smith receives a half-year subscription. Thanks, to all who submitted!
 
@@ -48,7 +44,7 @@ Thanks to everyone who sent greetings and holiday cards. Everyone here loved the
 
 Happy Holidays and Y2K, too!
 
-Firebird Arts and Music carries all of Misty�s books and lots of other merchandise. From Babylon 5 soundtracks to Larry�s art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds & Shin�a�in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at [http://firebirdarts.com](http://firebirdarts.com). If you want a "real" catalog, send $3 to Firebird Arts & Music, PO Box 3068, Portland OR 97294-3268. To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
+Firebird Arts and Music carries all of Misty's books and lots of other merchandise. From Babylon 5 soundtracks to Larry's art prints. From the music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds & Shin'a'in. From Oneida Indian Nation T-shirts to Celtic design gift wrap. Visit their website at [http://firebirdarts.com](http://firebirdarts.com). If you want a "real" catalog, send $3 to Firebird Arts & Music, PO Box 3068, Portland OR 97294-3268. To place an order, call 1-800-752-0494. For more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
 
 Also new from Firebird is an e-mail list for Misty fans, to keep you up-to-date on the latest news. If you would like to be included, send your email address to Teri: [firebird@firebirdarts.com](mailto:firebird@firebirdarts.com).
 
@@ -56,7 +52,7 @@ For news about TEMPEST, visit their web page [http://darkmoon.simplenet.com/temp
 
 [Ed. note 2002: Old text replaced with: "For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652. Make checks payable to "Linda Malcor" in US funds only. ".]
 
-**Flights of Fantasy** [Ed. note 2002: Old contact information withheld.] specializes in new and used science fiction & fantasy, mystery & suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she�ll do her best for you! For orders outside the 518 area code, call [Ed. note 2002: Old contact information withheld.]. Webpage [http://www.fof.net](http://www.fof.net), E-mail: [fof@albany.net](mailto:fof@albany.net). Flights of Fantasy accepts orders from inmates.
+**Flights of Fantasy** [Ed. note 2002: Old contact information withheld.] specializes in new and used science fiction & fantasy, mystery & suspense, romance books, role-playing, tabletop gaming and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she'll do her best for you! For orders outside the 518 area code, call [Ed. note 2002: Old contact information withheld.]. Webpage [http://www.fof.net](http://www.fof.net), E-mail: [fof@albany.net](mailto:fof@albany.net). Flights of Fantasy accepts orders from inmates.
 
 *Sink or Swim* is a helpful guide for aspiring editors, based on the experiences of past and present editors. It costs $1.50 for a copy. Checks should be made payable to Aurora Nelson. Email: [temarrea@Yahoo.com](mailto:temarrea@Yahoo.com), or write Sink or Swim C/O Aurora Nelson [Ed. Note 2002: Address withheld.].
 
@@ -91,11 +87,11 @@ This is the runner up. Aubrey Smith did this wonderful piece of work. Many thank
 
 ## LOCAL CHAPTERS
 
-- **Arrows OnLine** - To find Arrows OnLine on America OnLine, follow these directions: Keyword: books. Click on Chat & Messages. The next window you see will have a scroll down box on the left side, scroll down until you see MERCEDES LACKEY. Once on the page, go to the listbox for MESSAGE BOARDS. Select: MERCEDES LACKEY FANDOM and there you are! For an Orientation Kit, meeting info, information on the chapter Fanzine and more, email [Ed. Note 2002: Addresses withheld] and they�ll be there to help.
-- **Austral�a�in**, C/O Cassandra Vuksa PO Box 1850, Woden ACT 2606 AUSTRALIA . You get eight issues a year, of eight pages each. The costs are, for Australians, $8 a year or 8 x 45 cent stamps. For people overseas $12 Australian or 15 IRC�s.
-- **Companion�s Choice:** Emily Watts 3619 Mary Circle Ames IA 50014-3501.
-- **The Herald�s Companion** - Herald�s Companion C/O Karen Bertke 5694 Scarborough Drive Cincinnati OH 45238.
-- **Pacific Northwest Collegium** - C/O Laura Cameron/Moonglade K�Shena [Ed. Note 2002: Address withheld.]
+- **Arrows OnLine** - To find Arrows OnLine on America OnLine, follow these directions: Keyword: books. Click on Chat & Messages. The next window you see will have a scroll down box on the left side, scroll down until you see MERCEDES LACKEY. Once on the page, go to the listbox for MESSAGE BOARDS. Select: MERCEDES LACKEY FANDOM and there you are! For an Orientation Kit, meeting info, information on the chapter Fanzine and more, email [Ed. Note 2002: Addresses withheld] and they'll be there to help.
+- **Austral'a'in**, C/O Cassandra Vuksa PO Box 1850, Woden ACT 2606 AUSTRALIA . You get eight issues a year, of eight pages each. The costs are, for Australians, $8 a year or 8 x 45 cent stamps. For people overseas $12 Australian or 15 IRC's.
+- **Companion's Choice:** Emily Watts 3619 Mary Circle Ames IA 50014-3501.
+- **The Herald's Companion** - Herald's Companion C/O Karen Bertke 5694 Scarborough Drive Cincinnati OH 45238.
+- **Pacific Northwest Collegium** - C/O Laura Cameron/Moonglade K'Shena [Ed. Note 2002: Address withheld.]
 - **The Vales** is a yearly zine. Kendra Renaud,[Ed. Note 2002: Address withheld; no longer published.]
 - **On The Wing** costs $2.00, and is nearly 20 pages in length. This zine is completely dedicated to the Tayledras. I am also accepting submissions, stories, art, poetry, etc. Please contact me at: Kendra Renaud, [Ed. Note 2002: Address withheld; no longer published.]
 - **Golden Grove** , the CA Chapter QO newsletter. [Ed. Note 2002: Old info withheld. See new info at [Golden Grove](/golden-grove/).
@@ -552,13 +548,13 @@ A musical story by Misty & David Arkenstone on CD or cassette, avail. from Fireb
 
 ## Other Fandoms
 
-- **Marion Zimmer Bradley�s Fantasy Magazine.** Open it up and find stories that transport you from everyday into a magical place populated by fantastic beings and governed by mystical forces. Four issues a year, [Ed. Note 2002: Old info withheld.]
+- **Marion Zimmer Bradley's Fantasy Magazine.** Open it up and find stories that transport you from everyday into a magical place populated by fantastic beings and governed by mystical forces. Four issues a year, [Ed. Note 2002: Old info withheld.]
 - **Michael Praed** - Michael Praed Network Newsletter C/O Kate Raymond PO Box 516 Midlothian IL 60445.
 - **Doctor Who and other Media** - The Prydonians of Prynceton PO Box 3194 Princeton NJ 08543-3194. Dues are $12 ($22 for first class postage) for their monthly newsletter, *The Prydonian Renegade*.
 - **Tanya Huff** - NINE ABOVE! PO Box 204 Brattlenboro, VT 05302-0204.
-- **Anne McCafffrey/Pern** - Contact Weyrleader R�nier at [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com) for current information.
+- **Anne McCafffrey/Pern** - Contact Weyrleader R'nier at [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com) for current information.
 - Adrian Paul of **Highlander** - Peace APFC PO Box 4593 North Hollywood, CA 91617 or Peace APFC PO Box 519 Bromley Kent BR2 9WX ENGLAND.
-- **Lois Bujold** can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com). For a sample issue of the Dendarii Dispatch and information of Lois�s fan club, send a SASE to Dendarii Dispatch C/O Kaye Carrasco PO Box 1414 Roswell NM 88202-1414 USA.
+- **Lois Bujold** can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com). For a sample issue of the Dendarii Dispatch and information of Lois's fan club, send a SASE to Dendarii Dispatch C/O Kaye Carrasco PO Box 1414 Roswell NM 88202-1414 USA.
 - **Pandemonium** - The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira PO Box 18A146 Los Angeles, CA 90018.
 - **Dragonlords of Dumnonia** - Contact L.A. Malcor at legend@oxy.edu or visit the website at [http://wwww.dragonlordsnet.com](http://wwww.dragonlordsnet.com) for more information.
 
@@ -566,7 +562,7 @@ A musical story by Misty & David Arkenstone on CD or cassette, avail. from Fireb
 
 Next mailing date is January 2000. **Deadline for submissions is January 10, 2000**. The earlier the better.
 
-Queen�s Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty�s Worlds. we are a fan-run-not-for-profit organization, not a business. [Ed. Note 2002: Old address withheld.] This newsletter is published to inform and entertain the club�s membership; no infringement of anyone�s copyrights is intended.
+Queen's Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's Worlds. we are a fan-run-not-for-profit organization, not a business. [Ed. Note 2002: Old address withheld.] This newsletter is published to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Last issue mailing day helper in July was Jason Hoff. (If you would like to help on mailing day, please call me at [Ed. Note 2002: Phone withheld.], all help is greatly appreciated!)
 
@@ -575,8 +571,6 @@ Border art & all other art--Herald Alora, Ellen Million, Aubrey Smith and Micros
 Editor and President - Robin Ready [Ed. Note 2002: Contact info withheld.]
 
 [End Excerpt]
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -593,9 +587,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

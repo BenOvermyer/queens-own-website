@@ -2,8 +2,8 @@
 """Render the public persona directories from the private JSON sources.
 
 The JSON files under data/ retain member names and contact addresses. This
-script writes the Markdown pages that Zola builds, omitting those private
-fields.
+script updates only marked lists in the Markdown pages, omitting those private
+fields. Front matter, headings, notes, and surrounding copy are maintained in Markdown.
 """
 from __future__ import annotations
 
@@ -29,32 +29,6 @@ def sanitize_public_text(text: str) -> str:
     return re.sub(r'\[([^\]]*)\]\(mailto:[^)]*\)', r'\1', text)
 
 
-def toml_literal(value: Any) -> str:
-    if isinstance(value, bool):
-        return 'true' if value else 'false'
-    if isinstance(value, str):
-        return json.dumps(value, ensure_ascii=False)
-    if isinstance(value, (int, float)):
-        return str(value)
-    if isinstance(value, list):
-        return '[' + ', '.join(toml_literal(item) for item in value) + ']'
-    raise TypeError(f'unsupported front matter value: {value!r}')
-
-
-def render_front_matter(front_matter: dict[str, Any]) -> str:
-    lines = ['+++']
-    for key, value in front_matter.items():
-        if key == 'extra':
-            continue
-        lines.append(f'{key} = {toml_literal(value)}')
-    if 'extra' in front_matter:
-        lines.append('[extra]')
-        for key, value in front_matter['extra'].items():
-            lines.append(f'{key} = {toml_literal(value)}')
-    lines.append('+++')
-    return '\n'.join(lines)
-
-
 def render_entry(entry: dict[str, Any]) -> str:
     """Render one public directory entry, omitting player and email fields."""
     if entry.get('persona_url'):
@@ -69,30 +43,33 @@ def render_entry(entry: dict[str, Any]) -> str:
     return line
 
 
-def render_document(document: dict[str, Any]) -> str:
-    blocks = [render_front_matter(document['front_matter'])]
-    blocks.extend(document['preamble'])
+def render_document(document: dict[str, Any], markdown: str) -> str:
+    """Replace only marked persona lists; all other Markdown stays untouched."""
     for section in document['sections']:
-        if section.get('url'):
-            blocks.append(f"## [{section['title']}]({section['url']})")
-        else:
-            blocks.append(f"## {section['title']}")
-        blocks.extend(section['notes'])
-        if section['entries']:
-            blocks.append('\n'.join(
-                f'{number}. {render_entry(entry)}'
-                for number, entry in enumerate(section['entries'], 1)
-            ))
-        blocks.append('<img alt="" loading="lazy" src="/barcomp.gif"/>')
-    blocks.extend(document['postamble'])
-    return sanitize_public_text('\n\n'.join(blocks).rstrip() + '\n')
+        ident = section['id']
+        start = f'<!-- persona-list:{ident}:start -->'
+        end = f'<!-- persona-list:{ident}:end -->'
+        if markdown.count(start) != 1 or markdown.count(end) != 1:
+            raise ValueError(f'expected exactly one list marker pair for {ident}')
+        pattern = re.escape(start) + r'.*?' + re.escape(end)
+        entries = '\n'.join(
+            f'{number}. {render_entry(entry)}'
+            for number, entry in enumerate(section['entries'], 1)
+        )
+        replacement = start + '\n' + sanitize_public_text(entries) + ('\n' if entries else '') + end
+        markdown, count = re.subn(pattern, lambda match: replacement, markdown, flags=re.S)
+        if count != 1:
+            raise ValueError(f'invalid list marker order for {ident}')
+    return markdown
 
 
-def render_source(path: Path) -> str:
+def render_source(path: Path, destination: Path | None = None) -> str:
     document = json.loads(path.read_text())
-    if document.get('schema_version') != 1:
+    if document.get('schema_version') != 2:
         raise ValueError(f'unsupported persona directory schema in {path}')
-    return render_document(document)
+    if destination is None:
+        destination = SOURCES[path]
+    return render_document(document, destination.read_text())
 
 
 def main() -> int:

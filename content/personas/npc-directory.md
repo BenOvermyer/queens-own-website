@@ -4,10 +4,6 @@ path = "npc-directory"
 template = "page.html"
 [extra]
 legacy_source = "qonpc.htm"
-bgcolor = "blue"
-text = "white"
-link = "aqua"
-vlink = "silver"
 historical = true
 topic = "personas"
 canonical_path = "/npc-directory/"
@@ -18,22 +14,19 @@ revised = "10/17/26"
 
 ## NPC List
 
-<img alt="" loading="lazy" src="/pegasus.gif"/>
-
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" class="float-left" loading="lazy" src="/ml4.gif"/></a>These are the approved additional personae (NPCs) for Queen's Own. To create a recognized NPC, you have to do everything on a [handout](/persona-handouts/), just as you would if you were creating an initial persona. (You do not have to do this if you simply want to make up characters to use in stories. The NPCs listed on this page represent only those characters for whom the member has done the additional work.) If you have an approved NPC persona who is not listed here, please contact the club.
+These are the approved additional personae (NPCs) for Queen's Own. To create a recognized NPC, you have to do everything on a [handout](/persona-handouts/), just as you would if you were creating an initial persona. (You do not have to do this if you simply want to make up characters to use in stories. The NPCs listed on this page represent only those characters for whom the member has done the additional work.) If you have an approved NPC persona who is not listed here, please contact the club.
 
 If a name is not linked and does not have an asterisk (&#42;), then we do not know how to reach that person. If you know him/her, please have him/her contact us with a current address!
 
 &#42;=e-mail withheld by request or unavailable.
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" class="float-right" loading="lazy" src="/ml5.gif"/></a>Each person may have as many NPC personae as s/he wishes. The NPC will only be listed on this page, however, if the club member has done all of the required work on the [handout](/persona-handouts/) for that character type.
+Each person may have as many NPC personae as s/he wishes. The NPC will only be listed on this page, however, if the club member has done all of the required work on the [handout](/persona-handouts/) for that character type.
 
 Dates following the names indicate the date of publication of the newsletter in which the persona was recognized. Herald-Mages have multiple dates, indicating their date of acceptance as a Herald and the date they earned each of their Herald-Mage ranks.
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml7.gif"/></a>
-
 ## [Heralds](/herald-handout/)
 
+<!-- persona-list:heralds:start -->
 1. Herald Adera shena Vyusher'edras ([June 1990](/newsletters/1990/june/)) (Mindspeech, Fetching, Empathy) (Also a Shin'a'in)
 2. Herald Ariel (July 1993) (Mindspeech, Fetching)
 3. Herald Brenna Freeborn ([October 1997](/newsletters/1997/october/)) (Double-strength Mindspeech, Fetching)
@@ -50,60 +43,57 @@ Dates following the names indicate the date of publication of the newsletter in 
 14. Herald Samara Linnea Esaan ([September 1991](/newsletters/1991/september/)) (Mindspeech, Fetching, Animal Mindspeech)
 15. Herald Storm (October 1993) (Mindspeech, Animal Mindspeech)
 16. Herald Tassanta "Tass" Arah Tsornmar ([May 1991](/newsletters/1991/may/)) (Mindspeech, Farsight, dollop of Empathy)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:heralds:end -->
 
 ## [Herald Mages](/herald-mage-handout/)
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:herald-mages:start -->
+<!-- persona-list:herald-mages:end -->
 
 ## [Bards](/bard-handout/)
 
+<!-- persona-list:bards:start -->
 1. Bard Jarel Snowfyre ([September 1991](/newsletters/1991/september/))
 2. Minstrel-Trainee Lassirius ([May 1991](/newsletters/1991/may/))
 3. Bard Max Harper (February 1993) (Talent, Creativity, Gift)
 4. Bard Tiernan Ava (February 2001) (Talent, Creativity)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:bards:end -->
 
 ## [Healers](/healer-handout/)
 
+<!-- persona-list:healers:start -->
 1. Healer Cinnamon Ava ([December 1997](/newsletters/1997/december/)) (Very Strong Empathy)
 2. Healer Obesty Banff (March 1995) (Very Strong Empathy)
 3. Healer Tearanna Wilder ([December 1998](/newsletters/1998/december/)(unavailable in archive)) (Physical Healing)
 4. Healer Vanni Taltos ([January 1995](/newsletters/1995/january/)) (Physical Healing)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:healers:end -->
 
 ## [Mercenaries](/military-handout/)
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:mercenaries:start -->
+<!-- persona-list:mercenaries:end -->
 
 ## [Shin'a'in](/shina-in-handout/)
 
+<!-- persona-list:shin-a-in:start -->
 1. Herald Adera shena Vyusher'edras ([June 1990](/newsletters/1990/june/)) (Mindspeech, Fetching, Empathy) (Also a Herald)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:shin-a-in:end -->
 
 ## [Kal'enedral](/shina-in-handout/)
 
 Note: Some details do not match the current handout because the characters were developed and approved prior to the creation of the handout.
 
+<!-- persona-list:kal-enedral:start -->
 1. Shin'a'in Kal'enedral Ta'hanya shena Liha'irden ([June 1999](/newsletters/1999/june/))
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:kal-enedral:end -->
 
 ## [Tayledras](/tayledras-handout/)
 
+<!-- persona-list:tayledras:start -->
 1. Scout Cometfire k'Vaia ([May 1998](/newsletters/1998/may/)) (Bondbird: Lyra; Kestral)
 2. Scout Darkstar ([Queen’s Own newsletter — September 1996](/newsletters/1996/september/)[September 1996](/newsletters/1996/september/)) (Bondbird: Jilar; Harris Hawk)
 3. Healer Adept Shadowstar k'Lobo (July 1995)
 4. Scout Warwind k'Shador (June 1995) (Bondbird: Tralee)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+<!-- persona-list:tayledras:end -->
 
 ## [White Winds Sorcerers/Sorceresses](/sorcerer-handout/)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

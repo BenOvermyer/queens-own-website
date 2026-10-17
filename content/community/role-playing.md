@@ -4,21 +4,11 @@ path = "role-playing"
 template = "page.html"
 [extra]
 legacy_source = "qorpg.htm"
-bgcolor = "lightblue"
-text = "black"
-link = "blue"
-vlink = "darkblue"
 historical = true
 topic = "community"
 canonical_path = "/role-playing/"
 revised = "10/16/20"
 +++
-
-## Queen's Own
-
-## Role-Playing Instructions
-
-<img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 
 Queen's Own has been granted permission to hold private online Role-Playing Events (RPs) in our Secret Room on Facebook. Below are the rules for these events. Please follow these rules at all times. If there is a problem with people not following the rules, our permission to hold the online RPs will be revoked.
 
@@ -44,8 +34,6 @@ While in the Secret Room, you may play your approved QO persona and approved NPC
 
 To join play, come up with some likely explanation for your persona to be passing through: You are on leave from a mercenary unit or the Guard, you have a brief vacation from your duties as a Herald and are spending it with friends, you are researching a rare herb at the Healing Temple, you are helping a Tayledras unit clean-up some Change Circles, you are part of a group trying to help stabilize an unstable fault beneath the local hotsprings, you are passing through on your way to an assignment in Hardorn or Karse … Be creative, but remember to stay within the rules of the books!
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## The Setting
 
 Queen's Own RPs take place in the village of Hotsprings on our alternate timeline (the one where Herald Kris does not die) unless otherwise announced. Hotsprings is located on a spur off the East Trade Road, which puts it at the base of the Armor Hills (You'll find those near where the borders of Hardorn, Karse and Valdemar meet.). All events are set *after* the conclusion of the *Mage Storms* trilogy.
@@ -59,5 +47,3 @@ The main buisness establishment in Hotsprings is **The Arrow's Quiver**, an inn 
 Hotsprings is also home to a Healers' Temple. Several orders of male and female clerics share the temple complex, as well as the therapuetic hotsprings from which the village takes its name. The clerics specialize in caring for sick and injured humans and animals, but they also educate the local children and aid the poor. The clerics are known for their fine woolen products, created with wool from the local sheep, and for the gorgeous dyes created from plants that grow near the various hotsprings. The head of the temple is Master Healer Tamira "Tam" Felter.
 
 The Mayor of Hotsprings is Kelton Hill. Kel is head of a local clan of vintners, who produce some rather fine red, white and rose wines. He is still unmarried at thirty years of age, and the villagers consider him to be one of the most eligible bachelors in Valdemar. The Mayor's House is attached to the Townhall.
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

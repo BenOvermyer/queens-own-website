@@ -133,7 +133,16 @@ footer { text-align: center; padding: 1rem; border-top: 1px solid currentColor; 
 .hero img { margin-top: 0.5rem; max-width: 100%; height: auto; }
 
 td, th { border: 1px solid #000000; margin: 0; padding: 0.25rem; }
+th { overflow-wrap: normal; }
+#military-gifts tbody th { white-space: nowrap; }
 table { margin: 0.25rem auto; border: 2px solid #000000; }
+
+.artwork { margin: 2rem auto; text-align: center; }
+.artwork img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
+.artwork figcaption { margin-top: .75rem; }
+.artwork-title, .artwork-credit, .artwork-note { display: block; }
+.artwork-title { font-style: italic; }
+.artwork-credit, .artwork-note { font-size: .9em; }
 
 /* Club sign-off: the block hugs the right edge of its container, its lines share a
    left edge, and the signature reads as a hand-written name (see --font-signature). */

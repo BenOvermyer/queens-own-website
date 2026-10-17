@@ -5,10 +5,6 @@ template = "page.html"
 date = 1997-08-01
 [extra]
 legacy_source = "qoaug97.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1997/august/"
@@ -34,25 +30,25 @@ Mercedes Lackey Fan Club
 
 Coming from DAW by October (check your bookstores next month) is *Owlflight*, another tale of Valdemar. The book has a Jody Lee cover and interior illustrations by Larry Dixon.
 
-� "Once the tiny village of Errold's Grove, located on the border of Valdemar at the edge of the vast Pelagirs Forest, had been a prosperous community, trading the unique plants and fungi which grew in the dense forest for use in dying textiles. But that was before the mage-storms came.
+' "Once the tiny village of Errold's Grove, located on the border of Valdemar at the edge of the vast Pelagirs Forest, had been a prosperous community, trading the unique plants and fungi which grew in the dense forest for use in dying textiles. But that was before the mage-storms came.
 
-� "The mage-storms had devastated the forest, transforming many of its creatures into hideous beasts, warping the very land, and shattering the laws of magic which had governed the world since time immemorial. Only the bravest souls ventured into the Pelagirs now, but young Darian and his parents were among those courageous few.
+' "The mage-storms had devastated the forest, transforming many of its creatures into hideous beasts, warping the very land, and shattering the laws of magic which had governed the world since time immemorial. Only the bravest souls ventured into the Pelagirs now, but young Darian and his parents were among those courageous few.
 
-� "Darian's parents were hunters who worked in the strange new forest with intelligence and caution, trapping the bizarre change-creatures which had been created by the mage-storms and selling their fantastic hides. But Darian had not accompanied them on their last expedition into the Pelagirs, a hunt from which they never returned.
+' "Darian's parents were hunters who worked in the strange new forest with intelligence and caution, trapping the bizarre change-creatures which had been created by the mage-storms and selling their fantastic hides. But Darian had not accompanied them on their last expedition into the Pelagirs, a hunt from which they never returned.
 
-� "Now, a year after his parents' disappearance, Darian is a ward of Errold's Grove, apprenticed to Wizard Justyn, a bumbling old man who lost most of his powers when the world's magic altered. Justyn insists that Darian has &#96;talent,' and that he will be a danger to himself and everyone around him if he isn't properly trained. But to Darian, still sorrowing over his parents' loss, magic is just nonsense, a waste of time and energy. The only place he finds solace is in the &#96;dreaded' forest, where he can hide among the huge trees and mourn in privacy.
+' "Now, a year after his parents' disappearance, Darian is a ward of Errold's Grove, apprenticed to Wizard Justyn, a bumbling old man who lost most of his powers when the world's magic altered. Justyn insists that Darian has &#96;talent,' and that he will be a danger to himself and everyone around him if he isn't properly trained. But to Darian, still sorrowing over his parents' loss, magic is just nonsense, a waste of time and energy. The only place he finds solace is in the &#96;dreaded' forest, where he can hide among the huge trees and mourn in privacy.
 
-� "And it is from this secret retreat on the edge of the Pelagirs that Darian sees an army of northern barbarians sack and burn Errold's Grove, and watches his mentor die in a last desperate attempt to save the village.
+' "And it is from this secret retreat on the edge of the Pelagirs that Darian sees an army of northern barbarians sack and burn Errold's Grove, and watches his mentor die in a last desperate attempt to save the village.
 
-� "Pursued by barbarians, alone and helpless, Darian flees into the deep forest. But the vast and dangerous Pelagirs Forest houses more than the monstrous creatures created by the mage-storms. The Hawkbrothers, an old and magical race, dwell in the ancient woods, and Darian's flight will lead him on a path of discovery which neither Justyn or his parents could ever have predicted."
+' "Pursued by barbarians, alone and helpless, Darian flees into the deep forest. But the vast and dangerous Pelagirs Forest houses more than the monstrous creatures created by the mage-storms. The Hawkbrothers, an old and magical race, dwell in the ancient woods, and Darian's flight will lead him on a path of discovery which neither Justyn or his parents could ever have predicted."
 
-� *Owlflight* is a stand-alone hardback and has a cover price of [Ed. note 2005: Out-of-date info withheld.].
+' *Owlflight* is a stand-alone hardback and has a cover price of [Ed. note 2005: Out-of-date info withheld.].
 
-� Available from TOR is the hardcover novel *Firebird*, Misty's retelling of the Russian Firebird legend. Its list price is [Ed. note 2005: Out-of-date info withheld.]. Baen has just released *The Free Bards*, Misty's Bardic Voices trilogy in one volume. If you missed *The Lark and the Wren, The Robin and the Kestrel*, or *The Eagle and the Nightingales*, here's your chance to read the adventures of Rune, Robin, and Nightingale. This trade paperback is priced at [Ed. note 2005: Out-of-date info withheld.].
+' Available from TOR is the hardcover novel *Firebird*, Misty's retelling of the Russian Firebird legend. Its list price is [Ed. note 2005: Out-of-date info withheld.]. Baen has just released *The Free Bards*, Misty's Bardic Voices trilogy in one volume. If you missed *The Lark and the Wren, The Robin and the Kestrel*, or *The Eagle and the Nightingales*, here's your chance to read the adventures of Rune, Robin, and Nightingale. This trade paperback is priced at [Ed. note 2005: Out-of-date info withheld.].
 
-� Future books from Misty include a Bardic Voices book, *Four and Twenty Blackbirds*; *Brightly Burning* , the story of Herald Lavan Firestorm, *The Serpent's Shadow*, set in London in 1910; *Gates of Sleep*, set in New York around 1915; and *Phoenix and Ashes*, set in .England_jn_1920. _Watch the newsletter for release dates and plot iinformation.
+' Future books from Misty include a Bardic Voices book, *Four and Twenty Blackbirds*; *Brightly Burning* , the story of Herald Lavan Firestorm, *The Serpent's Shadow*, set in London in 1910; *Gates of Sleep*, set in New York around 1915; and *Phoenix and Ashes*, set in .England_jn_1920. _Watch the newsletter for release dates and plot iinformation.
 
-� Blackpoint Forest Renaissance Faire is held in Novato California weekends and Labor Day from August 23 to October 5, 10:00 am to 6:00 pm. Gate prices are $17.50/adult and $7.50/children. Call [Ed. note 2005: Out-of-date info withheld.] or write to Renaissance Pleasure Faire [Ed. note 2005: Out-of-date info withheld.] for more information.
+' Blackpoint Forest Renaissance Faire is held in Novato California weekends and Labor Day from August 23 to October 5, 10:00 am to 6:00 pm. Gate prices are $17.50/adult and $7.50/children. Call [Ed. note 2005: Out-of-date info withheld.] or write to Renaissance Pleasure Faire [Ed. note 2005: Out-of-date info withheld.] for more information.
 
 If you want information about Renaissance Faires in your area or are merely curious about what goes on in the Ren Faire world, consider subscribing to *Renaissance Herald*, a quarterly newsletter. It contains articles, reviews, and advertisements like none other. Do you want custom-made boots? Would you like to learn how to brew your own mead? Are you looking for perfumeries, weaving supplies, herbs, wax and wicks, rubber stamps … ? The *Herald* has a source for you. Send a SASE for subscription information to Renaissance Publications [Ed. note 2005: Out-of-date info withheld.]. (I believe the price is $7 but write or call to be sure.)
 
@@ -126,7 +122,7 @@ The August issue of SPELL AND STEEL will pull you away from your tiresome mundan
 
 THE UNICORN'S VALE is delighted to announce that its 3rd issue is now on sale with an exciting collection of stories that will astound you. What horror can steal a small girl from her home and family and will the faith and courage of her young siblings be enough to save her? A young girl heeds the beckoning lure from the forest. What awaits her in such a lyrical guise? One planet pits its wrath against the citizens of another. Will a woman risk her own fate to take a stand to end the carnage? What do you do when your every thought brings forth uncontrollable power? See what one young girl does as she emerges into the terrifying world of Magic. All these and more can be found within the pages of THE UNICORN'S VALE. Come dance to the magical lyrics of Andrea Thomas, Marise Norland, and Sharon Emrich. Issues #1 and #2 are still obtainable and we are accepting submissions for #4 as well as a special Unicorn/Pegasus/Equine issue. Each regular issue is $3 each plus postage for each of $1/US, $2/Canada, and $3/overseas. Make checks payable to [Ed. note 2005: Out-of-date info withheld.].
 
-Experience the wonder of fantasy come to life on quality stationery, bookmarks, cards and prints! Ellen Million Graphics offers beautiful products by outstanding new artists, and custom work is available. Something for everyone, including Misty�related designs. Write for your free catalog to Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.]. "Order … and be enchanted!"
+Experience the wonder of fantasy come to life on quality stationery, bookmarks, cards and prints! Ellen Million Graphics offers beautiful products by outstanding new artists, and custom work is available. Something for everyone, including Misty'related designs. Write for your free catalog to Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.]. "Order … and be enchanted!"
 
 Children of the Ancient Way is an organization dedicated to the preservation and protection of the Earth and all her creatures. For more information, send a long double-stamped self-addressed envelope to Children of the Ancient Way [Ed. note 2005: Out-of-date info withheld.].
 
@@ -171,8 +167,6 @@ Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -186,9 +180,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

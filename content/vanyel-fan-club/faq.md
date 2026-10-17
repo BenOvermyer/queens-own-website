@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "vfcqa.htm"
 source_site = "dragonlords.fans"
-bgcolor = "white"
-text = "blue"
-link = "darkblue"
-vlink = "blue"
 historical = true
 topic = "community"
 canonical_path = "/vanyel-fan-club/faq/"
@@ -16,19 +12,17 @@ canonical_path = "/vanyel-fan-club/faq/"
 
 <img alt="" loading="lazy" src="/vfcqa.jpg"/>
 
-<img alt="" loading="lazy" src="/rainbar.gif"/>
-
 **Q:** Does Q&A stand for "Quaggas and Avacados"? Or "Queers and Aardvarks"? **A:** No. It stands for Questions and Answers …
 
 **Q:** Why Q&A, and not just a FAQ? **A:** Because I like Q & A better …
 
 **Q:** Why did you begin this Q&A in such a silly manner? **A:** Because I thought it would be best to begin something as boring as a Q & A with humor … also it was 1:32 AM … and I was feeling a little silly …
 
-<img alt="" loading="lazy" src="/rainbar.gif"/> *Now onto the boring stuff …* <img alt="" loading="lazy" src="/rainbar.gif"/>
+ *Now onto the boring stuff …*
 
 **Q:** How did this fan club originate? **A:** The idea was thought up during a posting on the Mercedes Lackey Mailing List … and was quickly dropped … However, one member thought it was a good enough idea to develop, so sought others to help develop it with him. Eventually the fan club began to form with one of members taking the possition of president … but after the initial ideas were planned and permission was secured from Mercedes Lackey … the president vanished … The boy was left with the whole club on his hands, and quickly sought someone else to head the club. Which he did, but that person too mysteriously vanished … So the undeveloped Vanyel Fan Club sat in its state of undeveloped existence for quite some time, living only as a "guestbook"-type file on the boy's system of Mercedes Lackey-related webpages, collecting names of those who were interested in joining such a club, but none of which were willing to take the possition of "president" … Until Bastian arrived …Within but a few short days, he lifted the weight of the club from the original conceptionist's shoulders and developed it, keeping true to its original creators' ideas … The club is now a chapter of [Queen's Own](/). We are still going strong and continues to develop.
 
-<img alt="" loading="lazy" src="/rainbar.gif"/> *I **told** you it was going to be boring …* <img alt="" loading="lazy" src="/rainbar.gif"/>
+ *I **told** you it was going to be boring …*
 
 **Q:** What is the Vanyel Fan Club? **A:** The Vanyel Fan Club is a club devoted to the fans of the main character from The Last Herald-Mage Trilogy by Mercedes Lackey.
 
@@ -57,7 +51,3 @@ Q: Are there any club dues? A: No. The VFC is a chapter of Queen's Own. Membersh
 **Q:** What if I have a question not covered in this Q&A? **A:** If you have a question not covered in this Q & A, then please [mail](mailto:shashtah@gmail.com) our Guardian of Questions with the question. Please also state whether or not you would like your question added to this Q&A.
 
 **Q:** Is this the end of the Q & A? **A:** For now … but as more new questions are asked of us, more new questions will be posted here.
-
-<img alt="" loading="lazy" src="/rainbar.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page](/vanyel-fan-club/)

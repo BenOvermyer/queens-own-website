@@ -5,21 +5,13 @@ template = "page.html"
 [extra]
 legacy_source = "recipes.htm"
 source_site = "dragonlords.fans"
-bgcolor = "linen"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "community"
 canonical_path = "/danyas-cookbook/"
 revised = "10/30/98"
 +++
 
-## Herald Danya's Cookbook
-
-## Created by
-
-## L.A. Malcor
+Created by L.A. Malcor
 
 ## Copyright Notices
 
@@ -27,13 +19,9 @@ Herald Danya is L.A. Malcor's persona in [Queen's Own](/danya-winterborn/#Herald
 
 The information on this page is intended solely for the enjoyment of fans of the Mercedes Lackey. It is not intended to infringe in any way upon the rights held by her.
 
-<img alt="" loading="lazy" src="/barflow.gif"/>
-
 ## Notes on the Collection
 
 When Danya was still a Herald-to-be, she and Bard Kestran were severely limited in the ingredients they could actually use. Spicing depended on what was available. Oil could have been produced from nuts or similar sources, or animal fat or butter substituted. The only flours they probably had were nut or potato flour; wheat flour would have been available in Haven where Bard Kestran originally acquired some of these recipes. Danya and Kestran only had goat cheese (and other dairy products, for that matter), but other cooks may find milder cheeses more to their taste. All of these recipes can be cooked in a wood-burning oven/stove or over a campfire, but results are probably better in ovens such as those available to the cooks at the Collegium.
-
-<img alt="" loading="lazy" src="/barflow.gif"/>
 
 ## Contents
 
@@ -68,11 +56,15 @@ When Danya was still a Herald-to-be, she and Bard Kestran were severely limited 
 </tr>
 </table>
 
-<img alt="" loading="lazy" src="/barflow.gif"/>
+ ## Appetizers
 
-<a id="appetize"></a> ## Appetizers
+ ### Potato Cakes
 
-<a id="apc"></a> ### Potato Cakes
+<a id="appetize"></a>
+
+<a id="apc"></a>
+
+<a id="aps"></a>
 
 Servings: 6
 
@@ -118,9 +110,7 @@ In medium bowl, combine potatoes, egg white, onion, flour, salt and pepper.
 
 Heat oil in large skillet over medium high heat. When hot, put about 2 tablespoons potato mixture for each cake into skillet. Cook until well browned, then turn and brown other side.
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
-
-<a id="aps"></a> ### Potato Skins
+ ### Potato Skins
 
 Servings: 6
 
@@ -155,11 +145,23 @@ Sprinkle skins with pepper and cheese.
 
 Broil for 4 minutes. (Same effect can be achieved by cooking in oven at a low temperature until cheese melts.)
 
-<img alt="" loading="lazy" src="/barflow.gif"/>
+ ## Soups
 
-<a id="soup"></a> ## Soups
+ ### Potato Soup
 
-<a id="sps"></a> ### Potato Soup
+<a id="soup"></a>
+
+<a id="sps"></a>
+
+<a id="bpd"></a>
+
+<a id="main"></a>
+
+<a id="mgp"></a>
+
+<a id="side"></a>
+
+<a id="sbp"></a>
 
 Servings: 4
 
@@ -226,9 +228,11 @@ Mash vegetables. Add mashed vegetable to reserved stock. Add butter. Use milk to
 
 Ladle into soup bowls, and sprinkle with chopped parsley.
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
+ ### Roasted Garlic Soup
 
-<a id="srgs"></a> ### Roasted Garlic Soup
+<a id="srgs"></a>
+
+<a id="ssph"></a>
 
 Servings: 8
 
@@ -281,8 +285,6 @@ Saute onion and white leek in 1 tablespoon oil in large kettle until tender but 
 
 Add milk. Puree and strain soup (can be done with a hand-masher and cheesecloth--it just takes a while). Add salt and pepper to taste. Pour soup into bowls and serve.
 
-<img alt="" loading="lazy" src="/barflow.gif"/>
-
 <a id="bread"></a>
 
 ## Breads
@@ -331,9 +333,7 @@ Divide dough in half. Roll half of dough into an 8-inch circle, about 1/4-inch t
 
 In large skillet, heat half of oil over medium-high heat (add more oil or butter if needed to prevent sticking). Cook dough quarters in batches, 2 minutes on each side or until golden brown. Serve warm.
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
-
-<a id="bpd"></a> ### Potato Dumplings
+ ### Potato Dumplings
 
 Servings: 4
 
@@ -374,11 +374,9 @@ Peel potatoes and boil in salted water until very tender. Drain, and mash until 
 
 Roll each dumpling in flour and drop into rapidly boiling water. Cover and cook for about 15 or 20 minutes.
 
-<img alt="" loading="lazy" src="/barflow.gif"/>
+ ## Main Dishes
 
-<a id="main"></a> ## Main Dishes
-
-<a id="mgp"></a> ### Garlic Potatoes
+ ### Garlic Potatoes
 
 Servings: 4
 
@@ -402,9 +400,9 @@ Servings: 4
 
 Boil whole or quartered potatoes for 5 minutes. Roast potatoes, smeared with oil, in pan with whole garlic cloves at 400 (medium-high oven) for 45 minutes. Serve warm.
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
+ ### Potato Pancakes
 
-<a id="mpp"></a> ### Potato Pancakes
+<a id="mpp"></a>
 
 Servings: 4 (1 dozen)
 
@@ -467,8 +465,6 @@ Heat 1 tablespoon butter and 1 tablespoon oil in large skillet over medium heat 
 
 Arrange pancakes in single layer on large, flat pan. Bake at 300 (low oven) for 10 minutes. Turn. Bake 10 minutes longer. Serve warm.
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
-
 <a id="msp"></a>
 
 ### Shepherd's Pie
@@ -526,9 +522,9 @@ In small bowl beat together eggs and milk; pour over potato mixture. Cover and c
 
 Sprinkle with bacon, and serve hot from skillet.
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
+ ### Twice-Baked Potatoes
 
-<a id="mtbp"></a> ### Twice-Baked Potatoes
+<a id="mtbp"></a>
 
 Servings: 2
 
@@ -579,11 +575,9 @@ Bake potatoes until tender, about 1 hour in medium oven. Cut a lengthwise slice 
 
 Place filled skins in shallow baking dish. Bake at 350 (medium oven) until cheese melts and potato mixture is heated through, about 15-20 minutes. Sprinkle with paprika, if desired.
 
-<img alt="" loading="lazy" src="/barflow.gif"/>
+ ## Side Dishes
 
-<a id="side"></a> ## Side Dishes
-
-<a id="sbp"></a> ### Baked Potatoes
+ ### Baked Potatoes
 
 Servings: 4
 
@@ -618,8 +612,6 @@ Servings: 4
 Wash potatoes, and pat dry with towel. Rub surfaces with oil. Place potatoes around edge of grill, not over but near hot coals. Cook about 1 hour and 15 minutes or until tender, basting with oil as necessary to prevent burning.
 
 Brown butter in small skillet over high heat, about 2-3 minutes. Remove from heat. Stir in garlic. Cut each potato part way through and scrunch ends toward center (classic baked potato look). Drizzle with garlic butter. Garnish with onions. Serve hot.
-
-<img alt="" loading="lazy" src="/barholly.gif"/>
 
 <a id="skfp"></a>
 
@@ -668,9 +660,9 @@ Bake, covered, at 350 (medium oven) until potatoes are tender, about 1 hour.
 
 Uncover and bake an additional 15 minutes or until slightly browned on top. Let stand about 5 minutes before serving.
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
+ ### Parsleyed Potatoes
 
-<a id="spp"></a> ### Parsleyed Potatoes
+<a id="spp"></a>
 
 Servings: 5
 
@@ -693,8 +685,6 @@ Servings: 5
 </table>
 
 Cook potatoes 20 minutes in boiling water. Drain well. Toss with butter and parsley.
-
-<img alt="" loading="lazy" src="/barholly.gif"/>
 
 <a id="ssp"></a>
 
@@ -744,9 +734,7 @@ Preheat oven to 400 (medium-high). Grease a 2-quart casserole. Arrange potatoes 
 
 Bake 20 minutes then reduce heat to 350 (medium) and bake 50 to 60 minutes longer or until tender.
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
-
-<a id="ssph"></a> ### Scalloped Potatoes with Herbs
+ ### Scalloped Potatoes with Herbs
 
 Servings: 8
 
@@ -818,10 +806,6 @@ Melt remaining 1 tablespoon butter in small saucepan over low heat. Stir in crum
 
 Remove potatoes from oven. Sprinkle with reserved leeks. Sprinkle top with crumb mixture. Broil 2-3 minutes or until golden (same effect can be achieved by cooking in low-temperature oven for a longer time).
 
-<img alt="" loading="lazy" src="/barflow.gif"/>
-
 <a href="http://leader.linkexchange.com/20/X513002/clicklogo" target="_top"> <img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/20/X513002/showlogo?" style="width:468px; height:16px"/></a>
-
-<img alt="" loading="lazy" src="/bardrgn2.gif"/>
 
 [<img alt="" class="float-center" loading="lazy" src="/butback.gif"/>Return to Danya Winterborn's Page](https://dragonlords.fans/index.htm)

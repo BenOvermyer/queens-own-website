@@ -5,10 +5,6 @@ template = "page.html"
 date = 2000-08-01
 [extra]
 legacy_source = "qoaug00.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2000/august/"
@@ -33,8 +29,6 @@ By way of announcements, for those of you who are interested in Misty-related fi
 For this month's feature article, we are starting a series of interviews with the editors of the various Queen's Own fanzines and newsletters. The first editor we would like you to meet is Cassandra Vuksa of *Austral'a'in*. (You'll find submission information below in the Fanzine section of this newsletter.)
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Note: Cassandra Vuksa is Australian, so we have chosen to preserve the Australian spellings in her responses.
 
@@ -74,8 +68,6 @@ Note: Cassandra Vuksa is Australian, so we have chosen to preserve the Australia
   I am a member of the White Wolf fan club called the Camarilla, which is, amongst other things, a live-action roleplaying society. I have a couple of characters that I play once a month, and there is an awful lot of e-mail roleplaying done too. (If you're interested, the main site is located at: http://vampire.tamu.edu/camarilla/index.html &lt;— shameless plug, shameless plug!!)
 
   I also do Tai Chi and am studying IT part time. I work full time in the Department of Defence doing contracting, am a volunteer Emergency Control Organisation member in my building, and the small amount of time I have left after all of that I spend with my boyfriend, Jamie. (He made me type that!)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -169,8 +161,6 @@ WORLDCON (Chicon2000). Website: [http://www.chicon.org](http://www.chicon.org). 
 
 DRAGONFLIGHT GAME CONVENTION. Website: [http://www.dragonflight.org](http://www.dragonflight.org). Seattle, WA. Dates: 8/25/00-8/27/00.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Female Archer by Herald Alora" class="border-3" loading="lazy" src="/qo14.jpg"/>
 
 ## Member News:
@@ -193,8 +183,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Dreamscape***. A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. *Dreamscape* will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries-please send them to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -233,8 +221,6 @@ We are also getting close to having enough material to put out the first issue o
 
 Remember, you are all entitled to submit personals and fan messages. We are also chronically in need of art for the online version of this newsletter. Keep those submissions coming! This is your club, and all of you are responsible for helping to make it a success!
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Companion by Laura Felton" class="border-3" loading="lazy" src="/qo11.jpg"/>
 
 ## Fan Messages:
@@ -246,8 +232,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [shashtah@gmail.com](mailto:shashtah@gmail.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <img alt="Scout by Herald Alora" class="border-3" loading="lazy" src="/qo17.jpg"/>
 
@@ -276,8 +260,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 
   This offer is good until August 31, 2000.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -297,9 +279,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

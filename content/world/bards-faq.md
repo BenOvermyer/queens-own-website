@@ -4,10 +4,6 @@ path = "bards-faq"
 template = "page.html"
 [extra]
 legacy_source = "qofaqb.htm"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/bards-faq/"
@@ -17,8 +13,6 @@ revised = "3/11/02"
 ## Bards FAQ
 
 There are three basic types of musicians on Velgarth: gleemen, minstrels and Bards. They are distinguished mostly by their level of skill and the Gifts that they have. In addition to entertaining, the musicians also function as a way of spreading news throughout the various lands.
-
-<img alt="" loading="lazy" src="/barmusic.gif"/>
 
 ## General Rules
 
@@ -31,21 +25,15 @@ The wise performer will take requests before offering anything new or unfamiliar
 
 It's an extremely good idea to know your audience and to be aware of what might offend them before you sing an inappropriate song or tell the wrong story in the wrong place at the wrong time. (This is another good reason to take requests before offering anything original, since the requests will give you a feel for the crowd.)
 
-<img alt="" loading="lazy" src="/barmusic.gif"/>
-
 ## Gleemen
 
 These are the vaudevillians of Velgarth. In addition to music, they can juggle, act and perform sleight of hand magic tricks.
-
-<img alt="" loading="lazy" src="/barmusic.gif"/>
 
 ## Minstrels
 
 Minstrels are the popular singers of Velgarth. They are often preferred over Bards when it comes to listening to music to have a good time because they do not have Bardic Gift.
 
 The minstrels have a guild.
-
-<img alt="" loading="lazy" src="/barmusic.gif"/>
 
 ## Bards
 
@@ -87,8 +75,6 @@ Ranks for Bards include:
 
 When Trainees are ready to advance in rank, they are judged by the Bardic Council. The Bardic Council consists of seven members, who run the Bardic Collegium.
 
-<img alt="" loading="lazy" src="/barmusic.gif"/>
-
 ## Honors
 
 Laureate Bard's Coronet
@@ -105,15 +91,11 @@ The Bardic Chronicles are the Collegium's archives. They contain the stories and
 - Sword the Sings
 - Threes
 
-<img alt="" loading="lazy" src="/barmusic.gif"/>
-
 ## Definitions
 
 These are some terms for the Helpful Handout for [Bards](/bard-handout/) that people have asked us about:
 
 - **Perform:** How about going caroling? Entertaining at a local nursing home? Holding a song-circle party regularly? Acting out stories at the local library or day care center?
-
-<img alt="" loading="lazy" src="/barmusic.gif"/>
 
 ## Protocol
 
@@ -123,17 +105,9 @@ Bards and minstrels on Velgarth stick to a rather strict protocol when they perf
 2. Share (Give a portion of your take to the resident musicians if you are just passing through; your portion can be exchanged for shelter and/or food)
 3. Take requests before performing original work.
 
-<img alt="" loading="lazy" src="/barmusic.gif"/>
-
 ## Other Questions About Bardic Personae
 
 <dl>
 <dt><b>I didn't get a Bard for a character when I rolled.  I got a gleeman or a minstrel instead.  Can I roll again?</b><p></p></dt>
 <dd>Well, technically we can't stop you from rerolling &lt;g&gt;.  Nor can we force you to create a type of persona that you do not want.  Consider, however, the creative possibilities behind your roll.  Bardic Gift can get in the way of people enjoying the music.  Perhaps you have one of the most popular minstrels in Valdemar.  Or maybe your gleeman might help a Herald catch a thief because your persona knows sleight of hand.  Or consider the possibility of a gleeman as a spy; that acting skill could come in really handy, sleight of hand can be used to procure information, and juggling can provide misdirection or supply a source of weapons if you are juggling knives!  Don't let your disappointment in a roll stifle your creativity.  Some people actually prefer these character types to full Bards.</dd>
 </dl>
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

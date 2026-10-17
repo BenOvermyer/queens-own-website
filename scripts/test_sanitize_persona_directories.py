@@ -65,42 +65,35 @@ class PersonaDirectoryRendererTests(unittest.TestCase):
             'Herald Someone and [a link](/x/)',
         )
 
-    def test_document_renders_sections_and_front_matter(self):
+    def test_generation_preserves_markdown_outside_lists(self):
         document = {
-            'schema_version': 1,
-            'front_matter': {
-                'title': 'Example',
-                'path': 'example',
-                'template': 'page.html',
-                'extra': {'legacy_source': 'x.htm', 'historical': True},
-            },
-            'preamble': ['## Title'],
-            'sections': [
-                {
-                    'title': 'Heralds',
-                    'url': '/herald-handout/',
-                    'notes': ['Note.'],
-                    'entries': [
-                        {
-                            'persona': 'Herald One',
-                            'persona_url': None,
-                            'player': 'Private Name',
-                            'email': 'private@example.com',
-                            'details': [{'type': 'date', 'text': 'January 2000'}],
-                        }
-                    ],
-                }
-            ],
-            'postamble': ['Footer.'],
+            'schema_version': 2,
+            'sections': [{'id': 'heralds', 'entries': [{
+                'persona': 'Herald One',
+                'player': 'Private Name',
+                'email': 'private@example.com',
+                'details': [{'type': 'date', 'text': 'January 2000'}],
+            }]}],
         }
-        rendered = sanitize.render_document(document)
-        self.assertIn('title = "Example"', rendered)
-        self.assertIn('legacy_source = "x.htm"', rendered)
-        self.assertIn('historical = true', rendered)
-        self.assertIn('## [Heralds](/herald-handout/)', rendered)
-        self.assertIn('1. Herald One (January 2000)', rendered)
+        before = '+++\ntitle = "Edited title"\n+++\n\nCustom preamble.\n## Heralds\nNote.\n'
+        after = '\n\nCustom footer.\n'
+        markers = '<!-- persona-list:heralds:start -->\nold list\n<!-- persona-list:heralds:end -->'
+        rendered = sanitize.render_document(document, before + markers + after)
+        self.assertEqual(rendered, before + markers.replace('old list', '1. Herald One (January 2000)') + after)
         self.assertNotIn('Private Name', rendered)
         self.assertNotIn('private@example.com', rendered)
+        self.assertEqual(sanitize.render_document(document, rendered), rendered)
+        document['sections'][0]['entries'] = []
+        empty = sanitize.render_document(document, rendered)
+        self.assertEqual(empty, before + markers.replace('old list\n', '') + after)
+
+    def test_missing_duplicate_and_reversed_markers_fail(self):
+        document = {'sections': [{'id': 'heralds', 'entries': []}]}
+        start = '<!-- persona-list:heralds:start -->'
+        end = '<!-- persona-list:heralds:end -->'
+        for markdown in ('No markers', start, start + start + end, end + start):
+            with self.subTest(markdown=markdown), self.assertRaises(ValueError):
+                sanitize.render_document(document, markdown)
 
     def test_checked_in_public_directories_match_json(self):
         for source, destination in sanitize.SOURCES.items():

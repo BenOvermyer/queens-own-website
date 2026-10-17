@@ -4,10 +4,6 @@ path = "tayledras-faq"
 template = "page.html"
 [extra]
 legacy_source = "qofaqt.htm"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/tayledras-faq/"
@@ -155,9 +151,3 @@ The furniture (chairs and tables) is bolted to the floor. Rolled pads are used f
 Among the things that the Tayledras create are:
 
 - feather masks
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

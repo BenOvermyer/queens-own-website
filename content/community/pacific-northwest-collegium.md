@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "danyacc.htm"
 source_site = "dragonlords.fans"
-bgcolor = "blue"
-text = "black"
-link = "darkblue"
-vlink = "white"
 historical = true
 topic = "community"
 canonical_path = "/pacific-northwest-collegium/"
@@ -17,19 +13,11 @@ revised = "3/09/10"
 
 <img alt="" loading="lazy" src="/cc1.gif"/>
 
-<img alt="" loading="lazy" src="/pegasus.gif"/>
-
 The Collegium Chronicles is the official newsletter for members of the Pacific Northwest Collegium, a Mercedes Lackey Fan Club serving primarily Washington, Oregon, Idaho, California, and other various and sundry places. We are a not-for-profit fan-run organization, publishing for the sole purpose of sharing news of Velgarth and other "Misty" realms. The chapter is currently up for adoption.
 
 Send correspondence to **Laura Cameron, Pacific Northwest Collegium, [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com).**
 
-<img alt="Danya and Kestran" class="border-5" loading="lazy" src="/cc2a.gif"/>
-
-**"Danya Winterborn and Bard Kestran"**
-
-**by**
-
-**Laura Cameron**
+{{ <artwork src="/cc2a.gif" title="Danya Winterborn and Bard Kestran" artist="Laura Cameron" alt="Danya and Kestran" /> }}
 
 ## The Newsletter
 
@@ -44,13 +32,7 @@ Each issue of *The Collegium Chronicles* contains:
 - Poetry (You do not need a release to submit poetry.)
 - Art (You do not need a release to submit art.)
 
-<img alt="Danya and Terrill" class="border-5" loading="lazy" src="/cc3a.gif"/>
-
-**"Danya and Terrill"**
-
-**by**
-
-**Laura Cameron**
+{{ <artwork src="/cc3a.gif" title="Danya and Terrill" artist="Laura Cameron" alt="Danya and Terrill" /> }}
 
 ## Staff
 
@@ -58,13 +40,7 @@ Each issue of *The Collegium Chronicles* contains:
 - Herald Alora: Clip Art (for the Newsletter)
 - Linda A. Malcor: Contributer, Website Design
 
-<img alt="Yarik and Companions" class="border-5" loading="lazy" src="/cc8a.gif"/>
-
-**"Herald Yarik in the Companions' Field"**
-
-**by**
-
-**Laura Cameron**
+{{ <artwork src="/cc8a.gif" title="Herald Yarik in the Companions' Field" artist="Laura Cameron" alt="Yarik and Companions" /> }}
 
 ## Art Samples from *The Collegium Chronicles*
 
@@ -117,48 +93,14 @@ These images accompanied "Triptych," by L.A. Malcor, in which Master Healer Paig
 - [Master Healer Paige](/cc28.gif)
 - [Threesomes](/cc29.gif)
 
-<img alt="Danya, Yarik and Kaylan" class="border-5" loading="lazy" src="/cc10a.gif"/>
-
-**"Danya, Yarik and Kaylan"**
-
-**by**
-
-**Laura Cameron**
+{{ <artwork src="/cc10a.gif" title="Danya, Yarik and Kaylan" artist="Laura Cameron" alt="Danya, Yarik and Kaylan" /> }}
 
 ## Copyright Notices:
 
 Original art on this page is copyright 1998/1999 Laura Cameron, and may not be used with her express permission. Background courtesy of Gilbert's Icon Archive. All uncredited artwork is believed to be in the public domain. If this is incorrect, message [L.A. Malcor](mailto:shashtah@gmail.com) and proper credit will be given or the artwork will be removed at once, whichever is the preference of the artist and/or the artist's legal representatives. The buttons on this page were designed by L.A. Malcor, using images that were offered for free from the former *Here Be Dragons* site and various archive sites. The buttons themselves are original designs by L.A. Malcor, and you need to [contact her](mailto:shashtah@gmail.com) for permission information if you wish to use the buttons on your own site. *Please do not link to artwork on this page.* If an image is in the public domain, feel free to download it and upload it to your own site. We have a bandwidth limit, however, and if people use it up by linking to our images, we will have to remove the art.
 
-<img alt="Danya, Yarik and Kaylan Exchange Rings" class="border-5" loading="lazy" src="/cc16.gif"/>
-
-**"Danya, Yarik and Kaylan Exchange Rings"**
-
-**by**
-
-**Laura Cameron**
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+{{ <artwork src="/cc16.gif" title="Danya, Yarik and Kaylan Exchange Rings" artist="Laura Cameron" alt="Danya, Yarik and Kaylan Exchange Rings" /> }}
 
 ## Additional Artwork by Laura Cameron
 
-<img alt="Female Warrior" class="border-5" loading="lazy" src="/fwarrior.jpg"/>
-
-### Original Sold at Norwescon 1998
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a>
-
-This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:shashtah@gmail.com).
-
-[[Previous 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;prev5) | [Previous](http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;prev) | [Next](http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;next) | [Next 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;next5) | [Random Site](http://www.webring.org/cgi-bin/webring?ring=qsown;random) | [List Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;list)]
-
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a>
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="http://leader.linkexchange.com/30/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/30/X513002/showlogo?" style="width:468px; height:16px"/></a>
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/danya-winterborn/"><img alt="" loading="lazy" src="/butback.gif"/></a> [Back to Danya Winterborn's Page](/danya-winterborn/)
+{{ <artwork src="/fwarrior.jpg" title="Female Warrior" artist="Laura Cameron" alt="Female Warrior" note="Original Sold at Norwescon 1998" /> }}

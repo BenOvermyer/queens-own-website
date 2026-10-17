@@ -5,10 +5,6 @@ template = "page.html"
 date = 2000-05-01
 [extra]
 legacy_source = "qomay00.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2000/may/"
@@ -24,8 +20,6 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 1, No. 1 May 1, 2000
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="Burning Brightly, Misty's Latest Release!" loading="lazy" src="/ml55.jpg"/></a>
-
 Heyla, Misty Fans!
 
 Welcome to the first issue of the Queen's Own newsletter put out by Herald-Mage Journeyman Danya Winterborn and Healer Adept Moonstar!
@@ -36,17 +30,13 @@ We're taking the club and the newsletter back to the old format developed by the
 
 Speaking of things going into the newsletter, we would be happy to consider items that you wish to submit for publication. Have you done an interview with anyone of interest to members of Queen's Own? Do you have information about upcoming cons, local Queen's Own chapters, or other fandoms? Visit [Newsletter publication and submission guidance](/newsletter-guidance/) for instructions on how to send your material to us!
 
-<img alt="Bar" loading="lazy" src="/bar2.gif"/>
-
 ## From the Archives
 
 <a href="/pacific-northwest-collegium/"><img alt="Danya and Bard Kestran by Laura Cameron" loading="lazy" src="/cc2.gif"/></a>
 
 Here's an updated version of a piece that used to be sent to everyone who inquired about Queen's Own. The original author is Judith Louvis. Updates were made by L.A. Malcor.
 
-<img alt="Bar" loading="lazy" src="/barcomp.gif"/>
-
-"Queen's Own" is the official Mercedes Lackey Appreciation Society, formed with the permission of Misty and DAW soon after [*Arrows of the Queen*](https://dragonlords.fans/bkmlvs.htm#arrows) appeared.
+"Queen's Own" is the official Mercedes Lackey Appreciation Society, formed with the permission of Misty and DAW soon after *Arrows of the Queen* appeared.
 
 The purpose of Queen's Own is to keep you informed of new books and tapes by Misty, to tell you of upcoming Queen's Own activities at conventions, to allow her to communicate with all of you, and to allow all of us to become friends.
 
@@ -56,7 +46,7 @@ Misty was born in Chicago, went to high school in Indiana and then to Purdue Uni
 
 She plays guitar, oboe, clarinet, and both soprano and alto recorders. She's a scuba diver and costumer, reads German "at one time fluently", sews, embroiders, knits and crochets, and began writing fan fiction for the zine *Shadowstar* "because of sheer boredom."
 
-Misty is married to SF/F artist/author Larry Dixon. Larry's handiwork can be seen as interior illustrations in many of Misty's novels as well as in publications from Bard Games, TriTac Games, TSR, Steve Jackson Games, Eclipse and Marvel comics. His pewter jewelry and miniature sculptures are featured in the Firebird catalog (Ed. Note: The High Flight site is no longer available and will be replaced by individual sites for Misty and Larry.). Some of Misty and Larry's many joint projects are [*Born to Run*](https://dragonlords.fans/bkmlse.htm) and [*Chrome Circle*](https://dragonlords.fans/bkmlse.htm), novels of the [*SERRAted Edge*](https://dragonlords.fans/bkmlse.htm) series for Baen, and [*The Mage Wars*](https://dragonlords.fans/bkmlvs.htm) trilogy, published by DAW. You can find all of Misty's books listed in the Dragonlords' Bookstore at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm).
+Misty is married to SF/F artist/author Larry Dixon. Larry's handiwork can be seen as interior illustrations in many of Misty's novels as well as in publications from Bard Games, TriTac Games, TSR, Steve Jackson Games, Eclipse and Marvel comics. His pewter jewelry and miniature sculptures are featured in the Firebird catalog (Ed. Note: The High Flight site is no longer available and will be replaced by individual sites for Misty and Larry.). Some of Misty and Larry's many joint projects are [*Born to Run*](https://dragonlords.fans/bkmlse.htm) and [*Chrome Circle*](https://dragonlords.fans/bkmlse.htm), novels of the [*SERRAted Edge*](https://dragonlords.fans/bkmlse.htm) series for Baen, and *The Mage Wars* trilogy, published by DAW. You can find all of Misty's books listed in the Dragonlords' Bookstore at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm).
 
 Besides Misty's fantasy series for DAW and Baen, she had a horror series for TOR featuring psychic investigator [Diana Tregarde](https://dragonlords.fans/bkmldt.htm). Her short stories appear regularly in [Marion Zimmer Bradley](https://dragonlords.fans/bkart3mzb.htm)'s *Sword and Sorceress* series as well as [C.J. Cherryh](https://dragonlords.fans/bkfanml.htm)'s *Merovingen Nights* and many other anthologies.
 
@@ -67,8 +57,6 @@ The catalog of *Firebird Arts and Music* is a wonderful introduction to the worl
 Do you dream of being a Herald? A Healer? A Bard? Queen's Own members can earn the right tot hose titles by following the guidelines in our helpful handouts. You can find the handouts at [Persona handouts and submission instructions](/persona-handouts/) on the Queen's Own website.
 
 In the past we've had local chapters, zine, a cookbook, writer's circles, role playing games, mentors to answer questions in other areas of fandom, even a worst pun contest. Is there something you'd like to see us do? Message us at [shashtah@gmail.com](mailto:shashtah@gmail.com) or post a message in the Queen's Own Private Delphi Forum ([Delphi forum](/delphi-forum/)). Share your ideas and enthusiasm!
-
-<img alt="Bar" loading="lazy" src="/bar2.gif"/>
 
 ## Ren Faires:
 
@@ -127,8 +115,6 @@ Georgia
 
 For additional Ren Faire information, visit the Renaissance Faire Homepage at [http://www.renfaire.com/](http://www.renfaire.com/).
 
-<img alt="Bar" loading="lazy" src="/bar2.gif"/>
-
 ## Conventions:
 
 <a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik Sparring by Laura Cameron" class="float-right" loading="lazy" src="/cc18.gif"/></a> Have any information about conventions in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
@@ -141,8 +127,6 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at [h
 
 - MARSCON. Website: [http://www.marscon.com/](http://www.marscon.com/). When: 5/12/2000 - 5/14/2000.
 - TWINCON. Website: [http://www.io.com/~gorta/rpga/](http://www.io.com/~gorta/rpga/) (See entry for Twincon.) When: 5/26/2000 - 5/29/2000.
-
-<img alt="Bar" loading="lazy" src="/bar2.gif"/>
 
 ## Member News:
 
@@ -180,8 +164,6 @@ For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fan
 
 **Doctor Who and other Media:** **The Prydonians of Prynceton**, P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Bar" loading="lazy" src="/bar2.gif"/>
-
 ## Collegium News:
 
 <a href="/pacific-northwest-collegium/"><img alt="Danya, Yarik and Dean Terren by Laura Cameron" loading="lazy" src="/cc7.gif"/></a>
@@ -194,15 +176,11 @@ All personae materials should be sent to the QO address.
 
 - Welcome, **[Herald Kiara Roisdaughter](mailto:Hkiara@aol.com)**, Chosen by Amberlyn and gifted with Mindspeech and Mindhealing. **Lia Talmas** wrote about her persona and friends, wrote a story and learned CPR.
 
-<img alt="Bar" loading="lazy" src="/barcomp.gif"/>
-
 ## From Healer Adept Moonstar:
 
-The very first issue of Queen�s Own newsletter was mailed in February 1988. It was one page, single-sided, and mailed to about two dozen people. The very first issue of the Queen�s Own online newsletter will go out to the same number of members.
+The very first issue of Queen's Own newsletter was mailed in February 1988. It was one page, single-sided, and mailed to about two dozen people. The very first issue of the Queen's Own online newsletter will go out to the same number of members.
 
-The Queen�s Own mailing list was at one time about 1,100 members strong, and we can only hope for the same. One of the main reasons we now have an online newsletter is to keep the club in the hands of the fans and make it more responsive to them. We see free memberships as an important part of that effort. If you know someone who doesn�t have e-mail access and still wants a copy of the newsletter, please let us know, and we will try our best to work something out.
-
-<img alt="Bar" loading="lazy" src="/bar2.gif"/>
+The Queen's Own mailing list was at one time about 1,100 members strong, and we can only hope for the same. One of the main reasons we now have an online newsletter is to keep the club in the hands of the fans and make it more responsive to them. We see free memberships as an important part of that effort. If you know someone who doesn't have e-mail access and still wants a copy of the newsletter, please let us know, and we will try our best to work something out.
 
 ## Fan Messages:
 
@@ -212,8 +190,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 
 - From Danya Winterborn, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [shashtah@gmail.com](mailto:shashtah@gmail.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
 
-<img alt="Bar" loading="lazy" src="/bar2.gif"/>
-
 ## Personals:
 
 <a href="/pacific-northwest-collegium/"><img alt="Healing Session by Laura Cameron" loading="lazy" src="/cc27.gif"/></a>
@@ -221,8 +197,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - To **Herald Jensen Redstart** and **Herald An'Talyah Brighthawk** from **Herald-Mage Journeyman Danya Winterborn**. Thanks for helping us get the new incarnation of Queen's Own off the ground!
 - From: **Rea Wildfire/Aurora Nelson**, To: Everyone who knows me. Sorry for being a ditz for not writing. Letters coming! Some of you owe me letters! :)
 - From: **Erin Samantha Frost/Ariya Nightsun**, To: Everyone who remembers/knows me. I'm in college now! I'm a student at the University of California at Santa Cruz. I have a new e-mail address: [erynf@cats.ucsc.edu](mailto:erynf@cats.ucsc.edu). Please e-mail me! I respond better to e-mail now. Hugs and Roses to you all, and it's nice to have QO back!
-
-<img alt="Bar" loading="lazy" src="/bar2.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -235,9 +209,3 @@ The featured artist for the online version of the newsletter is [Laura Cameron](
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 
 Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 74017
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

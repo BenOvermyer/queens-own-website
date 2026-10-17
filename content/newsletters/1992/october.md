@@ -5,10 +5,6 @@ template = "page.html"
 date = 1992-10-01
 [extra]
 legacy_source = "qooct92.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1992/october/"
@@ -48,7 +44,7 @@ Congratulations to Misty, for having both *The Bard's Tale: Castle of Deception*
 
 By the way, Misty and Larry were not at WorldCon in Orlando, but someone wearing a badge with the name "Mercedes Lackey" was. If you have any information on this woman (imposter? coincidence?), please let Misty know. You can write to Misty and Larry at their business address: [Ed. note 2004: Out-of-date info. withheld.]. Letters and cards can always be sent directly to the High Flight address rather than asking DAW or me to forward them. (You can write to any author in care of his/her publisher. Mail is forwarded.)
 
-Science Fiction Book Club members voted *The Elvenbane* by Misty and Andre Norton as the winner of the 1991 Book of the Year Award. Other Misty books offered by SFBC are *The Last Herald-Mage* (*Magic's Pawn, Magic's Promise, & Magic's Price* in a special 3-in-one edition) and *The Lark and the Wren*. The November featured selection is *Bedla�t's Bard*, a special 2-in-1 edition of *Knight of Ghosts and Shadows* and *Summoned to Toumey*. If you are a SFBC member and would like to see them offer even more of Misty's books, write to them at [Ed. note 2004: Out-of-date info. withheld.]. If you would like a membership form so you can join SFBC, send me a SASE. The current offer is six books for $1 plus shipping and handling, and the obligation to buy 4 more books within 2 years.
+Science Fiction Book Club members voted *The Elvenbane* by Misty and Andre Norton as the winner of the 1991 Book of the Year Award. Other Misty books offered by SFBC are *The Last Herald-Mage* (*Magic's Pawn, Magic's Promise, & Magic's Price* in a special 3-in-one edition) and *The Lark and the Wren*. The November featured selection is *Bedla't's Bard*, a special 2-in-1 edition of *Knight of Ghosts and Shadows* and *Summoned to Toumey*. If you are a SFBC member and would like to see them offer even more of Misty's books, write to them at [Ed. note 2004: Out-of-date info. withheld.]. If you would like a membership form so you can join SFBC, send me a SASE. The current offer is six books for $1 plus shipping and handling, and the obligation to buy 4 more books within 2 years.
 
 Forthcoming books are *When the Bough Breaks*, written with Holly Lisle, and *Wing Commander: Freedom Flight*, written with Ellen Guon. If you've finished *Winds of Change* and are wondering what to read next, try Holly Lisle's *Fire in the Mist*. "One of the hottest writers I've come across in a long time&uqot; says the cover quote by Mercedes Lackey. "Her entrancing characters and action-filled story will hold you spell-bound."
 
@@ -139,8 +135,6 @@ Wind to thy wings, Judith
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -154,9 +148,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

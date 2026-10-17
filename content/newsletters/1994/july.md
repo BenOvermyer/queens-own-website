@@ -5,10 +5,6 @@ template = "page.html"
 date = 1994-07-01
 [extra]
 legacy_source = "qojul94.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1994/july/"
@@ -85,7 +81,7 @@ FARPOINT 94 October 14-16, Hunt Valley, MD. Guests of Honor: George Takei, Jonat
 
 MileHiCon 26 October 21-23, in Denver, CO. GoH, Ellen Datlow. Send SASE to MileHiCon 28 [Ed. note 2005: Out-of-date info withheld.].
 
-BIG E CON October 28-30, Norfolk, VA. Guests of Honor: Ann C. Crispin, Majel Barrett, Bill Campbell, Michael O'Hare. Trek Rec Deck Inc. [Ed. note 2005: Out-of-date info withheld.]. This Star Trek con features optional tours of the USS Enterprise (CVN�65) aircraft carrier.
+BIG E CON October 28-30, Norfolk, VA. Guests of Honor: Ann C. Crispin, Majel Barrett, Bill Campbell, Michael O'Hare. Trek Rec Deck Inc. [Ed. note 2005: Out-of-date info withheld.]. This Star Trek con features optional tours of the USS Enterprise (CVN'65) aircraft carrier.
 
 CONTRADICTION 14 November 4-6 Niagara Falls, NY. GoH Mike Resnick. Contradiction 14 [Ed. note 2005: Out-of-date info withheld.].
 
@@ -235,8 +231,6 @@ Wind to thy wings, Judith
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -250,9 +244,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

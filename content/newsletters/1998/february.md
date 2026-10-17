@@ -5,10 +5,6 @@ template = "page.html"
 date = 1998-02-01
 [extra]
 legacy_source = "qofeb98.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1998/february/"
@@ -48,7 +44,7 @@ Jody works in water based media. Some of her earlier work is in gouache, colored
 
 "I feel incredibly lucky," says Jody in closing. "Sometimes I groan and moan a lot because this is not an easy profession, but that's the real truth. There are a lot of people who want to do art, and aren't able to, so I'm very grateful to fate and opportunity for letting this happen. I also have to thank all the friends and family who have helped me along. The other thing is I really am an illustrator at heart. Getting to illustrate for the likes of Mercedes Lackey and Lloyd Alexander and the others is great because I love reading their books! "
 
-Firebird Arts and Music is another source of Jody Lee prints. Firebird carries all of Misty's books and related music; T�shirts with art by Larry Dixon as well as Onieda Indian Nation and wildlife designs; Riverdance videos; the music of TEMPEST, Michael Longcor, David Arkenstone, et al. and much more. Among new items from Firebird are the videos of The Sharpe's Series and the Bernard Cornwell Sharpe novels. Richard Sharpe is a soldier serving under Lord Wellington in Spain during the Napoleonic Wars. Series star Sean Bean has become one of England's most sought after actors.
+Firebird Arts and Music is another source of Jody Lee prints. Firebird carries all of Misty's books and related music; T'shirts with art by Larry Dixon as well as Onieda Indian Nation and wildlife designs; Riverdance videos; the music of TEMPEST, Michael Longcor, David Arkenstone, et al. and much more. Among new items from Firebird are the videos of The Sharpe's Series and the Bernard Cornwell Sharpe novels. Richard Sharpe is a soldier serving under Lord Wellington in Spain during the Napoleonic Wars. Series star Sean Bean has become one of England's most sought after actors.
 
 Firebird has recently moved into a new location and is experiencing construction-related difficulties. Teri Lee thanks you for your patience and assures me your orders will be shipped as soon as possible.
 
@@ -82,7 +78,7 @@ Marcon 33 is May 1-3 at the Hyatt Regency in Cciumaus Ohio. Author Guest of Hono
 
 *Flights of Fantasy* [Ed. note 2005: Out-of-date info withheld.] specializes in new and used science fiction & fantasy, mystery & suspense and romance books, and roleplaying. tabletop gaming, and collectible card games. Owner Maria Perry will do special orders in any genre. Looking for a special book? Give Maria your want list--she'll do her best for you! For orders outside the 518 area code call [Ed. note 2005: Out-of-date info withheld.]. Flights of Fantasy accepts orders from inrnates.
 
-After considerable deliberation, the editors of Outkingdom would like to announce a change of name and image for the Chapter. (Current members will already have been notified of the approaching alterations.) From the 1st April, 1998--and it's no joke, folks!--we will be opperating under the new name of *The Messenger* and our zine, currently *THE OUTKINGDOM CHRONICLES*, will be known as *THE MESSAGE*. We will be producing both the newsletter and the zinc at fixed dates on a thrice vearlv basis, with a fixed subscription of �12 Sterling a year. All current subscriptions paid will be carried forward to the new first issue; new subscription details/guidelines. please contact [Ed. note 2005: Out-of-date info withheld.].
+After considerable deliberation, the editors of Outkingdom would like to announce a change of name and image for the Chapter. (Current members will already have been notified of the approaching alterations.) From the 1st April, 1998--and it's no joke, folks!--we will be opperating under the new name of *The Messenger* and our zine, currently *THE OUTKINGDOM CHRONICLES*, will be known as *THE MESSAGE*. We will be producing both the newsletter and the zinc at fixed dates on a thrice vearlv basis, with a fixed subscription of '12 Sterling a year. All current subscriptions paid will be carried forward to the new first issue; new subscription details/guidelines. please contact [Ed. note 2005: Out-of-date info withheld.].
 
 It's inventory time and Ellen Million Graphics is holding a "get this off my shelves" sale! She says. "My mess is your treasure, so browse away!" There are packages of discontinued styles. designs on out-of-stock paper, and miscellaneous sheets. For a list of complete packages, send a SASE. For a grab bag, type package of 20 miscellaneous sheets, send $4/large sheets, $3/small sheets. Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.]. Ask too for the current catalog.
 
@@ -154,8 +150,6 @@ Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2005: Out-of-d
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -169,9 +163,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

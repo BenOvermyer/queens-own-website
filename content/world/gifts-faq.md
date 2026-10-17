@@ -4,10 +4,6 @@ path = "gifts-faq"
 template = "page.html"
 [extra]
 legacy_source = "qofaqgifts.htm"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/gifts-faq/"
@@ -42,9 +38,3 @@ Earth Magic (also called Earth-Witchery) is not true magic (which is also called
 Earth mages can work minor spells. These mages are also called Earth-Witches and Wisewomen, partially depending on the cultural background of the person who uses the term.
 
 Most Earth Magic is tied to the state of the land and is used to heal land that has been damaged by magic (as well as by nonmagical means).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

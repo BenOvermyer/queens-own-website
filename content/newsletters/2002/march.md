@@ -5,10 +5,6 @@ template = "page.html"
 date = 2002-03-01
 [extra]
 legacy_source = "qomar02.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2002/march/"
@@ -28,31 +24,29 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-The big news for the month is that Golden Grove is under new management. Aurora Nelson retired from the editorship in November 2001 after several years of heading the California chapter of Queen�s Own. Healer Adept Willowstar k'Vala (Theresa Young) and Scout Brightshadow k'Vala (Jaime Paz) are the new co-presidents of the chapter. See below for additional information about the club and their publication.
+The big news for the month is that Golden Grove is under new management. Aurora Nelson retired from the editorship in November 2001 after several years of heading the California chapter of Queen's Own. Healer Adept Willowstar k'Vala (Theresa Young) and Scout Brightshadow k'Vala (Jaime Paz) are the new co-presidents of the chapter. See below for additional information about the club and their publication.
 
-The revised Helpful Handouts should now be up at [Persona handouts and submission instructions](/persona-handouts/). Let us know if you spot any glitches! We have also made a serious dent in those FAQ pages we�ve been promising you forever. While we still have a ways to go, you can see the start at [Velgarth reference guide](/world-reference-guide/).
+The revised Helpful Handouts should now be up at [Persona handouts and submission instructions](/persona-handouts/). Let us know if you spot any glitches! We have also made a serious dent in those FAQ pages we've been promising you forever. While we still have a ways to go, you can see the start at [Velgarth reference guide](/world-reference-guide/).
 
-Queen�s Own is hoping to return to the convention circuit in September 2002. We�re talking with the organizers of ConTours 2002: Expeditions in the Multiverse. Their website is at [http://contours.roleplayingguild.com/Index.htm](http://contours.roleplayingguild.com/Index.htm). The guest list includes Mark Shepherd and Heather Alexander. The con will be in Burbank, CA, which is within easy driving distance of at least three of us from Golden Grove. If you think you can make it, please contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com). We�re asking about the possibility of a group price and some QO specific events. (Possibly a QO LARP? That board game that was played at Dragon&#42;Con if we can get ahold of a copy?) At the very least we�d plan to attend the Masquerade as a group. Anyway, something to think about …
+Queen's Own is hoping to return to the convention circuit in September 2002. We're talking with the organizers of ConTours 2002: Expeditions in the Multiverse. Their website is at [http://contours.roleplayingguild.com/Index.htm](http://contours.roleplayingguild.com/Index.htm). The guest list includes Mark Shepherd and Heather Alexander. The con will be in Burbank, CA, which is within easy driving distance of at least three of us from Golden Grove. If you think you can make it, please contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com). We're asking about the possibility of a group price and some QO specific events. (Possibly a QO LARP? That board game that was played at Dragon&#42;Con if we can get ahold of a copy?) At the very least we'd plan to attend the Masquerade as a group. Anyway, something to think about …
 
-We�ve heard that the first three chapters of Misty�s book about Alberich are done, but delays have pushed the projected publication date back from October 2002 to Spring 2003.
+We've heard that the first three chapters of Misty's book about Alberich are done, but delays have pushed the projected publication date back from October 2002 to Spring 2003.
 
-This month�s respondee to the QO questionnaire is Herald Gwendolyn Katran (Kathleen Wing). If you haven�t replied yet, please send your answers to the questions to Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
+This month's respondee to the QO questionnaire is Herald Gwendolyn Katran (Kathleen Wing). If you haven't replied yet, please send your answers to the questions to Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 Zhai'helleva,
 
 Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 1. **When did you join Queen's Own?**
 
-  Seventh grade, probably 1989 (although I couldn�t swear; it was a long time ago).
+  Seventh grade, probably 1989 (although I couldn't swear; it was a long time ago).
 2. **What got you hooked on Misty's books?**
 
   Back then there weren't nearly as many books. I still remember waiting for parts of the LHM series to come out. I enjoyed the characters at first (Talia was someone I could identify with.) and enjoyed the whole world of Valdemar (and nearby locales) unfolding before me.
 3. **What else do you read?**
 
-  Most everything that catches my fancy. Of late I have been reading Anne Bishop, Laurell K Hamilton, Sark, The Harry Potter books (because my friends insisted it was a necessity), Eddings, and a ton of others I�m sure are just not coming to me at the moment.
+  Most everything that catches my fancy. Of late I have been reading Anne Bishop, Laurell K Hamilton, Sark, The Harry Potter books (because my friends insisted it was a necessity), Eddings, and a ton of others I'm sure are just not coming to me at the moment.
 4. **What types of music do you listen to?**
 
   Everything from classical to country to pop to musicals. I especially enjoy Celtic, Creed, all sorts of musicals (especially Les Miz, Mis Saigon, Rent, Blood Brothers to name a few), John Michael Montgomery, Garth Brooks, various 80's bands … , mmm, and lots of others.
@@ -67,15 +61,13 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   I enjoyed meeting other people with similar interests and hobbies as me. I have always enjoyed writing so writing in the fandom was a natural extension of my love of writing especially when I was first developing those skills.
 8. **What do you like best about fandom?**
 
-  The community. Although it is diverse and spread far and wide, people keep coming back. It�s a joy to meet friends new and old.
+  The community. Although it is diverse and spread far and wide, people keep coming back. It's a joy to meet friends new and old.
 9. **What other things besides Queen's Own occupy your time?**
 
   Stained glass, scrapbooking, learning American sign language, working as a physical therapist, learning to use my digital camera/photography, writing, singing, music, keeping my cat and my husband out of trouble.
-10. **What types of things would you like to see Queen�s Own do in the coming years?**
+10. **What types of things would you like to see Queen's Own do in the coming years?**
 
   Unsure. Since I have been busy of late, I have not had time to fully utilize all that is available even now.
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   <img alt="Dancer by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo108.jpg"/>
 
@@ -377,15 +369,13 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
   For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
   ## Member News:
 
   For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652. Make checks payable to "Linda Malcor" in US funds only.
 
   ### Local chapters:
 
-  - **Arrows OnLine:** It�s back! *Arrows OnLine* has returned as an official chapter of Queen�s Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion�s Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey�s Fiction**, is a general discussion of Misty�s books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Herald Ryhannon Gaia Degent, at [MistyKalia@aol.com](mailto:MistyKalia@aol.com).
+  - **Arrows OnLine:** It's back! *Arrows OnLine* has returned as an official chapter of Queen's Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion's Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey's Fiction**, is a general discussion of Misty's books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Herald Ryhannon Gaia Degent, at [MistyKalia@aol.com](mailto:MistyKalia@aol.com).
   - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
   - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
   - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
@@ -394,13 +384,11 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   ### Zines and Newsletters:
 
   - ***Austral'a'in*:** Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au). We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas. (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!) The cost of membership covers postage and printing - we're a strictly not-for-profit group. If you are interested in more information, or have stories or other submissions that you would like to see published, contact me! **Attention all writers and artists:**Austral'a'in is desperately seeking submissions. We are also always looking for new members. Please? Contact me (Cassandra) at [garou@netspeed.com.au](mailto:garou@netspeed.com.au) for details!
-  - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
-  - ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists … particularly artists willing to illustrate stories! *CG Volume Seven* is open to all submissions, and *Cat�s Cradle*, a SERRAted Edge novella by Heather Arnold, needs an illustrator who can draw the usual humans, elves, and elvensteeds, plus, ummm �trucks &#42;G&#42;; if you�re interested, please send a couple of black and white art samples to [devin@greendragonpress.net](mailto:devin@greendragonpress.net), or snail mail them to the address below. Additionally, the original six issues of Companions� Grove are now available as a set for $30.50 in the US (outside of the US, please e-mail me and I�ll get back to you with the price). The Danya Winterborn Saga by Linda Malcor is available for $6.00 in the US. Three more old Valdemar zines are now back in print: "Fire Eyes" (43 pgs, $5.25 in the US) and "Endgame" (36 pgs, $5.00 in the US) by Heather Arnold, and "The Sum of Duty" (57 pgs, $6.50 in the US) by Royce Day. More information can be found at [http://www.greendragonpress.net/novellas.htm](http://www.greendragonpress.net/novellas.htm) . *Shards of Autumn* by Den Elms, should be available by early 2002. Please visit [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm) for more information, prices for individual issues of *Companions� Grove*, or to order via credit card using PayPal. To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St, Pahrump, NV 89060.
+  - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I'm moving at the end of May. I don't want any orders to go astray.)
+  - ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists … particularly artists willing to illustrate stories! *CG Volume Seven* is open to all submissions, and *Cat's Cradle*, a SERRAted Edge novella by Heather Arnold, needs an illustrator who can draw the usual humans, elves, and elvensteeds, plus, ummm 'trucks &#42;G&#42;; if you're interested, please send a couple of black and white art samples to [devin@greendragonpress.net](mailto:devin@greendragonpress.net), or snail mail them to the address below. Additionally, the original six issues of Companions' Grove are now available as a set for $30.50 in the US (outside of the US, please e-mail me and I'll get back to you with the price). The Danya Winterborn Saga by Linda Malcor is available for $6.00 in the US. Three more old Valdemar zines are now back in print: "Fire Eyes" (43 pgs, $5.25 in the US) and "Endgame" (36 pgs, $5.00 in the US) by Heather Arnold, and "The Sum of Duty" (57 pgs, $6.50 in the US) by Royce Day. More information can be found at [http://www.greendragonpress.net/novellas.htm](http://www.greendragonpress.net/novellas.htm) . *Shards of Autumn* by Den Elms, should be available by early 2002. Please visit [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm) for more information, prices for individual issues of *Companions' Grove*, or to order via credit card using PayPal. To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St, Pahrump, NV 89060.
   - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
   - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
   - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com). If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable).
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   <img alt="Dragons by Adam King" class="border-5" loading="lazy" src="/qo109.jpg"/>
 
@@ -427,9 +415,9 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
   All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
-  - Welcome to **Tayledras Healer Adept Willowstar**, who has Mindspeech with Bondbirds, Humans and Other Races! Willowstar and her sooty owl Bondbird, Ameri, are brought to us by **Theresa Young**, who wrote stories about her persona and Willowstar�s family and friends, wrote two poems and drew a map of k�Vala Vale.
+  - Welcome to **Tayledras Healer Adept Willowstar**, who has Mindspeech with Bondbirds, Humans and Other Races! Willowstar and her sooty owl Bondbird, Ameri, are brought to us by **Theresa Young**, who wrote stories about her persona and Willowstar's family and friends, wrote two poems and drew a map of k'Vala Vale.
   - Congratulations to **Herald Davad Levon**, who comes to us along with his Companion Haldan. Davad is Gifted with strong Mindspeech. **Janetta Maxwell** wrote about Davad and his family and friends and sent two pictures for publication.
-  - An automatic membership goes to **Guardsman Faolan Ixran**. **Bruce Zimmerman** has been a Volunteer Firefighter for 15 years and will be going into the Army Reserves as an MP. He is also in the SCA and a Heavy Weapons Fighter. He has armor, which he is remaking into a more period style that would translate to Valdemar. He also knows how to ride as he was part of the 5th Federal Cavalry Civil War Re-enactment Unit. Welcome to Queen�s Own!
+  - An automatic membership goes to **Guardsman Faolan Ixran**. **Bruce Zimmerman** has been a Volunteer Firefighter for 15 years and will be going into the Army Reserves as an MP. He is also in the SCA and a Heavy Weapons Fighter. He has armor, which he is remaking into a more period style that would translate to Valdemar. He also knows how to ride as he was part of the 5th Federal Cavalry Civil War Re-enactment Unit. Welcome to Queen's Own!
 
   Returning Misty fans who have activated their memberships include:
 
@@ -438,7 +426,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   - **Herald Shanayah Dawn** (Melantha) (July 1990) (Mindspeech, Fetching, Empathy).
   - **Healer Tamesin na Coille** (May 1992) (Empathy, rudimentary Animal Mindspeech).
 
-  Welcome back! If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
+  Welcome back! If you are a returning member who has recently activated your membership in Queen's Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she'll make sure you are greeted in the next newsletter.
 
   ### From Healer Adept Moonstar:
 
@@ -446,19 +434,17 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
   I have started a new job, and I am getting ready for my upcoming shoulder surgery, helping Danya with the massive updates to our website, starting to learn UNIX and keeping up with schoolwork. I think I am just a little busy. &lt;grin>
 
-  Petsmart hired me as a Pet Trainer. I actually got my official looking nametags today. I am still waiting for them to find someone to train me. The Area Pet Trainer has moved, so I am in limbo now while they fill the position. I am teaching the dog and cat seminars, so that is a little money. I taught "You and Your New Cat or Dog" in January and "Housebreaking Your Dog" in February. I don�t know what the class will be this month.
+  Petsmart hired me as a Pet Trainer. I actually got my official looking nametags today. I am still waiting for them to find someone to train me. The Area Pet Trainer has moved, so I am in limbo now while they fill the position. I am teaching the dog and cat seminars, so that is a little money. I taught "You and Your New Cat or Dog" in January and "Housebreaking Your Dog" in February. I don't know what the class will be this month.
 
   My shoulder surgery is February 27. I will be in the hospital overnight and spend the next week recovering before starting my next class for school. If I am a bit slow at answering your letters, please remember I am recovering from surgery and probably on painkillers.
 
-  As you can see, we have done a large update to the site, and we are still finding things we need to change or clarify. The new pending chat list is actually helping us make sure the submission instructions are clear and the FAQ pages are helpful. I have built two Queen�s Own chat lists and the Vanyel Fan Club chat list at [http://www.dragonlordsnet.com/qochat](http://www.dragonlordsnet.com/qochat). If you are interested in these lists, you can subscribe yourself to the Pending list (if you are working on a character) or to Vanyel Fan Club list. If you are interested in the Queen�s Own, member chat list, I will need to approve your request, which I do quickly.
+  As you can see, we have done a large update to the site, and we are still finding things we need to change or clarify. The new pending chat list is actually helping us make sure the submission instructions are clear and the FAQ pages are helpful. I have built two Queen's Own chat lists and the Vanyel Fan Club chat list at [http://www.dragonlordsnet.com/qochat](http://www.dragonlordsnet.com/qochat). If you are interested in these lists, you can subscribe yourself to the Pending list (if you are working on a character) or to Vanyel Fan Club list. If you are interested in the Queen's Own, member chat list, I will need to approve your request, which I do quickly.
 
-  Danya�s husband is helping me to learn UNIX so I can get a day job. He has been assigning me homework, just in case I thought I did not have enough to do. I really appreciate his help.
+  Danya's husband is helping me to learn UNIX so I can get a day job. He has been assigning me homework, just in case I thought I did not have enough to do. I really appreciate his help.
 
   Hugs,
 
   Moonstar
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   ## Fan Messages:
 
@@ -471,15 +457,11 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   - From **Crystal Sarakas Kocher** ([crys@stny.rr.com](mailto:crys@stny.rr.com)) 26-year-old radio/television producer looking for friends who enjoy long, silly conversations, dreaming of Valdemar and other such things. I would love to hear from old friends that I have lost touch with over the years and from new friends, too!
   - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
   ## Personals:
 
-  - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
+  - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen's Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
   - **From: Healer Adept Moonstar. To: All. Re: QO Newsletter.** Needed February 88 through March 91, Queen's Own newsletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
   - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -500,9 +482,3 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   Herald-Mage Master Danya Winterborn and
 
   Healer Adept Moonstar
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
-  <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-  <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

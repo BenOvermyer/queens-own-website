@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "mlrelease.htm"
 source_site = "dragonlords.fans"
-bgcolor = "linen"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/mercedes-lackey-release-form/"

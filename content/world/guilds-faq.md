@@ -4,10 +4,6 @@ path = "guilds-faq"
 template = "page.html"
 [extra]
 legacy_source = "qofaqg.htm"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/guilds-faq/"
@@ -57,9 +53,3 @@ Guilds are divided up by county. Guildmembers in a county will elect a represent
 ## The Merchant School
 
 The Guilds founded the Merchant School in Haven.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

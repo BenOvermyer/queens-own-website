@@ -5,10 +5,6 @@ template = "page.html"
 date = 1994-03-01
 [extra]
 legacy_source = "qomar94.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1994/march/"
@@ -40,7 +36,7 @@ Larry came to chat on GEnie on February 18th and David Dean is sharing some of t
 
 **LARRY:** "Misty & I were flattered the other day when someone on Internet commented that High Flight fans are among the most considerate and courteous in all of fandom. It made us feel very proud that we have attracted such people.
 
-"As for working back that far ...(re The Black Gryphon)..remember that Misty has a hard-science background, as well as personal interests in various cultures … plus I have a classical-art background with my pot�pourri of other skills. Neither of us feels like things just spontaneously &#96;happen' in human history … we build in the &#96;reasons,' at least in outline form, before the outward signs are ever put on paper. Or screen. ; )
+"As for working back that far ...(re The Black Gryphon)..remember that Misty has a hard-science background, as well as personal interests in various cultures … plus I have a classical-art background with my pot'pourri of other skills. Neither of us feels like things just spontaneously &#96;happen' in human history … we build in the &#96;reasons,' at least in outline form, before the outward signs are ever put on paper. Or screen. ; )
 
 "Of course, that doesn't mean that we don't DISCOVER things as we go! Both Vikteren and Kechara were like that for us … and to some extent, Lady Cinnibar and her sexy 'beau.'"
 
@@ -208,8 +204,6 @@ Wind to thy wings, Judith
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -223,9 +217,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

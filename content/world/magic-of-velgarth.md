@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "danmag1.htm"
 source_site = "dragonlords.fans"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/magic-of-velgarth/"
@@ -96,8 +92,6 @@ SS = "Stolen Silver" (a short story about Alberich) &#42; = Grove-Born Companion
 
 Page numbers are approximate. They generally refer to the paperback edition, but I do have a few hard covers and even some review copies. But the numbers should be enough to get you into the general region of the text evidence that I cite. *By the Sword*, at a glance, contains magical items and the use of magic but no details about how the magic works, since the tale is told from Kerowyn's point of view, and she does not have Mage-Gift.
 
-<img alt="" loading="lazy" src="/barstar.gif"/>
-
 <a id="mind"></a>
 
 ## Mind Magic
@@ -156,8 +150,6 @@ The Truth Spell was discovered at the time of Herald-Mage Vanyel Ashkevron (AQ, 
 
 The vrondi themselves are air elementals who cannot stand the emotional reaction caused by telling a lie (MPro, p. 159).
 
-<img alt="" loading="lazy" src="/barstar.gif"/>
-
 <a id="horse"></a>
 
 ## Companion Magic
@@ -169,8 +161,6 @@ The Companions are white because they use node magic and the power bleaches them
 Contact with a Companion usually triggers a newly-Chosen Herald's Gifts, if the Gifts were not already in evidence (AQ, p. 273). This seems to be a function of the magic bond that forms between the Herald and the Companion at the time of Choosing. (The ability to Choose seems to be something of a combination of Mind Magic and Divine Magic.)
 
 Groveborn Companions arrive in the Grove courtesy of a deity, who is most likely the Sun Lord, given the Star-Eyed's conversation with Tarma and Kethry about Companions (Obr).
-
-<img alt="" loading="lazy" src="/barstar.gif"/>
 
 <a id="tm3"></a>
 
@@ -260,188 +250,201 @@ Mages can detect the use of true magic, but they cannot detect the use of Herald
 
 Here are the spells that are mentioned in the books:
 
-Spell
-
-Effect
-
-Cantrip
-
-Components
-
-Casting
-
-Dismissing
-
-Source
-
-Daggers of Light
-
-Creates daggers of light that do damage as normal daggers, but they have to be hurled as normal daggers and have the same chance of striking.
-
-Requires hand motion.
-
-OBr, p. 202
-
-Energy Blast
-
-Sends a blast of pure energy at the mage's opponent.
-
-Requires hand motion.
-
-OBr, p. 203
-
-Fire Balls
-
-Smoking, flaming balls thrown from air in front of mage's hand. Damages as real fire on impact with target.
-
-Required; described as "guttural phrases."
-
-Can be used by Hedgewizard and above.
-
-1. Say cantrip
-2. Make throwing motion with hand.
-
-OBr, p. 65
-
-Firestarting
-
-Similar to the Heraldic Mind-Magic by the same name; "calls" a certain amount of fire, depending on the level and will of the mage.
-
-1. Stare at target
-2. Target bursts into flames
-
-OBr, p. 66
-
-Flame Elemental
-
-Creates a creature of fire with arms, etc.
-
-1. Cast Wall of Flame
-2. Concentrate
-
-OBr, p. 202
-
-Greater Wind of Air and Water
-
-A whirlwind circles the mage three times, then forms a shell of light and force.
-
-Required.
-
-Must be a Master or greater to cast.
-
-1. Cast "Lesser Wind of Fire and Earth"
-2. Raise hand over head
-3. Whisper cantrip
-4. Take energy from "Lesser Wind of Fire and Earth" and form into shapes (Cup and Mill)
-5. Call wind from four directions
-
-OBr, p. 191
-
-Hide Magic
-
-Makes magic undetectable and invisible even to Mage Sight.
-
-Must be an Adept to cast.
-
-OBr, p. 194
-
-Illusion
-
-Creates an illusion.
-
-OBr, p. 193
-
-Lesser Wind of Fire and Earth
-
-OBr, p. 191
-
-Lightning Storm
-
-Creates ball-lightning that strikes where the mage wills.
-
-Must be an Adept to cast.
-
-1. Concentrate.
-2. Make throwing motions with hands.
-
-OBr, p. 203
-
-Mage-Shield
-
-Appears as a glow; blurs "the edges of vision around a mage and his mount"; does not deflect physical or magical missles; does make it hard to see (and, therefore, hard to hit) the mage.
-
-OBr, p. 65
-
-Reverse Aging
-
-The mage grows younger.
-
-AFa, p. 192 (Hulda may have used this spell.)
-
-Slow Aging
-
-Decreases the rate at which a mage ages.
-
-AFa, p. 192 (Hulda may have used this spell.)
-
-Slumber
-
-Causes the target to fall into an instant, deep sleep; can slow bleeding (probably because the heart slows).
-
-OBr, p. 70
-
-Spell of Adept Manifestation 1
-
-White Wind appears; creates a manifestation in the aura colors of the mage, signaling that the mage is an Adept.
-
-Required; must have near-perfect control of tone, tempo and cadence
-
-Must be an Adept to cast.
-
-1. Cast "Greater Wind of Air and Water"
-2. Call the White Wind (Wind of the Five Elements)
-3. Weave the power from the first two spells (Lesser Wind and Greater Wind) and own power using your own will
-4. Sing cantrip
-5. Empty mind of everything except what you wish to build
-
-OBr, p. 191
-
-Spell of Adept Manifestation 2
-
-Creates a man-sized manifestation that can battle another manifestation.
-
-Must be an Adept to cast.
-
-1. Cast "Spell of Adept Manifestation"
-2. Concentrate on smaller version
-
-OBr, p. 201
-
-Spheres of Light
-
-Sends spheres of blinding light at the mage's opponent.
-
-Requires hand motion.
-
-OBr, p. 203
-
-Stop Aging
-
-The mage ceases to age.
-
-AFa, p. 192 (Hulda may have used this spell.)
-
-Summon Wind
-
-Calls a wind that is under the direction of the mage. Starts in front of the mage as a six-foot high, white tornado. Moves according to the mage's will and grows as it encounters and destroys spells of fire.
-
-OBr, p. 202
-
-Wall of Flame
-
-Creates a wall of flame; does damage as normal fire.
-
-OBr, p. 202
+<table>
+    <thead>
+        <tr>
+            <th>Spell</th>
+            <th>Effect</th>
+            <th>Cantrip</th>
+            <th>Components</th>
+            <th>Casting</th>
+            <th>Dismissing</th>
+            <th>Source</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Daggers of Light</td>
+            <td>Creates daggers of light that do damage as normal daggers, but they have to be hurled as normal daggers and have the same chance of striking.</td>
+            <td></td>
+            <td></td>
+            <td>Requires hand motion.</td>
+            <td></td>
+            <td>OBr, p. 202</td>
+        </tr>
+        <tr>
+            <td>Energy Blast</td>
+            <td>Sends a blast of pure energy at the mage's opponent.</td>
+            <td></td>
+            <td></td>
+            <td>Requires hand motion.</td>
+            <td></td>
+            <td>OBr, p. 203</td>
+        </tr>
+        <tr>
+            <td>Fire Balls</td>
+            <td>Smoking, flaming balls thrown from air in front of mage's hand. Damages as real fire on impact with target.</td>
+            <td>Required; described as "guttural phrases."</td>
+            <td></td>
+            <td>Can be used by Hedgewizard and above.<br/> <ol><li>Say cantrip</li><li>Make throwing motion with hand.</li></ol></td>
+            <td></td>
+            <td>OBr, p. 65</td>
+        </tr>
+        <tr>
+            <td>Firestarting</td>
+            <td>Similar to the Heraldic Mind-Magic by the same name; "calls" a certain amount of fire, depending on the level and will of the mage.</td>
+            <td></td>
+            <td></td>
+            <td><ol><li>Stare at target</li><li>Target bursts into flames</li></ol></td>
+            <td></td>
+            <td>OBr, p. 66</td>
+        </tr>
+        <tr>
+            <td>Flame Elemental</td>
+            <td>Creates a creature of fire with arms, etc.</td>
+            <td></td>
+            <td></td>
+            <td><ol><li>Cast Wall of Flame</li><li>Concentrate</li></ol></td>
+            <td></td>
+            <td>OBr, p. 202</td>
+        </tr>
+        <tr>
+            <td>Greater Wind of Air and Water</td>
+            <td>A whirlwind circles the mage three times, then forms a shell of light and force.</td>
+            <td>Required.</td>
+            <td></td>
+            <td>Must be a Master or greater to cast.<br/> <ol><li>Cast "Lesser Wind of Fire and Earth"</li><li>Raise hand over head</li><li>Whisper cantrip</li><li>Take energy from "Lesser Wind of Fire and Earth" and form into shapes (Cup and Mill)</li><li>Call wind from four directions</li></ol></td>
+            <td></td>
+            <td>OBr, p. 191</td>
+        </tr>
+        <tr>
+            <td>Hide Magic</td>
+            <td>Makes magic undetectable and invisible even to Mage Sight.</td>
+            <td></td>
+            <td></td>
+            <td>Must be an Adept to cast.</td>
+            <td></td>
+            <td>OBr, p. 194</td>
+        </tr>
+        <tr>
+            <td>Illusion</td>
+            <td>Creates an illusion.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>OBr, p. 193</td>
+        </tr>
+        <tr>
+            <td>Lesser Wind of Fire and Earth</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>OBr, p. 191</td>
+        </tr>
+        <tr>
+            <td>Lightning Storm</td>
+            <td>Creates ball-lightning that strikes where the mage wills.</td>
+            <td></td>
+            <td></td>
+            <td>Must be an Adept to cast.<br/> <ol><li>Concentrate.</li><li>Make throwing motions with hands.</li></ol></td>
+            <td></td>
+            <td>OBr, p. 203</td>
+        </tr>
+        <tr>
+            <td>Mage-Shield</td>
+            <td>Appears as a glow; blurs "the edges of vision around a mage and his mount"; does not deflect physical or magical missles; does make it hard to see (and, therefore, hard to hit) the mage.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>OBr, p. 65</td>
+        </tr>
+        <tr>
+            <td>Reverse Aging</td>
+            <td>The mage grows younger.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>AFa, p. 192 (Hulda may have used this spell.)</td>
+        </tr>
+        <tr>
+            <td>Slow Aging</td>
+            <td>Decreases the rate at which a mage ages.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>AFa, p. 192 (Hulda may have used this spell.)</td>
+        </tr>
+        <tr>
+            <td>Slumber</td>
+            <td>Causes the target to fall into an instant, deep sleep; can slow bleeding (probably because the heart slows).</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>OBr, p. 70</td>
+        </tr>
+        <tr>
+            <td>Spell of Adept Manifestation 1</td>
+            <td>White Wind appears; creates a manifestation in the aura colors of the mage, signaling that the mage is an Adept.</td>
+            <td>Required; must have near-perfect control of tone, tempo and cadence</td>
+            <td></td>
+            <td>Must be an Adept to cast.<br/> <ol><li>Cast "Greater Wind of Air and Water"</li><li>Call the White Wind (Wind of the Five Elements)</li><li>Weave the power from the first two spells (Lesser Wind and Greater Wind) and own power using your own will</li><li>Sing cantrip</li><li>Empty mind of everything except what you wish to build</li></ol></td>
+            <td></td>
+            <td>OBr, p. 191</td>
+        </tr>
+        <tr>
+            <td>Spell of Adept Manifestation 2</td>
+            <td>Creates a man-sized manifestation that can battle another manifestation.</td>
+            <td></td>
+            <td></td>
+            <td>Must be an Adept to cast.<br/> <ol><li>Cast "Spell of Adept Manifestation"</li><li>Concentrate on smaller version</li></ol></td>
+            <td></td>
+            <td>OBr, p. 201</td>
+        </tr>
+        <tr>
+            <td>Spheres of Light</td>
+            <td>Sends spheres of blinding light at the mage's opponent.</td>
+            <td></td>
+            <td></td>
+            <td>Requires hand motion.</td>
+            <td></td>
+            <td>OBr, p. 203</td>
+        </tr>
+        <tr>
+            <td>Stop Aging</td>
+            <td>The mage ceases to age.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>AFa, p. 192 (Hulda may have used this spell.)</td>
+        </tr>
+        <tr>
+            <td>Summon Wind</td>
+            <td>Calls a wind that is under the direction of the mage. Starts in front of the mage as a six-foot high, white tornado. Moves according to the mage's will and grows as it encounters and destroys spells of fire.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>OBr, p. 202</td>
+        </tr>
+        <tr>
+            <td>Wall of Flame</td>
+            <td>Creates a wall of flame; does damage as normal fire.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>OBr, p. 202</td>
+        </tr>
+    </tbody>
+</table>
 
 ### White Winds School
 
@@ -532,15 +535,11 @@ Challenger's response, cheats by using krakash hidden on person</td>
 
 Tarma slew the defending mage at that point by rather conventional means (using the sword, Need). Jadrek (Kethry's mate) slew the construct with earth magic (as described in the Construct section on this page). Tarma then asked her goddess to restore Kethry to life.
 
-<img alt="" loading="lazy" src="/barstar.gif"/>
-
 <a id="tm2"></a>
 
 ## True Magic (Herald-Mage)
 
 The Herald-Mage combines elements of Heraldic Mind Magic with True Magic as practiced by the White Winds and other schools.
-
-<img alt="" loading="lazy" src="/barstar.gif"/>
 
 <a id="tm1"></a>
 
@@ -551,8 +550,6 @@ This fictional form of magic is employed solely by enemies of the Heralds of Val
 The blood-path mage is often an amateur when it comes to magic, but an amateur with a nuclear bomb can do a whole lot of damage. Blood-path mages rely on the power created by living things simply by the fact that the things are alive (OBo, pp. 25-27). This power requires Talent to sense, but the blood-path mage doesn't care about that since this power does not require Talent to use. The blood-path mage knows that this power can be released by death, so it is possible for a completely untalented individual to work magic at the moment of a death (OBo, pp. 25-27).
 
 Blood-Path mages who persist in their theft of energies can advance in rank. Regular mages who develop a taste for using death energies can become Blood-Path mages at whatever their normal skill level would be. Thus, you have characters like Falconsbane, who was an Adept Blood-Path Mage.
-
-<img alt="" loading="lazy" src="/barstar.gif"/>
 
 <a id="tm4"></a>
 
@@ -573,5 +570,3 @@ An unacknowledged lifebond can cause deep emotional and psychic trouble for the 
 ### Religious Magic Users
 
 Priests and priestesses are also said to use "true magic" (AQ, p. 277). This is in addition to miracles that their deities work through them. Given that the Karsites searched for people with Gifts (Mind Magic) and forced them into religious orders, priests and priestesses likely have a Gift akin to Mage Gift, which allows them to make use of spells.
-
-<img alt="" loading="lazy" src="/bardrgn2.gif"/>

@@ -4,10 +4,6 @@ path = "persona-handouts"
 template = "page.html"
 [extra]
 legacy_source = "qohandouts.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/persona-handouts/"
@@ -17,8 +13,6 @@ revised = "10/16/20"
 ## Queen's Own
 
 ## Handouts
-
-<img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 
 There are several types of persona available. You may only have one persona at a time. If you create a new persona, your current persona will be moved to the [Non-Player Character](/npc-directory/) (NPC) status when your new persona is recognized in the club newsletter. The types of persona available are:
 
@@ -79,11 +73,7 @@ There are several types of persona available. You may only have one persona at a
 
   - [Advanced Rank: Clan Elder](/tayledras-handout/#elder) (Requires an approved Tayledras persona)
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml19.gif"/></a>
-
 If you do not see a persona type listed here, that is because some types have not been approved for play. Many of the main characters in the books are "Misty Only" types. That means that they are types that only Misty may write about; they are not available for persona creation. For instance, you may not play a kestra'chern or an assassin Herald. From time to time new persona handouts are approved and old ones are revised. I announce such updates in the [Queen's Own Newsletter](/newsletter-guidance/).
-
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml1.gif"/></a>
 
 <a id="rules"></a>
 
@@ -101,8 +91,6 @@ If you do not see a persona type listed here, that is because some types have no
 - Remember that we are dealing with a medieval culture. Only certain items will be available to your persona. There's no penicillin or X-ray machine, but there is a mortar and pestle, casts, and salves. Flour--yes; Bisquick--no. Oven--yes; microwave--no. Fruits and vegetables must be fresh and available "locally" or of the type that can be stored in cold cellars or dried successfully. Meat must be from a freshly killed animal, or dried or salted for storage.
 - If you draw, design or create something for a requirement, your work *must* be original. Designing something means that I expect to see a picture or drawing; creating something means that I expect to see something that you actually sewed or made with your hands.
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml3.gif"/></a>
-
 <a id="submit"></a>
 
 ## Submission Instructions
@@ -117,8 +105,6 @@ In order to be formally recognized in the [Queen's Own newsletter](/newsletter-g
   Remember, we can't contact you with questions or approval if we don't have a valid e-mail address associated with your persona.
 - Submit personae materials via e-mail, if possible. Send persona sketches, stories, poems and other written text in either MS Word or .txt/ASCII format. Send proof that you have filled your other requirements. You can scan your CPR cards, pictures, costume designs, drawings and so forth, and send them either as .jpgs or .gifs.
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml2.gif"/></a>
-
 <a id="help"></a>
 
 ## Helpful Hints
@@ -130,5 +116,3 @@ In order to be formally recognized in the [Queen's Own newsletter](/newsletter-g
 {{ <signoff /> }}
 
 <img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

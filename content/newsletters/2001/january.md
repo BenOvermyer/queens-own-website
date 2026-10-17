@@ -5,10 +5,6 @@ template = "page.html"
 date = 2001-01-01
 [extra]
 legacy_source = "qojan01.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2001/january/"
@@ -37,8 +33,6 @@ Keep up to date with happenings in Queen's Own chapters around the world by join
 Thanks for all of your excellent ideas about directions that we can take the club. You are a creative bunch of people, and we're very excited about continuing to work with you in 2001.
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
 
@@ -70,8 +64,6 @@ Thanks for all of your excellent ideas about directions that we can take the clu
 10. **What other projects besides Queen's Own occupy your time?**
 
   Dragonlords ([http://www.dragonlordsnet.com](https://dragonlords.fans/index.html)), and I work for a web design company.
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   ## Ren Faires:
 
@@ -227,8 +219,6 @@ Thanks for all of your excellent ideas about directions that we can take the clu
 
   For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
   <img alt="Sabyll's Nightmare by Jan Tallevast" class="border-3" loading="lazy" src="/qo51.jpg"/>
 
   ## Member News:
@@ -252,8 +242,6 @@ Thanks for all of your excellent ideas about directions that we can take the clu
   - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at the above address (Please include a SASE when requesting information via snail mail.). Please stay tuned for more information!
   - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
   - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   ## Other Fandoms:
 
@@ -286,15 +274,13 @@ Thanks for all of your excellent ideas about directions that we can take the clu
 
   Happy New Year!
 
-  I hope all of your holidays went well. Mine went exceedingly well. My husband has finally signed papers to get out of the military. That means that we will be moving to California at the beginning of June. This will make it easier to coordinate Queen�s Own get-togethers. I especially look forward to living near my co-president and best friend, Danya.
+  I hope all of your holidays went well. Mine went exceedingly well. My husband has finally signed papers to get out of the military. That means that we will be moving to California at the beginning of June. This will make it easier to coordinate Queen's Own get-togethers. I especially look forward to living near my co-president and best friend, Danya.
 
   I also got lots of neat gifts, and was able to see a couple of movies. I recommend *The Grinch* but would catch *Dungeons and Dragons* on video. I really want to see *Castaway* and *What Women Want*. Anyone who has seen these movies please write a review for *The Compass Rose*.
 
   Hugs-
 
   Moonstar
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   ## Fan Messages:
 
@@ -310,14 +296,10 @@ Thanks for all of your excellent ideas about directions that we can take the clu
   - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
   - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
   ## Personals:
 
   - To **Skyler** and **Torey**, from **Herald Jacquelle** ([Joan1431@aol.com](mailto:Joan1431@aol.com)): Heyla! Lancer and I just returned from the field, and were hoping to catch up with you before being sent out again. Hope to hear from you! Wind to thy wings, Herald Jacquelle and Lancer.
   - To **Aurora Nelson** from **Herald-Mage Danya Winterborn**: Oops! I forgot to scan and run your holiday greetings from Golden Grove! I'll do my best to remember to attach that to the online copy of the [December newsletter](/newsletters/2000/december/), and I'll message the chat list when I post it. Sorry!
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -338,9 +320,3 @@ Thanks for all of your excellent ideas about directions that we can take the clu
   Herald-Mage Master Danya Winterborn and
 
   Healer Adept Moonstar
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
-  <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-  <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

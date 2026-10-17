@@ -5,10 +5,6 @@ template = "page.html"
 date = 2005-07-01
 [extra]
 legacy_source = "qojul05.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2005/july/"
@@ -30,11 +26,11 @@ Heyla, Misty fans!
 
 Congratulations to all of you who graduated in June! Also, Happy Fourth of July to all of you fans in the U.S.! Hope all of you are having a great summer (or winter, for those of you south of the equator &lt;g>).
 
-The major news for the month is that Moonstar (Kendra Renaud) has tendered her resignation as co-President of Queen�s Own. She will continue as a member, but there is simply too much going on in her life for her to keep up with the work of being co-President. Her letter of resignation appears in a special section below. Moonstar will continue on as the editor of *Children of Velgarth*, and she will still help field the Tayledras questions on the QO and QO Pending chat lists.
+The major news for the month is that Moonstar (Kendra Renaud) has tendered her resignation as co-President of Queen's Own. She will continue as a member, but there is simply too much going on in her life for her to keep up with the work of being co-President. Her letter of resignation appears in a special section below. Moonstar will continue on as the editor of *Children of Velgarth*, and she will still help field the Tayledras questions on the QO and QO Pending chat lists.
 
-This is a reminder that Misty and Larry will be at Convergence in Minnesota July 1-3! (See the ad below for more details.) If you are a QO member and are able to attend, please report back to us about everything that happens (especially if you get to meet Misty and Larry!). We�d like to be there with you in spirit even though some of us cannot be there in person.
+This is a reminder that Misty and Larry will be at Convergence in Minnesota July 1-3! (See the ad below for more details.) If you are a QO member and are able to attend, please report back to us about everything that happens (especially if you get to meet Misty and Larry!). We'd like to be there with you in spirit even though some of us cannot be there in person.
 
-I have been able to get quite a few of the old QO newsletters online this month. Among these was the newsletter for March 1996, which can be viewed at [Queen’s Own newsletter — March 1996](/newsletters/1996/march/). This newsletter is of note because both Danya and Moonstar were approved in this edition. (Can�t believe I didn�t have that one online yet!) I only have a dozen more to go, but things will slow down a bit now that I�m back to typing in the remaining letters. We are still missing copies of the first two QO newsletters, both only 1 page in length, from February and March of 1988, and parts of the January and February newsletters for 1990. If you have any of these, please scan them and send them to me or send a photocopy to the QO address. I�d love our collection of old newsletters to be complete.
+I have been able to get quite a few of the old QO newsletters online this month. Among these was the newsletter for March 1996, which can be viewed at [Queen’s Own newsletter — March 1996](/newsletters/1996/march/). This newsletter is of note because both Danya and Moonstar were approved in this edition. (Can't believe I didn't have that one online yet!) I only have a dozen more to go, but things will slow down a bit now that I'm back to typing in the remaining letters. We are still missing copies of the first two QO newsletters, both only 1 page in length, from February and March of 1988, and parts of the January and February newsletters for 1990. If you have any of these, please scan them and send them to me or send a photocopy to the QO address. I'd love our collection of old newsletters to be complete.
 
 One of the requirements on several of the QO handouts for extra points is to become a volunteer. As I was reading *Family Circle* this month I ran across the following list of several organizations that offer scholarships and other rewards to young volunteers:
 
@@ -48,41 +44,41 @@ Check out their sites, and let me know if you find any others like them. Also, i
 
 ### Publication News:
 
-*Bedlam�s Edge*, the next installment in the Bedlam�s Bard series and coauthored with Rosemary Edghill, is still on track for an August release, as is the paperback release of *Children of the Night*.
+*Bedlam's Edge*, the next installment in the Bedlam's Bard series and coauthored with Rosemary Edghill, is still on track for an August release, as is the paperback release of *Children of the Night*.
 
-The fourth and newest installment in Misty�s Elemental Masters series, *The Wizard of London*, is coming in early October. You can see a complete list of Misty�s Elemental Masters novels at [http://www.dragonlordsnet.com/bkmlem.htm](https://dragonlords.fans/bkmlem.htm). While you�re there, you can pick up a paperback copy of the third Elemental Masters book, *Phoenix and Ashes*.
+The fourth and newest installment in Misty's Elemental Masters series, *The Wizard of London*, is coming in early October. You can see a complete list of Misty's Elemental Masters novels at [http://www.dragonlordsnet.com/bkmlem.htm](https://dragonlords.fans/bkmlem.htm). While you're there, you can pick up a paperback copy of the third Elemental Masters book, *Phoenix and Ashes*.
 
-On November 1, look for the paperback version of Misty�s *Winter Moon: Moontide/The Heart of the Moon/Banshee Cries*, coauthored with Tanith Lee and C.E. Murphy.
+On November 1, look for the paperback version of Misty's *Winter Moon: Moontide/The Heart of the Moon/Banshee Cries*, coauthored with Tanith Lee and C.E. Murphy.
 
-You won�t have to wait too long for the next installment of the Bedlam�s Bard series: *Music to My Sorrow*, by Mercedes Lackey and Rosemary Edghill, hits shelves in hardcover on December 1.
+You won't have to wait too long for the next installment of the Bedlam's Bard series: *Music to My Sorrow*, by Mercedes Lackey and Rosemary Edghill, hits shelves in hardcover on December 1.
 
-If you�ve been itching for new stories in paperback about everyone�s favorite fantasy realm, Valdemar, be sure to pick up Misty�s *Crossroads and Other Tales of Valdemar*. You can pre-order this collection at [http://www.dragonlordsnet.com/bkmlvs.htm](https://dragonlords.fans/bkmlvs.htm).
+If you've been itching for new stories in paperback about everyone's favorite fantasy realm, Valdemar, be sure to pick up Misty's *Crossroads and Other Tales of Valdemar*. You can pre-order this collection at the Valdemar bookstore page.
 
-The New Year will be a busy one for you readers; *Stoned Souls* (with Josepha Sherman, edited by James P. Baen) will be released, as will two paperback Misty collaborations: *The Wizard of Karres* with Eric Flint and Dave Freer and Misty�s latest editing stint, *Mapping the World of Harry Potter*.
+The New Year will be a busy one for you readers; *Stoned Souls* (with Josepha Sherman, edited by James P. Baen) will be released, as will two paperback Misty collaborations: *The Wizard of Karres* with Eric Flint and Dave Freer and Misty's latest editing stint, *Mapping the World of Harry Potter*.
 
-Also, *Harry Potter and the Half-blood Prince* is due out July 16th. If you pre-order by July 11th through the Dragonlords� Bookstore at [http://www.dragonlordsnet.com/bkjuvhp.htm](https://dragonlords.fans/bkjuvhp.htm), Amazon.com will guarantee delivery on the date of release.
+Also, *Harry Potter and the Half-blood Prince* is due out July 16th. If you pre-order by July 11th through the Dragonlords' Bookstore at [http://www.dragonlordsnet.com/bkjuvhp.htm](https://dragonlords.fans/bkjuvhp.htm), Amazon.com will guarantee delivery on the date of release.
 
-You can now pre-order *The Polar Express* (The Movie) at [http://www.dragonlordsnet.com/bkholiday.htm](https://dragonlords.fans/bkholiday.htm). Please do! I�ve been waiting months for this. The song "Believe" should have an Academy Award, even though it wasn�t nominated. Those of us with kids think the book is fabulous, and the movie was an excellent presentation of the spirit of the book. We couldn�t imagine how anyone would make this into a movie, and they did it so well … Please encourage these folks to do more projects of this nature!
+You can now pre-order *The Polar Express* (The Movie) at [http://www.dragonlordsnet.com/bkholiday.htm](https://dragonlords.fans/bkholiday.htm). Please do! I've been waiting months for this. The song "Believe" should have an Academy Award, even though it wasn't nominated. Those of us with kids think the book is fabulous, and the movie was an excellent presentation of the spirit of the book. We couldn't imagine how anyone would make this into a movie, and they did it so well … Please encourage these folks to do more projects of this nature!
 
-Remember, a portion of all purchases made through the Dragonlords� Bookstore, [http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm), go to support Queen�s Own. This is how we keep our memberships free, so we greatly appreciate your patronage.
+Remember, a portion of all purchases made through the Dragonlords' Bookstore, [http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm), go to support Queen's Own. This is how we keep our memberships free, so we greatly appreciate your patronage.
 
 ### Trivia from a past newsletter:
 
-*Arrow�s Message* was the first approved QO zine. Stephanie Wong edited the first issue in April 1990. Organizational messages for the zine appeared in November/December 1989 and February 1990. You can view these and other past QO newsletters at [Newsletter publication and submission guidance](/newsletter-guidance/#past).
+*Arrow's Message* was the first approved QO zine. Stephanie Wong edited the first issue in April 1990. Organizational messages for the zine appeared in November/December 1989 and February 1990. You can view these and other past QO newsletters at [Newsletter publication and submission guidance](/newsletter-guidance/#past).
 
 ### Darkover fans, take note:
 
-I received the following from Peter Olotka, designer Cosmic Encounter Online: "I am one of the designers of the (long out of print) Darkover board game by Eon products (1979). We are running a�memorabilia eBay auction for Cosmic Encounter gamers off our site, and I unearthed a collection of Darkover board games from the archives. I thought there might be a few Darkover fans who might be interested." The URLs he provided are [http://www.CosmicEncounter.com](http://www.CosmicEncounter.com), [http://cosmicencounter.blogspot.com/](http://cosmicencounter.blogspot.com/), and [http://www.FuturePastimes.com/Peter_Olotka](http://www.FuturePastimes.com/Peter_Olotka).
+I received the following from Peter Olotka, designer Cosmic Encounter Online: "I am one of the designers of the (long out of print) Darkover board game by Eon products (1979). We are running a'memorabilia eBay auction for Cosmic Encounter gamers off our site, and I unearthed a collection of Darkover board games from the archives. I thought there might be a few Darkover fans who might be interested." The URLs he provided are [http://www.CosmicEncounter.com](http://www.CosmicEncounter.com), [http://cosmicencounter.blogspot.com/](http://cosmicencounter.blogspot.com/), and [http://www.FuturePastimes.com/Peter_Olotka](http://www.FuturePastimes.com/Peter_Olotka).
 
-Congratulations to Herald Jhenna Leisater on the birth of her daughter, Jessica Louise! Herald Jhenna writes, "Jessica was 8 lbs. 4 oz.�and was 22 inches long.� She's even got a full head of red hair."
+Congratulations to Herald Jhenna Leisater on the birth of her daughter, Jessica Louise! Herald Jhenna writes, "Jessica was 8 lbs. 4 oz.'and was 22 inches long.' She's even got a full head of red hair."
 
-Special thanks to Amber Taufen for her help compiling this edition of the Queen�s Own newsletter! I really appreciate the assistance.
+Special thanks to Amber Taufen for her help compiling this edition of the Queen's Own newsletter! I really appreciate the assistance.
 
-There are all sorts of things that need doing with Queen�s Own. If you have some extra time and would like to volunteer to help out, contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com).
+There are all sorts of things that need doing with Queen's Own. If you have some extra time and would like to volunteer to help out, contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
-If you have news of interest to QO members, write to me (Danya) at [shashtah@gmail.com](mailto:shashtah@gmail.com). I love to hear what�s going on and to announce the milestones in your lives in the QO newsletter. Attended a fandom or related event (a Faire, a Con, somewhere like Medieval Times, visited a special museum or archaeological site, an awards ceremony, took a tour of a press … )? Read a good book? Seen a good movie? Write a review! If you have pictures, send those as well! (We are in desperate need of art for the online version of the newsletter. Artists, please send me whatever you have at [shashtah@gmail.com](mailto:shashtah@gmail.com)! Thanks!)
+If you have news of interest to QO members, write to me (Danya) at [shashtah@gmail.com](mailto:shashtah@gmail.com). I love to hear what's going on and to announce the milestones in your lives in the QO newsletter. Attended a fandom or related event (a Faire, a Con, somewhere like Medieval Times, visited a special museum or archaeological site, an awards ceremony, took a tour of a press … )? Read a good book? Seen a good movie? Write a review! If you have pictures, send those as well! (We are in desperate need of art for the online version of the newsletter. Artists, please send me whatever you have at [shashtah@gmail.com](mailto:shashtah@gmail.com)! Thanks!)
 
-For our special section this month, here�s my review of Jasper Fforde�s *The Big Over Easy*.
+For our special section this month, here's my review of Jasper Fforde's *The Big Over Easy*.
 
 Have a fabulous summer!
 
@@ -90,21 +86,17 @@ Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+**Review of The Big Over Easy by Jasper Fforde. New York: Viking, 2005, 383 pages.** Jasper Fforde, the amazingly creative author of the Thursday Next series, inaugurates a new mystery series, the Nursery Crimes. Detective Jack Spratt and his assistant, Mary Mary (yes, she's quite contrary) investigate the murder of Humpty Dumpty. As usual, Fforde keeps you on your proverbial toes (or perhaps "piggies" would be the better word in this case) with his clever literary references, this time to enough nursery rhymes and fairy tales to give even this folklorist's memory a decent workout.
 
-**Review of The Big Over Easy by Jasper Fforde. New York: Viking, 2005, 383 pages.** Jasper Fforde, the amazingly creative author of the Thursday Next series, inaugurates a new mystery series, the Nursery Crimes. Detective Jack Spratt and his assistant, Mary Mary (yes, she�s quite contrary) investigate the murder of Humpty Dumpty. As usual, Fforde keeps you on your proverbial toes (or perhaps "piggies" would be the better word in this case) with his clever literary references, this time to enough nursery rhymes and fairy tales to give even this folklorist�s memory a decent workout.
+This new series seems to be set in the same world as the Thursday Next stories, only this time the detective works for the Nursery Crimes Division (NCD). As in Thursday's world, literary characters cross over into the "real" world, but the nursery rhyme characters are not always aware that they are from fairy tales and other traditional children's stories. The greatest detectives in the world belong to the Guild, a body of detectives and Official Sidekicks, inspired by the work of Sherlock Holmes and Watson. Guild detectives have their exploits published in *Amazing Crime Stories*, a serial magazine. These detectives get all the best cases and a lot of other perks. Jack's wife has nominated him for membership in the Guild, but Jack isn't sure he really wants to join. He has an uneasy feeling that something is wrong with the Guild, aside from the fact that his former partner, Friedland Chymes, is the number two detective in that organization. Jack would simply rather do good old fashioned detective work …
 
-This new series seems to be set in the same world as the Thursday Next stories, only this time the detective works for the Nursery Crimes Division (NCD). As in Thursday�s world, literary characters cross over into the "real" world, but the nursery rhyme characters are not always aware that they are from fairy tales and other traditional children�s stories. The greatest detectives in the world belong to the Guild, a body of detectives and Official Sidekicks, inspired by the work of Sherlock Holmes and Watson. Guild detectives have their exploits published in *Amazing Crime Stories*, a serial magazine. These detectives get all the best cases and a lot of other perks. Jack�s wife has nominated him for membership in the Guild, but Jack isn�t sure he really wants to join. He has an uneasy feeling that something is wrong with the Guild, aside from the fact that his former partner, Friedland Chymes, is the number two detective in that organization. Jack would simply rather do good old fashioned detective work …
+There's nothing good or old fashioned about the case when Humpty Dumpty turns up in pieces one morning (near a great wall, of course). As head of the NCD, Jack is assigned the case. Together with Mary Mary and an assortment of other misfit crime fighters (including an actual alien), Jack collects clues, follows leads, and tries to piece together the puzzle (which is about as hard to put together as Humpty's remains). The investigation would be tricky enough without Chymes trying to take the case away from the NCD. Jack has until the Jellyman arrives to dedicate the Sacred Gonga to solve the crime, otherwise the NCD will be disbanded and Chymes will get the case.
 
-There�s nothing good or old fashioned about the case when Humpty Dumpty turns up in pieces one morning (near a great wall, of course). As head of the NCD, Jack is assigned the case. Together with Mary Mary and an assortment of other misfit crime fighters (including an actual alien), Jack collects clues, follows leads, and tries to piece together the puzzle (which is about as hard to put together as Humpty�s remains). The investigation would be tricky enough without Chymes trying to take the case away from the NCD. Jack has until the Jellyman arrives to dedicate the Sacred Gonga to solve the crime, otherwise the NCD will be disbanded and Chymes will get the case.
+If that weren't enough, Jack's daughter (one of his five children) is dating his new lodger, Prometheus, and, after a misadventure with some magic beans, his mother now has an enormous beanstalk growing in her backyard … *The Big Over Easy* is quite the enjoyable romp for anyone who enjoys folklore and mythology'plus it's a wonderful detective story. Do treat yourself to this one for some enjoyable summer reading!
 
-If that weren�t enough, Jack�s daughter (one of his five children) is dating his new lodger, Prometheus, and, after a misadventure with some magic beans, his mother now has an enormous beanstalk growing in her backyard … *The Big Over Easy* is quite the enjoyable romp for anyone who enjoys folklore and mythology�plus it�s a wonderful detective story. Do treat yourself to this one for some enjoyable summer reading!
-
-The Big Over Easy will be released July 25, 2005. You can pre-order this novel and order Jasper Fforde�s other excellent books at http://www.dragonlordsnet.com/bksfjf.htm. (If you aren�t familiar with this author yet, definitely try his works. They are wonderful reads!)
+The Big Over Easy will be released July 25, 2005. You can pre-order this novel and order Jasper Fforde's other excellent books at http://www.dragonlordsnet.com/bksfjf.htm. (If you aren't familiar with this author yet, definitely try his works. They are wonderful reads!)
 
 --by Danya Winterborn (a.k.a. L.A. Malcor)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -126,59 +118,59 @@ Here are the Faires we know about for July. Faires are indexed alphabetically by
 
 ### Colorado
 
-**Colorado Renaissance Faire.** E-mail: [info@coloradorenaissance.com](mailto:info@coloradorenaissance.com). Website: [http://www.coloradorenaissance.com/](http://www.coloradorenaissance.com/). Address: Jim Paradise, 409 S. Wilcox Ste. F, Castle Rock, CO 80104. Site Address: I-25 Exit 172/173, Larkspur, CO. Dates: 6/11/05-7/31/05. Open/Close: 10 a.m. � 6:30 p.m.
+**Colorado Renaissance Faire.** E-mail: [info@coloradorenaissance.com](mailto:info@coloradorenaissance.com). Website: [http://www.coloradorenaissance.com/](http://www.coloradorenaissance.com/). Address: Jim Paradise, 409 S. Wilcox Ste. F, Castle Rock, CO 80104. Site Address: I-25 Exit 172/173, Larkspur, CO. Dates: 6/11/05-7/31/05. Open/Close: 10 a.m. ' 6:30 p.m.
 
 ### Connecticut
 
-**Southern Connecticut Renaissance Festival.** E-mail: [parkcityrenfaire@aol.com](mailto:parkcityrenfaire@aol.com). Website: [http://www.parkcityrenaissancefaire.com/](http://www.parkcityrenaissancefaire.com/). Address: Realistic ReEnactments LLC, P.O. Box 835, Seymour, CT 06483. Site Address: Warsaw Park, Ansonia, CT. Dates: 7/8/05-7/17/05. Open/Close: Fri. 6 p.m. � 10:00 p.m.; Sat. 12:00 p.m. � 10 p.m.; Sun. 10 a.m. � 6 p.m.
+**Southern Connecticut Renaissance Festival.** E-mail: [parkcityrenfaire@aol.com](mailto:parkcityrenfaire@aol.com). Website: [http://www.parkcityrenaissancefaire.com/](http://www.parkcityrenaissancefaire.com/). Address: Realistic ReEnactments LLC, P.O. Box 835, Seymour, CT 06483. Site Address: Warsaw Park, Ansonia, CT. Dates: 7/8/05-7/17/05. Open/Close: Fri. 6 p.m. ' 10:00 p.m.; Sat. 12:00 p.m. ' 10 p.m.; Sun. 10 a.m. ' 6 p.m.
 
 ### Maine
 
-**Maine Renaissance Faire.** E-mail: [info@mainefaire.com](mailto:info@mainefaire.com). Website: [http://www.mainefaire.com/](http://www.mainefaire.com/). Address: Cloak and Dagger, 12 Lewiston Rd., New Gloucester, ME 04260. Site Address: Lord Rd., Lebanon, ME. Dates: 7/17/05-8/22/05. Open/Close: 10 a.m. � 5:00 p.m.
+**Maine Renaissance Faire.** E-mail: [info@mainefaire.com](mailto:info@mainefaire.com). Website: [http://www.mainefaire.com/](http://www.mainefaire.com/). Address: Cloak and Dagger, 12 Lewiston Rd., New Gloucester, ME 04260. Site Address: Lord Rd., Lebanon, ME. Dates: 7/17/05-8/22/05. Open/Close: 10 a.m. ' 5:00 p.m.
 
 ### Massachusetts
 
-**Robin Hood Faire at Hammond Castle.** Website: [http://www.hammondcastle.org/index.htm](http://www.hammondcastle.org/index.htm). Address: Hammond Castle Museum, 80 Hesperus Ave., Gloucester, MA 01930. Site Address: Hammond Castle Museum, 80 Hesperus Ave., Gloucester, MA. Dates: 7/15/05-7/24/05. Open/Close: 10 a.m. � 6:00 p.m.
+**Robin Hood Faire at Hammond Castle.** Website: [http://www.hammondcastle.org/index.htm](http://www.hammondcastle.org/index.htm). Address: Hammond Castle Museum, 80 Hesperus Ave., Gloucester, MA 01930. Site Address: Hammond Castle Museum, 80 Hesperus Ave., Gloucester, MA. Dates: 7/15/05-7/24/05. Open/Close: 10 a.m. ' 6:00 p.m.
 
 ### Michigan
 
-**Silver Leaf Renaissance Faire.** Website: [http://www.silverleafrenfaire.org/](http://www.silverleafrenfaire.org/). Address: P.O. Box 2346, Portage, MI 49081-2346. Site Address: River Oaks Park, between Galesburg and Comstock, M-96. Dates: 7/9/05-7/31/05. Open/Close: 10 a.m. � 5:00 p.m.
+**Silver Leaf Renaissance Faire.** Website: [http://www.silverleafrenfaire.org/](http://www.silverleafrenfaire.org/). Address: P.O. Box 2346, Portage, MI 49081-2346. Site Address: River Oaks Park, between Galesburg and Comstock, M-96. Dates: 7/9/05-7/31/05. Open/Close: 10 a.m. ' 5:00 p.m.
 
-**Western Michigan Renaissance Faire.** Website: [http://www.digitalalloy.com/wmrf.html](http://www.digitalalloy.com/wmrf.html). Address: Ludington area Jaycees, 6320 W. Dewey Rd., Ludington, MI 49431. Site Address: Piney Grove, Ludington, MI. Dates: 7/2/05-7/3/05. Open/Close: 10 a.m. � 6:00 p.m.
+**Western Michigan Renaissance Faire.** Website: [http://www.digitalalloy.com/wmrf.html](http://www.digitalalloy.com/wmrf.html). Address: Ludington area Jaycees, 6320 W. Dewey Rd., Ludington, MI 49431. Site Address: Piney Grove, Ludington, MI. Dates: 7/2/05-7/3/05. Open/Close: 10 a.m. ' 6:00 p.m.
 
 ### Nevada
 
-**Genoa Renaissance Faire.** E-mail: [antiplus@gbis.com](mailto:antiplus@gbis.com). Website: [http://www.genoaevents.com/index_page0006.htm/](http://www.genoaevents.com/index_page0006.htm/). Address: Martha or Kristen Williams, P.O. Box 89, Genoa, NV 89411. Site Address: 2242 Main St., Genoa, NV. Dates: 7/30/05-7/31/05. Open/Close: 10 a.m. � 6:00 p.m. (Sun. till 5 p.m.).
+**Genoa Renaissance Faire.** E-mail: [antiplus@gbis.com](mailto:antiplus@gbis.com). Website: [http://www.genoaevents.com/index_page0006.htm/](http://www.genoaevents.com/index_page0006.htm/). Address: Martha or Kristen Williams, P.O. Box 89, Genoa, NV 89411. Site Address: 2242 Main St., Genoa, NV. Dates: 7/30/05-7/31/05. Open/Close: 10 a.m. ' 6:00 p.m. (Sun. till 5 p.m.).
 
 ### New Jersey
 
-**New Jersey Renaissance Faire.** E-mail: [info@njrenfaire.com](mailto:info@njrenfaire.com). Website: [http://www.njrenfaire.com](http://www.njrenfaire.com). Address: 2604 Pacific Ave. Ste. 201, Wildwood, NJ 08260. Site Address: Wildwood Beach, Rio Grande Ave. (next to Wildwoods Convention Center, 4501 Boardwalk, Wildwood, NJ). Open/Close: 11 a.m. � 8:00 p.m.
+**New Jersey Renaissance Faire.** E-mail: [info@njrenfaire.com](mailto:info@njrenfaire.com). Website: [http://www.njrenfaire.com](http://www.njrenfaire.com). Address: 2604 Pacific Ave. Ste. 201, Wildwood, NJ 08260. Site Address: Wildwood Beach, Rio Grande Ave. (next to Wildwoods Convention Center, 4501 Boardwalk, Wildwood, NJ). Open/Close: 11 a.m. ' 8:00 p.m.
 
 ### New York
 
-**Sterling Renaissance Festival and Summer Marketplace.** Website: [http://sterlingfestival.com/renfest/index.html](http://sterlingfestival.com/renfest/index.html). Address: 15385 Farden Rd., Sterling, NY 13156. Site Address: Near Fair Haven Beach State Park, Rt. 104-A, Sterling, NY. Dates: 7/2/05-8/14/05. Open/Close: 10 a.m. � 7:00 p.m.
+**Sterling Renaissance Festival and Summer Marketplace.** Website: [http://sterlingfestival.com/renfest/index.html](http://sterlingfestival.com/renfest/index.html). Address: 15385 Farden Rd., Sterling, NY 13156. Site Address: Near Fair Haven Beach State Park, Rt. 104-A, Sterling, NY. Dates: 7/2/05-8/14/05. Open/Close: 10 a.m. ' 7:00 p.m.
 
 ### Ohio
 
-**Great Lakes Medieval Faire.** E-mail: [questions@medievalfaire.com](mailto:questions@medievalfaire.com). Website: [http://www.medievalfaire.com/](http://www.medievalfaire.com/). Address: P.O. Box 376, Rock Creek, OH 44084. Site Address: 7 miles South of I-90 on State Route 534, Geneva, OH. Dates: 7/2/05-8/2/05. Open/Close: 10 a.m. � 7:00 p.m.
+**Great Lakes Medieval Faire.** E-mail: [questions@medievalfaire.com](mailto:questions@medievalfaire.com). Website: [http://www.medievalfaire.com/](http://www.medievalfaire.com/). Address: P.O. Box 376, Rock Creek, OH 44084. Site Address: 7 miles South of I-90 on State Route 534, Geneva, OH. Dates: 7/2/05-8/2/05. Open/Close: 10 a.m. ' 7:00 p.m.
 
 ### Oregon
 
-**Celtic Lughnasadh Games & Fair.** E-mail: [celtic@efn.org](mailto:celtic@efn.org). Website: [http://www.efn.org/~celtic/](http://www.efn.org/~celtic/). Address: An Ceangal Mara Foundation, 27 West Fifth Ave., Eugene, OR 97401. Site Address: Iris Hill Vineyard, off Territorial Highway, Iris Hill Ln., Eugene, OR. Dates: 7/30/05-7/31/05. Open/Close: 10 a.m. � 6 p.m.
+**Celtic Lughnasadh Games & Fair.** E-mail: [celtic@efn.org](mailto:celtic@efn.org). Website: [http://www.efn.org/~celtic/](http://www.efn.org/~celtic/). Address: An Ceangal Mara Foundation, 27 West Fifth Ave., Eugene, OR 97401. Site Address: Iris Hill Vineyard, off Territorial Highway, Iris Hill Ln., Eugene, OR. Dates: 7/30/05-7/31/05. Open/Close: 10 a.m. ' 6 p.m.
 
-**The Faerieworlds Festival.** E-mail: [info@faerieworlds.com](mailto:info@faerieworlds.com). Website: [http://www.faerieworlds.com/](http://www.faerieworlds.com/). Site Address: Secret House Winery, 88324 Vineyard Ln., Veneta, OR. Dates: 7/23/05-7/24/05. Open/Close: 12 p.m. � 10:00 p.m.
+**The Faerieworlds Festival.** E-mail: [info@faerieworlds.com](mailto:info@faerieworlds.com). Website: [http://www.faerieworlds.com/](http://www.faerieworlds.com/). Site Address: Secret House Winery, 88324 Vineyard Ln., Veneta, OR. Dates: 7/23/05-7/24/05. Open/Close: 12 p.m. ' 10:00 p.m.
 
-**Faire by the Sea: Brookings/Harbor Renaissance Fest.** Address: Upper Crust Designs, Hayley Farr, P.O. Box 23, Brookings, OR 97415. Site Address: Azalea Park, Azalea Park Rd., Brookings, OR. Dates: 7/9/05. Open/Close: 12 p.m. � dusk.
+**Faire by the Sea: Brookings/Harbor Renaissance Fest.** Address: Upper Crust Designs, Hayley Farr, P.O. Box 23, Brookings, OR 97415. Site Address: Azalea Park, Azalea Park Rd., Brookings, OR. Dates: 7/9/05. Open/Close: 12 p.m. ' dusk.
 
-**Mid-summer�s Renaissance Faire.** E-mail: [info@midsummersrenfaire.us](mailto:info@midsummersrenfaire.us). Website: [http://www.midsummersrenfaire.us/](http://www.midsummersrenfaire.us/). Site Address: Village of Drachenfels, 4780 Dee Hwy., Dee, OR. Dates: 7/16/05-7/17/05. Open/Close: 10 a.m. � 6 p.m.
+**Mid-summer's Renaissance Faire.** E-mail: [info@midsummersrenfaire.us](mailto:info@midsummersrenfaire.us). Website: [http://www.midsummersrenfaire.us/](http://www.midsummersrenfaire.us/). Site Address: Village of Drachenfels, 4780 Dee Hwy., Dee, OR. Dates: 7/16/05-7/17/05. Open/Close: 10 a.m. ' 6 p.m.
 
 ### Utah
 
-**Utah Midsummer Renaissance Faire.** E-mail: [kedronvale@hotmail.com](mailto:kedronvale@hotmail.com). Website: [http://www.umrf.net/](http://www.umrf.net/). Site Address: Main Street Park, Cedar City, UT. Dates: 7/13/05-7/16/05. Open/Close: 11 a.m. � 8 p.m.
+**Utah Midsummer Renaissance Faire.** E-mail: [kedronvale@hotmail.com](mailto:kedronvale@hotmail.com). Website: [http://www.umrf.net/](http://www.umrf.net/). Site Address: Main Street Park, Cedar City, UT. Dates: 7/13/05-7/16/05. Open/Close: 11 a.m. ' 8 p.m.
 
 ### Vermont
 
-**Killington Renaissance Festival.** Website: [http://www.renfairekillington.com/](http://www.renfairekillington.com/). Site Address: Cortina Inn & Resort, 103 U.S. Rte. 4, Killington, VT. Dates: 7/23/05-7/31/05. Open/Close: 11 a.m. � 5 p.m.
+**Killington Renaissance Festival.** Website: [http://www.renfairekillington.com/](http://www.renfairekillington.com/). Site Address: Cortina Inn & Resort, 103 U.S. Rte. 4, Killington, VT. Dates: 7/23/05-7/31/05. Open/Close: 11 a.m. ' 5 p.m.
 
 **Shakespeare and Friends, A Renaissance Faire.** E-mail: [info@vtrenfest.com](mailto:info@vtrenfest.com). Website: [http://www.vermontfestival.com](http://www.vermontfestival.com). Address: 122 Westminster St., Bellows Falls, VT 05101. Site Address: The Guildford Fairgrounds, Guildford, VT. Dates: 6/25/05-7/16/05. Open/Close: 10 a.m. - 5 p.m.
 
@@ -192,7 +184,7 @@ Here are the Faires we know about for July. Faires are indexed alphabetically by
 
 **Camlann Medieval Faire.** Website: [http://www.camlann.org/](http://www.camlann.org/). Address: 10320 Kelly Rd. NE, Carnation, WA 98014. Site Address: 10320 Kelly Rd. NE, Carnation, WA. Dates: 7/23/05-8/28/05. Open/Close: 11:30 a.m. - 6 p.m.
 
-**Pacific Northwest Scottish Highland Games & Clan Gathering.** E-mail: [scots4ever@sshga.org](mailto:scots4ever@sshga.org). Website: [http://www.sshga.org/](http://www.sshga.org/). Address: SSGHA, P.O. Box 75685, Seattle, WA 98175. Site Address: King County Fairgrounds, Enumclas, WA. Dates: 7/30/05-7/31/05. Open/Close: 8 a.m. � 5:30 p.m.
+**Pacific Northwest Scottish Highland Games & Clan Gathering.** E-mail: [scots4ever@sshga.org](mailto:scots4ever@sshga.org). Website: [http://www.sshga.org/](http://www.sshga.org/). Address: SSGHA, P.O. Box 75685, Seattle, WA 98175. Site Address: King County Fairgrounds, Enumclas, WA. Dates: 7/30/05-7/31/05. Open/Close: 8 a.m. ' 5:30 p.m.
 
 ### Wisconsin
 
@@ -204,25 +196,25 @@ Here are the Faires we know about for July. Faires are indexed alphabetically by
 
 ### Australia
 
-**Abbey Medieval Tournament.** E-mail: [admin@abbeymuseum.asn.au](mailto:admin@abbeymuseum.asn.au). Website: [http://www.abbeytournament.com/](http://www.abbeytournament.com/). Address: Abbey Museum of Art and Archaeology, 1-63 The Abbey Place, Caboolture, Queensland, 4510, Australia. Site Address: Abbey Museum of Art and Archaeology, 1-63 The Abbey Place, Caboolture, Queensland, Australia. Dates: 7/2/05-7/3/05. Open/Close: 9 a.m. � 4:30 p.m.
+**Abbey Medieval Tournament.** E-mail: [admin@abbeymuseum.asn.au](mailto:admin@abbeymuseum.asn.au). Website: [http://www.abbeytournament.com/](http://www.abbeytournament.com/). Address: Abbey Museum of Art and Archaeology, 1-63 The Abbey Place, Caboolture, Queensland, 4510, Australia. Site Address: Abbey Museum of Art and Archaeology, 1-63 The Abbey Place, Caboolture, Queensland, Australia. Dates: 7/2/05-7/3/05. Open/Close: 9 a.m. ' 4:30 p.m.
 
 ### Canada
 
-**Casa Loma�s Renaissance Festival.** E-mail: [info@casaloma.org](mailto:info@casaloma.org). Website: [http://www.casaloma.org/Main/MainDyn.asp](http://www.casaloma.org/Main/MainDyn.asp). Address: John Labatt Centre, 99 Dundas St., London, Ontario N6A 6K1 Canada. Site Address: John Labatt Centre, London, Ontario. Dates: 7/9/05-7/11/05. Open/Close: 1 p.m. & 7 p.m., (1 p.m. on Sun.).
+**Casa Loma's Renaissance Festival.** E-mail: [info@casaloma.org](mailto:info@casaloma.org). Website: [http://www.casaloma.org/Main/MainDyn.asp](http://www.casaloma.org/Main/MainDyn.asp). Address: John Labatt Centre, 99 Dundas St., London, Ontario N6A 6K1 Canada. Site Address: John Labatt Centre, London, Ontario. Dates: 7/9/05-7/11/05. Open/Close: 1 p.m. & 7 p.m., (1 p.m. on Sun.).
 
-**London International Dragon�s Lair Jousting Tournament.** E-mail: [info@johnlabattcentre.com](mailto:info@johnlabattcentre.com). Website: [http://www.knightsofvalour.com/](http://www.knightsofvalour.com/). Address: Casa Loma, 1 Austin Terrace, Toronto, Ontario M5R 1X8 Canada. Site Address: Casa Loma, 1 Austin Terrace, Toronto, Ontario. Dates: 7/1/05-7/4/05. Open/Close: 10 a.m. � 5 p.m.
+**London International Dragon's Lair Jousting Tournament.** E-mail: [info@johnlabattcentre.com](mailto:info@johnlabattcentre.com). Website: [http://www.knightsofvalour.com/](http://www.knightsofvalour.com/). Address: Casa Loma, 1 Austin Terrace, Toronto, Ontario M5R 1X8 Canada. Site Address: Casa Loma, 1 Austin Terrace, Toronto, Ontario. Dates: 7/1/05-7/4/05. Open/Close: 10 a.m. ' 5 p.m.
 
-**Transitional Tournament, Medieval Market and Feast.** E-mail: [kwr_edmonton@hotmail.com](mailto:kwr_edmonton@hotmail.com). Website: [http://www.knightsofthenorth.ca](http://www.knightsofthenorth.ca). Address: Knights of the Northern Realm, 9630-85 Ave., Edmonton, Alberta T6C 1H4 Canada. Site Address: Dr. Wilbur McIntyre (Gazebo) Park, 104 St. & 83rd Ave., Edmonton, Alberta. Dates: 7/9/05. Open/Close: 11 a.m. � 10 p.m.
+**Transitional Tournament, Medieval Market and Feast.** E-mail: [kwr_edmonton@hotmail.com](mailto:kwr_edmonton@hotmail.com). Website: [http://www.knightsofthenorth.ca](http://www.knightsofthenorth.ca). Address: Knights of the Northern Realm, 9630-85 Ave., Edmonton, Alberta T6C 1H4 Canada. Site Address: Dr. Wilbur McIntyre (Gazebo) Park, 104 St. & 83rd Ave., Edmonton, Alberta. Dates: 7/9/05. Open/Close: 11 a.m. ' 10 p.m.
 
 ### England
 
-**Joust: A Weekend of Mediaeval Mayhem.** E-mail: [info@joust.com](mailto:info@joust.com). Website: [http://www.joust.info/frames.htm](http://www.joust.info/frames.htm). Address: 271 Royal College St., Camden Town, London NW1 9LU UK. Site Address: Berkeley Castle, Gloucestershire, UK. Dates: 7/23/05-7/31/05. Open/Close: 10 a.m. � 6 p.m.
+**Joust: A Weekend of Mediaeval Mayhem.** E-mail: [info@joust.com](mailto:info@joust.com). Website: [http://www.joust.info/frames.htm](http://www.joust.info/frames.htm). Address: 271 Royal College St., Camden Town, London NW1 9LU UK. Site Address: Berkeley Castle, Gloucestershire, UK. Dates: 7/23/05-7/31/05. Open/Close: 10 a.m. ' 6 p.m.
 
-**Tewkesbury Medieval Festival.** E-mail: [info@tewkesbury-medieval-fayre.org.uk](mailto:info@tewkesbury-medieval-fayre.org.uk). Website: [http://www.tewkesbury-medieval-fayre.org.uk](http://www.tewkesbury-medieval-fayre.org.uk). Site Address: Lincoln Green Lane (between the Council Offices and Tewkesbury Park Hotel), Tewkesbury, Gloucestershire, UK. Dates: 7/9/05-7/10/05. Open/Close: 11 a.m. � 6 p.m.
+**Tewkesbury Medieval Festival.** E-mail: [info@tewkesbury-medieval-fayre.org.uk](mailto:info@tewkesbury-medieval-fayre.org.uk). Website: [http://www.tewkesbury-medieval-fayre.org.uk](http://www.tewkesbury-medieval-fayre.org.uk). Site Address: Lincoln Green Lane (between the Council Offices and Tewkesbury Park Hotel), Tewkesbury, Gloucestershire, UK. Dates: 7/9/05-7/10/05. Open/Close: 11 a.m. ' 6 p.m.
 
 ### Germany
 
-**Kaltenberg Knight�s Tournament.** E-mail: [info@ritterturnier.de](mailto:info@ritterturnier.de). Website: [http://www.ritterturnier.de](http://www.ritterturnier.de). Address: Ritterturnier Kaltenberg GmbH, Schloss-strasse 8, Kaltenberg, Bavaria, D-82269, Germany. Site Address: Kaltenberg Castle, 30 miles west of Munich, Bavaria, Germany. Dates: 7/2/05-7/18/05. Open/Close: 11 a.m. � 6 p.m.
+**Kaltenberg Knight's Tournament.** E-mail: [info@ritterturnier.de](mailto:info@ritterturnier.de). Website: [http://www.ritterturnier.de](http://www.ritterturnier.de). Address: Ritterturnier Kaltenberg GmbH, Schloss-strasse 8, Kaltenberg, Bavaria, D-82269, Germany. Site Address: Kaltenberg Castle, 30 miles west of Munich, Bavaria, Germany. Dates: 7/2/05-7/18/05. Open/Close: 11 a.m. ' 6 p.m.
 
 For additional Ren Faire information, visit the Renaissance Faire Homepage at http://www.renfaire.com/, the Renaissance Festival Directory at [http://www.renaissancefestival.com/rendir.asp](http://www.renaissancefestival.com/rendir.asp), and the Renaissance Magazine site at [http://www.renaissancemagazine.com](http://www.renaissancemagazine.com).
 
@@ -232,43 +224,43 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### California
 
-**CreationCon: Stargate.** E-mail: [info@creationent.com](mailto:info@creationent.com). Website: [http://www.creationent.com/cal/sgbur.htm](http://www.creationent.com/cal/sgbur.htm). Site Address: Burbank Airport Hilton and Towers, 2500 Hollywood Way, Burbank, CA. Dates: 7/8/05 � 7/10/05.
+**CreationCon: Stargate.** E-mail: [info@creationent.com](mailto:info@creationent.com). Website: [http://www.creationent.com/cal/sgbur.htm](http://www.creationent.com/cal/sgbur.htm). Site Address: Burbank Airport Hilton and Towers, 2500 Hollywood Way, Burbank, CA. Dates: 7/8/05 ' 7/10/05.
 
-**Star Struck: Out of this World!** E-mail: [info@starstruckcon.com](mailto:info@starstruckcon.com). Website: [http://www.starstruckcon.com/](http://www.starstruckcon.com/). Site Address: Scottish Rite Masonic Center, 6151 H St., Sacramento, CA. Dates: 7/7/05 � 7/9/05.
+**Star Struck: Out of this World!** E-mail: [info@starstruckcon.com](mailto:info@starstruckcon.com). Website: [http://www.starstruckcon.com/](http://www.starstruckcon.com/). Site Address: Scottish Rite Masonic Center, 6151 H St., Sacramento, CA. Dates: 7/7/05 ' 7/9/05.
 
 ### Florida
 
-**Earthbound: 2005.** E-mail: [Earthbound2005@yahoo.com](mailto:Earthbound2005@yahoo.com). Website: [http://www.earthbound2005.com](http://www.earthbound2005.com). Site Address: Crowne Plaza at Sabal Park, 10221 Princess Palm Ave., Tampa, FL 33610. Dates: 7/22/05 � 7/24/05.
+**Earthbound: 2005.** E-mail: [Earthbound2005@yahoo.com](mailto:Earthbound2005@yahoo.com). Website: [http://www.earthbound2005.com](http://www.earthbound2005.com). Site Address: Crowne Plaza at Sabal Park, 10221 Princess Palm Ave., Tampa, FL 33610. Dates: 7/22/05 ' 7/24/05.
 
-**Vulkon.** E-mail: [joemotes@aol.com](mailto:joemotes@aol.com). Website: [http://www.vulkon.com/](http://www.vulkon.com/). Site Address: Tampa Airport Hilton Westshore, 2225 N. Lois Ave., Tampa, FL. Dates: 7/15/05 � 7/17/05.
+**Vulkon.** E-mail: [joemotes@aol.com](mailto:joemotes@aol.com). Website: [http://www.vulkon.com/](http://www.vulkon.com/). Site Address: Tampa Airport Hilton Westshore, 2225 N. Lois Ave., Tampa, FL. Dates: 7/15/05 ' 7/17/05.
 
 ### Massachusetts
 
-**CreationCon.** E-mail: [info@creationent.com](mailto:info@creationent.com). Website: [http://www.creationent.com/cal/sgbos.htm/](http://www.creationent.com/cal/sgbos.htm/). Site Address: Executive Conference Center at Bayside, 200 Mt. Vernon St., Boston, MA. Dates: 7/15/05 � 7/17/05
+**CreationCon.** E-mail: [info@creationent.com](mailto:info@creationent.com). Website: [http://www.creationent.com/cal/sgbos.htm/](http://www.creationent.com/cal/sgbos.htm/). Site Address: Executive Conference Center at Bayside, 200 Mt. Vernon St., Boston, MA. Dates: 7/15/05 ' 7/17/05
 
 ### Minnesota
 
-**CONVERGENCE.** E-mail: [info@convergence-con.org](mailto:info@convergence-con.org). Website: [http://www.convergence-con.org/](http://www.convergence-con.org/). Address: 1437 Marshall Avenue, Suite 203, St. Paul, MN, 55104. Site Address: Sheraton South, 7800 Normandale Blvd., Bloomington, MN, 55435. Dates: 7/1/05 � 7/3/05. **Guests: Mercedes Lackey and Larry Dixon!**
+**CONVERGENCE.** E-mail: [info@convergence-con.org](mailto:info@convergence-con.org). Website: [http://www.convergence-con.org/](http://www.convergence-con.org/). Address: 1437 Marshall Avenue, Suite 203, St. Paul, MN, 55104. Site Address: Sheraton South, 7800 Normandale Blvd., Bloomington, MN, 55435. Dates: 7/1/05 ' 7/3/05. **Guests: Mercedes Lackey and Larry Dixon!**
 
 ### North Carolina
 
-**Trinoc&#42;coN.** E-mail: [info@trinoc-con.org](mailto:info@trinoc-con.org). Website: [http://www.trinoc-con.org](http://www.trinoc-con.org). Address: Trinoc&#42;coN Corporation, P.O. Box 10633, Raleigh, NC 27605. Site Address: Durham Mariott and Civic Center, 201 Foster St., Durham, NC. Dates: 7/15/05 � 7/17/05.
+**Trinoc&#42;coN.** E-mail: [info@trinoc-con.org](mailto:info@trinoc-con.org). Website: [http://www.trinoc-con.org](http://www.trinoc-con.org). Address: Trinoc&#42;coN Corporation, P.O. Box 10633, Raleigh, NC 27605. Site Address: Durham Mariott and Civic Center, 201 Foster St., Durham, NC. Dates: 7/15/05 ' 7/17/05.
 
 ### Ohio
 
-**Origins 2005.** E-mail: [CustServ@GAMA.org](mailto:CustServ@GAMA.org). Website: [http://www.originsgames.com](http://www.originsgames.com). Site Address: Greater Columbus Convention Center, 350 N. High St., Columbus, OH. Dates: 6/30/05 � 7/3/05.
+**Origins 2005.** E-mail: [CustServ@GAMA.org](mailto:CustServ@GAMA.org). Website: [http://www.originsgames.com](http://www.originsgames.com). Site Address: Greater Columbus Convention Center, 350 N. High St., Columbus, OH. Dates: 6/30/05 ' 7/3/05.
 
 ### Pennsylvania
 
-**Historicon 2005: "The Age of Fighting Sail."** E-mail: [sweethoneymelon@hotmail.com](mailto:sweethoneymelon@hotmail.com). Website: [http://www.historicon.org](http://www.historicon.org). Site Address: Lancaster Host Resort, 2300 Lincoln Highway East (Route 30), Lancaster, PA. Dates: 7/21/05 � 7/24/05.
+**Historicon 2005: "The Age of Fighting Sail."** E-mail: [sweethoneymelon@hotmail.com](mailto:sweethoneymelon@hotmail.com). Website: [http://www.historicon.org](http://www.historicon.org). Site Address: Lancaster Host Resort, 2300 Lincoln Highway East (Route 30), Lancaster, PA. Dates: 7/21/05 ' 7/24/05.
 
 ### Canada
 
-**Gatecon 2005.** Website: [http://www.gatecon.com](http://www.gatecon.com). Address: Gatecon Productions, P.O. Box 76108, Colorado Springs, CO 80970. Site Address: Best Western Vancouver Airport Hotel & Convention Centre, 7551 Westminster Highway, Richmond, British Columbia, Canada. Dates: 7/25/05 � 8/1/05.
+**Gatecon 2005.** Website: [http://www.gatecon.com](http://www.gatecon.com). Address: Gatecon Productions, P.O. Box 76108, Colorado Springs, CO 80970. Site Address: Best Western Vancouver Airport Hotel & Convention Centre, 7551 Westminster Highway, Richmond, British Columbia, Canada. Dates: 7/25/05 ' 8/1/05.
 
-**Toronto Trek.** E-mail: [tt-info@tcon.ca](mailto:tt-info@tcon.ca). Website: [http://www.tcon.ca](http://www.tcon.ca). Address: Toronto Trek, P.O. Box 7097, Station A, Toronto, Ontario M5W 1X7 Canada. Site Address: Doubletree International Plaza Hotel, 655 Dixon Rd., Toronto, Ontario. Dates: 7/15/05 � 7/17/05.
+**Toronto Trek.** E-mail: [tt-info@tcon.ca](mailto:tt-info@tcon.ca). Website: [http://www.tcon.ca](http://www.tcon.ca). Address: Toronto Trek, P.O. Box 7097, Station A, Toronto, Ontario M5W 1X7 Canada. Site Address: Doubletree International Plaza Hotel, 655 Dixon Rd., Toronto, Ontario. Dates: 7/15/05 ' 7/17/05.
 
-**Westercon 58: "Due North."** E-mail: [info@calgaryin2005.org](mailto:info@calgaryin2005.org). Website: [http://www.calgaryin2005.org](http://www.calgaryin2005.org). Address: Calgary in 2005, P.O. Box 43078, DVPO, Calgary, Alberta T2J 7A7, Canada. Site Address: Westin Calgary Hotel, Calgary, Alberta, Canada. Dates: 7/1/05 � 7/4/05.
+**Westercon 58: "Due North."** E-mail: [info@calgaryin2005.org](mailto:info@calgaryin2005.org). Website: [http://www.calgaryin2005.org](http://www.calgaryin2005.org). Address: Calgary in 2005, P.O. Box 43078, DVPO, Calgary, Alberta T2J 7A7, Canada. Site Address: Westin Calgary Hotel, Calgary, Alberta, Canada. Dates: 7/1/05 ' 7/4/05.
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/) or the Sci-Fi Guide at [http://scifi.about.com/blcon.htm](http://scifi.about.com/blcon.htm).
 
@@ -289,7 +281,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 ### Zines and Newsletters:
 
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. E-mail: [healermoon@gmail.com](mailto:healermoon@gmail.com). I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Issues 4, 5 and 6 are currently in the editing stages! Each zine will have about 10 personas for a total of 30 personas that have been accepted in the last couple of years. For the contents list for issues 1,2, and 3 and additional information, visit [Children of Velgarth](/children-of-velgarth/).
-- ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **&#42;&#42; If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don�t hear from you by September 2003, I will have to drop your contribution from the zine. &#42;&#42;** Volume Nine is open to submissions. Current prices (not including shipping) are:
+- ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **&#42;&#42; If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don't hear from you by September 2003, I will have to drop your contribution from the zine. &#42;&#42;** Volume Nine is open to submissions. Current prices (not including shipping) are:
 
   - *Companions' Grove* Volume One - $4.75 (40 pages, color cover)
   - *Companions' Grove* Volume Two - $6.35 (56 pages, color cover)
@@ -312,14 +304,12 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
   Except as noted, zines are printed on high-quality, bright white paper, comb bound, with cardstock covers. Story excerpts and cover art-as well as submission guidelines and PayPal ordering information-can be found at [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm). To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N. Kelishan St., Pahrump, NV 89060.
 
-  **Note regarding *Shards of Autumn*:** While this zine is officially out of print and no longer available on the website, a few copies are left over from convention appearances. Any remaining copies from MediaWest will be available at that con until they sell out; the others are being returned to me and will be auctioned off at [http://www.auctionfen.com](http://www.auctionfen.com) until they are gone. I also occasionally auction off zines which returned from cons a bit shopworn, so it�s a good site to check periodically.
+  **Note regarding *Shards of Autumn*:** While this zine is officially out of print and no longer available on the website, a few copies are left over from convention appearances. Any remaining copies from MediaWest will be available at that con until they sell out; the others are being returned to me and will be auctioned off at [http://www.auctionfen.com](http://www.auctionfen.com) until they are gone. I also occasionally auction off zines which returned from cons a bit shopworn, so it's a good site to check periodically.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). E-mail:submission instructions:
 
   1. Subject line must read "For Karen." (Anything else will be erased as a potential virus hazard.)
   2. Do not use strange fonts, which my computer will not recognize.
   3. E-mail:it to [gbertke@fuse.net](mailto:gbertke@fuse.net). (This is my father's e-mail address. Use it for submissions for Herald's Companion only.)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -334,8 +324,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ### Collegium News:
 
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in. You can find these handouts online at [Persona handouts and submission instructions](/persona-handouts/).
@@ -348,11 +336,11 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 We have no new personae to announce this month, but several people are very close to completion. If you were working on a persona who is no longer listed at [Club chat guidance](/club-chat/) that means we have not heard from you in over a year. To revive your persona, simply message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) and tell her that your persona is in "Deep Storage." She will pull it out for you and reactivate your submission.
 
-If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
+If you are a returning member who has recently activated your membership in Queen's Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she'll make sure you are greeted in the next newsletter.
 
 ### Lost …
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don't always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
 - Bard Revelin Tionne (sazimarc@mindspring.com)
 - Bard Valiena (laughsong@aol.com)
@@ -381,11 +369,11 @@ One of the challenges running an online club is that people don�t always leave
 - Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
 - Tayledras Blackwolf k'Vala (HRHIce@aol.com)
 - Tayledras Adept Oceanlaughter k'Shira (littlesweetchef@aol.com)
-- Tayledras Adept Starfeather k�Valdemar (adeptstarfeather@marymuse.com)
+- Tayledras Adept Starfeather k'Valdemar (adeptstarfeather@marymuse.com)
 - Tayledras Healer Adept Sierra k'Treva (katsanders@buffymail.com)
 - Tayledras Healer Adept Skydance k'Chona (Sttawylime@hotmail.com)
-- Tayledras Healer Adept Winterfire k�Tayle (garou@netspeed.com.au)
-- Tayledras Scout Skyfire k�Chona (logroth@hotmail.com)
+- Tayledras Healer Adept Winterfire k'Tayle (garou@netspeed.com.au)
+- Tayledras Scout Skyfire k'Chona (logroth@hotmail.com)
 - White Winds Sorceress Cime Shadow Weaver (cimeshadow@aol.com)
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
@@ -394,24 +382,20 @@ If you know any of these folks, please have them contact Danya at [shashtah@gmai
 
 ### From Healer Adept Moonstar:
 
-I have greatly enjoyed my time as Co-President of Queen�s Own. I have always enjoyed the correspondences have I had with members and future members and have loved answering all of your questions. I am thankful for all the friends that I have made. However, as many of you have noticed as my master�s program has become more intense I haven�t had the time to contribute as I should or as you deserve. I have had many personal issues come up which have resulted in two moves in the last three months and I expect to move at least once more in the next few months. This isn�t fair to many of you who may have to wait days or weeks for answers from me or for me to have time to review your submissions. I am going to stay part of Queen�s Own as a member, but am going to step down as Co-President.
+I have greatly enjoyed my time as Co-President of Queen's Own. I have always enjoyed the correspondences have I had with members and future members and have loved answering all of your questions. I am thankful for all the friends that I have made. However, as many of you have noticed as my master's program has become more intense I haven't had the time to contribute as I should or as you deserve. I have had many personal issues come up which have resulted in two moves in the last three months and I expect to move at least once more in the next few months. This isn't fair to many of you who may have to wait days or weeks for answers from me or for me to have time to review your submissions. I am going to stay part of Queen's Own as a member, but am going to step down as Co-President.
 
 Hugs to everyone,
 
 Moonstar
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
-- **From Cliff Hunter:** I�m looking for a penpal I used to know through QO. Her name is Dara Murphy. Anyone with information about how I can contact her, please e-mail me at [DeathrockCliffy@aol.com](mailto:DeathrockCliffy@aol.com).
-- **From Jennifer M. Mackay/Herald Mallea D'Lar.** I have a new email address: [mackayjenn@yahoo.com](mailto:mackayjenn@yahoo.com)! SNAIL MAIL:�PO BOX 66408, Portland, OR 97290. If you like to read, I'm your girl. Just give me a book and a quiet nook--I'm happy! �Misty, Tad Williams, J.R.R. Tolkien,�Mindy Klasky (Glasswright series), DragonLance (the M. Weiss/T. Hickman original books and new), SF Classics like H.G. Wells, George Orwell, ect., ect. I'm about to sink my teeth into David Eddings on my sister's recommendations. I just finished watching SEVEN seasons of Buffy the Vampire Slayer. That was fun! I've gone through�all NINE years of The X-Files. I'm a huge X-Files fanatic. (Did I forget to mention my love affair with box sets on DVD?) I'm a fan of every Star Trek show made, Star Wars, Battlestar Galactica (got my box set), Babylon 5, Quantum Leap, and just about anything else that grabs my attention.If you wish you could take a trip to the moon, or just get out of Mundania for awhile, please feel free to drop me a line!
+- **From Cliff Hunter:** I'm looking for a penpal I used to know through QO. Her name is Dara Murphy. Anyone with information about how I can contact her, please e-mail me at [DeathrockCliffy@aol.com](mailto:DeathrockCliffy@aol.com).
+- **From Jennifer M. Mackay/Herald Mallea D'Lar.** I have a new email address: [mackayjenn@yahoo.com](mailto:mackayjenn@yahoo.com)! SNAIL MAIL:'PO BOX 66408, Portland, OR 97290. If you like to read, I'm your girl. Just give me a book and a quiet nook--I'm happy! 'Misty, Tad Williams, J.R.R. Tolkien,'Mindy Klasky (Glasswright series), DragonLance (the M. Weiss/T. Hickman original books and new), SF Classics like H.G. Wells, George Orwell, ect., ect. I'm about to sink my teeth into David Eddings on my sister's recommendations. I just finished watching SEVEN seasons of Buffy the Vampire Slayer. That was fun! I've gone through'all NINE years of The X-Files. I'm a huge X-Files fanatic. (Did I forget to mention my love affair with box sets on DVD?) I'm a fan of every Star Trek show made, Star Wars, Battlestar Galactica (got my box set), Babylon 5, Quantum Leap, and just about anything else that grabs my attention.If you wish you could take a trip to the moon, or just get out of Mundania for awhile, please feel free to drop me a line!
 - **From Ellen Million:** Not only is Ellen Million Graphics still around (ten years last October!), but I now offer an array of gorgeous new work by new artists, on many new products (including t-shirts!) and a brand new character portrait service. Ordering is available on-line or by snail mail: [http://www.ellenmilliongraphics.com](http://www.ellenmilliongraphics.com). I'd also love to get back in touch with lost penpals! (Use the contact form on the website to avoid death-by-spam-filters!)
 - **From Herald Valana Dorrandale/Rachel Valentine:** 21-year-old college student needs relief from mundania! I enjoy Misty, Anne Rice, Mickey Zucker Riechert, Robert Jordan, Fiona Patton, Tanya Huff, C.S. Friedman etc. B5, Star Trek, Star Wars, Highlander, LOTR,all kinds of music, scaly and furry animals, Garfield, writing, drawing, singing, playing guitar, horseback riding, traveling and much more. Do you like this stuff?? Write me! **TO: Robin S., Bess H., Bard Shiana, Harold P.:** Are you all still QO members?? Please write me; I've missed you guys! E-mail: [raeval23@yahoo.com](mailto:raeval23@yahoo.com).
-- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
+- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen's Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -430,9 +414,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

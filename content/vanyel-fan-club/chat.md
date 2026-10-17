@@ -5,18 +5,12 @@ template = "page.html"
 [extra]
 legacy_source = "vfcchat.htm"
 source_site = "dragonlords.fans"
-bgcolor = "white"
-text = "blue"
-link = "darkblue"
-vlink = "blue"
 historical = true
 topic = "community"
 canonical_path = "/vanyel-fan-club/chat/"
 +++
 
 <img alt="" loading="lazy" src="/vfcmail.jpg"/>
-
-<img alt="" loading="lazy" src="/rainbar.gif"/>
 
 You can join the Vanyel Fan Club by subscribing to the VFC List.
 
@@ -47,7 +41,3 @@ To unsubscribe from the mailinglist (and leave the club), follow the instruction
 [http://www.dragonlordsnet.com/mailman/listinfo/vanyelfanclub_dragonlordsnet.com](https://dragonlords.fans/mailman/listinfo/vanyelfanclub_dragonlordsnet.com)
 
 If you have any problems, message Herald-Mage Adept Danya Winterborn at [shashtah@gmail.com](mailto:shashtah@gmail.com).
-
-<img alt="" loading="lazy" src="/rainbar.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page](/vanyel-fan-club/)

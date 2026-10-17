@@ -5,10 +5,6 @@ template = "page.html"
 date = 2000-10-01
 [extra]
 legacy_source = "qooct00.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2000/october/"
@@ -31,8 +27,6 @@ Heyla, Misty fans!
 This month we continue series of interviews with the editors of the various Queen's Own fanzines and newsletters. The third editor we would like you to meet is Laura Cameron of the Pacific Northwest Collegium's *Collegium Chronicles*. (You'll find submission information below in the Fanzine section of this newsletter.)
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. When did you join Queen's Own?
 
@@ -66,8 +60,6 @@ This month we continue series of interviews with the editors of the various Quee
 10. What other projects besides Queen's Own occupy your time?
 
   I'm an artist by calling, and have started to participate in Con Art Shows mainly in the Seattle and Portland area. Costuming is also fun, especially at Cons where you can be as creative and weird looking as you like! My writing, alas, has taken the creative back burner for the time being, but I continually explore new ideas through my art. Just recently, I bought a previously-owned wire-strung Celtic harp and am in the process of taking lessons. It's one of the things I've always wanted to do and didn't want to keep putting off forever. It's harder than it looks--talk about my right had not knowing what my left hand is doing! Even so, I'm right proud to be carrying on an ancient and honorable tradition.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -171,8 +163,6 @@ GAYLAXICON 2000. Website: [http://www.lambdasf.org/g2k/index.html](http://www.la
 
 INCON 2000. Website: http://incon.skywalk.com/. Site Address: Spokane Shilo Hotel, E 923 Third Avenue, Spokane, WA 99202-2215. Dates: 10/27/00 - 10/29/00.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Mage by Herald Alora" class="border-3" loading="lazy" src="/qo26.jpg"/>
 
 ## Member News:
@@ -195,8 +185,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at the above address (Please include a SASE when requesting information via snail mail.). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -236,8 +224,6 @@ In other news, if you would like to stop by and say "Heyla", my coauthor, C. Sco
 
 I also want to remind you that, as you prepare to do your holiday shopping, please consider purchasing from the Dragonlords' Bookstore at [http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm). Books, videos, CDs, toys, electronics and much, much more are all available through this site, often at excellent discounts. A portion of the proceeds from every purchase goes to support Dragonlords, and Dragonlords is the group that grants Queen's Own free webspace, access to a PO box, and the like, covering Queen's Own's expenses so that we no longer have to charge for memberships. Your patronage is greatly appreciated!
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Fan Messages:
 
 The newsletter is routinely posted to the Net. If you are concerned about your address falling into unfriendly hands, don't place a fan message! You may answer fan messages without ever placing one yourself. The editors reserve the right to edit--and shorten!--all messages. (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
@@ -249,15 +235,11 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - To **Elizabeth Barrette**, the author of the Pros & Cons booklet we distribute, from **Herald-Mage Master Danya Winterborn**. Please contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - To **Everyone Who's Asked**, from **Herald-Mage Master Danya Winterborn**. The paperback edition of my book on King Arthur and my dissertation on the Holy Grail are available (at reasonable prices for a change!) through the links at [http://www.dragonlordsnet.com/bkmalcor.htm](https://dragonlords.fans/bkmalcor.htm). For a current listing of my publications, visit [http://www.dragonlordsnet.com/author.htm](https://dragonlords.fans/author.htm).
 - To **Filk and Anne McCaffrey fans**, from **Cassandra Vuksa**. Visit [http://members.aol.com/opland/index.htm](http://members.aol.com/opland/index.htm). Tania Opland and Mike Freeman have produced a very cool CD, which has songs like "Lessa's Ride" and "The Question Song" on it. I bought the CD and have never regretted it.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -278,9 +260,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

@@ -4,10 +4,6 @@ path = "newsletter-guidance"
 template = "page.html"
 [extra]
 legacy_source = "qonews.htm"
-bgcolor = "blue"
-text = "white"
-link = "aqua"
-vlink = "silver"
 historical = true
 topic = "publications"
 canonical_path = "/newsletter-guidance/"
@@ -45,37 +41,25 @@ Make sure that you give your e-mail address so I can contact you and mark the ma
 
 The Queen's Own newsletter is divided into several sections. Please consult the instructions for the section where you want your material to appear.
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml12.gif"/></a>
-
 ## I. <a id="article"></a>
 
 Every Queen's Own newsletter begins with an article. Sometimes this is a review of an upcoming book. Sometimes it is a report of adventures at a convention. Sometimes it is an interview with Misty or Larry or someone else, such as the editor of a fanzine or one of Misty's coauthors. The only real requirement is that the article be related to Misty and/or her work. Have you had the chance to interview anyone who knows Misty or who has worked with her? Do you know anyone who works in a fan organization that promotes Misty's works? Do you have a story to tell about a Misty section at a convention that you attended? If it's Misty-related, we want to hear from you! Since the article will now exist only in electronic form, we don't have to be super rigid on word count. But try to keep it to about 500 words. Also, if you use anyone's name in your article, please secure their permission for us to post the piece to the Net and to distribute it via e-mail. Not everyone appreciates having his/her name on a website (though most authors love the publicity &lt;g>).
-
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml8.gif"/></a>
 
 ## II. <a id="faires"></a>
 
 Do you have information about an upcoming Ren Faire in your region? Tell us about it! Make sure you include date, time, place, and where to contact someone for more information. Pricing information is great if you have it. If you are working a Ren Faire, we'd like to know that, too!
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml13.gif"/></a>
-
 ## III. <a id="cons"></a>
 
 Misty no longer attends conventions, but many of Misty's fans still do. If you know about a convention that's coming up that has a Misty-related section or a section of interest to Misty's fans, tell us about it! Make sure you include date, time, place, and where to contact someone for more information. Pricing information is great if you have it. If you are working at a convention, we'd like to know that, too! If you are interested in organizing a Queen's Own section for an upcoming convention, contact [Herald-Mage Danya](mailto:shashtah@gmail.com). We'd like to offer all the support and help we can.
-
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml21.gif"/></a>
 
 ## IV. <a id="member"></a>
 
 This section actually has three subsections. The first is "Local Chapters". If you have a local chapter of Queen's Own, please provide us with the chapter name, the area you cover, and how people can contact you to join your chapter. The second section is fanzines. If you publish a fanzine, please tell us the name of the fanzine, the type of material you are looking for, and where people are supposed to send their material. Please provide subscription information as well. The third section is for other fandoms. Queen's Own members often belong to fandoms in addition to Queen's Own. If you have another fandom that you have joined and that you would like to advertise, let us know! Please provide the name of the group and who people can get in touch with to find out more about the organization.
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml20.gif"/></a>
-
 ## V. <a id="collegium"></a>
 
 This section is mostly generated "in-house". This is where new personae are announced and new ranks are acknowledged. There is usually a letter from the editor(s) as well. If you have a subgroup within Queen's Own, however, such as the Mercenaries Guild or a Tayledras Vale, this is where those groups are advertised. Let us know who you are, and tell us how people can get in touch with you.
-
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml15.gif"/></a>
 
 ## VI. <a id="fan"></a>
 
@@ -85,19 +69,13 @@ From: [INSERT YOUR NAME AND E-MAIL AND/OR SNAIL MAIL ADDRESS] Message: Tell pros
 
 Note: Queen's Own provides this section as a courtesy to its members. Queen's Own does not screen submissions (other than to determine that they are from QO members). Just because someone is a QO member does not guarantee that he/she is a nice person. Answer fan messages at your own risk, and use your discretion. Never give out personal information to someone you only know through the Internet. Never go alone to meet anyone you have only met on the Internet, and if you do decide to meet someone, do it only in a very public place. (We do not recommend that anyone under 18 ever agree to meet anyone from the Internet except in the company of a parent or legal guardian.) Please use this section wisely. It is here for fans to get to know each other and to solicite letters. Remember, though, that we also have the [chat list](/club-chat/) and the [private Delphi forum](/delphi-forum/), and you may feel safer using those tools to contact other QO fans.
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml11.gif"/></a>
-
 ## VII. <a id="personals"></a>
 
 These are personal messages from one member to other members. Please tell us who the message is from and whom it is to. And don't forget to include the message &lt;g>!
 
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml18.gif"/></a>
-
 ## <a id="past"></a>
 
 This section features links to the online editions of the Queen's Own newsletter. Members will receive an e-mail version in MS Word prior to the issues being posted here in HTML.
-
-<a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml55.jpg"/></a>
 
 ### 1988
 
@@ -258,7 +236,3 @@ Winter Spring Summer Fall
 ### 2027
 
 Winter Spring Summer Fall
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

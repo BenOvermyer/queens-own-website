@@ -5,10 +5,6 @@ template = "page.html"
 date = 1992-05-01
 [extra]
 legacy_source = "qomay92.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1992/may/"
@@ -82,7 +78,7 @@ Step i: Earn your Herald's whites.
 
 Step 2: Roll two six-sided die to determine if you CAN become a Herald-Mage. A twelve--- and ONLY a twelve---gets you Mage-Gift. You may not re-roll any oftener than once a month. After twelve tries, give it up; Fate is against you.
 
-Step 3: You are now at the Apprentice stage. To earn the rank of Herald-Mage, Hedge-wizard, learn the following stage�magic tricks well enough to fool your friends: Linking Rings, Restoring Cut Rope, Appearing Coins, and a simple Escape Trick. Step 4: To earn the rank of Herald-Mage, Journeyman, first qualify for Hedge-wizard. Then write a 20 page paper on the following subject and submit it to an essay contest or your history teacher for extra credit: analyze the Constitution, without the Amendments, and explain how the Amendments have made the original document work in the modern world. AND learn the following stage-magic tricks: Dancing Handkerchief, Multiplying Coins, Restoring Cut Newspaper, and Escape from Handcuffs.
+Step 3: You are now at the Apprentice stage. To earn the rank of Herald-Mage, Hedge-wizard, learn the following stage'magic tricks well enough to fool your friends: Linking Rings, Restoring Cut Rope, Appearing Coins, and a simple Escape Trick. Step 4: To earn the rank of Herald-Mage, Journeyman, first qualify for Hedge-wizard. Then write a 20 page paper on the following subject and submit it to an essay contest or your history teacher for extra credit: analyze the Constitution, without the Amendments, and explain how the Amendments have made the original document work in the modern world. AND learn the following stage-magic tricks: Dancing Handkerchief, Multiplying Coins, Restoring Cut Newspaper, and Escape from Handcuffs.
 
 &#42;&#42;There are 2 more steps to Adept class, each one more difficult than the one before. To adopt a Guardian persona, one most first qualify as Herald-Mage, Adept, and then learn even more tricks and write 5 more papers, all of which must be accepted for publication by magazines, not our fanzines. Send a SASE for the complete requirements.
 
@@ -116,7 +112,7 @@ The Southern Hall of Heralds is alive and well and welcomes any and all inquirie
 
 *Attention VA/MD/DC 00'ers* (and anyone else interested): We are finally organized! Introductory letters will be available after May third. The first newsletter will be out by the first weekend of June. The intro letter tells you specifically what we need help with. No SASE is needed for the intro. Write to Lavina CheunY [Ed. note 2004: Out-of-date contact information withheld] or call her at [Ed. note 2004: Out-of-date contact information withheld].
 
-From *Heather Lantz* [Ed. note 2004: Out-of-date contact information withheld] *to everyone:* My home address [Ed. note 2004: Out-of-date contact information withheld] will be in effect from May 23 to September 1. Please do not send mail to the college address in the fall; I will be living off-campus. To all Colle�ia's Tapestry (New England QO Chapter) members: The first issue of the newsletter will DEFINITELY be out in June. I've been backlogged with school work as usual. Also - some members have sent in their information sheets but not their dues- please send them to me ASAP! I'm still looking for artwork for the newsletter(and letterhead) and submissions for the newsletter (puleeze? I really can't draw and I'm 50% better at editing than writing.) *Collegia's Tapestry*, serving the New England area, is looking for more members. Membership is $S (payable to Heather Lantz) or equivalent in stamps. You receive the bi-monthly newsletter and the pen pal directory. For more information, please send a large SASE to *Heather Lantz* [Ed. note 2004: Out-of-date contact information withheld].
+From *Heather Lantz* [Ed. note 2004: Out-of-date contact information withheld] *to everyone:* My home address [Ed. note 2004: Out-of-date contact information withheld] will be in effect from May 23 to September 1. Please do not send mail to the college address in the fall; I will be living off-campus. To all Colle'ia's Tapestry (New England QO Chapter) members: The first issue of the newsletter will DEFINITELY be out in June. I've been backlogged with school work as usual. Also - some members have sent in their information sheets but not their dues- please send them to me ASAP! I'm still looking for artwork for the newsletter(and letterhead) and submissions for the newsletter (puleeze? I really can't draw and I'm 50% better at editing than writing.) *Collegia's Tapestry*, serving the New England area, is looking for more members. Membership is $S (payable to Heather Lantz) or equivalent in stamps. You receive the bi-monthly newsletter and the pen pal directory. For more information, please send a large SASE to *Heather Lantz* [Ed. note 2004: Out-of-date contact information withheld].
 
 ## From Herald Housemother:
 
@@ -146,8 +142,6 @@ Last month we asked "If your Companion stands on your foot, is that close Compan
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -161,9 +155,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

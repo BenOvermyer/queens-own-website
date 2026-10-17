@@ -5,10 +5,6 @@ template = "page.html"
 date = 2005-04-01
 [extra]
 legacy_source = "qoapr05.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2005/april/"
@@ -34,7 +30,7 @@ We had sad news this month, with the passing of the legendary writer Andre Norto
 
 "I literally grew up reading Andre's work. BEAST MASTER was the second book of science fiction I ever read, in seventh grade, and it was the first one I actually picked out for myself. I spent most of my allowance on her books, I still have all of them, cherished and carefully tucked away and reread over and over again.
 
-"She was seminal for women in a way that �feminist� writers were not, because both boys and girls read her avidly. The young women in her books were people both sexes could relate to. They are absolutely some of the best books to give to a kid to begin a long and enjoyable voyage into sf and fantasy reading. I cannot begin to imagine how many of us writers, women in particular, were inspired to begin our own writing careers because of her.
+"She was seminal for women in a way that 'feminist' writers were not, because both boys and girls read her avidly. The young women in her books were people both sexes could relate to. They are absolutely some of the best books to give to a kid to begin a long and enjoyable voyage into sf and fantasy reading. I cannot begin to imagine how many of us writers, women in particular, were inspired to begin our own writing careers because of her.
 
 "Not long ago, she was seriously ill and we thought we would lose her then. She had come to believe that no one read her books anymore, that she was outdated and forgotten. The outpouring of love and appreciation that ensued at that time, I think, helped her fight her way back, and made her truly understand how much she meant to us all. It is one comfort that the last time I spoke to her, she was quite well aware that we considered her to be a national treasure, though modest as she was, she still wasn't certain she deserved such accolades.
 
@@ -44,13 +40,13 @@ We had sad news this month, with the passing of the legendary writer Andre Norto
 
 The paperback of *This Rough Magic* (with Eric Flint and Dave Freer) is scheduled for release in June.
 
-*Bedlam�s Edge*, the next installment in the Bedlam�s Bard series (coauthored with Rosemary Edghill), should reach bookstores in August. Di Tregarde fans, look for the re-release of *Children of the Night* in August as well.
+*Bedlam's Edge*, the next installment in the Bedlam's Bard series (coauthored with Rosemary Edghill), should reach bookstores in August. Di Tregarde fans, look for the re-release of *Children of the Night* in August as well.
 
-Thanks to all of you who support QO by making purchases through the Dragonlords� Bookstore ([http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm)). We really appreciate the help with the club�s expenses so that we can keep the memberships in QO free.
+Thanks to all of you who support QO by making purchases through the Dragonlords' Bookstore ([http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm)). We really appreciate the help with the club's expenses so that we can keep the memberships in QO free.
 
 **Chapter News:** If your chapter of QO is planning any activities, do write and let us know about them! We love to hear from you.
 
-We are extremely excited to announce the approval of Herald Bastian�s persona. Bastian is the founder of the Vanyel Fan Club, one of the longest running and most popular chapters of QO. He has recently been signed to a record deal with an independent label. We are very pleased to have him officially join us after all these years &lt;G>. (See the formal recognition of his persona in the Collegium News below.)
+We are extremely excited to announce the approval of Herald Bastian's persona. Bastian is the founder of the Vanyel Fan Club, one of the longest running and most popular chapters of QO. He has recently been signed to a record deal with an independent label. We are very pleased to have him officially join us after all these years &lt;G>. (See the formal recognition of his persona in the Collegium News below.)
 
 We have a treat this time: A top ten list that came through on the VFC chat list a while back. (The copy I have does not credit the original author; if you know who it was, please contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com). Also, there are mild spoilers; if you have not yet read The Last Herald Mage trilogy, you might want to skip this part of the newsletter.)
 
@@ -59,8 +55,6 @@ Hope you all had (or are having) a great Spring Break! See you in May!
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ### Top 12 Worst Things to Happen if *The Last Herald-Mage* was made into a Movie
 
@@ -75,7 +69,7 @@ Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
   **You:** "That's the third time they said 'VAHN-yel,' the second they said 'van-YEL!' What gives?" **Your Date:** "Shut up!"
 4. Uncomfortable studio censors change Vanyel from shaych to straight; Stefen and Tylendel are now Stefania and Tylendela.
 
-  **Studio Exec:** "What we do is get Cindy Crawford to play both. Just give her a different wig and makeup for 'Lendela.�"
+  **Studio Exec:** "What we do is get Cindy Crawford to play both. Just give her a different wig and makeup for 'Lendela.'"
 5. End of film not action-packed enough; they decide to swap Van's last strike lightning scene with karate instead.
 
   **Studio Exec:** "So Van jumps up, does a double-flip-kick, turns around, and knocks the leader out with a punch!"
@@ -101,19 +95,17 @@ Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
 "Here's the link for more in case anyone is interested: [http://home.att.net/~morningstar2/lists.html](http://home.att.net/~morningstar2/lists.html)."
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Ren Faires:
 
 Here are the Faires we know about for April. Faires are indexed alphabetically by state. Have any information about any other Renaissance Faires in your area? Send it to us at [shashtah@gmail.com.](mailto:shashtah@gmail.com)
 
 ### California
 
-**THE ESCONDIDO RENAISSANCE FAIRE AND SHAKESPEARE IN THE PARK�SPRING.** E-mail: [goldcoastprod@msn.com](mailto:goldcoastprod@msn.com). Website: [http://www.goldcoastfestivals.com](http://www.goldcoastfestivals.com). Address: Condit Wixon, 2219 E Thousand Oaks Blvd., #303, Thousand Oaks, CA, 91362. Site Address: Felicita Park, Escondido, CA. Dates: 4/2/05-4/3/05. Open/Close: 10 a.m. - 6 p.m.
+**THE ESCONDIDO RENAISSANCE FAIRE AND SHAKESPEARE IN THE PARK'SPRING.** E-mail: [goldcoastprod@msn.com](mailto:goldcoastprod@msn.com). Website: [http://www.goldcoastfestivals.com](http://www.goldcoastfestivals.com). Address: Condit Wixon, 2219 E Thousand Oaks Blvd., #303, Thousand Oaks, CA, 91362. Site Address: Felicita Park, Escondido, CA. Dates: 4/2/05-4/3/05. Open/Close: 10 a.m. - 6 p.m.
 
 **OJAI RENAISSANCE AND SHAKESPEARE FESTIVAL.** E-mail: [goldcoastprod@msn.com](mailto:goldcoastprod@msn.com). Website: [http://www.goldcoastfestivals.com](http://www.goldcoastfestivals.com). Address: Contact: Condit Wixon, Gold Coast Productions, 2219 Thousand Oaks Blvd, Thousand Oaks, CA, 91362. Site Address: Lake Casitas, Ojai, CA. Dates: 4/23/05-4/24/05. Open/Close: 10 a.m. - 6 p.m.
 
-**THE RENAISSANCE PLEASURE FAIRE OF SOUTHERN CALIFORNIA.** Website: [http://www.renfair.com/socal/](http://www.renfair.com/socal/). Address: Santa Fe Dam Recreation Area, 15501 E. Arrow Highway, Irwindale, CA. Dates: 4/16/05 � 5/22/05.
+**THE RENAISSANCE PLEASURE FAIRE OF SOUTHERN CALIFORNIA.** Website: [http://www.renfair.com/socal/](http://www.renfair.com/socal/). Address: Santa Fe Dam Recreation Area, 15501 E. Arrow Highway, Irwindale, CA. Dates: 4/16/05 ' 5/22/05.
 
 **SHASTA HIGHLANDS RENAISSANCE AND CELTIC FESTIVAL.** E-mail: [info@shastahighlands.org](mailto:info@shastahighlands.org). Website: [http://www.shastahighlands.org](http://www.shastahighlands.org). Address: Don Reynolds, 1925 Shasta St, Suite A, Redding, CA, 96001. Site Address: Anderson River Park, Anderson, CA. Dates: 4/31/05 -5/1/05. Open/Close: 10 a.m. - 6 p.m.
 
@@ -121,11 +113,11 @@ Here are the Faires we know about for April. Faires are indexed alphabetically b
 
 ### Florida
 
-**BAY AREA RENAISSANCE FESTIVAL AT MOSI.** E-mail: [renaissancefesti@aol.com](mailto:renaissancefesti@aol.com). Website: [http://www.renaissancefest.com](http://www.renaissancefest.com). Address: Tamara Seabonue, 11315 N 46th St, Tampa, FL, 33617. Site Address: Museum of Science & Industry (MOSI), 11315 N 46th St, Tampa, FL. Dates: 3/5/05 � 4/17/05. Open/Close: 10 a.m. - 6 p.m.
+**BAY AREA RENAISSANCE FESTIVAL AT MOSI.** E-mail: [renaissancefesti@aol.com](mailto:renaissancefesti@aol.com). Website: [http://www.renaissancefest.com](http://www.renaissancefest.com). Address: Tamara Seabonue, 11315 N 46th St, Tampa, FL, 33617. Site Address: Museum of Science & Industry (MOSI), 11315 N 46th St, Tampa, FL. Dates: 3/5/05 ' 4/17/05. Open/Close: 10 a.m. - 6 p.m.
 
 ### Georgia
 
-**GEORGIA RENAISSANCE FESTIVAL.** E-mail: [info@garenfest.com](mailto:info@garenfest.com). Website: [http://www.georgiarenaissancefestival.com](http://www.georgiarenaissancefestival.com). Address: Norma Pope, P.O. Box 986, Fairburn, GA, 30213. Dates: 4/16/05 � 6/5/05. Open/Close: 10:30 a.m. - 6 p.m.
+**GEORGIA RENAISSANCE FESTIVAL.** E-mail: [info@garenfest.com](mailto:info@garenfest.com). Website: [http://www.georgiarenaissancefestival.com](http://www.georgiarenaissancefestival.com). Address: Norma Pope, P.O. Box 986, Fairburn, GA, 30213. Dates: 4/16/05 ' 6/5/05. Open/Close: 10:30 a.m. - 6 p.m.
 
 ### Maryland
 
@@ -137,19 +129,19 @@ Here are the Faires we know about for April. Faires are indexed alphabetically b
 
 ### North Carolina
 
-**NORTH CAROLINA RENAISSANCE FAIRE.** E-mail: [donna@ncrenfaire.com](mailto:donna@ncrenfaire.com). Website: [http://www.ncrenfaire.com](http://www.ncrenfaire.com) or [http://www.ncrenfaire.org](http://www.ncrenfaire.org). Address: Donna Varner-Sheaves, Historical Enrichment Society, P.O. Box 61280, Raleigh, NC, 27661. Site Address: North Carolina State Fairgrounds, Heritage Village, Raleigh, NC. Dates: 3/26/05 � 4/3/05. Open/Close: 10 a.m. - 6:30 p.m.
+**NORTH CAROLINA RENAISSANCE FAIRE.** E-mail: [donna@ncrenfaire.com](mailto:donna@ncrenfaire.com). Website: [http://www.ncrenfaire.com](http://www.ncrenfaire.com) or [http://www.ncrenfaire.org](http://www.ncrenfaire.org). Address: Donna Varner-Sheaves, Historical Enrichment Society, P.O. Box 61280, Raleigh, NC, 27661. Site Address: North Carolina State Fairgrounds, Heritage Village, Raleigh, NC. Dates: 3/26/05 ' 4/3/05. Open/Close: 10 a.m. - 6:30 p.m.
 
 ### Oklahoma
 
-**NORMAN MEDIEVAL FAIRE.** E-mail: [llinn@ou.edu](mailto:llinn@ou.edu). Website: [http://www.occe.ou.edu/medievalfair](http://www.occe.ou.edu/medievalfair). Address: Linda Linn, Univ. of OK, Medieval Faire, 1700 Asp., Norman, OK, 73072. Site Address: Reaves Park. Dates: 4/1/05 � 4/3/05. Open/Close: 10 a.m. - 6:30 p.m.
+**NORMAN MEDIEVAL FAIRE.** E-mail: [llinn@ou.edu](mailto:llinn@ou.edu). Website: [http://www.occe.ou.edu/medievalfair](http://www.occe.ou.edu/medievalfair). Address: Linda Linn, Univ. of OK, Medieval Faire, 1700 Asp., Norman, OK, 73072. Site Address: Reaves Park. Dates: 4/1/05 ' 4/3/05. Open/Close: 10 a.m. - 6:30 p.m.
 
 ### Texas
 
-**EXCALIBUR FANTASY FAIRE.** E-mail: [info@excaliburfaire.com](mailto:info@excaliburfaire.com). Website: [http://www.excaliburfaire.com](http://www.excaliburfaire.com). Address: Jeanette Martin, 1007 Main, Bastnop, TX, 78602. Site Address: Rocky Hill Ranch Smithville, TX , Hwy 153, 2 miles north of Hwy 71. Dates: 3/12/05 � 4/3/05. Open/Close: 10 a.m. - 7 p.m.
+**EXCALIBUR FANTASY FAIRE.** E-mail: [info@excaliburfaire.com](mailto:info@excaliburfaire.com). Website: [http://www.excaliburfaire.com](http://www.excaliburfaire.com). Address: Jeanette Martin, 1007 Main, Bastnop, TX, 78602. Site Address: Rocky Hill Ranch Smithville, TX , Hwy 153, 2 miles north of Hwy 71. Dates: 3/12/05 ' 4/3/05. Open/Close: 10 a.m. - 7 p.m.
 
-**FOUR WINDS RENAISSANCE FAIRE.** E-mail: [fourwindsfaire1@yahoo.com](mailto:fourwindsfaire1@yahoo.com). Website: [http://www.fourwindsfaire.com](http://www.fourwindsfaire.com). Address: Dustin Stephens, P.O. Box 1467, Whitehouse, TX, 75791. Site Address: Vizcaya Ranch 15 miles south of Tyler, TX. Dates: 3/12/05 � 4/17/05. Open/Close: 10 a.m. - 7 p.m.
+**FOUR WINDS RENAISSANCE FAIRE.** E-mail: [fourwindsfaire1@yahoo.com](mailto:fourwindsfaire1@yahoo.com). Website: [http://www.fourwindsfaire.com](http://www.fourwindsfaire.com). Address: Dustin Stephens, P.O. Box 1467, Whitehouse, TX, 75791. Site Address: Vizcaya Ranch 15 miles south of Tyler, TX. Dates: 3/12/05 ' 4/17/05. Open/Close: 10 a.m. - 7 p.m.
 
-**SCARBOROUGH FAIRE, THE RENAISSANCE FESTIVAL.** E-mail: [office@scarboroughrenfest.com](mailto:office@scarboroughrenfest.com). Website: [http://www.scarboroughrenfest.com](http://www.scarboroughrenfest.com). Address: Southwest Festivals, Inc., Coy Sevier, PO Box 538, Waxahachie, TX, 75168. Site Address: 2511 FM66, Waxahachie, TX. Dates: 4/9/05 � 5/30/05. Open/Close: 10 a.m. - 7 p.m.
+**SCARBOROUGH FAIRE, THE RENAISSANCE FESTIVAL.** E-mail: [office@scarboroughrenfest.com](mailto:office@scarboroughrenfest.com). Website: [http://www.scarboroughrenfest.com](http://www.scarboroughrenfest.com). Address: Southwest Festivals, Inc., Coy Sevier, PO Box 538, Waxahachie, TX, 75168. Site Address: 2511 FM66, Waxahachie, TX. Dates: 4/9/05 ' 5/30/05. Open/Close: 10 a.m. - 7 p.m.
 
 ### Utah
 
@@ -163,15 +155,15 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Minnesota
 
-**CONVERGENCE.** E-mail: [info@convergence-con.org](mailto:info@convergence-con.org). Website: [http://www.convergence-con.org/](http://www.convergence-con.org/). Address: 1437 Marshall Avenue, Suite 203, St. Paul, MN, 55104. Site Address: Sheraton South, 7800 Normandale Blvd., Bloomington, MN, 55435. Dates: 7/1/05 � 7/3/05. **Guests: Mercedes Lackey and Larry Dixon!**
+**CONVERGENCE.** E-mail: [info@convergence-con.org](mailto:info@convergence-con.org). Website: [http://www.convergence-con.org/](http://www.convergence-con.org/). Address: 1437 Marshall Avenue, Suite 203, St. Paul, MN, 55104. Site Address: Sheraton South, 7800 Normandale Blvd., Bloomington, MN, 55435. Dates: 7/1/05 ' 7/3/05. **Guests: Mercedes Lackey and Larry Dixon!**
 
 ### Pennsylvania
 
-**COLD WARS 2005.** Website: [http://www.coldwars.org](http://www.coldwars.org). E-mail: [jdrye@spa-inc.net](mailto:jdrye@spa-inc.net). Address: Lancaster Host Resort Hotel, Lancaster, Pennsylvania. Dates: 4/8/05 � 4/10/05.
+**COLD WARS 2005.** Website: [http://www.coldwars.org](http://www.coldwars.org). E-mail: [jdrye@spa-inc.net](mailto:jdrye@spa-inc.net). Address: Lancaster Host Resort Hotel, Lancaster, Pennsylvania. Dates: 4/8/05 ' 4/10/05.
 
 ### Utah
 
-**COSTUMECON 23.** Website: [http://www.costume-con.org/CClink/CC23.shtml](http://www.costume-con.org/CClink/CC23.shtml). E-mail: [cgalway@xmission.com](mailto:cgalway@xmission.com). Address: Marriott Hotel, Ogden, Salt Lake City, Utah. Dates: 4/29/05 � 5/2/05.
+**COSTUMECON 23.** Website: [http://www.costume-con.org/CClink/CC23.shtml](http://www.costume-con.org/CClink/CC23.shtml). E-mail: [cgalway@xmission.com](mailto:cgalway@xmission.com). Address: Marriott Hotel, Ogden, Salt Lake City, Utah. Dates: 4/29/05 ' 5/2/05.
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
@@ -192,7 +184,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 ### Zines and Newsletters:
 
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. E-mail: [healermoon@gmail.com](mailto:healermoon@gmail.com). I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Issues 4, 5 and 6 are currently in the editing stages! Each zine will have about 10 personas for a total of 30 personas that have been accepted in the last couple of years. For the contents list for issues 1,2, and 3 and additional information, visit [Children of Velgarth](/children-of-velgarth/).
-- ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **&#42;&#42; If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don�t hear from you by September 2003, I will have to drop your contribution from the zine. &#42;&#42;** Volume Nine is open to submissions. Current prices (not including shipping) are:
+- ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **&#42;&#42; If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don't hear from you by September 2003, I will have to drop your contribution from the zine. &#42;&#42;** Volume Nine is open to submissions. Current prices (not including shipping) are:
 
   - *Companions' Grove* Volume One - $4.75 (40 pages, color cover)
   - *Companions' Grove* Volume Two - $6.35 (56 pages, color cover)
@@ -215,14 +207,12 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
   Except as noted, zines are printed on high-quality, bright white paper, comb bound, with cardstock covers. Story excerpts and cover art-as well as submission guidelines and PayPal ordering information-can be found at [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm). To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N. Kelishan St., Pahrump, NV 89060.
 
-  **Note regarding *Shards of Autumn*:** While this zine is officially out of print and no longer available on the website, a few copies are left over from convention appearances. Any remaining copies from MediaWest will be available at that con until they sell out; the others are being returned to me and will be auctioned off at [http://www.auctionfen.com](http://www.auctionfen.com) until they are gone. I also occasionally auction off zines which returned from cons a bit shopworn, so it�s a good site to check periodically.
+  **Note regarding *Shards of Autumn*:** While this zine is officially out of print and no longer available on the website, a few copies are left over from convention appearances. Any remaining copies from MediaWest will be available at that con until they sell out; the others are being returned to me and will be auctioned off at [http://www.auctionfen.com](http://www.auctionfen.com) until they are gone. I also occasionally auction off zines which returned from cons a bit shopworn, so it's a good site to check periodically.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). E-mail:submission instructions:
 
   1. Subject line must read "For Karen." (Anything else will be erased as a potential virus hazard.)
   2. Do not use strange fonts, which my computer will not recognize.
   3. E-mail:it to [gbertke@fuse.net](mailto:gbertke@fuse.net). (This is my father's e-mail address. Use it for submissions for Herald's Companion only.)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -237,8 +227,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Musicians by Laura Felton" class="border-5 float-right" loading="lazy" src="/qo247.jpg"/>
 
 ### Collegium News:
@@ -249,15 +237,15 @@ You need a release form (online at [Release form instructions](/release-form-ins
 
 All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
-- Welcome to **Herald Bastian Brennan**, Chosen by Sednafi and Gifted with Double-Strength Mindspeech. *Bastian* wrote about his persona and his family and friends, founded the Vanyel Fan Club (VFC) and wrote two poems. We are delighted to have him in Queen�s Own!
+- Welcome to **Herald Bastian Brennan**, Chosen by Sednafi and Gifted with Double-Strength Mindspeech. *Bastian* wrote about his persona and his family and friends, founded the Vanyel Fan Club (VFC) and wrote two poems. We are delighted to have him in Queen's Own!
 
 If you were working on a persona who is no longer listed at [Club chat guidance](/club-chat/) that means we have not heard from you in over a year. To revive your persona, simply message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) and tell her that your persona is in "Deep Storage." She will pull it out for you and reactivate your submission.
 
-If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
+If you are a returning member who has recently activated your membership in Queen's Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she'll make sure you are greeted in the next newsletter.
 
 ### Lost …
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don't always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
 - Bard Revelin Tionne (sazimarc@mindspring.com)
 - Bard Valiena (laughsong@aol.com)
@@ -291,32 +279,28 @@ If you know any of these folks, please have them contact Danya at [shashtah@gmai
 
 ### From Herald-Mage Adept Danya Winterborn:
 
-March came in like a lion here … and pretty much stayed that way all month. Lots of rain has given way to lots of wind�and more than a few butterflies. The painted ladies are migrating, and there are literally tens of thousands of them in Orange County. We�re supposed to have another swarm in about a month when all the eggs that have been laid by the current batch hatch and the caterpillars become set of butterflies. Unlike monarchs, which fly at a rather high altitude, painted ladies fly right at eye level, so walking around outside can be a bit disconcerting. The children are delighted by the butterflies, though, and my collie is going crazy, chasing them around our yard &lt;g>.
+March came in like a lion here … and pretty much stayed that way all month. Lots of rain has given way to lots of wind'and more than a few butterflies. The painted ladies are migrating, and there are literally tens of thousands of them in Orange County. We're supposed to have another swarm in about a month when all the eggs that have been laid by the current batch hatch and the caterpillars become set of butterflies. Unlike monarchs, which fly at a rather high altitude, painted ladies fly right at eye level, so walking around outside can be a bit disconcerting. The children are delighted by the butterflies, though, and my collie is going crazy, chasing them around our yard &lt;g>.
 
-Sabato Scala is presenting *King Arthur: Tra storia e leggenda: Da Cimitile a Camelot* at the Museum of Naples this weekend. This is the book that contains the report on my research that I gave in Germany last year. The text will be on sale in the museum bookstore for the next month. I�m very excited! I think this is the largest museum my work has ever been presented in to date.
+Sabato Scala is presenting *King Arthur: Tra storia e leggenda: Da Cimitile a Camelot* at the Museum of Naples this weekend. This is the book that contains the report on my research that I gave in Germany last year. The text will be on sale in the museum bookstore for the next month. I'm very excited! I think this is the largest museum my work has ever been presented in to date.
 
-My next trip to Italy has been postponed until 2006. I�m hoping to get over to Britain before that, but nothing is firm yet. In the meantime, I�m going to keep doing what research I can through UCLA and other libraries, as well as by interviewing colleagues online. I�d like to see the Sword in the Stone book finished in the next year or two, but I know how much time that will take. (Writing goes so much slower these days than it used to before I had kids &lt;g>, but I do eventually get things done.) I gave a paper at a conference in San Diego on "San Galgano and the Sword in the Stone." I�m now in the process of converting the text from an academic paper into a chapter in a book. So that�s one more chapter down, more than I care to think about still to go … &lt;g>.
+My next trip to Italy has been postponed until 2006. I'm hoping to get over to Britain before that, but nothing is firm yet. In the meantime, I'm going to keep doing what research I can through UCLA and other libraries, as well as by interviewing colleagues online. I'd like to see the Sword in the Stone book finished in the next year or two, but I know how much time that will take. (Writing goes so much slower these days than it used to before I had kids &lt;g>, but I do eventually get things done.) I gave a paper at a conference in San Diego on "San Galgano and the Sword in the Stone." I'm now in the process of converting the text from an academic paper into a chapter in a book. So that's one more chapter down, more than I care to think about still to go … &lt;g>.
 
-We had a great Easter, though I always feel way too rushed when it falls close to St. Patrick�s Day. Still, this does mean that the holiday madness will finally calm down around here until the Fourth of July. (Huzzah! I love holidays, but I�m a bit worn out by all the work by this time of year.)
+We had a great Easter, though I always feel way too rushed when it falls close to St. Patrick's Day. Still, this does mean that the holiday madness will finally calm down around here until the Fourth of July. (Huzzah! I love holidays, but I'm a bit worn out by all the work by this time of year.)
 
-Hope everything is well with all of you. Anyone up for one of our coffee house meetings or an RP? I miss chatting with you &lt;G>. Drop me a line at shashtah@gmail.com, if you�d like us to try to get something together.
+Hope everything is well with all of you. Anyone up for one of our coffee house meetings or an RP? I miss chatting with you &lt;G>. Drop me a line at shashtah@gmail.com, if you'd like us to try to get something together.
 
-Zhai�helleva,
+Zhai'helleva,
 
 Danya
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
-- **From Cliff Hunter:** I�m looking for a penpal I used to know through QO. Her name is Dara Murphy. Anyone with information about how I can contact her, please e-mail me at [DeathrockCliffy@aol.com](mailto:DeathrockCliffy@aol.com).
-- **From Jennifer M. Mackay/Herald Mallea D'Lar.** I have a new email address: [mackayjenn@yahoo.com](mailto:mackayjenn@yahoo.com)! SNAIL MAIL:�PO BOX 66408, Portland, OR 97290. If you like to read, I'm your girl. Just give me a book and a quiet nook--I'm happy! �Misty, Tad Williams, J.R.R. Tolkien,�Mindy Klasky (Glasswright series), DragonLance (the M. Weiss/T. Hickman original books and new), SF Classics like H.G. Wells, George Orwell, ect., ect. I'm about to sink my teeth into David Eddings on my sister's recommendations. I just finished watching SEVEN seasons of Buffy the Vampire Slayer. That was fun! I've gone through�all NINE years of The X-Files. I'm a huge X-Files fanatic. (Did I forget to mention my love affair with box sets on DVD?) I'm a fan of every Star Trek show made, Star Wars, Battlestar Galactica (got my box set), Babylon 5, Quantum Leap, and just about anything else that grabs my attention.If you wish you could take a trip to the moon, or just get out of Mundania for awhile, please feel free to drop me a line!
+- **From Cliff Hunter:** I'm looking for a penpal I used to know through QO. Her name is Dara Murphy. Anyone with information about how I can contact her, please e-mail me at [DeathrockCliffy@aol.com](mailto:DeathrockCliffy@aol.com).
+- **From Jennifer M. Mackay/Herald Mallea D'Lar.** I have a new email address: [mackayjenn@yahoo.com](mailto:mackayjenn@yahoo.com)! SNAIL MAIL:'PO BOX 66408, Portland, OR 97290. If you like to read, I'm your girl. Just give me a book and a quiet nook--I'm happy! 'Misty, Tad Williams, J.R.R. Tolkien,'Mindy Klasky (Glasswright series), DragonLance (the M. Weiss/T. Hickman original books and new), SF Classics like H.G. Wells, George Orwell, ect., ect. I'm about to sink my teeth into David Eddings on my sister's recommendations. I just finished watching SEVEN seasons of Buffy the Vampire Slayer. That was fun! I've gone through'all NINE years of The X-Files. I'm a huge X-Files fanatic. (Did I forget to mention my love affair with box sets on DVD?) I'm a fan of every Star Trek show made, Star Wars, Battlestar Galactica (got my box set), Babylon 5, Quantum Leap, and just about anything else that grabs my attention.If you wish you could take a trip to the moon, or just get out of Mundania for awhile, please feel free to drop me a line!
 - **From Ellen Million:** Not only is Ellen Million Graphics still around (ten years last October!), but I now offer an array of gorgeous new work by new artists, on many new products (including t-shirts!) and a brand new character portrait service. Ordering is available on-line or by snail mail: [http://www.ellenmilliongraphics.com](http://www.ellenmilliongraphics.com). I'd also love to get back in touch with lost penpals! (Use the contact form on the website to avoid death-by-spam-filters!)
 - **From Herald Valana Dorrandale/Rachel Valentine:** 21-year-old college student needs relief from mundania! I enjoy Misty, Anne Rice, Mickey Zucker Riechert, Robert Jordan, Fiona Patton, Tanya Huff, C.S. Friedman etc. B5, Star Trek, Star Wars, Highlander, LOTR,all kinds of music, scaly and furry animals, Garfield, writing, drawing, singing, playing guitar, horseback riding, traveling and much more. Do you like this stuff?? Write me! **TO: Robin S., Bess H., Bard Shiana, Harold P.:** Are you all still QO members?? Please write me; I've missed you guys! E-mail: [raeval23@yahoo.com](mailto:raeval23@yahoo.com).
-- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
+- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen's Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -337,9 +321,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

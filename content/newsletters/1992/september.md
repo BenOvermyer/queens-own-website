@@ -5,10 +5,6 @@ template = "page.html"
 date = 1992-09-01
 [extra]
 legacy_source = "qosep92.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1992/september/"
@@ -177,7 +173,7 @@ DAW's ad for *Winds of Change* reads "The kingdom of Valdemar is imperiled by th
 
 SEND A SASE WHEN WRITING FOR INFORMATION ON A CON! SEND A SASE WHEN WRITING FOR INFORMATION FROM ANYONE IN FANDOM! Convention committees (and editors, and fan clubs) are under no obligation to answer mail that does not include a Self Addressed Stamped Envelope!
 
-Misty and Larry are limiting their convention appearances to concentrate on their many projects and to take a well�-deserved rest. So--if you are lucky enough to live in the Iowa area, try to attend ICON, October 2-4 in Coralville. For registration and hotel information, write to [Ed. note 2004: Out-of-date info. withheld.].
+Misty and Larry are limiting their convention appearances to concentrate on their many projects and to take a well'-deserved rest. So--if you are lucky enough to live in the Iowa area, try to attend ICON, October 2-4 in Coralville. For registration and hotel information, write to [Ed. note 2004: Out-of-date info. withheld.].
 
 Juanita and Buck Coulson are well-known in the world of filk and now have another claim to fame--they're writing a concordance for Misty's worlds. Besides all that, they sell Misty-related material and other merchandise at many conventions in the Midwest. Look for them in Columbus, Ohio on October 2-4 at Context V [Ed. note 2004: Out-of-date info. withheld.] and at Ohio Valley Filk Fest [Ed. note 2004: Out-of-date info. withheld.] October 23-25. They'll be in Schaumberg, Illinois on November 6-8 for WindxCon XIX [Ed. note 2004: Out-of-date info. withheld.]. SoonerCon 8, November 20-22 in Oklahoma City, features some other familiar names as guests: besides Juanita Coulson as Filk Guest of Honor, Elsie Wollheim of DAW is participating in the reunion of First Fandom, and C. J. Cherryh and Brad Sinor expect to attend. Write to SoonerCon 8 [Ed. note 2004: Out-of-date info. withheld.] for more information. Buck and Juanita will be back in Illinois November 27-29 for Chambanacon 22 in Champaign. Write to Chambanacon [Ed. note 2004: Out-of-date info. withheld.].
 
@@ -253,8 +249,6 @@ Wind to thy Wings, Judith
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -268,9 +262,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

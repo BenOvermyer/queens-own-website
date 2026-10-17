@@ -5,10 +5,6 @@ template = "page.html"
 date = 2003-07-01
 [extra]
 legacy_source = "qojul03.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2003/july/"
@@ -30,23 +26,21 @@ Heyla, Misty fans!
 
 Hope you all are having a great summer!
 
-**Appearance Alert:** Mercedes Lackey will be the Guest of Honor at the **WRITER'S WEEKEND** in Mercer Island, Washington, 7/25/03 - 7/27/03. See their ad in the Con section below for details. Both Misty and Larry will be appearing at **CON�STELLATION XXII: PEGASUS** in Huntsville, Alabama, 10/10/03-10/12/03. See their ad in the Con section as well.
+**Appearance Alert:** Mercedes Lackey will be the Guest of Honor at the **WRITER'S WEEKEND** in Mercer Island, Washington, 7/25/03 - 7/27/03. See their ad in the Con section below for details. Both Misty and Larry will be appearing at **CON'STELLATION XXII: PEGASUS** in Huntsville, Alabama, 10/10/03-10/12/03. See their ad in the Con section as well.
 
-**Travel Plans:** Danya will be traveling to Las Vegas, Dinosaur National Park, Yellowstone National Park, Pocatello (Idaho) and Lake Tahoe from July 19-August 3. She may or may not have e-mail access during that time (We�re still working on that.). Please pardon delays in response time! She�ll get back to you on queries as soon as she can. Also, this means that the August newsletter will definitely be late, since she won�t have time to compile it &lt;G>. If you happen to live somewhere along that route and want to meet for coffee or dessert or something, do let her know at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll try to set up something with you.
+**Travel Plans:** Danya will be traveling to Las Vegas, Dinosaur National Park, Yellowstone National Park, Pocatello (Idaho) and Lake Tahoe from July 19-August 3. She may or may not have e-mail access during that time (We're still working on that.). Please pardon delays in response time! She'll get back to you on queries as soon as she can. Also, this means that the August newsletter will definitely be late, since she won't have time to compile it &lt;G>. If you happen to live somewhere along that route and want to meet for coffee or dessert or something, do let her know at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she'll try to set up something with you.
 
-**Birthday Wishes:** Happy Birthday to Misty (June 24) and Larry (July 28). If you wish to send cards, please use their business address: Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. (The QO PO Box in Laguna Beach, CA is only for business mail intended for QO. We don�t handle mail for Misty and Larry.)
+**Birthday Wishes:** Happy Birthday to Misty (June 24) and Larry (July 28). If you wish to send cards, please use their business address: Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. (The QO PO Box in Laguna Beach, CA is only for business mail intended for QO. We don't handle mail for Misty and Larry.)
 
-**Publication News:** Coming up from Misty: *Mad Maudlin* (with Rosemary Edghill), *The Shadow of the Lion* (anthology), *The Outstretched Shadow: The Obsidian Trilogy: Book One* (with James Mallory), *Exile�s Valor* (October 2003), *Exile�s Honor* (Mass Market Paperback, October 2003), *Elvenborn* (with Andre Norton, Mass Market Paperback, October 2003), *Charmed Destinies* (anthology, November 2003), *Brain Ships* (edited by Anne McCaffrey, anthology), *Sun in Glory* (Valdermar anthology, December 2003), *This Rough Magic*, *The Fairy Godmother* (January 2004), and *Stoned Souls* (with Josepha Sherman). Yes, Misty has been very busy &lt;g>. Keep watch for these new releases at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm). Remember, a portion of all purchases made through the Dragonlords� Bookstore goes to Queen�s Own. This is how we keep our memberships free, so we truly appreciate your support!
+**Publication News:** Coming up from Misty: *Mad Maudlin* (with Rosemary Edghill), *The Shadow of the Lion* (anthology), *The Outstretched Shadow: The Obsidian Trilogy: Book One* (with James Mallory), *Exile's Valor* (October 2003), *Exile's Honor* (Mass Market Paperback, October 2003), *Elvenborn* (with Andre Norton, Mass Market Paperback, October 2003), *Charmed Destinies* (anthology, November 2003), *Brain Ships* (edited by Anne McCaffrey, anthology), *Sun in Glory* (Valdermar anthology, December 2003), *This Rough Magic*, *The Fairy Godmother* (January 2004), and *Stoned Souls* (with Josepha Sherman). Yes, Misty has been very busy &lt;g>. Keep watch for these new releases at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm). Remember, a portion of all purchases made through the Dragonlords' Bookstore goes to Queen's Own. This is how we keep our memberships free, so we truly appreciate your support!
 
-**E-mail Change Reminder:** As of June 30th, Moonstar�s e-mail address will be [healermoon@gmail.com](mailto:healermoon@gmail.com). (Comcast bought her current provider.) Make sure you update your records!
+**E-mail Change Reminder:** As of June 30th, Moonstar's e-mail address will be [healermoon@gmail.com](mailto:healermoon@gmail.com). (Comcast bought her current provider.) Make sure you update your records!
 
 **Midsummer Festival:** Thanks to everyone who showed up at our online Midsummer Festival! We had a great time! Members of the QO chat list are tossing around times and ideas for another RP. If you would like to join the list, QO members may do so at [Club chat guidance](/club-chat/). (We also send alerts about events and other stuff that pops up between newsletters to that list, so if you want to keep current, join the list!)
 
 Zhai'helleva and Happy Fourth of July,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -328,8 +322,6 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Cat Leisure by Gibel Encarnacion" class="float-left" loading="lazy" src="/qo164.jpg"/>
 
 ## Member News:
@@ -341,7 +333,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! This chapter is up for adoption. If you are interested in adopting the chapter and zine, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **German Heartstone:** Website: [http://www.heartstone.de](http://www.heartstone.de). Contact: [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de). A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on [http://www.heartstone.de](http://www.heartstone.de)! For more information contact [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de).
 - **Golden Grove:** Website: [Golden Grove](/golden-grove/). Contact [Theresa Young](mailto:minna@adelphia.net). Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
-- **Heartland Arrows:** Website: [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). Contact [Mary Wilson](mailto:mary@marymuse.com). This chapter is for Queen�s Own members in Iowa, Illinois, Minnesota, & Wisconsin. For information e-mail [mary@marymuse.com](mailto:mary@marymuse.com), or send a SASE to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169. Our new homepage is [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). (Formerly Illinois Arrow.)
+- **Heartland Arrows:** Website: [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). Contact [Mary Wilson](mailto:mary@marymuse.com). This chapter is for Queen's Own members in Iowa, Illinois, Minnesota, & Wisconsin. For information e-mail [mary@marymuse.com](mailto:mary@marymuse.com), or send a SASE to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169. Our new homepage is [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). (Formerly Illinois Arrow.)
 - **Herald's Waystation:** Website: [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation). Contact: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - **Sonoran Collegium:** Website: [Sonoran Collegium](/sonoran-collegium/). Contact: [Laura Felton](mailto:Mistykalia@aol.com). Our Region: THE SOUTHWEST (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome). Snail mail: Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX. E-mail: [Mistykalia@aol.com](mailto:Mistykalia@aol.com). .
 - **The Vanyel Fan Club**: Website: [Vanyel Fan Club](/vanyel-fan-club/). Contact: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). For more information, see the VFC website at [Vanyel Fan Club](/vanyel-fan-club/).
@@ -349,8 +341,8 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa. We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption. *Austral'a'in* is up for adoption. If you are interested in adopting the chapter, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
-- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
-- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists�particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I�ve had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
+- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I'm moving at the end of May. I don't want any orders to go astray.)
+- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists'particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I've had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
 
   *- Companions' Grove Volume One - $4.00 ($4.75 with color cover) - Companions' Grove Volume Two - $5.60 ($6.35 with color cover) - Companions' Grove Volume Three - $5.20 ($5.95 with color cover) - Companions' Grove Volume Four - $4.20 ($4.95 with color cover) - Companions' Grove Volume Five - $7.00 ($7.75 with color cover) - Companions' Grove Volume Six - $5.80 ($6.55 with color cover) - Companions' Grove Volume Seven - $5.20 ($5.95 with color cover) - The Danya Winterborn Saga - $5.20 - Endgame - $3.85 - Fire Eyes - $4.40 - Shards of Autumn - $3.90 - The Sum of Duty - $5.80 - Do or Dye: A Guide to Companion Camouflage - $1.25 - Cat's Cradle - $7.60*
 
@@ -366,8 +358,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Tales of the Southern Bard:** TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at [SouthernBard@eudoramail.com](mailto:SouthernBard@eudoramail.com) for submission guidelines and information on how to join or visit TOTSB's homepage: [http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm](http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm).
 - ***Tales of the Unicorn*:** After a decade hiatus it's back … *Tales of the Unicorn*. Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy. Tales will be published quarterly with the first issue coming in late April. Art and poetry are also welcome. Visit our website at [http://www.marymuse.com/HeartlandArrows/TotU.html](http://www.marymuse.com/HeartlandArrows/TotU.html) for more information. Submissions may be sent to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com) or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Other Fandoms:
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
@@ -381,8 +371,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Cat Stretch by Gibel Encarnacion" class="border-5 float-right" loading="lazy" src="/qo165.jpg"/>
 
 ### Collegium News:
@@ -395,11 +383,11 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 - Welcome, **Herald Kelles**, Chosen by Solari and Gifted with strong Mindspeech, strong Foresight, and strong Firestarting. *Elizabeth Vines* wrote about Kelles and her family and friends, wrote an additional story, composed three poems and learned to ride a horse.
 
-If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
+If you are a returning member who has recently activated your membership in Queen's Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she'll make sure you are greeted in the next newsletter.
 
 ### Lost …
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don't always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
 - Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
 - Herald Deborah (sjupiterdebi@home.com)
@@ -436,8 +424,6 @@ Hugs-
 
 Moonstar
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - **From Herald Valana Dorrandale/Rachel Valentine:** Help!! College student drowning in mundane world! Do you like books (Terry Goodkind, Robert Jordan, Mickey Zucker Reichert, C.S. Friedman, Tanya Huff, Lynn Flewelling, Anne Rice, etc.), Star Trek, Star Wars, Babylon 5, movies, cats, dogs, fish, horses, mountains, music, play an instrument? Then what are you waiting for; write to me! Snail mail: Rachel Valentine, 10412 Sagebrush Way, Knoxville, TN, 37932 or e-mail [raeval23@yahoo.com](mailto:raeval23@yahoo.com).
@@ -452,11 +438,9 @@ Moonstar
   - Child care for Danya so she can code.
 
   If you can be of assistance, please contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
-- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
-- **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.
+- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen's Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
+- **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -477,9 +461,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

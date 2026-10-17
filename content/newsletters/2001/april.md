@@ -5,10 +5,6 @@ template = "page.html"
 date = 2001-04-01
 [extra]
 legacy_source = "qoapr01.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2001/april/"
@@ -28,36 +24,34 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-Herald-Mage Danya has one more article to code for the next issue of *The Compass Rose*, and then it will be available online. Sorry for the delay. (In addition to having to bring a new computer system online, Danya has found out she�s pregnant again, so things have gotten a bit behind &lt;g>.)
+Herald-Mage Danya has one more article to code for the next issue of *The Compass Rose*, and then it will be available online. Sorry for the delay. (In addition to having to bring a new computer system online, Danya has found out she's pregnant again, so things have gotten a bit behind &lt;g>.)
 
-This month we�re going to take a brief hiatus from our artist interviews to talk about another type of art: costume design. As several of our chapters gear up to attend special events, Renaissance Faires and conventions, we�ve been receiving questions yet again about how to find or make various Misty-oriented costumes. We�ll start by discussing the most frequent requests: Herald�s Whites.
+This month we're going to take a brief hiatus from our artist interviews to talk about another type of art: costume design. As several of our chapters gear up to attend special events, Renaissance Faires and conventions, we've been receiving questions yet again about how to find or make various Misty-oriented costumes. We'll start by discussing the most frequent requests: Herald's Whites.
 
-In *Arrow�s Flight*, Misty describes Talia�s whites as a raime shirt, leather breeches, and a leather tunic that pulled on over her head. Everything was in white. That�s the basic Herald�s uniform.
+In *Arrow's Flight*, Misty describes Talia's whites as a raime shirt, leather breeches, and a leather tunic that pulled on over her head. Everything was in white. That's the basic Herald's uniform.
 
-When Talia has to attend a formal court function in *Arrow�s Flight*, she wears an ankle-length gown of silk and velvet, slippers that tie to her ankles with ribbons, no train, detachable sleeves, and a silver ribbon in her hair. It�s unclear whether the outfit is all in white, but presumably that is the case since Talia is on duty as Queen�s Own at the time, and all Heralds must wear all white when they are on duty. Queen Selenay also wears a white shirt and skirt, with either a white tunic or vest, when she holds court; her materials are usually velvet and silk as well.
+When Talia has to attend a formal court function in *Arrow's Flight*, she wears an ankle-length gown of silk and velvet, slippers that tie to her ankles with ribbons, no train, detachable sleeves, and a silver ribbon in her hair. It's unclear whether the outfit is all in white, but presumably that is the case since Talia is on duty as Queen's Own at the time, and all Heralds must wear all white when they are on duty. Queen Selenay also wears a white shirt and skirt, with either a white tunic or vest, when she holds court; her materials are usually velvet and silk as well.
 
-Cloaks vary from horseman�s type to full-length with hood. The important factor is that the cloaks are completely white.
+Cloaks vary from horseman's type to full-length with hood. The important factor is that the cloaks are completely white.
 
-In *Winds of Change* Elspeth gives instructions to the hertasi who want to improve the look of her whites. Essentially, she tells them that the clothing must be nonreflective, silent (no bells or anything else that will make noise), tailored (at least to the point that nothing will catch on anything while she�s fighting or riding), and, above all, white. No off-white, cream, eggshell or anything else is acceptable. The hertasi come back with something that makes her look something like a female version of Buffalo Bill: cut-out leather vest with fringe, cut-out leather trousers, silk shirt, and both half boots and full boots. Everything is in white, as per Elspeth�s instructions.
+In *Winds of Change* Elspeth gives instructions to the hertasi who want to improve the look of her whites. Essentially, she tells them that the clothing must be nonreflective, silent (no bells or anything else that will make noise), tailored (at least to the point that nothing will catch on anything while she's fighting or riding), and, above all, white. No off-white, cream, eggshell or anything else is acceptable. The hertasi come back with something that makes her look something like a female version of Buffalo Bill: cut-out leather vest with fringe, cut-out leather trousers, silk shirt, and both half boots and full boots. Everything is in white, as per Elspeth's instructions.
 
-When Elspeth gets back to Haven in *Winds of Fury*, the Heralds in the Circle see her new whites and start lusting after them &lt;g>. The result is that Herald�s Whites are still available in the "uniform" style that Talia wore but individualized versions, such as Elspeth�s, start cropping up, particularly among the new Herald-Mages.
+When Elspeth gets back to Haven in *Winds of Fury*, the Heralds in the Circle see her new whites and start lusting after them &lt;g>. The result is that Herald's Whites are still available in the "uniform" style that Talia wore but individualized versions, such as Elspeth's, start cropping up, particularly among the new Herald-Mages.
 
-So on our alternate timeline, people have quite a bit of latitude when it comes to creating Whites. Stick to Elspeth�s rules:
+So on our alternate timeline, people have quite a bit of latitude when it comes to creating Whites. Stick to Elspeth's rules:
 
 - All white.
 - Nothing shiny.
 - Nothing that makes noise.
 - Close-fitting so as not to impede riding or fighting.
 
-Medieval and Renaissance patterns are recommended. Simplicity pattern 8587 A (vest-you might want to exclude the short sleeves), B (shirt with slit at neck), C (trousers) works well. Simplicity pattern 9452 offers several options for a cloak/cape. Remember that there are no buttons or zippers or Velcro mentioned; everything fastens with ties, laces or other such devices. Muslin or linen would work well for the shirt, although you could certainly go to silk if you were so inclined. If you can�t afford leather or suede for the trousers and vest, there are a variety of fabrics available in white. Steer clear of things like polyester. Cotton, linen, silk and other such natural fabrics are preferred. Artists� renditions of the boots vary, but since the Heralds use stirrups, some sort of heel would be advisable, even though that isn�t strictly true to medieval style. Either half boots or full boots (below the knee) would be acceptable. (There is nothing to suggest that Heralds use the sort of hip-high or thigh-high cavalry boots that show up in the Renaissance. Also, most Renaissance Faires prefer it if you keep leather fringe off your boots.) You can decorate your Whites with embroidery, beading and so forth to your heart�s content as long as you don�t jingle when you walk &lt;g>.
+Medieval and Renaissance patterns are recommended. Simplicity pattern 8587 A (vest-you might want to exclude the short sleeves), B (shirt with slit at neck), C (trousers) works well. Simplicity pattern 9452 offers several options for a cloak/cape. Remember that there are no buttons or zippers or Velcro mentioned; everything fastens with ties, laces or other such devices. Muslin or linen would work well for the shirt, although you could certainly go to silk if you were so inclined. If you can't afford leather or suede for the trousers and vest, there are a variety of fabrics available in white. Steer clear of things like polyester. Cotton, linen, silk and other such natural fabrics are preferred. Artists' renditions of the boots vary, but since the Heralds use stirrups, some sort of heel would be advisable, even though that isn't strictly true to medieval style. Either half boots or full boots (below the knee) would be acceptable. (There is nothing to suggest that Heralds use the sort of hip-high or thigh-high cavalry boots that show up in the Renaissance. Also, most Renaissance Faires prefer it if you keep leather fringe off your boots.) You can decorate your Whites with embroidery, beading and so forth to your heart's content as long as you don't jingle when you walk &lt;g>.
 
-We�ll take a look at some other costume design ideas in future issues of this newsletter as space permits.
+We'll take a look at some other costume design ideas in future issues of this newsletter as space permits.
 
 Zhai'helleva,
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -389,8 +383,6 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Tee 1 by Jan Tallevast" class="border-3" loading="lazy" src="/qo70.jpg"/>
 
 ## Member News:
@@ -415,8 +407,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -449,19 +439,17 @@ We have no personae to announce this month, but almost 40 people have them in pr
 
 Heyla!
 
-I�m sorry the coffee chat didn�t materialize in March. Would anyone like to try for some time in the first week of May when Moonstar will be in Southern California for a visit? Contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com) if you�re interested, and I�ll try to set something up.
+I'm sorry the coffee chat didn't materialize in March. Would anyone like to try for some time in the first week of May when Moonstar will be in Southern California for a visit? Contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com) if you're interested, and I'll try to set something up.
 
-The QO trip to the Southern California Renaissance Pleasure Faire will be Saturday, June 2nd. Please let me know if your would like me to order a ticket for you. (Remind me, even if you�ve already told me. I tend to be extremely scatter-brained while I�m pregnant, and I don�t want to accidentally leave anyone out.) Tickets should be in roughly the $15 range.
+The QO trip to the Southern California Renaissance Pleasure Faire will be Saturday, June 2nd. Please let me know if your would like me to order a ticket for you. (Remind me, even if you've already told me. I tend to be extremely scatter-brained while I'm pregnant, and I don't want to accidentally leave anyone out.) Tickets should be in roughly the $15 range.
 
 The QO Midsummer Festival for Southern California will be held June 23rd in Aliso Viejo. Contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com) for directions and additional information. (Anyone else trying to put together a Midsummer Festival? Do let us know so we can advertise it in the newsletter.)
 
-I�m also working on my Adept rank &lt;g>. I published a book (and more articles than I care to think about) on the historical King Arthur. I�m working on the paper discussing the ethics and morality of Adept-level power and possession, and I�m currently researching constraints that must be placed on the arbitrator. Oh, and I learned the magic tricks &lt;g>. Now I just have to find the time to finish all that … Any of you other Herald-Mages working on the next rank?
+I'm also working on my Adept rank &lt;g>. I published a book (and more articles than I care to think about) on the historical King Arthur. I'm working on the paper discussing the ethics and morality of Adept-level power and possession, and I'm currently researching constraints that must be placed on the arbitrator. Oh, and I learned the magic tricks &lt;g>. Now I just have to find the time to finish all that … Any of you other Herald-Mages working on the next rank?
 
-Zhai�helleva,
+Zhai'helleva,
 
 Danya
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Fan Messages:
 
@@ -474,15 +462,11 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **White Winds Soceress Shadow Weaver**. I am looking for gothic and sci/fi fantasy events in Ohio/KY/Indiana/West Virginia to merchant at. If you have any info please e-mail [cimeshadow@aol.com](mailto:cimeshadow@aol.com) or snail mail Lisa Brawner at P.O. Box 8335, Lexington, KY 40533-8335.
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - **From: Healer Adept Moonstar. To: All. Re: QO Newsletter.** Needed February 88 through March 91, Queen's Own newsletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - **From: Hanna. To: All.** It looks like I'm back - I'm not completely sure. But in between I've lost contact with some of you. My email is (still) [hanna.b@freeler.nl](mailto:hanna.b@freeler.nl), my new home address is Bloemstraat 131, 1016 KZ Amsterdam, The Netherlands. Hopefully we can renew contact, and new friends are always welcome. You may even drop in … WttW, Hanna
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -503,9 +487,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

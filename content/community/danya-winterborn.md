@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "danya.htm"
 source_site = "dragonlords.fans"
-bgcolor = "slategray"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "community"
 canonical_path = "/danya-winterborn/"
@@ -21,9 +17,7 @@ L.A. Malcor's
 
 Danya Winterborn's Page
 
-<a href="/pacific-northwest-collegium/"><img alt="Danya Winterborn" loading="lazy" src="/cc3a.gif"/></a>
-
-Terrill Choosing Danya by [Laura Cameron](/pacific-northwest-collegium/)
+{{ <artwork src="/cc3a.gif" title="Terrill Choosing Danya" artist="Laura Cameron" alt="Danya Winterborn" href="/pacific-northwest-collegium/" artist_url="/pacific-northwest-collegium/" /> }}
 
 <table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%">
 <tr>
@@ -46,11 +40,7 @@ Own</a></td>
 </tr>
 </table>
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
-
-<a href="/pacific-northwest-collegium/"><img alt="Yarik" loading="lazy" src="/cc8a.gif"/></a>
-
-Herald Yarik Rafton in the Companions' Field by [Laura Cameron](/pacific-northwest-collegium/)
+{{ <artwork src="/cc8a.gif" title="Herald Yarik Rafton in the Companions' Field" artist="Laura Cameron" alt="Yarik" href="/pacific-northwest-collegium/" artist_url="/pacific-northwest-collegium/" /> }}
 
 This section is dedicated to the works of Mercedes Lackey. The purpose of this fan page is to promote Misty's Valdemar and other series. The information contained here is intended solely for the enjoyment of Valdemar fans everywhere. It is not intended to infringe in any way upon the rights held by Mercedes Lackey. Cover art images on this page are used by permission from [Amazon.com](http://www.amazon.com) for the purpose of linking to a site where you can buy these books. Absolutely no duplication is permitted.
 
@@ -58,15 +48,13 @@ You will occasionally see Mercedes Lackey refered to as "Misty" on these pages. 
 
 <a href="/"><img alt="Queen's Own Seal, 2003-2004" loading="lazy" src="/qoseal.jpg"/></a>
 
-Danya Winterborn is my (L.A. Malcor's) [Queen's Own](/)-approved persona. So far she's earned the rank of Herald-Mage, Adept, and she is working on the rank of Herald-Mage, Guardian. The only other known Herald-Mage Adepst are author Ellen Guon and Mercedes Lackey herself.
+Danya Winterborn is my (L.A. Malcor's) [Queen's Own](/)-approved persona. So far she's earned the rank of Herald-Mage, Adept, and she is working on the rank of Herald-Mage, Guardian. The only other known Herald-Mage Adepts are author Ellen Guon and Mercedes Lackey herself.
 
-<img alt="" loading="lazy" src="/barflow.gif"/>
+ ## Fan Fiction
 
-<a id="cchron"></a> ## Fan Fiction
+<a id="cchron"></a>
 
-<a href="/pacific-northwest-collegium/"><img alt="Danya, Yarik and Kaylan" loading="lazy" src="/cc10a.gif"/></a>
-
-Herald-Trainee Danya Winterborn with Heralds Yarik Rafton and Kaylan Elderwood by [Laura Cameron](/pacific-northwest-collegium/)
+{{ <artwork src="/cc10a.gif" title="Herald-Trainee Danya Winterborn with Heralds Yarik Rafton and Kaylan Elderwood" artist="Laura Cameron" alt="Danya, Yarik and Kaylan" href="/pacific-northwest-collegium/" artist_url="/pacific-northwest-collegium/" /> }}
 
 So far, I have completed five stories about Danya's adventures. [Releases](/release-form-instructions/) have been filed with High Flight. The tales have been published in the following 'zines:
 
@@ -82,9 +70,9 @@ So far, I have completed five stories about Danya's adventures. [Releases](/rele
 
 For a listing of places where you can send your own Valdemar fan fiction as well as read fiction written by other folks, check out the Queen's Own [Fan Fiction](/fan-fiction/) page.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+ ## Trivia
 
-<a id="trivia"></a> ## Trivia
+<a id="trivia"></a>
 
 Here's some fun stuff I cobbled together while procrastinating on my latest writing project &lt;g>.
 
@@ -94,9 +82,9 @@ Here's some fun stuff I cobbled together while procrastinating on my latest writ
 - [Timeline for the Order of the Books](/valdemar-timeline/)
 - [Why Companions Choose the Heralds They Do](/companions-choices/)
 
-<img alt="" loading="lazy" src="/bargrass.gif"/>
+ ## Magic
 
-<a id="spells"></a> ## Magic
+<a id="spells"></a>
 
 This section is devoted to magic, some of it on Misty's world of Velgarth, some of it not. Most of the information in these pages has been compiled while Danya works on advancing in rank as a Herald-Mage. (Unless otherwise designated, the section on magic is from the *fictional* world of Velgarth.)
 
@@ -109,9 +97,9 @@ This section is devoted to magic, some of it on Misty's world of Velgarth, some 
 - [Other Magic](/magic-of-velgarth/#tm4)
 - [Magic "Spells" from the "Real" World](/science-and-magic-tricks/)
 
-<img alt="" loading="lazy" src="/barstar.gif"/>
+ ## The Infamous Movie Project
 
-<a id="movie"></a> ## The Infamous Movie Project
+<a id="movie"></a>
 
 Every fandom I've ever been a part of has, at one time or another, had fun with coming up with a "dream" cast to play the characters in beloved books. This endeavor is just for fun and is in no way intended to be serious. As far as I know, the movie rights belong to Misty, and there I imagine they shall remain until a real producer with real money decides to take on the project. The main benefit of this exercise, as I see it, is to compare the visions of characters as the author has managed to create them in our heads with images that we all know from the magical offerings of the big screen that have so enchanted us over the years. This particular version of the project was initiated by the [The Vanyel Fan Club](/vanyel-fan-club/) so the chosen books happen to be from Misty's Herald Mage Trilogy.
 
@@ -150,13 +138,11 @@ In The Valdemar Companion Misty registers her own votes for the Dream Cast list 
 </tr>
 </table>
 
-<img alt="" loading="lazy" src="/barstar.gif"/>
+ ## Recipes
 
-<a id="recipes"></a> ## Recipes
+<a id="recipes"></a>
 
-<a href="/pacific-northwest-collegium/"><img alt="Danya and Bard Kestran" loading="lazy" src="/cc2a.gif"/></a>
-
-Danya and Bard Kestran by [Laura Cameron](/pacific-northwest-collegium/)
+{{ <artwork src="/cc2a.gif" title="Danya and Bard Kestran" artist="Laura Cameron" alt="Danya and Bard Kestran" href="/pacific-northwest-collegium/" artist_url="/pacific-northwest-collegium/" /> }}
 
 The recipe booklet available through these links was part of my project to qualify Danya for [Queen's Own](/). The recipes in it were developed solely by me, and I hold the copyright to them. These files are offered to Internet users free of charge under the following conditions: Internet users may maintain one electronic copy and one print copy of the file for use by members of the user's household. Permission to otherwise duplicate or "lend" any of these files without my written consent is expressly denied.
 
@@ -165,15 +151,15 @@ In my character's backstory, she grew up in an area that could grow very little 
 - [Danya's Recipes](/danyas-cookbook/) (This is the HTML file.)
 - [Danya's Recipes](/recipes.zip) (This is a .zip of the WordPerfect 6.0 for DOS copy.)
 
-<img alt="" loading="lazy" src="/barcastl.gif"/>
+ ## Mercedes Lackey's Books
 
-<a id="books"></a> ## Mercedes Lackey's Books
+<a id="books"></a>
 
 [Click here](/valdemar-timeline/) to see the timeline for the order of the books.
 
-<img alt="" loading="lazy" src="/barlinks.gif"/>
+ ## Misty Links
 
-<a id="links"></a> ## Misty Links
+<a id="links"></a>
 
 Here are links of interest to fans of the Valdemar series.
 
@@ -218,41 +204,3 @@ Here are links of interest to fans of the Valdemar series.
 - [The Wonderful World of Velgarth](http://www.geocities.com/Area51/Nebula/8375/Velgarth/) (Book reviews)
 
 If you know of a link you would like me to add, message me at [shashtah@gmail.com](mailto:shashtah@gmail.com). I'll review the site, and, if I like it, I'll add the link.
-
-<img alt="" loading="lazy" src="/rainbar.gif" style="width:800px; height:7px"/>
-
-<a id="rings"></a> ## Webrings
-
-The following webrings are Valdemar-related.
-
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a>
-
-This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:shashtah@gmail.com).
-
-[[Previous 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;prev5) | [Previous](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;prev) | [Next](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;next) | [Next 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;next5) | [Random Site](http://www.webring.org/cgi-bin/webring?ring=qsown;random) | [List Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;list)]
-
-<a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a>
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="http://www.geocities.com/Area51/Vault/5297/ringhome.html"> <img alt="" class="float-left" loading="lazy" src="http://www.geocities.com/Area51/Vault/5297/circle.jpg" style="width:100px; height:115px"/></a> <a href="http://www.webring.org/cgi-bin/webring?ring=vanyelring&amp;id=27&amp;next"> <img alt="" class="float-right" loading="lazy" src="http://www.geocities.com/Area51/Vault/5297/circle2.jpg" style="width:100px; height:115px"/></a>
-
-This site is part of the [Heraldic Circle](http://www.geocities.com/Area51/Vault/5297/ringhome.html) and is owned by [L.A. Malcor](mailto:shashtah@gmail.com). Click for the [ [Next Page](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&next) | [Skip It](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&skip) | [Previous](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&prev) | [Next Five](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&next5)] Want to join the Circle? Click here for [info](http://www.geocities.com/Area51/Vault/5297/ringhome.html).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-&lt;noscript><table class="border-2 cellspacing-0" style="background-color:gray"><tr> <td><table class="cellpadding-2 cellspacing-0"><tr><td class="align-center"> This site is a member of WebRing. <br/>To browse visit <a href="http://ss.webring.com/navbar?f=l;y=shashtah;u=10152152"> Here</a>.</td></tr></table></td></tr></table>
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="http://hometown.aol.com/wntercloud/myhomepage/index.html"><img alt="" class="float-right" loading="lazy" src="http://www.angelfire.com/md2/BladeLibrary/falcon.gif" style="height:200px"/></a> This [Misty Alliance](http://hometown.aol.com/wntercloud/myhomepage/index.html) site is owned by [L.A. Malcor](mailto:shashtah@gmail.com).
-
-[[List Sites](http://www.bravenet.com/freelink/show.php?usernum=176813191)]
-
-Want to join [Misty Alliance](http://hometown.aol.com/wntercloud/myhomepage/index.html)?
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="http://leader.linkexchange.com/12/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/12/X513002/showlogo?" style="width:468px; height:16px"/></a>
-
-<img alt="" loading="lazy" src="/bardrgn2.gif"/>

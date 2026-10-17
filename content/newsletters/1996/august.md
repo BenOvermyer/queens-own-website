@@ -5,10 +5,6 @@ template = "page.html"
 date = 1996-08-01
 [extra]
 legacy_source = "qoaug96.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1996/august/"
@@ -34,9 +30,9 @@ Dear Misty Fans,
 
 <img alt="Storm Breaking" class="float-right" loading="lazy" src="/ml20.gif"/> Coming this fall is Misty's long awaited *Storm Breaking*, Book Three of *The Mage Storms*, with this beautiful Jody Lee cover and interior illustrations by Larry Dixon.
 
-"As *Storm Breaking* opens, the western allies, led by Karal, Karsite Sun�priest and delegate to the Valdemaran Court, and the Adepts Firesong and An'desha, have traveled deep into the Dorisha Plains to locate the ancient ruins of the Tower of Urtho, Mage of Silence, creator of the gryphous: Legend has it that below the Tower, deeply buried beneath the plains, is Urtho's Vault, hidden stronghold of some of the most powerful magical weapons ever devised - weapons that Urtho himself felt were too dangerous to use. With the help of the Shin'a'in plainsmeu, they have successfully excavated this ancient arsenal, and risked their lives triggering one of these antique but potent tools of death to unleash a monstrous burst of mage-energy.
+"As *Storm Breaking* opens, the western allies, led by Karal, Karsite Sun'priest and delegate to the Valdemaran Court, and the Adepts Firesong and An'desha, have traveled deep into the Dorisha Plains to locate the ancient ruins of the Tower of Urtho, Mage of Silence, creator of the gryphous: Legend has it that below the Tower, deeply buried beneath the plains, is Urtho's Vault, hidden stronghold of some of the most powerful magical weapons ever devised - weapons that Urtho himself felt were too dangerous to use. With the help of the Shin'a'in plainsmeu, they have successfully excavated this ancient arsenal, and risked their lives triggering one of these antique but potent tools of death to unleash a monstrous burst of mage-energy.
 
-"With this explosion of magical power, Karal, Firesong, and their companions have temporarily counteracted the ever�increasing waves of the mage storms. But they know that this desperate action will not save them--they have bought themselves precious time, but are still far from a permanent solution.
+"With this explosion of magical power, Karal, Firesong, and their companions have temporarily counteracted the ever'increasing waves of the mage storms. But they know that this desperate action will not save them--they have bought themselves precious time, but are still far from a permanent solution.
 
 "They know now that the mage storms are an 'echo' through time of the prehistoric Cataclysm which destroyed Urtho's Tower, created the vast and barren Dorisha Plains, and permanently warped their world more than two thousand years ago. And they also know that if they don't find a way to banish these magical vibrations they will culminate in another Cataclysm--this time destroying their world for good.
 
@@ -140,8 +136,6 @@ Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -155,9 +149,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

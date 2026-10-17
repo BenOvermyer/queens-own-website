@@ -5,10 +5,6 @@ template = "page.html"
 date = 2001-03-01
 [extra]
 legacy_source = "qomar01.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2001/march/"
@@ -46,8 +42,6 @@ Zhai'helleva,
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 1. **When did you join Queen's Own?**
 
   I joined QO in May of 1992.
@@ -78,8 +72,6 @@ Zhai'helleva,
 10. **What other projects besides Queen's Own occupy your time?**
 
   Besides projects for QO I also produce art for the club N3F, other newsletters and amateur presses, and some charities as well (animal-related). Mainly I try to draw for myself and for my own need for expression, self-exploration and well being. I do like having others to share my creations with through fandom and beyond.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -359,8 +351,6 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Fox by Michelle Cornette" class="border-3" loading="lazy" src="/qo66.jpg"/>
 
 ## Member News:
@@ -387,8 +377,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -441,8 +429,6 @@ Hugs-
 
 Moonstar
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Fan Messages:
 
 The newsletter is routinely posted to the Net. If you are concerned about your address falling into unfriendly hands, don't place a fan message! You may answer fan messages without ever placing one yourself. The editors reserve the right to edit--and shorten!--all messages. (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
@@ -454,8 +440,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **White Winds Soceress Shadow Weaver**. I am looking for gothic and sci/fi fantasy events in Ohio/KY/Indiana/West Virginia to merchant at. If you have any info please e-mail [cimeshadow@aol.com](mailto:cimeshadow@aol.com) or snail mail Lisa Brawner at P.O. Box 8335, Lexington, KY 40533-8335.
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - **From: Erin. To: All.** Like anime? Live in the Bay Area? Then come to Fanime Con! March 30th to April 1st at the Westin Hotel and Convention Center, 5101 Great America Parkway, Santa Clara, California 95054. For more information about guests and events, and also for registration info, go to [http://www.fanime.com](http://www.fanime.com).
@@ -464,8 +448,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - **From Herald-Mage Danya. To: All. Re: Midsummer Festival.** Everyone who is interested in attending an official QO Midsummer Festival in Aliso Viejo, CA, please contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com). The date looks as if it will be Saturday, June 23rd. We're looking at having a BBQ, at least recorded if not live music, and other activities. Garb is welcome but not mandatory. Let me know as soon as possible if you are planning to come so I can get an idea if the park I have in mind is big enough for the event &lt;g>. (It's smallish, with picnic tables, BBQs, play area for kids, plenty of parking, easy access to stores and down the street from my house &lt;g>. This is Orange County, though, and numerous other options are available if that won't work.)
 - **From: Healer Adept Moonstar. To: All. Re: QO Newsletter.** Needed February 88 through March 91, Queen's Own newsletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -486,9 +468,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

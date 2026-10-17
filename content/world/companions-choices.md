@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "danc.htm"
 source_site = "dragonlords.fans"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/companions-choices/"
@@ -29,5 +25,3 @@ This is a list grew out of my discussion with a fan who was preparing a persona 
 4. The Companion is also looking for someone who is young and who can be trained to do the Herald's physically and emotionally demanding job.
 5. The Companion is looking for someone who has a Gift or Gifts (usually Gifts manifest after the Herald is Chosen); there are many very nice, unGifted people in the world, and they can't become Heralds.
 6. The Companions will only choose people who can be spared from their current life. A Companion won't choose the only possible heir for a farm, someone who has Bardic or Healer talent (and who is needed in those Schools), or someone who is the sole means of support for a family. In other words, if a person has a much-needed skill in another area or is needed by his/her family and/or fellow villagers (like the only blacksmith in a town), etc., then that person will not be Chosen.
-
-<img alt="" loading="lazy" src="/bardrgn2.gif"/>

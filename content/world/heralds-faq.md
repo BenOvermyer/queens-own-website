@@ -4,10 +4,6 @@ path = "heralds-faq"
 template = "page.html"
 [extra]
 legacy_source = "qofaqh.htm"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/heralds-faq/"
@@ -182,9 +178,3 @@ There are Herald Waystations scattered throughout Valdemar. These are stand-alon
 
 - Berrybay
 - Errold's Grove
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

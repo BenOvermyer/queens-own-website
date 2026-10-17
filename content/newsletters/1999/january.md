@@ -5,10 +5,6 @@ template = "page.html"
 date = 1999-01-01
 [extra]
 legacy_source = "qojan99.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1999/january/"
@@ -32,11 +28,11 @@ Mercedes Lackey Fan Club
 
 ## The Official Mercedes Lackey Fan Club
 
-<img alt="Queen's Own/Merging of the Ways" class="float-right" loading="lazy" src="/qo226.jpg"/>The Official Mercedes Lackey Fan Club I PO Box 56956, Sherman Oaks, CA 91403 1 Volume I #4, January 23, 1999 Release date 4/99, Baen Paperback $6.99 Lope through the night with a young woman who has been given the power to transform herself into a leop�ard, but who now finds herself pursued by a hunter who is more than human. Follow the adventures of Skitty, ship's cat extraordinaire, and telepathic problem-solver. Ride with a late night driver on a soli�tary road who learns that what appears to be a piece of cardboard blowing across the road is actually some�thing very sinister in disguise. Join Lackey's cele� brated occult detective Diana Tregarde as she attends a gathering of romance writ�ers and encounters a visitor whose passionate desire is for fresh, warm blood. Re�turn to the world of the Heralds of Valdemar. And there's much more.
+<img alt="Queen's Own/Merging of the Ways" class="float-right" loading="lazy" src="/qo226.jpg"/>The Official Mercedes Lackey Fan Club I PO Box 56956, Sherman Oaks, CA 91403 1 Volume I #4, January 23, 1999 Release date 4/99, Baen Paperback $6.99 Lope through the night with a young woman who has been given the power to transform herself into a leop'ard, but who now finds herself pursued by a hunter who is more than human. Follow the adventures of Skitty, ship's cat extraordinaire, and telepathic problem-solver. Ride with a late night driver on a soli'tary road who learns that what appears to be a piece of cardboard blowing across the road is actually some'thing very sinister in disguise. Join Lackey's cele' brated occult detective Diana Tregarde as she attends a gathering of romance writ'ers and encounters a visitor whose passionate desire is for fresh, warm blood. Re'turn to the world of the Heralds of Valdemar. And there's much more.
 
-<img alt="Werehunter" class="float-left" loading="lazy" src="/ml55.gif"/>In the short span of a few years, Mercedes Lackey has risen from an exciting new talent to a reigning super�star of fantasy. Last year's Fiddler Fair was a show�case of the wide scope of her talent, ranging from fan�tasy to science fiction, from screwball humor to macabre supernatural terror. Now comes the successor to that top-selling volume, *Werehunter*.
+<img alt="Werehunter" class="float-left" loading="lazy" src="/ml55.gif"/>In the short span of a few years, Mercedes Lackey has risen from an exciting new talent to a reigning super'star of fantasy. Last year's Fiddler Fair was a show'case of the wide scope of her talent, ranging from fan'tasy to science fiction, from screwball humor to macabre supernatural terror. Now comes the successor to that top-selling volume, *Werehunter*.
 
-*Urban Nightmares*, paperback Baen $5.99. Your darkest fears are lurking in your building lobby, in the mall parking lot, on the street where you live, or be�low those same streets. You may be wondering why Josepha Sherman is in�cluded in this issue of the newsletter. Well, I spoke with Misty and she would like me to include some of my other favorite authors, which are Josepha Sherman, Mark Shepherd and Holly Lisle. You will see more of their re�leases and convention schedules as I get information. I personally am glad to expand the focus of this newsletter to include such wonderful writers. I hope you don't mind the change too much!
+*Urban Nightmares*, paperback Baen $5.99. Your darkest fears are lurking in your building lobby, in the mall parking lot, on the street where you live, or be'low those same streets. You may be wondering why Josepha Sherman is in'cluded in this issue of the newsletter. Well, I spoke with Misty and she would like me to include some of my other favorite authors, which are Josepha Sherman, Mark Shepherd and Holly Lisle. You will see more of their re'leases and convention schedules as I get information. I personally am glad to expand the focus of this newsletter to include such wonderful writers. I hope you don't mind the change too much!
 
 Robin - Herald Seneschal
 
@@ -52,7 +48,7 @@ For definitions of our fannish jargon, read "Pros &am[; Cons: An Introduction to
 
 The release of the booklet *Sink or Swim*, a helpful guide for aspiring editors, is temporarily postponed. If you are an editor whose submission did not make it in (either you missed the deadline, never answered the questionnaire, or never received a questionnaire), you still have a chance. Copies of the questionnaire are available for free, no SASE needed (you do need a letter saying that you'd like a copy, though). Send your advice, questions, or requests to: Aurora Nelson/Rea Wildfire [Ed. note 2004: Out-of-date oder info. withheld.]. The new deadline is February 1, 1999. The booklet will be available starting March 1, 1999 for between one and two dollars.
 
-Come one! Come all! If you haven't seen the wonders created by Ellen Million Graphics and her band of artists yet, then this is the moment to do so! The new &#96;981'99 full catalog is out. and it is a MUST SEE! Come, experience the enchantment when fantasy be� comes reality on quality, affordable FANTASY STATIONARY from EMG! An assortment of new designs in beautiful ink and pen� cil artwork, exclusively ours, on an array of partly recycled colored paper! We offer: stationary, cards, bookmarks, magnets, address labels, scratch pads, (new!) coloring books, and growing!! We are your source for quality fantasy products!!! No SASE needed; just write and ask for your first FREE catalog! Custom work available; all inquiries:Ellen Million Graphics [Ed. note 2004: Out-of-date oder info. withheld. See a current newsletter for oder details]. (Dealer inquiries welcome!)
+Come one! Come all! If you haven't seen the wonders created by Ellen Million Graphics and her band of artists yet, then this is the moment to do so! The new &#96;981'99 full catalog is out. and it is a MUST SEE! Come, experience the enchantment when fantasy be' comes reality on quality, affordable FANTASY STATIONARY from EMG! An assortment of new designs in beautiful ink and pen' cil artwork, exclusively ours, on an array of partly recycled colored paper! We offer: stationary, cards, bookmarks, magnets, address labels, scratch pads, (new!) coloring books, and growing!! We are your source for quality fantasy products!!! No SASE needed; just write and ask for your first FREE catalog! Custom work available; all inquiries:Ellen Million Graphics [Ed. note 2004: Out-of-date oder info. withheld. See a current newsletter for oder details]. (Dealer inquiries welcome!)
 
 PERS0NALS - [Ed. note 2004: Personals withheld because of their private and out-dated content.]
 
@@ -62,23 +58,23 @@ PEN-PALS [Ed. note 2004: Pen-Pals section withheld because of their private and 
 
 **Arrows OnLine** - [Ed. note 2004: Out-dated contact information withheld.]
 
-Herald Jaala stands on a table and claps her hands to gain the attention of he Herald's Revel: "OK folks, just a short commercial break to tell you about a wonderful chapter called Austral'a'in. It's two years old in Novem�ber, and is open to new members not just from Australia (as the name implies) but from the world over. We print loads of fanfic, as well as poems, reviews, artwork and whatever else is submitted!!" She grins impishly, flicking a dark lock of hair back from her face. "For your money, you get eight issues a year, of eight pages each. The costs are[Ed. note 2004: Out-of-date pricing information withheld.]. We'd love to be able to charge the, same for people all over 'the world, but we just can't afford it with the steep price of postage." Taking a bow, Herald Jaala sits.
+Herald Jaala stands on a table and claps her hands to gain the attention of he Herald's Revel: "OK folks, just a short commercial break to tell you about a wonderful chapter called Austral'a'in. It's two years old in Novem'ber, and is open to new members not just from Australia (as the name implies) but from the world over. We print loads of fanfic, as well as poems, reviews, artwork and whatever else is submitted!!" She grins impishly, flicking a dark lock of hair back from her face. "For your money, you get eight issues a year, of eight pages each. The costs are[Ed. note 2004: Out-of-date pricing information withheld.]. We'd love to be able to charge the, same for people all over 'the world, but we just can't afford it with the steep price of postage." Taking a bow, Herald Jaala sits.
 
-A slender woman, Healer Cinnamon, with long curly hair the colour of her name, stands. "She forgot to men�tion that we also have a 50 page fanzine full of fanfic and Misty related poems and artwork for sale at the same cost as a year's subscription to the newsletter. The address for both is Austral'a'in, [Ed. note 2004: Out-of-date contact information withheld.]. Thanks for listening!"
+A slender woman, Healer Cinnamon, with long curly hair the colour of her name, stands. "She forgot to men'tion that we also have a 50 page fanzine full of fanfic and Misty related poems and artwork for sale at the same cost as a year's subscription to the newsletter. The address for both is Austral'a'in, [Ed. note 2004: Out-of-date contact information withheld.]. Thanks for listening!"
 
-"Hmm. What exactly is that &#96;zine. Companion's Choice anyway? Maybe I should get more information." If you've ever wondered that (or even if you haven't); then you've come to the right place! With this one little ad�dress you can get answers to all of your questions and maybe even meet a few nifty people. (Well, what have you got to loose? It's better than doing nothing!) So write me about this very exciting (or at least semi�entertaining) chapter of Queen's Own at [Ed. note 2004: Out-of-date contact information withheld.]. Remember, at the very least, you'll start getting more in your mailbox!
+"Hmm. What exactly is that &#96;zine. Companion's Choice anyway? Maybe I should get more information." If you've ever wondered that (or even if you haven't); then you've come to the right place! With this one little ad'dress you can get answers to all of your questions and maybe even meet a few nifty people. (Well, what have you got to loose? It's better than doing nothing!) So write me about this very exciting (or at least semi'entertaining) chapter of Queen's Own at [Ed. note 2004: Out-of-date contact information withheld.]. Remember, at the very least, you'll start getting more in your mailbox!
 
 *The Herald's Companion* - [Ed. note 2004: Out-of-date contact information withheld.].
 
 *Pacific Northwest Collegium* - [Ed. note 2004: Out-of-date contact information withheld.]
 
-"*The Vales* is a yearly zine. I am now accepting submissions for issue 3, the 98 edition. Due to the lack of submissions, publication and submission dates have been pushed back. All Submissions must be accepted by April 10, 1999. Mailing date is May l, 1999. Please send your persona. 1 am also accepting poetry and art�work. Submissions are accepted on disk, via e-mail, or through snail mail. You MUST be recognized by Queen's Own, please include month/year accepted. I also have copies of last year's edition, which includes 10 personas and is over 80 pages for the bargain price of $4.00 US. You can contact me, Kendra Renaud via e-mail: [Ed. note 2004: Out-of-date contact information withheld.]. Also you can see my writing on my very own webpage: [Ed. note 2004: Out-of-date information withheld.]
+"*The Vales* is a yearly zine. I am now accepting submissions for issue 3, the 98 edition. Due to the lack of submissions, publication and submission dates have been pushed back. All Submissions must be accepted by April 10, 1999. Mailing date is May l, 1999. Please send your persona. 1 am also accepting poetry and art'work. Submissions are accepted on disk, via e-mail, or through snail mail. You MUST be recognized by Queen's Own, please include month/year accepted. I also have copies of last year's edition, which includes 10 personas and is over 80 pages for the bargain price of $4.00 US. You can contact me, Kendra Renaud via e-mail: [Ed. note 2004: Out-of-date contact information withheld.]. Also you can see my writing on my very own webpage: [Ed. note 2004: Out-of-date information withheld.]
 
 ## Heralds, Healers and other now recognized personas!!
 
 Alas, there are no new personas to recognize this newsletter ...
 
-Do you too want to become a Herald, Healer, or another of Misty's characters?? Please write me for the infor�mation sheets and I will be glad to send them to you. If possible, please send a SASE for my reply!!
+Do you too want to become a Herald, Healer, or another of Misty's characters?? Please write me for the infor'mation sheets and I will be glad to send them to you. If possible, please send a SASE for my reply!!
 
 ## Other Fandoms
 
@@ -104,7 +100,7 @@ Queen's Own - Merging of the Ways [Ed. note 2004: Out-of-date info. withheld.]. 
 
 Next date is March 13, 1999. Deadline for submissions is March 5, 1999. The earlier the better folks.
 
-Queen's Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's Worlds. We are a fan-run-not-for-profit organization, not a business. Our ad�dress of publication is [Ed. note 2004: Out-of-date info. withheld.]. . This newsletter is published to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
+Queen's Own - Merging of the Ways is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's Worlds. We are a fan-run-not-for-profit organization, not a business. Our ad'dress of publication is [Ed. note 2004: Out-of-date info. withheld.]. . This newsletter is published to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Last issue mailing day helper in December was Jason Hoff. (If you would like to help on mailing day, please call me at 818/386/2063, all help is greatly appreciated!)
 
@@ -113,8 +109,6 @@ Border art - Karen Tefft
 Editor and President - Robin Ready [Ed. note 2004: Out-of-date info. withheld.].
 
 [End Excerpt]
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -131,9 +125,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

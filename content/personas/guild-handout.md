@@ -4,10 +4,6 @@ path = "guild-handout"
 template = "page.html"
 [extra]
 legacy_source = "qog.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/guild-handout/"
@@ -15,13 +11,13 @@ canonical_path = "/guild-handout/"
 
 ## The Helpful Handout of How to Become a Guild Member
 
-### Criteria established by Mercedes Lackey
+Criteria established by Mercedes Lackey
 
-### Based on **Brightly Burning**, the **Vows and Honor** duology, and *By the Sword*
+Based on **Brightly Burning**, the **Vows and Honor** duology, and *By the Sword*
 
 Distributed by:
 
-### Queen's Own The Official Mercedes Lackey Fan Club
+Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -49,13 +45,9 @@ This is a biography. Describe your persona's physical and emotional characterist
 
 Remember to identify your Guild first, then write your stories. Most people go into a Guild that one of their parents or another close relative is in. (10 points.)
 
-<img alt="" loading="lazy" src="/barcastl.gif"/>
-
 ## III. Develop One or More Friend or Relative Characters
 
 You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
-
-<img alt="" loading="lazy" src="/barcastl.gif"/>
 
 ## IV. Extra Point Requirements (5 points each)
 
@@ -80,11 +72,7 @@ Choose and complete the requirements for two (minimum) of the following:
 17. Carve something out of wood.
 18. Build a piece of furniture.
 
-<img alt="" loading="lazy" src="/barcastl.gif"/>
-
-## After you have acquired 25 points, you may become a Guild Apprentice!
-
-<img alt="" loading="lazy" src="/barcastl.gif"/>
+After you have acquired 25 points, you may become a Guild Apprentice!
 
 <a id="special"></a>
 
@@ -95,8 +83,6 @@ Choose and complete the requirements for two (minimum) of the following:
 - For Helpful Hints, click [here](/persona-handouts/#help).
 
 If you have additional questions, check out the [Guild](/guilds-faq/) FAQ.
-
-<img alt="" loading="lazy" src="/barcastl.gif"/>
 
 <a id="advance"></a>
 
@@ -120,7 +106,3 @@ To become a Master Guilder, first complete the requirements for Journeyman Guild
 
 - Create something appropriate to your Guild and
 - Write a 20-page paper explaining what you made and how you made it.
-
-<img alt="" loading="lazy" src="/barcastl.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

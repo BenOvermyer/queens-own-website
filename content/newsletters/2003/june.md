@@ -5,10 +5,6 @@ template = "page.html"
 date = 2003-06-01
 [extra]
 legacy_source = "qojun03.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2003/june/"
@@ -28,33 +24,31 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-**Birthday Alert:** Reviving an old QO tradition of notifying you of important events in our favorite author�s life, Misty's Birthday is June 24. Larry's birthday is July 28. If you wish to send cards, please use their business address: [Ed. note 2003: The current address is Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. (The QO PO Box in Laguna Beach, CA is only for business mail intended for QO. We don�t handle mail for Misty and Larry.)
+**Birthday Alert:** Reviving an old QO tradition of notifying you of important events in our favorite author's life, Misty's Birthday is June 24. Larry's birthday is July 28. If you wish to send cards, please use their business address: [Ed. note 2003: The current address is Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. (The QO PO Box in Laguna Beach, CA is only for business mail intended for QO. We don't handle mail for Misty and Larry.)
 
-**Alabama Con Reminder:** Misty and Larry are planning to attend! Please see the ad in the con section below and visit the con website at [http://www.con-stellation.org/constell/index.html](http://www.con-stellation.org/constell/index.html) for more information. (Any QO members planning to attend? We�d love to see a group of you from the region go if possible.)
+**Alabama Con Reminder:** Misty and Larry are planning to attend! Please see the ad in the con section below and visit the con website at [http://www.con-stellation.org/constell/index.html](http://www.con-stellation.org/constell/index.html) for more information. (Any QO members planning to attend? We'd love to see a group of you from the region go if possible.)
 
-**Yet another E-mail Change:** As of June 30th, Moonstar�s e-mail address will be [healermoon@gmail.com](mailto:healermoon@gmail.com). (Comcast bought her current provider.) Make sure you update your records!
+**Yet another E-mail Change:** As of June 30th, Moonstar's e-mail address will be [healermoon@gmail.com](mailto:healermoon@gmail.com). (Comcast bought her current provider.) Make sure you update your records!
 
-**Midsummer Festival Online:** Instead of our usual off-line get-together, we�re hoping to try an online festival this year. June 21st is a Saturday. Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) if you are interested in attending an RPG in the QO chatroom on that date. Or on Friday, June 20th or Sunday June 22nd. Give her a range of times you could make it. She�ll pick the most popular time slot and set up the event.
+**Midsummer Festival Online:** Instead of our usual off-line get-together, we're hoping to try an online festival this year. June 21st is a Saturday. Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) if you are interested in attending an RPG in the QO chatroom on that date. Or on Friday, June 20th or Sunday June 22nd. Give her a range of times you could make it. She'll pick the most popular time slot and set up the event.
 
 **Missing Chapter:** Does anyone know if Arrows Online is still functioning? The contact information we have for them no longer works. If you have an update, please send it to Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
-**Chapter Adoption:** Is anyone interested in taking over Golden Grove, the California Chapter of Queen�s Own? Theresa Young would like to step down so someone who actually lives in the region covered by the chapter could take it over. Any takers?
+**Chapter Adoption:** Is anyone interested in taking over Golden Grove, the California Chapter of Queen's Own? Theresa Young would like to step down so someone who actually lives in the region covered by the chapter could take it over. Any takers?
 
 For that matter, several QO chapters are up for adoption. If you are interested in reviving an old chapter, take a look at the list at
 
 [Chapter directory](/chapters/)
 
-Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), if you are interested in adopting one of the existing chapters. (We now have a mostly-complete list of every chapter that�s ever been started for QO, which we hope to have online soon. So check back in a while if you don�t see something in your area.)
+Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), if you are interested in adopting one of the existing chapters. (We now have a mostly-complete list of every chapter that's ever been started for QO, which we hope to have online soon. So check back in a while if you don't see something in your area.)
 
-**Chapter Spotlight, the Vanyel Fan Club:** Several of our chapters are still doing quite well. One of the largest is the Vanyel Fan Club, an online chapter of QO. Here�s what the chapter President, Herald Bastian, has to say about how the chapter began: "I began the VFC during the summer of 1997. It had a brief existence before that as a guestbook-type site collecting people�s e-mail addresses and messages of interest in joining the club should it come into existence. I e-mailed the guy who owned the site and asked him about it. He brainwashed me into taking over the club since its prior president had vanished before doing anything with it." There are currently 84 members of the VFC. Already quite the going concern as a chat list, the chapter hopes to publish its first newsletter soon. If you would like to learn more, see the VFC ads below and visit their website at [Vanyel Fan Club](/vanyel-fan-club/).
+**Chapter Spotlight, the Vanyel Fan Club:** Several of our chapters are still doing quite well. One of the largest is the Vanyel Fan Club, an online chapter of QO. Here's what the chapter President, Herald Bastian, has to say about how the chapter began: "I began the VFC during the summer of 1997. It had a brief existence before that as a guestbook-type site collecting people's e-mail addresses and messages of interest in joining the club should it come into existence. I e-mailed the guy who owned the site and asked him about it. He brainwashed me into taking over the club since its prior president had vanished before doing anything with it." There are currently 84 members of the VFC. Already quite the going concern as a chat list, the chapter hopes to publish its first newsletter soon. If you would like to learn more, see the VFC ads below and visit their website at [Vanyel Fan Club](/vanyel-fan-club/).
 
 Hope you all have a grand Midsummer!
 
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -374,15 +368,13 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Sweden
 
-**LINCON 2003.** Website: [http://www.sverok.se/lincon/](http://www.sverok.se/lincon/). E-mail: [isse_h@hotmail.com](mailto:isse_h@hotmail.com). Address: Anders Ljungstedts Gymnasium, Link�ping. Dates: 5/28/03 - 6/1/03.
+**LINCON 2003.** Website: [http://www.sverok.se/lincon/](http://www.sverok.se/lincon/). E-mail: [isse_h@hotmail.com](mailto:isse_h@hotmail.com). Address: Anders Ljungstedts Gymnasium, Link'ping. Dates: 5/28/03 - 6/1/03.
 
 ### United Kingdom
 
 **SUMMER STABCON.** Website: [http://www.philm.demon.co.uk/RPGs/conventions.htm](http://www.philm.demon.co.uk/RPGs/conventions.htm). E-mail: [bookings@stabcon.org.uk](mailto:bookings@stabcon.org.uk). Address: Woolton Hall, on the Fallowfield Campus of the University of Manchester, Manchester, UK. Dates: 6/27/03 - 6/29/03.
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <img alt="Angel by Michelle Cornett" class="border-5 float-right" loading="lazy" src="/qo161.jpg"/>
 
@@ -395,7 +387,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! This chapter is up for adoption. If you are interested in adopting the chapter and zine, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **German Heartstone:** Website: [http://www.heartstone.de](http://www.heartstone.de). Contact: [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de). A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on [http://www.heartstone.de](http://www.heartstone.de)! For more information contact [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de).
 - **Golden Grove:** Website: [Golden Grove](/golden-grove/). Contact [Theresa Young](mailto:minna@adelphia.net). Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
-- **Heartland Arrows:** Website: [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). Contact [Mary Wilson](mailto:mary@marymuse.com). This chapter is for Queen�s Own members in Iowa, Illinois, Minnesota, & Wisconsin. For information e-mail [mary@marymuse.com](mailto:mary@marymuse.com), or send a SASE to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169. Our new homepage is [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). (Formerly Illinois Arrow.)
+- **Heartland Arrows:** Website: [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). Contact [Mary Wilson](mailto:mary@marymuse.com). This chapter is for Queen's Own members in Iowa, Illinois, Minnesota, & Wisconsin. For information e-mail [mary@marymuse.com](mailto:mary@marymuse.com), or send a SASE to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169. Our new homepage is [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). (Formerly Illinois Arrow.)
 - **Herald's Waystation:** Website: [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation). Contact: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - **Sonoran Collegium:** Website: [Sonoran Collegium](/sonoran-collegium/). Contact: [Laura Felton](mailto:Mistykalia@aol.com). Our Region: THE SOUTHWEST (Arizona, New Mexico, Oklahoma, Texas; however, anyone is welcome). Snail mail: Laura Felton, (aka Herald-Mage Apprentice Ryha), Lubbock, TX. E-mail: [Mistykalia@aol.com](mailto:Mistykalia@aol.com). .
 - **The Vanyel Fan Club**: Website: [Vanyel Fan Club](/vanyel-fan-club/). Contact: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com). For more information, see the VFC website at [Vanyel Fan Club](/vanyel-fan-club/).
@@ -403,8 +395,8 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa. We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption. *Austral'a'in* is up for adoption. If you are interested in adopting the chapter, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
-- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
-- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists�particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I�ve had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
+- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I'm moving at the end of May. I don't want any orders to go astray.)
+- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists'particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I've had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
 
   *- Companions' Grove Volume One - $4.00 ($4.75 with color cover) - Companions' Grove Volume Two - $5.60 ($6.35 with color cover) - Companions' Grove Volume Three - $5.20 ($5.95 with color cover) - Companions' Grove Volume Four - $4.20 ($4.95 with color cover) - Companions' Grove Volume Five - $7.00 ($7.75 with color cover) - Companions' Grove Volume Six - $5.80 ($6.55 with color cover) - Companions' Grove Volume Seven - $5.20 ($5.95 with color cover) - The Danya Winterborn Saga - $5.20 - Endgame - $3.85 - Fire Eyes - $4.40 - Shards of Autumn - $3.90 - The Sum of Duty - $5.80 - Do or Dye: A Guide to Companion Camouflage - $1.25 - Cat's Cradle - $7.60*
 
@@ -420,8 +412,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Tales of the Southern Bard:** TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at [SouthernBard@eudoramail.com](mailto:SouthernBard@eudoramail.com) for submission guidelines and information on how to join or visit TOTSB's homepage: [http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm](http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm).
 - ***Tales of the Unicorn*:** After a decade hiatus it's back … *Tales of the Unicorn*. Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy. Tales will be published quarterly with the first issue coming in late April. Art and poetry are also welcome. Visit our website at [http://www.marymuse.com/HeartlandArrows/TotU.html](http://www.marymuse.com/HeartlandArrows/TotU.html) for more information. Submissions may be sent to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com) or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Other Fandoms:
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
@@ -435,8 +425,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Herald Meshel by Michelle Cornett" class="border-5 float-right" loading="lazy" src="/qo162.jpg"/>
 
 ### Collegium News:
@@ -447,13 +435,13 @@ You need a release form (online at [Release form instructions](/release-form-ins
 
 All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
-- Welcome, **Bard Elita**, who has Bardic Gift and Creativity. *Rae Sinko* wrote a story about her persona and Elita�s family and friends, which she sent to a zine along with a sketch.
+- Welcome, **Bard Elita**, who has Bardic Gift and Creativity. *Rae Sinko* wrote a story about her persona and Elita's family and friends, which she sent to a zine along with a sketch.
 
-If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
+If you are a returning member who has recently activated your membership in Queen's Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she'll make sure you are greeted in the next newsletter.
 
 ### Lost …
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don't always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
 - Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
 - Herald Deborah (sjupiterdebi@home.com)
@@ -479,21 +467,19 @@ If you know any of these folks, please have them contact Danya at [shashtah@gmai
 
 Heyla, folks!
 
-We�re into the end-of-the-school-year madness. Summer school starts immediately after regular school ends, though, so we don�t get a break in routine for a while yet. I�m looking forward to our vacation. We�re hoping to visit Dinosaur National Park, Yellowstone and Lake Tahoe this year, probably in late July through early August. Anyone live between there and Southern California? Let me know if you�d like to try to meet somewhere to say "Heyla!" We�re trying to work as many friends into our itinerary as possible &lt;g>. Also, I�ll be traveling with a computer, but I can�t guarantee that I�ll have access to the Net during that time. So e-mail response will be seriously slow, and the August newsletter is guaranteed to be late (That�s getting to be a bad habit with me that I�d dearly love to break ::sigh::.).
+We're into the end-of-the-school-year madness. Summer school starts immediately after regular school ends, though, so we don't get a break in routine for a while yet. I'm looking forward to our vacation. We're hoping to visit Dinosaur National Park, Yellowstone and Lake Tahoe this year, probably in late July through early August. Anyone live between there and Southern California? Let me know if you'd like to try to meet somewhere to say "Heyla!" We're trying to work as many friends into our itinerary as possible &lt;g>. Also, I'll be traveling with a computer, but I can't guarantee that I'll have access to the Net during that time. So e-mail response will be seriously slow, and the August newsletter is guaranteed to be late (That's getting to be a bad habit with me that I'd dearly love to break ::sigh::.).
 
-Thanks to all of you who have inquired about my health. I�m still having quite a bit of back trouble from the auto accident, but things seem to be improving slowly. I think it�s just one of those things that is going to take time to get over. At least I�m supposed to get my van fixed next week, which means that my daughter will be able to stop telling me that *her* "van is wrecked" every time we walk by it &lt;G>. ("Yes, Kassie. Mama and Daddy know all about that. We�ll get it fixed as soon as we can.")
+Thanks to all of you who have inquired about my health. I'm still having quite a bit of back trouble from the auto accident, but things seem to be improving slowly. I think it's just one of those things that is going to take time to get over. At least I'm supposed to get my van fixed next week, which means that my daughter will be able to stop telling me that *her* "van is wrecked" every time we walk by it &lt;G>. ("Yes, Kassie. Mama and Daddy know all about that. We'll get it fixed as soon as we can.")
 
-My eldest son, Joe, and I are Yu-Gi-Oh! dueling buddies. We have actual cards as well as GameBoys. I can beat him using the electronic version of the game (He hasn�t developed his deck much yet, and it�s the Japanese as opposed to the American rules.), but he has an Exodia deck for the real cards and mops the floor with me 19 times out of 20 &lt;G>. He�s becoming quite the expert duelist. I want to take him to a real tournament, but they keep holding them on weekends where we have conflicts like wedding, graduations, and everyone in the family catching the flu &lt;g>. Hopefully we�ll get the timing right in the near future and finally get to see some real duelists in action.
+My eldest son, Joe, and I are Yu-Gi-Oh! dueling buddies. We have actual cards as well as GameBoys. I can beat him using the electronic version of the game (He hasn't developed his deck much yet, and it's the Japanese as opposed to the American rules.), but he has an Exodia deck for the real cards and mops the floor with me 19 times out of 20 &lt;G>. He's becoming quite the expert duelist. I want to take him to a real tournament, but they keep holding them on weekends where we have conflicts like wedding, graduations, and everyone in the family catching the flu &lt;g>. Hopefully we'll get the timing right in the near future and finally get to see some real duelists in action.
 
-John may be only 18-months, but he�s practicing to be a mountain climber. "Hi, Mama!" he gleefully squeals from atop my microwave, dining room table, piano … It puts the recent National Geographic coverage on Mt. Everest in a new perspective &lt;g>.
+John may be only 18-months, but he's practicing to be a mountain climber. "Hi, Mama!" he gleefully squeals from atop my microwave, dining room table, piano … It puts the recent National Geographic coverage on Mt. Everest in a new perspective &lt;g>.
 
 Hope you all have a great summer, and I hope I get the chance to meet some of you in person soon!
 
-Zhai�helleva,
+Zhai'helleva,
 
 Danya
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Personals:
 
@@ -509,11 +495,9 @@ Danya
   - Child care for Danya so she can code.
 
   If you can be of assistance, please contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
-- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
-- **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.
+- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen's Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
+- **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -534,9 +518,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

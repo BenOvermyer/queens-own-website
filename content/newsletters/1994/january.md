@@ -5,10 +5,6 @@ template = "page.html"
 date = 1994-01-01
 [extra]
 legacy_source = "qojan94.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1994/january/"
@@ -46,7 +42,7 @@ From the world of Bardic Voices comes *Bardic Choices: A Cast of Corbies* by Mis
 
 *By Any Other Fame*, edited by Mike Resnick and Martin H. Greenberg, should be in bookstores now. It contains "What if?" stories about some of Hollywood's and history's more memorable personalities. Misty's story is called "Dance Track". Here are a few clues about her "What if?":
 
-""Dora blew her hair out of her eyes with an impatient snort and wiped sweat off her forehead. And simultaneously adjusted the timing on the engine, yelled a correction on tire selection to her tire man, and took a quick look out of the corner of her eye for her driver ...... Dora had been well aware from the moment she joined Bugatti at the end of the war that her position in this man's world would always be difficult ..... [the mechanic] killed the engine, answering her grin, and popped out of the cockpit---just as Jimmy himself came swaggering up through the chaotic tangle of men and machines in the pits ...... He stopped, standing hip-shot as if he was posing for one of his famous publicity shots, his born-charmer grin countering her Look. The blue eyes that made millions of teenage girls suffer heart�palpitations peered cheerfully at Dora through his unruly blond hair. He'd grown a thatch over his eyes for his last movie, and hadn't cut it yet. He probably wouldn't, Dora reflected. His image as a rebel wasn't just an image, it was the real Jimmy.
+""Dora blew her hair out of her eyes with an impatient snort and wiped sweat off her forehead. And simultaneously adjusted the timing on the engine, yelled a correction on tire selection to her tire man, and took a quick look out of the corner of her eye for her driver ...... Dora had been well aware from the moment she joined Bugatti at the end of the war that her position in this man's world would always be difficult ..... [the mechanic] killed the engine, answering her grin, and popped out of the cockpit---just as Jimmy himself came swaggering up through the chaotic tangle of men and machines in the pits ...... He stopped, standing hip-shot as if he was posing for one of his famous publicity shots, his born-charmer grin countering her Look. The blue eyes that made millions of teenage girls suffer heart'palpitations peered cheerfully at Dora through his unruly blond hair. He'd grown a thatch over his eyes for his last movie, and hadn't cut it yet. He probably wouldn't, Dora reflected. His image as a rebel wasn't just an image, it was the real Jimmy.
 
 "She pulled her eyes away from his, and The Look turned to a real frown as she took in the dark ankle-length trench coat and the flamboyant, long silk scarf he wore.
 
@@ -145,8 +141,6 @@ Wind to thy wings, Judith
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -160,9 +154,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

@@ -4,10 +4,6 @@ path = "healer-handout"
 template = "page.html"
 [extra]
 legacy_source = "qohe.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/healer-handout/"
@@ -15,13 +11,13 @@ canonical_path = "/healer-handout/"
 
 ## The Helpful Handout of How to Become a Healer
 
-### Criteria established by Mercedes Lackey
+Criteria established by Mercedes Lackey
 
-### Based on the **Heralds of Valdemar** and *Darian's Tale* trilogies
+Based on the **Heralds of Valdemar** and *Darian's Tale* trilogies
 
 Distributed by:
 
-### Queen's Own The Official Mercedes Lackey Fan Club
+Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -29,13 +25,28 @@ Distributed by:
 
 All Healers have Healing and Empathy. Determine the nature of each Gift by rolling a six-sided die. Healer's honor applies; what you roll is what you get.
 
-1 = low strength Gift
-
-2 - 5 = normal strength Gift
-
-6 = very strong Gift
-
-<img alt="" loading="lazy" src="/barholly.gif"/>
+<table>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Gift Strength</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>low strength Gift</td>
+        </tr>
+        <tr>
+            <td>2-5</td>
+            <td>normal strength Gift</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>very strong Gift</td>
+        </tr>
+    </tbody>
+</table>
 
 ## II. Develop a Character
 
@@ -45,13 +56,9 @@ This is a biography. Describe your persona's physical and emotional characterist
 
 Remember, to write about your persona before his/her Gifts manifest. A Healer must learn to cope with his/her Gifts, not have his/her life built around one skill. Most Gifts manifest themselves late in life; they are not evident at birth. (10 points)
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
-
 ## III. Develop One or More Friend or Relative Characters
 
 You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
-
-<img alt="" loading="lazy" src="/barholly.gif"/>
 
 ## IV. Extra Point Requirements (5 points each)
 
@@ -74,13 +81,9 @@ Choose and complete the requirements for two (minimum) of the following:
 15. Edit a [fanzine/newsletter](/fan-fiction/).
 16. Send a story, poem, or art to one of our [zines](/fan-fiction/).
 
-<img alt="" loading="lazy" src="/barholly.gif"/>
-
-## After you have acquired 25 points, you may earn your Greens!
+After you have acquired 25 points, you may earn your Greens!
 
 Exception: If you work in the health care field you may automatically claim full Healer status. However, please develop your Velgarth persona so others may interact with you in character.
-
-<img alt="" loading="lazy" src="/barholly.gif"/>
 
 ## Special Notes for Healers
 
@@ -114,27 +117,31 @@ You can earn a specialty by creating an approved Healer persona, and then
 
     If you have a Low Strength Healing Gift, roll on this chart:
 
-    <table class="cellpadding-2 cellspacing-2 border-2">
-    <tr>
-    <th class="align-center valign-middle">Roll</th>
-    <th class="align-center valign-middle">Specialty</th>
-    </tr>
-    <tr>
-    <td class="align-left valign-middle">1</td>
-    <td class="align-left valign-middle">Herbwitch (Herb-wizard; serves in a remote area; actually ranks below true Healer in the books)</td>
-    </tr>
-    <tr>
-    <td class="align-left valign-middle">2-3</td>
-    <td class="align-left valign-middle">Animal Healer</td>
-    </tr>
-    <tr>
-    <td class="align-left valign-middle">4-5</td>
-    <td class="align-left valign-middle">Herbalist (Herbsman/Herbswoman; Low-Level Healer; identifies and knows the use of herbs and other healing plants)</td>
-    </tr>
-    <tr>
-    <td class="align-left valign-middle">6</td>
-    <td class="align-left valign-middle">Midwife</td>
-    </tr>
+    <table>
+        <thead>
+            <tr>
+                <th>Roll</th>
+                <th>Specialty</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Herbwitch (Herb-wizard; serves in a remote area; actually ranks below true Healer in the books)</td>
+            </tr>
+            <tr>
+                <td>2-3</td>
+                <td>Animal Healer</td>
+            </tr>
+            <tr>
+                <td>4-5</td>
+                <td>Herbalist (Herbsman/Herbswoman; Low-Level Healer; identifies and knows the use of herbs and other healing plants)</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Midwife</td>
+            </tr>
+        </tbody>
     </table>
   - <a id="high"></a>
 
@@ -142,27 +149,31 @@ You can earn a specialty by creating an approved Healer persona, and then
 
     If you have a Normal or High Strength Healing Gift, roll on this chart:
 
-    <table class="cellpadding-2 cellspacing-2 border-2">
-    <tr>
-    <th class="align-center valign-middle">Roll</th>
-    <th class="align-center valign-middle">Specialty</th>
-    </tr>
-    <tr>
-    <td class="align-left valign-middle">1</td>
-    <td class="align-left valign-middle">Healer Herbalist</td>
-    </tr>
-    <tr>
-    <td class="align-left valign-middle">2-3</td>
-    <td class="align-left valign-middle">Surgery</td>
-    </tr>
-    <tr>
-    <td class="align-left valign-middle">4-5</td>
-    <td class="align-left valign-middle">Trauma Healing</td>
-    </tr>
-    <tr>
-    <td class="align-left valign-middle">6</td>
-    <td class="align-left valign-middle">Mind Healing</td>
-    </tr>
+    <table>
+        <thead>
+            <tr>
+                <th>Roll</th>
+                <th>Specialty</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Healer Herbalist</td>
+            </tr>
+            <tr>
+                <td>2-3</td>
+                <td>Surgery</td>
+            </tr>
+            <tr>
+                <td>4-5</td>
+                <td>Trauma Healing</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Mind Healing</td>
+            </tr>
+        </tbody>
     </table>
 
 ## Formal Training
@@ -184,7 +195,3 @@ To become a Journeyman Healer, you must have an approved Healer persona, then
 To become a Master Healer, you must have an approved Journeyman Healer persona, then
 
 - Write a 20-page paper on a new medical procedure or drug that is being developed.
-
-<img alt="" loading="lazy" src="/barholly.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

@@ -5,10 +5,6 @@ template = "page.html"
 date = 2001-08-01
 [extra]
 legacy_source = "qoaug01.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2001/august/"
@@ -28,29 +24,27 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-Terribly sorry this newsletter is so late getting out! We promise that the September one won�t be so seriously delayed.
+Terribly sorry this newsletter is so late getting out! We promise that the September one won't be so seriously delayed.
 
 Much has been happening, as those of you who frequent our Delphi Forum know. We are having two chapters fold, as we would desperately like to find some volunteers to help keep them alive.
 
-First, Aurora Nelson no longer has the time to run **Golden Grove**, the California chapter of Queen�s Own. This is very sad news, especially since it looked for a while as if the newsletter was going to be converting to a �zine format because of the size of the submissions she was receiving. In addition to publishing a newsletter, Golden Grove has a website and chatlist. If you live in California and would like to take over the management of this chapter and newsletter, please contact us at [shashtah@gmail.com](mailto:shashtah@gmail.com). The Chapter will officially close November 24, 2001, unless someone steps forward. After that date, the Golden Grove e-mail and website will cease to work. Aurora will continue to use the [temarrea@yahoo.com](mailto:temarrea@yahoo.com) e-mail address for correspondence, and Danya will try to maintain the website portion until a new editor can be found.
+First, Aurora Nelson no longer has the time to run **Golden Grove**, the California chapter of Queen's Own. This is very sad news, especially since it looked for a while as if the newsletter was going to be converting to a 'zine format because of the size of the submissions she was receiving. In addition to publishing a newsletter, Golden Grove has a website and chatlist. If you live in California and would like to take over the management of this chapter and newsletter, please contact us at [shashtah@gmail.com](mailto:shashtah@gmail.com). The Chapter will officially close November 24, 2001, unless someone steps forward. After that date, the Golden Grove e-mail and website will cease to work. Aurora will continue to use the [temarrea@yahoo.com](mailto:temarrea@yahoo.com) e-mail address for correspondence, and Danya will try to maintain the website portion until a new editor can be found.
 
 Second, Laura Cameron is looking for someone to take over the **Pacific Northwest Collegium** and its newsletter, **The Collegium Chronicles**. She no longer has time to run the chapter. If you live in the Pacific Northwest or are a member of the PNC and you would like to help keep this publication alive, please contact Laura at [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com).
 
-Our other chapters are also looking for members and for people to help organize activities. You�ll find the contact information below. These publications can always use fan fiction, so, please, submit as often as you can. Most take art, poems, games, recipes and other things as well! Contact the various editors for more information.
+Our other chapters are also looking for members and for people to help organize activities. You'll find the contact information below. These publications can always use fan fiction, so, please, submit as often as you can. Most take art, poems, games, recipes and other things as well! Contact the various editors for more information.
 
-On a happier note, the last of the re-issues of **Companions' Grove** should be ready to go to press, as should the newest compilation of **The Danya Winterborn Saga** (a series of short stories by Herald-Mage Danya Winterborn, which have appeared in various QO publications over the last few years; Laura Cameron has created a gorgeous cover for this issue, and there are new interior illustrations as well.). Anyone interested in purchasing copies of **Companions� Grove** can find more information at [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm).
+On a happier note, the last of the re-issues of **Companions' Grove** should be ready to go to press, as should the newest compilation of **The Danya Winterborn Saga** (a series of short stories by Herald-Mage Danya Winterborn, which have appeared in various QO publications over the last few years; Laura Cameron has created a gorgeous cover for this issue, and there are new interior illustrations as well.). Anyone interested in purchasing copies of **Companions' Grove** can find more information at [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm).
 
-If you currently run a chapter of Queen�s Own, we invite you to write up an article about your organization, and we will be happy to publish that in this newsletter. (Try to keep it to about 500-750 words.) Tell us where you are, who you accept as members, what sort of activities you sponsor in the course of the year, what publications you put out, if you have a website and/or chatlist, how your group was formed, and anything else you think might be of interest to QO members. We look forward to hearing from you!
+If you currently run a chapter of Queen's Own, we invite you to write up an article about your organization, and we will be happy to publish that in this newsletter. (Try to keep it to about 500-750 words.) Tell us where you are, who you accept as members, what sort of activities you sponsor in the course of the year, what publications you put out, if you have a website and/or chatlist, how your group was formed, and anything else you think might be of interest to QO members. We look forward to hearing from you!
 
-Finally, we think we�ve come up with a new list to replace the List Bot QO chatlist, which ceased to function as of August 6th. We will let you know when we work out the details.
+Finally, we think we've come up with a new list to replace the List Bot QO chatlist, which ceased to function as of August 6th. We will let you know when we work out the details.
 
-We�re about half way through putting together the September newsletter for QO, so that one should be out soon. (If you have any personals or fan messages for the September newsletter, please send them ASAP to [shashtah@gmail.com](mailto:shashtah@gmail.com).) Thanks for bearing with us! We hope you�ve all had a terrific summer!
+We're about half way through putting together the September newsletter for QO, so that one should be out soon. (If you have any personals or fan messages for the September newsletter, please send them ASAP to [shashtah@gmail.com](mailto:shashtah@gmail.com).) Thanks for bearing with us! We hope you've all had a terrific summer!
 
 Zhai'helleva,
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <img alt="Border by Michell Cornette" class="border-3 float-left" loading="lazy" src="/qo89.jpg"/>
 
@@ -134,7 +128,7 @@ Here are the faires we know about that are happening in August. Faires are index
 
 **BRISTOL RENAISSANCE FAIRE.** FAX: 847-395-0547. E-mail: [lmcfeters@recfair.com](mailto:lmcfeters@recfair.com). Website: [http://www.renfair.com](http://www.renfair.com). Address: 12550 120th Ave., Kenosha, WI 53142-7337. Dates: 6/30/01 - 8/26/01. Open/Close: 10:00 AM - 7:00 PM.
 
-**POOR MAN�S PENNSIC.** E-mail: [tabz@tznet.com/falconskeep](mailto:tabz@tznet.com/falconskeep). Address: 1025 Smith St. Stevens Point, WI 54481. Site Address: Northwood City Park. Dates: 8/4/01. Open/Close: 10:00 AM - 6:00 PM.
+**POOR MAN'S PENNSIC.** E-mail: [tabz@tznet.com/falconskeep](mailto:tabz@tznet.com/falconskeep). Address: 1025 Smith St. Stevens Point, WI 54481. Site Address: Northwood City Park. Dates: 8/4/01. Open/Close: 10:00 AM - 6:00 PM.
 
 For additional Ren Faire information, visit the Renaissance Faire Homepage at [http://www.renfaire.com/](http://www.renfaire.com/) and the Renaissance Magazine site at [http://www.renaissancemagazine.com](http://www.renaissancemagazine.com).
 
@@ -148,7 +142,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **CONQUEST 2001.** E-mail: [info@con-quest.com](mailto:info@con-quest.com). Website: [http://www.con-quest.com](http://www.con-quest.com). Address: Hyatt Rickeys, Palo Alto, CA. Dates: 8/31/01 - 9/03/01.
 
-**FANGORIA�S WEEKEND OF HORRORS.** E-mail: [tickets@creationent.com](mailto:tickets@creationent.com). Website: [http://www.creationent.com](http://www.creationent.com). Address: Pasadena Civic Center, Pasadena, California. Dates: 8/11/01 - 8/12/01.
+**FANGORIA'S WEEKEND OF HORRORS.** E-mail: [tickets@creationent.com](mailto:tickets@creationent.com). Website: [http://www.creationent.com](http://www.creationent.com). Address: Pasadena Civic Center, Pasadena, California. Dates: 8/11/01 - 8/12/01.
 
 **LIVING THE DREAM.** E-mail: [Karen@mydailyplanet.com](mailto:Karen@mydailyplanet.com). Website: [http://www.mydailyplanet.com/LivingTheDream.htm](http://www.mydailyplanet.com/LivingTheDream.htm). Address: Ren-Mar, 846 N. Cahuenga Blvd., Hollywood, CA. Dates: 8/16/01 - 8/19/01.
 
@@ -158,7 +152,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 **VULKON.** E-mail: [joemotes@aol.com](mailto:joemotes@aol.com). Website: [http://www.vulkon.com](http://www.vulkon.com). Address: Burbank Airport Hotel, Burbank, CA. Dates: 8/3/01 - 8/5/01.
 
-**WORLD ANIMATION CELEBRATION.** E-mail: [wacfestusa@aol.com](mailto:wacfestusa@aol.com). Website: http://www.wacfest.com. Address: American Cinematheque�s Egyptian Theater, Hollywood, California. Dates: 8/7/01 - 8/12/01.
+**WORLD ANIMATION CELEBRATION.** E-mail: [wacfestusa@aol.com](mailto:wacfestusa@aol.com). Website: http://www.wacfest.com. Address: American Cinematheque's Egyptian Theater, Hollywood, California. Dates: 8/7/01 - 8/12/01.
 
 ### Florida
 
@@ -286,7 +280,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Belgium
 
-**QEP�A�CHORGHDICH.** E-mail: [lawrence@kli.org](mailto:lawrence@kli.org). Website: [http://www.kli.org/stuff/qepa.html](http://www.kli.org/stuff/qepa.html). Address: Hotel Van Belle, Brussels, Belgium. Dates: 8/8/01 - 8/12/01.
+**QEP'A'CHORGHDICH.** E-mail: [lawrence@kli.org](mailto:lawrence@kli.org). Website: [http://www.kli.org/stuff/qepa.html](http://www.kli.org/stuff/qepa.html). Address: Hotel Van Belle, Brussels, Belgium. Dates: 8/8/01 - 8/12/01.
 
 ### Canada
 
@@ -350,8 +344,6 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Border by Herald Alora" class="border-3 float-right" loading="lazy" src="/qo90.jpg"/>
 
 ## Member News:
@@ -360,7 +352,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ### Local chapters:
 
-- **Arrows OnLine:** It�s back! *Arrows OnLine* has returned as an official chapter of Queen�s Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion�s Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey�s Fiction**, is a general discussion of Misty�s books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Herald Ryhannon Gaia Degent, at [MistyKalia@aol.com](mailto:MistyKalia@aol.com).
+- **Arrows OnLine:** It's back! *Arrows OnLine* has returned as an official chapter of Queen's Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion's Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey's Fiction**, is a general discussion of Misty's books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Herald Ryhannon Gaia Degent, at [MistyKalia@aol.com](mailto:MistyKalia@aol.com).
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
@@ -370,15 +362,13 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au). We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas. (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!) The cost of membership covers postage and printing - we're a strictly not-for-profit group. If you are interested in more information, or have stories or other submissions that you would like to see published, contact me! **Attention all writers and artists:**Austral'a'in is desperately seeking submissions. We are also always looking for new members. Please? Contact me (Cassandra) at [garou@netspeed.com.au](mailto:garou@netspeed.com.au) for details!
-- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
+- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I'm moving at the end of May. I don't want any orders to go astray.)
 - ***Collegium Chronicles*:** Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). The Venerable Pacific Northwest Collegium is looking for a few good writers and artists for its newsletter Collegium Chronicles. It would e preferable if folks had e-mail access. I am looking for stories that are primarily fantasy--QO persona requirements are acceptable, so long as they are in story format. Poetry, articles and essays also welcome. Come join us in what will be the final year of this nearly decade-long newsletter. $8 per year/$4 for a half-year, $2 per issue. Final issue will be June/July of 2001. Get your dues in early reap the full benefits! Great artwork (see our webpage at [Collegium Chronicles](/pacific-northwest-collegium/)) great stories, news of local events in the Pacific Northwest area. All are welcome. (P.S. If anyone is interested in taking over the Chronicles after next summer, let me know! I'd hate to see such a noble creature die out.)
 - ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). It's back! The venerable warhorse--uh, make that venerable Companion &lt;g>--of QO 'zines is resuming publication. Plans are underway to bring old issues back into print as well. For submission and subscription information visit http://greendragon.fanspace.com/misty.html or write to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St., Pahrump, NV 89060. If you have any of the original publications, please contact Blue Devyn at [devin@greendragonpress.net](mailto:devin@greendragonpress.net). She's attempting to bring the old issues back into print in addition to offering new issues.
 - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -411,21 +401,19 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 Heyla, all!
 
-Again, I apologize about the delays we�ve been experiencing with Queen�s Own. Most of them are the result of my health. I have a very serious case of gestational diabetes, and my blood sugar levels have been dangerously low much of this month. Moonstar has been an absolute gem about watching my kids when I�m too ill to take care of them. I truly appreciate having her live so close. My baby, John Alayn (It�s a boy!), is due November 20th, but I will probably be induced on or near November 6th because of my health. So far John is healthy and developing normally. The goal now is to keep me out of the hospital until he�s delivered and to keep him out of the ICU after delivery. Moonstar will keep you posted about what�s happening if I become unable to do so.
+Again, I apologize about the delays we've been experiencing with Queen's Own. Most of them are the result of my health. I have a very serious case of gestational diabetes, and my blood sugar levels have been dangerously low much of this month. Moonstar has been an absolute gem about watching my kids when I'm too ill to take care of them. I truly appreciate having her live so close. My baby, John Alayn (It's a boy!), is due November 20th, but I will probably be induced on or near November 6th because of my health. So far John is healthy and developing normally. The goal now is to keep me out of the hospital until he's delivered and to keep him out of the ICU after delivery. Moonstar will keep you posted about what's happening if I become unable to do so.
 
-I�ve had gestational diabetes with all three of my pregnancies. My other two children had no medical problems, and last year my diabetes disappeared within 6 hours after my daughter�s birth! So I have high hopes for things returning to a semblance of normal before the end of this year.
+I've had gestational diabetes with all three of my pregnancies. My other two children had no medical problems, and last year my diabetes disappeared within 6 hours after my daughter's birth! So I have high hopes for things returning to a semblance of normal before the end of this year.
 
-Thanks to all of you who have sent cards and good wishes. I�m sorry if I haven�t responded to some of you individually. I have a limited amount of time that I�m feeling well enough to sit at a keyboard and take care of my correspondence. I hope to catch up eventually &lt;g>!
+Thanks to all of you who have sent cards and good wishes. I'm sorry if I haven't responded to some of you individually. I have a limited amount of time that I'm feeling well enough to sit at a keyboard and take care of my correspondence. I hope to catch up eventually &lt;g>!
 
-I�m very excited about **The Danya Winterborn Saga** coming out with **Companions� Grove**. Some of you may know that the first Danya story was scheduled to appear in the next issue when the �zine folded a few years back. It�s nice to see that story and the others that have followed it appearing in the first issue of the new incarnation of this excellent fanzine. I can�t wait to see my copy &lt;g>!
+I'm very excited about **The Danya Winterborn Saga** coming out with **Companions' Grove**. Some of you may know that the first Danya story was scheduled to appear in the next issue when the 'zine folded a few years back. It's nice to see that story and the others that have followed it appearing in the first issue of the new incarnation of this excellent fanzine. I can't wait to see my copy &lt;g>!
 
 Hope you all had a wonderful summer.
 
-Zhai�helleva,
+Zhai'helleva,
 
 Herald-Mage Master Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Fan Messages:
 
@@ -438,14 +426,10 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **White Winds Soceress Shadow Weaver**. I am looking for gothic and sci/fi fantasy events in Ohio/KY/Indiana/West Virginia to merchant at. If you have any info please e-mail [cimeshadow@aol.com](mailto:cimeshadow@aol.com) or snail mail Lisa Brawner at P.O. Box 8335, Lexington, KY 40533-8335.
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - **From: Healer Adept Moonstar. To: All. Re: QO Newsletter.** Needed February 88 through March 91, Queen's Own newsletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -466,9 +450,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

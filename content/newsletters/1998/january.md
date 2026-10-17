@@ -5,10 +5,6 @@ template = "page.html"
 date = 1998-01-01
 [extra]
 legacy_source = "qojan98.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1998/january/"
@@ -32,9 +28,9 @@ Mercedes Lackey Fan Club
 
 <img alt="Oathblood" class="float-right" loading="lazy" src="/ml10.gif"/> Dear Misty Fans,
 
-Coming in April from DAW: *Oathblood*, an all-new Tarma and Kethry novel plus Misty's complete col�lected short stories of these two brave sisters of sword and spell.
+Coming in April from DAW: *Oathblood*, an all-new Tarma and Kethry novel plus Misty's complete col'lected short stories of these two brave sisters of sword and spell.
 
-"Tarma--She was one of the Shin'a'in Sword�sworn--the most elite of all warriors, and she had taken blood vengeance upon the brigands who had mas�sacred her people …
+"Tarma--She was one of the Shin'a'in Sword'sworn--the most elite of all warriors, and she had taken blood vengeance upon the brigands who had mas'sacred her people …
 
 "Kethry--She fled her oppressive arranged marriage and became a powerful sorceress of the White Winds School, only to be bonded to a uniquely magical sword which drew her to women in need …
 
@@ -70,7 +66,7 @@ Rea begins her monologue from her newest perch atop the rood of her house, much 
 
 Well! Thanks to QO you now have many great pen pals and a lot of fun future letters to write. But you've realized you only have your fluffy-edged college notebook paper to write on. Where do you turn to find stationery that best suits your FANTASY interests? *Ellen Million Graphics*, of course!! With over 60 designs created by nine unique artists, every catalog is brimming with adventure and enchantment! *EMG* offers stationery, cards, bookmarks and (new!!) magnets in single or full-colored; all sure to dazzle and delight--makes great gifts! No SASE needed, just write and ask for your first FREE catalog! Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.].
 
-THROUGH THE MAGIC MIRROR (TTMM) is now celebrating its first year in circulation!!! TTMM is a bi�monthly newsletter that publishes everything under the sun and moon! Poetry, Stories, Riddles, Erotica, Jokes, Quotes, Art, Reviews, Ads, - you send it, I'll print it! ! For guidelines, subscription info or whatever, write to TTMM c/o Star 2618 N. Carrol Avenue Dallas TX 75204. BTW, I do offer contributor's copies. Write me for details! Dare ya! Don't forget to enclose a SASE with your inquiries! I'm nowhere near rich yah know!!! &lt; grin > From Erik Pivnick #97B0524 Cayuga Corr. Facility PO Box 1186 Moravia NY 1318: 31 years old, looking for letters from interesting and open minded people. I enjoy getting and giving long letters. Have read all kinds of books, Dragon Prince by Rawn was very interesting. Fascinated by UFO's. Love Star Trek (old and new.) I have many hobbies and interests. Would love to hear from people far and near. If at all interested, drop a line and we can share different thoughts and ideas. I love to ramble on about anything.
+THROUGH THE MAGIC MIRROR (TTMM) is now celebrating its first year in circulation!!! TTMM is a bi'monthly newsletter that publishes everything under the sun and moon! Poetry, Stories, Riddles, Erotica, Jokes, Quotes, Art, Reviews, Ads, - you send it, I'll print it! ! For guidelines, subscription info or whatever, write to TTMM c/o Star 2618 N. Carrol Avenue Dallas TX 75204. BTW, I do offer contributor's copies. Write me for details! Dare ya! Don't forget to enclose a SASE with your inquiries! I'm nowhere near rich yah know!!! &lt; grin > From Erik Pivnick #97B0524 Cayuga Corr. Facility PO Box 1186 Moravia NY 1318: 31 years old, looking for letters from interesting and open minded people. I enjoy getting and giving long letters. Have read all kinds of books, Dragon Prince by Rawn was very interesting. Fascinated by UFO's. Love Star Trek (old and new.) I have many hobbies and interests. Would love to hear from people far and near. If at all interested, drop a line and we can share different thoughts and ideas. I love to ramble on about anything.
 
 ## Other Fandoms:
 
@@ -116,8 +112,6 @@ Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2005: Out-of-d
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -131,9 +125,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

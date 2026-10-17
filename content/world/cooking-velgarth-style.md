@@ -4,10 +4,6 @@ path = "cooking-velgarth-style"
 template = "page.html"
 [extra]
 legacy_source = "qofaqc.htm"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/cooking-velgarth-style/"
@@ -38,9 +34,3 @@ Cooking in a medieval-style setting is sometimes a bit of a challenge. This FAQ 
 Some of the persona sheets generate recipes. Here are the ones we know about so far:
 
 - [Danya's Recipes](/danya-winterborn/#recipes)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

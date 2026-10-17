@@ -5,10 +5,6 @@ template = "page.html"
 date = 1994-02-01
 [extra]
 legacy_source = "qofeb94.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1994/february/"
@@ -142,7 +138,7 @@ SOFF (Siblings of Fantasy Freaks) is off to a good start, but needs more members
 
 From Amanda Parsons: "Wheeeeee! Another issue of *Queen of the Mists* is ready: Loooovvweeee: lost love, dark love, evil love, happy love, demonic love, it's all here in the most romantic issue you'll ever see! Urvi and I colored the *Mists* pink and red, it's really cool ...except it gets on your skin, and only washes off with RediWhip! The secret password this time is: dominatrix! Just send $3 to [Ed. note 2005: Out-of-date info withheld.]."
 
-From Nicole Blackwell: "She rose, drawn by some unseen force through the balcony doors, into the night .... then she saw him-�motionless beside the crumbling marble statue.., a haunting silhouette in the moonlight. She gasped, and in that same instant he turned, their gazes meeting, spanning the distance between them. And smiling, he lifted his face, extending his arms, and whispered softly into the darkness, *Moonlight Masquerade*... Issue #1, with 50 pages and 2 amazing full-color illustrations, is still available for $6.50. (Checks to Nicole Blackwell) The March issue has yet to be filled. No SASE necessary for guidelines. [Ed. note 2005: Out-of-date info withheld.].�'
+From Nicole Blackwell: "She rose, drawn by some unseen force through the balcony doors, into the night .... then she saw him-'motionless beside the crumbling marble statue.., a haunting silhouette in the moonlight. She gasped, and in that same instant he turned, their gazes meeting, spanning the distance between them. And smiling, he lifted his face, extending his arms, and whispered softly into the darkness, *Moonlight Masquerade*... Issue #1, with 50 pages and 2 amazing full-color illustrations, is still available for $6.50. (Checks to Nicole Blackwell) The March issue has yet to be filled. No SASE necessary for guidelines. [Ed. note 2005: Out-of-date info withheld.].''
 
 "Calling all fellow children of the Star Eyed! Yes, K'Guadia has finally raised its banners high and is need of clansiblings. To find out more, merely send a standard #10 SASE to [Ed. note 2005: Out-of-date info withheld.]. To all present recruits … the first newsletter is out! To get a copy send a SASE or preferably $8.00 for a one year's subscription to the Clan Chief."
 
@@ -197,8 +193,6 @@ Wind to thy wings, Judith
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -212,9 +206,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

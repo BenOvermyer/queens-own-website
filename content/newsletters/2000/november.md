@@ -5,10 +5,6 @@ template = "page.html"
 date = 2000-11-01
 [extra]
 legacy_source = "qonov00.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2000/november/"
@@ -31,8 +27,6 @@ Heyla, Misty fans!
 This month we conclude our series of interviews with the editors of the various Queen's Own fanzines and newsletters. The fourth editor we would like you to meet Karen R. Bertke of Herald's Companion. (You'll find submission information below in the Fanzine section of this newsletter.)
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. When did you join Queen's Own?
 
@@ -64,8 +58,6 @@ This month we conclude our series of interviews with the editors of the various 
 10. What other projects besides Queen's Own occupy your time?
 
   Work, work, work, reading, costuming, Anime, Ren. Faires, cons, Historiean for Millennicon. I'm putting in my plug for having a 10-year celebration for *Herald's Companion* at Millennicaon in March 2001. Do you think anyone would be interested in having a Queen's Own get together at the convention? (*Ed. note*: If you are interested, contact Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -293,8 +285,6 @@ NOVACON 30. E-mail: [pat@cooky.demon.co.uk](mailto:pat@cooky.demon.co.uk). Websi
 
 WOLF SG-2 MEDIA/STARGATE. E-mail: [wolf359con@aol.com](mailto:wolf359con@aol.com). Website: [http://www.wolfevents.co.uk](http://www.wolfevents.co.uk). Address: Wolf Events, PO Box 1419, Slough PDO, SL2 5WJ. Tel: 01753 771 078. Site Address: Heathrow Park Hotel, Heathrow, London, England, UK. 11/3/00 - 11/5/00.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Change Lizard by Adam King" class="border-3" loading="lazy" src="/qo33.jpg"/>
 
 ## Member News:
@@ -317,8 +307,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at the above address (Please include a SASE when requesting information via snail mail.). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -369,8 +357,6 @@ Hugs-
 
 Moonstar
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Fan Messages:
 
 <img alt="Cleric and Star by Herald Alora" class="border-3 float-left" loading="lazy" src="/qo38.jpg"/>
@@ -384,14 +370,10 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - To **Elizabeth Barrette**, the author of the Pros & Cons booklet we distribute, from **Herald-Mage Master Danya Winterborn**. Please contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - To **Everyone Who's Asked**, from **Herald-Mage Master Danya Winterborn**. The paperback edition of my book on King Arthur and my dissertation on the Holy Grail are available (at reasonable prices for a change!) through the links at [http://www.dragonlordsnet.com/bkmalcor.htm](https://dragonlords.fans/bkmalcor.htm). For a current listing of my publications, visit [http://www.dragonlordsnet.com/author.htm](https://dragonlords.fans/author.htm).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -412,9 +394,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

@@ -5,10 +5,6 @@ template = "page.html"
 date = 2003-01-01
 [extra]
 legacy_source = "qojan03.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2003/january/"
@@ -28,7 +24,7 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-Sorry this newsletter is a tad late, but we had a last-minute crisis that we wanted to resolve before we contacted you. Moonstar was not able to renew her healermoon.com domain. That means her e-mail address and the addresses for our Queen�s Own chat list, the Vanyel Fan Club chat list, and the Pending list have all had to change. Moonstar�s new e-mail address is:
+Sorry this newsletter is a tad late, but we had a last-minute crisis that we wanted to resolve before we contacted you. Moonstar was not able to renew her healermoon.com domain. That means her e-mail address and the addresses for our Queen's Own chat list, the Vanyel Fan Club chat list, and the Pending list have all had to change. Moonstar's new e-mail address is:
 
 [healermoon@gmail.com](mailto:healermoon@gmail.com)
 
@@ -40,11 +36,11 @@ and
 
 [Vanyel Fan Club--Chat List](/vanyel-fan-club/chat/) (for the VFC chat list).
 
-We have lost the information for the Queen�s Own chat list as a result of this change. You will need to resubscribe through the links at
+We have lost the information for the Queen's Own chat list as a result of this change. You will need to resubscribe through the links at
 
 [Club chat guidance](/club-chat/)
 
-Sorry for the inconvenience! Please contact Danya if you are a member of one of these lists and have not heard from her in the next few days. Danya has to update over 150 pages of the website with Moonstar�s new information, so please be patient. There are going to be some out-of-date pages and links that don�t work for a while.
+Sorry for the inconvenience! Please contact Danya if you are a member of one of these lists and have not heard from her in the next few days. Danya has to update over 150 pages of the website with Moonstar's new information, so please be patient. There are going to be some out-of-date pages and links that don't work for a while.
 
 Herald Alora writes to tell us about a great website ([http://www.elfwood.com](http://www.elfwood.com)) that she found:
 
@@ -66,15 +62,13 @@ Also note that every time you write a story based on Misty's stories, you need t
 
 [Release form instructions](/release-form-instructions/)
 
-Please support all of our fanzines. Our editors need as much fanfiction, artwork, and other materials as you can send them &lt;g>. The Queen�s Own fanzines are some of the best we�ve ever seen in fandom, and we�re very proud of them. Please, subscribe and contribute to them.
+Please support all of our fanzines. Our editors need as much fanfiction, artwork, and other materials as you can send them &lt;g>. The Queen's Own fanzines are some of the best we've ever seen in fandom, and we're very proud of them. Please, subscribe and contribute to them.
 
-Instead of an interview this month, we have a brief article from Queen�s Own member Herald Alora about her business. You�ve seen her art in many of our newsletters and Queen�s Own fanzines. In fact, she just won last year�s submission contest for the person who sent the most art or stories to our QO zines. Herald Alora�s work is extraordinary. Do check out what she has to offer!
+Instead of an interview this month, we have a brief article from Queen's Own member Herald Alora about her business. You've seen her art in many of our newsletters and Queen's Own fanzines. In fact, she just won last year's submission contest for the person who sent the most art or stories to our QO zines. Herald Alora's work is extraordinary. Do check out what she has to offer!
 
 Zhai'helleva and Happy New Year,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 In the mid-1990's, while actively involved in fandom I decided to offer my artistry to others (beyond artwork submissions to newsletters and zines). With a lack of fantasy-related products on the market and wanting to produce items that were both useful and enjoyable, I began [my business]. Various stationery and bookmark designs--inspired by myths, magic, and dreams--are available, while some of my designs are influenced by the magical writings of Mercedes Lackey (one of my favorite writers!).
 
@@ -83,8 +77,6 @@ Seeking to revitalize my small business, I have recently expanded my product lin
 Depending upon sales, feedback, and production costs, I hope to further expand, diversify, and customize [Editor's Note: Out of date information withheld.].
 
 Thank you!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -216,8 +208,6 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Horse by J.J. Routhier" class="border-5 float-left" loading="lazy" src="/qo144.jpg"/>
 
 ## Member News:
@@ -226,7 +216,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ### Local chapters:
 
-- **Arrows OnLine:** Check us out! *Arrows OnLine* is the official online chapter of Queen�s Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion�s Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey�s Fiction**, is a general discussion of Misty�s books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Tayledras Scout Nightwisp "Royal" k'Jeia, at [Tayledrasroyal@aol.com](mailto:Tayledrasroyal@aol.com).
+- **Arrows OnLine:** Check us out! *Arrows OnLine* is the official online chapter of Queen's Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion's Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey's Fiction**, is a general discussion of Misty's books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Tayledras Scout Nightwisp "Royal" k'Jeia, at [Tayledrasroyal@aol.com](mailto:Tayledrasroyal@aol.com).
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **German Heartstone:** Website: [http://www.heartstone.de](http://www.heartstone.de). Contact: [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de). A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on [http://www.heartstone.de](http://www.heartstone.de)! For more information contact [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
@@ -237,8 +227,8 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa. We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, pen pal ads and stacks more! This fanzine is up for adoption. *Austral'a'in* is up for adoption. If you are interested in adopting the chapter, contact Cassandra Vuksa, [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
-- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
-- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists�particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I�ve had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
+- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I'm moving at the end of May. I don't want any orders to go astray.)
+- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists'particularly artists willing to illustrate stories! ! (Remember, all contributors get a free copy of the zine in which their work appears.) Volumes Seven and Eight are full, and awaiting the illustrations and final layout. Volume Nine is open to submissions. Unfortunately, I've had to increase some prices, due to an increase in the cost of running the zines and another upcoming postal increase. Current prices (not including shipping within the U.S.) are:
 
   *- Companions' Grove Volume One - $4.00 ($4.75 with color cover) - Companions' Grove Volume Two - $5.60 ($6.35 with color cover) - Companions' Grove Volume Three - $5.20 ($5.95 with color cover) - Companions' Grove Volume Four - $4.20 ($4.95 with color cover) - Companions' Grove Volume Five - $7.00 ($7.75 with color cover) - Companions' Grove Volume Six - $5.80 ($6.55 with color cover) - Companions' Grove Volume Seven - $5.20 ($5.95 with color cover) - The Danya Winterborn Saga - $5.20 - Endgame - $3.85 - Fire Eyes - $4.40 - Shards of Autumn - $3.90 - The Sum of Duty - $5.80 - Do or Dye: A Guide to Companion Camouflage - $1.25 - Cat's Cradle - $7.60*
 
@@ -250,8 +240,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <img alt="Horse Love by J.J. Routhier" class="border-5 float-right" loading="lazy" src="/qo145.jpg"/>
 
@@ -269,8 +257,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ### Collegium News:
 
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in. You can find these handouts online at [Persona handouts and submission instructions](/persona-handouts/).
@@ -281,13 +267,13 @@ We do not have any new personae to announce this month, but roughly 150 people a
 
 All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
-No formerly accepted members have returned to Queen�s Own this month.
+No formerly accepted members have returned to Queen's Own this month.
 
-If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
+If you are a returning member who has recently activated your membership in Queen's Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she'll make sure you are greeted in the next newsletter.
 
 ### Lost …
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don't always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
 - Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
 - Herald Cateryna Cyray (KimChrist@Home.com)
@@ -320,8 +306,6 @@ Love to you all!
 
 Moonstar
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - **From Jennifer M. Mackay/Herald Mallea D'Lar.** My interests are wide and long, so write me to find out more! Currently, I enjoy reading mostly Fantasy and SF. Some of my favorite authors are: Misty, JRR Tolkien, C.S. Lewis, Kate Elliott, Patricia Kenneally-Morrison, Morgan Llewellyn, and many more! I am an unpublished author working on an SF novel and a fantasy novel, plus various short stories. I enjoy watching movies, going to the beach, the mountains, and the bookstore! I also love listening to music (My tastes vary.). If you write or e-mail, I'm sure we can find something in common! Letters via Post Awful: Jennifer M. Mackay, P.O. Box 66408, Portland, OR 97290-6408. E-mail: [mackayjennifer@netscape.net](mailto:mackayjennifer@netscape.net), [mackayjenn@hotmail.com](mailto:mackayjenn@hotmail.com).
@@ -332,11 +316,9 @@ Moonstar
   - Child care for Danya so she can code.
 
   If you can be of assistance, please contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
-- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
-- **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.
+- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen's Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
+- **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -357,9 +339,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

@@ -5,10 +5,6 @@ template = "page.html"
 date = 1993-02-01
 [extra]
 legacy_source = "qofeb93.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1993/february/"
@@ -52,7 +48,7 @@ Misty is already working on the Storm trilogy, three more books to continue the 
 
 Do you subscribe to Marion Zimmer Bradley's FANTASY Magazine? Issue #18 is excellent, even if there is no Misty story included. (She'll be in future issues, and has stories in back issues #6, 9, and 10; Larry has artwork in #17.) A subscription is [Editor's Note 2005: Out-of-date information withheld.]. Send your order to [Editor's Note 2005: Out-of-date information withheld.]. Make your check payable to Marion Zimmer Bradley, Ltd.
 
-In the Queen's Own mail last month was a magazine with a review of *The Last Herald Mage* series. In his accompanying letter Mike Tarasiev told me he wanted to let us know that Misty is appreciated in "snow-ridden, bear-�infested" Russia. The magazine is INTERKOME, and it's published in St. Petersburg. (and written almost entirely in Russian--I have no idea what the review says.)
+In the Queen's Own mail last month was a magazine with a review of *The Last Herald Mage* series. In his accompanying letter Mike Tarasiev told me he wanted to let us know that Misty is appreciated in "snow-ridden, bear-'infested" Russia. The magazine is INTERKOME, and it's published in St. Petersburg. (and written almost entirely in Russian--I have no idea what the review says.)
 
 A lot of information in the newsletter comes from Javanne Kramer, our GEnie reporter. "GEnie" is the *General Electric Network and Information Exchange*. For information on how to join GEnie (you need a computer and a modem), call [Editor's Note 2005: Out-of-date information withheld.].
 
@@ -117,7 +113,7 @@ Josepha Sherman was Misty's co-author on the Bard's Tale book, *Castle of Decept
 ### For Your Information:
 
 1. Days and months on Velgarth are much like ours but each month is 30 days long and there is no Leap Year.
-2. No change-child Heralds please; No Companion would choose one, nor would a Companion choose an off�worlder. You are welcome to stretch your imaginations as much as you want (I've always wanted to write a Doctor Who & companion/Herald & Companion cross-over story), but don't expect your creations to be recognized in the newsletter.
+2. No change-child Heralds please; No Companion would choose one, nor would a Companion choose an off'worlder. You are welcome to stretch your imaginations as much as you want (I've always wanted to write a Doctor Who & companion/Herald & Companion cross-over story), but don't expect your creations to be recognized in the newsletter.
 3. You may not use Misty's characters or universes in a computer game.
 4. You need a [release form](/release-form-instructions/) if you write a story set in Misty's worlds or using any of her characters. You do not need releases for past fan-fiction, nor do you need a release for a character sketch, poem, or filk. Misty is protecting her characters and her worlds. It's all right to take your Herald story and remove all references to Valdemar and set it in your own universe. Your prose is yours.
 5. If you send a release form to Highflight you should get a postcard back as an acknowledgement. You do not need to send your story to Misty, only the release form. If you need a form, send a SASE to me. You may photocopy the form yourself, as many copies as you need.
@@ -157,8 +153,6 @@ Josepha Sherman was Misty's co-author on the Bard's Tale book, *Castle of Decept
 
   [End Excerpt]
 
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
   Newsletters are published on (or near) the first of each month.
@@ -172,9 +166,3 @@ Josepha Sherman was Misty's co-author on the Bard's Tale book, *Castle of Decept
   Zhai'helleva,
 
   Herald-Mage Adept Danya Winterborn
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
-  <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-  <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

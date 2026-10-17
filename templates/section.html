@@ -1,6 +1,5 @@
 {% extends "base.html" %}
 {% block title %}{{ section.title }} · {{ config.title }}{% endblock title %}
-{% block appearance %}{% if section.extra.bgcolor %}style="--background: {{ section.extra.bgcolor }}; --text: {{ section.extra.text }}; --link: {{ section.extra.link }}; --visited: {{ section.extra.vlink }}"{% endif %}{% endblock appearance %}
 {% block content %}
 {% include "breadcrumbs.html" %}
 <h1>{{ section.title }}</h1>

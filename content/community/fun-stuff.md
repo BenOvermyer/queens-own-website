@@ -4,22 +4,10 @@ path = "fun-stuff"
 template = "page.html"
 [extra]
 legacy_source = "qofun.htm"
-bgcolor = "blue"
-text = "white"
-link = "aqua"
-vlink = "silver"
 historical = true
 topic = "community"
 canonical_path = "/fun-stuff/"
 +++
-
-<a href="http://www.animfactory.com/"><img alt="Click to Visit Animfactory, the source of this image" class="float-left" loading="lazy" src="/qoq.gif"/></a><a href="http://www.animfactory.com/"><img alt="Click to Visit Animfactory, the source of this image" class="float-right" loading="lazy" src="/qoo.gif"/></a>
-
-Queen's Own
-
-Fun Stuff
-
-<img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 
 <table class="cellpadding-3 cellspacing-2 border-2 table-align-center" style="width:80%">
 <tr>
@@ -29,8 +17,6 @@ Fun Stuff
 <td class="align-center valign-middle" style="width:25%; height:43px"><a href="/fun-stuff/#other">Fun Stuff at<br/>Other Sites</a></td>
 </tr>
 </table>
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <a id="qo"></a>
 
@@ -51,8 +37,6 @@ Fun Stuff
 <dd>Read past issues of the Queen's Own newsletter!</dd>
 </dl>
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <a id="chapters"></a>
 
 ## Chapters of Queen's Own
@@ -67,8 +51,6 @@ Fun Stuff
 <dt><a href="/vanyel-fan-club/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/vanyel-fan-club/">The Vanyel Fan Club</a></dt>
 <dd>Fans of Herald-Mage Vanyel Ashkevron need to check out this site!</dd>
 </dl>
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <a id="Velgarth"></a>
 
@@ -88,8 +70,6 @@ Fun Stuff
 <dt><a href="/magic-of-velgarth/"><img alt="" loading="lazy" src="/ball.gif"/></a> <a href="/magic-of-velgarth/">The Complete Magic Page</a></dt>
 <dd>Herald-Mage Adept Danya Winterborn's survey of magic on Velgarth.</dd>
 </dl>
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <a id="other"></a>
 
@@ -138,12 +118,6 @@ membership requirements, and much more!</dd>
 <dd>Information about Renaissance Faires.</dd>
 </dl>
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <a id="Art"></a>
 
 Don't see what you are looking for here? Try the Queen's Own [Misty Links](/mercedes-lackey-links/) page.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](https://dragonlords.fans/index.htm)

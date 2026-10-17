@@ -4,10 +4,6 @@ path = "children-of-velgarth"
 template = "page.html"
 [extra]
 legacy_source = "qozine.htm"
-bgcolor = "blue"
-text = "white"
-link = "aqua"
-vlink = "silver"
 historical = true
 topic = "publications"
 canonical_path = "/children-of-velgarth/"
@@ -39,15 +35,11 @@ Herald-Mage Adept Danya Winterborn Gifts: Mindspeech, Fetching, Empathy, Mage Gi
 
 These titles are then followed by all persona sketches, stories, drawings, maps, costume designs, photos and the like that have been submitted to earn each persona. (Things such as photocopies of CPR cards are not included.)
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Children of Velgarth
 
 This fanzine is published periodically when it reaches 80 pages or so. Zines are only available by e-mail and are completely free. The zines are in PDF format, which use Adobe Reader available for free from the Adobe website. Watch the Queen's Own newsletter for release dates.
 
 Issues of *Children of Velgarth* will be available as long as Queen's Own is in business. You can order any issue at any time. When you send your request, please include a note stating which issue you want. Send your e-mail request to either Healer Adept Moonstar at [healermoon@gmail.com](mailto:healermoon@gmail.com) or Herald-Mage Adept Danya Winterborn at [shashtah@gmail.com](mailto:shashtah@gmail.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Submission Information:
 
@@ -71,8 +63,6 @@ If you want, you may submit personae materials via e-mail when possible. Send pe
 Please contact Healer Adept Moonstar at [healermoon@gmail.com](mailto:healermoon@gmail.com) if you have any questions.
 
 Thank you very much and good luck to all.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Issue 1 Contents:
 
@@ -99,8 +89,8 @@ Thank you very much and good luck to all.
 ## Issue 3 Contents:
 
 - Herald Fjedka Oberli
-- Healer Adept Winterfire k�Tayle
-- Scout Darkstar k�Vaia
+- Healer Adept Winterfire k'Tayle
+- Scout Darkstar k'Vaia
 - Herald Atiena Tore
 - Herald Brenna Freeborn
 - Blue Devyn Aeryn
@@ -108,17 +98,13 @@ Thank you very much and good luck to all.
 
 ## Issue 4 Contents:
 
-- Tayledras Adept Fireblade k�Treva
+- Tayledras Adept Fireblade k'Treva
 - Bard Raina Cael
-- Shin�a�in Leshya�edrin shena Pretera�sedrin
-- Tayledras Mage Flameheart k�Chona
+- Shin'a'in Leshya'edrin shena Pretera'sedrin
+- Tayledras Mage Flameheart k'Chona
 - Tayledras Healer Adept Willowstar
 - Herald Davad Levon
 - Herald Catnin
 - Herald Yoru
 - Herald Karenza Meldrick
-- Tayledras Healer Mage Starstorm k�Valdemar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)
+- Tayledras Healer Mage Starstorm k'Valdemar

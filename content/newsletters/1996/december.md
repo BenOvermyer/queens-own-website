@@ -5,10 +5,6 @@ template = "page.html"
 date = 1996-12-01
 [extra]
 legacy_source = "qodec96.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1996/december/"
@@ -32,7 +28,7 @@ Mercedes Lackey Fan Club
 
 Dear Misty Fans,
 
-<img alt="Sword of Ice" class="float-right" loading="lazy" src="/ml6.gif"/> Coming from DAW by January (check your bookstores now) is *Sword of Ice and Other Tales of Valdemar*, seventeen all�origana stories o magic and valor, edited by Misty and with this beautiful Jody Lee cover.
+<img alt="Sword of Ice" class="float-right" loading="lazy" src="/ml6.gif"/> Coming from DAW by January (check your bookstores now) is *Sword of Ice and Other Tales of Valdemar*, seventeen all'origana stories o magic and valor, edited by Misty and with this beautiful Jody Lee cover.
 
 "Mercedes Lackey's very first novel, *Arrows of the Queen*, introduced readers to the magical land of Valdemar. In this ancient realm, beset by war and internal conflicts, justice is dispensed by an elite force - the legendary Heralds. These unusual men and women, 'Chosen' from all corners of the kingdom by their mysterious horselike Companions, undergo a rigorous training, and follow a rigid code of honor. Bonded for life with their Companions, the Heralds endeavor to keep the peace and, if necessary, defend their country in the name of their monarch.
 
@@ -48,7 +44,7 @@ The enclosed bookmark is your holiday gift from Misty & Larry. Send your holiday
 
 From TEMPEST: "This year has been wonderful for Tempest. We have toured across the continent and made many new friends. *Turn of the Wheel* received a huge response and to date has outsold all of our previous albums. We look forward to an exciting adventure in 1997 when we will embark on our first World Tow! Holiday Greetings and Peace from Tempest." TEMPEST will appear December 19-21 in Mammoth at La Sierra Cantina [Ed. note 2005: Out-of-date info withheld.]; January 17 in Sebastopol at The Powerhouse [Ed. note 2005: Out-of-date info withheld.]; January 18 in Davis at Veterans Memorial Theatre [Ed. note 2005: Out-of-date info withheld.]. For other booking information, call [Ed. note 2005: Out-of-date info withheld.].
 
-Happy holidays from the folks at Firebird. You can do your holiday shopping from the Firebird catalog. You'll find T�shirts for every taste, from TEMPEST designs to the Fairgrove logo, from the Silver Gryphon emblem to Skandranon and Companions, from beautiful Celtic and Michael Whelan designs to wolves and cats. Of course there's music: TEMPEST, Michael Longcor's latest album *Norman & Saxon,* various Celtic artists, native American music by R. Carlos Nakai and others, and the theme music from the films *Ladyhawke* and *Braveheart*. You can order all of Misty's books from Firebird as well as an *Arrows of the Queen Concordance* or songbook, Silver Gryphon patches and pins, related jewelry and stationery, and much, much more.
+Happy holidays from the folks at Firebird. You can do your holiday shopping from the Firebird catalog. You'll find T'shirts for every taste, from TEMPEST designs to the Fairgrove logo, from the Silver Gryphon emblem to Skandranon and Companions, from beautiful Celtic and Michael Whelan designs to wolves and cats. Of course there's music: TEMPEST, Michael Longcor's latest album *Norman & Saxon,* various Celtic artists, native American music by R. Carlos Nakai and others, and the theme music from the films *Ladyhawke* and *Braveheart*. You can order all of Misty's books from Firebird as well as an *Arrows of the Queen Concordance* or songbook, Silver Gryphon patches and pins, related jewelry and stationery, and much, much more.
 
 Cassettes and CD's of the songs of *Oathbound* are back in stock. This work is based on the first book of *Vows and Honor*. The re-issue of songs inspired by *Oathbreakers* will be ready sometime next year. The *Vows and Honor Concordance* is still a work in progress. "Heralds, Harpers, & Havoc" is available on CD, as is "Lovers, Lore & Loss" and "Shadow Stalker." Soon to come is a *Shadow Stalker Songbook*.
 
@@ -112,7 +108,7 @@ Adrian Paul (Highlander)--Peace [Ed. note 2005: Out-of-date info withheld.].
 
 Are you having fun in another club? Share the information with Queen's Own members. The club should be SF/F based but can be on anything from Babylon 5 to X-Files.
 
-Season's Greetings, one and all! This Christmas, why not step through our looking glass and get an Outkingdomer's view of Valdemar? The Hallowe'en/Christmas issue (yes, really), comprising a newsletter with a bit of everything in it and a zine, THE OUTKINGDOM CHRONICLES, is ready and waiting for you at �6.00 (this issue only, normal price �4.00). All are welcome to come sample our fare. Alternatively, why not try our guidelines and see what we're like? Send SAE or 2 IRCs outside the UK to [Ed. note 2005: Out-of-date info withheld.].
+Season's Greetings, one and all! This Christmas, why not step through our looking glass and get an Outkingdomer's view of Valdemar? The Hallowe'en/Christmas issue (yes, really), comprising a newsletter with a bit of everything in it and a zine, THE OUTKINGDOM CHRONICLES, is ready and waiting for you at '6.00 (this issue only, normal price '4.00). All are welcome to come sample our fare. Alternatively, why not try our guidelines and see what we're like? Send SAE or 2 IRCs outside the UK to [Ed. note 2005: Out-of-date info withheld.].
 
 For sale: Dragon Xmas stockings. Send a $10 money order to Lisa Brawner [Ed. note 2005: Out-of-date info withheld.]. Orders shipped next day after receiving it.
 
@@ -194,8 +190,6 @@ Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -209,9 +203,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

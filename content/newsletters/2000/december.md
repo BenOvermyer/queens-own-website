@@ -5,10 +5,6 @@ template = "page.html"
 date = 2000-12-01
 [extra]
 legacy_source = "qodec00.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2000/december/"
@@ -42,8 +38,6 @@ Happy Hanukah, Merry Christmas, Blessed Yule, and Holiday Greetings to one and a
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 From Mercedes Lackey:
 
 I'm thrilled that Queen's Own is back in business again! After a rather problem-plagued year for yours truly, it was good to see something go right!
@@ -57,8 +51,6 @@ And as for right this moment---well, my busy fingers have been hard at work maki
 Thanks to all of you for good times in the last Millennium, and may there be more of them in the next!
 
 Misty
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -146,8 +138,6 @@ HOGMANAYCON. E-mail: [andy.nimmo@net.ntl.com](mailto:andy.nimmo@net.ntl.com). We
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Frostbite by Jan Tallevast" class="border-3" loading="lazy" src="/qo43.jpg"/>
 
 ## Member News:
@@ -174,8 +164,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
   <img alt="Merry X-mas from GG" class="border-5" loading="lazy" src="/qoxmasgg.jpg"/>
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Other Fandoms:
 
 <img alt="Purple Gryphon by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo46.jpg"/>
@@ -199,7 +187,7 @@ You need a release form (online at [Release form instructions](/release-form-ins
 
 All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
-- Welcome to **Herald Auralynn "NyteShadow" Trevana�sedrin**, Chosen by Sabyll and Gifted with Fetching, Mindhealing, and Animal Mindspeech. In addition to writing about her family and friends, **Jan Tallevast** submitted four pieces of artwork, pictures of her herald and companion outfits she made, wrote a poem, learned the care of horses, sent us several recipes, has a brown belt in Karate, and volunteers with Ellis County Sheriff Association's Battered Women's Fund, Computers for Kids, Hybrid Wolf rescue and is trying to start an Adopt an Elder program in her area. She also has a help page for child molestation and rape survivors.
+- Welcome to **Herald Auralynn "NyteShadow" Trevana'sedrin**, Chosen by Sabyll and Gifted with Fetching, Mindhealing, and Animal Mindspeech. In addition to writing about her family and friends, **Jan Tallevast** submitted four pieces of artwork, pictures of her herald and companion outfits she made, wrote a poem, learned the care of horses, sent us several recipes, has a brown belt in Karate, and volunteers with Ellis County Sheriff Association's Battered Women's Fund, Computers for Kids, Hybrid Wolf rescue and is trying to start an Adopt an Elder program in her area. She also has a help page for child molestation and rape survivors.
 
 <img alt="Gryphonlet by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo45.jpg"/>
 
@@ -221,8 +209,6 @@ Zhai'helleva,
 
 Danya
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Fan Messages:
 
 <img alt="Kearie by Jan Tallevast" class="border-3 float-right" loading="lazy" src="/qo47.jpg"/>
@@ -237,8 +223,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - To **Herald-Mage Danya**, from **Herald Enyo**: Congratulations on Kassie one more time!! You deserve it. I'm glad everything worked out and you're doing so well now. Yea!
@@ -246,8 +230,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - To **all Queen's Own readers**, from **Herald Enyo**: Have a great, and peaceful Winter Solstice and any other holidays you celebrate. Zhai'helleva.
 - Happy Yule and Midsummer to **all my buds**! From **Healer-Adept Winterfire, Herald Jaala, Healer Cinnamon,** and **Cassandra** (which is who I am when I'm not feeling all multiple-personality--something a lot of creative types suffer from to some extent, at least when they're creating. Anyway, I should stop rambling and get on with this). I am scared to list you in case I leave someone out, but you know who you are! ;) And a special thought goes out to all those shopping mall Santas in Australia who swelter in fur clothing in front of fans because it's HOT outside! PS. I am looking for submissions for Austral'a'in. It counts toward your persona creation points, if that's any incentive. E-mail me at &lt;ahref="mailto:garou@netspeed.com.au">garou@netspeed.com.au.
 - Heyla to **all** :) From **Kathleen McGaw** aka **Herald Gwen Katran**: Happy Holidays! To all those I have lost touch with. Through a huge mess of packing up, moving, taking boards and my computer crashing, I have lost touch (and e-mail addresses) with people I was writing this summer. Please write me at my new address (as my school one will be deleted next month): [LadyKent@wildmail.com](mailto:LadyKent@wildmail.com). Hope everyone enjoys this festive season no matter what your affiliations or beliefs. WTTW.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -268,9 +250,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

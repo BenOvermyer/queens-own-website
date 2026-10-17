@@ -5,10 +5,6 @@ template = "page.html"
 date = 2002-02-01
 [extra]
 legacy_source = "qofeb02.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2002/february/"
@@ -28,25 +24,23 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-Lots of stuff has been happening around QO since the first of the year. There is a major update of the Website underway, based on information from *The Valdemar Companion*. The Helpful Handouts are being revised. You might want to take a glance at the Handout for your persona type when we get the new ones up to see if there are Advanced Ranks or more details that you�d like to add to your existing persona. You can find the handouts at:
+Lots of stuff has been happening around QO since the first of the year. There is a major update of the Website underway, based on information from *The Valdemar Companion*. The Helpful Handouts are being revised. You might want to take a glance at the Handout for your persona type when we get the new ones up to see if there are Advanced Ranks or more details that you'd like to add to your existing persona. You can find the handouts at:
 
 [Persona handouts and submission instructions](/persona-handouts/)
 
-We�re also working on those FAQ sheets that we�ve been promising people for ages! Rather than putting "Under Construction" on several dozen pages, we�re simply working on the pages online. So please bear with us as things update, work, don�t work, and otherwise change over the next few weeks. The "Just the FAQs" section of the website will be at:
+We're also working on those FAQ sheets that we've been promising people for ages! Rather than putting "Under Construction" on several dozen pages, we're simply working on the pages online. So please bear with us as things update, work, don't work, and otherwise change over the next few weeks. The "Just the FAQs" section of the website will be at:
 
 [Velgarth reference guide](/world-reference-guide/)
 
-The Vanyel Fan Club is back! Queen�s Own is hosting it�s website. See their ad below for the link. Also, the VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) for more details.
+The Vanyel Fan Club is back! Queen's Own is hosting it's website. See their ad below for the link. Also, the VFC is having a contest. Whoever submits the most stories to a QO zine or the most art to the QO newsletter in 2002 will win a copy of *The Last Herald-Mage*, the 3-in-1 volume of the Vanyel stories that was a hardcover special edition by GuildAmerica Books. Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) for more details.
 
-Queen�s Own will be hosting a chat in our Delphi Forum for QO members on Wedsnesday, February 6th, at 7 PM PACIFIC, 8 PM MOUNTIAN, 9 PM CENTRAL, and 10 PM EASTERN. The topic will be The Valdemar Companion. Mark your caldendars! We are also planning to have a chat at a time when our international folk can attend. (We�re still setting the date and time for that.) Contact Moonstar at [healermoon@gmail.com](mailto:healermoon@gmail.com) for details.
+Queen's Own will be hosting a chat in our Delphi Forum for QO members on Wedsnesday, February 6th, at 7 PM PACIFIC, 8 PM MOUNTIAN, 9 PM CENTRAL, and 10 PM EASTERN. The topic will be The Valdemar Companion. Mark your caldendars! We are also planning to have a chat at a time when our international folk can attend. (We're still setting the date and time for that.) Contact Moonstar at [healermoon@gmail.com](mailto:healermoon@gmail.com) for details.
 
-We start our QO member interview series in this newsletter with questionnaire answers from a very special member: Queen�s Own founder, Herald-Housemother Judith Louvis! Enjoy!
+We start our QO member interview series in this newsletter with questionnaire answers from a very special member: Queen's Own founder, Herald-Housemother Judith Louvis! Enjoy!
 
 Zhai'helleva,
 
 Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
 
@@ -75,11 +69,9 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 9. **What other things besides Queen's Own occupy your time?**
 
   At the time I ran QO, nothing! My family was very tolerant of my "hobby." Now I am Grammy, not Herald-Housemother, and I can't wait until the grandkids are old enough to enjoy Misty's worlds.
-10. **What types of things would you like to see Queen�s Own do in the coming years?**
+10. **What types of things would you like to see Queen's Own do in the coming years?**
 
   Ah, that's for you young folks to decide. I would like to see fandom in general return to the goal of having fun and being an outlet for creativity. Fandom is NOT a way of life; it's a way of play. All intelligent species need play!
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   <img alt="Gwen 2 by Gwenaelle Durand" class="border-5 float-left" loading="lazy" src="/qo102.jpg"/>
 
@@ -143,7 +135,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
   ### Maryland
 
-  **FARPOINT 2002.** E-mail: [farpointcon@bigfoot.com](mailto:farpointcon@bigfoot.com). Website: [http://www.bcpl.net/~wilsonr/](http://www.bcpl.net/~wilsonr/). Address: Marriott�s Hunt Valley Inn, Baltimore, Maryland. Dates: 2/15/02 - 2/17/02.
+  **FARPOINT 2002.** E-mail: [farpointcon@bigfoot.com](mailto:farpointcon@bigfoot.com). Website: [http://www.bcpl.net/~wilsonr/](http://www.bcpl.net/~wilsonr/). Address: Marriott's Hunt Valley Inn, Baltimore, Maryland. Dates: 2/15/02 - 2/17/02.
 
   **KATSUCON 8.** E-mail: [katsucon@katsucon.com](mailto:katsucon@katsucon.com). Website: [http://www.katsucon.com/](http://www.katsucon.com/). Address: The New Marriott Waterfront Hotel, Baltimore, Maryland. Dates: 2/15/02 - 2/17/02.
 
@@ -247,8 +239,6 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
   For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
   <img alt="Tantris by Gwenaelle Durand" class="border-5 float-right" loading="lazy" src="/qo103.jpg"/>
 
   ## Member News:
@@ -257,7 +247,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
   ### Local chapters:
 
-  - **Arrows OnLine:** It�s back! *Arrows OnLine* has returned as an official chapter of Queen�s Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion�s Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey�s Fiction**, is a general discussion of Misty�s books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Herald Ryhannon Gaia Degent, at [MistyKalia@aol.com](mailto:MistyKalia@aol.com).
+  - **Arrows OnLine:** It's back! *Arrows OnLine* has returned as an official chapter of Queen's Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion's Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey's Fiction**, is a general discussion of Misty's books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Herald Ryhannon Gaia Degent, at [MistyKalia@aol.com](mailto:MistyKalia@aol.com).
   - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
   - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
   - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
@@ -267,13 +257,11 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   ### Zines and Newsletters:
 
   - ***Austral'a'in*:** Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au). We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas. (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!) The cost of membership covers postage and printing - we're a strictly not-for-profit group. If you are interested in more information, or have stories or other submissions that you would like to see published, contact me! **Attention all writers and artists:**Austral'a'in is desperately seeking submissions. We are also always looking for new members. Please? Contact me (Cassandra) at [garou@netspeed.com.au](mailto:garou@netspeed.com.au) for details!
-  - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
-  - ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists … particularly artists willing to illustrate stories! *CG Volume Seven* is open to all submissions, and *Cat�s Cradle*, a SERRAted Edge novella by Heather Arnold, needs an illustrator who can draw the usual humans, elves, and elvensteeds, plus, ummm �trucks &#42;G&#42;; if you�re interested, please send a couple of black and white art samples to [devin@greendragonpress.net](mailto:devin@greendragonpress.net), or snail mail them to the address below. Additionally, the original six issues of Companions� Grove are now available as a set for $30.50 in the US (outside of the US, please e-mail me and I�ll get back to you with the price). The Danya Winterborn Saga by Linda Malcor is available for $6.00 in the US. Three more old Valdemar zines are now back in print: "Fire Eyes" (43 pgs, $5.25 in the US) and "Endgame" (36 pgs, $5.00 in the US) by Heather Arnold, and "The Sum of Duty" (57 pgs, $6.50 in the US) by Royce Day. More information can be found at [http://www.greendragonpress.net/novellas.htm](http://www.greendragonpress.net/novellas.htm) . *Shards of Autumn* by Den Elms, should be available by early 2002. Please visit [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm) for more information, prices for individual issues of *Companions� Grove*, or to order via credit card using PayPal. To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St, Pahrump, NV 89060.
+  - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I'm moving at the end of May. I don't want any orders to go astray.)
+  - ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists … particularly artists willing to illustrate stories! *CG Volume Seven* is open to all submissions, and *Cat's Cradle*, a SERRAted Edge novella by Heather Arnold, needs an illustrator who can draw the usual humans, elves, and elvensteeds, plus, ummm 'trucks &#42;G&#42;; if you're interested, please send a couple of black and white art samples to [devin@greendragonpress.net](mailto:devin@greendragonpress.net), or snail mail them to the address below. Additionally, the original six issues of Companions' Grove are now available as a set for $30.50 in the US (outside of the US, please e-mail me and I'll get back to you with the price). The Danya Winterborn Saga by Linda Malcor is available for $6.00 in the US. Three more old Valdemar zines are now back in print: "Fire Eyes" (43 pgs, $5.25 in the US) and "Endgame" (36 pgs, $5.00 in the US) by Heather Arnold, and "The Sum of Duty" (57 pgs, $6.50 in the US) by Royce Day. More information can be found at [http://www.greendragonpress.net/novellas.htm](http://www.greendragonpress.net/novellas.htm) . *Shards of Autumn* by Den Elms, should be available by early 2002. Please visit [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm) for more information, prices for individual issues of *Companions' Grove*, or to order via credit card using PayPal. To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St, Pahrump, NV 89060.
   - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
   - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
   - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com). If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable).
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   <img alt="Lestat by Laura Felton" loading="lazy" src="/qo104.jpg"/>
 
@@ -301,8 +289,8 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
   - Welcome to **Bard Raina Cael**, who has Bardic Gift and Talent! Bard Raina is brought to us by **BriAnne Searles**, who wrote one story about her persona and one story about her family and friends. She sent a picture of herself in a play as well as the program for the play, and she drew a picture of a costume that she designed.
-  - Congratulations to **Shin�a�in Leshya'edrin shena Pretera�sedrin**, Clan Chief of the Grasscat Clan. **Gwenaelle Durand** wrote a story about her persona, family and friends, and had it published in *Austral�a�in*. She knows archery, can ride a horse, and has learned the care and feeding of horses.
-  - Welcome **Tayledras Mage Flameheart k�Chona** and her Bondbird Choni! Flameheart has very strong Mindspeech and the ability to communicate with her bondbird, humans and other races. **Rachel Kory** wrote about her persona and Flameheart�s family and friends, drew a picture of her bondbird and sent a poem.
+  - Congratulations to **Shin'a'in Leshya'edrin shena Pretera'sedrin**, Clan Chief of the Grasscat Clan. **Gwenaelle Durand** wrote a story about her persona, family and friends, and had it published in *Austral'a'in*. She knows archery, can ride a horse, and has learned the care and feeding of horses.
+  - Welcome **Tayledras Mage Flameheart k'Chona** and her Bondbird Choni! Flameheart has very strong Mindspeech and the ability to communicate with her bondbird, humans and other races. **Rachel Kory** wrote about her persona and Flameheart's family and friends, drew a picture of her bondbird and sent a poem.
 
   <img alt="Davad by Janetta Maxwell" class="float-right" loading="lazy" src="/qo105.jpg"/>
 
@@ -310,17 +298,15 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
   Heyla, all!
 
-  You�ve all probably noticed by now that I�m feeling *much* better &lt;G>. All of the QO newsletters are coded and online (with art!). The Webring is working again, and our other Webrings have been migrated to the new system (Still working out some bugs, but overall, these are in much better shape than they�ve been in for over half a year &lt;g>.). Our QO chatlist is functioning again, thanks to Moonstar. A bunch of broken links have been fixed; some new links have been added. People with pending personae are finally hearing back from us. We�re back in touch with Herald Bastian, and we�ll be bringing the Vanyel Fan Club back to life (The chatlist is already up and running.). We�re also doing a major overhaul of the site based on information from *The Valdemar Companion*. Look for updated persona handouts, FAQ sheets for various cultures and on a variety of topics, and other fun stuff to appear online soon.
+  You've all probably noticed by now that I'm feeling *much* better &lt;G>. All of the QO newsletters are coded and online (with art!). The Webring is working again, and our other Webrings have been migrated to the new system (Still working out some bugs, but overall, these are in much better shape than they've been in for over half a year &lt;g>.). Our QO chatlist is functioning again, thanks to Moonstar. A bunch of broken links have been fixed; some new links have been added. People with pending personae are finally hearing back from us. We're back in touch with Herald Bastian, and we'll be bringing the Vanyel Fan Club back to life (The chatlist is already up and running.). We're also doing a major overhaul of the site based on information from *The Valdemar Companion*. Look for updated persona handouts, FAQ sheets for various cultures and on a variety of topics, and other fun stuff to appear online soon.
 
-  John is now two months old, and he�s the other reason I�m getting so much work done. See, he has a habit of wanting to nurse between about 3:30 AM and 5:30 AM. Then about the time he falls asleep, my daughter, Kassie, is almost ready to wake up. Since I�ve been a terrible insomniac for more years than I care to think about, that means I can�t get back to sleep after John wakes me up. So I figure that as long as I�m up anyway, I might as well do some work &lt;g>.
+  John is now two months old, and he's the other reason I'm getting so much work done. See, he has a habit of wanting to nurse between about 3:30 AM and 5:30 AM. Then about the time he falls asleep, my daughter, Kassie, is almost ready to wake up. Since I've been a terrible insomniac for more years than I care to think about, that means I can't get back to sleep after John wakes me up. So I figure that as long as I'm up anyway, I might as well do some work &lt;g>.
 
-  This month is kind of special for me in that I hit 40 on the 3rd. All in all, it�s been a pretty good decade. My first book came out in hardcover and has since gone to paperback (as well as into a Japanese translation with a Russian translation pending). I�ve had three wonderful children added to my life. I moved out of apartments and into my own home (It�s *much* nicer not having to share walls anymore &lt;g>.). I was ordained as an Elder in the Presbyterian Church (USA), and I�ve been extremely active in my church government. You can check out my bio page at [http://www.dragonlordsnet.com/author.htm](https://dragonlords.fans/author.htm) for some of the other highlights of what I�ve been up to. Becoming active in QO and now helping to lead the club has been a special joy. Thanks to all of you for your support! It�s a real pleasure to be working and playing with you.
+  This month is kind of special for me in that I hit 40 on the 3rd. All in all, it's been a pretty good decade. My first book came out in hardcover and has since gone to paperback (as well as into a Japanese translation with a Russian translation pending). I've had three wonderful children added to my life. I moved out of apartments and into my own home (It's *much* nicer not having to share walls anymore &lt;g>.). I was ordained as an Elder in the Presbyterian Church (USA), and I've been extremely active in my church government. You can check out my bio page at [http://www.dragonlordsnet.com/author.htm](https://dragonlords.fans/author.htm) for some of the other highlights of what I've been up to. Becoming active in QO and now helping to lead the club has been a special joy. Thanks to all of you for your support! It's a real pleasure to be working and playing with you.
 
-  Zhai�helleva,
+  Zhai'helleva,
 
   Danya
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   ## Fan Messages:
 
@@ -333,18 +319,14 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   - From **Crystal Sarakas Kocher** ([crys@stny.rr.com](mailto:crys@stny.rr.com)) 26-year-old radio/television producer looking for friends who enjoy long, silly conversations, dreaming of Valdemar and other such things. I would love to hear from old friends that I have lost touch with over the years and from new friends, too!
   - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
   <img alt="Kiera by Janetta Maxwell" class="float-right" loading="lazy" src="/qo106.jpg"/>
 
   ## Personals:
 
-  - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
+  - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen's Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
   - **From Aurora Nelson. To All My Penpals.** (you know who you are): Hope you all had a great holiday season! To the multitude of my friends (and anyone else) with a birthday in January … Happy Birthday! I just realized how many of you there are! We could take over the world! ^^ For any friends, old, new, or as yet undiscovered, wishing to get in contact with me, you may email me at [aurora@temarrea.com](mailto:aurora@temarrea.com) or [temarrea@yahoo.com](mailto:temarrea@yahoo.com). Or snail mail at: 2843 Hopyard Rd PMB#189, Pleasanton, CA, 94588, USA.
   - **From: Healer Adept Moonstar. To: All. Re: QO Newsletter.** Needed February 88 through March 91, Queen's Own newsletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
   - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
 
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -365,9 +347,3 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   Herald-Mage Master Danya Winterborn and
 
   Healer Adept Moonstar
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
-  <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-  <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

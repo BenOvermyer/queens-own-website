@@ -4,10 +4,6 @@ path = "kalen-edral-handout"
 template = "page.html"
 [extra]
 legacy_source = "qok.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/kalen-edral-handout/"
@@ -15,13 +11,13 @@ canonical_path = "/kalen-edral-handout/"
 
 ## Kal'enedral Handout
 
-### Criteria established by Mercedes Lackey
+Criteria established by Mercedes Lackey
 
-### Based on the **Vows and Honor** duology
+Based on the **Vows and Honor** duology
 
 Distributed by:
 
-### Queens Own The Official Mercedes Lackey Fan Club
+Queens Own The Official Mercedes Lackey Fan Club
 
 ## To become a Kal'enedral:
 
@@ -29,8 +25,6 @@ Distributed by:
 2. Write a story (minimum 10 pages) about how your persona became Sword Sworn and send the story to one of the QO zines.
 
 You are now at the Student stage. A Leshya'e Kal'enedral appears to teach you.
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
 
 ## Kal'enedral, Beginner
 
@@ -41,8 +35,6 @@ To earn the rank of Kal'enedral, Beginner, do one of the following:
 OR
 
 1. Join a martial arts class and attain the first rank
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
 
 ## Kal'enedral, Advanced
 
@@ -56,8 +48,6 @@ Topic: Learn about the uses of horses in warfare, e.g., light cavalry, heavy cav
 And
 
 1. Advance to the next rank in your Re-enactment Group or martial arts class.
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
 
 ## Kal'enedral, Priest/Priestess
 
@@ -73,8 +63,6 @@ And
 And
 
 1. Advance to the next rank in your Re-enactment Group or martial arts class.
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
 
 ## Kal'enedral, Shaman
 
@@ -95,8 +83,6 @@ And
 And
 
 1. Advance to the next rank in your Re-enactment Group or martial arts class.
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
 
 ## Kal'enedral, Leshya'e
 
@@ -128,8 +114,6 @@ And
 
 Remember, if Kal'enedral are rare, Leshya'e Kal'enedral are a hundred times rarer, so the effort is that much more.
 
-<img alt="" loading="lazy" src="/bargrass.gif"/>
-
 ## Special Notes for Kal'enedral
 
 - As proof of your qualifications, send a brief description of what each rank as a fighter required you to do to obtain it and a photo of you receiving the rank or a copy of the certificate granting you the rank. For the oral presentation, send a recording of you delivering the paper.
@@ -142,7 +126,3 @@ Remember, if Kal'enedral are rare, Leshya'e Kal'enedral are a hundred times rare
 If you have additional questions, check out the [Religion](/religions-faq/) and [Shin'a'in](/shina-in-faq/) FAQs.
 
 {{ <signoff /> }}
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

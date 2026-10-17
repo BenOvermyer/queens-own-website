@@ -4,10 +4,6 @@ path = "fauna-faq"
 template = "page.html"
 [extra]
 legacy_source = "qofaqa.htm"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/fauna-faq/"
@@ -188,9 +184,3 @@ The lifespan of a bondbird is 25-50 years for falcons, larger owls and hawks. Ea
 Bondbirds are more intelligent than cats but not quite as intelligent as small children. Bondbirds are easily distracted and are most dangerous just after a kill. They can relay and report very simple messages. All bondbirds eventually bleach to white because of the proximity in which they live to the Heartstones of the Vales. Bondbirds that belong to mages will bleach faster than bondbirds that belong to scouts, but all bondbirds will bleach to white within ten years of bonding with their Hawbrother partner.
 
 (Please note that we are not allowed to create nonhuman personae in the fan club. There are plenty of human persona-types to choose from.)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

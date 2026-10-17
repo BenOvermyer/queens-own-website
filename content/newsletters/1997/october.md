@@ -5,10 +5,6 @@ template = "page.html"
 date = 1997-10-01
 [extra]
 legacy_source = "qooct97.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1997/october/"
@@ -36,7 +32,7 @@ Watch for Misty's hardcover book, *Four and Twenty Blackbirds*. It has a Decembe
 
 The current issue of *Marian Zimmer Bradley's FANTASY Magazine* has a cover story by Misty entitled "Gray." Single issue price is $5.95, postage per order is an additional $2.50. Still available is FANTASY issue #23, containing the last Diana Tregarde short story, "Killer Byte." The cost of Issue #23 is $4.95. Remember, postage cost is per order, not per issue. Order both issues and pay only $2.50 in shipping costs. You can subscribe to *Marion Zimmer Bradley's FANTASY Magazine* for just $20 a year (4 issues), $38 for two years, $54 for three years, $68 for four years, and $80 for five years. Canadian and overseas subscriptions are more, write for prices. [Ed. note 2005: Out-of-date info withhold.] accepts freelance submissions "from people who have read our guidelines." Send a SASE for Writers' Guidelines to the above address.
 
-Firebird's new catalog will be mailed in a few weeks and is filled with tempting treasures for yourself and for holiday gifts. New this catalog are T-shirts with designs by Larry Dixon--Skandranon from *The Silver Gryphon* and the Wyrsa pack leader from the same book--and a T-shirt with a map of Valdemar. The tees are brown ink on natural (the Wyrsa will have red eyes) and will be ready for the holidays. There are pages of feather and pewter jewelry, books by Misty and other of your favorite authors, stationery, needlepoint patterns, doll-size costume patterns, and more. Firebird carries music by Tempest, Michael Longcor, David Arkcnstone, R. Carlos Nakai, Steeleye Span, Clannad … You may pre�order *Four and Twenty Blackbirds* and *Firebird* will ship the books as soon as they come in.
+Firebird's new catalog will be mailed in a few weeks and is filled with tempting treasures for yourself and for holiday gifts. New this catalog are T-shirts with designs by Larry Dixon--Skandranon from *The Silver Gryphon* and the Wyrsa pack leader from the same book--and a T-shirt with a map of Valdemar. The tees are brown ink on natural (the Wyrsa will have red eyes) and will be ready for the holidays. There are pages of feather and pewter jewelry, books by Misty and other of your favorite authors, stationery, needlepoint patterns, doll-size costume patterns, and more. Firebird carries music by Tempest, Michael Longcor, David Arkcnstone, R. Carlos Nakai, Steeleye Span, Clannad … You may pre'order *Four and Twenty Blackbirds* and *Firebird* will ship the books as soon as they come in.
 
 If you have never ordered from Firebird and would like a catalog, send a $3 check or money order to Firebird Arts & Music [Ed. note 2005: Out-of-date info withhold.]. To browse through the catalog online, use [Ed. note 2005: Out-of-date info withhold.]. Sorry, Firebird does not ship catalogs or merchandise to prison addresses.
 
@@ -183,8 +179,6 @@ Would you like to be a Herald, Healer, Bard, White Winds Sorceress, Tayledras, S
 
   [End Excerpt]
 
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
   Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
   Newsletters are published on (or near) the first of each month.
@@ -198,9 +192,3 @@ Would you like to be a Herald, Healer, Bard, White Winds Sorceress, Tayledras, S
   Zhai'helleva,
 
   Herald-Mage Adept Danya Winterborn
-
-  <img alt="" loading="lazy" src="/barcomp.gif"/>
-
-  <a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-  <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

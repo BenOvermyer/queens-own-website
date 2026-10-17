@@ -5,10 +5,6 @@ template = "page.html"
 date = 2000-09-01
 [extra]
 legacy_source = "qosep00.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2000/september/"
@@ -31,8 +27,6 @@ Heyla, Misty fans!
 This month we continue series of interviews with the editors of the various Queen's Own fanzines and newsletters. The second editor we would like you to meet is Aurora Nelson of *Golden Grove*. (You'll find submission information below in the Fanzine section of this newsletter.) [Ed. Note: Aurora Nelson is no longer the editor of *Golden Grove*, 2/16/02.]
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. When did you join Queen's Own?
 
@@ -64,8 +58,6 @@ This month we continue series of interviews with the editors of the various Quee
 10. What other projects besides Queen's Own occupy your time?
 
   Nothing else fandom at the moment, really. If I can get enough interest generated, I'd like to start up a 'zine again. That's what those "Rea's Mysterious Project" ads a while ago were about. I'd like to see about thirty responses first, though. What it would turn out to be would depend on the people interested. I have several concepts in mind. Other than that, the only projects I'm working on are relearning how to 'blade, prepping to move, and putting my room back together now that I've torn it apart looking for old QO issues to answer the first questions. ::grin:: On a side note, if anyone wants to contact me, the best way to do so now will be by e-mail, but I won't check that until mid-September. My current addy will be good until the start of September, after which I'll let everyone know the new one.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -173,8 +165,6 @@ These are the upcoming cons we know about. (Living in California, that's what I 
 
 WORLDCON (Chicon2000). Website: [http://www.chicon.org](http://www.chicon.org). Where: Chicago. Dates: 8/3100 - 9/04/00.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Moonmaid by Jon Myre" class="border-3" loading="lazy" src="/qo20.jpg"/>
 
 ## Member News:
@@ -197,8 +187,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at the above address (Please include a SASE when requesting information via snail mail.). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -229,11 +217,9 @@ All personae materials should be sent to the QO address.
 
 ### From Healer Adept Moonstar:
 
-I love seeing all the new art coming our way. Queen�s Own is lucky to have so many talented artists among us. I have noticed that art created with a No. 2 pencil looks a little washed out sometimes after being scanned and copied and/or printed. So, I have a special request to our artists. Please, please try to draw with darker artists' pencils, or charcoal (or in color, if you get really ambitious "G". We don't have to limit ourselves to black and white now that the newsletter is online.). This will enable us to see the art clearly. Continue drawing everyone, I can�t wait to see what we get next.
+I love seeing all the new art coming our way. Queen's Own is lucky to have so many talented artists among us. I have noticed that art created with a No. 2 pencil looks a little washed out sometimes after being scanned and copied and/or printed. So, I have a special request to our artists. Please, please try to draw with darker artists' pencils, or charcoal (or in color, if you get really ambitious "G". We don't have to limit ourselves to black and white now that the newsletter is online.). This will enable us to see the art clearly. Continue drawing everyone, I can't wait to see what we get next.
 
 I also want announce the first issue of *The Compass Rose*. You can view the new Queen's Own-sponsored nonfiction journal online at [Summer 2000](/compass-rose/summer-2000/). This journal includes great articles on a variety of topics and several reviews of books, movies, a CD, and more! If you have something you would like to contribute to a future issue, you can find our guidelines at [About The Compass Rose](/compass-rose/about/).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Fan Messages:
 
@@ -246,15 +232,11 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - To **Elizabeth Barrette**, the author of the Pros & Cons booklet we distribute, from **Herald-Mage Master Danya Winterborn**. Please contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - To **Everyone Who's Asked**, from **Herald-Mage Master Danya Winterborn**. The paperback edition of my book on King Arthur and my dissertation on the Holy Grail are available (at reasonable prices for a change!) through the links at [http://www.dragonlordsnet.com/bkmalcor.htm](https://dragonlords.fans/bkmalcor.htm). For a current listing of my publications, visit [http://www.dragonlordsnet.com/author.htm](https://dragonlords.fans/author.htm).
 - To **Filk and Anne McCaffrey fans**, from **Cassandra Vuksa**. Visit [http://members.aol.com/opland/index.htm](http://members.aol.com/opland/index.htm). Tania Opland and Mike Freeman have produced a very cool CD, which has songs like "Lessa's Ride" and "The Question Song" on it. I bought the CD and have never regretted it.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -275,9 +257,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

@@ -4,10 +4,6 @@ path = "herald-mage-handout"
 template = "page.html"
 [extra]
 legacy_source = "qohm.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/herald-mage-handout/"
@@ -15,9 +11,9 @@ canonical_path = "/herald-mage-handout/"
 
 ## Herald-Mage Handout
 
-### Criteria established by Mercedes Lackey
+Criteria established by Mercedes Lackey
 
-### Based on the **Heralds of Valdemar** series
+Based on the **Heralds of Valdemar** series
 
 ## To become a Herald-Mage:
 
@@ -25,8 +21,6 @@ canonical_path = "/herald-mage-handout/"
 2. Write a story (minimum of 10 pages) about how your persona discovered that s/he had Mage Gift, and send it to one of the QO zines.
 
 You are now at the Apprentice stage.
-
-<img alt="" loading="lazy" src="/barblln.gif"/>
 
 ## Herald-Mage, Hedge-Wizard
 
@@ -36,8 +30,6 @@ To earn the rank of Herald-Mage, Hedge-Wizard, learn the following stage-magic t
 - Restore Cut Rope
 - Appearing Coins, and
 - a simple Escape Trick.
-
-<img alt="" loading="lazy" src="/barblln.gif"/>
 
 ## Herald-Mage, Journeyman
 
@@ -56,8 +48,6 @@ Topic: Analyze the Constitution, without the Amendments, and explain how the Ame
   - Multiplying Coins
   - Restoring Cut Newspaper, and
   - Escape from Handcuffs.
-
-<img alt="" loading="lazy" src="/barblln.gif"/>
 
 ## Herald-Mage, Master
 
@@ -85,8 +75,6 @@ Submit it to an essay contest or your History teacher for extra credit.
   - Escape from Ropes
   - Appearing/Multiplying Ping Pong Balls, and
   - your choice of Card Tricks.
-
-<img alt="" loading="lazy" src="/barblln.gif"/>
 
 ## Herald-Mage, Adept
 
@@ -120,8 +108,6 @@ Submit your paper to an essay contest or your History Teacher for extra credit.
 
 Lest you think I am being too hard on those who would be Herald-Mages, I would like to point out that both Ellen Guon and myself qualify for Adept. Like aspiring to [Kal'enedral](/kalen-edral-handout/), if you want something extraordinary, you will have to make an extraordinary effort.
 
-<img alt="" loading="lazy" src="/barblln.gif"/>
-
 ## Special Notes for Herald-Mages
 
 - As proof of your qualifications, send a brief description of each magic trick and tell how you learned it (i.e., from a book, a magic shop, a friend … )
@@ -133,7 +119,3 @@ Lest you think I am being too hard on those who would be Herald-Mages, I would l
 If you have additional questions, check out [The Magic of Velgarth](/magic-of-velgarth/) FAQ.
 
 {{ <signoff /> }}
-
-<img alt="" loading="lazy" src="/barblln.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

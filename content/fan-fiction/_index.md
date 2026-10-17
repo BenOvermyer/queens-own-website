@@ -4,10 +4,6 @@ template = "fan-fiction.html"
 sort_by = "title"
 [extra]
 legacy_source = "qofanfic.htm"
-bgcolor = "blue"
-text = "white"
-link = "aqua"
-vlink = "silver"
 historical = true
 topic = "publications"
 canonical_path = "/fan-fiction/"
@@ -36,8 +32,6 @@ The Official Queen's Own Fanzine Editor: Healer Adept Moonstar E-mail: [Healer A
 
 Co-editor: Co-editor/Advisor: Herald Mage Danya President/Advisor: Seeking Herald Bastian E-mail: [Herald Mage Danya](mailto:shashtah@gmail.com) Website: [The Valdemaran Herald](/vanyel-fan-club/newsletter/)
 
-<img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/>
-
 <a href="__PDF_BASE_URL__/Misty.pdf">Misty Vale</a>
 
 <a data-unavailable-target="__PDF_BASE_URL__/Pirate.pdf" href="__PDF_BASE_URL__/Pirate.pdf" title="Unavailable in the preserved archive">Little Pirate</a>(unavailable in archive)
@@ -65,7 +59,3 @@ Co-editor: Co-editor/Advisor: Herald Mage Danya President/Advisor: Seeking Heral
 <a href="__PDF_BASE_URL__/Triptych.pdf">Triptych</a>
 
 <a href="__PDF_BASE_URL__/Potter.pdf">Potter Fahr's Wife</a>
-
-<img alt="" loading="lazy" src="/qofanfic_files/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qofanfic_files/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

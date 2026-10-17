@@ -4,10 +4,6 @@ path = "blues-handout"
 template = "page.html"
 [extra]
 legacy_source = "qobl.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/blues-handout/"
@@ -15,13 +11,13 @@ canonical_path = "/blues-handout/"
 
 ## The Helpful Handout of How to Become a Blue
 
-### Criteria established by Mercedes Lackey
+Criteria established by Mercedes Lackey
 
-### Based on the **Heralds of Valdemar** and **Mage Storms** trilogies
+Based on the **Heralds of Valdemar** and **Mage Storms** trilogies
 
 Distributed by:
 
-### Queen's Own The Official Mercedes Lackey Fan Club
+Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -33,13 +29,9 @@ This is a biography. Describe your persona's physical and emotional characterist
 
 Remember, Blues are Unaffiliated students (that is, they are not Herald, Herald-Mage, Bardic or Healer Trainees) who are nobles, children of Palace workers or studying to be Artificers (Inventors) or Scholars. [See below](/blues-handout/#special) for special rules that apply to them.
 
-<img alt="" loading="lazy" src="/barcastl.gif"/>
-
 ## II. Develop One or More Friend or Relative Characters
 
 You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
-
-<img alt="" loading="lazy" src="/barcastl.gif"/>
 
 ## III. Extra Point Requirements (5 points each)
 
@@ -64,11 +56,7 @@ Choose and complete the requirements for two (minimum) of the following:
 17. Write a report about medieval building techniques. Prepare a minimum of 3 pages.
 18. Learn about protocol in a medieval court. Prepare a minimum of 3 pages.
 
-<img alt="" loading="lazy" src="/barcastl.gif"/>
-
-## After you have acquired 25 points, you may claim your Blues!
-
-<img alt="" loading="lazy" src="/barcastl.gif"/>
+After you have acquired 25 points, you may claim your Blues!
 
 <a id="special"></a>
 
@@ -81,8 +69,6 @@ Choose and complete the requirements for two (minimum) of the following:
 - For Helpful Hints, click [here](/persona-handouts/#help).
 
 If you have additional questions, check out the [Blues and Blue Bloods](/blues-and-blue-bloods-faq/) FAQ.
-
-<img alt="" loading="lazy" src="/barcastl.gif"/>
 
 <a id="advance"></a>
 
@@ -111,7 +97,3 @@ Exception: If you are a police officer or firefighter, you may claim full Guard 
 For advanced ranks for Guards, see the Advanced rank instructions on the [Military Handout](/military-handout/#advance).
 
 {{ <signoff /> }}
-
-<img alt="" loading="lazy" src="/barcastl.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

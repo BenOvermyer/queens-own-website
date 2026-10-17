@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "dantime.htm"
 source_site = "dragonlords.fans"
-bgcolor = "lightblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/valdemar-timeline/"
@@ -19,97 +15,101 @@ revised = "2/7/02"
 
 Here is the timeline for Misty's Valdemar Series. This timeline is adapted from the timeline that appears at the front of each of the Valdemar books.
 
-Beginning Date for the Period
-
-Reigning Monarch
-
-Series Title
-
-Books
-
-1000 B.F.
-
-Prehistory: Era of the Black Gryphon
-
-The Mage Wars
-
-*The Black Gryphon*, *The White Gryphon*, *The Silver Gryphon*
-
-0
-
-Founding of Valdemar
-
-750 A.F.
-
-Elspeth the Peacemaker
-
-The Last Herald Mage Trilogy
-
-*Magic's Pawn*
-
-798 A.F.
-
-Randale
-
-*Magic's Promise*, *Magic's Price*
-
-1077 A.F.
-
-Theran
-
-*Brightly Burning*
-
-1270 A.F.
-
-Co-Consorts Arden & Leesa
-
-Vows and Honor Duology
-
-*The Oathbound* *Oathbreakers*
-
-Short Stories
-
-*Oathblood*
-
-1315 A.F.
-
-Roald
-
-1355 A.F.
-
-Sendar
-
-1376 A.F.
-
-Selenay
-
-*Take a Thief*
-
-The Heralds of Valdemar Trilogy
-
-*Arrows of the Queen* *Arrow's Flight* *Arrow's Fall*
-
-Kerowyn's Tale
-
-*By the Sword*
-
-The Mage Winds Trilogy
-
-*Winds of Fate* *Winds of Change* *Winds of Fury*
-
-The Mage Storms Trilogy
-
-*Storm Warning* *Storm Rising* *Storm Breaking*
-
-Darian's Tale
-
-*Owlflight* *Owlsight* *Owlknight*
-
-"A Herald's Journey" in *The Valdemar Companion*
+<table>
+    <thead>
+        <tr>
+            <th>Beginning Date for the Period</th>
+            <th>Reigning Monarch</th>
+            <th>Series Title</th>
+            <th>Books</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1000 B.F.</td>
+            <td>Prehistory: Era of the Black Gryphon</td>
+            <td>The Mage Wars</td>
+            <td><em>The Black Gryphon</em>,<br/> <em>The White Gryphon</em>,<br/> <em>The Silver Gryphon</em></td>
+        </tr>
+        <tr>
+            <td>0</td>
+            <td>Founding of Valdemar</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>750 A.F.</td>
+            <td>Elspeth the Peacemaker</td>
+            <td rowspan="2">The Last Herald Mage Trilogy</td>
+            <td><em>Magic's Pawn</em></td>
+        </tr>
+        <tr>
+            <td>798 A.F.</td>
+            <td>Randale</td>
+            <td><em>Magic's Promise</em>,<br/> <em>Magic's Price</em></td>
+        </tr>
+        <tr>
+            <td>1077 A.F.</td>
+            <td>Theran</td>
+            <td></td>
+            <td><em>Brightly Burning</em></td>
+        </tr>
+        <tr>
+            <td rowspan="2">1270 A.F.</td>
+            <td rowspan="2">Co-Consorts Arden &amp; Leesa</td>
+            <td>Vows and Honor Duology</td>
+            <td><em>The Oathbound</em><br/> <em>Oathbreakers</em></td>
+        </tr>
+        <tr>
+            <td>Short Stories</td>
+            <td><em>Oathblood</em></td>
+        </tr>
+        <tr>
+            <td>1315 A.F.</td>
+            <td>Roald</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1355 A.F.</td>
+            <td>Sendar</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="7">1376 A.F.</td>
+            <td rowspan="7">Selenay</td>
+            <td></td>
+            <td><em>Take a Thief</em></td>
+        </tr>
+        <tr>
+            <td>The Heralds of Valdemar Trilogy</td>
+            <td><em>Arrows of the Queen</em><br/> <em>Arrow's Flight</em><br/> <em>Arrow's Fall</em></td>
+        </tr>
+        <tr>
+            <td>Kerowyn's Tale</td>
+            <td><em>By the Sword</em></td>
+        </tr>
+        <tr>
+            <td>The Mage Winds Trilogy</td>
+            <td><em>Winds of Fate</em><br/> <em>Winds of Change</em><br/> <em>Winds of Fury</em></td>
+        </tr>
+        <tr>
+            <td>The Mage Storms Trilogy</td>
+            <td><em>Storm Warning</em><br/> <em>Storm Rising</em><br/> <em>Storm Breaking</em></td>
+        </tr>
+        <tr>
+            <td>Darian's Tale</td>
+            <td><em>Owlflight</em><br/> <em>Owlsight</em><br/> <em>Owlknight</em></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>"A Herald's Journey" in <em>The Valdemar Companion</em></td>
+        </tr>
+    </tbody>
+</table>
 
 *Sword of Ice* does not fall neatly onto the timeline. It containes tales that stretch from just before Vanyel's time (Savil's first encounter with the Tayledras) up through Selenay's reign.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Copyright Order
 
@@ -159,5 +159,3 @@ This is the order in which Mercedes Lackey copyrighted the various works:
 - *Brightly Burning* 2000
 - *Take a Thief* 2001
 - "A Herald's Journey" in *The Valdemar Companion* 2001
-
-<img alt="" loading="lazy" src="/bardrgn2.gif"/>

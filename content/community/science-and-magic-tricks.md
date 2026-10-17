@@ -5,25 +5,15 @@ template = "page.html"
 [extra]
 legacy_source = "danspell.htm"
 source_site = "dragonlords.fans"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "community"
 canonical_path = "/science-and-magic-tricks/"
 revised = "10/15/98"
 +++
 
-## Magic Spells
-
-### or
-
-## Fun Things You, Too, Can Do with Science
+## Magic Spells, or Fun Things You, Too, Can Do with Science
 
 As part of my Herald-Mage training, I've been learning a lot of magic tricks and learning how to debunk "miracles" and "magic" as keen illusions with perfectly rational scientific explanations. So I thought I'd compile a list of some of the neater little effects I ran across. (No, these aren't the ones on the [Herald-Mage sheet](/herald-mage-handout/). Those you have to find a way to learn for yourself.) If you know of any illusions like this, though, message me at [shashtah@gmail.com](mailto:shashtah@gmail.com).
-
-<img alt="" loading="lazy" src="/barstar.gif"/>
 
 ## Cantrips
 
@@ -93,5 +83,3 @@ Just as a litmus test paper changes color to detect acidity, so does the cabbage
 Credit:
 
 You can find this trick explained in the October 1998 issue of [Parents Magazine](http://www.parents.com/cgi-bin/WebObjects/Parents/PM), p. 134.
-
-<img alt="" loading="lazy" src="/rainbar.gif" style="width:800px; height:7px"/>

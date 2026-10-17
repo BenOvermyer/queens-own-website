@@ -4,10 +4,6 @@ path = "shina-in-handout"
 template = "page.html"
 [extra]
 legacy_source = "qos.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/shina-in-handout/"
@@ -15,13 +11,13 @@ canonical_path = "/shina-in-handout/"
 
 ## The Helpful Handout of How to Become a Shin'a'in
 
-### Criteria established by Mercedes Lackey
+Criteria established by Mercedes Lackey
 
-### Based on the **Vows and Honor** duology
+Based on the **Vows and Honor** duology
 
 Distributed by:
 
-### Queen's Own The Official Mercedes Lackey Fan Club
+Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -34,34 +30,42 @@ Honor applies; what you roll is what you get.
 Determine your Clan by rolling two six-sided dice or one die twice and add the numbers.
 
 <table>
-<tr>
-<td>2:</td>
-<td>Bear Clan</td>
-</tr>
-<tr>
-<td>3:</td>
-<td>Cat Clan</td>
-</tr>
-<tr>
-<td>4:</td>
-<td>Firefalcon Clan</td>
-</tr>
-<tr>
-<td>5-6:</td>
-<td>Grasscat (Pretera'sedrin)</td>
-</tr>
-<tr>
-<td>7-8:</td>
-<td>Racing Deer (Liha'irden)</td>
-</tr>
-<tr>
-<td>9-10:</td>
-<td>Stooping Hawk (Tale'sedrin)</td>
-</tr>
-<tr>
-<td>11-12:</td>
-<td>Wolf</td>
-</tr>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Clan</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2:</td>
+            <td>Bear Clan</td>
+        </tr>
+        <tr>
+            <td>3:</td>
+            <td>Cat Clan</td>
+        </tr>
+        <tr>
+            <td>4:</td>
+            <td>Firefalcon Clan</td>
+        </tr>
+        <tr>
+            <td>5-6:</td>
+            <td>Grasscat (Pretera'sedrin)</td>
+        </tr>
+        <tr>
+            <td>7-8:</td>
+            <td>Racing Deer (Liha'irden)</td>
+        </tr>
+        <tr>
+            <td>9-10:</td>
+            <td>Stooping Hawk (Tale'sedrin)</td>
+        </tr>
+        <tr>
+            <td>11-12:</td>
+            <td>Wolf</td>
+        </tr>
+    </tbody>
 </table>
 
 ### Position
@@ -69,27 +73,33 @@ Determine your Clan by rolling two six-sided dice or one die twice and add the n
 Determine your Position within the clan by rolling one six-sided die.
 
 <table>
-<tr>
-<td>1:</td>
-<td>Clan Healer</td>
-</tr>
-<tr>
-<td>2-3:</td>
-<td>Clan Member*</td>
-</tr>
-<tr>
-<td>4-5:</td>
-<td>Warrior</td>
-</tr>
-<tr>
-<td>6:</td>
-<td>Shaman</td>
-</tr>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Position</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1:</td>
+            <td>Clan Healer</td>
+        </tr>
+        <tr>
+            <td>2-3:</td>
+            <td>Clan Member*</td>
+        </tr>
+        <tr>
+            <td>4-5:</td>
+            <td>Warrior</td>
+        </tr>
+        <tr>
+            <td>6:</td>
+            <td>Shaman</td>
+        </tr>
+    </tbody>
 </table>
 
 &#42;If you roll a result of Clan Member, please specify your role: artisan, blacksmith, herdsman, horse trainer, food gatherer, weaver, potter, drummer, or some other suitable job.
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
 
 ## II. Develop a Character
 
@@ -99,13 +109,9 @@ This is a biography. Describe your persona's physical and emotional characterist
 
 Remember to roll for Clan and Position first; it is the prerequisite for developing your persona. You can't write your story without knowing who you are. (10 points)
 
-<img alt="" loading="lazy" src="/bargrass.gif"/>
-
 ## III. Develop One or More Friend or Relative Characters
 
 You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
 
 ## IV. Extra Point Requirements (5 points each)
 
@@ -130,11 +136,7 @@ Choose and complete the requirements for two (minimum) of the following:
 17. Learn the care and feeding of horses.
 18. Send a story, poem, or art to one of our [zines](/fan-fiction/).
 
-<img alt="" loading="lazy" src="/bargrass.gif"/>
-
-## After you have acquired 25 points, you may become a full clan member!
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
+After you have acquired 25 points, you may become a full clan member!
 
 ## Special Notes for Shin'a'in
 
@@ -145,8 +147,6 @@ Choose and complete the requirements for two (minimum) of the following:
 - For Helpful Hints, click [here](/persona-handouts/#help).
 
 If you have additional questions, check out [The Shin'a'in](/shina-in-faq/) FAQ.
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
 
 ## Advanced Rank
 
@@ -179,7 +179,3 @@ If you have an approved Warleader, you may try for Warleader. To become a Clan C
 ### Kal'enedril
 
 You may work for [Kal'enedril](/kalen-edral-handout/) status once you've completed your Shin'a'in requirements.
-
-<img alt="" loading="lazy" src="/bargrass.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

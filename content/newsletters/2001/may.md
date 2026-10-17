@@ -5,10 +5,6 @@ template = "page.html"
 date = 2001-05-01
 [extra]
 legacy_source = "qomay01.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2001/may/"
@@ -28,19 +24,17 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-Welcome to the one year anniversary issue of the Queen�s Own newsletter under the co-Presidency of Herald-Mage Master Danya Winterborn and Healer Adept Moonstar! Moonstar gives you details about what has happened in the past year and how the club is growing.
+Welcome to the one year anniversary issue of the Queen's Own newsletter under the co-Presidency of Herald-Mage Master Danya Winterborn and Healer Adept Moonstar! Moonstar gives you details about what has happened in the past year and how the club is growing.
 
-In other news, the hardcover of *Elvenborn* should be out any day, and the paperback of *Brightly Burning* is scheduled for release in June. The hardcover of *The Serpent�s Shadow* came out in March, and the paperback for *The Fire Rose* became available in January. If you wish to purchase any of these or other works by Misty, please do so through the Dragonlord�s Bookstore at [http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm). (The Mercedes Lackey page is at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm).) A portion of the proceeds from all sales goes to pay for our website, PO box and other business expenses. This is how we keep memberships in QO free, so we really appreciate your support.
+In other news, the hardcover of *Elvenborn* should be out any day, and the paperback of *Brightly Burning* is scheduled for release in June. The hardcover of *The Serpent's Shadow* came out in March, and the paperback for *The Fire Rose* became available in January. If you wish to purchase any of these or other works by Misty, please do so through the Dragonlord's Bookstore at [http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm). (The Mercedes Lackey page is at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm).) A portion of the proceeds from all sales goes to pay for our website, PO box and other business expenses. This is how we keep memberships in QO free, so we really appreciate your support.
 
-We�re really looking forward to the special events coming up in Southern California. On May 16th, both Danya and Moonstar will be at a Barnes & Noble to discuss Misty�s works. Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) for the time and directions. On June 2nd, QO will be making an official trip to the Southern California Renaissance Pleasure Faire. There are still a couple of tickets available, if you are interested. Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) for more information. On June 23rd we�ll be holding a QO Midsummer Festival in Aliso Viejo, CA. Both of the QO co-Presidents will be in attendance, and it looks as if Aurora Nelson, president of Golden Grove, will be able to attend as well. [Ed. Note: Aurora is no longer president of Golden Grove, 2/16/02.] We�re very excited about this event! Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) for directions and additional information. We know that get-togethers are being planned elsewhere in the world as well. Keep watch in this newsletter for details. We�ll let you know what�s going on where as soon as we find out &lt;g>! Oh, and keep watch on the boards in our Delphi forum. Lots of planning goes on there!
+We're really looking forward to the special events coming up in Southern California. On May 16th, both Danya and Moonstar will be at a Barnes & Noble to discuss Misty's works. Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) for the time and directions. On June 2nd, QO will be making an official trip to the Southern California Renaissance Pleasure Faire. There are still a couple of tickets available, if you are interested. Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) for more information. On June 23rd we'll be holding a QO Midsummer Festival in Aliso Viejo, CA. Both of the QO co-Presidents will be in attendance, and it looks as if Aurora Nelson, president of Golden Grove, will be able to attend as well. [Ed. Note: Aurora is no longer president of Golden Grove, 2/16/02.] We're very excited about this event! Contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) for directions and additional information. We know that get-togethers are being planned elsewhere in the world as well. Keep watch in this newsletter for details. We'll let you know what's going on where as soon as we find out &lt;g>! Oh, and keep watch on the boards in our Delphi forum. Lots of planning goes on there!
 
-That said, we now return to our series of artist interviews. In this issue we talk with Herald An�Talyah Brighthawk, whose work you�ve seen in some of our newsletters and on the Dragonlords website.
+That said, we now return to our series of artist interviews. In this issue we talk with Herald An'Talyah Brighthawk, whose work you've seen in some of our newsletters and on the Dragonlords website.
 
 Zhai'helleva,
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
 
@@ -72,8 +66,6 @@ Zhai'helleva,
 10. **What other projects besides Queen's Own occupy your time?**
 
   Lately, just life. ::chuckle:: I've been trying to get some of my own writing done, but there just isn't the time. Eventually. :)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -353,8 +345,6 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Gwen by Gwenaelle Durand" class="border-3" loading="lazy" src="/qo74.jpg"/>
 
 ## Member News:
@@ -363,7 +353,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ### Local chapters:
 
-- **Arrows OnLine:** It�s back! *Arrows OnLine* has returned as an official chapter of Queen�s Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion�s Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey�s Fiction**, is a general discussion of Misty�s books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Herald Ryhannon Gaia Degent, at [MistyKalia@aol.com](mailto:MistyKalia@aol.com).
+- **Arrows OnLine:** It's back! *Arrows OnLine* has returned as an official chapter of Queen's Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion's Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey's Fiction**, is a general discussion of Misty's books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Herald Ryhannon Gaia Degent, at [MistyKalia@aol.com](mailto:MistyKalia@aol.com).
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
@@ -382,8 +372,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -417,13 +405,13 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 ### From Healer Adept Moonstar:
 
-This is a very special newsletter for us. It marks our first year running Queen�s Own, and most of our feedback so far has been great. We thank you for that and want you to know we love hearing from you. I believe that is what makes our club so special. I know many of you; we have become friends through e-mail, and it makes me happy that we are all so close. Beyond gushing, there are three topics I wish to address this issue.
+This is a very special newsletter for us. It marks our first year running Queen's Own, and most of our feedback so far has been great. We thank you for that and want you to know we love hearing from you. I believe that is what makes our club so special. I know many of you; we have become friends through e-mail, and it makes me happy that we are all so close. Beyond gushing, there are three topics I wish to address this issue.
 
-The first is our club has grown from twenty members when we started to eighty members now. It is delightful when old members come out of the woodwork. We also approved twelve of those members ourselves. We have 85 people currently working on personas, some of which we expect to be finished soon. The Queen�s Own website has had over 13,500 visitors this year! The Delphi forum for members has about 350 posts, which is nearly one a day. The subjects cover many of our common interests and are a great way to get to know each other. This is one of my favorite ways to find out how you all are doing.
+The first is our club has grown from twenty members when we started to eighty members now. It is delightful when old members come out of the woodwork. We also approved twelve of those members ourselves. We have 85 people currently working on personas, some of which we expect to be finished soon. The Queen's Own website has had over 13,500 visitors this year! The Delphi forum for members has about 350 posts, which is nearly one a day. The subjects cover many of our common interests and are a great way to get to know each other. This is one of my favorite ways to find out how you all are doing.
 
-Secondly, I was asked recently by a friend "Why should I join Queen�s Own? It seems like a lot of work when I can read the newsletters with art for free." Our club is so much more than receiving the newsletter in your box on the first of each month. You get invited to the private areas of Queen�s Own including the Delphi forum and chat as well as the e-mail chats. This summer there are at least three get-togethers in Southern California for Queen�s Own members, and others are being planned around the world. I think one of the best things about becoming a member is creating your persona. Misty really wants to emphasize education in her club as well as community service. Danya and I wholeheartedly support both pursuits. It was one of our reasons for continuing the club. In Queen�s Own you meet lots of like-minded people-I know I have.
+Secondly, I was asked recently by a friend "Why should I join Queen's Own? It seems like a lot of work when I can read the newsletters with art for free." Our club is so much more than receiving the newsletter in your box on the first of each month. You get invited to the private areas of Queen's Own including the Delphi forum and chat as well as the e-mail chats. This summer there are at least three get-togethers in Southern California for Queen's Own members, and others are being planned around the world. I think one of the best things about becoming a member is creating your persona. Misty really wants to emphasize education in her club as well as community service. Danya and I wholeheartedly support both pursuits. It was one of our reasons for continuing the club. In Queen's Own you meet lots of like-minded people-I know I have.
 
-Lastly, I want to mention *Children of Velgarth*, vol. 2, issue 2, is due out May 1st. Please send all checks to the P.O. Box. I am going to move at the end of May, and I don�t want any lost orders. In case you hadn�t heard Jan Tellevast won the art contest with her "Healer" piece. Everything published in the newsletter and zine from now on will be considered for the art contest, which will be a yearly event. The next winner will be announced April 1, 2002.
+Lastly, I want to mention *Children of Velgarth*, vol. 2, issue 2, is due out May 1st. Please send all checks to the P.O. Box. I am going to move at the end of May, and I don't want any lost orders. In case you hadn't heard Jan Tellevast won the art contest with her "Healer" piece. Everything published in the newsletter and zine from now on will be considered for the art contest, which will be a yearly event. The next winner will be announced April 1, 2002.
 
 On a personal note, my move to California is impending. The movers are packing everything up on the 24th and 25th of May, and everything will be picked up Memorial Day. To make matters more confusing, I am not sure when I am leaving Montana. I can guarantee I will be in California by June 14th and probably sooner. I will also be in California May 10-19 to close escrow on my new house, and my husband is going to a job fair. The best part is I get to stay with my best friend and co-President Danya.
 
@@ -432,8 +420,6 @@ Keep writing my friends; there are two new newsletters, which need submissions.
 Hugs-
 
 Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Fan Messages:
 
@@ -446,16 +432,12 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **White Winds Soceress Shadow Weaver**. I am looking for gothic and sci/fi fantasy events in Ohio/KY/Indiana/West Virginia to merchant at. If you have any info please e-mail [cimeshadow@aol.com](mailto:cimeshadow@aol.com) or snail mail Lisa Brawner at P.O. Box 8335, Lexington, KY 40533-8335.
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - **From: Cime. To: old friends of Cime.** I have not dropped off the face of the earth . I had some extensive illness and surgery and have recovered and have also moved to a house. new address is Cime Shadow Weaver, 2119 Jasmine Dr., Lexington, KY 40504. E-mail is still [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: QO Newsletter.** Needed February 88 through March 91, Queen's Own newsletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - **From: Hanna. To: All.** It looks like I'm back - I'm not completely sure. But in between I've lost contact with some of you. My E-mail is (still) [hanna.b@freeler.nl](mailto:hanna.b@freeler.nl), my new home address is Bloemstraat 131, 1016 KZ Amsterdam, The Netherlands. Hopefully we can renew contact, and new friends are always welcome. You may even drop in … WttW, Hanna
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -476,9 +458,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

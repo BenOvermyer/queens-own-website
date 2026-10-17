@@ -5,10 +5,6 @@ template = "page.html"
 date = 2005-05-01
 [extra]
 legacy_source = "qomay05.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2005/may/"
@@ -28,13 +24,11 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-Happy Mother�s Day to all you moms out there! Hope you have a great day. (We�re supposed to get rain here in Southern California … suppose we should be used to it by now &lt;g>.) The big news this month is that Moonstar has moved. Please make note of her new e-mail address: healermoon@gmail.com. Most of the website should now reflect the change. Let Danya know at shashtah@gmail.com if we missed anything! Moonstar and Danya have now been running QO for five years! Doesn�t seem possible … As they say, �Time flies when you�re having fun� &lt;g>. This year, our ranks have swelled to 582 people with approved personae in Queen�s Own: 474 Heralds, 9 Herald-Mages, 29 Bards, 1 Blue, 22 Healers, 3 Mercenaries, 11 Shin�a�in, 3 Sorceressess, 35 Tayledras and 2 �other� folks. The numbers don�t entirely add up because of some crossover characters like our 5 Shin�a�in-Heralds, 1 Herald-Sorceress and 1 Shin�a�in-Herald-Mercenary. And let�s not forget our stack of 29 NPC�s: 16 Heralds (including 1 Shin�a�in-Herald), 4 Bards, 4 Healers, 1 Kal�enedral, 3 Tayledras and 1 Sorceress. There are 7 active chapters of QO, including 2 online chapters, and several chapters are up for adoption. If you are interested in joining or adopting a chapter, please visit http://www.dragonlordsnet.com/qochap.htm. Publication news: Sanctuary, the third installment of the Dragon Jousters series, is set for release in May; you�ll also be able to pick up Mad Maudlin in paperback, coauthored with Rosemary Edghill. This Rough Magic, coauthored with Eric Flint and Dave Freer, should hit shelves in paperback this June. Bedlam�s Edge, the next installment in the Bedlam�s Bard series coauthored with Rosemary Edghill, is still on track for an August release, as is the re-release of Children of the Night. The fourth and newest installment in Misty�s Elemental Masters series, The Wizard of London, is coming in early October. While you�re there, you can pick up a paperback copy of the third Elemental Masters book, Phoenix and Ashes. Special thanks to Amber Taufen for her help compiling this edition of the Queen�s Own newsletter! We really appreciate the assistance. Have a fantastic Spring!
+Happy Mother's Day to all you moms out there! Hope you have a great day. (We're supposed to get rain here in Southern California … suppose we should be used to it by now &lt;g>.) The big news this month is that Moonstar has moved. Please make note of her new e-mail address: healermoon@gmail.com. Most of the website should now reflect the change. Let Danya know at shashtah@gmail.com if we missed anything! Moonstar and Danya have now been running QO for five years! Doesn't seem possible … As they say, 'Time flies when you're having fun' &lt;g>. This year, our ranks have swelled to 582 people with approved personae in Queen's Own: 474 Heralds, 9 Herald-Mages, 29 Bards, 1 Blue, 22 Healers, 3 Mercenaries, 11 Shin'a'in, 3 Sorceressess, 35 Tayledras and 2 'other' folks. The numbers don't entirely add up because of some crossover characters like our 5 Shin'a'in-Heralds, 1 Herald-Sorceress and 1 Shin'a'in-Herald-Mercenary. And let's not forget our stack of 29 NPC's: 16 Heralds (including 1 Shin'a'in-Herald), 4 Bards, 4 Healers, 1 Kal'enedral, 3 Tayledras and 1 Sorceress. There are 7 active chapters of QO, including 2 online chapters, and several chapters are up for adoption. If you are interested in joining or adopting a chapter, please visit http://www.dragonlordsnet.com/qochap.htm. Publication news: Sanctuary, the third installment of the Dragon Jousters series, is set for release in May; you'll also be able to pick up Mad Maudlin in paperback, coauthored with Rosemary Edghill. This Rough Magic, coauthored with Eric Flint and Dave Freer, should hit shelves in paperback this June. Bedlam's Edge, the next installment in the Bedlam's Bard series coauthored with Rosemary Edghill, is still on track for an August release, as is the re-release of Children of the Night. The fourth and newest installment in Misty's Elemental Masters series, The Wizard of London, is coming in early October. While you're there, you can pick up a paperback copy of the third Elemental Masters book, Phoenix and Ashes. Special thanks to Amber Taufen for her help compiling this edition of the Queen's Own newsletter! We really appreciate the assistance. Have a fantastic Spring!
 
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -64,7 +58,7 @@ Here are the Faires we know about for May. Faires are indexed alphabetically by 
 
 ### Georgia
 
-**GEORGIA RENAISSANCE FESTIVAL.** E-mail: [info@garenfest.com](mailto:info@garenfest.com). Website: [http://www.georgiarenaissancefestival.com](http://www.georgiarenaissancefestival.com). Address: Norma Pope, P.O. Box 986, Fairburn, GA, 30213. Dates: 4/16/05 � 6/5/05. Open/Close: 10:30 a.m. - 6 p.m.
+**GEORGIA RENAISSANCE FESTIVAL.** E-mail: [info@garenfest.com](mailto:info@garenfest.com). Website: [http://www.georgiarenaissancefestival.com](http://www.georgiarenaissancefestival.com). Address: Norma Pope, P.O. Box 986, Fairburn, GA, 30213. Dates: 4/16/05 ' 6/5/05. Open/Close: 10:30 a.m. - 6 p.m.
 
 ### Iowa
 
@@ -94,7 +88,7 @@ Here are the Faires we know about for May. Faires are indexed alphabetically by 
 
 ### New Jersey
 
-**MYSTIC REALMS FANTASY FESTIVAL.** E-mail: [mellish@mysicrealms.com](mailto:mellish@mysicrealms.com). Website: [http://www.mysticrealms.com](http://www.mysticrealms.com). Address: P.O. Box 267, Pittman, NJ, 08071. Site Address: 12A Watsontown-New Freedom Rd., Pine Hill, NJ. Dates: 5/7/05-5/8/05. Open/Close: 11 a.m. � 5:30 p.m.
+**MYSTIC REALMS FANTASY FESTIVAL.** E-mail: [mellish@mysicrealms.com](mailto:mellish@mysicrealms.com). Website: [http://www.mysticrealms.com](http://www.mysticrealms.com). Address: P.O. Box 267, Pittman, NJ, 08071. Site Address: 12A Watsontown-New Freedom Rd., Pine Hill, NJ. Dates: 5/7/05-5/8/05. Open/Close: 11 a.m. ' 5:30 p.m.
 
 **WEST WINDSOR LIONS RENAISSANCE FAIRE.** Website: [http://www.eastkingdom.org](http://www.eastkingdom.org). Address: West Windsor Lions Club of NJ, P.O. Box 295, Princeton Junction, NJ, 08550. Site Address: Mercer County Park Skating Rink, Old Trenton Rd., Trenton, NJ. Dates: 5/20/05-5/22/05. Open/Close: 10 a.m. - 5 p.m.
 
@@ -130,7 +124,7 @@ Here are the Faires we know about for May. Faires are indexed alphabetically by 
 
 ### Texas
 
-**SCARBOROUGH FAIRE, THE RENAISSANCE FESTIVAL.** E-mail: [office@scarboroughrenfest.com](mailto:office@scarboroughrenfest.com). Website: [http://www.scarboroughrenfest.com](http://www.scarboroughrenfest.com). Address: Southwest Festivals, Inc., Coy Sevier, PO Box 538, Waxahachie, TX, 75168. Site Address: 2511 FM66, Waxahachie, TX. Dates: 4/9/05 � 5/30/05. Open/Close: 10 a.m. - 7 p.m.
+**SCARBOROUGH FAIRE, THE RENAISSANCE FESTIVAL.** E-mail: [office@scarboroughrenfest.com](mailto:office@scarboroughrenfest.com). Website: [http://www.scarboroughrenfest.com](http://www.scarboroughrenfest.com). Address: Southwest Festivals, Inc., Coy Sevier, PO Box 538, Waxahachie, TX, 75168. Site Address: 2511 FM66, Waxahachie, TX. Dates: 4/9/05 ' 5/30/05. Open/Close: 10 a.m. - 7 p.m.
 
 ### Virginia
 
@@ -156,15 +150,15 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Maryland
 
-**MARYLAND REGIONAL SCIENCE FICTION AND FANTASY CONVENTION.** Website: [http://www.balticon.org](http://www.balticon.org). E-mail: [balticoninfo@balticon.org](mailto:balticoninfo@balticon.org). Site address: Wyndham Baltimore � Inner Harbor, 101 W. Fayette St., Baltimore, MD. Dates: 5/27/05-5/30/05.
+**MARYLAND REGIONAL SCIENCE FICTION AND FANTASY CONVENTION.** Website: [http://www.balticon.org](http://www.balticon.org). E-mail: [balticoninfo@balticon.org](mailto:balticoninfo@balticon.org). Site address: Wyndham Baltimore ' Inner Harbor, 101 W. Fayette St., Baltimore, MD. Dates: 5/27/05-5/30/05.
 
 ### Minnesota
 
-**CONVERGENCE.** E-mail: [info@convergence-con.org](mailto:info@convergence-con.org). Website: [http://www.convergence-con.org/](http://www.convergence-con.org/). Address: 1437 Marshall Avenue, Suite 203, St. Paul, MN, 55104. Site Address: Sheraton South, 7800 Normandale Blvd., Bloomington, MN, 55435. Dates: 7/1/05 � 7/3/05. **Guests: Mercedes Lackey and Larry Dixon!**
+**CONVERGENCE.** E-mail: [info@convergence-con.org](mailto:info@convergence-con.org). Website: [http://www.convergence-con.org/](http://www.convergence-con.org/). Address: 1437 Marshall Avenue, Suite 203, St. Paul, MN, 55104. Site Address: Sheraton South, 7800 Normandale Blvd., Bloomington, MN, 55435. Dates: 7/1/05 ' 7/3/05. **Guests: Mercedes Lackey and Larry Dixon!**
 
 ### Montana
 
-**MISCON19.** Website: [http://www.miscon.org](http://www.miscon.org). Site address: Ruby�s Inn & Convention Center, 4825 North Reserve, Missoula, MT. Dates: 5/27/05-5/30/05.
+**MISCON19.** Website: [http://www.miscon.org](http://www.miscon.org). Site address: Ruby's Inn & Convention Center, 4825 North Reserve, Missoula, MT. Dates: 5/27/05-5/30/05.
 
 ### Ohio
 
@@ -176,7 +170,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Utah
 
-**COSTUMECON 23.** Website: [http://www.costume-con.org/CClink/CC23.shtml](http://www.costume-con.org/CClink/CC23.shtml). E-mail: [cgalway@xmission.com](mailto:cgalway@xmission.com). Address: Marriott Hotel, Ogden, Salt Lake City, Utah. Dates: 4/29/05 � 5/2/05.
+**COSTUMECON 23.** Website: [http://www.costume-con.org/CClink/CC23.shtml](http://www.costume-con.org/CClink/CC23.shtml). E-mail: [cgalway@xmission.com](mailto:cgalway@xmission.com). Address: Marriott Hotel, Ogden, Salt Lake City, Utah. Dates: 4/29/05 ' 5/2/05.
 
 **CONDUIT XV.** E-mail: [info@conduit.sfcon.org](mailto:info@conduit.sfcon.org). Website: [http://conduit.sfcon.org/CONduit/](http://conduit.sfcon.org/CONduit/). Address: Prime Hotel Salt Lake City Convention Center, 215 W. South Temple, Salt Lake City, Utah. Dates: 5/27/05-5/29/05.
 
@@ -209,7 +203,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 ### Zines and Newsletters:
 
 - ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. E-mail: [healermoon@gmail.com](mailto:healermoon@gmail.com). I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Issues 4, 5 and 6 are currently in the editing stages! Each zine will have about 10 personas for a total of 30 personas that have been accepted in the last couple of years. For the contents list for issues 1,2, and 3 and additional information, visit [Children of Velgarth](/children-of-velgarth/).
-- ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **&#42;&#42; If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don�t hear from you by September 2003, I will have to drop your contribution from the zine. &#42;&#42;** Volume Nine is open to submissions. Current prices (not including shipping) are:
+- ***Companions' Grove:*** still needs stories, and artists to illustrate stories! (Remember, all contributors get a free copy of the zine in which their work appears.) Volume Eight is full, and awaiting the illustrations and final layout. **&#42;&#42; If you contributed a story or promised me artwork for Volume Eight and have not heard from me recently, please get in touch with me, as I had to reformat my hard drive and lost my zine correspondence and address book earlier this year. If I don't hear from you by September 2003, I will have to drop your contribution from the zine. &#42;&#42;** Volume Nine is open to submissions. Current prices (not including shipping) are:
 
   - *Companions' Grove* Volume One - $4.75 (40 pages, color cover)
   - *Companions' Grove* Volume Two - $6.35 (56 pages, color cover)
@@ -232,14 +226,12 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
   Except as noted, zines are printed on high-quality, bright white paper, comb bound, with cardstock covers. Story excerpts and cover art-as well as submission guidelines and PayPal ordering information-can be found at [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm). To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N. Kelishan St., Pahrump, NV 89060.
 
-  **Note regarding *Shards of Autumn*:** While this zine is officially out of print and no longer available on the website, a few copies are left over from convention appearances. Any remaining copies from MediaWest will be available at that con until they sell out; the others are being returned to me and will be auctioned off at [http://www.auctionfen.com](http://www.auctionfen.com) until they are gone. I also occasionally auction off zines which returned from cons a bit shopworn, so it�s a good site to check periodically.
+  **Note regarding *Shards of Autumn*:** While this zine is officially out of print and no longer available on the website, a few copies are left over from convention appearances. Any remaining copies from MediaWest will be available at that con until they sell out; the others are being returned to me and will be auctioned off at [http://www.auctionfen.com](http://www.auctionfen.com) until they are gone. I also occasionally auction off zines which returned from cons a bit shopworn, so it's a good site to check periodically.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). E-mail:submission instructions:
 
   1. Subject line must read "For Karen." (Anything else will be erased as a potential virus hazard.)
   2. Do not use strange fonts, which my computer will not recognize.
   3. E-mail:it to [gbertke@fuse.net](mailto:gbertke@fuse.net). (This is my father's e-mail address. Use it for submissions for Herald's Companion only.)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -254,8 +246,6 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Herald Antalyah and her daughter" class="border-5 float-right" loading="lazy" src="/qo250.jpg"/>
 
 ### Collegium News:
@@ -268,11 +258,11 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 We have no new personae to announce this month, but several people are very close to completion. If you were working on a persona who is no longer listed at [Club chat guidance](/club-chat/) that means we have not heard from you in over a year. To revive your persona, simply message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) and tell her that your persona is in "Deep Storage." She will pull it out for you and reactivate your submission.
 
-If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
+If you are a returning member who has recently activated your membership in Queen's Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she'll make sure you are greeted in the next newsletter.
 
 ### Lost …
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don't always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
 - Bard Revelin Tionne (sazimarc@mindspring.com)
 - Bard Valiena (laughsong@aol.com)
@@ -305,7 +295,7 @@ If you know any of these folks, please have them contact Danya at [shashtah@gmai
 
 ### From Healer Adept Moonstar:
 
-Surrounded by boxes, heaving a sigh of relief that the cable guy finally set up the Internet, I am nearly done moving and have vowed to save money to hire an actual moving company next time.� I have just a few boxes left at my old apartment, and no time to unpack the boxes in my new apartment. As I have thrown out my shoulder and am on strict doctor's orders to do nothing for the next few days.
+Surrounded by boxes, heaving a sigh of relief that the cable guy finally set up the Internet, I am nearly done moving and have vowed to save money to hire an actual moving company next time.' I have just a few boxes left at my old apartment, and no time to unpack the boxes in my new apartment. As I have thrown out my shoulder and am on strict doctor's orders to do nothing for the next few days.
 
 Added to the move was the heart break of finding all my four footed babies homes. Trying to move with any pets is difficult and to move with the amount I had was impossible. The only apartment that was in my price range was out of reach with additional pet deposit and rent. They have all gone to various rescues, all of which I need to thank. I have a big gaping hole in my heart, I am happy that I can visit Sasha, my shepherd mix I have had for 12 years and happy that my breeder will likely keep my kittens until next year when I am fairly sure I will be in a better financial position to afford to pay the additional apartment fees for animals.
 
@@ -317,18 +307,14 @@ Hugs-
 
 Moonstar
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
-- **From Cliff Hunter:** I�m looking for a penpal I used to know through QO. Her name is Dara Murphy. Anyone with information about how I can contact her, please e-mail me at [DeathrockCliffy@aol.com](mailto:DeathrockCliffy@aol.com).
-- **From Jennifer M. Mackay/Herald Mallea D'Lar.** I have a new email address: [mackayjenn@yahoo.com](mailto:mackayjenn@yahoo.com)! SNAIL MAIL:�PO BOX 66408, Portland, OR 97290. If you like to read, I'm your girl. Just give me a book and a quiet nook--I'm happy! �Misty, Tad Williams, J.R.R. Tolkien,�Mindy Klasky (Glasswright series), DragonLance (the M. Weiss/T. Hickman original books and new), SF Classics like H.G. Wells, George Orwell, ect., ect. I'm about to sink my teeth into David Eddings on my sister's recommendations. I just finished watching SEVEN seasons of Buffy the Vampire Slayer. That was fun! I've gone through�all NINE years of The X-Files. I'm a huge X-Files fanatic. (Did I forget to mention my love affair with box sets on DVD?) I'm a fan of every Star Trek show made, Star Wars, Battlestar Galactica (got my box set), Babylon 5, Quantum Leap, and just about anything else that grabs my attention.If you wish you could take a trip to the moon, or just get out of Mundania for awhile, please feel free to drop me a line!
+- **From Cliff Hunter:** I'm looking for a penpal I used to know through QO. Her name is Dara Murphy. Anyone with information about how I can contact her, please e-mail me at [DeathrockCliffy@aol.com](mailto:DeathrockCliffy@aol.com).
+- **From Jennifer M. Mackay/Herald Mallea D'Lar.** I have a new email address: [mackayjenn@yahoo.com](mailto:mackayjenn@yahoo.com)! SNAIL MAIL:'PO BOX 66408, Portland, OR 97290. If you like to read, I'm your girl. Just give me a book and a quiet nook--I'm happy! 'Misty, Tad Williams, J.R.R. Tolkien,'Mindy Klasky (Glasswright series), DragonLance (the M. Weiss/T. Hickman original books and new), SF Classics like H.G. Wells, George Orwell, ect., ect. I'm about to sink my teeth into David Eddings on my sister's recommendations. I just finished watching SEVEN seasons of Buffy the Vampire Slayer. That was fun! I've gone through'all NINE years of The X-Files. I'm a huge X-Files fanatic. (Did I forget to mention my love affair with box sets on DVD?) I'm a fan of every Star Trek show made, Star Wars, Battlestar Galactica (got my box set), Babylon 5, Quantum Leap, and just about anything else that grabs my attention.If you wish you could take a trip to the moon, or just get out of Mundania for awhile, please feel free to drop me a line!
 - **From Ellen Million:** Not only is Ellen Million Graphics still around (ten years last October!), but I now offer an array of gorgeous new work by new artists, on many new products (including t-shirts!) and a brand new character portrait service. Ordering is available on-line or by snail mail: [http://www.ellenmilliongraphics.com](http://www.ellenmilliongraphics.com). I'd also love to get back in touch with lost penpals! (Use the contact form on the website to avoid death-by-spam-filters!)
 - **From Herald Valana Dorrandale/Rachel Valentine:** 21-year-old college student needs relief from mundania! I enjoy Misty, Anne Rice, Mickey Zucker Riechert, Robert Jordan, Fiona Patton, Tanya Huff, C.S. Friedman etc. B5, Star Trek, Star Wars, Highlander, LOTR,all kinds of music, scaly and furry animals, Garfield, writing, drawing, singing, playing guitar, horseback riding, traveling and much more. Do you like this stuff?? Write me! **TO: Robin S., Bess H., Bard Shiana, Harold P.:** Are you all still QO members?? Please write me; I've missed you guys! E-mail: [raeval23@yahoo.com](mailto:raeval23@yahoo.com).
-- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
+- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen's Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -349,9 +335,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

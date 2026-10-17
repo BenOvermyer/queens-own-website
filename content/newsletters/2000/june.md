@@ -5,10 +5,6 @@ template = "page.html"
 date = 2000-06-01
 [extra]
 legacy_source = "qojun00.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2000/june/"
@@ -32,8 +28,6 @@ Many of you know Herald-Mage Master Danya and I from work we have done in other 
 
 **Healer Adept Moonstar**
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 1. Tell us about your family.
 
   I've been married for 12-1/2 years to Dan Malcor, whom I met when I was a freshman and he was a sophomore in high school. We were both raised in Alhambra, California. We got engaged shortly after I finished my freshman year of college. We were married seven years later, when Dan completed his service as a Nuclear Reactor Operator for the US Navy. (Dan now works as a Unix Systems Administrator.) We have a three-year-old son, Joseph, and we are expecting our second child in November. Our family homepage is at [http://members.aol.com/drmalcor/index.htm](http://members.aol.com/drmalcor/index.htm). For more details about me personally, visit [http://www.dragonlordsnet.com/author.htm](https://dragonlords.fans/author.htm).
@@ -46,7 +40,7 @@ Many of you know Herald-Mage Master Danya and I from work we have done in other 
 4. When did you join Queen's Own?
 
   I started taking the newsletter sometime in the Fall of 1995, and Danya was approved in March of 1996. I think it's very important for fantasy fiction writers in particular to belong to fandoms, so when I shifted careers from being a screenwriter to specializing in fantasy fiction, I joined several fandoms. Queen's Own and my own Dragonlords are the only two I'm still with.
-5. What got you hooked on Misty�s books?
+5. What got you hooked on Misty's books?
 
   I had a homophobic friend who had received the Last Herald Mage trilogy as a gift and who could not handle it when he realized that Van was turning out to be gay. He knew that I did a lot of work for gay rights and AIDS relief and that I frequently write fiction about characters who are gay, so he gave me the trilogy. I read it … and after I threw the last book across the room and stormed about the apartment for the rest of the night, I went out to Barnes & Noble and picked up absolutely everything else I could find that Misty had ever written &lt;G>.
 6. What else do you read?
@@ -58,14 +52,12 @@ Many of you know Herald-Mage Master Danya and I from work we have done in other 
 8. What was the first con you went to?
 
   Believe it or not, the first (and only) con that I've ever made it to was the Battlestar Galactica 20-Year Reunion in September of 1998.
-9. What other projects besides Queen�s Own occupy your time?
+9. What other projects besides Queen's Own occupy your time?
 
   ::chuckle:: This is where I deliver my mini-lecture about how I can't stand to have people tell me they don't have time to something &lt;g>. In addition to helping run QO and raising a three-year-old and maintaining a household (including the gardening), I work as a freelance writer (primarily nonfiction books and articles and fiction short stories these days, though I was a screenwriter for ten years), serve as an elder for St. Mark Presbyterian Church of Newport Beach, serve as Moderator of the Social Justice Ministries Committee for the Los Ranchos Presbytery, serve as Moderator of More Light Presbyterians for Orange County, serve as liaison to the national board of More Light Presbyterians for Orange County, maintain over half a dozen websites (ranging from church-related to personal to professional business sites), run an online writing group, run my own online fan club (Dragonlords), manage the Dragonlords bookstore online, lecture by invitation, sit on a doctoral committee for a student who is working on a degree in mythology, attend local academic conferences, support my local chapter of Log Cabin Republicans, pass around petitions for ballot measures I support and campaign against those I oppose, write letters to local newspapers about various social issues, play the piano, go to movies, participate in a sing-along group in San Diego, entertain family and friends, process about 700 to 800 e-mail messages per day, and probably several dozen other things I've forgotten to mention &lt;G>.
-10. What do you like the best about Queen�s Own?
+10. What do you like the best about Queen's Own?
 
   I adore the emphasis on education and social responsibility within the club. I've participate in several other fandoms, and Misty's is quite unique in the way it encourages fans to become involved in the real world and to make a difference with their lives.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Ren Faires:
 
@@ -155,8 +147,6 @@ POLYCON XVIII. E-mail: [polycon-info@polycon.punk.net](mailto:polycon-info@polyc
 
 SLUG-A-THON 22: A GAMING CONVENTION. E-mail: [slugathon@slugathon.com](mailto:slugathon@slugathon.com). Website: [http://www.slugathon.com](http://www.slugathon.com/). Site Address: Santa Clara Convention Center, 5001 Great America Parkway, Santa Clara, CA. Dates: 6/17/00.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Compass Rose Logo by Laura Cameron" class="border-3" loading="lazy" src="/comprose.jpg"/>
 
 ## Member News:
@@ -178,8 +168,6 @@ Note: **Arrows OnLine**has declared on its AOL message boards that it is no long
 - ***Collegium Chronicles*:** The Venerable Pacific Northwest Collegium is looking for a few good writers and artists for its newsletter *Collegium Chronicles*. It would e preferable if folks had e-mail access. I am looking for stories that are primarily fantasy--QO persona requirements are acceptable, so long as they are in story format. Poetry, articles and essays also welcome. Come join us in what will be the final year of this nearly decade-long newsletter. $8 per year/$4 for a half-year, $2 per issue. Final issue will be June/July of 2001. Get your dues in early reap the full benefits! Great artwork (see our webpage at [Collegium Chronicles](/pacific-northwest-collegium/)) great stories, news of local events in the Pacific Northwest area. All are welcome. Send general inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (P.S. If anyone is interested in taking over the Chronicles after next summer, let me know! I'd hate to see such a noble creature die out.)
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Other Fandoms:
 
@@ -226,8 +214,6 @@ As fans, I strongly urge you to go to Ren Faires and Conventions (and help work 
 
 Finally, a plea for patronage &lt;g>. The Queen's Own site is hosted by Dragonlords of Dumnonia ([http://www.dragonlordsnet.com](https://dragonlords.fans/index.html)), and the Dragonlords Bookstore ([http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm)) is the means by which Dragonlords pays for bandwidth, the PO Box, webspace, postage and the zillion other little expenses that go into running a fan club. A portion of every purchase made through the Dragonlords Bookstore goes to help defray these costs. So when you buy books, videos, CDs, etc., please consider doing so through the Dragonlords Bookstore. You'll be helping to support the group that is financially supporting Queen's Own.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Kaylan and Adele by Laura Cameron" class="border-3" loading="lazy" src="/cc12.gif"/>
 
 ## Fan Messages:
@@ -241,8 +227,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - From Healer Adept Moonstar. To Eric: Thank you very much for the copies of April 91-October 95 newsletters! Is there any way I can repay you?
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <img alt="Windrider by Anthony Barton" class="border-5" loading="lazy" src="/qopic3.jpg"/>
 
 ## Personals:
@@ -250,8 +234,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - What a long strange trip it's been - I just realized I've been QO's **Free Bard Magpie** (before the other one) since '93 - eek! Anyway, I am currently performing with "Minstrosity". We released our first album, entitled "Oh, Fie!", last summer, and we can be found this season at the Mansfield Faire and the Bristol Renaissance Faire. For more info on Minstrosity, check out [http://pages.ripco.net/~jmthane](http://pages.ripco.net/~jmthane) or contact me at [zski@ripco.com](mailto:zski@ripco.com).
 - To **Herald Mage Journeyman Danya Winterborn** and **Healer Adept Moonstar** from **Jens**. Way to go on the new incarnation of Queen's Own! I love it.
 - To **An'talyah Brighthawk** from **Jens**. Just had to harass you a bit. Thanks for being around through so many issues (and now the 3rd incarnation!) of QO for me.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -272,9 +254,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

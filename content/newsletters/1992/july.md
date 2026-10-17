@@ -5,10 +5,6 @@ template = "page.html"
 date = 1992-07-01
 [extra]
 legacy_source = "qojul92.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1992/july/"
@@ -74,7 +70,7 @@ All our zines need stories and artwork! You want to be a writer or artist? Suppo
 
 The GEnie Chapter (Modems of the Queen) is growing by leaps and bounds. Anyone interested should contact April Masters e-mail at [Ed note 2004: Out-of-date contact info. withheld.]. For those who have a computer and modem but aren't online, send a SASE via USMAIL to [Ed note 2004: Out-of-date contact info. withheld.], and she'll send info about how to sign on to GEnie and where to find them. Valdemar Voices, Modem's fanzine is opening up submissions to everyone. Send a SASE for information and guidelines. Send SASE's too for information on an Atlanta chapter of QO and for the address of World Fantasy Con in Pine Mountain, GA October 29-November 1, where Anne McCaffrey is GoH. All inquiries go to April Masters [Ed note 2004: Out-of-date contact info. withheld.].
 
-Hark! The Pacific Winds Collegium is completed! Shadowl, the editor-in-chief says "We are very, very vacant! We need Heralds, Bards, Healers, writers, artists, and anyone else who is interested. Please write to Shadowl, c/o [Ed note 2004: Out-of-date contact info. withheld.]. Please include 30 cents for your first stamp. Our first newsletter will be out in mid�August."
+Hark! The Pacific Winds Collegium is completed! Shadowl, the editor-in-chief says "We are very, very vacant! We need Heralds, Bards, Healers, writers, artists, and anyone else who is interested. Please write to Shadowl, c/o [Ed note 2004: Out-of-date contact info. withheld.]. Please include 30 cents for your first stamp. Our first newsletter will be out in mid'August."
 
 "Heyla to all members of Haven Sent, the Texas QO Chapter. Fear not, things will soon be back on track. I have taken over the chapter leadership and am trying to get everything together. Any new or old members, feel free to write me (SASE's please!) with suggestions, ideas, etc. Hopefully, the first newsletter can go out soon. Write [Ed note 2004: Out-of-date contact info. withheld.]"
 
@@ -126,8 +122,6 @@ Have a glorious summer! Judith
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -141,9 +135,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

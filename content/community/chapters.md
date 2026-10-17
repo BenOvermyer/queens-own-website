@@ -4,21 +4,11 @@ path = "chapters"
 template = "page.html"
 [extra]
 legacy_source = "qochap.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "community"
 canonical_path = "/chapters/"
 revised = "11/21/20"
 +++
-
-## Queen's Own
-
-## Chapters
-
-<img alt="" loading="lazy" src="/book2.gif"/>
 
 Looking for folks involved in Misty's fandom in your region? Check out the chapters of Queen's Own! (Note: You do not need to be a member of Queen's Own in order to join most chapters.)
 
@@ -58,5 +48,3 @@ If you would rather start a chapter from scratch, contact [Herald-Mage Adept Dan
 A chapter may advertise for members in the QO newsletter and solicit members on the QO chatlist. A chapter can also run an ad about the newsletter or fanzine (if any) that the group publishes. Contact [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com) to place ads or if you would like me to interview you about your organization for the QO newsletter.
 
 <img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

@@ -5,10 +5,6 @@ template = "page.html"
 date = 2002-05-01
 [extra]
 legacy_source = "qomay02.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2002/may/"
@@ -28,17 +24,17 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-Wow! Can you believe it? This is our second anniversary issue! A lot of things have happened over the past two years, some of which Moonstar details in this month�s note from her. We have had over 53,600 hits to our website, and our traffic continues to grow every week. We are tremendously grateful for the prominent mention we received in *The Valdemar Companion*, which has helped many former members find us and which has led dozens of future members to us as well. We continue to add and revive chapters. (See their ads below.) We have added an overview of our regional chapters at [Chapter directory](/chapters/). Check it out! Please help support your local QO organization. This is part of how we keep our fantastic zines running!
+Wow! Can you believe it? This is our second anniversary issue! A lot of things have happened over the past two years, some of which Moonstar details in this month's note from her. We have had over 53,600 hits to our website, and our traffic continues to grow every week. We are tremendously grateful for the prominent mention we received in *The Valdemar Companion*, which has helped many former members find us and which has led dozens of future members to us as well. We continue to add and revive chapters. (See their ads below.) We have added an overview of our regional chapters at [Chapter directory](/chapters/). Check it out! Please help support your local QO organization. This is part of how we keep our fantastic zines running!
 
 On a related note, Tayledras Royal k'Vesia, the new Dean Arrows Online, a Chapter of Queen's Own, invites you to join him for:
 
 Mercedes Lackey's Book Chat Discussion Wednesday Nights 9-10 EST Reading Room on AOL
 
-This discussion is open to anyone who loves Mercedes Lackey�s works; you do not have to be a member of Arrows or QO to participate. Check out the Arrows message boards for the weekly topic.
+This discussion is open to anyone who loves Mercedes Lackey's works; you do not have to be a member of Arrows or QO to participate. Check out the Arrows message boards for the weekly topic.
 
-The official QO trip to the Southern California Renaissance Pleasure Faire (which was featured in Bedlam�s Bard) will be May 19th. If you are planning to attend, let us know so we can make arrangements to meet you either at the front gate at opening or elsewhere during the day.
+The official QO trip to the Southern California Renaissance Pleasure Faire (which was featured in Bedlam's Bard) will be May 19th. If you are planning to attend, let us know so we can make arrangements to meet you either at the front gate at opening or elsewhere during the day.
 
-Do you have a school paper you are particularly proud of or an article that you have written? Perhaps you�ve seen a movie or read a book and would like to share your thoughts? The Compass Rose, our nonfiction journal, is taking submissions for the next issue, which will hopefully be out in June. You can find submission details at [About The Compass Rose](/compass-rose/about/).
+Do you have a school paper you are particularly proud of or an article that you have written? Perhaps you've seen a movie or read a book and would like to share your thoughts? The Compass Rose, our nonfiction journal, is taking submissions for the next issue, which will hopefully be out in June. You can find submission details at [About The Compass Rose](/compass-rose/about/).
 
 On the non-Misty front, Ron Brown of RB Publishing sent us the following message:
 
@@ -46,13 +42,11 @@ On the non-Misty front, Ron Brown of RB Publishing sent us the following message
 
 It looks as if *Battlestar Galactica* will become a 4-hour miniseries, featuring some of the original cast. This endeavor is a tribute to the power of fans to influence what we read and see. For more details, visit [http://www.battlestarfanclub.com](http://www.battlestarfanclub.com).
 
-Our interviewee for this issue is Jaime Paz (aka Scout Brightshadow k'Vala), one of the co-Presidents of Golden Grove, the California chapter of Queen�s Own.
+Our interviewee for this issue is Jaime Paz (aka Scout Brightshadow k'Vala), one of the co-Presidents of Golden Grove, the California chapter of Queen's Own.
 
 Zhai'helleva,
 
 Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 1. **When did you join Queen's Own?**
 
@@ -83,9 +77,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   Any at all, as long as it's based on QO. I'm actually planning myself in submitting a few stories I'm writing up to the fanzine (as well as to the other fanzines)
 10. **What other projects besides Queen's Own occupy your time?**
 
-  A story set in the time of Heralds of Valdemar series, only after the events of the Mages Storms and Darian�s tale. About another Eastern Empire attack and the return of a demon. More on that later …
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
+  A story set in the time of Heralds of Valdemar series, only after the events of the Mages Storms and Darian's tale. About another Eastern Empire attack and the return of a demon. More on that later …
 
 ## Ren Faires:
 
@@ -149,7 +141,7 @@ Here are the faires we know about that are happening in May. Faires are indexed 
 
 **MEDIEVAL AND RENAISSANCE FAIRE AT OHIO STATE UNIV.** E-mail: [cmrf@osu.edu](mailto:cmrf@osu.edu). Website: [http://www.osu.edu/students/cmrf/](http://www.osu.edu/students/cmrf/). Address: Council for the Medieval and Renaissance Faire, P.O. Box 3614, Columbus, OH, 43210. Site Address: South Oval at Ohio State University. Dates: 5/4/02. Open/Close: 11:00 AM - 6:00 PM.
 
-**RAVENWOOD CASTLE SPRING FAIRE.** E-mail: [castle@ohiohills.com](mailto:castle@ohiohills.com). Website: [http://www.ravenwoodcastle.com](http://www.ravenwoodcastle.com). Address: Sue Maxwell, Ravenwood Castle, 65666 Bethel Rd., New Plymouth, OH, 45654. Dates: 5/18/02 - 5/19/02. Open/Close: 10:00 AM - � 5:00 PM.
+**RAVENWOOD CASTLE SPRING FAIRE.** E-mail: [castle@ohiohills.com](mailto:castle@ohiohills.com). Website: [http://www.ravenwoodcastle.com](http://www.ravenwoodcastle.com). Address: Sue Maxwell, Ravenwood Castle, 65666 Bethel Rd., New Plymouth, OH, 45654. Dates: 5/18/02 - 5/19/02. Open/Close: 10:00 AM - ' 5:00 PM.
 
 ### Oklahoma
 
@@ -391,7 +383,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Sweden
 
-**LINCON 2002.** Website: [http://www.sverok.se/lincon/](http://www.sverok.se/lincon/). E-mail: [isse_h@hotmail.com](mailto:isse_h@hotmail.com). Address: Anders Ljungstedts Gymnasium, Link�ping, Sweden. Dates: 5/8/02 - 5/12/02.
+**LINCON 2002.** Website: [http://www.sverok.se/lincon/](http://www.sverok.se/lincon/). E-mail: [isse_h@hotmail.com](mailto:isse_h@hotmail.com). Address: Anders Ljungstedts Gymnasium, Link'ping, Sweden. Dates: 5/8/02 - 5/12/02.
 
 ### United Kingdom
 
@@ -411,15 +403,13 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Member News:
 
 For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send $1.00 and a $0.34 stamp (or $1.00 and 2 IRCs) to Queen's Own, P.O. Box 749, Laguna Beach, CA, 92652. Make checks payable to "Linda Malcor" in US funds only.
 
 ### Local chapters:
 
-- **Arrows OnLine:** Check us out! *Arrows OnLine* is the official online chapter of Queen�s Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion�s Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey�s Fiction**, is a general discussion of Misty�s books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Tayledras Scout Nightwisp "Royal" k'Jeia, at [Tayledrasroyal@aol.com](mailto:Tayledrasroyal@aol.com).
+- **Arrows OnLine:** Check us out! *Arrows OnLine* is the official online chapter of Queen's Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion's Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey's Fiction**, is a general discussion of Misty's books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Tayledras Scout Nightwisp "Royal" k'Jeia, at [Tayledrasroyal@aol.com](mailto:Tayledrasroyal@aol.com).
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
@@ -428,13 +418,11 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au). We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas. (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!) The cost of membership covers postage and printing - we're a strictly not-for-profit group. If you are interested in more information, or have stories or other submissions that you would like to see published, contact me! **Attention all writers and artists:**Austral'a'in is desperately seeking submissions. We are also always looking for new members. Please? Contact me (Cassandra) at [garou@netspeed.com.au](mailto:garou@netspeed.com.au) for details!
-- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
-- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists�particularly artists willing to illustrate stories! I hope to have CG7 and Royce Day's novella, "Valdemarred" out soon; I'm just waiting on the art to finish those up. *Cat's Cradle* (2002): Written by Heather Arnold. Illustrated by Marian Crane. 76 pages, comb bound, cardstock cover. Set in the SERRAted Edge universe. A human family gets caught in the crossfire of Elven intrigues, with only one survivor. Now, that survivor is being hunted, and can trust no one to help. Price: $8.75 first class U.S.; $10.75 Canada; $13.75 International Airmail Please visit [http://www.greendragonpress.net/cradle.htm](http://www.greendragonpress.net/cradle.htm) for an excerpt from the zine, and a look at the cover. Additionally, the original six issues of *Companions� Grove* are now available as a set for $30.50 in the US (outside of the US, please e-mail me and I�ll get back to you with the price). *The Danya Winterborn Saga* by Linda Malcor is available for $6.00 in the US. Three more old Valdemar zines are now back in print: "Fire Eyes" (43 pgs, $5.25 in the US) and "Endgame" (36 pgs, $5.00 in the US) by Heather Arnold, and "The Sum of Duty" (57 pgs, $6.50 in the US) by Royce Day. *Shards of Autumn* by Den Elms, should be available by early 2002. Please visit [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm) for more information, prices for individual issues of Companions� Grove, or to order via credit card using PayPal. To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St, Pahrump, NV 89060.
+- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I'm moving at the end of May. I don't want any orders to go astray.)
+- ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). *Companions' Grove* still needs stories and artists'particularly artists willing to illustrate stories! I hope to have CG7 and Royce Day's novella, "Valdemarred" out soon; I'm just waiting on the art to finish those up. *Cat's Cradle* (2002): Written by Heather Arnold. Illustrated by Marian Crane. 76 pages, comb bound, cardstock cover. Set in the SERRAted Edge universe. A human family gets caught in the crossfire of Elven intrigues, with only one survivor. Now, that survivor is being hunted, and can trust no one to help. Price: $8.75 first class U.S.; $10.75 Canada; $13.75 International Airmail Please visit [http://www.greendragonpress.net/cradle.htm](http://www.greendragonpress.net/cradle.htm) for an excerpt from the zine, and a look at the cover. Additionally, the original six issues of *Companions' Grove* are now available as a set for $30.50 in the US (outside of the US, please e-mail me and I'll get back to you with the price). *The Danya Winterborn Saga* by Linda Malcor is available for $6.00 in the US. Three more old Valdemar zines are now back in print: "Fire Eyes" (43 pgs, $5.25 in the US) and "Endgame" (36 pgs, $5.00 in the US) by Heather Arnold, and "The Sum of Duty" (57 pgs, $6.50 in the US) by Royce Day. *Shards of Autumn* by Den Elms, should be available by early 2002. Please visit [http://www.greendragonpress.net/misty.htm](http://www.greendragonpress.net/misty.htm) for more information, prices for individual issues of Companions' Grove, or to order via credit card using PayPal. To order via snail mail, send check or money order (payable to Devin Harris; US funds only) to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St, Pahrump, NV 89060.
 - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com). The Typo-Dragon Giveaway contest has begun. To win you need to be a member of HC and send in something to print (story, recipe etc.) with your name, address, city, state and zip. (Phone number optional). Deadline is Dec. 15, 2001. Also, if anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <img alt="Hank by Devin Harris" class="border-5" loading="lazy" src="/qo119.jpg"/>
 
@@ -466,13 +454,13 @@ Returning Misty fans who have activated their memberships include:
 
 - **Herald Liselle Aravon** (**Trisha Tunis**) (Companion: Rhyan) (February 1994) (Mindspeech, Double-strength Fetching)
 
-Welcome back! If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
+Welcome back! If you are a returning member who has recently activated your membership in Queen's Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she'll make sure you are greeted in the next newsletter.
 
 Several former members have returned. Check out [Persona directory](/persona-directory/) as well as our Delphi forum to see who has reappeared! (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 
 ### Lost …
 
-One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
+One of the challenges running an online club is that people don't always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
 - Tayledras Mage Autumnwynd k'Vaia (autumnwynd@aol.com)
 - Herald Cateryna Cyray (KimChrist@Home.com)
@@ -493,19 +481,17 @@ If you know any of these folks, please have them contact Danya at [shashtah@gmai
 
 Here we are at our two-year anniversary. We currently have about 120 members, and about 80 people currently on our Pending Chat List working on their personas, and several people not on the list that we know are hard at work as well. The club is growing rapidly. Foremer members who happen by the site or read about it in *The Valdemar Companion* contact us at least once a month. Danya and I are busy trying to keep the website updated and adding more information, including F.A.Q. pages and many informational pages. This year we restructured nearly the entire site, adding more persona types to choose from and ways to advance most of the personas to higher rank. It has helped a great deal that I now live down the street from Danya and can speak with her in person about various tasks we are working on. Also, for those of you who have not sent me your release forms, please do!
 
-I want to thank the Queen�s Own folk as well for being so supportive of me. I know many of you know I have some personal relationship problems right now, and I have had nothing but hugs and support from all of you. Thank you so much!
+I want to thank the Queen's Own folk as well for being so supportive of me. I know many of you know I have some personal relationship problems right now, and I have had nothing but hugs and support from all of you. Thank you so much!
 
-On a happy personal note, I have completed my Petsmart training, and I am now officially a Pet Trainer and will be teaching classes later this week. I graduated a �Senior Pet Instructor,� which is a higher level than I thought I would graduate and brings more money with it.
+On a happy personal note, I have completed my Petsmart training, and I am now officially a Pet Trainer and will be teaching classes later this week. I graduated a 'Senior Pet Instructor,' which is a higher level than I thought I would graduate and brings more money with it.
 
-I have also finished my surgeries and am nearly finished mending. I would say I am back to 95%. I do not think I will need any more surgeries for a long, long time. With my shoulder surgery, my rotator cuff was damaged but did not need to be rebuilt; the surgeon removed over a � inch of bone, and it has helped not only my shoulder but my back as well. I did have endometriosis, which was cleaned up, and lots of scar tissue was removed. It is too soon to tell if that is what was causing the pain or not, but I am much recovered from the surgery in any case.
+I have also finished my surgeries and am nearly finished mending. I would say I am back to 95%. I do not think I will need any more surgeries for a long, long time. With my shoulder surgery, my rotator cuff was damaged but did not need to be rebuilt; the surgeon removed over a ' inch of bone, and it has helped not only my shoulder but my back as well. I did have endometriosis, which was cleaned up, and lots of scar tissue was removed. It is too soon to tell if that is what was causing the pain or not, but I am much recovered from the surgery in any case.
 
 I look forward to hearing from all of you. I read all the fanzines. Please contribute! Many of you are talented writers and artists, and we love to see your work!
 
 Hugs-
 
 Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <img alt="Anime Trainee by Devin Harris" class="border-5" loading="lazy" src="/qo120.jpg"/>
 
@@ -520,16 +506,12 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Crystal Sarakas Kocher** ([crys@stny.rr.com](mailto:crys@stny.rr.com)) 26-year-old radio/television producer looking for friends who enjoy long, silly conversations, dreaming of Valdemar and other such things. I would love to hear from old friends that I have lost touch with over the years and from new friends, too!
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - **From Blue Devyn. To MediaWest&#42;Con Attendees.** *Cat's Cradle* will be available at the MediaWest&#42;Con orphan zine table for $8.00; if you pre-pay for the zine and pick it up at the con, your price will be $7.00. Pre-orders can be accepted until May 1 (I'll be shipping the zines to the con within a few days of that date). If you will be attending the convention, please e-mail [devin@greendragonpress.net](mailto:devin@greendragonpress.net) for information about pre-orders.
-- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
+- **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen's Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: QO Newsletter.** Needed February 88 through March 91, Queen's Own newsletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -550,9 +532,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

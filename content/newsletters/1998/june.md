@@ -5,10 +5,6 @@ template = "page.html"
 date = 1998-06-01
 [extra]
 legacy_source = "qojun98.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1998/june/"
@@ -106,7 +102,7 @@ For other appearance dates including CALIBAN shows (members of TEMPEST playing a
 
 ### Hello from Herald Housemother:
 
-Did you send me a postcard with an Oriental theme? The post of�fice delivered half of one to me in a plastic bag. Unfortunately, it was a half with only my address, nothing else. I have no idea what your message was or even who you are so please write again.
+Did you send me a postcard with an Oriental theme? The post of'fice delivered half of one to me in a plastic bag. Unfortunately, it was a half with only my address, nothing else. I have no idea what your message was or even who you are so please write again.
 
 Please note that the August mailing date has been changed to a week later because of family plans. The August issue will my last as editor and president. I hope you will be as generous with your friendship and support for Robin as you have for me. Queen's Own has been an important part of my life for over ten years and I plan to continue as a member and contributor. The September issue will be mailed from California!
 
@@ -124,8 +120,6 @@ Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2005: Out-of-d
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -139,9 +133,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

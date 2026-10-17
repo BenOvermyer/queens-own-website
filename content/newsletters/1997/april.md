@@ -5,10 +5,6 @@ template = "page.html"
 date = 1997-04-01
 [extra]
 legacy_source = "qoapr97.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1997/april/"
@@ -106,7 +102,7 @@ ATTN: All parties interested in Under the Dragon Banner--First, my co-editor bac
 
 Calling all Dr. Who fans!!! The adventure continues with NINTH ASPECT: Volume One, the Official Fanzine of the &#96;Ninth' Doctor! Over 225 pages long, complete with illustrations, this collection is a must for all fans! Issues are $1.5, and plans are currently underway for Volume 2. For more information or for your copy, please SASE Chris Kocher [Ed. note 2005: Out-of-date info withheld.].
 
-There is a new APA forming called The Shadowy Flight. It is for fans of Knight Rider, the original television show, made-for-�TV movies and the spin-off series Team Knight Rider. If you are interested please send a SASE to [Ed. note 2005: Out-of-date info withheld.].
+There is a new APA forming called The Shadowy Flight. It is for fans of Knight Rider, the original television show, made-for-'TV movies and the spin-off series Team Knight Rider. If you are interested please send a SASE to [Ed. note 2005: Out-of-date info withheld.].
 
 ## COLLEGIUM NEWS:
 
@@ -135,8 +131,6 @@ Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. note 2005: Out-of-
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -150,9 +144,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

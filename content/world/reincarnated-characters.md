@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "danr.htm"
 source_site = "dragonlords.fans"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/reincarnated-characters/"
@@ -21,172 +17,150 @@ This is a list of characters who have been reincarnated in Misty's Valdemar seri
 
 The codes that follow the names tell which book or story mentions the character. The codes are:
 
-AFa
-
-Arrow's Fall
-
-SB
-
-Storm Breaking
-
-AFl
-
-Arrow's Flight
-
-SI
-
-Sword of Ice: And Other Tales of Valdemar
-
-AQ
-
-Arrows of the Queen
-
-SG
-
-The Silver Gryphon
-
-BG
-
-The Black Gryphon
-
-SR
-
-Storm Rising
-
-BS
-
-By the Sword
-
-SS
-
-"Stolen Silver" (a short story about Alberich)
-
-MPa
-
-Magic's Pawn
-
-SW
-
-Storm Warning
-
-MPri
-
-Magic's Price
-
-WC
-
-Winds of Change
-
-MPro
-
-Magic's Promise
-
-WFa
-
-Winds of Fate
-
-Obo
-
-The Oathbound
-
-WFu
-
-Winds of Fury
-
-Obl
-
-Oathblood
-
-WG
-
-The White Gryphon
+<table>
+    <thead>
+        <tr>
+            <th>Code</th>
+            <th>Book or Story</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>AFa</td>
+            <td>Arrow's Fall</td>
+        </tr>
+        <tr>
+            <td>SB</td>
+            <td>Storm Breaking</td>
+        </tr>
+        <tr>
+            <td>AFl</td>
+            <td>Arrow's Flight</td>
+        </tr>
+        <tr>
+            <td>SI</td>
+            <td>Sword of Ice: And Other Tales of Valdemar</td>
+        </tr>
+        <tr>
+            <td>AQ</td>
+            <td>Arrows of the Queen</td>
+        </tr>
+        <tr>
+            <td>SG</td>
+            <td>The Silver Gryphon</td>
+        </tr>
+        <tr>
+            <td>BG</td>
+            <td>The Black Gryphon</td>
+        </tr>
+        <tr>
+            <td>SR</td>
+            <td>Storm Rising</td>
+        </tr>
+        <tr>
+            <td>BS</td>
+            <td>By the Sword</td>
+        </tr>
+        <tr>
+            <td>SS</td>
+            <td>"Stolen Silver" (a short story about Alberich)</td>
+        </tr>
+        <tr>
+            <td>MPa</td>
+            <td>Magic's Pawn</td>
+        </tr>
+        <tr>
+            <td>SW</td>
+            <td>Storm Warning</td>
+        </tr>
+        <tr>
+            <td>MPri</td>
+            <td>Magic's Price</td>
+        </tr>
+        <tr>
+            <td>WC</td>
+            <td>Winds of Change</td>
+        </tr>
+        <tr>
+            <td>MPro</td>
+            <td>Magic's Promise</td>
+        </tr>
+        <tr>
+            <td>WFa</td>
+            <td>Winds of Fate</td>
+        </tr>
+        <tr>
+            <td>Obo</td>
+            <td>The Oathbound</td>
+        </tr>
+        <tr>
+            <td>WFu</td>
+            <td>Winds of Fury</td>
+        </tr>
+        <tr>
+            <td>Obl</td>
+            <td>Oathblood</td>
+        </tr>
+        <tr>
+            <td>WG</td>
+            <td>The White Gryphon</td>
+        </tr>
+    </tbody>
+</table>
 
 &#42; = Grove-Born Companion
 
 If you spot any glitches or if you have information you'd like me to add (such a new "match" you've spotted or information about where you can find listed pairs), message me at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Reincarnation List
 
 Here are the reincarnated characters of Valdemar and environs.
 
-First Incarnation
-
-Second Incarnation
-
-Captain Idra
-
-(Obo, Obr)
-
-Companion Idry (Has not Chosen yet.)
-
-(SR)
-
-(?) Companion Eren (Treven's Companion)
-
-(MPri)
-
-Herald Keren
-
-(AFa, AFl, AQ, SR, WFa)
-
-Herald Jaysen
-
-(MPa, MPri, MPro)
-
-Jasan (Darenthallis's Companion)
-
-(AFa, AFl, BS, SB, SI, SR, SW, WC, WFa, WFu)
-
-(?) Herald Sofya
-
-(MPro)
-
-Sofi (Destria's Companion)
-
-(AFa, AFl, AQ)
-
-Herald Savil
-
-(MPa, MPri, MPro, SI, WC, WFu)
-
-Sayvil (Kerowyn's Companion)
-
-(BS, SB, SI, SR, SW, WC, WFa, WFu)
-
-Herald Tantras
-
-(MPa, MPri, MPro)
-
-Tantris (Kris's Companion)
-
-(AFa, AFl, AQ, WFa)
-
-(?) Herald Tashir
-
-(MPri, MPro)
-
-Florian (Has not yet Chosen.)
-
-(SB, SR, SW)
-
-(?) Herald Treven
-
-(MPri)
-
-Herald Teren
-
-(AFa, AFl, AQ, SW, WFa, WFu)
-
-Herald Tylendel
-
-(MPa, MPri, MPro, WFa)
-
-Bard Stefen
-
-(AFl, AQ, SB, SI, SR, WC, WFa, WFu)
+<table>
+    <thead>
+        <tr>
+            <th>First Incarnation</th>
+            <th>Second Incarnation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Captain Idra (Obo, Obr)</td>
+            <td>Companion Idry (Has not Chosen yet.) (SR)</td>
+        </tr>
+        <tr>
+            <td>(?) Companion Eren (Treven's Companion) (MPri)</td>
+            <td>Herald Keren (AFa, AFl, AQ, SR, WFa)</td>
+        </tr>
+        <tr>
+            <td>Herald Jaysen (MPa, MPri, MPro)</td>
+            <td>Jasan (Darenthallis's Companion) (AFa, AFl, BS, SB, SI, SR, SW, WC, WFa, WFu)</td>
+        </tr>
+        <tr>
+            <td>(?) Herald Sofya (MPro)</td>
+            <td>Sofi (Destria's Companion) (AFa, AFl, AQ)</td>
+        </tr>
+        <tr>
+            <td>Herald Savil (MPa, MPri, MPro, SI, WC, WFu)</td>
+            <td>Sayvil (Kerowyn's Companion) (BS, SB, SI, SR, SW, WC, WFa, WFu)</td>
+        </tr>
+        <tr>
+            <td>Herald Tantras (MPa, MPri, MPro)</td>
+            <td>Tantris (Kris's Companion) (AFa, AFl, AQ, WFa)</td>
+        </tr>
+        <tr>
+            <td>(?) Herald Tashir (MPri, MPro)</td>
+            <td>Florian (Has not yet Chosen.) (SB, SR, SW)</td>
+        </tr>
+        <tr>
+            <td>(?) Herald Treven (MPri)</td>
+            <td>Herald Teren (AFa, AFl, AQ, SW, WFa, WFu)</td>
+        </tr>
+        <tr>
+            <td>Herald Tylendel (MPa, MPri, MPro, WFa)</td>
+            <td>Bard Stefen (AFl, AQ, SB, SI, SR, WC, WFa, WFu)</td>
+        </tr>
+    </tbody>
+</table>
 
 I put question marks after the pairs that I'm uncertain about. They may or may not be reincarnations. If you know, please [tell me](mailto:shashtah@gmail.com)!
-
-<img alt="" loading="lazy" src="/bardrgn2.gif"/>

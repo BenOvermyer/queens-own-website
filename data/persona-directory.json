@@ -1,40 +1,8 @@
 {
-  "schema_version": 1,
-  "front_matter": {
-    "title": "Persona directory",
-    "path": "persona-directory",
-    "template": "page.html",
-    "extra": {
-      "legacy_source": "qolist.htm",
-      "bgcolor": "blue",
-      "text": "white",
-      "link": "aqua",
-      "vlink": "silver",
-      "historical": true,
-      "topic": "personas",
-      "canonical_path": "/persona-directory/",
-      "revised": "10/17/26"
-    }
-  },
-  "preamble": [
-    "## Queen's Own",
-    "## Persona List",
-    "<img alt=\"\" loading=\"lazy\" src=\"/ValdemarCrestsm.jpg\"/>",
-    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" class=\"float-left\" loading=\"lazy\" src=\"/ml4.gif\"/></a>These are the approved personae for Queen's Own. If you have an approved persona who is not listed here, please contact [me](mailto:shashtah@gmail.com).",
-    "If a name is not linked and does not have an asterisk (&#42;), then we do not know how to reach that person. If you know him/her, please have him/her contact us with a current address!",
-    "&#42;=e-mail withheld by request or unavailable. †=In memoriam; the member is deceased.",
-    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" class=\"float-right\" loading=\"lazy\" src=\"/ml5.gif\"/></a>Each person may only have one persona on this list at a time. Only the first-approved persona will be recognized in the newsletter. (These rules exist simply for our record-keeping sanity. You are perfectly free to develop as many personae as you please.)",
-    "Dates following the names indicate the date of publication of the newsletter in which the persona was recognized. Herald-Mages have multiple dates, indicating their date of acceptance as a Herald and the date they earned each of their Herald-Mage ranks.",
-    "If you have any of the [newsletters](/newsletter-guidance/) that we are missing, please let us know!",
-    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" loading=\"lazy\" src=\"/ml7.gif\"/></a>"
-  ],
+  "schema_version": 2,
   "sections": [
     {
-      "title": "Heralds",
-      "url": "/herald-handout/",
-      "notes": [
-        "Note: Some of the Gift details do not match the current handout because the handout has developed over the course of time. The Gifts that are listed are those that appeared in the newsletter when the persona was approved."
-      ],
+      "id": "heralds",
       "entries": [
         {
           "persona": "Herald Aasynia Mentires",
@@ -7891,11 +7859,7 @@
       ]
     },
     {
-      "title": "Herald Mages",
-      "url": "/herald-mage-handout/",
-      "notes": [
-        "Mercedes Lackey and Ellen Guon have met the requirements for Herald-Mage Adept, even though they do not maintain personae in Queen's Own."
-      ],
+      "id": "herald-mages",
       "entries": [
         {
           "persona": "Herald-Mage Adept Danya Winterborn",
@@ -8048,9 +8012,7 @@
       ]
     },
     {
-      "title": "Bards",
-      "url": "/bard-handout/",
-      "notes": [],
+      "id": "bards",
       "entries": [
         {
           "persona": "Bard Elarose",
@@ -8511,9 +8473,7 @@
       ]
     },
     {
-      "title": "Blues",
-      "url": "/blues-handout/",
-      "notes": [],
+      "id": "blues",
       "entries": [
         {
           "persona": "Devyn Aeryn",
@@ -8566,9 +8526,7 @@
       ]
     },
     {
-      "title": "Guards",
-      "url": "/military-handout/",
-      "notes": [],
+      "id": "guards",
       "entries": [
         {
           "persona": "Guardsman Adoni Kitanomanjaro",
@@ -8609,15 +8567,11 @@
       ]
     },
     {
-      "title": "Guild Members",
-      "url": "/guild-handout/",
-      "notes": [],
+      "id": "guild-members",
       "entries": []
     },
     {
-      "title": "Healers",
-      "url": "/healer-handout/",
-      "notes": [],
+      "id": "healers",
       "entries": [
         {
           "persona": "Healer Althaia",
@@ -8974,9 +8928,7 @@
       ]
     },
     {
-      "title": "Mercenaries",
-      "url": "/military-handout/",
-      "notes": [],
+      "id": "mercenaries",
       "entries": [
         {
           "persona": "Mercenary Ma'ren'kar shena Vuysher'edras",
@@ -9025,15 +8977,11 @@
       ]
     },
     {
-      "title": "Northern Barbarians",
-      "url": "/northern-barbarian-handout/",
-      "notes": [],
+      "id": "northern-barbarians",
       "entries": []
     },
     {
-      "title": "Priests/Priestesses",
-      "url": "/priest-and-priestess-handout/",
-      "notes": [],
+      "id": "priests-priestesses",
       "entries": [
         {
           "persona": "Hedge Priestess of Vykandis Avra Steibarn",
@@ -9074,11 +9022,7 @@
       ]
     },
     {
-      "title": "Shin'a'in",
-      "url": "/shina-in-handout/",
-      "notes": [
-        "Note: Some details do not match the current handout because the characters were developed and approved prior to the creation of the handout."
-      ],
+      "id": "shin-a-in",
       "entries": [
         {
           "persona": "Shin'a'in Aarayen shena Tek'lyren",
@@ -9299,15 +9243,11 @@
       ]
     },
     {
-      "title": "Kal'enedral",
-      "url": "/shina-in-handout/",
-      "notes": [],
+      "id": "kal-enedral",
       "entries": []
     },
     {
-      "title": "Sorcerers/Sorceresses",
-      "url": "/sorcerer-handout/",
-      "notes": [],
+      "id": "sorcerers-sorceresses",
       "entries": [
         {
           "persona": "White Winds Sorceress Cime Shadow Weaver",
@@ -9384,11 +9324,7 @@
       ]
     },
     {
-      "title": "Tayledras",
-      "url": "/tayledras-handout/",
-      "notes": [
-        "Note: Some of these names and details don't quite match the patterns on the [Tayledras Handout](/tayledras-handout/) because the personae were approved before the Handout developed into its current form."
-      ],
+      "id": "tayledras",
       "entries": [
         {
           "persona": "Healer Adept Amberfire k'Treva",
@@ -9895,7 +9831,7 @@
           ]
         },
         {
-          "persona": "Healer Mage Swanstar k�Vaia",
+          "persona": "Healer Mage Swanstar k'Vaia",
           "persona_url": null,
           "player": null,
           "email": "millalcdevry@yahoo.com",
@@ -9938,7 +9874,7 @@
             },
             {
               "type": "note",
-              "text": "Bondbird: Ja�rek; hawk eagle"
+              "text": "Bondbird: Ja'rek; hawk eagle"
             },
             {
               "type": "gifts",
@@ -9997,11 +9933,7 @@
       ]
     },
     {
-      "title": "Other",
-      "url": null,
-      "notes": [
-        "This list is for strange ranks that were approved in the past that we don't have handouts for."
-      ],
+      "id": "other",
       "entries": [
         {
           "persona": "Gwyneth Myrna Firefeather",
@@ -10037,10 +9969,5 @@
         }
       ]
     }
-  ],
-  "postamble": [
-    "[Click here](/npc-directory/) to see the list of additional personae that have been created by existing Queen's Own members.",
-    "<img alt=\"\" loading=\"lazy\" src=\"/barcomp.gif\"/>",
-    "<a href=\"/\"><img alt=\"\" class=\"float-center\" loading=\"lazy\" src=\"/qobuthome.gif\"/></a> [Return to the Queen's Own Home Page](/)"
   ]
 }

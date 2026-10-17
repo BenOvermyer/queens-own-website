@@ -4,10 +4,6 @@ path = "blues-and-blue-bloods-faq"
 template = "page.html"
 [extra]
 legacy_source = "qofaqbl.htm"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/blues-and-blue-bloods-faq/"
@@ -30,9 +26,3 @@ Products that are possibly Guild-produced, but which can probably trace their or
 
 - indoor plumbing (water closets, tups, wash basins)
 - divided "spectacles" (bifocals)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

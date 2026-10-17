@@ -4,10 +4,6 @@ path = "religions-faq"
 template = "page.html"
 [extra]
 legacy_source = "qofaqrel.htm"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/religions-faq/"
@@ -105,9 +101,3 @@ Holidays on Velgarth may or may not have religious associations. The holidays we
 The deities of Valdemar come from other planes. The same is true for various other creatures. Here are the planes we know about and their denizens:
 
 - Abyssal
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

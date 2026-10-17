@@ -1,6 +1,6 @@
 {
   "summary": {
-    "local_available": 1205,
+    "local_available": 1180,
     "missing_file": 3,
     "unavailable_content": 2,
     "remote_available": 121,
@@ -62,19 +62,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "bards-faq/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "blues-and-blue-bloods-faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "blues-and-blue-bloods-faq/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "blues-handout/index.html",
@@ -82,19 +72,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "blues-handout/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "chapters/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "chapters/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "children-of-velgarth/index.html",
@@ -102,19 +82,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "children-of-velgarth/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "club-chat/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "club-chat/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "club-faq/index.html",
@@ -132,11 +102,6 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "club-webring/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "community/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
@@ -150,11 +115,6 @@
           "page": "compass-rose/about/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "compass-rose/about/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "compass-rose/index.html",
@@ -267,11 +227,6 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "cooking-velgarth-style/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "danya-winterborn/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
@@ -295,11 +250,6 @@
           "page": "delphi-forum/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "delphi-forum/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "dream-casts/index.html",
@@ -327,19 +277,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "fan-fiction/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "fauna-faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "fauna-faq/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "fun-stuff/index.html",
@@ -352,19 +292,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "garb-faq/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "gifts-faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "gifts-faq/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "golden-grove/index.html",
@@ -382,19 +312,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "guild-handout/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "guilds-faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "guilds-faq/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "healer-handout/index.html",
@@ -402,19 +322,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "healer-handout/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "healers-faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "healers-faq/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "herald-handout/index.html",
@@ -422,19 +332,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "herald-handout/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "herald-mage-handout/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "herald-mage-handout/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "heralds-and-companions/index.html",
@@ -445,11 +345,6 @@
           "page": "heralds-faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "heralds-faq/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "how-to-join/index.html",
@@ -465,11 +360,6 @@
           "page": "kalen-edral-handout/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "kalen-edral-handout/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "legal-notices/index.html",
@@ -512,29 +402,14 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "military-faq/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "military-handout/index.html",
-          "attribute": "href",
-          "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "military-handout/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
-          "page": "newsletter-guidance/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
         },
         {
           "page": "newsletter-guidance/index.html",
           "attribute": "href",
-          "url": "/"
+          "url": "http://127.0.0.1:1111"
         },
         {
           "page": "newsletters/1988/april/index.html",
@@ -1512,11 +1387,6 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2000/august/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2000/december/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
@@ -1537,19 +1407,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2000/july/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2000/june/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2000/june/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2000/may/index.html",
@@ -1567,19 +1427,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2000/november/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2000/october/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2000/october/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2000/september/index.html",
@@ -1587,19 +1437,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2000/september/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2001/april/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2001/april/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2001/august/index.html",
@@ -1607,29 +1447,14 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2001/august/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2001/december/index.html",
-          "attribute": "href",
-          "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2001/december/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
-          "page": "newsletters/2001/february/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
         },
         {
           "page": "newsletters/2001/february/index.html",
           "attribute": "href",
-          "url": "/"
+          "url": "http://127.0.0.1:1111"
         },
         {
           "page": "newsletters/2001/index.html",
@@ -1642,19 +1467,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2001/january/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2001/july/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2001/july/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2001/june/index.html",
@@ -1662,19 +1477,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2001/june/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2001/march/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2001/march/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2001/may/index.html",
@@ -1682,19 +1487,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2001/may/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2001/november/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2001/november/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2001/october/index.html",
@@ -1702,19 +1497,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2001/october/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2001/september/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2001/september/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2002/april/index.html",
@@ -1722,19 +1507,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2002/april/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2002/august/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2002/august/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2002/december/index.html",
@@ -1742,19 +1517,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2002/december/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2002/february/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2002/february/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2002/index.html",
@@ -1767,19 +1532,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2002/january/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2002/july/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2002/july/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2002/june/index.html",
@@ -1787,19 +1542,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2002/june/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2002/march/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2002/march/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2002/may/index.html",
@@ -1807,19 +1552,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2002/may/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2002/november/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2002/november/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2002/october/index.html",
@@ -1827,19 +1562,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2002/october/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2002/september/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2002/september/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2003/april/index.html",
@@ -1847,19 +1572,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2003/april/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2003/august/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2003/august/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2003/december/index.html",
@@ -1867,19 +1582,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2003/december/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2003/february/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2003/february/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2003/index.html",
@@ -1892,19 +1597,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2003/january/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2003/july/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2003/july/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2003/june/index.html",
@@ -1912,19 +1607,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2003/june/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2003/march/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2003/march/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2003/may/index.html",
@@ -1932,19 +1617,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2003/may/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2003/november/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2003/november/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2003/october/index.html",
@@ -1952,19 +1627,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2003/october/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2003/september/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2003/september/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2004/april/index.html",
@@ -1972,19 +1637,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2004/april/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2004/august/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2004/august/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2004/december/index.html",
@@ -1992,19 +1647,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2004/december/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2004/february/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2004/february/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2004/index.html",
@@ -2017,19 +1662,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2004/january/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2004/july/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2004/july/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2004/june/index.html",
@@ -2037,19 +1672,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2004/june/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2004/march/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2004/march/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2004/may/index.html",
@@ -2057,19 +1682,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2004/may/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2004/november/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2004/november/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2004/october/index.html",
@@ -2077,19 +1692,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2004/october/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2004/september/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2004/september/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2005/april/index.html",
@@ -2097,29 +1702,14 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2005/april/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2005/august/index.html",
-          "attribute": "href",
-          "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2005/august/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
-          "page": "newsletters/2005/february/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
         },
         {
           "page": "newsletters/2005/february/index.html",
           "attribute": "href",
-          "url": "/"
+          "url": "http://127.0.0.1:1111"
         },
         {
           "page": "newsletters/2005/index.html",
@@ -2142,19 +1732,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2005/july/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2005/june/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2005/june/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "newsletters/2005/march/index.html",
@@ -2162,29 +1742,14 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "newsletters/2005/march/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "newsletters/2005/may/index.html",
-          "attribute": "href",
-          "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "newsletters/2005/may/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
-          "page": "newsletters/2005/september/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
         },
         {
           "page": "newsletters/2005/september/index.html",
           "attribute": "href",
-          "url": "/"
+          "url": "http://127.0.0.1:1111"
         },
         {
           "page": "newsletters/2006/index.html",
@@ -2287,29 +1852,14 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "northern-barbarian-handout/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "northern-barbarians-faq/index.html",
-          "attribute": "href",
-          "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "northern-barbarians-faq/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
-          "page": "npc-directory/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
         },
         {
           "page": "npc-directory/index.html",
           "attribute": "href",
-          "url": "/"
+          "url": "http://127.0.0.1:1111"
         },
         {
           "page": "pacific-northwest-collegium/index.html",
@@ -2322,19 +1872,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "persona-directory/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "persona-handouts/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "persona-handouts/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "personas/index.html",
@@ -2347,19 +1887,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "plants-faq/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "priest-and-priestess-handout/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "priest-and-priestess-handout/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "privacy-policy/index.html",
@@ -2387,29 +1917,14 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "release-form-instructions/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "religions-faq/index.html",
-          "attribute": "href",
-          "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "religions-faq/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
-          "page": "role-playing/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
         },
         {
           "page": "role-playing/index.html",
           "attribute": "href",
-          "url": "/"
+          "url": "http://127.0.0.1:1111"
         },
         {
           "page": "science-and-magic-tricks/index.html",
@@ -2422,19 +1937,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "shina-in-faq/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "shina-in-handout/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "shina-in-handout/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "sonoran-collegium/index.html",
@@ -2452,19 +1957,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "sorcerer-handout/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "tayledras-faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "tayledras-faq/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "tayledras-handout/index.html",
@@ -2472,19 +1967,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "tayledras-handout/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "travel-guide/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "travel-guide/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "valdemar-timeline/index.html",
@@ -2522,11 +2007,6 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "vanyel-fan-club/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "vanyel-fan-club/join/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
@@ -2552,11 +2032,6 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "webring-code/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "world/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
@@ -2565,11 +2040,6 @@
           "page": "world-reference-guide/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "world-reference-guide/index.html",
-          "attribute": "href",
-          "url": "/"
         }
       ],
       "local_present": true,
@@ -2715,16 +2185,6 @@
         },
         {
           "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/ValdemarCrestsm.jpg"
-        },
-        {
-          "page": "persona-directory/index.html",
-          "attribute": "src",
-          "url": "/ValdemarCrestsm.jpg"
-        },
-        {
-          "page": "persona-handouts/index.html",
           "attribute": "src",
           "url": "/ValdemarCrestsm.jpg"
         },
@@ -4272,1043 +3732,6 @@
       "status": "local_available"
     },
     {
-      "target": "/bar2.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "newsletters/2000/may/index.html",
-          "attribute": "src",
-          "url": "/bar2.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/barblln.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "herald-mage-handout/index.html",
-          "attribute": "src",
-          "url": "/barblln.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/barcastl.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "blues-handout/index.html",
-          "attribute": "src",
-          "url": "/barcastl.gif"
-        },
-        {
-          "page": "danya-winterborn/index.html",
-          "attribute": "src",
-          "url": "/barcastl.gif"
-        },
-        {
-          "page": "guild-handout/index.html",
-          "attribute": "src",
-          "url": "/barcastl.gif"
-        },
-        {
-          "page": "military-faq/index.html",
-          "attribute": "src",
-          "url": "/barcastl.gif"
-        },
-        {
-          "page": "military-handout/index.html",
-          "attribute": "src",
-          "url": "/barcastl.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/barcomp.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "bards-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "blues-and-blue-bloods-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "children-of-velgarth/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "club-chat/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "club-webring/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "compass-rose/about/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "cooking-velgarth-style/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "danya-winterborn/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "delphi-forum/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "dream-casts/magics-pawn/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "dream-casts/magics-price/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "dream-casts/magics-promise/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "fauna-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "fun-stuff/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "garb-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "gifts-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "golden-grove/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "guilds-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "healers-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "heralds-and-companions/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "heralds-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "mercedes-lackey-links/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1988/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1988/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1988/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1988/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1988/november/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1988/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1988/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1989/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1989/august/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1989/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1989/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1989/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1989/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1989/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1989/november/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1989/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1990/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1990/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1990/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1990/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1990/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1990/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1990/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1990/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1990/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/november/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1991/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1992/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1992/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1992/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1992/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1992/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1992/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1992/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1992/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1992/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1993/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1993/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1994/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1994/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1994/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1994/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1994/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1994/november/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1994/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1995/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1995/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1995/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1995/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1996/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1996/august/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1996/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1996/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1996/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1996/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1996/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1996/november/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1996/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1997/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1997/august/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1997/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1997/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1997/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1997/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1997/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1997/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1997/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1998/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1998/august/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1998/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1998/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1998/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1998/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1998/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1999/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1999/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1999/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1999/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1999/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1999/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/1999/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2000/august/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2000/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2000/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2000/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2000/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2000/november/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2000/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2000/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/august/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/november/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2001/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/august/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/november/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2002/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/august/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/november/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2003/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/august/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/december/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/november/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/october/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2004/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2005/april/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2005/august/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2005/february/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2005/january/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2005/july/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2005/june/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2005/march/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2005/may/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "newsletters/2005/september/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "northern-barbarians-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "npc-directory/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "pacific-northwest-collegium/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "persona-directory/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "plants-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "proverbs-of-velgarth/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "reincarnated-characters/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "religions-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "role-playing/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "shina-in-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "sonoran-collegium/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "tayledras-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "travel-guide/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "valdemar-timeline/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "webring-code/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "world-reference-guide/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
       "target": "/bard-handout",
       "type": "page",
       "references": [
@@ -5412,84 +3835,6 @@
       "status": "local_available"
     },
     {
-      "target": "/bardrgn2.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "companions-choices/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "danya-winterborn/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "danyas-cookbook/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "dream-casts/magics-pawn/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "dream-casts/magics-price/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "dream-casts/magics-promise/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "golden-grove/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "heralds-and-companions/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "magic-of-velgarth/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "proverbs-of-velgarth/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "reincarnated-characters/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "release-form-instructions/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "sonoran-collegium/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        },
-        {
-          "page": "valdemar-timeline/index.html",
-          "attribute": "src",
-          "url": "/bardrgn2.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
       "target": "/bards-faq",
       "type": "page",
       "references": [
@@ -5525,142 +3870,6 @@
           "page": "bards-faq/index.html",
           "attribute": "href",
           "url": "#main"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/barflow.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "danya-winterborn/index.html",
-          "attribute": "src",
-          "url": "/barflow.gif"
-        },
-        {
-          "page": "danyas-cookbook/index.html",
-          "attribute": "src",
-          "url": "/barflow.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/bargrass.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "danya-winterborn/index.html",
-          "attribute": "src",
-          "url": "/bargrass.gif"
-        },
-        {
-          "page": "kalen-edral-handout/index.html",
-          "attribute": "src",
-          "url": "/bargrass.gif"
-        },
-        {
-          "page": "northern-barbarian-handout/index.html",
-          "attribute": "src",
-          "url": "/bargrass.gif"
-        },
-        {
-          "page": "shina-in-handout/index.html",
-          "attribute": "src",
-          "url": "/bargrass.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/barhawk.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "tayledras-handout/index.html",
-          "attribute": "src",
-          "url": "/barhawk.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/barholly.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "danya-winterborn/index.html",
-          "attribute": "src",
-          "url": "/barholly.gif"
-        },
-        {
-          "page": "danyas-cookbook/index.html",
-          "attribute": "src",
-          "url": "/barholly.gif"
-        },
-        {
-          "page": "healer-handout/index.html",
-          "attribute": "src",
-          "url": "/barholly.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/barlinks.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "danya-winterborn/index.html",
-          "attribute": "src",
-          "url": "/barlinks.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/barmusic.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "bards-faq/index.html",
-          "attribute": "src",
-          "url": "/barmusic.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/barstar.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "danya-winterborn/index.html",
-          "attribute": "src",
-          "url": "/barstar.gif"
-        },
-        {
-          "page": "magic-of-velgarth/index.html",
-          "attribute": "src",
-          "url": "/barstar.gif"
-        },
-        {
-          "page": "science-and-magic-tricks/index.html",
-          "attribute": "src",
-          "url": "/barstar.gif"
-        },
-        {
-          "page": "sorcerer-handout/index.html",
-          "attribute": "src",
-          "url": "/barstar.gif"
         }
       ],
       "local_present": true,
@@ -23072,17 +21281,7 @@
       "type": "asset",
       "references": [
         {
-          "page": "mercedes-lackey-links/index.html",
-          "attribute": "src",
-          "url": "/ml1.gif"
-        },
-        {
           "page": "newsletters/2001/december/index.html",
-          "attribute": "src",
-          "url": "/ml1.gif"
-        },
-        {
-          "page": "persona-handouts/index.html",
           "attribute": "src",
           "url": "/ml1.gif"
         }
@@ -23104,71 +21303,6 @@
       "status": "local_available"
     },
     {
-      "target": "/ml11.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/ml11.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/ml12.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/ml12.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/ml13.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/ml13.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/ml15.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/ml15.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/ml18.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/ml18.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
       "target": "/ml19.gif",
       "type": "asset",
       "references": [
@@ -23176,34 +21310,6 @@
           "page": "newsletters/1995/may/index.html",
           "attribute": "src",
           "url": "/ml19.gif"
-        },
-        {
-          "page": "persona-handouts/index.html",
-          "attribute": "src",
-          "url": "/ml19.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/ml2.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "herald-handout/index.html",
-          "attribute": "src",
-          "url": "/ml2.gif"
-        },
-        {
-          "page": "mercedes-lackey-links/index.html",
-          "attribute": "src",
-          "url": "/ml2.gif"
-        },
-        {
-          "page": "persona-handouts/index.html",
-          "attribute": "src",
-          "url": "/ml2.gif"
         }
       ],
       "local_present": true,
@@ -23213,11 +21319,6 @@
       "target": "/ml20.gif",
       "type": "asset",
       "references": [
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/ml20.gif"
-        },
         {
           "page": "newsletters/1996/august/index.html",
           "attribute": "src",
@@ -23231,11 +21332,6 @@
       "target": "/ml21.gif",
       "type": "asset",
       "references": [
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/ml21.gif"
-        },
         {
           "page": "newsletters/1997/august/index.html",
           "attribute": "src",
@@ -23285,19 +21381,6 @@
       "status": "local_available"
     },
     {
-      "target": "/ml3.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "persona-handouts/index.html",
-          "attribute": "src",
-          "url": "/ml3.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
       "target": "/ml4.gif",
       "type": "asset",
       "references": [
@@ -23308,16 +21391,6 @@
         },
         {
           "page": "newsletters/2002/january/index.html",
-          "attribute": "src",
-          "url": "/ml4.gif"
-        },
-        {
-          "page": "npc-directory/index.html",
-          "attribute": "src",
-          "url": "/ml4.gif"
-        },
-        {
-          "page": "persona-directory/index.html",
           "attribute": "src",
           "url": "/ml4.gif"
         }
@@ -23344,16 +21417,6 @@
       "references": [
         {
           "page": "newsletters/2002/january/index.html",
-          "attribute": "src",
-          "url": "/ml5.gif"
-        },
-        {
-          "page": "npc-directory/index.html",
-          "attribute": "src",
-          "url": "/ml5.gif"
-        },
-        {
-          "page": "persona-directory/index.html",
           "attribute": "src",
           "url": "/ml5.gif"
         }
@@ -23391,16 +21454,6 @@
       "target": "/ml55.jpg",
       "type": "asset",
       "references": [
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/ml55.jpg"
-        },
-        {
-          "page": "newsletters/2000/may/index.html",
-          "attribute": "src",
-          "url": "/ml55.jpg"
-        },
         {
           "page": "newsletters/2001/december/index.html",
           "attribute": "src",
@@ -23475,16 +21528,6 @@
           "page": "newsletters/2002/january/index.html",
           "attribute": "src",
           "url": "/ml7.gif"
-        },
-        {
-          "page": "npc-directory/index.html",
-          "attribute": "src",
-          "url": "/ml7.gif"
-        },
-        {
-          "page": "persona-directory/index.html",
-          "attribute": "src",
-          "url": "/ml7.gif"
         }
       ],
       "local_present": true,
@@ -23507,11 +21550,6 @@
       "target": "/ml8.gif",
       "type": "asset",
       "references": [
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/ml8.gif"
-        },
         {
           "page": "newsletters/2002/january/index.html",
           "attribute": "src",
@@ -23559,777 +21597,12 @@
           "url": "/newsletter-guidance/"
         },
         {
-          "page": "newsletters/1988/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1988/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1988/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1988/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1988/november/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1988/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1988/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1989/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1989/august/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1989/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1989/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1989/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1989/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1989/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1989/november/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1989/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1990/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1990/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1990/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1990/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1990/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1990/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1990/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1990/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1990/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/november/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1991/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1992/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1992/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1992/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1992/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1992/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1992/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1992/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1992/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1992/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1993/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1993/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1994/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1994/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1994/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1994/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1994/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1994/november/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1994/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1995/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1995/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1995/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1995/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1996/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1996/august/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1996/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1996/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1996/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1996/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1996/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1996/november/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1996/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1997/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1997/august/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1997/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1997/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1997/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1997/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1997/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1997/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1997/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1998/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1998/august/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1998/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1998/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1998/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1998/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1998/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1999/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1999/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1999/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1999/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1999/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1999/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/1999/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2000/august/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2000/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2000/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2000/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
           "page": "newsletters/2000/may/index.html",
           "attribute": "href",
           "url": "/newsletter-guidance/"
         },
         {
-          "page": "newsletters/2000/november/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2000/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2000/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/august/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/november/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2001/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/august/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/november/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2002/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/august/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
           "page": "newsletters/2003/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/november/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2003/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/august/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/december/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/november/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/october/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2004/september/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2005/april/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2005/august/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2005/february/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2005/january/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2005/july/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2005/june/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2005/march/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2005/may/index.html",
-          "attribute": "href",
-          "url": "/newsletter-guidance/"
-        },
-        {
-          "page": "newsletters/2005/september/index.html",
           "attribute": "href",
           "url": "/newsletter-guidance/"
         },
@@ -34079,11 +31352,6 @@
           "url": "/pegasus.gif"
         },
         {
-          "page": "npc-directory/index.html",
-          "attribute": "src",
-          "url": "/pegasus.gif"
-        },
-        {
           "page": "pacific-northwest-collegium/index.html",
           "attribute": "src",
           "url": "/pegasus.gif"
@@ -43043,11 +40311,6 @@
           "url": "/qo34.jpg"
         },
         {
-          "page": "herald-handout/index.html",
-          "attribute": "src",
-          "url": "/qo34.jpg"
-        },
-        {
           "page": "newsletters/2000/november/index.html",
           "attribute": "src",
           "url": "/qo34.jpg"
@@ -43907,1917 +41170,6 @@
       "status": "local_available"
     },
     {
-      "target": "/qobutback.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "bards-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "blues-and-blue-bloods-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "cooking-velgarth-style/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "fauna-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "garb-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "gifts-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "guilds-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "healers-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "heralds-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "military-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1988/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1988/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1988/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1988/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1988/november/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1988/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1988/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1989/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1989/august/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1989/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1989/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1989/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1989/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1989/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1989/november/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1989/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1990/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1990/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1990/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1990/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1990/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1990/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1990/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1990/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1990/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/november/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1991/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1992/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1992/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1992/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1992/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1992/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1992/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1992/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1992/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1992/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1993/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1993/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1994/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1994/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1994/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1994/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1994/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1994/november/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1994/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1995/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1995/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1995/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1995/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1996/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1996/august/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1996/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1996/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1996/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1996/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1996/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1996/november/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1996/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1997/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1997/august/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1997/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1997/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1997/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1997/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1997/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1997/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1997/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1998/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1998/august/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1998/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1998/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1998/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1998/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1998/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1999/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1999/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1999/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1999/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1999/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1999/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/1999/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2000/august/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2000/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2000/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2000/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2000/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2000/november/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2000/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2000/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/august/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/november/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2001/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/august/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/november/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2002/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/august/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/november/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2003/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/august/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/december/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/november/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/october/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2004/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2005/april/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2005/august/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2005/february/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2005/january/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2005/july/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2005/june/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2005/march/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2005/may/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "newsletters/2005/september/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "northern-barbarians-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "plants-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "release-form-instructions/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "religions-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "shina-in-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "tayledras-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "travel-guide/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "vanyel-fan-club/chat/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "vanyel-fan-club/faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "vanyel-fan-club/heralds-haven/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "vanyel-fan-club/heralds-haven-gate/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "vanyel-fan-club/join/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "vanyel-fan-club/newsletter/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "vanyel-fan-club/president/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
-          "page": "webring-code/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/qobuthome.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "bards-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "blues-and-blue-bloods-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "blues-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "chapters/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "children-of-velgarth/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "club-chat/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "club-webring/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "compass-rose/about/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "cooking-velgarth-style/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "delphi-forum/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "fauna-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "fun-stuff/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "garb-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "gifts-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "guild-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "guilds-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "healer-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "healers-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "herald-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "herald-mage-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "heralds-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "kalen-edral-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "mercedes-lackey-links/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "military-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "military-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletter-guidance/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1988/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1988/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1988/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1988/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1988/november/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1988/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1988/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1989/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1989/august/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1989/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1989/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1989/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1989/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1989/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1989/november/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1989/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1990/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1990/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1990/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1990/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1990/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1990/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1990/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1990/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1990/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/november/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1991/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1992/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1992/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1992/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1992/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1992/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1992/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1992/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1992/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1992/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1993/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1993/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1994/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1994/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1994/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1994/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1994/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1994/november/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1994/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1995/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1995/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1995/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1995/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1996/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1996/august/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1996/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1996/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1996/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1996/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1996/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1996/november/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1996/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1997/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1997/august/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1997/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1997/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1997/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1997/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1997/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1997/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1997/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1998/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1998/august/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1998/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1998/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1998/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1998/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1998/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1999/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1999/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1999/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1999/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1999/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1999/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/1999/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2000/august/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2000/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2000/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2000/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2000/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2000/november/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2000/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2000/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/august/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/november/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2001/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/august/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/november/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2002/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/august/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/november/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2003/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/august/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/december/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/november/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/october/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2004/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2005/april/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2005/august/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2005/february/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2005/january/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2005/july/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2005/june/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2005/march/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2005/may/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "newsletters/2005/september/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "northern-barbarian-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "northern-barbarians-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "npc-directory/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "persona-directory/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "persona-handouts/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "plants-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "priest-and-priestess-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "religions-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "role-playing/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "shina-in-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "shina-in-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "sorcerer-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "tayledras-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "tayledras-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "travel-guide/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "vanyel-fan-club/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "webring-code/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "world-reference-guide/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
       "target": "/qofanfic_files/ValdemarCrestsm.jpg",
       "type": "asset",
       "references": [
@@ -45825,32 +41177,6 @@
           "page": "fan-fiction/index.html",
           "attribute": "src",
           "url": "/qofanfic_files/ValdemarCrestsm.jpg"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/qofanfic_files/barcomp.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "fan-fiction/index.html",
-          "attribute": "src",
-          "url": "/qofanfic_files/barcomp.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/qofanfic_files/qobuthome.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "fan-fiction/index.html",
-          "attribute": "src",
-          "url": "/qofanfic_files/qobuthome.gif"
         }
       ],
       "local_present": true,
@@ -46098,64 +41424,6 @@
           "page": "newsletters/2000/december/index.html",
           "attribute": "src",
           "url": "/qoxmasgg.jpg"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
-      "target": "/rainbar.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "danya-winterborn/index.html",
-          "attribute": "src",
-          "url": "/rainbar.gif"
-        },
-        {
-          "page": "science-and-magic-tricks/index.html",
-          "attribute": "src",
-          "url": "/rainbar.gif"
-        },
-        {
-          "page": "vanyel-fan-club/chat/index.html",
-          "attribute": "src",
-          "url": "/rainbar.gif"
-        },
-        {
-          "page": "vanyel-fan-club/faq/index.html",
-          "attribute": "src",
-          "url": "/rainbar.gif"
-        },
-        {
-          "page": "vanyel-fan-club/heralds-haven/index.html",
-          "attribute": "src",
-          "url": "/rainbar.gif"
-        },
-        {
-          "page": "vanyel-fan-club/heralds-haven-gate/index.html",
-          "attribute": "src",
-          "url": "/rainbar.gif"
-        },
-        {
-          "page": "vanyel-fan-club/index.html",
-          "attribute": "src",
-          "url": "/rainbar.gif"
-        },
-        {
-          "page": "vanyel-fan-club/join/index.html",
-          "attribute": "src",
-          "url": "/rainbar.gif"
-        },
-        {
-          "page": "vanyel-fan-club/newsletter/index.html",
-          "attribute": "src",
-          "url": "/rainbar.gif"
-        },
-        {
-          "page": "vanyel-fan-club/president/index.html",
-          "attribute": "src",
-          "url": "/rainbar.gif"
         }
       ],
       "local_present": true,
@@ -47147,19 +42415,6 @@
       "status": "local_available"
     },
     {
-      "target": "/sun2.gif",
-      "type": "asset",
-      "references": [
-        {
-          "page": "priest-and-priestess-handout/index.html",
-          "attribute": "src",
-          "url": "/sun2.gif"
-        }
-      ],
-      "local_present": true,
-      "status": "local_available"
-    },
-    {
       "target": "/tayledras-faq",
       "type": "page",
       "references": [
@@ -47689,19 +42944,9 @@
           "url": "http://127.0.0.1:1111/vanyel-fan-club/"
         },
         {
-          "page": "vanyel-fan-club/chat/index.html",
-          "attribute": "href",
-          "url": "/vanyel-fan-club/"
-        },
-        {
           "page": "vanyel-fan-club/faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/vanyel-fan-club/"
-        },
-        {
-          "page": "vanyel-fan-club/faq/index.html",
-          "attribute": "href",
-          "url": "/vanyel-fan-club/"
         },
         {
           "page": "vanyel-fan-club/heralds-haven/index.html",
@@ -47709,19 +42954,9 @@
           "url": "http://127.0.0.1:1111/vanyel-fan-club/"
         },
         {
-          "page": "vanyel-fan-club/heralds-haven/index.html",
-          "attribute": "href",
-          "url": "/vanyel-fan-club/"
-        },
-        {
           "page": "vanyel-fan-club/heralds-haven-gate/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/vanyel-fan-club/"
-        },
-        {
-          "page": "vanyel-fan-club/heralds-haven-gate/index.html",
-          "attribute": "href",
-          "url": "/vanyel-fan-club/"
         },
         {
           "page": "vanyel-fan-club/index.html",
@@ -47734,29 +42969,14 @@
           "url": "http://127.0.0.1:1111/vanyel-fan-club/"
         },
         {
-          "page": "vanyel-fan-club/join/index.html",
-          "attribute": "href",
-          "url": "/vanyel-fan-club/"
-        },
-        {
           "page": "vanyel-fan-club/newsletter/index.html",
-          "attribute": "href",
-          "url": "http://127.0.0.1:1111/vanyel-fan-club/"
-        },
-        {
-          "page": "vanyel-fan-club/newsletter/index.html",
-          "attribute": "href",
-          "url": "/vanyel-fan-club/"
-        },
-        {
-          "page": "vanyel-fan-club/president/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/vanyel-fan-club/"
         },
         {
           "page": "vanyel-fan-club/president/index.html",
           "attribute": "href",
-          "url": "/vanyel-fan-club/"
+          "url": "http://127.0.0.1:1111/vanyel-fan-club/"
         }
       ],
       "local_present": true,
@@ -49825,57 +45045,7 @@
           "url": "http://127.0.0.1:1111/world-reference-guide"
         },
         {
-          "page": "bards-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "blues-and-blue-bloods-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "cooking-velgarth-style/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "fauna-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
           "page": "fun-stuff/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "garb-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "gifts-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "guilds-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "healers-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "heralds-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "military-faq/index.html",
           "attribute": "href",
           "url": "/world-reference-guide/"
         },
@@ -49886,36 +45056,6 @@
         },
         {
           "page": "newsletters/2002/march/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "northern-barbarians-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "plants-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "religions-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "shina-in-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "tayledras-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "travel-guide/index.html",
           "attribute": "href",
           "url": "/world-reference-guide/"
         },

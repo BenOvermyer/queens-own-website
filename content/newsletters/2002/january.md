@@ -5,10 +5,6 @@ template = "page.html"
 date = 2002-01-01
 [extra]
 legacy_source = "qojan02.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/2002/january/"
@@ -28,13 +24,13 @@ The Official Mercedes Lackey Fan Club
 
 Heyla, Misty fans!
 
-Happy New Year! Can you believe it? Another year has run its course, and we�re starting our third series of QO newsletters! We have 89 people who have active memberships, and we�ve identified 475 people with approved personae! Several dozen newcomers are working on their personae, and we average about one former member per month who contacts us and has us activate his/her online membership.
+Happy New Year! Can you believe it? Another year has run its course, and we're starting our third series of QO newsletters! We have 89 people who have active memberships, and we've identified 475 people with approved personae! Several dozen newcomers are working on their personae, and we average about one former member per month who contacts us and has us activate his/her online membership.
 
-This past year some new chapters started and others ceased publication. Several QO groups visited Ren. Faires, Cons and other fun places (such as Medieval Times). Some of us got together for a Midsummer Festival. A number of you contributed to charities, volunteered to help your communities, and performed other services that are strongly reminiscent of those services performed by the types of characters we admire in Misty�s stories. We plan to have lots more fun in 2002, and we look forward to hearing about all the good work you folks are doing in the world.
+This past year some new chapters started and others ceased publication. Several QO groups visited Ren. Faires, Cons and other fun places (such as Medieval Times). Some of us got together for a Midsummer Festival. A number of you contributed to charities, volunteered to help your communities, and performed other services that are strongly reminiscent of those services performed by the types of characters we admire in Misty's stories. We plan to have lots more fun in 2002, and we look forward to hearing about all the good work you folks are doing in the world.
 
-We particularly want to thank all the writers and artists who have contributed to our newsletters and fanzines this past year. You folks are terrific! Please, keep up the good work! We delight in seeing the products of your creativity. Misty herself wrote for fandom before she became a professional filk lyricist-and later a professional novelist. You can read the story about her adventures breaking her career in The Valdemar Companion. If you have not acquired a copy of *The Valdemar Companion* already, we highly recommend that you do. It is an excellent work with thousands of bits of trivia every Misty fan should know. (For instance, Danya discovered that, as a Herald-Mage, she should have a golden-brown uniform instead of Whites. Birthday gift ideas for the New Year &lt;g>.) You can find order information at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm). Remember, every time you order something through the Dragonlords Bookstore, a portion of the proceeds goes to support QO. The website, PO Box, and other mundane stuff costs money to maintain, and this is how we keep our online memberships free. The maps in *The Valdemar Companion* are exelent, even though they cover only about the eastern 60% of what we know about Velgarth. You�ll find far more detail than we�ve seen before. Misty, Larry and company are trying to get the complete map published as a poster. We�ll let you know if we hear anything more about that.
+We particularly want to thank all the writers and artists who have contributed to our newsletters and fanzines this past year. You folks are terrific! Please, keep up the good work! We delight in seeing the products of your creativity. Misty herself wrote for fandom before she became a professional filk lyricist-and later a professional novelist. You can read the story about her adventures breaking her career in The Valdemar Companion. If you have not acquired a copy of *The Valdemar Companion* already, we highly recommend that you do. It is an excellent work with thousands of bits of trivia every Misty fan should know. (For instance, Danya discovered that, as a Herald-Mage, she should have a golden-brown uniform instead of Whites. Birthday gift ideas for the New Year &lt;g>.) You can find order information at [http://www.dragonlordsnet.com/bkfanml.htm](https://dragonlords.fans/bkfanml.htm). Remember, every time you order something through the Dragonlords Bookstore, a portion of the proceeds goes to support QO. The website, PO Box, and other mundane stuff costs money to maintain, and this is how we keep our online memberships free. The maps in *The Valdemar Companion* are exelent, even though they cover only about the eastern 60% of what we know about Velgarth. You'll find far more detail than we've seen before. Misty, Larry and company are trying to get the complete map published as a poster. We'll let you know if we hear anything more about that.
 
-Those of you on the QO chatlist may have noticed that it has been revived! If you are not on and wish to join, contact Healer Adept Moonstar at [healermoon@gmail.com](mailto:healermoon@gmail.com); she�ll be glad to help set you up. We hope to get the chatroom and the Vanyel Fan Club list back up and running again soon as well. In the meantime, remember our message boards in our Delphi Forum. Also, for those of you with AOL, Arrows OnLine has message boards in the fandom section.
+Those of you on the QO chatlist may have noticed that it has been revived! If you are not on and wish to join, contact Healer Adept Moonstar at [healermoon@gmail.com](mailto:healermoon@gmail.com); she'll be glad to help set you up. We hope to get the chatroom and the Vanyel Fan Club list back up and running again soon as well. In the meantime, remember our message boards in our Delphi Forum. Also, for those of you with AOL, Arrows OnLine has message boards in the fandom section.
 
 We will be doing a complete reworking of the site, based on information from *The Valdemar Companion*. We will be trying to fix all the webrings, broken links and other stuff that people have told us about. If you have suggestions for things you want to see, please let us know.
 
@@ -45,8 +41,6 @@ We look forward to continuing our adventure in fandom with you in 2002. We hope 
 Zhai'helleva,
 
 Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <a href="http://www.amazon.com/exec/obidos/ASIN/0886773520/dragonlordsofdumA/"><img alt="" class="float-left" loading="lazy" src="/ml4.gif"/></a>
 
@@ -164,7 +158,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 ### Germany
 
-**AN EVENING WITH MICHAEL SHANKS.** E-mail: [information@wolfevents.co.uk](mailto:information@wolfevents.co.uk). Website: [http://www.wolfevents.co.uk/](http://www.wolfevents.co.uk/). Location: OPEL Live Conference Center, R�sselsheim. Dates: 1/25/02.
+**AN EVENING WITH MICHAEL SHANKS.** E-mail: [information@wolfevents.co.uk](mailto:information@wolfevents.co.uk). Website: [http://www.wolfevents.co.uk/](http://www.wolfevents.co.uk/). Location: OPEL Live Conference Center, R'sselsheim. Dates: 1/25/02.
 
 ### Ireland
 
@@ -186,8 +180,6 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 <a href="http://www.amazon.com/exec/obidos/ASIN/0886777208/dragonlordsofdumA/"><img alt="" class="float-right" loading="lazy" src="/ml6.gif"/></a>
 
 ## Member News:
@@ -196,7 +188,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ### Local chapters:
 
-- **Arrows OnLine:** It�s back! *Arrows OnLine* has returned as an official chapter of Queen�s Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion�s Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey�s Fiction**, is a general discussion of Misty�s books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Herald Ryhannon Gaia Degent, at [MistyKalia@aol.com](mailto:MistyKalia@aol.com).
+- **Arrows OnLine:** It's back! *Arrows OnLine* has returned as an official chapter of Queen's Own. To find them, go to Keyword **Mercedes Lackey** on AOL. Click on **Mercedes Lackey Fandom**. You can see their chatroom, **Companion's Grove**, at that point, but to get to the message boards, click on **Message Boards**. For the Arrows message boards, click on **Mercedes Lackey Fan Group** (The other option, **Mercedes Lackey's Fiction**, is a general discussion of Misty's books and is not part of Arrows.). If you get lost or have additional questions, contact the Arrows Dean, Herald Ryhannon Gaia Degent, at [MistyKalia@aol.com](mailto:MistyKalia@aol.com).
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
@@ -206,15 +198,13 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 ### Zines and Newsletters:
 
 - ***Austral'a'in*:** Editor: Cassandra Vuksa, P.O. Box 1850, Woden, ACT 2606, Australia, E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au). We print fiction (both fanfic on Velgarth and other fantasy stories), poetry, art, reviews, recipes, articles, personas, penpal ads and stacks more! Each issue is eight pages (four double-sided) and you get eight issues a year for the measly cost of $8 Australian (or 8 x 45 cent stamps) for Australians, or $12 Australian (or 15 IRCs) for people overseas. (If you can't get Australian funds or IRCs, e-mail me, because we might be able to negotiate some other form of payment, such as CDs that are unavailable in Australia!) The cost of membership covers postage and printing - we're a strictly not-for-profit group. If you are interested in more information, or have stories or other submissions that you would like to see published, contact me! **Attention all writers and artists:**Austral'a'in is desperately seeking submissions. We are also always looking for new members. Please? Contact me (Cassandra) at [garou@netspeed.com.au](mailto:garou@netspeed.com.au) for details!
-- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I�m moving at the end of May. I don�t want any orders to go astray.)
+- ***Children of Velgarth*:** Editor: Kendra Renaud, P.O. Box 749, Laguna Beach, CA 92652. I publish new and old personae, even previously published persona if asked by members in this new, official QO zine. I will only accept what was sent in for your persona to Queen's Own to be recognized. Any fan fiction written later should be sent to one of the other zines who really need it to keep their zines going. This fanzine will be published periodically when it reaches 80 pages or so to keep costs at $5.00 payable in U.S. funds or 12 IRCs. Make checks payable to "Kendra Renaud". The fee covers the cost of printing and mailing; you may share (but not duplicate!) copies of the fanzine. Watch the Queen's Own newsletter for release dates. Volume 2, Issue 2 is now available! For the contents list and additional information, visit [Children of Velgarth](/children-of-velgarth/). (Special Note: Make sure you use the P.O. Box Address and not my home address since I'm moving at the end of May. I don't want any orders to go astray.)
 - ***Collegium Chronicles*:** Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). The Venerable Pacific Northwest Collegium is looking for a few good writers and artists for its newsletter Collegium Chronicles. It would e preferable if folks had e-mail access. I am looking for stories that are primarily fantasy--QO persona requirements are acceptable, so long as they are in story format. Poetry, articles and essays also welcome. Come join us in what will be the final year of this nearly decade-long newsletter. $8 per year/$4 for a half-year, $2 per issue. Final issue will be June/July of 2001. Get your dues in early reap the full benefits! Great artwork (see our webpage at [Collegium Chronicles](/pacific-northwest-collegium/)) great stories, news of local events in the Pacific Northwest area. All are welcome. (P.S. If anyone is interested in taking over the Chronicles after next summer, let me know! I'd hate to see such a noble creature die out.)
 - ***Companions' Grove:*** Editor: Devin Harris (Blue Devyn). It's back! The venerable warhorse--uh, make that venerable Companion &lt;g>--of QO 'zines is resuming publication. Plans are underway to bring old issues back into print as well. For submission and subscription information visit [http://greendragon.fanspace.com/misty.html](http://greendragon.fanspace.com/misty.html) or write to Green Dragon Press, c/o Devin Harris, 4531 N Kelishan St., Pahrump, NV 89060. If you have any of the original publications, please contact Blue Devyn at [devin@greendragonpress.net](mailto:devin@greendragonpress.net). She's attempting to bring the old issues back into print in addition to offering new issues.
 - ***Companion's Quarterly***. The snail mail newsletter of Herald's Waystation (See chapter description above.). We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 <a href="http://www.amazon.com/exec/obidos/ASIN/0886774268/dragonlordsofdumA/"><img alt="" class="float-left" loading="lazy" src="/ml7.gif"/></a>
 
@@ -249,21 +239,19 @@ We have no new personae to announce at this time (although three people are very
 
 Heyla, all!
 
-This month has been very hard for me. My husband and I are both in school online. I am in my second class, which is tremendously more difficult than my first and requires much more time spent on the computer. Our laptop died, bad hard drive, and Best Buy didn�t fix it the first time it was sent out, which required me going to the store and screaming at the manager. It is still out �&lt;grrrr>. Our laptop has been gone all month; we are trying to figure out how to share our desktop, and that is not going as well as we would like &lt;grin>. End result: My e-mail is backed up since the beginning of December. If I owe you an e-mail I will get to it soon. I hope.
+This month has been very hard for me. My husband and I are both in school online. I am in my second class, which is tremendously more difficult than my first and requires much more time spent on the computer. Our laptop died, bad hard drive, and Best Buy didn't fix it the first time it was sent out, which required me going to the store and screaming at the manager. It is still out '&lt;grrrr>. Our laptop has been gone all month; we are trying to figure out how to share our desktop, and that is not going as well as we would like &lt;grin>. End result: My e-mail is backed up since the beginning of December. If I owe you an e-mail I will get to it soon. I hope.
 
-Other news, I am going out for surgery twice in February. At the beginning of the month I am getting a laparoscopy for possible endometriosis. I am a little nervous about this because my younger sister had to have a partial hysterectomy at 23 due to endometriosis. I don�t really know much about this. It will be at the beginning of the month, but I am unsure when. I am also getting shoulder surgery. I have more details on the shoulder surgery. This surgery will likely be the 27th of February and will require 4-6 weeks to recover from. I have a large bone spur, and they will remove it as well as drill away part of my collarbone to make more room for my shoulder to move in the socket. They will also likely have to sew my rotator cuff back together as the spur has probably ripped up the muscle and/or tendon. I am having an MRI next month to determine the extent of the damage in my shoulder.
+Other news, I am going out for surgery twice in February. At the beginning of the month I am getting a laparoscopy for possible endometriosis. I am a little nervous about this because my younger sister had to have a partial hysterectomy at 23 due to endometriosis. I don't really know much about this. It will be at the beginning of the month, but I am unsure when. I am also getting shoulder surgery. I have more details on the shoulder surgery. This surgery will likely be the 27th of February and will require 4-6 weeks to recover from. I have a large bone spur, and they will remove it as well as drill away part of my collarbone to make more room for my shoulder to move in the socket. They will also likely have to sew my rotator cuff back together as the spur has probably ripped up the muscle and/or tendon. I am having an MRI next month to determine the extent of the damage in my shoulder.
 
-However, Yule was great! My mom called and wished me a "Cool Yule." In years past she accused me of becoming a Pagan so that I could open my presents a few days early. This is a big step for her, and I am really happy. Yule evening, Danya and her family joined us as well as some friends of mine from Los Angeles and my favorite cousin has flown in to spend some time with us for the holidays. We had more dirty dishes than at Thanksgiving &lt;grin>. Thanks to my husband, Jay for filling the dishwasher �I am not sure how many times to wash all the dishes. I also got some pretty neat gifts. Thanks, everyone!
+However, Yule was great! My mom called and wished me a "Cool Yule." In years past she accused me of becoming a Pagan so that I could open my presents a few days early. This is a big step for her, and I am really happy. Yule evening, Danya and her family joined us as well as some friends of mine from Los Angeles and my favorite cousin has flown in to spend some time with us for the holidays. We had more dirty dishes than at Thanksgiving &lt;grin>. Thanks to my husband, Jay for filling the dishwasher 'I am not sure how many times to wash all the dishes. I also got some pretty neat gifts. Thanks, everyone!
 
-I am planning on spending New Year�s with Danya and her family, and I hope you all have wonderful plans for your holiday!
+I am planning on spending New Year's with Danya and her family, and I hope you all have wonderful plans for your holiday!
 
 Happy New Year!
 
 Hugs-
 
 Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Fan Messages:
 
@@ -276,8 +264,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **White Winds Soceress Shadow Weaver**. I am looking for gothic and sci/fi fantasy events in Ohio/KY/Indiana/West Virginia to merchant at. If you have any info please e-mail [cimeshadow@aol.com](mailto:cimeshadow@aol.com) or snail mail Lisa Brawner at P.O. Box 8335, Lexington, KY 40533-8335.
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 ## Personals:
 
 - **From Aurora Nelson. To All My Penpals.** (you know who you are): Hope you all had a great holiday season! To the multitude of my friends (and anyone else) with a birthday in January … Happy Birthday! I just realized how many of you there are! We could take over the world! ^^ For any friends, old, new, or as yet undiscovered, wishing to get in contact with me, you may email me at [aurora@temarrea.com](mailto:aurora@temarrea.com) or [temarrea@yahoo.com](mailto:temarrea@yahoo.com). Or snail mail at: 2843 Hopyard Rd PMB#189, Pleasanton, CA, 94588, USA.
@@ -285,8 +271,6 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Do you need a cloak for your personna garb? If so I make and sell cloaks--all colors for $42.99 plus $6.95 shipping and handling. I sell direct or through Ebay, if you feel uncomfortable with a private sale. E-mail [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: QO Newsletter.** Needed February 88 through March 91, Queen's Own newsletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
@@ -307,9 +291,3 @@ Zhai'helleva,
 Herald-Mage Master Danya Winterborn and
 
 Healer Adept Moonstar
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

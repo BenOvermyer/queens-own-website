@@ -1,37 +1,8 @@
 {
-  "schema_version": 1,
-  "front_matter": {
-    "title": "Non-player character directory",
-    "path": "npc-directory",
-    "template": "page.html",
-    "extra": {
-      "legacy_source": "qonpc.htm",
-      "bgcolor": "blue",
-      "text": "white",
-      "link": "aqua",
-      "vlink": "silver",
-      "historical": true,
-      "topic": "personas",
-      "canonical_path": "/npc-directory/",
-      "revised": "10/17/26"
-    }
-  },
-  "preamble": [
-    "## Queen's Own",
-    "## NPC List",
-    "<img alt=\"\" loading=\"lazy\" src=\"/pegasus.gif\"/>",
-    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" class=\"float-left\" loading=\"lazy\" src=\"/ml4.gif\"/></a>These are the approved additional personae (NPCs) for Queen's Own. To create a recognized NPC, you have to do everything on a [handout](/persona-handouts/), just as you would if you were creating an initial persona. (You do not have to do this if you simply want to make up characters to use in stories. The NPCs listed on this page represent only those characters for whom the member has done the additional work.) If you have an approved NPC persona who is not listed here, please contact [me](mailto:shashtah@gmail.com).",
-    "If a name is not linked and does not have an asterisk (&#42;), then we do not know how to reach that person. If you know him/her, please have him/her contact us with a current address!",
-    "&#42;=e-mail withheld by request or unavailable.",
-    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" class=\"float-right\" loading=\"lazy\" src=\"/ml5.gif\"/></a>Each person may have as many NPC personae as s/he wishes. The NPC will only be listed on this page, however, if the club member has done all of the required work on the [handout](/persona-handouts/) for that character type.",
-    "Dates following the names indicate the date of publication of the newsletter in which the persona was recognized. Herald-Mages have multiple dates, indicating their date of acceptance as a Herald and the date they earned each of their Herald-Mage ranks.",
-    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" loading=\"lazy\" src=\"/ml7.gif\"/></a>"
-  ],
+  "schema_version": 2,
   "sections": [
     {
-      "title": "Heralds",
-      "url": "/herald-handout/",
-      "notes": [],
+      "id": "heralds",
       "entries": [
         {
           "persona": "Herald Adera shena Vyusher'edras",
@@ -296,15 +267,11 @@
       ]
     },
     {
-      "title": "Herald Mages",
-      "url": "/herald-mage-handout/",
-      "notes": [],
+      "id": "herald-mages",
       "entries": []
     },
     {
-      "title": "Bards",
-      "url": "/bard-handout/",
-      "notes": [],
+      "id": "bards",
       "entries": [
         {
           "persona": "Bard Jarel Snowfyre",
@@ -365,9 +332,7 @@
       ]
     },
     {
-      "title": "Healers",
-      "url": "/healer-handout/",
-      "notes": [],
+      "id": "healers",
       "entries": [
         {
           "persona": "Healer Cinnamon Ava",
@@ -436,15 +401,11 @@
       ]
     },
     {
-      "title": "Mercenaries",
-      "url": "/military-handout/",
-      "notes": [],
+      "id": "mercenaries",
       "entries": []
     },
     {
-      "title": "Shin'a'in",
-      "url": "/shina-in-handout/",
-      "notes": [],
+      "id": "shin-a-in",
       "entries": [
         {
           "persona": "Herald Adera shena Vyusher'edras",
@@ -469,11 +430,7 @@
       ]
     },
     {
-      "title": "Kal'enedral",
-      "url": "/shina-in-handout/",
-      "notes": [
-        "Note: Some details do not match the current handout because the characters were developed and approved prior to the creation of the handout."
-      ],
+      "id": "kal-enedral",
       "entries": [
         {
           "persona": "Shin'a'in Kal'enedral Ta'hanya shena Liha'irden",
@@ -490,9 +447,7 @@
       ]
     },
     {
-      "title": "Tayledras",
-      "url": "/tayledras-handout/",
-      "notes": [],
+      "id": "tayledras",
       "entries": [
         {
           "persona": "Scout Cometfire k'Vaia",
@@ -556,10 +511,5 @@
         }
       ]
     }
-  ],
-  "postamble": [
-    "## [White Winds Sorcerers/Sorceresses](/sorcerer-handout/)",
-    "<img alt=\"\" loading=\"lazy\" src=\"/barcomp.gif\"/>",
-    "<a href=\"/\"><img alt=\"\" class=\"float-center\" loading=\"lazy\" src=\"/qobuthome.gif\"/></a> [Return to the Queen's Own Home Page](/)"
   ]
 }

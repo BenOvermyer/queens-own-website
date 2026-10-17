@@ -4,33 +4,23 @@ path = "compass-rose/about"
 template = "page.html"
 [extra]
 legacy_source = "qojournal.htm"
-bgcolor = "blue"
-text = "white"
-link = "aqua"
-vlink = "silver"
 historical = true
 topic = "publications"
 canonical_path = "/compass-rose/about/"
 revised = "10/18/20"
 +++
 
-## The Queen's Own
-
-## Compass Rose
-
 ## An Online, Nonfiction Journal
 
 <img alt="The Compass Rose by Laura Cameron" loading="lazy" src="/comprose.jpg"/>
 
-Named for the tavern that served as the favorite gathering place for the Blues and their instructors in Mercedes Lackey's [*The Mage Storms Trilogy*](https://dragonlords.fans/bkmlvs.htm), this nonfiction journal is sponsored by Queen's Own to provide a place for people to publish nonfiction material related to Mercedes Lackey's works. Mercedes Lackey greatly values the fact that Queen's Own encourages educational efforts among her fans. As part of this endeavor, Queen's Own has created *The Compass Rose* to promote all forms of nonfiction writing.
+Named for the tavern that served as the favorite gathering place for the Blues and their instructors in Mercedes Lackey's *The Mage Storms Trilogy*, this nonfiction journal is sponsored by Queen's Own to provide a place for people to publish nonfiction material related to Mercedes Lackey's works. Mercedes Lackey greatly values the fact that Queen's Own encourages educational efforts among her fans. As part of this endeavor, Queen's Own has created *The Compass Rose* to promote all forms of nonfiction writing.
 
 All issues of this journal are offered to Internet users free of charge under the following conditions: Internet users may maintain one electronic copy and one print copy of the file for use by members of the user's household. Permission to otherwise duplicate or "lend" any of these files without the credited author's written consent is expressly denied.
 
 Frequency of publication is "when we get enough material to put together and issue" &lt;g>. Watch the Queen's Own [newsletter](/newsletter-guidance/) for release dates. [Issue 1](/compass-rose/summer-2000/) is now online!
 
 E-mail questions regarding the journal to the editor, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com).
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Submission Information:
 
@@ -42,12 +32,6 @@ If you want, you may submit journal materials via e-mail when possible. Send wri
 
 A special thanks to Laura Cameron for designing *The Compass Rose* logo!
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 [Vol. 1, No. 1](/compass-rose/summer-2000/)
 
 [Vol. 2, No. 1](/compass-rose/spring-2002/)
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

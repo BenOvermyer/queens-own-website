@@ -5,10 +5,6 @@ template = "page.html"
 [extra]
 legacy_source = "vfcgate.htm"
 source_site = "dragonlords.fans"
-bgcolor = "black"
-text = "white"
-link = "white"
-vlink = "white"
 historical = true
 topic = "community"
 canonical_path = "/vanyel-fan-club/heralds-haven-gate/"
@@ -23,7 +19,3 @@ If you are a member of the Vanyel Fan Club, proceed into the Gate, if you so des
 <a href="/vanyel-fan-club/heralds-haven/"><img alt="" loading="lazy" src="/vfcgate.jpg"/></a>
 
 (Note: This gate is not currently active. [Join the VFC](/vanyel-fan-club/chat/) to be notified when Heralds' Haven is once again functioning.)
-
-<img alt="" loading="lazy" src="/rainbar.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page](/vanyel-fan-club/)

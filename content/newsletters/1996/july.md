@@ -5,10 +5,6 @@ template = "page.html"
 date = 1996-07-01
 [extra]
 legacy_source = "qojul96.htm"
-bgcolor = "blue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "publications"
 canonical_path = "/newsletters/1996/july/"
@@ -48,7 +44,7 @@ News from Teri Lee at Firebird:
 
 "Forgery alert. Persistent rumors have surfaced about bootleg albums being produced and sold. Please keep your eyes out for these bogus albums. Likely candidates are albums by Leslie Fish, including Chickasaw Mountain, Firestorm, Undertaker's Horse, and Cold Iron. Bootleg albums are reproduced from a low quality cassette master, so the sound quality is very poor. Bootlegs steal income from the artist, songwriter, cover artist, production company, engineer, and producer." - Teri Lee
 
-*The Arrows of the Queen Concordance* is fun to read and will bring back many memories. I love Larry Dixon's emblem of the elite Silver Gryphon Guards, both as a patch and as a silver and black cloisonn� pin. It's even on a T-shirt! Can't find one of Misty's books? Firebird carries them all, plus related music, art, jewelry, and stationery. There's music for every taste from filk & folk to soundtracks; books by Josepha Sherman, Tanya Huff, Barbara Hambly and others; T-shirts, Celtic knot pewter pendants, videos of Steeleye Span and Tempest - 62 pages of treasure. And, of course, all of Misty's books and related music, art, jewelry, and stationary can be ordered from Firebird. Check out Firebird's most up-to date product information on the World Wide Web at [http://www.firebirdarts.com](http://www.firebirdarts.com) - e-mail orders may be sent to [firebird@firebirdarts.com](mailto:firebird@firebirdarts.com). [Ed. Note 2002: Additional out-of-date contact information withheld.] Note: Firebird does NOT ship to prison addresses. The paperwork involved varies from state to state - ther's just too much red tape. Sorry, guys.
+*The Arrows of the Queen Concordance* is fun to read and will bring back many memories. I love Larry Dixon's emblem of the elite Silver Gryphon Guards, both as a patch and as a silver and black cloisonn' pin. It's even on a T-shirt! Can't find one of Misty's books? Firebird carries them all, plus related music, art, jewelry, and stationery. There's music for every taste from filk & folk to soundtracks; books by Josepha Sherman, Tanya Huff, Barbara Hambly and others; T-shirts, Celtic knot pewter pendants, videos of Steeleye Span and Tempest - 62 pages of treasure. And, of course, all of Misty's books and related music, art, jewelry, and stationary can be ordered from Firebird. Check out Firebird's most up-to date product information on the World Wide Web at [http://www.firebirdarts.com](http://www.firebirdarts.com) - e-mail orders may be sent to [firebird@firebirdarts.com](mailto:firebird@firebirdarts.com). [Ed. Note 2002: Additional out-of-date contact information withheld.] Note: Firebird does NOT ship to prison addresses. The paperwork involved varies from state to state - ther's just too much red tape. Sorry, guys.
 
 *Storm Breaking* is still some months away, as is *The Friends of Valdemar*, a short story collection. Available now is Michelle West's *Hunter's Death*, the sequel to *Hunter's Oath*.
 
@@ -132,8 +128,6 @@ Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. Note 2002: phone wi
 
 [End Excerpt]
 
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
 Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is to share our enjoyment of Misty's worlds. We are a fan-run not-for-profit organization, not a business. Our address of publication: P.O. Box 749, Laguna Beach, CA 92652 USA. This newsletter is published solely to inform and entertain the club's membership; no infringement of anyone's copyrights is intended.
 
 Newsletters are published on (or near) the first of each month.
@@ -149,9 +143,3 @@ Mercedes Lackey c/o High Flight Arts and Letters P.O. Box 2970 Claremore, OK 740
 Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-<a href="/newsletter-guidance/"><img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/></a> [Return to the Queen's Own Newsletter Page](/newsletter-guidance/)
-
-<a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

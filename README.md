@@ -53,10 +53,16 @@ Member names and contact addresses for the persona and NPC directories are kept 
 not rendered. After editing them, regenerate the public pages with
 `python3 scripts/sanitize_persona_directories.py`; the script writes
 `content/personas/persona-directory.md` and `content/personas/npc-directory.md`
-without member names or email addresses. Each JSON source has `front_matter`,
-`preamble`, `sections` and `postamble`; section entries carry `persona`, optional
-`persona_url`, `player`, `email`, and a `details` list of `date`, `gifts`, `note` or
-`raw` fragments. The renderer omits `player` and `email`.
+without member names or email addresses. Each JSON source has `schema_version = 2`
+and `sections` containing a stable `id` and persona `entries`. Entries carry
+`persona`, optional `persona_url`, `player`, `email`, and a `details` list of
+`date`, `gifts`, `note`, or `raw` fragments. The renderer omits `player` and `email`.
+
+Only persona lists are generated. Each list in the Markdown is enclosed by
+`<!-- persona-list:SECTION-ID:start -->` and `<!-- persona-list:SECTION-ID:end -->`.
+Keep those markers when editing. Front matter, headings, section notes, preambles,
+and closing copy live only in Markdown and survive regeneration unchanged. To add
+a section, add its ID and entries to JSON and a matching marker pair in Markdown.
 
 Club pages close with a shared sign-off: “Zhai’helleva, Herald-Mage Adept Danya
 Winterborn”. Its salutation, name, and address live in `config.toml` under
@@ -65,6 +71,18 @@ them, so pages simply write `{{ <signoff /> }}`. Change the config values to upd
 the coda everywhere. The signature uses the self-hosted Great Vibes script
 (`static/fonts`, OFL); layout and type are styled by `.signoff` in
 `static/css/site.css`.
+
+Artwork with a title and artist credit uses the `artwork` component in
+`templates/components.html`:
+
+```text
+{{ <artwork src="/cc2a.gif" title="Danya Winterborn and Bard Kestran" artist="Laura Cameron" alt="Danya and Kestran" /> }}
+```
+
+An optional `note="..."` adds provenance below the credit. Use `href="/path/"`
+to link the image and `artist_url="/path/"` to link the artist credit. Supply descriptive
+`alt` text for the image. Shared `.artwork` rules in `static/css/site.css` control
+the responsive image, centered caption, title, and attribution.
 
 To regenerate canonical links, redirects, and publication indexes after changing
 the preserved archive or refreshing PDF availability evidence:
