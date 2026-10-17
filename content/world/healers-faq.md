@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/healers-faq/"
+revised = "2/5/02"
 +++
 
 ## Healer FAQ
-
-## (Revised 2/5/02)
 
 Medicine on Velgarth takes two basic forms. There's the mundane application of herbs and things like bandages, and then there is Healing through Mind Magic.
 

@@ -32,13 +32,13 @@ Mercedes Lackey Fan Club
 
 <img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg"/>Dear Misty Fans,
 
-She likes it! ("It" being the replica of *Need*, of course, and "she" obviously being Misty.) To all of you who enviously said, "Have a great time at DreamCon," I wasn't there either! But the Pacific Northwest Collegium did us all proud. Here's Tia Schmidt's report of the weekend . . .
+She likes it! ("It" being the replica of *Need*, of course, and "she" obviously being Misty.) To all of you who enviously said, "Have a great time at DreamCon," I wasn't there either! But the Pacific Northwest Collegium did us all proud. Here's Tia Schmidt's report of the weekend …
 
 "Pacific Northwest Collegium was proud to represent all of Queen's Own at DreamCon6 held in Everett, QA, with Misty and Larry as Guests of Honor.
 
 "Of course PNWC attended all filk concerts/filk circles and Larry & Misty panels and by the middle of the weekend we were affectionately referred to as 'The White Out'! Spontaneous invitations by Misty brough the Collegium to her suite Satruday noon for a private book signing, which Larry later joined and also provided his autograph and humo! A mid-afternoon birthday party for Herald Kym's Companion Marcus (her car in his mundane role) resulted in another invitation to Misty's suite. Everyone clamored for a story which Misty graciously responded to with a reading of the Herald short story in *Horsefantastic*. At the end of the reading, we promptly cleared the room to go prepare for the evening filk convert (and the *still* secret presentation!). Saturday evening, filk was presented by Misty, Tom Paine, and PNWC member Cecelia Eng. After 45 minutes of fun, including a song dedicated by Misty to our beloved Herald Housemother sung by Misty in the appropriate 'New Joisey' accent, we were led by Cecelia Eng into a rousing rendition of 'Sunhawks.' After the applause died down, it was time for THE PRESENTATION!
 
-"A group of Collegium members approached Misty, and Herald Kym announced we had a gift we thought she might be *Needing*. After first confusing the carton for an odd shaped pizza, Misty was completely stunned to recognize *Need*. (Response was reminiscent of Elspeth in *Winds of Fate*.) Larry, holding the scabbard as *Need* was sheathed, quickly reminded Misty *he* could not handle *Need* itself. When the laughter died down, Herald Stefanna presented Need's plaque, which Misty read aloud to the assemblage . . . Herald Tarn and Healer-Trainee Lisa also presented Collegium T-shirts and buttons to Misty and Larry.
+"A group of Collegium members approached Misty, and Herald Kym announced we had a gift we thought she might be *Needing*. After first confusing the carton for an odd shaped pizza, Misty was completely stunned to recognize *Need*. (Response was reminiscent of Elspeth in *Winds of Fate*.) Larry, holding the scabbard as *Need* was sheathed, quickly reminded Misty *he* could not handle *Need* itself. When the laughter died down, Herald Stefanna presented Need's plaque, which Misty read aloud to the assemblage … Herald Tarn and Healer-Trainee Lisa also presented Collegium T-shirts and buttons to Misty and Larry.
 
 "Cecelia Eng provided a unique bottle of wine with 'contents of Valdemar.' Misty commented on the 'white' label graced by a horse.
 
@@ -48,11 +48,11 @@ She likes it! ("It" being the replica of *Need*, of course, and "she" obviously 
 
 Steelwolf Armourie was commissioned to build the replica of *Need*. Misty's *Need* is a Norman style sword 28" long, straight double edged with a wide fuller. The guard and pommel are of steel and the handle is leather wrapped maple. The scabbard is bass wood covered with leather and a 2 ring hanger. The belt was to be fitted to Misty at the Con. *Need* can hang on the wall in the Great Hall of The Aerie and look pretty, but if Misty chooses to wear it, it's ready for action. To discuss obtaining your own sword from Steelwolf Armourie, write to [Ed. note 2003: Out-of-date information withheld.].
 
-The ad for *Born to Run* in the November issue of **LOCUS** announces: "Hot Cars, Fast Elves, & Rock-N-Roll . . . A New Urban Fantasy Series by the Hottest New Writer in Fantasy.
+The ad for *Born to Run* in the November issue of **LOCUS** announces: "Hot Cars, Fast Elves, & Rock-N-Roll … A New Urban Fantasy Series by the Hottest New Writer in Fantasy.
 
 "There are elves out there. And more elves are coming. But even elves need money to survive in the 'real' world. Good elves, intrigued by the thrills of stock car racing, are manufacturing new light-weight engines (with, incidentally, very little 'cold' iron); the bad elves run a kiddie-porn and cnuff-film ring, with occasional forays into drugs.
 
-"The people trapped in between: three runaways. Good kids already in serous trouble and about to get into more. Unwitting pawns in a deadly game, they will either be saved--or led into a fate worse than death . . . "
+"The people trapped in between: three runaways. Good kids already in serous trouble and about to get into more. Unwitting pawns in a deadly game, they will either be saved--or led into a fate worse than death … "
 
 Release date: March 1992.
 
@@ -72,7 +72,7 @@ Jody Lee will be Artist Guest of Honor at Boskone 29 in Springfield, Massachuset
 
 ## Collegium News:
 
-I've gotten Herald packets by FedEx, by priority mail, by UPS--and I've gotten 10 pages squished into a standard size envelope with postage due! **Please**, all would-be Heralds, Bards, Healers, whatever . . . please send me all your material at one time. And **please** invest a few cents in a large envelope so your material can be mailed flat. The cats think crumpled pages of notebook paper should be theirs. To all Heralds, Healers, Bards and others who have created personas and breathed life into them: **Send your stories and poems and art to one of our zines!**
+I've gotten Herald packets by FedEx, by priority mail, by UPS--and I've gotten 10 pages squished into a standard size envelope with postage due! **Please**, all would-be Heralds, Bards, Healers, whatever … please send me all your material at one time. And **please** invest a few cents in a large envelope so your material can be mailed flat. The cats think crumpled pages of notebook paper should be theirs. To all Heralds, Healers, Bards and others who have created personas and breathed life into them: **Send your stories and poems and art to one of our zines!**
 
 Welcome, **Herald Janna Raskeya**, Chosen by Kshaver and gifted with Mindspeech and Fetching. *Jenny Lorinsky* sent the story of her persona and her family, a drawing, a snapshot that proves she knows how to ride and a poem.
 
@@ -118,15 +118,15 @@ From *Peter Sachs*, [Ed. note 2003: Out-of-date information withheld.]: An Ontar
 
 The Ohio Chapter of Queen's Own, **The Herald's Companion**, has a new fearless leader and address. Write to *Karen Bertke, 5694 Scarborough Drive, Cincinnati, OH, 45238* for more information. Also, if you did not get the August issue, please let Karen know.
 
-From *Lavina Cheung* [Ed. note 2003: Out-of-date information withheld.]: "Greetings from/to VA, MD, DC! For an update, yes, we will be putting out a newsletter. It *should* be out by December . . . If area QOers haven't written us yet, please do. Or call me (Vacina) at [Ed. note 2003: Out-of-date information withheld.]."
+From *Lavina Cheung* [Ed. note 2003: Out-of-date information withheld.]: "Greetings from/to VA, MD, DC! For an update, yes, we will be putting out a newsletter. It *should* be out by December … If area QOers haven't written us yet, please do. Or call me (Vacina) at [Ed. note 2003: Out-of-date information withheld.]."
 
 From *Kevin Donesin* [Ed. note 2003: Out-of-date information withheld.]: I am willing to start a QO chapter/newsletter for the western North Carolina area. If there are interested QO members in the area, please contact me at Warren Wilson College.
 
 For the CT, ME, MA, NH, RI and VT areas: A New England chapter called **The Collegia's Tapestry**. Heather Lantz is willing to put out a bi-monthly newsletter and a penpal directory. Tenative dues are [Ed. note 2003: Out-of-date information withheld.].
 
-Hey!! We know you're out there! Everyone can be a poet. You don't htink so? Well, we do! Join *DREAMSCAPES*, the Queen's Own Poetry Club. Send a SASE to [Ed. note 2003: Out-of-date information withheld.]. Our first newsletter is coming along nicely. Now, we just need you! ,P> "My name is Anna Smith, and I'm trying to start a new fanzine. Poems, word puzzles, songs, stories, quotes, art-work . . . I would really like to use persona stories, if anyone is interested. Please send a SASE to [Ed. note 2003: Out-of-date information withheld.].
+Hey!! We know you're out there! Everyone can be a poet. You don't htink so? Well, we do! Join *DREAMSCAPES*, the Queen's Own Poetry Club. Send a SASE to [Ed. note 2003: Out-of-date information withheld.]. Our first newsletter is coming along nicely. Now, we just need you! ,P> "My name is Anna Smith, and I'm trying to start a new fanzine. Poems, word puzzles, songs, stories, quotes, art-work … I would really like to use persona stories, if anyone is interested. Please send a SASE to [Ed. note 2003: Out-of-date information withheld.].
 
-*Lynn Tucker* [Ed. note 2003: Out-of-date information withheld.] announces *Shards of Autumn*, a novella by QO member Den Elms. The price for the 55-60 page zine is [Ed. note 2003: Out-of-date information withheld.]. *Shards of Autumn* is a look at the darker side of Valdemar. Den says, " . . . my story is about despair, sorrow and pain, with hope the only escape. It is . . . a very darkly Gothic, darkly romantic vision of Valdemar."
+*Lynn Tucker* [Ed. note 2003: Out-of-date information withheld.] announces *Shards of Autumn*, a novella by QO member Den Elms. The price for the 55-60 page zine is [Ed. note 2003: Out-of-date information withheld.]. *Shards of Autumn* is a look at the darker side of Valdemar. Den says, " … my story is about despair, sorrow and pain, with hope the only escape. It is … a very darkly Gothic, darkly romantic vision of Valdemar."
 
 "Children of the Firstborn" is the newsletter of the Jennifer Roberson fan club, run by QO member Stephanie Anderson. For more information , send a SASE to [Ed. note 2003: Out-of-date information withheld.].
 
@@ -186,7 +186,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

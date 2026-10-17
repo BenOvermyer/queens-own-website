@@ -11,13 +11,12 @@ vlink = "silver"
 historical = true
 topic = "publications"
 canonical_path = "/newsletter-guidance/"
+revised = "1/13/2024"
 +++
 
 ## Queen's Own
 
 ## Newsletters
-
-### (Revised 1/13/2024)
 
 <img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 
@@ -62,7 +61,7 @@ Do you have information about an upcoming Ren Faire in your region? Tell us abou
 
 ## III. <a id="cons"></a>
 
-Misty no longer attends conventions, but many of Misty's fans still do. If you know about a convention that's coming up that has a Misty-related section or a section of interest to Misty's fans, tell us about it! Make sure you include date, time, place, and where to contact someone for more information. Pricing information is great if you have it. If you are working at a convention, we'd like to know that, too! If you are interested in organizing a Queen's Own section for an upcoming convention, contact [Herald-Mage Danya](mailto:Legend@malcor.com). We'd like to offer all the support and help we can.
+Misty no longer attends conventions, but many of Misty's fans still do. If you know about a convention that's coming up that has a Misty-related section or a section of interest to Misty's fans, tell us about it! Make sure you include date, time, place, and where to contact someone for more information. Pricing information is great if you have it. If you are working at a convention, we'd like to know that, too! If you are interested in organizing a Queen's Own section for an upcoming convention, contact [Herald-Mage Danya](mailto:shashtah@gmail.com). We'd like to offer all the support and help we can.
 
 <a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml21.gif"/></a>
 

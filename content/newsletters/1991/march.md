@@ -36,11 +36,11 @@ Misty and Larry are raising an injured kesstrel named Vincent who accompanied th
 
 "Just before we left Las Vegas we found a vet who is also a falconer: He treated Vincent for a cracked beak, and x-rayed the wing, and it's good news! We'll be able to release him in about a year! Meanwhile he is coming along well as a trained falcon; comes to the fist for food now, and goes happily into his cage under his own power. In fact, this afternoon he was waiting, pacing at the door of the cage when he saw me with dinner, and POUNCED on the fist."
 
-A few days later . . . "Oh, anybody know how to get a mouse out of a Suzuki? We bought Vincent three, but the box came open and we only found two . . . gonna be a mouse-cicle for Vincent if we don't find it soon."
+A few days later … "Oh, anybody know how to get a mouse out of a Suzuki? We bought Vincent three, but the box came open and we only found two … gonna be a mouse-cicle for Vincent if we don't find it soon."
 
-Five days later . . . "We found the mouse-cicle, hidden under the seat of Skandranon, the Black Gryphon (our unstoppable Suzuki Sidekick). Vincent said 'Oooh! A frozen treat, for lil' ol' me?!' and ate it. Deferring details of falcon mouse-eating habits for those of you with weaker stomachs . . . Larry pointed out that we certainly do have a unique relationship, what with dialog like:
+Five days later … "We found the mouse-cicle, hidden under the seat of Skandranon, the Black Gryphon (our unstoppable Suzuki Sidekick). Vincent said 'Oooh! A frozen treat, for lil' ol' me?!' and ate it. Deferring details of falcon mouse-eating habits for those of you with weaker stomachs … Larry pointed out that we certainly do have a unique relationship, what with dialog like:
 
-"Honey, I found that dead mous in Skan . . . "
+"Honey, I found that dead mous in Skan … "
 
 "You did? Excellent! It isn't bloated yet is it?"
 
@@ -76,7 +76,7 @@ There are copies of **The Girebird Flyer**, the special Mercedes Lackey edition,
 
 ## Collegium Registry
 
-Those listed here have followed the guidelines set down in "The Helpful Handout of How to Become a Herald." If you would like to earn your Whites but don't know how, [Ed. note 2003: Out-of-date information withheld. Current information is located at [Persona handouts and submission instructions](/persona-handouts/).] There will be certificates for everyone who has met the requirements, but I honestly don't see how they will be ready before the summer. [Ed. note 2003: Did anyone ever receive these certificates? Your current editors have never seen a copy. If you have one, could you please scan the image and send it to Herald-Mage Adept Danya Winterborn at [Legend@malcor.com](mailto:Legend@malcor.com)?]
+Those listed here have followed the guidelines set down in "The Helpful Handout of How to Become a Herald." If you would like to earn your Whites but don't know how, [Ed. note 2003: Out-of-date information withheld. Current information is located at [Persona handouts and submission instructions](/persona-handouts/).] There will be certificates for everyone who has met the requirements, but I honestly don't see how they will be ready before the summer. [Ed. note 2003: Did anyone ever receive these certificates? Your current editors have never seen a copy. If you have one, could you please scan the image and send it to Herald-Mage Adept Danya Winterborn at [shashtah@gmail.com](mailto:shashtah@gmail.com)?]
 
 Welcome, **Herald Deborah of Aardanel**. **Deb Segal** tells us Deborah was chosen by the Companion Yasmin and has the gift of Mindspeech and can talk to any Companion. Debi sent stories of her persona and two other Heralds, two poems, and a map.
 
@@ -156,7 +156,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

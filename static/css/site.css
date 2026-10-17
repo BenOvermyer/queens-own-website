@@ -1,17 +1,79 @@
-/* Keep the original blue/aqua presentation and per-page color choices. */
-:root { --background: blue; --text: white; --link: aqua; --visited: silver; }
-body { margin: 8px; background: var(--background); color: var(--text); font-family: "Times New Roman", Times, serif; }
+/* Self-hosted OFL webfonts (licences: fonts/OFL-Cardo.txt, fonts/OFL-YesevaOne.txt,
+   fonts/OFL-GreatVibes.txt). These stand in for the DAW Valdemar interior faces:
+   Cardo approximates Bembo (body text) and Yeseva One approximates ITC Benguiat
+   (headers). Great Vibes is the club signature script. To use the originals, change
+   --font-body / --font-display / --font-signature below. */
+@font-face {
+  font-family: "Cardo";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/cardo-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Cardo";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/cardo-700.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Cardo";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/cardo-400-italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Yeseva One";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/yeseva-one-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Great Vibes";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/great-vibes-400.woff2") format("woff2");
+}
+
+:root {
+  --background: #FAFAF6;
+  --text: #283344;
+  --valdemar-blue: #2433AD;
+  --link: #9E5265;
+  --visited: #762E43;
+  --font-body: "Cardo", "Bembo", "Bembo MT Pro", "Times New Roman", Times, serif;
+  --font-display: "Yeseva One", "ITC Benguiat", "Benguiat", Georgia, "Times New Roman", serif;
+  /* Club signature script, self-hosted (Great Vibes, OFL). */
+  --font-signature: "Great Vibes", "Snell Roundhand", "Segoe Script", "Brush Script MT", "Lucida Handwriting", cursive;
+}
+
+body { margin: 0; background: var(--background); color: var(--text); font-family: var(--font-body); font-size: 1.2rem; }
+
+html { padding: 0; }
+
+/* Yeseva One ships a single weight, so keep headings at 400 to avoid faux-bold. */
+/* We're not styling h4-h6, because I don't want to deal with headers that deep.  */
+h1, h2, h3 { font-family: var(--font-display); font-weight: 400; line-height: 1.15; }
+
+h1 { font-size: clamp(2rem, 1.5rem + 2vw, 3.5rem); }
+h2 { font-size: clamp(1.5rem, 1.2rem + 1vw, 2.25rem); }
+h3 { font-size: clamp(1.25rem, 1.05rem + 1vw, 1.75rem); }
+
 a { color: var(--link); }
 a:visited { color: var(--visited); }
-.site-header { text-align: center; padding: .5rem; border-bottom: 1px solid currentColor; margin-bottom: 1rem; }
-.site-header { background: blue; color: white; }
-.site-header a { color: aqua; }
-.brand { font-size: 1.5rem; }
-.brand span { display: block; font-size: 1rem; }
+.site-header { text-align: center; padding: .5rem; border-bottom: 1px solid currentColor; margin: 0 0 1rem 0; }
+.site-header { background: var(--valdemar-blue); color: var(--background); }
+.site-header a { color: var(--background); }
+.brand { font-size: 1.5rem; font-family: var(--font-display); font-weight: 400; }
+.brand span { display: block; font-size: 1rem; font-family: var(--font-body); }
 nav { display: flex; justify-content: center; flex-wrap: wrap; gap: .4rem 1rem; margin-top: .5rem; }
 .legacy-content img { max-width: 100%; height: auto; }
 .legacy-content { overflow-wrap: anywhere; }
-main { overflow-x: auto; }
+main { overflow-x: auto; width: 968px; margin: 0 auto; }
 .skip { position: absolute; left: -10000px; }
 .skip:focus { left: 1rem; top: 1rem; background: var(--background); padding: .5rem; }
 .unavailable-note { font-size: .85em; font-style: italic; }
@@ -19,11 +81,12 @@ main { overflow-x: auto; }
 .topic-grid section { border: 1px solid currentColor; padding: 1rem; }
 .topic-grid h2 { margin-top: 0; }
 .breadcrumbs { justify-content: flex-start; font-size: .9em; }
+.revised { font-weight: 700; }
 .page-list li, .year-list li { margin-bottom: .5rem; }
 .item-note { font-size: .85em; }
 details { margin: 1.5rem 0; }
 summary { cursor: pointer; text-decoration: underline; }
-footer { text-align: center; padding: 1rem; border-top: 1px solid currentColor; }
+footer { text-align: center; padding: 1rem; border-top: 1px solid currentColor; margin-top: 1.5rem; font-size: 0.875rem; }
 
 /* Shared classes for kept HTML tables and images (legacy presentational markup). */
 .align-left { text-align: left; }
@@ -49,3 +112,12 @@ footer { text-align: center; padding: 1rem; border-top: 1px solid currentColor; 
 .cellspacing-1 { border-collapse: separate; border-spacing: 1px; }
 .cellspacing-2 { border-collapse: separate; border-spacing: 2px; }
 .cellspacing-3 { border-collapse: separate; border-spacing: 3px; }
+
+td, th { border: 1px solid #000000; margin: 0; padding: 0.25rem; }
+table { margin: 0.25rem auto; border: 2px solid #000000; }
+
+/* Club sign-off: the block hugs the right edge of its container, its lines share a
+   left edge, and the signature reads as a hand-written name (see --font-signature). */
+.signoff { width: fit-content; max-width: 100%; margin-left: auto; text-align: left; }
+.signoff .salutation, .signoff .signature { display: block; }
+.signoff .signature { font-family: var(--font-signature); font-size: 1.5em; line-height: 1.2; }

@@ -30,7 +30,7 @@ Mercedes Lackey Fan Club
 
 <img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
 
-<img alt="QO Border" class="float-right" loading="lazy" src="/qo214.jpg"/>In *Summoned to Tourney*, we find Beth, Eric, and Kory preparing to perform at Northern Faire. Their transportation to the Faire site is two elvensteeds, masquerading as motorcycles . . .
+<img alt="QO Border" class="float-right" loading="lazy" src="/qo214.jpg"/>In *Summoned to Tourney*, we find Beth, Eric, and Kory preparing to perform at Northern Faire. Their transportation to the Faire site is two elvensteeds, masquerading as motorcycles …
 
 "There was a cluster of bikes of all sorts off to one side, huddled together like musk-oxen; Beth brought the bike to a halt just behind Kory and all three of them got off. Eric took the bags from both of them, Beth and Kory walked the bikes over to the herd and parked them; Kory passed his hand over both.
 
@@ -38,7 +38,7 @@ Mercedes Lackey Fan Club
 
 "Including Kory; when Kory took his helmet off, there was no way of telling him from an ordinary human. "Well, any ordinary, incredibly blond, six-foot-six, hunk-of-all-time, rad babe of a human, anyway.
 
-"Pointy ears and cat-pupiled eyes had been effectively camouflaged by another tiny spell. Kory stood out, all right--and that was a good thing. He was the most striking of the three in the trio, visually; if there was anyone still looking for them, they wouldn't be looking for anyone who looked like Kory. That in itself should throw confusion into the pursuit. And anyone who was looking for 'Beth' and 'Eric' would spot Kory first; since he was a stranger to the Faire-circuit, no one would connect him to any of the regulars. Because of that, the existence of 'Tom and Janice Lynn'--who just happened to bear a superficial resemblance to 'Eric Banyon and Beth Kentraine'--would be more plausible. And they would all be accepted as newcomers without too much question . . . "
+"Pointy ears and cat-pupiled eyes had been effectively camouflaged by another tiny spell. Kory stood out, all right--and that was a good thing. He was the most striking of the three in the trio, visually; if there was anyone still looking for them, they wouldn't be looking for anyone who looked like Kory. That in itself should throw confusion into the pursuit. And anyone who was looking for 'Beth' and 'Eric' would spot Kory first; since he was a stranger to the Faire-circuit, no one would connect him to any of the regulars. Because of that, the existence of 'Tom and Janice Lynn'--who just happened to bear a superficial resemblance to 'Eric Banyon and Beth Kentraine'--would be more plausible. And they would all be accepted as newcomers without too much question … "
 
 *Summoned to Tourney* is to be available in June, but start looking for it anytime now. Books sometimes reach the stores as much as a month early.
 
@@ -76,7 +76,7 @@ RiverCon XVII is July 31-August 2 at the Hyatt Regency in Louisville, Kentucky. 
 
 ## Collegium News:
 
-Okay, okay, okay . . . so you're adamant about becoming a Herald-Mage or a Guardian. It is possible, but we're going to make you work for it.
+Okay, okay, okay … so you're adamant about becoming a Herald-Mage or a Guardian. It is possible, but we're going to make you work for it.
 
 Step i: Earn your Herald's whites.
 
@@ -100,7 +100,7 @@ Step 3: You are now at the Apprentice stage. To earn the rank of Herald-Mage, He
 
 Queen's Own doesn't have an official membership button, but we do have our own button machine. If you want a special button to represent your collegium, hall, or guild (or just one for yourself), contact [Ed. note 2004: Out-of-date contact information withheld; we do have Queen's Own buttons now, thanks to Heartland Arrows: [http://www.marymuse.com/HeartlandArrows/contest.html](http://www.marymuse.com/HeartlandArrows/contest.html)]. You can send finished artwork (to fit inside a 2" circle) or ask her help in creating your design. Write to Vicki if you have questions, or call her - [Ed. note 2004: Out-of-date contact information withheld]. There is no minimum order.
 
-**MENTORS, WRITER'S CIRCLES, ZINE EDITORS, LOCAL CHAPTERS . . .** Are you still there? New members want to know what's available. I hesitate to give them your addresses when I haven't heard from you recently. Please let me know your status for the June or July newsletter.
+**MENTORS, WRITER'S CIRCLES, ZINE EDITORS, LOCAL CHAPTERS …** Are you still there? New members want to know what's available. I hesitate to give them your addresses when I haven't heard from you recently. Please let me know your status for the June or July newsletter.
 
 ## MENTORS:
 
@@ -124,7 +124,7 @@ I've gotten four bad checks in the past few months. My bank charges me $7 when a
 
 The date by your last name on your address label tells when your subscription expires. If it's your last issue, I try to highlight that date to make it more noticeable. It's been suggested that my system "is a little obscure." Sorry, you-all, it works for me. Please take responsibility for checking your label and renewing on time.
 
-On the other hand, some of you have renewed and I've never changed that date. Please don't wait more than one issue to tell me. I try to deposit checks within four to six weeks. All checks are Xeroxed before being deposited, names are recorded whenever I receive money or stamps. If you've paid, and the money wasn't swallowed up in transit by the post office monster (or hidden under the refrigerator by my cats), it should be easy enough to find my mistake. But I need to be told! My "office" is my kitchen table, my computer is in the dining room, the laser jet is across the street where I work, the copier is in the basement of my husband's store . . . things do get misplaced!
+On the other hand, some of you have renewed and I've never changed that date. Please don't wait more than one issue to tell me. I try to deposit checks within four to six weeks. All checks are Xeroxed before being deposited, names are recorded whenever I receive money or stamps. If you've paid, and the money wasn't swallowed up in transit by the post office monster (or hidden under the refrigerator by my cats), it should be easy enough to find my mistake. But I need to be told! My "office" is my kitchen table, my computer is in the dining room, the laser jet is across the street where I work, the copier is in the basement of my husband's store … things do get misplaced!
 
 The good news is that by September of this year I hope to be settled in South Jersey. We'll have room for a QO office/computer room, floor to ceiling bookcases in at least two rooms, a workshop for Steve ( my tolerant, patient spouse), and lots and lots of space for the cats. The bad news is, of course, that moving all this "stuff" is going to leave me more confused than ever for awhile. Please continue to be patient.
 
@@ -152,7 +152,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

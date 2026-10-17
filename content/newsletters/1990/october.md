@@ -50,7 +50,7 @@ The contract has been signed for the collaboration between Misty and Anne McCaff
 
 Firebird will soon be featuring more Misty-related merchandise. If you're not on their mailing list, send your address to [Ed. note 2002: Out-of-date information withheld. Firebird's website can be found at [http://www.firebirdarts.com](http://www.firebirdarts.com).].
 
-"Queen's Own" was spelled out on the front page of the last issue in moon letters, created by Tracy Janda. If you wish to see your design on the front page, just send it to me **copy ready**. That means on a narrow strip of paper that will fit within the right hand margin. I've received a number of lovely ideas that have been either too short or too wide. [Ed. note 2002: Current art may be sent to [Legend@malcor.com](mailto:Legend@malcor.com).].
+"Queen's Own" was spelled out on the front page of the last issue in moon letters, created by Tracy Janda. If you wish to see your design on the front page, just send it to me **copy ready**. That means on a narrow strip of paper that will fit within the right hand margin. I've received a number of lovely ideas that have been either too short or too wide. [Ed. note 2002: Current art may be sent to [shashtah@gmail.com](mailto:shashtah@gmail.com).].
 
 Have you contributed to or read one of our zines? Our first annual zine will soon be ready. Order your copy from Nathaniel Waldbauer [Ed. note 2002: Out-of-date information withheld.].
 
@@ -66,7 +66,7 @@ Kris's Birthing-Day gift to Talia was a silver ring, of a design of two clasped 
 
 Remember our advertising flyer, *The Valdemar Merchant*, if you have something to sell or are looking for unique holiday gifts. All ads must be placed by October 24th to make the first issue. It will be ready to mail out on November 1st. For information on how to place and ad or to receive the flyer, [Ed. note 2002: Out-of-date information withheld.]..
 
-In our September issue, Herald Tarn invited you to write to her for information on costuming. Unfortunately, she is no longer at that address. You can still send a SASE to me for basic con information and a few simmple costume suggestions. [Ed. note 2002: This information sheet is no longer available, but Danya will try to answer any questions you might have. You can message her at [Legend@malcor.com](mailto:Legend@malcor.com).].
+In our September issue, Herald Tarn invited you to write to her for information on costuming. Unfortunately, she is no longer at that address. You can still send a SASE to me for basic con information and a few simmple costume suggestions. [Ed. note 2002: This information sheet is no longer available, but Danya will try to answer any questions you might have. You can message her at [shashtah@gmail.com](mailto:shashtah@gmail.com).].
 
 ### Chapter News:
 
@@ -78,7 +78,7 @@ West Coast members are welcome to join *The Herald's Hall of California*. The Ca
 
 ### Hello from Herald Housemother:
 
-Let's see . . . For those of you who keep score, besides my usual "creative" spellings and zip codes, I've scrambled titles in a list of Misty's short stories, and I've assigned the wrong gifts to a Herald. What mistakes will Herald Housemother make in the next issue? You'll have to wait until the middle of December to find out, there is no November mailing.
+Let's see … For those of you who keep score, besides my usual "creative" spellings and zip codes, I've scrambled titles in a list of Misty's short stories, and I've assigned the wrong gifts to a Herald. What mistakes will Herald Housemother make in the next issue? You'll have to wait until the middle of December to find out, there is no November mailing.
 
 If you wish to send a holiday card to Misty and Larry, [Ed. note 2002: Out-of-date information withheld. Fan mail may be sent to Misty and Larry at the High Flight address, listed below.] Please leave froom for the forwarding address. Please mail before December 15th.
 
@@ -148,7 +148,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

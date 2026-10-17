@@ -291,7 +291,7 @@ The Divia Chronicles, the official club/zine/multiverse for Divia, teenage vampi
 
 Larry Dixon provided a few paragraphs for the Queen's Own Collegia program book at Dragon&#42;Con that I'd like to share with you. Here's what Larry had to say:
 
-" . . . What can I say? I have an excellent wife; a lady of class and dignity, understood by few, most often seen by others in terms of her work, rather than her exceptional qualities of character.
+" … What can I say? I have an excellent wife; a lady of class and dignity, understood by few, most often seen by others in terms of her work, rather than her exceptional qualities of character.
 
 "Who am I?
 
@@ -355,7 +355,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

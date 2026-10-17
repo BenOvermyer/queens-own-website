@@ -12,13 +12,12 @@ vlink = "red"
 historical = true
 topic = "community"
 canonical_path = "/dream-casts/magics-price/"
+revised = "4/8/03"
 +++
 
 ## Dream Cast for *Magic's Price*
 
-## (Revised 4/8/03)
-
-Here are the characters who appear in *Magic's Price* by Mercedes Lackey. Copy the list, and send it to [Danya](mailto:Legend@malcor.com) along with the name of the actor or actress you think could best play the part if anyone ever made the book into a film. For non-humans, list the performer you'd most like to hear do the voice over. Try to keep the proposed names to people who are alive at the time you fill out your form, and please vote for only one performer per character. Danya will compile the results and periodically post them to this page.
+Here are the characters who appear in *Magic's Price* by Mercedes Lackey. Copy the list, and send it to [Danya](mailto:shashtah@gmail.com) along with the name of the actor or actress you think could best play the part if anyone ever made the book into a film. For non-humans, list the performer you'd most like to hear do the voice over. Try to keep the proposed names to people who are alive at the time you fill out your form, and please vote for only one performer per character. Danya will compile the results and periodically post them to this page.
 
 ## Key
 

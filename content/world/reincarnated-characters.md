@@ -12,11 +12,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/reincarnated-characters/"
+revised = "4/10/03"
 +++
 
 ## Herald List
-
-## (Revised 4/10/03)
 
 This is a list of characters who have been reincarnated in Misty's Valdemar series. The basic list was taken from my [Heralds and Companions](/heralds-and-companions/) list, and [The Vanyel Fan Club](/vanyel-fan-club/) has been helpling to add to it.
 
@@ -104,7 +103,7 @@ The White Gryphon
 
 &#42; = Grove-Born Companion
 
-If you spot any glitches or if you have information you'd like me to add (such a new "match" you've spotted or information about where you can find listed pairs), message me at [Legend@malcor.com](mailto:Legend@malcor.com)
+If you spot any glitches or if you have information you'd like me to add (such a new "match" you've spotted or information about where you can find listed pairs), message me at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -188,6 +187,6 @@ Bard Stefen
 
 (AFl, AQ, SB, SI, SR, WC, WFa, WFu)
 
-I put question marks after the pairs that I'm uncertain about. They may or may not be reincarnations. If you know, please [tell me](mailto:Legend@malcor.com)!
+I put question marks after the pairs that I'm uncertain about. They may or may not be reincarnations. If you know, please [tell me](mailto:shashtah@gmail.com)!
 
 <img alt="" loading="lazy" src="/bardrgn2.gif"/>

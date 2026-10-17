@@ -11,13 +11,12 @@ vlink = "silver"
 historical = true
 topic = "community"
 canonical_path = "/mercedes-lackey-links/"
+revised = "10/18/20"
 +++
 
 ## Queen's Own
 
 ## Misty Links
-
-### (Revised 10/18/20)
 
 <a href="https://dragonlords.fans/bkmlvs.htm"><img alt="" loading="lazy" src="/ml1.gif"/></a>
 

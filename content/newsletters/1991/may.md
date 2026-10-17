@@ -50,7 +50,7 @@ Larry hails from Tulsa, Oklahoma by way of Gayetteville, North Carolina. His han
 
 Back to Misty, this time via GEnie (and thanks to Michelle Luz, our GEnie reporter):
 
-"The true story of 'Threes' and the infamous Bard Leslac. Back before I had sold any prose, I was writing filk; there was a tape project about 'uppity wimmen' I was asked to contribute to. I wrote 'Threes' on the plane on the way to San Fransisco and gave my publisher the only copy I had. Subsequently I decided to write it as a short story--but I forgot exactly who did what . . . and got the stuff bassackwards. I had to concoct a plot reason WHY it was bassackwards, and thus invented the Bard Leslac. Who then took on a life of his own, invaded *Oathbreakers* and even got his own short story."
+"The true story of 'Threes' and the infamous Bard Leslac. Back before I had sold any prose, I was writing filk; there was a tape project about 'uppity wimmen' I was asked to contribute to. I wrote 'Threes' on the plane on the way to San Fransisco and gave my publisher the only copy I had. Subsequently I decided to write it as a short story--but I forgot exactly who did what … and got the stuff bassackwards. I had to concoct a plot reason WHY it was bassackwards, and thus invented the Bard Leslac. Who then took on a life of his own, invaded *Oathbreakers* and even got his own short story."
 
 *The Firebird Flyer*, the special Mercedes Lackey edition, for Misty's books, tapes, and lots more. It's available from [Ed. note 2003: Out-of-date information withheld. Firebird's website is at [http://www.firebirdarts.com](http://www.firebirdarts.com).].
 
@@ -78,7 +78,7 @@ For the Northwest, there's **dreamcon 6**, November 1-3 at [Ed. note 2003: Out-o
 
 ### Hello from Herald Housemother:
 
-**Misty's birthday is June 24th!** You can send her a card in care of the QO post office box. Leave me room for the forwarding address, and I'll send it on its way immediately. Last year I secretly collected snapshots of members and put them in an album for her. No reason to be sneaky this year--if you're not in the birthday album, send me a picture. Snapshots can be of you as Herald or mundane; include your cats, dogs, horses, little brothers . . . . whatever. (Send me two picutres if you can; I'd like an album, too!)
+**Misty's birthday is June 24th!** You can send her a card in care of the QO post office box. Leave me room for the forwarding address, and I'll send it on its way immediately. Last year I secretly collected snapshots of members and put them in an album for her. No reason to be sneaky this year--if you're not in the birthday album, send me a picture. Snapshots can be of you as Herald or mundane; include your cats, dogs, horses, little brothers … . whatever. (Send me two picutres if you can; I'd like an album, too!)
 
 Most fan related activities--conventions, zines, newsletters, etc.--are run on limited budgets. *Always send a SASE (legal size if possible) when requesting information!* If you don't have an extra envelope, send an address label and stamps. Unsure of the amount of postage? Extra stamps are always appreciated, especially if they are **not** glued to the envelope. Many organizations reluctantly toss letters into the recycling bin if they don't include SASE's.
 
@@ -170,7 +170,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

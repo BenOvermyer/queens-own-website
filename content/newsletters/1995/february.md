@@ -32,7 +32,7 @@ Dear Misty Fans,
 
 <img alt="border by Hanna Bruin" class="float-right" loading="lazy" src="/qo110.jpg"/>Lots of news from Misty in this issue.
 
-First, a note of warning: Misty says, "If you see a flyer with our names on it, as apparently happened for a convention called CONJUNCTION in Arkansas in January, the con committee is either lying or has been approached by my imposter. Yes, I have an imposter out there. If you meet someone claiming to be me at a convention, turn her in to the convention committee immediately! As for convention committees, evidently some people are convinced that if they claim we are going to be a guest we will be 'forced' to attend. We are not even going to the Queen's Own mini-con at &#42;NASFIC this year . . . . it's right in the middle of hacking-out season for my rehab birds, and stupid-fledgling season when young birds get hurt a lot. No matter what you see or hear, if you don't hear about it from us, here, it isn't true. If we decide to start attending conventions, I will announce it first here, but at the moment, it is not very likely, as the birds need us more."
+First, a note of warning: Misty says, "If you see a flyer with our names on it, as apparently happened for a convention called CONJUNCTION in Arkansas in January, the con committee is either lying or has been approached by my imposter. Yes, I have an imposter out there. If you meet someone claiming to be me at a convention, turn her in to the convention committee immediately! As for convention committees, evidently some people are convinced that if they claim we are going to be a guest we will be 'forced' to attend. We are not even going to the Queen's Own mini-con at &#42;NASFIC this year … . it's right in the middle of hacking-out season for my rehab birds, and stupid-fledgling season when young birds get hurt a lot. No matter what you see or hear, if you don't hear about it from us, here, it isn't true. If we decide to start attending conventions, I will announce it first here, but at the moment, it is not very likely, as the birds need us more."
 
 (If you see a flyer for a con claiming to have Misty and Larry as guests, please send it to QO. If Misty and Larry decide to attend a con, I promise that it will be front page news in the newsletter. -Judith)
 
@@ -89,7 +89,7 @@ QO Member Jim Woosley spotted a flyer for *Chrome Circle* in the background of t
 - Tanya Huff - Nine Above! [Ed. note 2002: address withheld]
 - Holly Lisle - Vha'attaye Heard [Ed. note 2002: address withheld]
 - Michael Praed - Michael Praed Network Newsletter [Ed. note 2002: address withheld]
-- Doctor Who and Other Media - The Prydonians of Prynceton [Ed. note 2002: address withheld]. In their newsletter, *The Prydonian Renegade*, you'll find news of *Babylon 5*, *Lois and Clark*, *Deep Space Nine*, *Highlander* . . . and the latest info on the proposed Fox/Amblin *Doctor Who* pilot.
+- Doctor Who and Other Media - The Prydonians of Prynceton [Ed. note 2002: address withheld]. In their newsletter, *The Prydonian Renegade*, you'll find news of *Babylon 5*, *Lois and Clark*, *Deep Space Nine*, *Highlander* … and the latest info on the proposed Fox/Amblin *Doctor Who* pilot.
 - Zines for all fandoms - Peg Kennedy & Bill Hupe [Ed. note 2002: address withheld] Peg & Bill have lists of zines looking for submissions, and lots of zines for sale.
 
 ## COLLEGIUM NEWS:
@@ -131,7 +131,7 @@ A sample copy of the newsletter is sent to anyone who requests it. The newslette
 
 The only "fee" for a fan message is to write to two other people. If your mail box is empty, don't complain - write letters!
 
-- **From Herald Carianna Ravensong (aka Carol Trochelman) [Ed. note 2002:address withheld]:** Merry Meet from a 36 year old who loves reading - esp. SF&F, animals - esp. wolves, nature, dragons, unicorns, faeries, writing, arts, and crafts. New into playing Magic and Wyvern. Please write, all ages 20 to 60 . . . merry part and merry meet again.
+- **From Herald Carianna Ravensong (aka Carol Trochelman) [Ed. note 2002:address withheld]:** Merry Meet from a 36 year old who loves reading - esp. SF&F, animals - esp. wolves, nature, dragons, unicorns, faeries, writing, arts, and crafts. New into playing Magic and Wyvern. Please write, all ages 20 to 60 … merry part and merry meet again.
 - **From April Middleton [Ed. note 2002:Address withheld]:** Hello! I'm a 20 year old student of Energy Healing and Reading. I'm learning how to enjoy my life and would love some pen-friends to enjoy it with. Write and tell me about yourself. I'd especially love to hear from anyone in the Oregon/Washington area.
 - **From Herald Kaylis Shalar c/o Kaitlin Scholz [Ed. note 2002:address withheld]:** Heyla, one & all! I put a message in the Nov/Dec newsletter and got many answers. I'm hoping to get more! I love to read anything, but I expecially love fantasy! Some faves are Misty, Eddings, McCaffrey , Brooks, May, and Tara K. Harper. I enjoy writing, music, & much, much more! Hope to hear from you soon! Zhai'helleva!!
 - **From Shiana Dragonsong [Ed. note 2002:Address Withheld]:** I'm 14, play three instruments, write stories, and love fantasy. My favorite authors are Misty, MZB, Roberson, and Alan Garner. I love dragons, vampires & Mordred. Can you think of a reason for a sorcerer to want to kill the other sorcerers? If so, please share it with me.
@@ -160,9 +160,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-The featured artists for this edition of the newsletter was Hanna Bruin. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+The featured artists for this edition of the newsletter was Hanna Bruin. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

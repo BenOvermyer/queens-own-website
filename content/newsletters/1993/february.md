@@ -38,7 +38,7 @@ Featured selections from SFBC have been *The Ship Who Searched*, *The Lark and t
 
 *Queen's Own* is a reprint of the original Heralds of Valdemar series, complete with an address for the defunct Off-Centaur Publications. For information on the songs of Valdemar and other wondrous worlds, write to Firebird Arts & Music [Editor's Note 2005: Out-of-date information withheld.]. Firebird carries all of Misty's books and tapes, Larry's interior illustrations in *Winds of Change*, and many other treasures. Send a #10 SASE for a copy of their new catalog. You can place an order with Firebird by calling [Editor's Note 2005: Out-of-date information withheld.]. If you get the answering machine, leave your complete name and address and/or phone number! For sale now is the Jody Lee cover print of *Winds of Fate*, as well as the cover prints of *Oathbound*, *Oathbreakers*, and all three *Magic* books.
 
-Coming in April is *Rediscovery*, a novel of Darkover written by Misty and Marion Zimmer Bradley. Misty says: "I think Marion's &#96;Darkover' is a classic. An absolute classic. Certainly it's an incredible honor that she trusts me with it. There are a million stories in there . . . "
+Coming in April is *Rediscovery*, a novel of Darkover written by Misty and Marion Zimmer Bradley. Misty says: "I think Marion's &#96;Darkover' is a classic. An absolute classic. Certainly it's an incredible honor that she trusts me with it. There are a million stories in there … "
 
 The ad from DAW says: "Now, with nearly 20 Darkover novels in print, Marion Zimmer Bradley has combined forces with Mercedes Lackey to write the story of the rediscovery of Darkover by a ship from her mother planet, Earth - the book Darkover fans have been clamoring for decades!
 
@@ -163,7 +163,7 @@ Josepha Sherman was Misty's co-author on the Bard's Tale book, *Castle of Decept
 
   Newsletters are published on (or near) the first of each month.
 
-  Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+  Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
   Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

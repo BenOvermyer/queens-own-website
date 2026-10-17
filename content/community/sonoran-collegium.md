@@ -12,13 +12,12 @@ vlink = "red"
 historical = true
 topic = "community"
 canonical_path = "/sonoran-collegium/"
+revised = "7/17/02"
 +++
 
 ## Sonoran Collegium
 
 ## The Southwest Chapter of Queen's Own
-
-### (Revised 7/17/02)
 
 <img alt="" loading="lazy" src="/pegasus.gif"/>
 
@@ -32,7 +31,7 @@ Here's a list I brainstormed for things I would like to see develop in this chap
 
 - A strong community based on our love of Mercedes Lackey's works
 - Regional field trips! (Hopefully including some camping opportunities, conventions, Renaissance faires, concerts, any excuse to gather &lt;g>.)
-- A monthly e-newsletter (that will eventually become . . .
+- A monthly e-newsletter (that will eventually become …
 - A hardcopy newsletter with fan art, and fan fic
 - Discussions and group events that emphasize the importance of Heralds (i.e., community involvement and volunteer work!)
 - Support of the arts (with a strong emphasis on enjoyment of the same)
@@ -44,7 +43,7 @@ Sonoran Collegium is the Southwest chapter of [Queen's Own](/), the official Mer
 
 <a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a>
 
-This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:Legend@malcor.com).
+This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:shashtah@gmail.com).
 
 [[Previous 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;prev5) | [Previous](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;prev) | [Next](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;next) | [Next 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;next5) | [Random Site](http://www.webring.org/cgi-bin/webring?ring=qsown;random) | [List Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;list)]
 

@@ -34,7 +34,7 @@ Dear Misty Fans,
 
 <img alt="The Eagle and the Nightingales" class="float-right" loading="lazy" src="/ml25.gif"/> *Bardic Voices: The Eagle & the Nightingales* has a January/February release date: "Why is the High King of the Human kingdoms not doing his job - and thereby allowing the Church to fill the power vacuum in the human lands of Alanda? This is a matter of some concern to Nightingale and her friends; the Church is becoming ever more overtly hostile to non-human sentients (of which there are several species in Alanda) as well as to anything that it does not at least indirectly control, such as gypsies and Free Bards.
 
-"To discover just what is going on, Nightingale will join forces with T'tyrr, a birdman with the visage of a raptor and the voice of an angelic choir. And before the King - and through him the gypsies, Free Bards and non-humans of the twenty kingdoms - is saved, the Eagle and the Nightingale will have become if not quite lovers than far more than friends . . . "
+"To discover just what is going on, Nightingale will join forces with T'tyrr, a birdman with the visage of a raptor and the voice of an angelic choir. And before the King - and through him the gypsies, Free Bards and non-humans of the twenty kingdoms - is saved, the Eagle and the Nightingale will have become if not quite lovers than far more than friends … "
 
 Watch for Baen's special contest to promote *The Eagle & the Nightingales* in your favorite bookstore. Just fill out an advanced reservation form. There will be a random drawing among all the reservation forms for 25 autographed limited edition prints of the cover artwork. The top 50 stores handing in the most reservation sheets will also receive prizes.
 
@@ -42,7 +42,7 @@ In an earlier newsletter it was reported that *The Silver Gryphon* would be set 
 
 White Gryphon, the product of nine hard years of labor, is a terraced city carved into the face of a cliff on the edge of the Western Ocean. The city seems a secure stronghold, until a new threat appears, a fleet of ships from the mysterious Black Kings. The envoys of this powerful kingdom claim as theirs the very land where White Gryphon is built.
 
-Skandranon and his friend Chief Kestra'chern Amberdrake agree to accompany the envoys back to the court of the Black Kings, hoping to negotiate an alliance and save their home. They soon realize they are up against unknown enemies who will stop at nothing, even the use of diabolical Blood Magic, to destroy White Gryphon and its peoples . . .
+Skandranon and his friend Chief Kestra'chern Amberdrake agree to accompany the envoys back to the court of the Black Kings, hoping to negotiate an alliance and save their home. They soon realize they are up against unknown enemies who will stop at nothing, even the use of diabolical Blood Magic, to destroy White Gryphon and its peoples …
 
 *The White Gryphon* has a gorgeous cover by Jody Lee, interior illustrations by Larry Dixon, and--unfortunately--a release date of April.
 
@@ -66,7 +66,7 @@ If there is no holiday greeting from Misty and Larry tucked into your envelope; 
 
 Two shows by TEMPEST in California this month: TEMPEST appears at BROOKDALE LODGE [Ed. note 2005: Out-of-date info withheld.] on December 9 at 9:30 and on the 10th at THE BASTILLE [Ed. note 2005: Out-of-date info withheld.] at 9 pm. See the Acoustic Duo of Lief Sorbye & Jan Berger at O'CONNELS, [Ed. note 2005: Out-of-date info withheld.] on December 15-17 at 9 pm. They will be appearing at PLOUGH & STARS, 116 Clement San Francisco, CA [Ed. note 2005: Out-of-date info withheld.] at 9:30 on the 20th. December 22 Lief has a solo appearance at GALLAGHER'S, [Ed. note 2005: Out-of-date info withheld.] at 7:30.
 
-The Fireblrd catalogue carries the music of TEMPEST, Misty's books and tapes (and CD's), Misty-related Jody Lee prints, stationery designed by Misty &. Larry, soft sculpture Companions (dragons & fire lizards too), Hawkbrother feather jewelry . . . and much, much more. To order, or to ask to be added to Firebird's mailing list, call them at 1-800-752-0494. Send holiday greetings to Teri Lee [Ed. note 2005: Out-of-date info withheld.].
+The Fireblrd catalogue carries the music of TEMPEST, Misty's books and tapes (and CD's), Misty-related Jody Lee prints, stationery designed by Misty &. Larry, soft sculpture Companions (dragons & fire lizards too), Hawkbrother feather jewelry … and much, much more. To order, or to ask to be added to Firebird's mailing list, call them at 1-800-752-0494. Send holiday greetings to Teri Lee [Ed. note 2005: Out-of-date info withheld.].
 
 The Cerridwen Enterprise carries all of Jody Lee's prints, (*Tapestry of Lions* is gorgeous!) and a *Winds of Fate* T-shirt. To order, call [Ed. note 2005: Out-of-date info withheld.]. QO members get a $2 discount so be sure to tell CE that you belong to QO.
 
@@ -86,7 +86,7 @@ ATTENTION all lonely Misty fans stranded in the far southern way-stations of Aus
 
 Heyla to all Anne McCaffrey Fans! Looking for a fan club involving all of Anne's work--not just Pern? Well, we were too. There weren't any out there, so we decided to start one ourselves- -Startire Weyr. It's a place where dragonriders, harpers, healers, telepaths, and crystal singers alike can come together to spread news, share ideas, or simply gossip. We need members and contributors for our first newsletter. Anyone interested? If so, write to Allyson Giesen [Ed. note 2005: Out-of-date info withheld.].
 
-*Collegium Chronicles* is the newsletter of Pacific Northwest Collegium. All in the Washington, Oregon and Idaho area are especially invited to join. Their September issue contained news of filk gatherings, local conventions, Heather Alexander's schedule, member biographies, book reviews . . . Send a SASE for a sample issue and more information.
+*Collegium Chronicles* is the newsletter of Pacific Northwest Collegium. All in the Washington, Oregon and Idaho area are especially invited to join. Their September issue contained news of filk gatherings, local conventions, Heather Alexander's schedule, member biographies, book reviews … Send a SASE for a sample issue and more information.
 
 There's a collegium of Valdemar located on America OnLine called..Arraws OnLine. To find us you must travel to a private room called "Valdemar" on Wednesday nights at 10:00 PM EST where WestHaven Collegium is located on the shores of Lake Evendim. Our Dean Anne, Seneschal Martyn, and Archivist Trystane will gladly greet all comers with good company and information, including orientation packages. We post topic discussion ideas on the Mercedes Lackey Bulletin Board under Swords and Sorcery. Upcoming plans are: working on our continuing newsletter *Heartstone*, birthing day exchanges, mentors for all trainees, and Mid-Winter festival. Logs of our meetings are available and our doors stand open to all who wish to share and learn.
 
@@ -104,7 +104,7 @@ Herald's Hearth is a Mercedes Lackey Fan Club that publishes stories, word finds
 
 From Jenna Wilson: Due to overwhelming piles of books falling on me (thanks, Dr. Aronson), I've had to delay the October issue of NIGHT SONGS. It should have been an animal-themed issue but didn't get nearly enough submissions (hint, nudge) so I'll make it a regular issue and delay the animal issue 'til March. BUT, I still need stories, poetry and art from the realms of fantasy and dark fantasy, so please, please send me stuff! Night Songs [Ed. note 2005: Out-of-date info withheld.].
 
-She lifted her tear-stained face to the heavens, a jagged sob escaping her lips as she released her lover's hand. He stared at her weakly, his beauty all the more brilliant in the moonlight. The sounds of the ball still raged on in the farthest rooms of the castle; she still clutched the ribbons of the magnificent mask in her hand. "Remember . . . " he whispered, pleaded, backing away with a sweet, soft kiss. "Always remember this night, and the Moonlight Masquerade." From MOONLIGHT MASQUERADE [Ed. note 2005: Out-of-date info withheld.]. Issue 5, Midwinter's Eve, is 52 pages in 11x17 professional magazine format with two color illustrations, filled with enchanting tales of true love and adventure for only $5.50! Special Savings: Buy any 2 issues (1 through 3, and 5) for $8.50 ($11 separately), the first 3 for $12 ($16.50 separately), or a115 for $20 ($25 separately). Checks/money orders made payable to Nicole Blackwell, please.
+She lifted her tear-stained face to the heavens, a jagged sob escaping her lips as she released her lover's hand. He stared at her weakly, his beauty all the more brilliant in the moonlight. The sounds of the ball still raged on in the farthest rooms of the castle; she still clutched the ribbons of the magnificent mask in her hand. "Remember … " he whispered, pleaded, backing away with a sweet, soft kiss. "Always remember this night, and the Moonlight Masquerade." From MOONLIGHT MASQUERADE [Ed. note 2005: Out-of-date info withheld.]. Issue 5, Midwinter's Eve, is 52 pages in 11x17 professional magazine format with two color illustrations, filled with enchanting tales of true love and adventure for only $5.50! Special Savings: Buy any 2 issues (1 through 3, and 5) for $8.50 ($11 separately), the first 3 for $12 ($16.50 separately), or a115 for $20 ($25 separately). Checks/money orders made payable to Nicole Blackwell, please.
 
 Presenting NIGHTSHADE PRODUCTIONS--handcrafted bookmarks, Companion wrindchimes and Christmas ornaments, at affordable prices! Send SASE for information to NIGHTSHADE PRODUCTIONS [Ed. note 2005: Out-of-date info withheld.]. Do you love vampires, wolves, full moons, old graveyards and the Gothic scene? Then check out the FRESH BLOOD zine! Issue #2 is printed and ready to mail and #3 will be out in January. Send $5 for a sample copy, or an SASE for info on Club Vampyre to Riyn Gray [Ed. note 2005: Out-of-date info withheld.]. Make checks/money orders out to Mary J. Meyer.
 
@@ -182,7 +182,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

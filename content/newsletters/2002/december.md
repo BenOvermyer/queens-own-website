@@ -64,7 +64,7 @@ I hope that the coming year brings good things for all of us. Happy Holidays to 
 
 ## Ren Faires:
 
-Here are the faires we know about that are happening in December. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com)
+Here are the faires we know about that are happening in December. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
 ### Florida
 
@@ -82,7 +82,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at [h
 
 ## Conventions:
 
-These are the upcoming cons we know about. Have any information about conventions in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com).
+These are the upcoming cons we know about. Have any information about conventions in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 ### California
 
@@ -158,7 +158,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Austral'a'in:** *Austral'a'in* is a chapter of QO that has been running for more than five years now. Despite the name, which is a combination of Latin and Shin'a'in for "People of the South", we don't just have members south of the equator. Rather, anyone is welcome! Snail Mail: **Austral'a'in, c/o Cassandra Vuksa, P.O. Box 1850, Woden ACT 2606 Australia**. E-mail: [garou@netspeed.com.au](mailto:garou@netspeed.com.au).
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
 - **Herald's Waystation:** This chapter covers the Gulf Coast Region, Texas, New Mexico, Oklahoma, Louisana, and adjacent. We plan to hold get-togethers during a Rennie Faire centered in these states; details to be announced later. We will have a quarterly snail mail newsletter called *Companion's Quarterly*. We are not going to charge new members for the first 3 newsletters; after that it will be 75 cents per newsletter. We will also have an online, nonfiction newsletter. Look for details and other fun stuff when we launch our chapter website. Snail mail: Jan Tallevast, Rt 1 Box 137, Milford, Tx 76670. E-mail: [heraldauralynn@hotmail.net](mailto:heraldauralynn@hotmail.net) and [HeraldEnyo@gmail.com](mailto:HeraldEnyo@gmail.com). For more information visit our website at [http://deserthorses.com/heraldswaystation](http://deserthorses.com/heraldswaystation).
-- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([Legend@malcor.com](mailto:Legend@malcor.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [Vanyel Fan Club](/vanyel-fan-club/).
+- **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([shashtah@gmail.com](mailto:shashtah@gmail.com)); Healer Adept Moonstar, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [Vanyel Fan Club](/vanyel-fan-club/).
 
 ### Zines and Newsletters:
 
@@ -178,7 +178,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - CrossGen Comics: Exciting New Fantasy Comic Books. Follow Prince Ethan's adventures the third Wednesday of each month as he gains the powerful sigil and accidentally puts his world on the brink of war. Meridian, on sale the fourth Wednesday of each month, is the fantastic saga of a teenage girl and her plight to save her floating island home. Go to [http://www.crossgen.com](http://www.crossgen.com), or call 1-888-COMICBOOK for details on a retail location near you.
 - Tanya Huff: **Nine Above!** is a list for fans of author Tanya Huff. This list provides announcements about Tanya's latest work, publication dates, and personal appearances. NA! also provides a forum for Tanya's fans to communicate with each other, and will have discussion as well as announcements. Lurking is fine, but participation is encouraged. When you join, we'd love for you to send a "hello" to the group at large, telling us who you are! To start sending messages to members of this group, simply send email to [nineabove@egroups.com](mailto:nineabove@egroups.com).
-- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [Legend@malcor.com](mailto:Legend@malcor.com).
+- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - Anne McCaffrey/Pern: **The Third Pass Weyrs.** Contact Weyrwoman Second Naerah at [Nyco@aol.com](mailto:Nyco@aol.com) or visit the website at http://www.3rdpass.com/ for more information.
 - Adrian Paul of Highlander: **Peace,**APFC P.O. Box 4593, North Hollywood, CA 91617 or **Peace,**APFC P.O. Box 519, Broley, Kent, BR29WX, England.
 - Michael Praed: *Michael Praed Network Newsletter*, c/o Kate Raymond, P.O. Box 516, Midlotioan, IL 60445.
@@ -198,16 +198,16 @@ You need a release form (online at [Release form instructions](/release-form-ins
 - Welcome to **Herald Kevyn Micahsdaughter**, Chosen by Epona and Gifted with Mindspeech and Bardic. **Julianna J. "JJ" Routhier** wrote about her persona and Kevyn�s family and friends, drew a picture of a horse, sent a picture of Ren. Faire garb she made, and provided a picture of herself on a horse.
 - Congratulations to **Herald Wynn Wolvar Silverflame**, Chosen by Dovnni and Gifted with Mindspeech and Healing. **Ariel Singer** wrote about Wynn and her family and friends. For extra points, she learned to ride a horse, became a volunteer in the ER at her local hospital and designed some costumes.
 
-All personae materials should be sent to the QO address or submitted by e-mail to [Legend@malcor.com](mailto:Legend@malcor.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
+All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
 Formerly accepted members, returning to Queen�s Own:
 
 - **Healer Joslin Badger** (March 1994) (Physical Healing)
 - **Herald Tirazyxus Viron** (Sartris) (August 1996) (Double-strength Mindspeech, Farsight)
 
-Welcome back! If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [Legend@malcor.com](mailto:Legend@malcor.com), and she�ll make sure you are greeted in the next newsletter.
+Welcome back! If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
 
-### Lost . . .
+### Lost …
 
 One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
@@ -229,7 +229,7 @@ One of the challenges running an online club is that people don�t always leave
 - Guardsman Faolan Ixran (Timmeu@scubadiving.com)
 - Healer Darnellon Gaither (mdprier@aol.com)
 
-If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
+If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
 ### From Herald-Mage Adept Danya Winterborn:
 
@@ -255,17 +255,17 @@ Danya
 
 ## Personals:
 
-- **From Jennifer M. Mackay/Herald Mallea D'Lar. To all my old (and new) pen pals:** I moved back to Oregon in November of 2001. I am now using my maiden name (getting a divorce). Somehow I managed to lose track of Queen's Own and life in fandom due to Mundania Madness . . . and now that I've escaped, I'm back! My interests are wide and long, so write me to find out more! Currently, I enjoy reading mostly Fantasy and SF. I will read other genres and Classical Literature, plus nonfiction. Some of my favorite authors are: Misty, JRR Tolkien, Kate Elliott, Patricia Kenneally-Morrison, Morgan Llewellyn, Ursula K. LeGuin, Margaret Weiss and Tracy Hickman (DragonLance books), Edgar Allan Poe, and many more! I've been reading new authors, too. Mindy L. Klasky (Glasswright's Apprentice saga), Kristin Britian (The Greenrider), and I'm currently reading Elizabeth Haydon's Rhapsody. I am an unpublished author working on an SF novel and a fantasy novel, plus various short stories. I write in my spare time and whenever I can squeeze a line or two on paper if I'm away from the computer. I enjoy watching movies, going to the beach, the mountains, and the bookstore! I also like listening to music: Classical, soft Jazz, Techno, '80's Pop/New Wave, Folk/World, New Age, Celtic, and Soundtracks. I like some Oldies and Classic Rock, too. I used to do comics (money constraints hold me back but still have my old ones) and RPG's like D&D and others. I still enjoy doing the Scottish Games, SF/F cons, and I went to my first Ren. Faire this autumn! I'm very interested in my Scottish Highland Clan heritage. I've got my traditional garb (in Mackay tartan) ready for next year's games! If you write or E-mail, I'm sure we can find something in common! Letters via Post Awful: Jennifer M. Mackay, P.O. Box 66408, Portland, OR 97290-6408. E-mail: [mackayjennifer@netscape.net](mailto:mackayjennifer@netscape.net), [mackayjenn@hotmail.com](mailto:mackayjenn@hotmail.com).
+- **From Jennifer M. Mackay/Herald Mallea D'Lar. To all my old (and new) pen pals:** I moved back to Oregon in November of 2001. I am now using my maiden name (getting a divorce). Somehow I managed to lose track of Queen's Own and life in fandom due to Mundania Madness … and now that I've escaped, I'm back! My interests are wide and long, so write me to find out more! Currently, I enjoy reading mostly Fantasy and SF. I will read other genres and Classical Literature, plus nonfiction. Some of my favorite authors are: Misty, JRR Tolkien, Kate Elliott, Patricia Kenneally-Morrison, Morgan Llewellyn, Ursula K. LeGuin, Margaret Weiss and Tracy Hickman (DragonLance books), Edgar Allan Poe, and many more! I've been reading new authors, too. Mindy L. Klasky (Glasswright's Apprentice saga), Kristin Britian (The Greenrider), and I'm currently reading Elizabeth Haydon's Rhapsody. I am an unpublished author working on an SF novel and a fantasy novel, plus various short stories. I write in my spare time and whenever I can squeeze a line or two on paper if I'm away from the computer. I enjoy watching movies, going to the beach, the mountains, and the bookstore! I also like listening to music: Classical, soft Jazz, Techno, '80's Pop/New Wave, Folk/World, New Age, Celtic, and Soundtracks. I like some Oldies and Classic Rock, too. I used to do comics (money constraints hold me back but still have my old ones) and RPG's like D&D and others. I still enjoy doing the Scottish Games, SF/F cons, and I went to my first Ren. Faire this autumn! I'm very interested in my Scottish Highland Clan heritage. I've got my traditional garb (in Mackay tartan) ready for next year's games! If you write or E-mail, I'm sure we can find something in common! Letters via Post Awful: Jennifer M. Mackay, P.O. Box 66408, Portland, OR 97290-6408. E-mail: [mackayjennifer@netscape.net](mailto:mackayjennifer@netscape.net), [mackayjenn@hotmail.com](mailto:mackayjenn@hotmail.com).
 - **From Herald-Mage Danya. To: All. Re: Help Wanted!** We need:
 
   - Monthly help compiling the list of Ren. Faires and Cons.
   - People to type in old newsletters.
   - Child care for Danya so she can code.
 
-  If you can be of assistance, please contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
+  If you can be of assistance, please contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.
-- **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [Legend@malcor.com](mailto:Legend@malcor.com)? Thanks!
+- **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -273,11 +273,11 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Co-Editor/Co-President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Co-Editor/Co-President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Co-Editor/Co-President Healer Adept Moonstar (Kendra Renaud; AOL-IM SN healermoon; [healermoon@gmail.com](mailto:healermoon@gmail.com))
 
-The featured artist for this newsletter is [L.A. Malcor](mailto:Legend@malcor.com). The photograph was taken at Dreamcon 6 in Everett, Washington and supplied by [Herald Aerolyn](mailto:chucky@localaccess.com). All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+The featured artist for this newsletter is [L.A. Malcor](mailto:shashtah@gmail.com). The photograph was taken at Dreamcon 6 in Everett, Washington and supplied by [Herald Aerolyn](mailto:chucky@localaccess.com). All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

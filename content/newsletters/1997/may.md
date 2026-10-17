@@ -34,11 +34,11 @@ Dear Misty Fans,
 
 <img alt="Border Art" class="float-right" loading="lazy" src="/qo291.jpg"/> How did Misty come to write the Valdemar books? Fortunately for us, she has vivid dreams.
 
-"Much as I HATE to admit it--since every bad writer in the universe comes to pros with the same 'story'--the genesis of Valdemar was in a dream. There was a short sequence of the beginning, right up to being Chosen, then the dream moved directly to the scene where Talia meets the Queen and accepts the position of Queen's Own . . .
+"Much as I HATE to admit it--since every bad writer in the universe comes to pros with the same 'story'--the genesis of Valdemar was in a dream. There was a short sequence of the beginning, right up to being Chosen, then the dream moved directly to the scene where Talia meets the Queen and accepts the position of Queen's Own …
 
-"There was some implied knowledge there--I 'knew' something of the history of the Heralds, and was told the entirety of the Arrow Code which is used in the third book. All the rest came from asking myself why all this was happening, what the background could have been, and what this youngster would find herself doing nowt hat she was in this position. The Herald Mage books developed from a few bits of 'history'--and the fact that my editor wanted 'magic' int he first chapter of the first book,a nd there *is* no real magic in Talia's time, so I was forced to have Talia do what I used to do--to daydream herself into a time of legend (in my case, the England of Arthur and his knights) as she is reading a book; partially to make the book last longer, partially because she has a very active imagination, partially as escape from her dreary life. From that scrap of the last moments of Vanyel's life has come an entire set of three books--probably well over 300,000 . . .
+"There was some implied knowledge there--I 'knew' something of the history of the Heralds, and was told the entirety of the Arrow Code which is used in the third book. All the rest came from asking myself why all this was happening, what the background could have been, and what this youngster would find herself doing nowt hat she was in this position. The Herald Mage books developed from a few bits of 'history'--and the fact that my editor wanted 'magic' int he first chapter of the first book,a nd there *is* no real magic in Talia's time, so I was forced to have Talia do what I used to do--to daydream herself into a time of legend (in my case, the England of Arthur and his knights) as she is reading a book; partially to make the book last longer, partially because she has a very active imagination, partially as escape from her dreary life. From that scrap of the last moments of Vanyel's life has come an entire set of three books--probably well over 300,000 …
 
-"That would have been in 1981, just before I moved to Tulsa. I started out on a rented typewriter, but when it seemed as if I might be able to write some publishable material I mortgaged my soul for a computer . . .
+"That would have been in 1981, just before I moved to Tulsa. I started out on a rented typewriter, but when it seemed as if I might be able to write some publishable material I mortgaged my soul for a computer …
 
 "I am fortunate in having beenable to create this world--and it *is* a world, with a history as long and as varied as that of our own. I doubt that I'm going to run out of ideas at any time soon! The *real* problem is in choosing which story to tell next."--Misty
 
@@ -66,7 +66,7 @@ Queen's Own is truly international. We have members in Australia, Austria, Bermu
 
 For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. Send [Ed. note 2005: Out-of-date info withheld.] to the QO address for this 12 page booklet.
 
-SUPPORT OUR LOCAL CHAPTERS AND ZINES!!! If you can't contribute prose or poetry or art you can still help by being a subscriber. Send news of area conventions, Ren Faires, book signings . . . what interests you may interest others. (Send the info to Queen's Own, too. There are no Ren Faire or Convention listings in the newsletter this month because I have none to list.)
+SUPPORT OUR LOCAL CHAPTERS AND ZINES!!! If you can't contribute prose or poetry or art you can still help by being a subscriber. Send news of area conventions, Ren Faires, book signings … what interests you may interest others. (Send the info to Queen's Own, too. There are no Ren Faire or Convention listings in the newsletter this month because I have none to list.)
 
 ### Local Chapters:
 
@@ -100,7 +100,7 @@ Michael Praed--Michael Praed Network NewsLetter c/o Kate Raymond [Ed. note 2005:
 
 Jennifer Roberson--Children of the Firstborn [Ed. note 2005: Out-of-date info withheld.].
 
-Docotr Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.] . . . their monthly newsletter, *The Prydonian Renegade*.
+Docotr Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.] … their monthly newsletter, *The Prydonian Renegade*.
 
 Tanya Huff--Nine Above! [Ed. note 2005: Out-of-date info withheld.]. If you are a Tanya Huff fan and want news of her books and convention appearnaces, subscribe to Nine Above! Tanya's latest book, *Blood Debt*, is in bookstores now.
 
@@ -124,7 +124,7 @@ A new Velgarth zine has entered the scene! Are you tired of writing Velgarth sto
 
 Bright blessings pen friends! Now you can express yourself with a brand new line of stationery greeting cards and art prints, celebrating your gavorite story worlds. Enjoy scenes from Velgarth with your friends. Allow your letters to be graced in bright and pastel colors with Heralds, Tayledras, Shin'a'in, dragon riders, unicorns, vampires, sorcerers, sword warriors, and even dare to venture where no Herald has gone before iwth images of some of your gavorite Trek characters. Stationery sets include [Ed. note 2005: Out-of-date info withheld.].
 
-THROUGH THE MAGIC MIRROR! Come on people! My newsletter is dying and is in need of submissions (and more subscribers would be nice, too)! I publish everything under the moon andthen some! Come check out the bonehead awards and cool quotes. Come on! Please, please, please, please &lt;puppy dog eyes> puhleease . . . HEY!!! Aret here any COMIC STRIP ATRISTS out there?!!! (The comic strips do not have to be fantasy related). i'm looking for some. You won't get paid, but if I think you're any good, I'll give you a regular spot on the newsletter (considering contributor's copies for all who submit, too)! Journey now THROUGH THE MAGIC MIRROR. For info and guidelines and a free sample issue, send me a SASE to [Ed. note 2005: Out-of-date info withheld.].
+THROUGH THE MAGIC MIRROR! Come on people! My newsletter is dying and is in need of submissions (and more subscribers would be nice, too)! I publish everything under the moon andthen some! Come check out the bonehead awards and cool quotes. Come on! Please, please, please, please &lt;puppy dog eyes> puhleease … HEY!!! Aret here any COMIC STRIP ATRISTS out there?!!! (The comic strips do not have to be fantasy related). i'm looking for some. You won't get paid, but if I think you're any good, I'll give you a regular spot on the newsletter (considering contributor's copies for all who submit, too)! Journey now THROUGH THE MAGIC MIRROR. For info and guidelines and a free sample issue, send me a SASE to [Ed. note 2005: Out-of-date info withheld.].
 
 I am accepting submissions for the second issue of the VALES. Let's make this one bigger than las year's. Send biographical information on your persona and supporting characters, along with poetry, and tell the month and year you were recognized int he QO newsletter. Submissions accepted until December 1, 1997. Mail to Kendra Renaud [Ed. note 2005: Out-of-date info withheld.]. There are still a few copies of Issue One of VALES available. THe cost is [Ed. note 2005: Out-of-date info withheld.].
 
@@ -183,7 +183,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

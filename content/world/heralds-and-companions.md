@@ -12,11 +12,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/heralds-and-companions/"
+revised = "4/10/02"
 +++
 
 ## Herald List
-
-## (Revised 4/10/02)
 
 Here are lists of Heralds and Companions mentioned in the various books of Misty's Valdemar series. The Herald's name comes first; the second name is that of the Companion. The codes that follow the names tell which book mentions the pair. The codes are:
 
@@ -100,7 +99,7 @@ SS = "Stolen Silver" (a short story about Alberich) &#42; = Grove-Born Companion
 
 The initial information for these lists came from the [Heralds and Companions List](http://www.tardis.ed.ac.uk/~ism/lackey/info/herald_companions.shtml) on the [Valdemar's Heartstone](http://www.tardis.ed.ac.uk/~ism/lackey/fan-groups/queens_own.shtml) site. I've reworked and reorganized the data as well as added the book citations. I've also included some names that were omitted from the original list.
 
-If you spot any glitches or if you have information you'd like me to add (such as new pairs you've spotted or information about where you can find listed pairs), message me at [Legend@malcor.com](mailto:Legend@malcor.com)
+If you spot any glitches or if you have information you'd like me to add (such as new pairs you've spotted or information about where you can find listed pairs), message me at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
 ### Heralds and Companions
 

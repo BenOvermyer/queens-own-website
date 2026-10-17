@@ -217,9 +217,9 @@ From *Stephanie Wong*, [Ed. note 2003: Out-of-date contact information withheld.
 
 Receive a Science Fiction and Gantasy Art Show int he mail! Send a long SASE to get on the mailing list and receive zine details. Premier issue Fall '91 so write now! [Ed. note 2003: Out-of-date contact information withheld.]
 
-QO member Shade writes: "There is a Poetry Club waiting to start a monthly newsletter. Anyone interested in joining or helping out, write to [Ed. note 2003: Out-of-date contact information withheld.]. We focus on nature, love, the night, wolves and moons, dreams . . .But we are very open minded and will accept nearly anything in good taste. C'mon, join in!"
+QO member Shade writes: "There is a Poetry Club waiting to start a monthly newsletter. Anyone interested in joining or helping out, write to [Ed. note 2003: Out-of-date contact information withheld.]. We focus on nature, love, the night, wolves and moons, dreams …But we are very open minded and will accept nearly anything in good taste. C'mon, join in!"
 
-From Marie Wilson--"ATTENTION WRITERS: A new club called Dragonlore is strictly for writers. There will be a monthly newsletter which will have your pieces published in it. I do need someone to help. Please write if you are interested . . . [Ed. note 2003: Out-of-date contact information withheld.]."
+From Marie Wilson--"ATTENTION WRITERS: A new club called Dragonlore is strictly for writers. There will be a monthly newsletter which will have your pieces published in it. I do need someone to help. Please write if you are interested … [Ed. note 2003: Out-of-date contact information withheld.]."
 
 Also from Mary--"*Tales of the Unicorn* is a zine devoted to those who write fantasy with a romantic touch. Poems and stories welcome. [Ed. note 2003: Out-of-date information withheld.] Send a long SASE for guidelines."
 
@@ -235,13 +235,13 @@ STAR TREK MENTOR'S LOG: Heather Lantz, [Ed. note 2003: Out-of-date contact infor
 
 GAME MENTOR NEWS: From Douglas Lent--"I'm still willing to be Game Mentor and have Brad Averch's generous offer of help should I need it. My (new) address is [Ed. note 2003: Out-of-date contact information withheld.]." Please send all inquiries about the world of gaming directly to Doug. And include a SASE!
 
-From *Mary K. Chelton*, [Ed. note 2003: Out-of-date contact information withheld.]--"I am a librarian and a fan of Mercedes Lackey and I would like to create a booklist of books that her fans also like to read, called 'If you like Mercedes LAckey, try . . . ' If any QO members would like to send me **three** titles in priority order (on a postcard) that they would recommend to other fans, I will compile the list for local readers and share a copy with Queen's Own."
+From *Mary K. Chelton*, [Ed. note 2003: Out-of-date contact information withheld.]--"I am a librarian and a fan of Mercedes Lackey and I would like to create a booklist of books that her fans also like to read, called 'If you like Mercedes LAckey, try … ' If any QO members would like to send me **three** titles in priority order (on a postcard) that they would recommend to other fans, I will compile the list for local readers and share a copy with Queen's Own."
 
 From *Lynn Tucker*, [Ed. note 2003: Out-of-date contact information withheld.]--"*Companion's Grove* is a fanzine dedicated to MErcedes LAckey's world of Velgarth, focusing primarily on Valdemar. The format will be 50 to 60 pages--I need more submissions, especially illustrated stories, songs, and poems. The deadline is December 1, 1991 for a February 1992 publication. Send SASE for submission guidelines; ordering info will be in future QO newsletters."
 
 ## CHAPTER NEWS
 
-From Christa Miller: "To all West Coast members of Queen's Own and The HErald's HAll of California: (fanfare adn trumpets) we have a fantastic new editor, Julie Wright from Chic, CA! She is in the process of getting infor togehter to do the first issue of the new **Arrow**, and she would love to hear from everybody. If you have news, ideas, bios or ANYTHING, please write to her . . . " Julie's address is [Ed. note 2003: Out-of-date contact information withheld.].
+From Christa Miller: "To all West Coast members of Queen's Own and The HErald's HAll of California: (fanfare adn trumpets) we have a fantastic new editor, Julie Wright from Chic, CA! She is in the process of getting infor togehter to do the first issue of the new **Arrow**, and she would love to hear from everybody. If you have news, ideas, bios or ANYTHING, please write to her … " Julie's address is [Ed. note 2003: Out-of-date contact information withheld.].
 
 "ATTENTION! ACHTUNG! Are you interested in a German or Continental Europe Chapter?? We want to open one and are looking for Misty fans. If you are interested, send a letter and SASE to: [Ed. note 2003: Out-of-date contact information withheld.]. Besides nice people who love Misty, we're also looking for good ideas and we need a name."--Daniela (Send an addressed envelope and an IRC to anyone living outside your country. Letters sent **from** a country must have the postage of **that country** on them. IRC's can be exchanged in any post office for stamps. Judith.)
 
@@ -311,7 +311,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

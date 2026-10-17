@@ -46,7 +46,7 @@ You may call 1-800-752-0494 to order a catalog or place an order. (They've just 
 
 **BOOK RELEASE DATE:** Coming in August: *Children of the Night*.
 
-The quote from TOR's ad for *Children of the Night* in the July issue of *LOCUS* is: "Diana Tregarde is new to New York, and to her Guardianship--but she's ready to defend her friends, and her adopted city, from any Evil--even vampires!" And in the same ad, a quote from Marion Zimmer Bradley: "It's a delight . . . to know that a writer whose work I've loved all along has written something so fresh and original."
+The quote from TOR's ad for *Children of the Night* in the July issue of *LOCUS* is: "Diana Tregarde is new to New York, and to her Guardianship--but she's ready to defend her friends, and her adopted city, from any Evil--even vampires!" And in the same ad, a quote from Marion Zimmer Bradley: "It's a delight … to know that a writer whose work I've loved all along has written something so fresh and original."
 
 *Knight of Ghosts and Shadows* got a lovely review from Scott Winnett in the same issue, ending with: " An enchanting romp, with wonderful characters and a deep appreciation for the magic underneath our everyday lives."
 
@@ -60,7 +60,7 @@ Queen's Own membership buttons are still available. [Ed. note 2002: Out-of-date 
 
 Patricia Riggs and I thank all of you for your responses to our cries for help. We've had offers from game-players, con-goers, filkers, and zine collectors, all of whom are eager to share their enthusiasm with others. Their names and addresses will be in the September newsletter. The wide, weird, and wonderful world of fannish activities is even more fun when shared.
 
-Ellen Wells, [Ed. note 2002: Out-of-date contact information deleted. Send current reciptes to [Legend@malcor.com](mailto:Legend@malcor.com) or to the QO P.O. box.]is still collecting recipes for a Valdemar Cookbook. Include a SASE if you want your recipe(s) returned. Let's see how many variations of Trail Bread we can create. And don't forget desserts. What do you suppose the HErald version of S'Mores is like? (Thanks from Ellen to Jessica Woods for her offer of help.)
+Ellen Wells, [Ed. note 2002: Out-of-date contact information deleted. Send current reciptes to [shashtah@gmail.com](mailto:shashtah@gmail.com) or to the QO P.O. box.]is still collecting recipes for a Valdemar Cookbook. Include a SASE if you want your recipe(s) returned. Let's see how many variations of Trail Bread we can create. And don't forget desserts. What do you suppose the HErald version of S'Mores is like? (Thanks from Ellen to Jessica Woods for her offer of help.)
 
 ## Stories of Misty's in Anthologies
 
@@ -298,7 +298,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

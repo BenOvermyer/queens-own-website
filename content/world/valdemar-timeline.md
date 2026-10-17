@@ -12,11 +12,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/valdemar-timeline/"
+revised = "2/7/02"
 +++
 
 ## Valdemar Timeline
-
-## (Revised 2/7/02)
 
 Here is the timeline for Misty's Valdemar Series. This timeline is adapted from the timeline that appears at the front of each of the Valdemar books.
 

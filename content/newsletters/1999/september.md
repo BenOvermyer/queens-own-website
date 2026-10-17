@@ -42,7 +42,7 @@ A:There won't be any DIRECT sequels (main characters in the Mage Storms as main 
 
 A: All the PROFESSIONAL Diana Tregarde short stories have been reprinted in two collections from Baen FIDDLER FAIR and WEREHUNTER. The non-professional fanfiction stories are not fit to be reprinted.
 
-*Q: I was going through Amazon.com this evening. They've listed one of your forthcoming books called "The River's Gift," and say it will be out in October of '99. I don't see anything about it here, and can't find any more info online. So . . . what will it be about? :) (And, by the way, I'm looking forward to more Valdemar books!)*
+*Q: I was going through Amazon.com this evening. They've listed one of your forthcoming books called "The River's Gift," and say it will be out in October of '99. I don't see anything about it here, and can't find any more info online. So … what will it be about? :) (And, by the way, I'm looking forward to more Valdemar books!)*
 
 A: The River's Gift (which I preferred to call The Wild Swan) is one of those fancy "gift" books they've been doing lately--it's a novella in small hardback form, made for gift-giving. Anne McCaffrey has done a couple of them and they asked me to do one as well.
 
@@ -58,7 +58,7 @@ A: What, you think Firesong is chopped liver? He seems like a main character to 
 
 A: By far and away, the vast, vast majority of our fans are such incredibly fine people, conscientious, compassionate, and caring, that the only possible answer is that without a doubt it is worth it.
 
-As for others experiencing the same headaches . . . well, it is a fact of life that anyone in the public eye these days has a chance of attracting a lunatic. One of the professors at Rogers College attracted a dangerous stalker--all the more dangerous because he was local and knew exactly where she lived--just because she had a half-hour show on the college TV station about creative writing! And the only reason he DIDN'T kill her was because he murdered his mother first and was caught!
+As for others experiencing the same headaches … well, it is a fact of life that anyone in the public eye these days has a chance of attracting a lunatic. One of the professors at Rogers College attracted a dangerous stalker--all the more dangerous because he was local and knew exactly where she lived--just because she had a half-hour show on the college TV station about creative writing! And the only reason he DIDN'T kill her was because he murdered his mother first and was caught!
 
 Yes, it could happen. If you happen to be male, Marty, the chances of it happening to you are substantially reduced. The thing to do is to study stalkers--you could do a lot worse than read Gavin De Becker's books--and educate yourself. You'll be able to see the danger signs and protect yourself before things enter a risky stage. Forewarned is definitely forearmed.
 
@@ -138,9 +138,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-The featured artist for this edition of the newsletter was uncredited. If you have a clue whom it was, please contact Herald-Mage Adept Danya at [Legend@malcor.com](mailto:Legend@malcor.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+The featured artist for this edition of the newsletter was uncredited. If you have a clue whom it was, please contact Herald-Mage Adept Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

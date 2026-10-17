@@ -36,7 +36,7 @@ Mercedes Lackey Fan Club
 
 A note from the Editor, President and she who wears too many hats!
 
-Hello, all. Well, things have been looking up here at least in the membership department! I would like to hit 1,000 before the end of the year, but first we have to get above 300 ::grin:: I�m doing my best and so are you, I�ve had a LOT of renewals lately and I wish to thank all of you personally for helping this club to continue. Without members I would just be wasting time . . .
+Hello, all. Well, things have been looking up here at least in the membership department! I would like to hit 1,000 before the end of the year, but first we have to get above 300 ::grin:: I�m doing my best and so are you, I�ve had a LOT of renewals lately and I wish to thank all of you personally for helping this club to continue. Without members I would just be wasting time …
 
 Just so you all know, and are prepared. I will be starting back to school in August and I�ve got a full schedule, and work and Arrows OnLine (I�ve recently been asked to step in for awhile while the Co-Deans get caught up with Real Life--I know how that feels and have accepted). I feel it is my duty to tell you in advance that I will be busy. This does NOT mean the club takes a back seat, just that the front seat is getting a little crowded, and my replies may not be as timely as you may like.
 
@@ -116,9 +116,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no featured artist for this edition of the newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no featured artist for this edition of the newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

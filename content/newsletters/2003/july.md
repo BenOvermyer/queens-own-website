@@ -32,7 +32,7 @@ Hope you all are having a great summer!
 
 **Appearance Alert:** Mercedes Lackey will be the Guest of Honor at the **WRITER'S WEEKEND** in Mercer Island, Washington, 7/25/03 - 7/27/03. See their ad in the Con section below for details. Both Misty and Larry will be appearing at **CON�STELLATION XXII: PEGASUS** in Huntsville, Alabama, 10/10/03-10/12/03. See their ad in the Con section as well.
 
-**Travel Plans:** Danya will be traveling to Las Vegas, Dinosaur National Park, Yellowstone National Park, Pocatello (Idaho) and Lake Tahoe from July 19-August 3. She may or may not have e-mail access during that time (We�re still working on that.). Please pardon delays in response time! She�ll get back to you on queries as soon as she can. Also, this means that the August newsletter will definitely be late, since she won�t have time to compile it &lt;G>. If you happen to live somewhere along that route and want to meet for coffee or dessert or something, do let her know at [Legend@malcor.com](mailto:Legend@malcor.com), and she�ll try to set up something with you.
+**Travel Plans:** Danya will be traveling to Las Vegas, Dinosaur National Park, Yellowstone National Park, Pocatello (Idaho) and Lake Tahoe from July 19-August 3. She may or may not have e-mail access during that time (We�re still working on that.). Please pardon delays in response time! She�ll get back to you on queries as soon as she can. Also, this means that the August newsletter will definitely be late, since she won�t have time to compile it &lt;G>. If you happen to live somewhere along that route and want to meet for coffee or dessert or something, do let her know at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll try to set up something with you.
 
 **Birthday Wishes:** Happy Birthday to Misty (June 24) and Larry (July 28). If you wish to send cards, please use their business address: Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. (The QO PO Box in Laguna Beach, CA is only for business mail intended for QO. We don�t handle mail for Misty and Larry.)
 
@@ -50,7 +50,7 @@ Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
 ## Ren Faires:
 
-Here are the Faires we know about for July. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com)
+Here are the Faires we know about for July. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
 ### California
 
@@ -130,7 +130,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at [h
 
 ## Conventions:
 
-These are the upcoming cons we know about. Have any information about conventions in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com).
+These are the upcoming cons we know about. Have any information about conventions in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 ### Alabama
 
@@ -364,7 +364,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable).
 - ***Riding Circuit***, a quarterly zine of Velgarth fanfiction seeks submissions. The first issue is due out in early April, and I look forward to stories of Heralds, Hawkbrothers, Bards and other people of Velgarth. Art and poetry are also welcome. Submissions may be sent by mail to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169 or e-mailed to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com). Visit our website [http://www.marymuse.com/HeartlandArrows/RC.html](http://www.marymuse.com/HeartlandArrows/RC.html) for more information.
 - **Tales of the Southern Bard:** TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at [SouthernBard@eudoramail.com](mailto:SouthernBard@eudoramail.com) for submission guidelines and information on how to join or visit TOTSB's homepage: [http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm](http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm).
-- ***Tales of the Unicorn*:** After a decade hiatus it's back . . . *Tales of the Unicorn*. Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy. Tales will be published quarterly with the first issue coming in late April. Art and poetry are also welcome. Visit our website at [http://www.marymuse.com/HeartlandArrows/TotU.html](http://www.marymuse.com/HeartlandArrows/TotU.html) for more information. Submissions may be sent to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com) or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
+- ***Tales of the Unicorn*:** After a decade hiatus it's back … *Tales of the Unicorn*. Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy. Tales will be published quarterly with the first issue coming in late April. Art and poetry are also welcome. Visit our website at [http://www.marymuse.com/HeartlandArrows/TotU.html](http://www.marymuse.com/HeartlandArrows/TotU.html) for more information. Submissions may be sent to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com) or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -373,7 +373,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - CrossGen Comics: Exciting New Fantasy Comic Books. Follow Prince Ethan's adventures the third Wednesday of each month as he gains the powerful sigil and accidentally puts his world on the brink of war. Meridian, on sale the fourth Wednesday of each month, is the fantastic saga of a teenage girl and her plight to save her floating island home. Go to [http://www.crossgen.com](http://www.crossgen.com), or call 1-888-COMICBOOK for details on a retail location near you.
 - Tanya Huff: **Nine Above!** is a list for fans of author Tanya Huff. This list provides announcements about Tanya's latest work, publication dates, and personal appearances. NA! also provides a forum for Tanya's fans to communicate with each other, and will have discussion as well as announcements. Lurking is fine, but participation is encouraged. When you join, we'd love for you to send a "hello" to the group at large, telling us who you are! To start sending messages to members of this group, simply send email to [nineabove@egroups.com](mailto:nineabove@egroups.com).
-- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [Legend@malcor.com](mailto:Legend@malcor.com).
+- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - Adrian Paul of Highlander: **Peace,**APFC P.O. Box 4593, North Hollywood, CA 91617 or **Peace,**APFC P.O. Box 519, Broley, Kent, BR29WX, England.
 - Michael Praed: *Michael Praed Network Newsletter*, c/o Kate Raymond, P.O. Box 516, Midlotioan, IL 60445.
 - Melanie Rawn: **Pandemonium**- The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira, P.O. Box 18A146 , Los Angeles, CA 90018.
@@ -391,13 +391,13 @@ We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercena
 
 You need a release form (online at [Release form instructions](/release-form-instructions/)) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. Do NOT include the *original* of the release form with your persona material; send it to Misty. Send a *copy* to us.
 
-All personae materials should be sent to the QO address or submitted by e-mail to [Legend@malcor.com](mailto:Legend@malcor.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
+All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
 - Welcome, **Herald Kelles**, Chosen by Solari and Gifted with strong Mindspeech, strong Foresight, and strong Firestarting. *Elizabeth Vines* wrote about Kelles and her family and friends, wrote an additional story, composed three poems and learned to ride a horse.
 
-If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [Legend@malcor.com](mailto:Legend@malcor.com), and she�ll make sure you are greeted in the next newsletter.
+If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
 
-### Lost . . .
+### Lost …
 
 One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
@@ -418,7 +418,7 @@ One of the challenges running an online club is that people don�t always leave
 - Herald Paf (jaro@attbi.com)
 - Herald Fiona L'Aren (divagypsy@yahoo.com)
 
-If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
+If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
 ### From Healer Adept Moonstar:
 
@@ -451,10 +451,10 @@ Moonstar
   - People to pull information from the old newsletters that we would like to add to the website.
   - Child care for Danya so she can code.
 
-  If you can be of assistance, please contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
+  If you can be of assistance, please contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.
-- **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [Legend@malcor.com](mailto:Legend@malcor.com)? Thanks!
+- **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -462,11 +462,11 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Co-Editor/Co-President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Co-Editor/Co-President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Co-Editor/Co-President Healer Adept Moonstar (Kendra Renaud; AOL-IM SN healermoon; [healermoon@gmail.com](mailto:healermoon@gmail.com))
 
-The featured artists for this newsletter are [Gibel Encarnacion](mailto:gibelmaria@aol.com) and [Michelle Cornett](mailto:heraldmeshel@hotmail.com). All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+The featured artists for this newsletter are [Gibel Encarnacion](mailto:gibelmaria@aol.com) and [Michelle Cornett](mailto:heraldmeshel@hotmail.com). All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

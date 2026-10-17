@@ -40,7 +40,7 @@ Two thoughtful fans have responded to Christine Krebs' plea for where to get whi
 
 Also, Giselle Bergeron responded to the requests of those of you wanting critiques and communications with other writers by sending us a fact sheet about the SF AND FANTASY WORKSHOP [Ed. note 2002: Out-of-date contact info omitted.]. She joined the group over a year ago and says she's found many supportive friends through it. They have "an information packet that helps a new writer get started, emphasizing the stuff Misty said in her last letter, and includes other juicy tidbits."
 
-The material says that they are "a group of more than 300 [Editor's Giggle: Wait 'til they hear from all of YOU!] people, all serious about selling what they write, all ready to help each other and be helped in return . . . ." So send the usual SASE, all you aspiring writers, and remember, Misty got her start writing for zines too. [Editor's Answer to Giselle: We both read your letters, but Judith answers them.]
+The material says that they are "a group of more than 300 [Editor's Giggle: Wait 'til they hear from all of YOU!] people, all serious about selling what they write, all ready to help each other and be helped in return … ." So send the usual SASE, all you aspiring writers, and remember, Misty got her start writing for zines too. [Editor's Answer to Giselle: We both read your letters, but Judith answers them.]
 
 **NOTE:** If you have to ask Judith if you owe her stamps, the answer is "YES!" She says she's cut some of you a great deal of slack, but her patience is wearing *very* thin. This could be the last QO you receive. It's up to you. [Rhetorical question: How many other fanletters have someone who writes fans personal letters?]
 
@@ -48,7 +48,7 @@ Our estimable Herald Housemother a/k/a Judith has told me that a number of you h
 
 For our Canadian friends, Trudie Mason wrote Judith that these are a number of sf/f groups and cons based in the Montreal area. You may contact her through CON-CEPT, Montreal Science Fiction and Fantasy Convention [Ed. Note 2002: Out-of-date contact info omitted.]. Please do her the courtesy of including a SASE.
 
-Dear children, *one more time*! A SASE is a SELF-ADDRESSED STAMPED ENVELOPE *you* provide. *You* provide the envelope. *You* address it. *You* put the stamp on it. If you wonder why I'm repeating myself, it's both selfish and altruistic in motive. I've been getting some checks which include money for postage for QO buttons. And then I've had to scrounge envelopes and stamps, and . . . . PULEEEEEESE! Others might just cash the check.
+Dear children, *one more time*! A SASE is a SELF-ADDRESSED STAMPED ENVELOPE *you* provide. *You* provide the envelope. *You* address it. *You* put the stamp on it. If you wonder why I'm repeating myself, it's both selfish and altruistic in motive. I've been getting some checks which include money for postage for QO buttons. And then I've had to scrounge envelopes and stamps, and … . PULEEEEEESE! Others might just cash the check.
 
 I wonder if you realize how proud Judith and I are to "know" all of you? You are so *talented*, with *great imagination*. You aren't afraid to *take chances*, to *be different*, *sharing* of yourselves and your talents gives us gifts the year 'round. [Though I sometimes want to, as my mother might have said, shake you 'til your teeth rattle because you're so self-deprecating!]
 
@@ -56,11 +56,11 @@ You have started fanzines and newsletters. You have published your and others' w
 
 Since the last fanletter, we've received some very exciting and enthusiastic offers from some *more very special people*. Candidly, after a disappointing earlier experience, I was a bit hesitant. But with Judith pushing, and Misty pulling, I agreed that we must give these folk the same chance Misty gave us.
 
-Some reminders though: Judith and I will not give or sell *anyone* our mailing list. Neither will we act as anyone's mailing house. And we would be extremely annoyed if anyone used those addresses appearing in QO for other than they were intended. Also, if you submit any material on spec [speculation], always keep a copy. If you must submit the original, as in art work, be aware that you may not get it back. Too, be prepared for editing or critiquing with which you may not always agree. And with that . . .
+Some reminders though: Judith and I will not give or sell *anyone* our mailing list. Neither will we act as anyone's mailing house. And we would be extremely annoyed if anyone used those addresses appearing in QO for other than they were intended. Also, if you submit any material on spec [speculation], always keep a copy. If you must submit the original, as in art work, be aware that you may not get it back. Too, be prepared for editing or critiquing with which you may not always agree. And with that …
 
 First out of the starting blocks is Stephanie Wong. Stephanie writes, "I'm starting a zine, ARROW'S MESSAGE, based on Misty's Velgarth, (the planet where Valdemar and Rethwellan are located). We'll be publishing poems, art, stories, songs, etc. [Ed. note 2002: Out-of-date price and contact info withheld.] [Our copy of the guidelines delighted us.]
 
-Maureen O'Brien has plans for producing a CONCORDANCE, [an alphabetical index of the words of a book with reference to the passages in which each occurs]. She writes that she's gotten out her Word Perfect and all. We don't know just what her boundaries are going to be, but we think if she starts with the ARROWS series it will be most welcome. [If she can also manage to help with pronunciation . . . . (sigh)]
+Maureen O'Brien has plans for producing a CONCORDANCE, [an alphabetical index of the words of a book with reference to the passages in which each occurs]. She writes that she's gotten out her Word Perfect and all. We don't know just what her boundaries are going to be, but we think if she starts with the ARROWS series it will be most welcome. [If she can also manage to help with pronunciation … . (sigh)]
 
 Examples of what she plans to include are that Menmellith, mentioned in ARROWS OF THE QUEEN, is a client state of Rethwellan. In OATHBREAKERS, "yatakar" means war leader or respected war leader. [We can't wait to offer her first effort to you.]
 
@@ -106,13 +106,13 @@ Judith Louvis and Sally Paduch
 
 Dear Gang:
 
-Happy holidays to you all! I was in California over Thanksgiving visiting my parents (and having an early Xmas) and I managed to fit in a signing at Planet 10 Bookstore. They are lovely folks there, and we had a great time. Christa FINALLY managed to pry herself away from LosCon, and Tracy was there the whole time, keeping me company. And Ellen Guon put in an appearance, bringing with her Andy and a bottle of Irish Cream . . . we toasted the health of Eric Banyon (*Knight of Ghosts and Shadows*) right there in the store.
+Happy holidays to you all! I was in California over Thanksgiving visiting my parents (and having an early Xmas) and I managed to fit in a signing at Planet 10 Bookstore. They are lovely folks there, and we had a great time. Christa FINALLY managed to pry herself away from LosCon, and Tracy was there the whole time, keeping me company. And Ellen Guon put in an appearance, bringing with her Andy and a bottle of Irish Cream … we toasted the health of Eric Banyon (*Knight of Ghosts and Shadows*) right there in the store.
 
 The week before had taken Larry and me to SoonerCon in Oklahoma City. We had a very good time, but I was really tired, and the filkrooms was full to bursting (not surprising, with Leslie Fish there!), so I didn't sing much besides my concert with C.J., Leslie, and Jane Fancher. I was so tired Friday night (we drove over and took with us Sandra Santana, another artist, and it took hours to pack the car) what with working on *Magic's Price* on the way, that I probably looked stoned out of my mind! We had a chance to talk to Brian Thomsen of Warner Books about *Black Gryphon*, and he likes it and has given us the go-ahead to put together a formal proposal for the review board. So that's one reason why Skandranon is on your Xmas card this year--celebration and hope for things to come! Let's all hope that *The Black Gryphon* will fly in 1990!
 
 Negotiations on the project with Andre Norton (*The Elvenbane*) are going on at TOR. I have seen the publishing schedule for TOR up through June, and *Children of the Night* is still not on it, so I can't tell you when the next Diana Tregarde book will be out. The short story that I eventually expanded and made into that book, "Nightshade", is in *Marion Zimmer Bradley's Fantasy Forum* magazine, though.
 
-And we moved, which is quite enough to get anyone exhausted. We found the only 3-bedroom apartment in the complex just before they were going to convert it back to two apartments. We went from 800 square feet to 1600 square feet of space, quite enough for my office, the art studio, and Ellen Guon as well (she'll be moving back here in January). And a washer and dryer, which means no more laundromats! It took us two days to get everything moved, and there are still boxes all over the office, livingroom, and studio. I really hate moving with a passion. But there are 4 bathrooms, which means the cats have their very own litter-box first thing in the morning. It's a covered box, but still . . .
+And we moved, which is quite enough to get anyone exhausted. We found the only 3-bedroom apartment in the complex just before they were going to convert it back to two apartments. We went from 800 square feet to 1600 square feet of space, quite enough for my office, the art studio, and Ellen Guon as well (she'll be moving back here in January). And a washer and dryer, which means no more laundromats! It took us two days to get everything moved, and there are still boxes all over the office, livingroom, and studio. I really hate moving with a passion. But there are 4 bathrooms, which means the cats have their very own litter-box first thing in the morning. It's a covered box, but still …
 
 So Xmas is almost upon us, and I've actually done most of my shopping! A minor miracle, made possible only by the many catalogs which have found their way to my door. Thank goodness for Swiss Colony and the Smithsonian Gift Store! Especially for Swiss Colony--I've never seen anyone object to getting chocolate!
 
@@ -126,9 +126,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no art for this edition of the newsletter. If you have a clue who they were, please contact Herald-Mage Adept Danya at [Legend@malcor.com](mailto:Legend@malcor.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no art for this edition of the newsletter. If you have a clue who they were, please contact Herald-Mage Adept Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

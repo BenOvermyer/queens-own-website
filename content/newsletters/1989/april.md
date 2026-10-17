@@ -36,7 +36,7 @@ Judith has asked us to remind those of you who change your addresses for the sum
 
 More from Julie Bowman, [continued from the [March](/newsletters/1989/march/) issue: Anne McCaffrey has Compuserve and loves to chat. Ask the sysop for her ID# or leave a note for her on the public bulleting board system. She [Julie] also welcomes electronic mail, and checks the computer for messages every three days or so. Her ID# is 74137,73.
 
-Linda Stillman gets the Super Sleuth Award for finding the elusice Terry Barnholdt's Erie, PA address [as of [November](/newsletters/1988/november/) '88] in the Berkeley, CA library. Judith has written and . . . . Linda also introduced us to the term "skillful procrastination.". Love it! [Personal to Linda re aggravating arachnids and small, wingless, bloodsucking, leanping insects: (1) landlady, (2) Board of Health, (3) "Raid".]
+Linda Stillman gets the Super Sleuth Award for finding the elusice Terry Barnholdt's Erie, PA address [as of [November](/newsletters/1988/november/) '88] in the Berkeley, CA library. Judith has written and … . Linda also introduced us to the term "skillful procrastination.". Love it! [Personal to Linda re aggravating arachnids and small, wingless, bloodsucking, leanping insects: (1) landlady, (2) Board of Health, (3) "Raid".]
 
 For those of you who are interested in Sime/Gen fandom, based on books by Jacqueline Lichtenberg, Chantal Gaudiano suggests contacting Ambrov Zeor [Ed. Note 2002: Contact info withheld.].
 
@@ -50,7 +50,7 @@ And if any of you know of an[y] Andre Norton fan group[s], please let us know. W
 
 Jean Lamb writes that she has a story in MOON PHASES #11, [Ed. Note 2002: Contact info. withheld.] called "Any Wings to Fly," set in the Darkover universe. It's a tale about what happened when Danvan Hatur first learned that, of all his gifted kin, he would have no laran--ever.
 
-"I'm pretty proud of this story . . . . THE RIVALS, an original universe sword and sorcery novel, is still at DAW, and I've submitted a story on spec to Janet Morris for LORDS IN HELL. Wish me luck!" [Editor's Note: We do!]
+"I'm pretty proud of this story … . THE RIVALS, an original universe sword and sorcery novel, is still at DAW, and I've submitted a story on spec to Janet Morris for LORDS IN HELL. Wish me luck!" [Editor's Note: We do!]
 
 **Editor's Correction**: Page 1, paragraph 6, last line, should read "out Rex and Audrey!" [Oh well, if we were modest we'd be perfect.]
 
@@ -62,7 +62,7 @@ Judith Louvis and Sally Paduch
 
 **ADDENDUM I**: Attention cat and/or mystery lovers! Pat Shafer was kind enough to share with us the first issue of *The Lillian Jackson Braun Newsletter*. If you're a fan of Koko and Yum Yum, and their human, Jim Qwilleran, [yes, that's really meant to be a "w", not a "u" om Qwilleran,] and would like a copy, [Ed. Note 2002: Contact info. withheld.]. And please tell Helen that you're a QO member.
 
-**Addendum II**: Jill Pruett sent us a flyer for CON VI, The Generic Science Fiction Convention, to be held August 11-13 in Portland, OR. Misty is listed as the numero uno guest along with Monika Livingston. For more information, write to [Ed. Note 2002: Contact info. withheld.]. And, once again, may we ask that you mention QO? [When you mention QO, you're also mentioning Misty. And the more people who . . . ]
+**Addendum II**: Jill Pruett sent us a flyer for CON VI, The Generic Science Fiction Convention, to be held August 11-13 in Portland, OR. Misty is listed as the numero uno guest along with Monika Livingston. For more information, write to [Ed. Note 2002: Contact info. withheld.]. And, once again, may we ask that you mention QO? [When you mention QO, you're also mentioning Misty. And the more people who … ]
 
 **Addendum III**: Judith tells us that both "Rex and Julie" and "Rex and Audrey" are correct/ It just depends on whether or not one is refering to the stage or movie production.
 
@@ -92,9 +92,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no art in this edition of the newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no art in this edition of the newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

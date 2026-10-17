@@ -30,7 +30,7 @@ Mercedes Lackey Fan Club
 
 Dear Misty Fans,
 
-Greetings from Misty and Larry! They say they intended to send Christmas cards but got sidetracked . . . Funny how a wedding and honeymoon make one forget everything else. If there isn't a more personal greeting from them tucked in with this issue, it will be included in the February newsletter.
+Greetings from Misty and Larry! They say they intended to send Christmas cards but got sidetracked … Funny how a wedding and honeymoon make one forget everything else. If there isn't a more personal greeting from them tucked in with this issue, it will be included in the February newsletter.
 
 *The Mage Winds* trilogy, the books that take us back to Valdemar to the time of the events of *Arrow's Fall*, will have illustrations by Larry Dixon. The first book, *Winds of Fate*, has a release date of November first. Because it will be in hard cover, the price will be $21.95.
 
@@ -58,7 +58,7 @@ The purpost of this Queen's Own newsletter is to keep you informed of Misty's an
 
 For instance, you can have a question and answer column with questions ranging from "If Talamir hadn't been killed, thus freeing Rolan to choose another Herald, what would Talia's life have been like?" to "Who of Misty's characters is your favorite adn why?" and "If *The Last Herald-Mage* were going to be a movie, whom would you cast as Vanyel? Stefen? Savil? Medren? Treesa?"
 
-You can have LOC's (Letters of Comment) about other authors, movies, TV shows worth watching, local cons, gaming news . . . whatever is of interest; you can start a Round Robin and print te finished story; you can be even more creative. How about an interview with Diana Tregarde? A job resume by Eric Banyon? An article on what the well-dressed Herald wears off duty?
+You can have LOC's (Letters of Comment) about other authors, movies, TV shows worth watching, local cons, gaming news … whatever is of interest; you can start a Round Robin and print te finished story; you can be even more creative. How about an interview with Diana Tregarde? A job resume by Eric Banyon? An article on what the well-dressed Herald wears off duty?
 
 Not ready to write for one of our zines? Send a poem or short story (*very* short) to the chapter newsletter.
 
@@ -152,7 +152,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

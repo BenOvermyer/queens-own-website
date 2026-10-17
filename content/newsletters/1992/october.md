@@ -36,11 +36,11 @@ Dear Misty Fans,
 
 "Misty and I had 381 Ibs. of medical supplies and goods in the air to Florida within 16 hours when this disaster hit. The SCA was able to put together a delivery conduit directly into the hardest-hit areas of Homestead. A 7-truck convoy of collected goods was there for people that had yet to see as much as a policeman or soldier in the remains of their neighborhoods. And you've all followed the saga of our floods, tornado, and the loss of my studio here; I spent all of my studio budget on the goods we have sent and are sending to Florida.
 
-"We can make more money, sometime in the future. These people needed the supplies then. I can wait longer for a place to work, they need a place to sleep and eat and bathe . . .
+"We can make more money, sometime in the future. These people needed the supplies then. I can wait longer for a place to work, they need a place to sleep and eat and bathe …
 
-"Second shipment of tools and medical supplies to Florida from High Flight went out three hours ago via FedEx. Another several pounds' worth, slated to go to the SCA/Trimaris staging area for allocation to real people in real trouble . . .
+"Second shipment of tools and medical supplies to Florida from High Flight went out three hours ago via FedEx. Another several pounds' worth, slated to go to the SCA/Trimaris staging area for allocation to real people in real trouble …
 
-"And we put together a direct-purchase arrangement with a tool importer; we are now able to buy relief-effort tools such as saws, pliers, claw hammers and the like straight from the container-ship broker. First order from here is for 50 8' x 10' tarps and a few dozen handsaws and pry bars. Every little bit . . . "
+"And we put together a direct-purchase arrangement with a tool importer; we are now able to buy relief-effort tools such as saws, pliers, claw hammers and the like straight from the container-ship broker. First order from here is for 50 8' x 10' tarps and a few dozen handsaws and pry bars. Every little bit … "
 
 Write to Firebird Arts & Music [Ed. note 2004: Out-of-date info. withheld.] for ordering information on Larry's interior illustrations in *Winds of Change*. Firebird carries all of Misty's books and tapes and many other treasures. Send a #10 SASE their new for a copy of their new catalog. You can place an order with Firebird by calling [Ed. note 2004: Out-of-date info. withheld.]. If you get the answering machine, leave your complete name and address and/or phone number! For sale now is the Jody Lee cover print of *Winds of Fate*, as well as the cover prints of *Oathbound*, *Oathbreakers*, and all three *Magic* books. The Concordance for the *Arrows* books will be available in time for the holidays; Juanita and Buck Coulson will soon finish the *Herald-Mage* Concordance. The *Shadowstalker* tape is a "work in progress" with no definite release date.
 
@@ -87,7 +87,7 @@ For a handout on how to become a Herald, Healer, or Bard, or for instructions on
 
 ## MEMBER NEWS:
 
-**From Shirlene Ananayo aka Magpi of the Southern Sky:** "Greetings from the fringe of the hurricane-torn 'war zone' of Miami! . . . Tam, me, our roomies & our assorted cats are all fine. We haven't got electricity, but we do have roofs over our heads . . . Due to the unexpected severity of Hurricane Andrew, we couldn't imagine an attempt to crank out an issue of *Southern Arrow* now . . . We're really okay, but the pictures on the news (both vid & paper) don't do the devastation justice . . . the dryads will weep for decades . . . " (My apologies to Shirlene and Tam. They managed to get the *Southern Arrow* out before the October QO newsletter, and my only problem was a stubborn computer.)
+**From Shirlene Ananayo aka Magpi of the Southern Sky:** "Greetings from the fringe of the hurricane-torn 'war zone' of Miami! … Tam, me, our roomies & our assorted cats are all fine. We haven't got electricity, but we do have roofs over our heads … Due to the unexpected severity of Hurricane Andrew, we couldn't imagine an attempt to crank out an issue of *Southern Arrow* now … We're really okay, but the pictures on the news (both vid & paper) don't do the devastation justice … the dryads will weep for decades … " (My apologies to Shirlene and Tam. They managed to get the *Southern Arrow* out before the October QO newsletter, and my only problem was a stubborn computer.)
 
 **From Archangel:** I had to drop 3 more stories so the zine *The Storyteller* is now only $2.00. Those who have already subscribed should have gotten their extra dollar back by now.
 
@@ -99,7 +99,7 @@ For a handout on how to become a Herald, Healer, or Bard, or for instructions on
 
 ***Plainschildren***, the Mid-West chapter of QO is going strong but always looking for more members. If interested, write to Stephanie Benn [Ed. note 2004: Out-of-date info. withheld.].
 
-**For you Michael Praed/Robin of Sherwood fans,** Janet Reedman writes that she'll be in England for at least three months, but copies of her zine *Legend* can be purchased from Bill Hupe & Reg Kennedy [Ed. note 2004: Out-of-date info. withheld.]. Janet is accepting submissions for two new zines. *Sword* will feature stories based on any medieval or fantasy movie/show ie Ladyhawke, Excaliber, Willow . . . and *Merry Men* will contain stories based on non-Robin of Sherwood roles played by the ROS cast. For information, write to J. P. Reedman c/o Tony & Ros Phipps [Ed. note 2004: Out-of-date info. withheld.].
+**For you Michael Praed/Robin of Sherwood fans,** Janet Reedman writes that she'll be in England for at least three months, but copies of her zine *Legend* can be purchased from Bill Hupe & Reg Kennedy [Ed. note 2004: Out-of-date info. withheld.]. Janet is accepting submissions for two new zines. *Sword* will feature stories based on any medieval or fantasy movie/show ie Ladyhawke, Excaliber, Willow … and *Merry Men* will contain stories based on non-Robin of Sherwood roles played by the ROS cast. For information, write to J. P. Reedman c/o Tony & Ros Phipps [Ed. note 2004: Out-of-date info. withheld.].
 
 **For anyone interested in a QO-like fan club for Robert Jordan's *Wheel of Time* series**, send a SASE to Anna Clower [Ed. note 2004: Out-of-date info. withheld.].
 
@@ -145,7 +145,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

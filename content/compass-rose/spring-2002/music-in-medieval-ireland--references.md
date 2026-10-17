@@ -46,7 +46,7 @@ canonical_path = "/compass-rose/spring-2002/music-in-medieval-ireland/references
 
 <a id="altramar"></a><a id="alramar"></a> Altramar. *Liner Notes to Crossroads of the Celts*. New York: Dorian, DOR-93177, 1999.
 
-<a id="buckley1"></a> Buckley, Ann. "'and his voice swelled like a terrible thunderstorm . . .'" *Irish Musical Studies*. (1995): 13-76
+<a id="buckley1"></a> Buckley, Ann. "'and his voice swelled like a terrible thunderstorm …'" *Irish Musical Studies*. (1995): 13-76
 
 <a id="buckley2"></a> Buckley, Ann. "Music and Musicians in Medieval Irish Society." *Early Music*. XXVIII/2 (May 2000): 165-190.
 

@@ -141,7 +141,7 @@ Remember, if Kal'enedral are rare, Leshya'e Kal'enedral are a hundred times rare
 
 If you have additional questions, check out the [Religion](/religions-faq/) and [Shin'a'in](/shina-in-faq/) FAQs.
 
-Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+{{ <signoff /> }}
 
 <img alt="" loading="lazy" src="/bargrass.gif"/>
 

@@ -28,7 +28,7 @@ In the Name of God
 
 ## by
 
-## [Linda A. Malcor](mailto:Legend@malcor.com)
+## [Linda A. Malcor](mailto:shashtah@gmail.com)
 
 The Crusades.[<sup>1</sup>](/compass-rose/summer-2000/in-the-name-of-god/references/#note1) The very name calls to mind images of knights in shining armor, riding off to do battle for the Holy Land against the evil "Saracens." The reality, however, fell far short of the holy wars that the Church's propaganda portrayed. Seven of the conflicts were officially numbered;[<sup>2</sup>](/compass-rose/summer-2000/in-the-name-of-god/references/#note2) some of the uglier campaigns were not included in the ranking. These military actions form one of the defining features of the Middle Ages, yet they are among the bloodiest chapters of what humans are willing to do to each other in the name of God.
 

@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/northern-barbarians-faq/"
+revised = "2/7/02"
 +++
 
 ## Northern Barbarians
-
-## (Revised 2/7/02)
 
 These are the Northern Barbarian clans that we know about:
 

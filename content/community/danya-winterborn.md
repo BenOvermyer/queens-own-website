@@ -12,6 +12,7 @@ vlink = "red"
 historical = true
 topic = "community"
 canonical_path = "/danya-winterborn/"
+revised = "7/19/08"
 +++
 
 <a id="Herald"></a>
@@ -23,8 +24,6 @@ Danya Winterborn's Page
 <a href="/pacific-northwest-collegium/"><img alt="Danya Winterborn" loading="lazy" src="/cc3a.gif"/></a>
 
 Terrill Choosing Danya by [Laura Cameron](/pacific-northwest-collegium/)
-
-(Page Revised 7/19/08)
 
 <table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%">
 <tr>
@@ -218,7 +217,7 @@ Here are links of interest to fans of the Valdemar series.
 - [The Vanyel Fan Club](/vanyel-fan-club/) (The homepage for the Vanyel Fan Club chat list.)
 - [The Wonderful World of Velgarth](http://www.geocities.com/Area51/Nebula/8375/Velgarth/) (Book reviews)
 
-If you know of a link you would like me to add, message me at [Legend@malcor.com](mailto:Legend@malcor.com). I'll review the site, and, if I like it, I'll add the link.
+If you know of a link you would like me to add, message me at [shashtah@gmail.com](mailto:shashtah@gmail.com). I'll review the site, and, if I like it, I'll add the link.
 
 <img alt="" loading="lazy" src="/rainbar.gif" style="width:800px; height:7px"/>
 
@@ -228,7 +227,7 @@ The following webrings are Valdemar-related.
 
 <a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a>
 
-This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:Legend@malcor.com).
+This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:shashtah@gmail.com).
 
 [[Previous 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;prev5) | [Previous](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;prev) | [Next](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;next) | [Next 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=2;next5) | [Random Site](http://www.webring.org/cgi-bin/webring?ring=qsown;random) | [List Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;list)]
 
@@ -238,7 +237,7 @@ This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:Legend@
 
 <a href="http://www.geocities.com/Area51/Vault/5297/ringhome.html"> <img alt="" class="float-left" loading="lazy" src="http://www.geocities.com/Area51/Vault/5297/circle.jpg" style="width:100px; height:115px"/></a> <a href="http://www.webring.org/cgi-bin/webring?ring=vanyelring&amp;id=27&amp;next"> <img alt="" class="float-right" loading="lazy" src="http://www.geocities.com/Area51/Vault/5297/circle2.jpg" style="width:100px; height:115px"/></a>
 
-This site is part of the [Heraldic Circle](http://www.geocities.com/Area51/Vault/5297/ringhome.html) and is owned by [L.A. Malcor](mailto:Legend@malcor.com). Click for the [ [Next Page](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&next) | [Skip It](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&skip) | [Previous](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&prev) | [Next Five](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&next5)] Want to join the Circle? Click here for [info](http://www.geocities.com/Area51/Vault/5297/ringhome.html).
+This site is part of the [Heraldic Circle](http://www.geocities.com/Area51/Vault/5297/ringhome.html) and is owned by [L.A. Malcor](mailto:shashtah@gmail.com). Click for the [ [Next Page](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&next) | [Skip It](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&skip) | [Previous](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&prev) | [Next Five](http://www.webring.org/cgi-bin/webring?ring=vanyelring&id=27&next5)] Want to join the Circle? Click here for [info](http://www.geocities.com/Area51/Vault/5297/ringhome.html).
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -246,7 +245,7 @@ This site is part of the [Heraldic Circle](http://www.geocities.com/Area51/Vault
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
-<a href="http://hometown.aol.com/wntercloud/myhomepage/index.html"><img alt="" class="float-right" loading="lazy" src="http://www.angelfire.com/md2/BladeLibrary/falcon.gif" style="height:200px"/></a> This [Misty Alliance](http://hometown.aol.com/wntercloud/myhomepage/index.html) site is owned by [L.A. Malcor](mailto:Legend@malcor.com).
+<a href="http://hometown.aol.com/wntercloud/myhomepage/index.html"><img alt="" class="float-right" loading="lazy" src="http://www.angelfire.com/md2/BladeLibrary/falcon.gif" style="height:200px"/></a> This [Misty Alliance](http://hometown.aol.com/wntercloud/myhomepage/index.html) site is owned by [L.A. Malcor](mailto:shashtah@gmail.com).
 
 [[List Sites](http://www.bravenet.com/freelink/show.php?usernum=176813191)]
 

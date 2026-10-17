@@ -46,7 +46,7 @@ To unsubscribe from the mailinglist (and leave the club), follow the instruction
 
 [http://www.dragonlordsnet.com/mailman/listinfo/vanyelfanclub_dragonlordsnet.com](https://dragonlords.fans/mailman/listinfo/vanyelfanclub_dragonlordsnet.com)
 
-If you have any problems, message Herald-Mage Adept Danya Winterborn at [Legend@malcor.com](mailto:Legend@malcor.com).
+If you have any problems, message Herald-Mage Adept Danya Winterborn at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 <img alt="" loading="lazy" src="/rainbar.gif"/>
 

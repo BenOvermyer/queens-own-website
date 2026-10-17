@@ -106,7 +106,7 @@ From David Carpenter of *Story Starters*: Unfortunately, due to lack of submissi
 
 Heyla out there! I'm looking for members for my new teen-only Misty fanclub! For details and a free copy of the first newsletter, send a SASE to Herald Trainee Rydia [Ed. note 2005: Out-of-date info withheld.].
 
-The soft sound of music surrounds you, luring you closer. You move slowly forward, toward the magnificent doors at the end of the hall, an elegantly masked figure within the moonlight. Your heart thundering within your chest, you thrust open those doors to view what lay behind. It has begun . . . The Masquerade! From *MOONLIGHT MASQUERADE* c/o Nicole Blackwell [Ed. note 2005: Out-of-date info withheld.]. Issue 5, Midwinter's Eve, is 5'2 pages in 11x17 professional magazine format with two color illustrations, filled with enchanting tales of true love and adventure for only $5.50! SPECIAL SAVINGS: Buy any 2 issues (1 through 3, and 5) for $8.50 ($11 separately), the first 3 for $1?. ($16.50 separately), or all 5 for $25 ($30 separately). Checks/money orders made payable to Nicole Blackwell. This is your invitation ...Come join the Masquerade!
+The soft sound of music surrounds you, luring you closer. You move slowly forward, toward the magnificent doors at the end of the hall, an elegantly masked figure within the moonlight. Your heart thundering within your chest, you thrust open those doors to view what lay behind. It has begun … The Masquerade! From *MOONLIGHT MASQUERADE* c/o Nicole Blackwell [Ed. note 2005: Out-of-date info withheld.]. Issue 5, Midwinter's Eve, is 5'2 pages in 11x17 professional magazine format with two color illustrations, filled with enchanting tales of true love and adventure for only $5.50! SPECIAL SAVINGS: Buy any 2 issues (1 through 3, and 5) for $8.50 ($11 separately), the first 3 for $1?. ($16.50 separately), or all 5 for $25 ($30 separately). Checks/money orders made payable to Nicole Blackwell. This is your invitation ...Come join the Masquerade!
 
 Hey Fantasy lovers! Do you like to create personae. and live in a fantasy world? Of course you do! So come join ours! The Volurgin Scroll allows you to pick one of two opposing kingdoms and help one win by writing stories. You have the opportunity to write for four different areas of the newsletter or submit artwork. All this for only $4 (US)! For guidelines and a sample issue, send a business-sixed SASE (3 IRC's for overseas, 2 for Canada) to [Ed. note 2005: Out-of-date info withheld.].
 
@@ -116,7 +116,7 @@ WestHaven Collegium is growing! and you must use a new gateway through America O
 
 SHIN'A'IN!! Where are you? Come join your fellow clansmen in *Under Kal'enel's Care*. Here bi-monthly newsletters aimed specifically at the Shin'a'in are full of bias on personas; what's new with personas, poems, artwork, merchandise addresses, and occasionally an author interview (Elisabeth Waters being our most recent one). Dues are 15 thirty two cent stamps; for sample newsletter send SASE to Stephanie Anderson [Ed. note 2005: Out-of-date info withheld.].
 
-Come join the *Heralds' Revel*! This is a paper revel , a celebration in print. Members provide the entertainment: prose, poems, photos and drawings, recipes, articles . . . The only additional fee ( $7,111 for Canadians and $7.85 [Canadian funds] for Americans) is to cover expenses. Make cheque; or money orders payable to Heather Wagem [Ed. note 2005: Out-of-date info withheld.].
+Come join the *Heralds' Revel*! This is a paper revel , a celebration in print. Members provide the entertainment: prose, poems, photos and drawings, recipes, articles … The only additional fee ( $7,111 for Canadians and $7.85 [Canadian funds] for Americans) is to cover expenses. Make cheque; or money orders payable to Heather Wagem [Ed. note 2005: Out-of-date info withheld.].
 
 JENNIFER ROBERSON fans! *Children of the Firstborn* is Jennifer's official fan club. The newsletters contain a discussion forum, poems, artwork, addresses of interest, and a letter from Jennifer at least' Dues are $6 US a year (for international rates, send IRC) or send a SASE for more information to Children of the Firstborn [Ed. note 2005: Out-of-date info withheld.].
 
@@ -182,7 +182,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

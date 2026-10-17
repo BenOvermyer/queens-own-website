@@ -32,7 +32,7 @@ Dear Misty Fans,
 
 Book release dates are still October '91, *Mage Winds &035;1, Winds of Fate,* DAW; also October '91, another Di Tregarde novel, *Jinx High*, published by TOR; in November, *The Elvenbane*, written with Andre Norton, TOR.
 
-One of Misty's future projects is a collaboration with Anne McCaffrey, as yet untitled, with a brainship theme. Misty's protagonist is not a birth defect child but rather the thirteen year old daughter of archaeologists who has an accident. According to Misty: "Native viruses take advantage of the damaged tissue and set up housekeeping. By the time she gets to real medical facilities, every time they try to regenerate her spine they get tumors because of the viruses . . . They give up and pop her in the shell . . . She's well aware of boys and hormones."
+One of Misty's future projects is a collaboration with Anne McCaffrey, as yet untitled, with a brainship theme. Misty's protagonist is not a birth defect child but rather the thirteen year old daughter of archaeologists who has an accident. According to Misty: "Native viruses take advantage of the damaged tissue and set up housekeeping. By the time she gets to real medical facilities, every time they try to regenerate her spine they get tumors because of the viruses … They give up and pop her in the shell … She's well aware of boys and hormones."
 
 Have we confused you? Read McCaffrey's *The Ship Who Sang* for background.
 
@@ -44,7 +44,7 @@ Since then, The Might Rodan, (their permanent-rehab bluejay, a real charmer!) ha
 
 Birds in the wild are generally very good parents, and if you see baby birds wandering around on the ground, it probably *doesn't* mean they've been abandoned. In fact, attempting to help them may interrupt part of the parents' training! (To really help, remove your cat and dog--and yourself--from the vicinity.) A little known fact is that many birds see in the ultraviolet and are able to tell each other apart by the "fingerprint" of UV patterns in their feathers. That's why parent birds sometimes ignore their own chicks after humans have handled them; our skin oils have their own UV signature, and break up the patterns that the birds see. In other words, after a human touches a fledgling bare-handed, the parents won't even recognize the little guy is theirs--it looks like some other bird's baby, and that's Not Their Problem. This paragraphy brought to you by Mutual of Valdemar's Wild Kingdom, and Larry Dixon.
 
-Jody Lee says: "There are still prints available, including 'Oathbound' and 'Oathbreakers.' DAW Books will be advertising the prints in Misty's hardcover, *Winds of Fate* . . . I will make prints of 'Winds of Fate' but I will also probably discontinue offering matted prints except at conventions, so anyone who wants matted prints should order htem this summer." Jody adds: "I really want to thank everyone who has written to me or bought prints & apologize for very often failing to reply in timely fashion."
+Jody Lee says: "There are still prints available, including 'Oathbound' and 'Oathbreakers.' DAW Books will be advertising the prints in Misty's hardcover, *Winds of Fate* … I will make prints of 'Winds of Fate' but I will also probably discontinue offering matted prints except at conventions, so anyone who wants matted prints should order htem this summer." Jody adds: "I really want to thank everyone who has written to me or bought prints & apologize for very often failing to reply in timely fashion."
 
 Jody will be Artist Guest of Honor at Boskone 29 in Springfield, Massachusetts, February 14-16 '92. Send a SASE to [Ed. note 2003: Out-of-date contact information withheld.].
 
@@ -68,7 +68,7 @@ Misty took time during her NJ visit to clear up a couple of questions about the 
 
 "Due to the nature of most Herald/Companion deaths (i.e. in the middle of a battle or similar violent circumstance) the shock of the death of one partner generally means the other is going to be stunned long enough for an enemy to take him out as well. Death of old age generally means that both die simultaneously. However, if death is due to illness or accidental trauma, one can survive the other, especially if there are other Heralds/Companions nearby. The bereft Herald will always be Chosen again. The bereft Companion Chooses again about half the time."
 
-And finally, bad news to all you ultra-romantic souls out there--there is a big difference between love, lust, and lifebonding. Here's Misty's definition: "Lifebonding is very rare, occurring in 1 couple out of 1000. It seems to be related to Empathy in some way, as the lifebond acts very like the empathic bond. If one partner dies, the other partner can fall in love again, but probably will not form another lifebond, although this has happened on even rare occasions than the first lifebond (perhaps 1 out of every 10000 bereft partners). It could be construed that this is because, had all three met while the now deceased partner was alive, they would have formed a three-way lifebond. Since we are now talking about a 1 in a million chance, whether for a three-way or a second lifebond, it should be obvious that this is very rare indeed . . . Chances are that your character won't even know a lifebonded couple, much less be part of one."
+And finally, bad news to all you ultra-romantic souls out there--there is a big difference between love, lust, and lifebonding. Here's Misty's definition: "Lifebonding is very rare, occurring in 1 couple out of 1000. It seems to be related to Empathy in some way, as the lifebond acts very like the empathic bond. If one partner dies, the other partner can fall in love again, but probably will not form another lifebond, although this has happened on even rare occasions than the first lifebond (perhaps 1 out of every 10000 bereft partners). It could be construed that this is because, had all three met while the now deceased partner was alive, they would have formed a three-way lifebond. Since we are now talking about a 1 in a million chance, whether for a three-way or a second lifebond, it should be obvious that this is very rare indeed … Chances are that your character won't even know a lifebonded couple, much less be part of one."
 
 One other thing: true Healers are very rare and therefore very valudable. It is highly unlikely that a Companion would Choose a Healer; Healers are already performing a very necessary service to the realm.
 
@@ -130,7 +130,7 @@ No newsletter in August! I hope to catch up on the mail, finish organizing the f
 
 **All zine editors, mentors, and chapter heads--bring me up to date on what you're doing by the end of August so you can be featured in the September newsletter!! If I don't hear from you regularly i assume you are defunct!**
 
-Greetings to old and new QO folk: Announcing the 2nd annual QO/Clan Festival July 26-28, held at Denise Loveless' 40 acre farm. THis is for those of you who need to "get away from it all" and "get back to nature." There will be a festival dinner/bonfire and swimming at the lake . . . along with a visit to Mammoth Cave. Please let Denise know if you plan to attend. [Ed. note 2003: Out-of-date contact information withheld.]
+Greetings to old and new QO folk: Announcing the 2nd annual QO/Clan Festival July 26-28, held at Denise Loveless' 40 acre farm. THis is for those of you who need to "get away from it all" and "get back to nature." There will be a festival dinner/bonfire and swimming at the lake … along with a visit to Mammoth Cave. Please let Denise know if you plan to attend. [Ed. note 2003: Out-of-date contact information withheld.]
 
 Write to Ellen Wells, [Ed. note 2003: Out-of-date contact information withheld.], for information on the Valdemar collection of recipes, "In the Palace Kitchen."
 
@@ -158,7 +158,7 @@ From Rebecca Sims and April Parra: We are working on a Loise Cooper Fan club. Th
 
 "**Pacific Northwest Collegium** is happy to have heard from so many Misty fans. By popular request we will extend our borders beyond Washington, Oregona dn Idaho to include British Columbia. Many members of the Collegium will be at Dreamcon 6 to meet Misty. Let us hear from you. For more info, write to [Ed. note 2003: Out-of-date contact information withheld.]."
 
-"[Ed. note 2003: Out-of-date contact information withheld.]: HELP! any Maryland, Virginia, or DC Qoers PLEASE contact us (Lavina Cheung, Rebecca Rose, Anita Jobson). We're trying to get a chapter going, and we'd like to know who's in the area and what ideas and/or help they can give, if any. Or, just tell us you're here! Please, please, please . . . " -- Lavina.
+"[Ed. note 2003: Out-of-date contact information withheld.]: HELP! any Maryland, Virginia, or DC Qoers PLEASE contact us (Lavina Cheung, Rebecca Rose, Anita Jobson). We're trying to get a chapter going, and we'd like to know who's in the area and what ideas and/or help they can give, if any. Or, just tell us you're here! Please, please, please … " -- Lavina.
 
 The Maryland Renaissance Festival begins its 15th season on August 24 in Crownsville, MD. It runs weekends (and Labor Day) until October 13th. If you attend, stop by "Faces of the Soul" and ask for QO member Mary Schwartz. For more Festival info, [Ed. note 2003: Out-of-date contact information withheld.].
 
@@ -194,7 +194,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

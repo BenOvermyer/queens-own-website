@@ -42,13 +42,13 @@ Many of you know Herald-Mage Master Danya and I from work we have done in other 
   I have an A.B. in English with a double minor in History and Comparative Literature from Occidental College. I went to UCLA for my M.A. and my doctorate. The M.A. was in Folklore and Mythology with an emphasis in Narrative and Celtic Studies. The Ph.D. was also in Folklore and Mythology with an emphasis in Medieval Studies and Indo-European Comparative Mythology.
 3. Why did you choose to save Queen's Own?
 
-  I think there is something very special about Queen's Own. Unlike most fandoms, the club encourages people to learn more about the world in which they live and places a strong emphasis on helping others. I see writers, artists and fans of all ages responding to that and becoming better people as a result of belonging to the organization. I just couldn't stand to see something like that die. So . . . Well, they say "if you want something done, give it to a busy person" &lt;G>. I was certainly busy enough and my own fan club (Dragonlords of Dumnonia, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html)) was solvent enough to support two clubs. When you (Moonstar) said you'd be Co-President along with me, I knew this was something we could do, so I went for it.
+  I think there is something very special about Queen's Own. Unlike most fandoms, the club encourages people to learn more about the world in which they live and places a strong emphasis on helping others. I see writers, artists and fans of all ages responding to that and becoming better people as a result of belonging to the organization. I just couldn't stand to see something like that die. So … Well, they say "if you want something done, give it to a busy person" &lt;G>. I was certainly busy enough and my own fan club (Dragonlords of Dumnonia, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html)) was solvent enough to support two clubs. When you (Moonstar) said you'd be Co-President along with me, I knew this was something we could do, so I went for it.
 4. When did you join Queen's Own?
 
   I started taking the newsletter sometime in the Fall of 1995, and Danya was approved in March of 1996. I think it's very important for fantasy fiction writers in particular to belong to fandoms, so when I shifted careers from being a screenwriter to specializing in fantasy fiction, I joined several fandoms. Queen's Own and my own Dragonlords are the only two I'm still with.
 5. What got you hooked on Misty�s books?
 
-  I had a homophobic friend who had received the Last Herald Mage trilogy as a gift and who could not handle it when he realized that Van was turning out to be gay. He knew that I did a lot of work for gay rights and AIDS relief and that I frequently write fiction about characters who are gay, so he gave me the trilogy. I read it . . . and after I threw the last book across the room and stormed about the apartment for the rest of the night, I went out to Barnes & Noble and picked up absolutely everything else I could find that Misty had ever written &lt;G>.
+  I had a homophobic friend who had received the Last Herald Mage trilogy as a gift and who could not handle it when he realized that Van was turning out to be gay. He knew that I did a lot of work for gay rights and AIDS relief and that I frequently write fiction about characters who are gay, so he gave me the trilogy. I read it … and after I threw the last book across the room and stormed about the apartment for the rest of the night, I went out to Barnes & Noble and picked up absolutely everything else I could find that Misty had ever written &lt;G>.
 6. What else do you read?
 
   ::chuckle:: Not sure if you'll believe me on this one. My recent "pleasure" reading has included *The Inscriptions of Roman Britain* (at least as much of the set as I've been able to acquire so far), *Equus: The Horse in the Roman World*, *The Roman Cavalry*, *Daily Life in Ancient Rome*, Tacitus, *Understanding Roman Inscriptions*, Vegetius, *The Landscape of Roman Britain*, *Romans and Britons in North-West England*, and *Reading the Bible & the Confessions the Presbyterian Way*. I also read Tanya Huff and Melanie Rawn &lt;G>; they just haven't come out with anything in the series I'm following recently.
@@ -71,7 +71,7 @@ Many of you know Herald-Mage Master Danya and I from work we have done in other 
 
 <img alt="Terrill Choosing Danya by Laura Cameron" class="border-2" loading="lazy" src="/cc3a.gif"/>
 
-Here are the faires we know about that are happening in June. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com)
+Here are the faires we know about that are happening in June. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
 ### Alaska
 
@@ -141,7 +141,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at [h
 
 ## Conventions:
 
-These are the upcoming cons we know about. (Living in California, that's what I usually get information on.) Have any information about conventions in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com).
+These are the upcoming cons we know about. (Living in California, that's what I usually get information on.) Have any information about conventions in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 ### California
 
@@ -188,7 +188,7 @@ Note: **Arrows OnLine**has declared on its AOL message boards that it is no long
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
 - Tanya Huff: **Nine Above!** is a list for fans of author Tanya Huff. This list provides announcements about Tanya's latest work, publication dates, and personal appearances. NA! also provides a forum for Tanya's fans to communicate with each other, and will have discussion as well as announcements. Lurking is fine, but participation is encouraged. When you join, we'd love for you to send a "hello" to the group at large, telling us who you are! To start sending messages to members of this group, simply send email to [nineabove@egroups.com](mailto:nineabove@egroups.com).
-- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [Legend@malcor.com](mailto:Legend@malcor.com).
+- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - Anne McCaffrey/Pern: **The Third Pass Weyrs.**Contact Weyrwoman Second Naerah at [Nyco@aol.com](mailto:Nyco@aol.com) or visit the website at http://www.3rdpass.com/ for more information.
 - Adrian Paul of Highlander: **Peace,**APFC P.O. Box 4593, North Hollywood, CA 91617 or **Peace,**APFC P.O. Box 519, Broley, Kent, BR29WX, England.
 - Michae Praed: *Michael Praed Network Newsletter*, c/o Kate Raymond, P.O. Box 516, Midlotioan, IL 60445.
@@ -236,7 +236,7 @@ The newsletter is routinely posted to the Net. If you are concerned about your a
 
 The only "fee" for a fan message is to write to two other people. If your mailbox is empty, don't complain--write letters!
 
-- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
+- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [shashtah@gmail.com](mailto:shashtah@gmail.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - From Healer Adept Moonstar. To Eric: Thank you very much for the copies of April 91-October 95 newsletters! Is there any way I can repay you?
@@ -257,11 +257,11 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Co-Editor/Co-President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Co-Editor/Co-President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Co-Editor/Co-President Healer Adept Moonstar (Kendra Renaud; AOL-IM SN healermoon; [healermoon@gmail.com](mailto:healermoon@gmail.com))
 
-The featured artists for the online version of the newsletter are [Anthony Barton](mailto:Chucky@localaccess.com) and [Laura Cameron](mailto:anjakiya@hotmail.com). All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+The featured artists for the online version of the newsletter are [Anthony Barton](mailto:Chucky@localaccess.com) and [Laura Cameron](mailto:anjakiya@hotmail.com). All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

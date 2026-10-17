@@ -11,6 +11,7 @@ vlink = "silver"
 historical = true
 topic = "publications"
 canonical_path = "/children-of-velgarth/"
+revised = "10/18/20"
 +++
 
 ## Queen's Own
@@ -18,8 +19,6 @@ canonical_path = "/children-of-velgarth/"
 ## Children of Velgarth
 
 ## The Official Queen's Own Fanzine
-
-### (Revised 10/18/20)
 
 <img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 
@@ -36,7 +35,7 @@ Healer Adept Moonstar of the Eagle Clan Bondbird: Kearie (Marsh Hawk/Northern Ha
 
 or
 
-Herald-Mage Adept Danya Winterborn Gifts: Mindspeech, Fetching, Empathy, Mage Gift Chosen by Terrill Brought to us by Linda A. Malcor, Legend@malcor.com, of California, USA Accepted by Queen's Own in March 1996 (Herald), July 1997 (Hedge Wizard), November 1998 (Journeyman), June 2000 (Master), April 2002 (Adept).
+Herald-Mage Adept Danya Winterborn Gifts: Mindspeech, Fetching, Empathy, Mage Gift Chosen by Terrill Brought to us by Linda A. Malcor, shashtah@gmail.com, of California, USA Accepted by Queen's Own in March 1996 (Herald), July 1997 (Hedge Wizard), November 1998 (Journeyman), June 2000 (Master), April 2002 (Adept).
 
 These titles are then followed by all persona sketches, stories, drawings, maps, costume designs, photos and the like that have been submitted to earn each persona. (Things such as photocopies of CPR cards are not included.)
 

@@ -11,13 +11,12 @@ vlink = "silver"
 historical = true
 topic = "personas"
 canonical_path = "/npc-directory/"
+revised = "10/17/26"
 +++
 
 ## Queen's Own
 
 ## NPC List
-
-### (Revised 10/17/26)
 
 <img alt="" loading="lazy" src="/pegasus.gif"/>
 

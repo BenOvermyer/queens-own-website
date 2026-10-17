@@ -59,7 +59,7 @@ Choose and complete the requirements for two (minimum) of the following:
 
 1. Learn and certify in CPR.
 2. Learn First Aid.
-3. Volunteer for 10 hours of service in a health-related field (Blood drive, candy striper, . . . ).
+3. Volunteer for 10 hours of service in a health-related field (Blood drive, candy striper, … ).
 4. Create a list of medical products and their uses (herbs, poultices, etc.).
 5. Write a procedure for a specific treatment (trauma, burns., etc.).
 6. Draw a map.

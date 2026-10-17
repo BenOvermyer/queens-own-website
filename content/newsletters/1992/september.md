@@ -205,11 +205,11 @@ For a handout on how to become a Herald, Healer, or Bard, or for instructions on
 
 I hope your summer was fun, exciting, relaxing, whatever you wanted it to be. Mine went speeding by so quickly I'm left shaking my head in bewilderment. I still hope to move by the end of this month; please use the new QO address--[Ed. note 2004: Out-of-date ino. withheld.]--from now on.
 
-I've been getting a lot of mail without SASE's, some even without return addresses. Patience Sibeal, mentor and zine editor, wrote to me about the same problem, and gave me permission to quote parts of her letter: "I have a 4-page letter I've been sending out with tips about writing for a long SASE (and a 12-page list of zines and clubs in media fandoms like Blake's 7 and Star Trek [not to mention many others] for $1.00 domestic or $1.50 foreign--copy and postage costs); and I am always happy to look over stories. But if I get another letter without an SASE I am just going to throw it away . . . I've said it many times but this time I mean it for real. I'm sorry, but I can't believe how many people have not sent SASEs, yet expect a response.
+I've been getting a lot of mail without SASE's, some even without return addresses. Patience Sibeal, mentor and zine editor, wrote to me about the same problem, and gave me permission to quote parts of her letter: "I have a 4-page letter I've been sending out with tips about writing for a long SASE (and a 12-page list of zines and clubs in media fandoms like Blake's 7 and Star Trek [not to mention many others] for $1.00 domestic or $1.50 foreign--copy and postage costs); and I am always happy to look over stories. But if I get another letter without an SASE I am just going to throw it away … I've said it many times but this time I mean it for real. I'm sorry, but I can't believe how many people have not sent SASEs, yet expect a response.
 
 "In the last month I received one handwritten submission on notebook paper from someone whose address I couldn't even read (and he didn't send an SASE) and a typewritten poem from another person (whose Valdermarian name I will omit) who not only forgot to send an SASE but also forgot to leave her address or her real name! I liked both of these submissions, but how can I contact these people? I got another recent submission from a young woman who wrote a wonderful story but also neglected to send a SASE. I wrote her back after two weeks, but if she had sent an SASE I would have answered her the next day. The baser side of my nature says, why should I bother to contact these people when they apparently don't care enough to send me an SASE?
 
-"I love helping people and I love the people I've met through Queen's Own . . . but it's irritating when a little thing like a legal-sized SASE - sort of a, you help me, I help you thing - is too much to ask for some people. I just wish people would realize I'm doing this on my own free time, just like you do, and because I want to.
+"I love helping people and I love the people I've met through Queen's Own … but it's irritating when a little thing like a legal-sized SASE - sort of a, you help me, I help you thing - is too much to ask for some people. I just wish people would realize I'm doing this on my own free time, just like you do, and because I want to.
 
 "I do want to thank everyone who DID send an SASE, and people like Jim Caramsalidis who were generous and helpful."
 
@@ -259,7 +259,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

@@ -12,11 +12,10 @@ vlink = "white"
 historical = true
 topic = "community"
 canonical_path = "/pacific-northwest-collegium/"
+revised = "3/09/10"
 +++
 
 <img alt="" loading="lazy" src="/cc1.gif"/>
-
-## (Revised 3/09/10)
 
 <img alt="" loading="lazy" src="/pegasus.gif"/>
 
@@ -128,7 +127,7 @@ These images accompanied "Triptych," by L.A. Malcor, in which Master Healer Paig
 
 ## Copyright Notices:
 
-Original art on this page is copyright 1998/1999 Laura Cameron, and may not be used with her express permission. Background courtesy of Gilbert's Icon Archive. All uncredited artwork is believed to be in the public domain. If this is incorrect, message [L.A. Malcor](mailto:Legend@malcor.com) and proper credit will be given or the artwork will be removed at once, whichever is the preference of the artist and/or the artist's legal representatives. The buttons on this page were designed by L.A. Malcor, using images that were offered for free from the former *Here Be Dragons* site and various archive sites. The buttons themselves are original designs by L.A. Malcor, and you need to [contact her](mailto:Legend@malcor.com) for permission information if you wish to use the buttons on your own site. *Please do not link to artwork on this page.* If an image is in the public domain, feel free to download it and upload it to your own site. We have a bandwidth limit, however, and if people use it up by linking to our images, we will have to remove the art.
+Original art on this page is copyright 1998/1999 Laura Cameron, and may not be used with her express permission. Background courtesy of Gilbert's Icon Archive. All uncredited artwork is believed to be in the public domain. If this is incorrect, message [L.A. Malcor](mailto:shashtah@gmail.com) and proper credit will be given or the artwork will be removed at once, whichever is the preference of the artist and/or the artist's legal representatives. The buttons on this page were designed by L.A. Malcor, using images that were offered for free from the former *Here Be Dragons* site and various archive sites. The buttons themselves are original designs by L.A. Malcor, and you need to [contact her](mailto:shashtah@gmail.com) for permission information if you wish to use the buttons on your own site. *Please do not link to artwork on this page.* If an image is in the public domain, feel free to download it and upload it to your own site. We have a bandwidth limit, however, and if people use it up by linking to our images, we will have to remove the art.
 
 <img alt="Danya, Yarik and Kaylan Exchange Rings" class="border-5" loading="lazy" src="/cc16.gif"/>
 
@@ -150,7 +149,7 @@ Original art on this page is copyright 1998/1999 Laura Cameron, and may not be u
 
 <a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a>
 
-This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:Legend@malcor.com).
+This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:shashtah@gmail.com).
 
 [[Previous 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;prev5) | [Previous](http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;prev) | [Next](http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;next) | [Next 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=3;next5) | [Random Site](http://www.webring.org/cgi-bin/webring?ring=qsown;random) | [List Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;list)]
 

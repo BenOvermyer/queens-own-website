@@ -11,13 +11,12 @@ vlink = "darkblue"
 historical = true
 topic = "community"
 canonical_path = "/role-playing/"
+revised = "10/16/20"
 +++
 
 ## Queen's Own
 
 ## Role-Playing Instructions
-
-### (Revised 10/16/20)
 
 <img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 
@@ -43,7 +42,7 @@ Queen's Own hopes to hold RPs at least once a month. This will be on the fourth 
 
 While in the Secret Room, you may play your approved QO persona and approved NPCs. You may also play the family and friends who are approved along with your persona. We will assume that your comments come from your persona unless you designate otherwise.
 
-To join play, come up with some likely explanation for your persona to be passing through: You are on leave from a mercenary unit or the Guard, you have a brief vacation from your duties as a Herald and are spending it with friends, you are researching a rare herb at the Healing Temple, you are helping a Tayledras unit clean-up some Change Circles, you are part of a group trying to help stabilize an unstable fault beneath the local hotsprings, you are passing through on your way to an assignment in Hardorn or Karse . . . Be creative, but remember to stay within the rules of the books!
+To join play, come up with some likely explanation for your persona to be passing through: You are on leave from a mercenary unit or the Guard, you have a brief vacation from your duties as a Herald and are spending it with friends, you are researching a rare herb at the Healing Temple, you are helping a Tayledras unit clean-up some Change Circles, you are part of a group trying to help stabilize an unstable fault beneath the local hotsprings, you are passing through on your way to an assignment in Hardorn or Karse … Be creative, but remember to stay within the rules of the books!
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 

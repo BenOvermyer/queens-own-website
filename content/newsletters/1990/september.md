@@ -34,7 +34,7 @@ What better way to start off the newsletter than with a quote from **Misty**:
 
 "I began writing out of boredom; I continue out of addiction. I can't 'not' write, and as a result have no social life. I began writing fantasy because I love it, but I try to construct my fantasy worlds with all the care of a 'high-tech' science fiction writer. I apply the principle of TANSTAFL ('There ain't no such thing as free lunch') to magic, for instance; in my worlds, magic is paid for, and the cost to the magician is frequently a high one. I try to keep my world as solid and real as possible; people deal with stubborn pumps, bugs in their porridge, and love-lives that refuse to become untangled, right along with invading armies and evil magicians. And I try to make all of my characters, even the 'evil magicians', something more than flat stereotypes. Even evil magicians get up in the middle of the night and look for cookies, sometimes."
 
-Oh dear, it seems I stepped into an alternate universe while typing up the list of Misty's short stories that appeared in the alst newsletter. Please do not waste any time searching for *Free Amazons II & III*. They don't exist! (But I have them in my bookcase . . . I thought.) "Object Lesson" was in *Domains of Darkover*, and "Set a Thief" will be in *Renunciates of Darkover*, due for release in '91. Misty's story "Nightside" was in the Fall 1989 issue (#6) of *Marion Zimmer Bradley's Fantasy Magazine*, not in Spring '90. Also (!) some of the titles of the *Merovingian Nights* books are wrong, but Misty has stories in all of them, so that shouldn't inconvenience anyone too much. The release date of *By the Sword* is still February '91. Thanks to Lisa Waters and Kenneth Brown who tried valiantly to straighten me out. Kenneth even sent me the telephone numbers of TOR, Baen and DAW. [Ed. note 2002: Numbers withheld.]
+Oh dear, it seems I stepped into an alternate universe while typing up the list of Misty's short stories that appeared in the alst newsletter. Please do not waste any time searching for *Free Amazons II & III*. They don't exist! (But I have them in my bookcase … I thought.) "Object Lesson" was in *Domains of Darkover*, and "Set a Thief" will be in *Renunciates of Darkover*, due for release in '91. Misty's story "Nightside" was in the Fall 1989 issue (#6) of *Marion Zimmer Bradley's Fantasy Magazine*, not in Spring '90. Also (!) some of the titles of the *Merovingian Nights* books are wrong, but Misty has stories in all of them, so that shouldn't inconvenience anyone too much. The release date of *By the Sword* is still February '91. Thanks to Lisa Waters and Kenneth Brown who tried valiantly to straighten me out. Kenneth even sent me the telephone numbers of TOR, Baen and DAW. [Ed. note 2002: Numbers withheld.]
 
 If you only recently wrote to Queen's Own and received issue #6 as your sample newsletter, page 2 may have been corrected. Ah, technology! It's almost as good as magick!
 
@@ -46,11 +46,11 @@ Texans have a reputation for doing things in a big way. It's true, it's true! Me
 
 The cost of *Tales of Valdemar and Beyond* is [Ed. Note 2002: Withheld.]. Nathaniel Waldbauer says the first copy of our first annual zine will soon be ready. Order your copy from him at [Ed. note 2002: Out-of-date information withheld.].
 
-Patricia Riggs and I thank all of you for your responses to our cries for help. Members are still working on introductions to gaming, filk, Ren Faires, etc., but . . .
+Patricia Riggs and I thank all of you for your responses to our cries for help. Members are still working on introductions to gaming, filk, Ren Faires, etc., but …
 
 **Cara Huffman** has the advertising flyer organized! It is called *The Valdemar Merchant*. For information on how to place an ad or received the flyer, [Ed. note 2002: Out-of-date information withheld.].
 
-For those of you who are curious about what goes on at a convention . . . "I stood in a back-water swirl of activity and action. People dressed from many different eras passed by me. What should I do? Where should I go?
+For those of you who are curious about what goes on at a convention … "I stood in a back-water swirl of activity and action. People dressed from many different eras passed by me. What should I do? Where should I go?
 
 "Well, lucky for me, at the time someone was there to give me directions. My time as a Neo (new fan) at a convention was almost painless.
 
@@ -64,7 +64,7 @@ Ellen Wells, [Ed. note 2002: Out-of-date information withheld.], is still asking
 
 ### Chapter News:
 
-From Lavina Cheung, [Ed. note 2002: Out-of-date information withheld.]: Shade and sweet water to thee, VA and MD QOers! Anita Jobson and I are looking to set up a local chapter of QO here. Any questions, suggestions, and HELP! are greatly appreciated and needed. (Oh Lady, a KENDER in charge, of all things . . . )
+From Lavina Cheung, [Ed. note 2002: Out-of-date information withheld.]: Shade and sweet water to thee, VA and MD QOers! Anita Jobson and I are looking to set up a local chapter of QO here. Any questions, suggestions, and HELP! are greatly appreciated and needed. (Oh Lady, a KENDER in charge, of all things … )
 
 Hello OH, KY, and IN QO! This is Mary Bertke. Celeste Frazier and I are trying to start a tri-state chapter of Queen's Own. If you're interested, please send a SASE to [Ed. note 2002: Out-of-date information withheld.]. To present members: We *are* sending out a letter soon. Please be patient; we have technical difficulties.
 
@@ -72,7 +72,7 @@ Illinois Arrow to Illinois Misty fans: We've finally gotten started and we invit
 
 ## Collegium Registry:
 
-We are working on detailed Bard and Healer requirements, but in the meantime, some of you have used your ingenuity and . . . Welcome to our first Bard!
+We are working on detailed Bard and Healer requirements, but in the meantime, some of you have used your ingenuity and … Welcome to our first Bard!
 
 **Hannah Anthony** tells us that she has the Gift, the Creativity, and she performs well on harp, lute, and gittern. Hannah sent me stories about herself and her friend Lyssa, a poem, "War's Beginning," and a diagram of her room at the Bardic Collegium.
 
@@ -138,7 +138,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

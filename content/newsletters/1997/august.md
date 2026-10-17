@@ -54,7 +54,7 @@ Coming from DAW by October (check your bookstores next month) is *Owlflight*, an
 
 � Blackpoint Forest Renaissance Faire is held in Novato California weekends and Labor Day from August 23 to October 5, 10:00 am to 6:00 pm. Gate prices are $17.50/adult and $7.50/children. Call [Ed. note 2005: Out-of-date info withheld.] or write to Renaissance Pleasure Faire [Ed. note 2005: Out-of-date info withheld.] for more information.
 
-If you want information about Renaissance Faires in your area or are merely curious about what goes on in the Ren Faire world, consider subscribing to *Renaissance Herald*, a quarterly newsletter. It contains articles, reviews, and advertisements like none other. Do you want custom-made boots? Would you like to learn how to brew your own mead? Are you looking for perfumeries, weaving supplies, herbs, wax and wicks, rubber stamps . . . ? The *Herald* has a source for you. Send a SASE for subscription information to Renaissance Publications [Ed. note 2005: Out-of-date info withheld.]. (I believe the price is $7 but write or call to be sure.)
+If you want information about Renaissance Faires in your area or are merely curious about what goes on in the Ren Faire world, consider subscribing to *Renaissance Herald*, a quarterly newsletter. It contains articles, reviews, and advertisements like none other. Do you want custom-made boots? Would you like to learn how to brew your own mead? Are you looking for perfumeries, weaving supplies, herbs, wax and wicks, rubber stamps … ? The *Herald* has a source for you. Send a SASE for subscription information to Renaissance Publications [Ed. note 2005: Out-of-date info withheld.]. (I believe the price is $7 but write or call to be sure.)
 
 You can order all of Misty's books from Firebird as well as an *Arrows of the Queen Concordance* or songbook, Silver Gryphon patches and pins, related jewelry and stationery, doll-size patterns, and much, much more. In the Firebird catalog you'll find T-shirts for every taste, the music of TEMPEST, Michael Longcor's latest album "Norman & Saxon," various Celtic artists, native American music by R. Carlos Nakai and others, and the theme music from the films *Ladyhawke* and *Braveheart*.
 
@@ -126,7 +126,7 @@ The August issue of SPELL AND STEEL will pull you away from your tiresome mundan
 
 THE UNICORN'S VALE is delighted to announce that its 3rd issue is now on sale with an exciting collection of stories that will astound you. What horror can steal a small girl from her home and family and will the faith and courage of her young siblings be enough to save her? A young girl heeds the beckoning lure from the forest. What awaits her in such a lyrical guise? One planet pits its wrath against the citizens of another. Will a woman risk her own fate to take a stand to end the carnage? What do you do when your every thought brings forth uncontrollable power? See what one young girl does as she emerges into the terrifying world of Magic. All these and more can be found within the pages of THE UNICORN'S VALE. Come dance to the magical lyrics of Andrea Thomas, Marise Norland, and Sharon Emrich. Issues #1 and #2 are still obtainable and we are accepting submissions for #4 as well as a special Unicorn/Pegasus/Equine issue. Each regular issue is $3 each plus postage for each of $1/US, $2/Canada, and $3/overseas. Make checks payable to [Ed. note 2005: Out-of-date info withheld.].
 
-Experience the wonder of fantasy come to life on quality stationery, bookmarks, cards and prints! Ellen Million Graphics offers beautiful products by outstanding new artists, and custom work is available. Something for everyone, including Misty�related designs. Write for your free catalog to Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.]. "Order . . . and be enchanted!"
+Experience the wonder of fantasy come to life on quality stationery, bookmarks, cards and prints! Ellen Million Graphics offers beautiful products by outstanding new artists, and custom work is available. Something for everyone, including Misty�related designs. Write for your free catalog to Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.]. "Order … and be enchanted!"
 
 Children of the Ancient Way is an organization dedicated to the preservation and protection of the Earth and all her creatures. For more information, send a long double-stamped self-addressed envelope to Children of the Ancient Way [Ed. note 2005: Out-of-date info withheld.].
 
@@ -177,7 +177,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

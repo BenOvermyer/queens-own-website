@@ -94,7 +94,7 @@ Send for Firebird's catalog of filk, books, collectibles, and other treasures by
 
 *Gaylaxicon IV* bills itself as "a Science Fiction - Fantasy - Horror convention for Gay people and their friends." This year the con is being held July 17-19 in Philadelphia, and Guest of Honor is Tanya Huff. Membership is $25 until June 30. If you are under 18, your parent or guardian must attend with you. For more information, write to Gaylaxicon IV [Ed. note 2004: Out-of-date contact information withheld.]. Misty will be GoH next year, at Gaylaxicon V, and this is the only con she plans to attend in 1993.
 
-OOPS Department! It was alternate universe time for me when I typed in the name of the store where Misty is doing a signing. Let's try again . . .
+OOPS Department! It was alternate universe time for me when I typed in the name of the store where Misty is doing a signing. Let's try again …
 
 ATTENTION all lucky people in the Dayton, Ohio area: Misty will be doing a book signing at *Books and Company* on Friday evening, July 24, between 7:30 and 9:30. The address is [Ed. note 2004: Out-of-date contact information withheld.]. *Books and Company* is celebrating science fiction month with 13% off all SF/F titles. They will take phone orders for autographed copies of Misty's books (accompanied by a credit card number, of course.) The store hopes to have in stock by this time both the paperback version of *Winds of Fate*, and the Misty/Anne McCaffrey collaboration, *The Ship Who Searched*. Lois McMaster Bujold will be present on Saturday, July 11th, from 5:30 to 6:30 as one of four guest authors.
 
@@ -192,7 +192,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

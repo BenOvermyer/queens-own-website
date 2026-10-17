@@ -150,7 +150,7 @@ These papers will be published in [*The Compass Rose*](/compass-rose/about/).
 
 For more information, see the [Religion](/religions-faq/) FAQ.
 
-Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com) and [Healer Adept Moonstar](mailto:healermoon@gmail.com)
+{{ <signoff /> }}
 
 <img alt="" loading="lazy" src="/sun2.gif"/>
 

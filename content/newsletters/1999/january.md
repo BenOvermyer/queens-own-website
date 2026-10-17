@@ -98,7 +98,7 @@ Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com) "The
 
 Pandemonium - The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira [Ed. note 2004: Out-of-date contact information withheld.].
 
-Dragonlords of Dumnonia - Contact L.A. Malcor at [Legend@malcor.com](mailto:Legend@malcor.com) or visit the website at [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html) for more information.
+Dragonlords of Dumnonia - Contact L.A. Malcor at [shashtah@gmail.com](mailto:shashtah@gmail.com) or visit the website at [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html) for more information.
 
 Queen's Own - Merging of the Ways [Ed. note 2004: Out-of-date info. withheld.]. If you move make sure you send me your new address! If the post office returns a newsletter to me, I don't try again.
 
@@ -120,9 +120,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-The featured artist for this edition of the newsletter was uncredited. If you have a clue whom it was, please contact Herald-Mage Adept Danya at [Legend@malcor.com](mailto:Legend@malcor.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+The featured artist for this edition of the newsletter was uncredited. If you have a clue whom it was, please contact Herald-Mage Adept Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

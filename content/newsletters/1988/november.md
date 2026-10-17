@@ -32,7 +32,7 @@ Dear Misty fans:
 
 Judith has decided [Editor's gasp!] that we should offer you the opportunity to contact one another through our fanletter, which seems to be growing of its own anyway. Therefore, those of you who would like to share your interests, request a roomate for a convention, or whatever, may send your fanmessages to Sally. Please limit them to 25-30 words, print or type them, [and don't use brown pens on brown paper!] Needless to say, we reserve the rights of all editors to edit.
 
-Misty has given us Jody Lee's address, and we've sent her a letter asking for all the details for ordering prints of her cover art. We hope to have everything you've always wanted to know . . . for our January fanletter.
+Misty has given us Jody Lee's address, and we've sent her a letter asking for all the details for ordering prints of her cover art. We hope to have everything you've always wanted to know … for our January fanletter.
 
 <img alt="Companion Sketch Pending (image unavailable in archive)" class="float-left" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/>How do you like the Companion sketch below? Julie Bowman sent it to us and included samples of the silver braid bridle, silger cord used as accents and two of the tiny silver bells. As the reduction makes reading the description difficult, the body is white velour, mane and tail are long white fur, and the saddle pad is blue velvet, while the hooves are silver. The cost is $22.50 plus $2.00 to cover shipping and handling. Make your check or money order out to "Mythical Creations" and send it to [Ed. note 2002: address withheld. See the [October 1988](/newsletters/1988/october/) newsletter for the current website link. We have queried whether or not Julie Bowman still makes the Companions.].
 
@@ -58,9 +58,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-Julie Bowman was the featured artist for this newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+Julie Bowman was the featured artist for this newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

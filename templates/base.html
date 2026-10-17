@@ -6,6 +6,8 @@
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <meta name="description" content="{{ config.description }}">
   <link rel="stylesheet" href="{{ get_url(path='css/site.css') }}">
+  <link rel="preload" href="{{ get_url(path='fonts/cardo-400.woff2') }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ get_url(path='fonts/yeseva-one-400.woff2') }}" as="font" type="font/woff2" crossorigin>
 </head>
 <body {% block appearance %}{% endblock appearance %}>
   <a class="skip" href="#main">Skip to content</a>
@@ -14,13 +16,13 @@
     <nav aria-label="Main navigation">
       <a href="{{ get_url(path='membership/') }}">Membership</a>
       <a href="{{ get_url(path='personas/') }}">Personas</a>
-      <a href="{{ get_url(path='world/') }}">World reference</a>
+      <a href="{{ get_url(path='world/') }}">Velgarth Reference</a>
       <a href="{{ get_url(path='community/') }}">Community</a>
       <a href="{{ get_url(path='publications/') }}">Publications</a>
       <a href="{{ get_url(path='archive/') }}">Archive</a>
     </nav>
   </header>
   <main id="main">{% block content %}{% endblock content %}</main>
-  <footer><a href="{{ get_url(path='legal-notices/') }}">Legal notices</a> · <a href="{{ get_url(path='privacy-policy/') }}">Privacy policy</a></footer>
+  <footer><a href="{{ get_url(path='legal-notices/') }}">Legal notices</a> &Delta; <a href="{{ get_url(path='privacy-policy/') }}">Privacy policy</a></footer>
 </body>
 </html>

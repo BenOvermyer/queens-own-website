@@ -161,11 +161,11 @@ For those of you who would like to qualify as a member of the Palace Guard, comp
 
 Have additional questions about persona creation? Join the "Pending List" at
 
-[This list is not currently working. We hope to reestablish it soon. In the meantime, you can send questions directly to Danya at [Legend@malcor.com](mailto:Legend@malcor.com).]
+[This list is not currently working. We hope to reestablish it soon. In the meantime, you can send questions directly to Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).]
 
 The Pending list is a place for people to ask questions about the handouts, requirements, process of developing a persona, and so forth. It is not a book discussion list. The [QO list rules](/club-chat/) apply to this list as well.
 
-Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:Legend@malcor.com)
+{{ <signoff /> }}
 
 <img alt="" loading="lazy" src="/barcastl.gif"/>
 

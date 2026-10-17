@@ -8,3 +8,11 @@ build_search_index = false
 [extra]
 # Public download host for the PDF archive.
 pdf_base_url = "https://files.queensown.org"
+
+# Shared sign-off that closes club pages. The signoff component in
+# templates/components.html renders it, so changing the salutation, name, or
+# address here updates every page at once.
+[extra.signoff]
+salutation = "Zhai'helleva"
+name = "Herald-Mage Adept Danya Winterborn"
+email = "shashtah@gmail.com"

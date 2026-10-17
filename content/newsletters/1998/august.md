@@ -40,7 +40,7 @@ It's 1987, and two women who have little in common other than a love of reading 
 
 "Aha," think the two women. "We'll start a fan club for her and make her so famous she'll be able to quit that job and write full-time. There will be even more books for us to enjoy."
 
-Misty gave her okay--well, actually she said, "You are crazy, but if you really want to start the fan club . . . you have my and Tweri's blessing, she's putting you in the catalog . .. "--and that is how Queen's Own came into being! (Teri refers to Teri Lee of Firebird Arts & Music, then known as Off Centaur. In 1987, Misty was known more for her filk than her fiction.)
+Misty gave her okay--well, actually she said, "You are crazy, but if you really want to start the fan club … you have my and Tweri's blessing, she's putting you in the catalog . .. "--and that is how Queen's Own came into being! (Teri refers to Teri Lee of Firebird Arts & Music, then known as Off Centaur. In 1987, Misty was known more for her filk than her fiction.)
 
 The first newsletter was one page, mailed in February, 1988. It was mostly an introduction, sent to people who had written to DAW, Teri or Misty. We continued with a one page format until January 1989 when we mailed out our first two pager. At that time Misty wrote, "Well, the holidays are over and I'm still behind. Sigh. I am amazed at the number of cards I got (from Australia yet!). Please tell everyone that I'm thrilled and just sorry I couldn't respon individually as much as I would have liked to."
 
@@ -68,7 +68,7 @@ In 1992 we eagerly awaited the release of *Born to Run* and the McCaffrey/Lackey
 
 1993 brought us *Winds of Fury* and the second Bardic Voices book, *The Robin and the Kestrel*. *The Black Gryphon* reached bookstores the end of that year.
 
-In 1994 Larry gave us a few hints about future Gryphon books: "*White Gryphon* won't be what you're expecting, I would say. And I can tell you that at least part of *Silver Gryphon* will be set in the current (*Storming Warning*) time base. &lt;smile> "Skandranon is going to recover from the effects of being Gate-trapped, though, despite some very serious aftereffects . . . acidosis, etc. It occurred to me that one of the most miserable creatures on Velgarth would be a ticklish gryphon. He'd NEVER get away from those feathers."
+In 1994 Larry gave us a few hints about future Gryphon books: "*White Gryphon* won't be what you're expecting, I would say. And I can tell you that at least part of *Silver Gryphon* will be set in the current (*Storming Warning*) time base. &lt;smile> "Skandranon is going to recover from the effects of being Gate-trapped, though, despite some very serious aftereffects … acidosis, etc. It occurred to me that one of the most miserable creatures on Velgarth would be a ticklish gryphon. He'd NEVER get away from those feathers."
 
 Misty & Larry shared their home with eight large exotic birds and a parakeet in 1995. After telling us of the joy the birds bring them Misty warned, "If this all sounds delightful and you can't wait to get a bird of your own, you should be aware that having an exotic bird means work and a lot of responsibility. Exotic birds are highly intelligent and need stimulation and attention. By hand raising and socializing these young birds, we are making ourselces the substitues for their flock; we must now provide all the social contact and stimulation they need and crave, not just once in a while, but every day."
 
@@ -157,7 +157,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

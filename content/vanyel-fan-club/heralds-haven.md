@@ -25,7 +25,7 @@ Below are Gates to the homes of various Heralds of the Vanyel Fan Club:
 - [T'Keth](http://www.angelfire.com/az/ShepherdsEwe/index.html)
 - [Firesong](http://members.tripod.com/~firesong17)
   <img alt="" loading="lazy" src="/rainbar.gif"/>
-  If you are a member of the Vanyel Fan Club and wish a Gate to your site to be listed, [e-mail](mailto:Legend@malcor.com) the VFC, and we'll be happy to post it!
+  If you are a member of the Vanyel Fan Club and wish a Gate to your site to be listed, [e-mail](mailto:shashtah@gmail.com) the VFC, and we'll be happy to post it!
   <img alt="" loading="lazy" src="/rainbar.gif"/>
 
 [<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to the Vanyel Fan Club Index Page](/vanyel-fan-club/)

@@ -11,13 +11,12 @@ vlink = "silver"
 historical = true
 topic = "personas"
 canonical_path = "/persona-directory/"
+revised = "10/17/26"
 +++
 
 ## Queen's Own
 
 ## Persona List
-
-### (Revised 10/17/26)
 
 <img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 

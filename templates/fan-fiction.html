@@ -2,6 +2,7 @@
 {% block content %}
 {% include "breadcrumbs.html" %}
 <h1>{{ section.title }}</h1>
+{% include "revised.html" %}
 {% set catalog = load_data(path="data/publication-index.json") %}
 <h2>Stories and downloads</h2>
 <ul class="page-list">{% for story in catalog.fiction %}<li>{% if story.available %}<a href="{{ config.extra.pdf_base_url }}/{{ story.filename }}">{{ story.title }}</a>{% else %}<span data-unavailable-target="{{ config.extra.pdf_base_url }}/{{ story.filename }}">{{ story.title }}</span> <span class="unavailable-note">(PDF unavailable)</span>{% endif %} <span class="item-note">· PDF</span></li>{% endfor %}</ul>

@@ -34,7 +34,7 @@ Congratulations and best wishes to Misty and Larry!
 
 By the time most of you read this, Mercedes "Misty" Lackey and Larry Dixon will be married. The wedding date was changed from December fifteenth to the tenth and the ceremony took place in a chapel in Las Vegas.
 
-This is another "GOOD NEWS" issue. Misty has quit her day job . . . but here, let her tell you about it, via GEnie, a computer bulletin board service.
+This is another "GOOD NEWS" issue. Misty has quit her day job … but here, let her tell you about it, via GEnie, a computer bulletin board service.
 
 "Category 3, Topic 36 Message 26     Mon Oct 22, 1990 M.LACKEY1               at 23:51 EDT
 
@@ -149,7 +149,7 @@ If you wish to send a holiday card to Misty and Larry, [Ed. note 2002: Out-of-da
 
 Thanks to all of you for your many letters and phone calls. I'm about two months behind in my replies, partly due to apartment renovations, illness, and nasty dental work, but also becuase I'm using letter writing time to jog again. I need the exercise--please be patient.
 
-Mary Chandlre writes: "I have received several letters from people that I would love to reply to . . . but I can't. I can't reply BECAUSE THESE PEOPLE FORGOT SOMETHING . . . THEY FORGOT TO PUT A RETURN ADDRESS on their letter and/or the envelope. Also a couple of letters have addresses that are IMPOSSIBLE TO READ." To which I add: Make sure your last name is visible somewhere, especially if you haven't written a return address. It makes one very cranky to spend time comparing handwriting sampels to see which Judith one is supposed to reply to.
+Mary Chandlre writes: "I have received several letters from people that I would love to reply to … but I can't. I can't reply BECAUSE THESE PEOPLE FORGOT SOMETHING … THEY FORGOT TO PUT A RETURN ADDRESS on their letter and/or the envelope. Also a couple of letters have addresses that are IMPOSSIBLE TO READ." To which I add: Make sure your last name is visible somewhere, especially if you haven't written a return address. It makes one very cranky to spend time comparing handwriting sampels to see which Judith one is supposed to reply to.
 
 Personals are the least important part of the newsletter to me and are the first things I delete when I'm short of space. If you have a *really* important message, send a note or card to your friend. Don't rely on me.
 
@@ -193,7 +193,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

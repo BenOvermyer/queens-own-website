@@ -23,7 +23,7 @@ Every time you write a story based on Misty's stories, you need to file a releas
 
 Print out the form, fill it out, and mail it to High Flight along with a copy of your story.
 
-Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:Legend@malcor.com)
+{{ <signoff /> }}
 
 Forms distributed by:
 

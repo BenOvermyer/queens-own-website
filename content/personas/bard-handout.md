@@ -4,10 +4,6 @@ path = "bard-handout"
 template = "page.html"
 [extra]
 legacy_source = "qob.htm"
-bgcolor = "white"
-text = "darkblue"
-link = "blue"
-vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/bard-handout/"
@@ -15,13 +11,13 @@ canonical_path = "/bard-handout/"
 
 ## The Helpful Handout of How to Become a Bard
 
-### Criteria established by Mercedes Lackey
+Criteria established by Mercedes Lackey
 
-### Based on **The Last Herald-Mage** and **The Heralds of Valdemar** trilogies
+Based on **The Last Herald-Mage** and **The Heralds of Valdemar** trilogies
 
 Distributed by:
 
-### Queen's Own The Official Mercedes Lackey Fan Club
+Queen's Own The Official Mercedes Lackey Fan Club
 
 ## Basic Requirements
 
@@ -30,13 +26,26 @@ Distributed by:
 To be a gleeman, you need either Talent or Creativity. To be a Minstrel, you need both Talent and Creativity (but you lack Bardic). To be accepted at the Bardic Collegium you must have at least Talent or Creativity in addition to Bardic Gift. (All Bards have Bardic Gift.) To determine your persona's skills, roll for the number of additional Gifts by throwing one six-sided die. If you have two additional Gifts, you get both Talent and Creativity in addition to your Bardic Gift. If you have one additional Gift, roll on the second chart to see whether you have Talent or Creativity. Honor applies; what you roll is what you get.
 
 <table>
-<tr>
-<td>1 = One Gift</td>
-<td> </td>
-<td>2-5 = Two Gifts</td>
-<td> </td>
-<td>6 = Three Gifts</td>
-</tr>
+    <thead>
+        <tr>
+            <th>Roll</th>
+            <th>Result</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>One Gift</td>
+        </tr>
+        <tr>
+            <td>2-5</td>
+            <td>Two Gifts</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Three Gifts</td>
+        </tr>
+    </tbody>
 </table>
 
 If you have only one Gift, you are a gleeman. Roll on the table below to find out which Gift you have. Gleemen ignore the result of Bardic Gift and roll again.
@@ -45,7 +54,7 @@ If you have two Gifts, you *might* be a Bard. Roll twice on the table below, ign
 
 If you rolled a result of three Gifts, you have Talent, Creativity and Bardic. You are a Bard, and you do not need to roll on this table. Continue to the next section of the handout.
 
-<table class="cellpadding-2 cellspacing-2 border-2" style="width:80%">
+<table>
 <tr>
 <th>Die Roll</th>
 <th>Musical Gift</th>
@@ -67,8 +76,6 @@ If you rolled a result of three Gifts, you have Talent, Creativity and Bardic. Y
 </tr>
 </table>
 
-<img alt="" loading="lazy" src="/barmusic.gif"/>
-
 ## II. Develop a Character
 
 Develop a character (your persona--Who would you be if you could daydream yourself into Valdemar? Be the "real" you or as different as you please.) and write about him/her. Prepare a minimum of 3 pages.
@@ -80,8 +87,6 @@ Remember to roll for your Musical Gifts first. Most musical ability manifests it
 ## III. Develop One or More Friend or Relative Characters
 
 You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
-
-<img alt="" loading="lazy" src="/barmusic.gif"/>
 
 ## IV. Extra Point Requirements (5 points each)
 
@@ -102,11 +107,7 @@ Choose and complete the requirements for two (minimum) of the following:
 13. Send a story, poem, or art to one of our [zines](/fan-fiction/).
 14. Draw a map.
 
-<img alt="" loading="lazy" src="/barmusic.gif"/>
-
-## After you have acquired 25 points, you may claim your scarlets or wear your ribbons!
-
-<img alt="" loading="lazy" src="/barmusic.gif"/>
+After you have acquired 25 points, you may claim your scarlets or wear your ribbons!
 
 ## Special Notes for Bards
 
@@ -116,8 +117,6 @@ Choose and complete the requirements for two (minimum) of the following:
 - For Helpful Hints, click [here](/persona-handouts/#help).
 
 If you have additional questions, check out the [Bards](/bards-faq/) FAQ.
-
-<img alt="" loading="lazy" src="/barmusic.gif"/>
 
 ## Advanced Rank
 
@@ -134,7 +133,7 @@ To attain a specialty as a Bard:
 
     - History: Write a 20-page paper on the real Historical event of your choice.
     - Literature: Write a 20-page paper on the real Literary work of your choice.
-    - Relgion: Write a 20-page paper on the real Religion of your choice.
+    - Religion: Write a 20-page paper on the real Religion of your choice.
 
     Exception: If you already a teacher of history, literature or religion at the Elementary, Junior High or Senior High level, you may automatically claim Bardic Teacher status. However, please develop your Velgarth persona so others may interact with you in character.
   - <a id="court"></a>Court Musician: Become a professional performing musician at the venue of your choice.
@@ -153,8 +152,4 @@ To become a Master Bard, you must
 3. Complete the requirements for one of the Specialties listed above.
 4. Write a 20-page paper on the origin and meaning of a folksong (The folksong may either be one of the ones Misty created for the Valdemar series or a folksong of your choice from the real world.)
 
-Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
-
-<img alt="" loading="lazy" src="/barmusic.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
+{{ <signoff /> }}

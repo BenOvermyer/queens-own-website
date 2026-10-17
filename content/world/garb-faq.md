@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/garb-faq/"
+revised = "2/5/02"
 +++
 
 ## Garb FAQ
-
-## (Revised 2/5/02)
 
 What are the best-dressed personae on Velgarth wearing these days &lt;g>? Here's what we know about the outfits worn by personae of different ranks:
 

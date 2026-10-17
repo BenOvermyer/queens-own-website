@@ -57,7 +57,7 @@ class PersonaDirectoryRendererTests(unittest.TestCase):
         )
 
     def test_public_text_removes_contact_links(self):
-        text = 'please contact [me](mailto:Legend@malcor.com).'
+        text = 'please contact [me](mailto:shashtah@gmail.com).'
         self.assertEqual(sanitize.sanitize_public_text(text), 'please contact the club.')
         text = '[Herald Someone](mailto:someone@example.com) and [a link](/x/)'
         self.assertEqual(

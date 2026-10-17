@@ -179,6 +179,6 @@ If you have an approved Warleader, you may try for Warleader. To become a Clan C
 
 <img alt="" loading="lazy" src="/bargrass.gif"/>
 
-Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+{{ <signoff /> }}
 
 [<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)

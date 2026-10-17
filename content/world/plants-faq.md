@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/plants-faq/"
+revised = "2/5/02"
 +++
 
 ## Plants FAQ
-
-## (Revised 2/5/02)
 
 There are many plants on Velgarth that are similar to those on Earth. Then there are some that Misty has made up. These are the plants that we know have been mentioned in the books:
 

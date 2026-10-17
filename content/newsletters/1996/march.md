@@ -62,7 +62,7 @@ Hooray! In April TEMPEST is back in Montclair, New Jersey at Outpost in the 'Bur
 
 Other April dates for TEMPEST are: [Ed. note 2005: Out-of-date info withheld.].
 
-All of TEMPEST's music and other exciting merchandise can be ordered from Firebird Arts & Music [Ed. note 2005: Out-of-date info withheld.]. The *Arrows of the Queen Concordance* is ready and has been mailed to all who pre-ordered. The Concordance contains a wealth of information about the people and palces of Valdemar and costs [Ed. note 2005: Out-of-date info withheld.]. Firebird carries all of Misty's books and songs; the music of TEMPEST, Clannad, Patrick Ball, Stan Rogers, R. Carlos Nakai, and more; Celtic KNot pewter jewelry; portfolio art by Larry Dixon; t-shirts . . . You can browse through Firebird's online catalog at [Ed. note 2005: Out-of-date info withheld.]. If you get an answering machine, be sure to leave your complete name and address; if ordering, be sure to include your name and address!
+All of TEMPEST's music and other exciting merchandise can be ordered from Firebird Arts & Music [Ed. note 2005: Out-of-date info withheld.]. The *Arrows of the Queen Concordance* is ready and has been mailed to all who pre-ordered. The Concordance contains a wealth of information about the people and palces of Valdemar and costs [Ed. note 2005: Out-of-date info withheld.]. Firebird carries all of Misty's books and songs; the music of TEMPEST, Clannad, Patrick Ball, Stan Rogers, R. Carlos Nakai, and more; Celtic KNot pewter jewelry; portfolio art by Larry Dixon; t-shirts … You can browse through Firebird's online catalog at [Ed. note 2005: Out-of-date info withheld.]. If you get an answering machine, be sure to leave your complete name and address; if ordering, be sure to include your name and address!
 
 ## Convention News:
 
@@ -134,7 +134,7 @@ Send a SASE to AJ Potter [Ed. note 2005: Out-of-date info withheld.] for informa
 
 ATTENTION ALL WRITERS! I am seeing short stories about anything of the horror, dark fantasy, or mystery genre. Must be at least 20 to 40 pages long. Topics and plots are yours to choose be it ghosts, demons, vampires, mad scientists, or killer animals--anything goes as long as it contains chills, thrills, and screams! If it ives you nightmares, I want to see it! This is NOT for a zine. Interest in being published a must! Send story or inquiries to HEARTBEAT c/o Heather L. Wedo [Ed. note 2005: Out-of-date info withheld.].
 
-STARFIRE WEYR is here! For those of you who haven't heard, STARFIRE WEYR is a fantasy zine set in the worlds created by Anne McCaffrey. We're always looking for new dragonriders, harpers, healers, telepaths and crystal singers . . . .Come join the fun! Sampe issues are [Ed. note 2005: Out-of-date info withheld.] of *The Night Sky*. For information/guidelines, send as SASE to STARFIRE WEYR c/o Prime Katya Ithsaari at [Ed. note 2005: Out-of-date info withheld.]. Starry Skies!
+STARFIRE WEYR is here! For those of you who haven't heard, STARFIRE WEYR is a fantasy zine set in the worlds created by Anne McCaffrey. We're always looking for new dragonriders, harpers, healers, telepaths and crystal singers … .Come join the fun! Sampe issues are [Ed. note 2005: Out-of-date info withheld.] of *The Night Sky*. For information/guidelines, send as SASE to STARFIRE WEYR c/o Prime Katya Ithsaari at [Ed. note 2005: Out-of-date info withheld.]. Starry Skies!
 
 First the good news: I survived my first semester of college unscathed (and with a 4.0 to boot!) The bad news? NIGHT SONGS fanzine hasn't. The vampires and mages have all scattered. &lt;sigh> so I've decided to start over. Although the name and the subjects are the same, NIGHT SONGS has become an annual zine, 100+ pages, available for [Ed. note 2005: Out-of-date info withheld.]. (Subscribers: fret not--I **will** be contacting you each individually!) Send a SASE for updated guidelines. Zines, ad space is available for purchase or trade. Now accepting stories, poetry, artwork, and book, movie, computer game and album reviews for the 1996 all-vampire issue. (Sasha Vincent: "Anna in Block" would be a lovely cover, but I lost your addy! &lt;soob> Please write!) The address is NIGHT SONGS c/o Jennifer Wilson [Ed. note 2005: Out-of-date info withheld.]. Please make checks payable to Jennifer Wilson.
 
@@ -160,7 +160,7 @@ Send a SASE for a how-to handout for a Herald, Healer, bard, Shin'a'in, Tayledra
 
 ### From Herald Housemother:
 
-The very first issue of the Queen's Own newsletter was mailed in February 1988. If was one page, single sided and maile dot about two dozen people. Today we have between 900 and 1000 members, and a six-page mewsletter that is almost always mailed on schedule. I'd like to thank Baen Books, DAW, Firebird Arts & &lt;usic> Speaking of letters . . . the oddest request for information that I've received yet came from someone who added the warning "Don't lick the envelope, it might be covered with rat poison." Doesn't it make you wonder where she keeps her stationery?
+The very first issue of the Queen's Own newsletter was mailed in February 1988. If was one page, single sided and maile dot about two dozen people. Today we have between 900 and 1000 members, and a six-page mewsletter that is almost always mailed on schedule. I'd like to thank Baen Books, DAW, Firebird Arts & &lt;usic> Speaking of letters … the oddest request for information that I've received yet came from someone who added the warning "Don't lick the envelope, it might be covered with rat poison." Doesn't it make you wonder where she keeps her stationery?
 
 ## Fan Messages:
 
@@ -184,9 +184,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

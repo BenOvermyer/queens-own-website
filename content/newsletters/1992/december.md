@@ -60,7 +60,7 @@ The following letter is also from Misty and is especially important to all of yo
 
 "This piece may by downloaded (or photocopied) and posted to any other systems you choose, with my permission."--Mercedes Lackey.
 
-A further note from Misty and Larry: " . . . Well, rather than chuck out 20-page Author's Notes full of claims of how much we like fans & like to do right by 'em, we practice it and don't crow about it much. The whole fanfic situation is an example of that; we know how much happiness it brings fans, and we like to nurture that joy.
+A further note from Misty and Larry: " … Well, rather than chuck out 20-page Author's Notes full of claims of how much we like fans & like to do right by 'em, we practice it and don't crow about it much. The whole fanfic situation is an example of that; we know how much happiness it brings fans, and we like to nurture that joy.
 
 "The legalities of it all are just business---and I would VERY much like to thank you ALL for being so kind and understanding about it.
 
@@ -74,9 +74,9 @@ You can't hide from Mundania, folks, and Misty and Larry MUST be business-wise i
 
 The awards ceremony for the Science Fiction Book of the Year was held October 29th. Javanne Kramer shares with us Larry's report on GEnie:
 
-"Tonight I accepted the SF Book Club Book of the Year award on behalf of Andre Norton; for the acceptance speech I simply quoted the dedication of the book: &#96;To the fans, Past, Present, and Future.' Misty accepted the award on behalf of herself. "It was delightful, really; the awards were at the Four Seasons. Afterwards we went to the Russian Tea Room for good food & hedonism . . . "(an' we've got the *prettiest* crystal award..for it! It's about 10" tall, in the shape of a hardcover book, with the *ELVENBANE* logo etched into it. What fun we'll have with *ELVENBLOOD*!)
+"Tonight I accepted the SF Book Club Book of the Year award on behalf of Andre Norton; for the acceptance speech I simply quoted the dedication of the book: &#96;To the fans, Past, Present, and Future.' Misty accepted the award on behalf of herself. "It was delightful, really; the awards were at the Four Seasons. Afterwards we went to the Russian Tea Room for good food & hedonism … "(an' we've got the *prettiest* crystal award..for it! It's about 10" tall, in the shape of a hardcover book, with the *ELVENBANE* logo etched into it. What fun we'll have with *ELVENBLOOD*!)
 
-"By the way, if anyone's interested in an *ILLUSTRATED EDITION OF ELVENBANE*, write to TOR immediately! We had a very interesting conversation on the subject while in NYC . . . &lt; smiiiile >
+"By the way, if anyone's interested in an *ILLUSTRATED EDITION OF ELVENBANE*, write to TOR immediately! We had a very interesting conversation on the subject while in NYC … &lt; smiiiile >
 
 "Oh..anyone interested in an illustrated guide to Alanda, the Bardic Voices world? Write to Baen Books."--Larry, The Feather'd Illustrator
 
@@ -117,7 +117,7 @@ We have handouts for aspiring Heralds, Healers, and Bards, and instructions on h
 - Welcome, **Herald Rian Waridel**, Chosen by Cirah and gifted with Fetching and Animal Mindspeech. *Alex Diamond* sent the history of Rian and his family, four drawings, and a story.
 - Welcome, **Herald Arete Manixus**, Chosen by Mense and gifted with strong Mindspeech, Fetching, and very slight Foreseeing. *Debra Stansburv* sent character information on Arete and friends, a story, the family tree of Valdemar monarchy, a Herald/Companion list, and seven drawings.
 - From *Katie Hopkins* comes **Herald Katira shena Vuysher'edras**, gifted with Fetching and Mindspeech and Chosen by Miram. Katie sent character information on Katira and a friend, a drawing, 2 poems, a story, pictures to prove her riding skills, and a copy of her CPR card.
-- From *Deborah J. Bernard* comes **Guardsman Adoni Kitanomanjaro**. I enjoyed Deborah's persona information and admired her drawings . . . and have misplaced her material in my move. Deborah, my apologies. Your packet is here, someplace, and Guardsman Adoni **will be more** formerly welcomed when I find it.
+- From *Deborah J. Bernard* comes **Guardsman Adoni Kitanomanjaro**. I enjoyed Deborah's persona information and admired her drawings … and have misplaced her material in my move. Deborah, my apologies. Your packet is here, someplace, and Guardsman Adoni **will be more** formerly welcomed when I find it.
 - Welcome, **Herald MeMbanakre Seryntrethla Trellenora (Mea, for short)**, Chosen by Rheena and gifted with Strong Mindspeech and Fetching. *Kimberly Van Heel* sent information on Mea and her best- friend,, six poems, and told of her participation in martiaL arts training.
 - Welcome, **Herald Calla Amamar**, Chosen by AureLia and gifted with very strong Mindspeech and Foresight. *Laura Adams* sent background information, a map, 3 drawings, and proof of her ability to ride.
 - *Karen Van Brunt* introduces us to **Herald Khanh Synpryn**, Chosen by Astral and gifted with strong Mindspeech and weak Animal Mindspeech. Karen told of Khanh and her friend, sent a poem, a story, proof of her martial arts training and riding skill, and information and maps of Khanh's hometown.
@@ -136,7 +136,7 @@ I wish you good health, good friends, good books, and time to enjoy them all. Ha
 
 ## MEMBER NEWS:
 
-**From Stephanie Wong:** "A mage has wrecked havok in the village of Rocky Ford. Herald Marlys Tatena'sa N'toka'he must follow him to the Forest of Sorrows, and defeat him before his destruction becomes too great . . . Heynna is a wyvern hunter, traveling through the Pelagirs to deal with the wyvern who come into conflict with humans. She's been called to the village of Magorge to relocate a wyvern, only this one is more difficult than usual . . . DISCOVER WHAT HAPPENS IN *ARROW'S MESSAGE* Vo1.3 #3, now on sale. Subscriptions are US $4/iss (40 pgs) or $15/yr (quarterly); Canada $4.50/iss or $17/yr; overseas $8/iss or $30 yr. If paying by check or m.o., make them payable to [Ed. note 2004: Out-of-date info. withheld.]."
+**From Stephanie Wong:** "A mage has wrecked havok in the village of Rocky Ford. Herald Marlys Tatena'sa N'toka'he must follow him to the Forest of Sorrows, and defeat him before his destruction becomes too great … Heynna is a wyvern hunter, traveling through the Pelagirs to deal with the wyvern who come into conflict with humans. She's been called to the village of Magorge to relocate a wyvern, only this one is more difficult than usual … DISCOVER WHAT HAPPENS IN *ARROW'S MESSAGE* Vo1.3 #3, now on sale. Subscriptions are US $4/iss (40 pgs) or $15/yr (quarterly); Canada $4.50/iss or $17/yr; overseas $8/iss or $30 yr. If paying by check or m.o., make them payable to [Ed. note 2004: Out-of-date info. withheld.]."
 
 **From Lavina Cheung** [Ed. note 2004: Out-of-date info. withheld.] re a local chapter for the VA/MD/DC area. "No, we (now I) still haven't come up with a name. Also the newsletter may end up costing nothing (maybe just postage, more later). But I'd like to tally up how many copies I'll need to produce. Please drop me a postcard or call me if you would like to be part of this. [Ed. note 2004: Out-of-date info. withheld.]between 4:30 and 10:30 on weekdays; ask for Vina."
 
@@ -184,7 +184,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

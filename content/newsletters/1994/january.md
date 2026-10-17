@@ -98,7 +98,7 @@ Greetings from the *Forgotten Way Station*, located in the Northeast. *Northern 
 
 Quality Press Publishing presents: *Comic Connections*--A fanzine forum for amateur and underground writers, artists, creators, collectors, and lovers of comics. For more information, send a SASE to [Editors' Note 2005: Out-of-date information withheld.].
 
-From Nicole Blackwell: "Come . . . Join us in a world of phantasy and enchantment, mysticism and romance, where the night is eternal, and the splendor of your dreams awaits you amidst the brilliance of the Masquerade . . . The first issue of this double-sized zinc is ready at last! 50 pages of poetry, artwork, and tales in 11x17 format, with a magnificent cover design by Karen Shanteler, and two full color illustrations, for $6.50! Orders should either be in cash or check made payable to Nicole Blackwell, and sent to Moonlight Masquerade [Editors' Note 2005: Out-of-date information withheld.]. Submissions for the March issue are still welcome! No SASE necessary for guidelines."
+From Nicole Blackwell: "Come … Join us in a world of phantasy and enchantment, mysticism and romance, where the night is eternal, and the splendor of your dreams awaits you amidst the brilliance of the Masquerade … The first issue of this double-sized zinc is ready at last! 50 pages of poetry, artwork, and tales in 11x17 format, with a magnificent cover design by Karen Shanteler, and two full color illustrations, for $6.50! Orders should either be in cash or check made payable to Nicole Blackwell, and sent to Moonlight Masquerade [Editors' Note 2005: Out-of-date information withheld.]. Submissions for the March issue are still welcome! No SASE necessary for guidelines."
 
 ## COLLEGIUM NEWS:
 
@@ -151,7 +151,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

@@ -44,9 +44,9 @@ And didn't you love OATHBREAKERS!?! We've asked Misty where she got her equine e
 
 Judith has three of Lucy's prints and they are beautiful.
 
-Lucy writes that there are/were only 25 of the 200 limited edition prints of "The Hunt . . . " left. They and "Golden Eyes", a 100 limited edition print, come matted 11 X 14". [Ed. Note 2002: The remainder of the purchase information has been omitted since it is obsolete.] All prints are full color. The originals are oil paintings.
+Lucy writes that there are/were only 25 of the 200 limited edition prints of "The Hunt … " left. They and "Golden Eyes", a 100 limited edition print, come matted 11 X 14". [Ed. Note 2002: The remainder of the purchase information has been omitted since it is obsolete.] All prints are full color. The originals are oil paintings.
 
-To update you on our inquiries of Jody Lee, cover artist for Misty's books to date, she wrote us that she is ". . . generally very busy illustrating . . . I'll try to get back to you in the Spring."
+To update you on our inquiries of Jody Lee, cover artist for Misty's books to date, she wrote us that she is "… generally very busy illustrating … I'll try to get back to you in the Spring."
 
 And now please turn to Page 2, our first, and to the first of the fanmessages!
 
@@ -54,7 +54,7 @@ And now please turn to Page 2, our first, and to the first of the fanmessages!
 
 Patrick Petty wrote us that Misty has a fabulous new story called "Were Hunter" in Andre Norton's new anthology *Witchworld I*. Judith is furious that she hasn't been able to find it yet. Hope the rest of you have/had better luck. Patrick also sent Judith a super Christmas present, [for which we thank him again,] of computer generated mailing labels of our penpal address list. Others have also sent labels, to Judith's undying gratitude. Our total mailing is now over 150 per month! An equally sincere thanks to those who've sent $$, especially those who had to have it changed to US$ first, like Adam Puche, from Melbourne, Victoria, Australia, who asked how QO got started.
 
-Judith and Sally have been book swappers for years. Then came Misty's ARROWS . . . . and Sally wrote her first fan letter. Misty responded. Judith wrote. Misty responded. We liked her book. We liked her. We suggested QO and, perhaps a bit skeptically, Misty gave us the go-ahead. Then DAW gave us their support by putting QO's blurb in the back of Misty's books. And that's how we got to where we are today, [more or less].
+Judith and Sally have been book swappers for years. Then came Misty's ARROWS … . and Sally wrote her first fan letter. Misty responded. Judith wrote. Misty responded. We liked her book. We liked her. We suggested QO and, perhaps a bit skeptically, Misty gave us the go-ahead. Then DAW gave us their support by putting QO's blurb in the back of Misty's books. And that's how we got to where we are today, [more or less].
 
 Can you help? We have a letter from Terry L. Barnholdt, which was postmarked Erie, PA. Terry included neither his/her address nor a SASE. Initially Judith had forwarded it to Misty. Tony took the bull by the horns and called directory assistance. He got a telephone number and they sent it back with same to your editor. We called the number and were told it had been disconnected or was no longer in service. [Ma Bell's babies won't give out addresses.] We double and triple checked that we had and were dialing the right number. Still no luck. If anyone lives near Erie or has access to an Erie 'phone book and could get us an address, even if Terry's moved the P.O. might forward a letter for us. [Editor's Note: We will go to almost any lengths for a fan!]
 
@@ -72,9 +72,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-Lucy Synk was the featured artist for this newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+Lucy Synk was the featured artist for this newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

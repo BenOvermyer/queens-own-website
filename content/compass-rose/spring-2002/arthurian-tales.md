@@ -28,7 +28,7 @@ The Arthurian Tales
 
 ## by
 
-## [Linda A. Malcor (née Peterson)](mailto:Legend@malcor.com)
+## [Linda A. Malcor (née Peterson)](mailto:shashtah@gmail.com)
 
 *Ed. Note: This paper is actually more of a historical artifact than anything else. It is the first research paper I ever wrote on the Arthurian legends. Penned May 19, 1977, when I was fifteen years old, the paper asked these questions: (1) What are the sources of the Arthurian tales? (2) What parts are true? (3) What parts were added later and by whom?*
 

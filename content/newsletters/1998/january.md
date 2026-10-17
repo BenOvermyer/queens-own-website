@@ -34,9 +34,9 @@ Mercedes Lackey Fan Club
 
 Coming in April from DAW: *Oathblood*, an all-new Tarma and Kethry novel plus Misty's complete col�lected short stories of these two brave sisters of sword and spell.
 
-"Tarma--She was one of the Shin'a'in Sword�sworn--the most elite of all warriors, and she had taken blood vengeance upon the brigands who had mas�sacred her people . . .
+"Tarma--She was one of the Shin'a'in Sword�sworn--the most elite of all warriors, and she had taken blood vengeance upon the brigands who had mas�sacred her people …
 
-"Kethry--She fled her oppressive arranged marriage and became a powerful sorceress of the White Winds School, only to be bonded to a uniquely magical sword which drew her to women in need . . .
+"Kethry--She fled her oppressive arranged marriage and became a powerful sorceress of the White Winds School, only to be bonded to a uniquely magical sword which drew her to women in need …
 
 "Bound together by sword-spell and the will of the Goddess, Tarma and Kethry swore a blood oath to carry on their mutual fight against evil and injustice.
 
@@ -66,7 +66,7 @@ This news from Misty appeared on-line. *The Camel's Back* is a reference to the 
 
 [Ed. note 2005: You may read the text of *The Camel's Back* [here](http://www.mercedeslackey.com/text/1mlback.shtml).]
 
-Rea begins her monologue from her newest perch atop the rood of her house, much to her parents' distress . . . "New stuff for me to say about DON'T ARGUE WITH THE VOICE, people! Issue 2 is out! Issues 3 & 4 are already in the works. A copy of Issue 1 or 2 costs $4. Subscriptions are $15 a year, contributors get special discounts. These rates apply to *everyone*! Cash is preferred, checks should be made out to 'Erin Frost.' Disk submissions (MAC or PC): Word, PowerPoint, Works, Write, or Notepad. Specify Artists' or Writers' guidelines. We negotiate with editors. Also, very important: DA has a new, final version of guidelines for writers that greatly differs from the original when Ariya and I first started advertising! For those of you who do not possess a copy of guidelines that says 'updated, November 1997,' and has subscription info in it, write to us or say something in the Personals, and we'll send you a new copy. You don't need to send a a SASE even, just a postcard. Please, because of the age of Ariya and I, no mail from inmates. So, what are you waiting for? A Gate to open beneath your feet and suck you in? Get involved today! Send your Velgarth or Fantasy stuff to DON'T ARGUE WITH THE VOICE c/o Rea Wildfire and/or Ariya Nightsun [Ed. note 2005: Out-of-date info withheld.]."
+Rea begins her monologue from her newest perch atop the rood of her house, much to her parents' distress … "New stuff for me to say about DON'T ARGUE WITH THE VOICE, people! Issue 2 is out! Issues 3 & 4 are already in the works. A copy of Issue 1 or 2 costs $4. Subscriptions are $15 a year, contributors get special discounts. These rates apply to *everyone*! Cash is preferred, checks should be made out to 'Erin Frost.' Disk submissions (MAC or PC): Word, PowerPoint, Works, Write, or Notepad. Specify Artists' or Writers' guidelines. We negotiate with editors. Also, very important: DA has a new, final version of guidelines for writers that greatly differs from the original when Ariya and I first started advertising! For those of you who do not possess a copy of guidelines that says 'updated, November 1997,' and has subscription info in it, write to us or say something in the Personals, and we'll send you a new copy. You don't need to send a a SASE even, just a postcard. Please, because of the age of Ariya and I, no mail from inmates. So, what are you waiting for? A Gate to open beneath your feet and suck you in? Get involved today! Send your Velgarth or Fantasy stuff to DON'T ARGUE WITH THE VOICE c/o Rea Wildfire and/or Ariya Nightsun [Ed. note 2005: Out-of-date info withheld.]."
 
 Well! Thanks to QO you now have many great pen pals and a lot of fun future letters to write. But you've realized you only have your fluffy-edged college notebook paper to write on. Where do you turn to find stationery that best suits your FANTASY interests? *Ellen Million Graphics*, of course!! With over 60 designs created by nine unique artists, every catalog is brimming with adventure and enchantment! *EMG* offers stationery, cards, bookmarks and (new!!) magnets in single or full-colored; all sure to dazzle and delight--makes great gifts! No SASE needed, just write and ask for your first FREE catalog! Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.].
 
@@ -122,7 +122,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

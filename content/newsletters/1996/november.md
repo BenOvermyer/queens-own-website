@@ -124,7 +124,7 @@ FOLLOW OUR DREAMS, the zine for us and our wildest dreams and ideas. What is you
 
 "Hmm. What exactly is that newsletter *Companion's Choice* anyway? Maybe I should get more information." If you've ever wondered that (or even if you haven't), then you've come to the right place! With this one little address you can get answers to all of your questions and maybe meet a few nifty people.-(Well, what have you got to lose? It's better than doing nothing!) So write me about this very exciting (or at least semi-entertaining) chapter of Queen's Own at Shanara Ravensong [Ed. note 2005: Out-of-date info withheld.]. Remember, at the very least, you'll start getting more in your mailbox!
 
-MOONLIGHT MASQUERADE, a journal of fantasy and adventure, mysticism and romance, where the night is eternal, and the splendor of your dreams awaits you amidst the brilliance of the Masquerade . . . Each issue of the full-size journal is another breathtaking journey into the realms of fantasy, mystery, and romance, yet another glimpse into the enchantment of the imagination and the magic of the Masquerade. Published quarterly, every issue is in 11 x 17 pro format with a cardstock cover and 60+ pages of poetry, artwork, and tales. Sample issues are $3.50 USA/$4.50 Canada/$6.50 overseas. Checks/money orders should be payable to Nicole Blackwell, please. Come join the Masquerade! Send all orders, or SASE or 2 IRCs for back issue information to [Ed. note 2005: Out-of-date info withheld.]. Issue #10 available now!
+MOONLIGHT MASQUERADE, a journal of fantasy and adventure, mysticism and romance, where the night is eternal, and the splendor of your dreams awaits you amidst the brilliance of the Masquerade … Each issue of the full-size journal is another breathtaking journey into the realms of fantasy, mystery, and romance, yet another glimpse into the enchantment of the imagination and the magic of the Masquerade. Published quarterly, every issue is in 11 x 17 pro format with a cardstock cover and 60+ pages of poetry, artwork, and tales. Sample issues are $3.50 USA/$4.50 Canada/$6.50 overseas. Checks/money orders should be payable to Nicole Blackwell, please. Come join the Masquerade! Send all orders, or SASE or 2 IRCs for back issue information to [Ed. note 2005: Out-of-date info withheld.]. Issue #10 available now!
 
 Lynn Tucker's *COMPANIONS' GROVE 7* is ready for print! I am now accepting submissions for Vo18. I am taking fiction, poetry, and artwork that is set in Misty's Valdemar world. Please send SASE for guidelines to [Ed. note 2005: Out-of-date info withheld.]. For information on back issues, contact Lynn Tucker [Ed. note 2005: Out-of-date info withheld.]. Prices vary. Also available from Lynn is "DO OR DYE: A GUIDE TO COMPANION CAMOUFLAGE", written by Elizabeth Barrette and illustrated by Herald Alora, for $2.50.
 
@@ -152,7 +152,7 @@ I. Develop a character - Develop a character (your persona - who would you be if
 
 II. Develop one or more friend or relative characters - You needn't be quite so detailed in your descriptions of these other characters. But remember, you are writing about people you know well. Describe what your family and/or friends look like, their own character traits, etc. Again, a minimum of 3 pages. (5 points)
 
-By the time you've finished these basic requirements you should know if your persona is destined to be Herald, Healer, Bard, Shin'a'in . . . Send a SASE to the QO address and specify which handout you are requesting. Please, one to a customer. Club dues pay for paper and photocopying.
+By the time you've finished these basic requirements you should know if your persona is destined to be Herald, Healer, Bard, Shin'a'in … Send a SASE to the QO address and specify which handout you are requesting. Please, one to a customer. Club dues pay for paper and photocopying.
 
 By the way, it's Misty and Ellen Guon who qualify for Herald-Mage, Adept class, NOT yours truly. Misty dubbed me "Herald Housemother", and it's the only title I feel I've earned.
 
@@ -162,9 +162,9 @@ By the way, it's Misty and Ellen Guon who qualify for Herald-Mage, Adept class, 
 
 ### From Herald Housemother:
 
-"Expectations are premature resentments.&uqot;--Ann Wilson Schaef. I expected more news on Dragon&#42;Con by now; several people had promised to keep me informed, and I was not in a good mood when I started typing this newsletter. During a break away from the computer I discovered Ms. Schaef's words. I know nothing about Ms. Schaef, but this quotation got my attention as if it were meant for me alone. How about it, QOC folks? If I surrender my expectations, maybe you'll surprise me for the next issue? I need hotel information, a registration address . . .
+"Expectations are premature resentments.&uqot;--Ann Wilson Schaef. I expected more news on Dragon&#42;Con by now; several people had promised to keep me informed, and I was not in a good mood when I started typing this newsletter. During a break away from the computer I discovered Ms. Schaef's words. I know nothing about Ms. Schaef, but this quotation got my attention as if it were meant for me alone. How about it, QOC folks? If I surrender my expectations, maybe you'll surprise me for the next issue? I need hotel information, a registration address …
 
-One of my hardest jobs is deciding how much editing to do on messages me for the newsletter. If the spelling or grammar of a Fan Message needs work I usually fix it but sometimes I can't tell if what I consider a mistake was meant to attract attention. As for zine ads . . . I fix typos but you as potential submitters/subscribers have a right to know if a would-be editor is careless or ignorant. In other words folks, please proofread what you send me, especially if you're using creatively spelled persona names. I do try very hard to send out each issue free of mistakes, but the gremlins almost always sneak something past me.
+One of my hardest jobs is deciding how much editing to do on messages me for the newsletter. If the spelling or grammar of a Fan Message needs work I usually fix it but sometimes I can't tell if what I consider a mistake was meant to attract attention. As for zine ads … I fix typos but you as potential submitters/subscribers have a right to know if a would-be editor is careless or ignorant. In other words folks, please proofread what you send me, especially if you're using creatively spelled persona names. I do try very hard to send out each issue free of mistakes, but the gremlins almost always sneak something past me.
 
 Expected mailing date for the December issue is 12/7. 1997 mailing dates are 1/11, 2/22, 4/5, 5/17, 6/21, 8/2, 9/13, 10/25, and 12/6. When you pay your dues I count forward nine issues and put that date on your mailing label. How early can you renew your dues? Whenever you want, but please, not for more than two years. The January 1999 issue will have a new editor/treasurer/president/whatever. (Not a new Herald Housemother, I refuse to give up that title!)
 
@@ -192,7 +192,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

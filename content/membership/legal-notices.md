@@ -39,7 +39,7 @@ Submitting material does not transfer its copyright to Queen’s Own. Publicatio
 
 ## Credits, permissions, and concerns
 
-If you believe a credit is incorrect, material has been used without appropriate permission, or publication affects your rights, contact Linda A. Malcor at [shashtah@gmail.com](mailto:shashtah@gmail.com) or Kendra Hosseini at [healermoon@gmail.com](mailto:healermoon@gmail.com).
+If you believe a credit is incorrect, material has been used without appropriate permission, or publication affects your rights, contact Linda A. Malcor at [shashtah@gmail.com](mailto:shashtah@gmail.com) or Gregory Griffiths at [rynok@yahoo.com](mailto:rynok@yahoo.com).
 
 Please identify the material and its page or publication URL, explain your relationship to the work, and describe the correction or action requested. We will review the concern and, where appropriate, correct attribution, seek clarification or permission, or remove material. Adding a credit alone does not resolve a lack of permission.
 

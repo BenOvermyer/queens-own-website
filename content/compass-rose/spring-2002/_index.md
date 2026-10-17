@@ -62,7 +62,7 @@ ISSN [Pending]
 
 ## Instructions for Navigating this Issue
 
-There are a variety of ways that you can read *The Compass Rose*. If you like to page through as you would a magazine, start with the link below, which takes you to the first item in the Table of Contents. Articles are split into a file of text and a file of notes and references. Click on note numbers to be taken to the appropriate note or the citation to be taken to the correct entry in the References Cited list. The "Notes" link at the bottom of an article will take you to all the notes for that article, just as the "References" link will take you to the References Cited list. "Next" links will take you to the next item on the Table of Contents. The "Table of Contents" link brings you back to this page, and the "Return to Homepage" link takes you to the main index page for *The Compass Rose*. If at any time you wish to return to the page you have just left (perhaps after viewing a note), simply click on your "Back" button on your browser. If you have any questions about how to navigate the issue, please contact [Legend@malcor.com](mailto:Legend@malcor.com?subject=Navigation).
+There are a variety of ways that you can read *The Compass Rose*. If you like to page through as you would a magazine, start with the link below, which takes you to the first item in the Table of Contents. Articles are split into a file of text and a file of notes and references. Click on note numbers to be taken to the appropriate note or the citation to be taken to the correct entry in the References Cited list. The "Notes" link at the bottom of an article will take you to all the notes for that article, just as the "References" link will take you to the References Cited list. "Next" links will take you to the next item on the Table of Contents. The "Table of Contents" link brings you back to this page, and the "Return to Homepage" link takes you to the main index page for *The Compass Rose*. If at any time you wish to return to the page you have just left (perhaps after viewing a note), simply click on your "Back" button on your browser. If you have any questions about how to navigate the issue, please contact [shashtah@gmail.com](mailto:shashtah@gmail.com?subject=Navigation).
 
 ---
 
@@ -70,9 +70,9 @@ There are a variety of ways that you can read *The Compass Rose*. If you like to
 
 All files in this issue are offered to Internet users free of charge under the following conditions: Internet users may maintain one electronic copy and one print copy of the file for use by members of the user's household. Permission to otherwise duplicate or "lend" any of these files without the author's written consent is expressly denied.
 
-All artwork on this site is copyrighted to the credited artist, and permission must be obtained from that person before the art may be used elsewhere. All uncredited artwork is believed to be in the public domain. If this is incorrect, message us at [Legend@malcor.com](mailto:Legend@malcor.com?subject=Copyright) and proper credit will be given or the artwork will be removed at once, whichever is the preference of the artist and/or the artist's legal representatives. If an image is in the public domain, feel free to download it and upload it to your own site. If people link to our images, we will have to remove the art.
+All artwork on this site is copyrighted to the credited artist, and permission must be obtained from that person before the art may be used elsewhere. All uncredited artwork is believed to be in the public domain. If this is incorrect, message us at [shashtah@gmail.com](mailto:shashtah@gmail.com?subject=Copyright) and proper credit will be given or the artwork will be removed at once, whichever is the preference of the artist and/or the artist's legal representatives. If an image is in the public domain, feel free to download it and upload it to your own site. If people link to our images, we will have to remove the art.
 
-Webdesign for this issue by [L.A. Malcor](mailto:Legend@malcor.com).
+Webdesign for this issue by [L.A. Malcor](mailto:shashtah@gmail.com).
 
 Linda A. Malcor, Publisher Aliso Viejo, CA USA
 

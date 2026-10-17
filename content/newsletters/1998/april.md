@@ -46,7 +46,7 @@ The enclosed counted cross-stitch patterns are a gift for you from Misty. This i
 - Companion's Choice - Shanara Ravensong [Ed. Note 2002: Out-of-date address withheld.]
 - The Herald's Companion - Herald's Companion c/o Karen Bertke [Ed. Note 2002: Out-of-date address withheld.] Feezils will be featured in the April issue, so send Karen your favorite chocolate recipes.
 - The Messenger - Joanne Thwaites [Ed. Note 2002: Out-of-date address withheld.] or Helen Wills [Ed. Note 2002: Out-of-date address withheld.]
-- Pacific Northwest Collegium - laura Cameron/Moonglade [Ed. Note 2002: Out-of-date address withheld.] Collegium Chronicles will print short stories, guest editorials, poetry, reviews . . . Editor Moonglade urges you all to get creative!
+- Pacific Northwest Collegium - laura Cameron/Moonglade [Ed. Note 2002: Out-of-date address withheld.] Collegium Chronicles will print short stories, guest editorials, poetry, reviews … Editor Moonglade urges you all to get creative!
 
 ## Other Fandoms:
 
@@ -64,7 +64,7 @@ Well! Thanks to QO you now have many great pen pals and anticipate having a lot 
 
 [Ed. Note 2002: Fan Messages are not being posted online because of the personal information they contained.]
 
-Spring is a season that lifts the spirit. The days are longer, birds are singing, flowers and shrubs are in bloom . . . .But for all too many of us, there is no feeling of joy. Here is an important message from Herals Alora:
+Spring is a season that lifts the spirit. The days are longer, birds are singing, flowers and shrubs are in bloom … .But for all too many of us, there is no feeling of joy. Here is an important message from Herals Alora:
 
 "Depression is an illnes that is misunderstood, minimized, silenced, and generally overlooked. Major depressive disorder affects 1 in 20 Americans, twice as many women as men, and day after day it affects one's thoughts, feelings, physical health and ehavior. Family history/genetics, medical illnesses, substance abuse, life conditions, and other psychiatric conditions are causes of depression. Some recurring symptoms are loss of interest or energy, feeling sad and worthless and isolated, anxiety, feeling guilty or hopeless, changes in appetite, problems thinking clearly or remembering, indecisiveness, insomnia, inflicting injuries to oneself, and becoming obsessed with thoughts of suicide. Physical and psychological symptoms occur: headache, pain, digestive problems, panic attacks. If you feel you are depressed, seek help immediately. It's easy to become emotionally overwhelmed and to shut yourself away from all others, but this is when you need to talk about how you feel with family and friends. You can NOT heal yourself. Go to your doctor and explore the cause(s) of your depression and how best to treat it. Therapy and medication are available. Remember, depression is NOT a weakness or something to be ashamed about. It is a medical illness and it is treatable. For additional information, brochures, support services and procrams, contact Depression Awareness Recognition Treatment (D/ART) [Ed. Note 2002: Out-of-date Phone withheld; [http://www.lorenbennett.org/dart.htm](http://www.lorenbennett.org/dart.htm).]; National Mental Health Assoc. (NMHA) [Ed. Note 2002: Out-of-date Phone withheld; [http://www.nmha.org/](http://www.nmha.org/).]; National Depressive & Manic-Depressive Assoc. (NDMDA) [Ed. Note 2002: Out-of-date Phone withheld; [http://www.ndmda.org/](http://www.ndmda.org/).]
 
@@ -86,9 +86,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no featured artists for this edition of the newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no featured artists for this edition of the newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

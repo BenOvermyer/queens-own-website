@@ -34,15 +34,15 @@ Those of you who didn't get Misty-autographed bookplates in the first batch sent
 
 We thought you might be interested in more Misty trivia so here goes: Misty was born in Chicago, went to high school in Indiana and then to Purdue University, where she received a Bachelor of Science degree; has held jobs as a retail clerk, lab tech, store detective, artist's model, cook, waitress, 'phone surveyor and computer programmer.
 
-Misty plays the guitar, oboe, clarinet, and both a soprano and alto recorder; she's a scuba diver and costumer; reads German, ". . . at one time fluently . . . . "; sews, embroiders, knits and crochets; and " . . . because of sheer boredom . . . having taken up a new job here [Tulsa] . . . . " began writing fanfic for SHADOWSTAR, edited by Jean Holmes, in 1982/ [Editor's Note: Boredom?]
+Misty plays the guitar, oboe, clarinet, and both a soprano and alto recorder; she's a scuba diver and costumer; reads German, "… at one time fluently … . "; sews, embroiders, knits and crochets; and " … because of sheer boredom … having taken up a new job here [Tulsa] … . " began writing fanfic for SHADOWSTAR, edited by Jean Holmes, in 1982/ [Editor's Note: Boredom?]
 
 Back to the future: scheduled to follow MAGIC'S PAWN is [WAS] MAGIC'S PRICE. Misty wrote, "It is some twenty years after the conclusion of PAWN, and a dark time for Valdemar. The King is dying slowly of some unknown disease---and the Herald-Mages are being murdered, although at first it simply appears that they are being felled by odd accidents. Vanyel and his love, Bard Stefan, set out to find out WHO and WHY---and uncover far more than anyone dreamed. More note-taking time; this one will tell you EXACTLY what's in the Forest of Sorrows. I expect to have maps and lyrics in this one, too."
 
-Excerpts from a May letter from Misty: "I haven't been answering ANY letters for the past month; I've been putting PAWN together . . . . " AND THEN SHE WROTE, "We also spawned a middle book [MAGIC'S PROMISE]---planned for this time---so the Vanyel thing is now a trilogy . . . PROMISE is about Vanyel at around age 28. He's the second-rank Herald-Mage in the country, second only to the Queen's Own; and it begins with an exchange of letters with his parents and his Obligatory Parental Visit---then comes an emergency call in the night--which leads to the rescue of a young teen accused of the murder-by-magic of his entire family. Who just happen to be the rulers of a 'pocket kingdom' on the western border of Valdemar. The boy just happens to have been chosen---it gets very messy and very complicated very fast. And almost involves Valdemar in a mage war . . . Yes gang, Vanyel IS gay. The 'he' was NOT a mistake . . . did one new story ('The Making of a Legend'), a Tarma and Kethry for SWORD AND SORCERESS 6 [I hope] . . .
+Excerpts from a May letter from Misty: "I haven't been answering ANY letters for the past month; I've been putting PAWN together … . " AND THEN SHE WROTE, "We also spawned a middle book [MAGIC'S PROMISE]---planned for this time---so the Vanyel thing is now a trilogy … PROMISE is about Vanyel at around age 28. He's the second-rank Herald-Mage in the country, second only to the Queen's Own; and it begins with an exchange of letters with his parents and his Obligatory Parental Visit---then comes an emergency call in the night--which leads to the rescue of a young teen accused of the murder-by-magic of his entire family. Who just happen to be the rulers of a 'pocket kingdom' on the western border of Valdemar. The boy just happens to have been chosen---it gets very messy and very complicated very fast. And almost involves Valdemar in a mage war … Yes gang, Vanyel IS gay. The 'he' was NOT a mistake … did one new story ('The Making of a Legend'), a Tarma and Kethry for SWORD AND SORCERESS 6 [I hope] …
 
-"Windycon is a tenative at this point . . . I've been asked to GoH in Missouri (February 1989) and another in Tennessee (April 1989) . . . [Editor's Note: Now THAT'S planning ahead!]
+"Windycon is a tenative at this point … I've been asked to GoH in Missouri (February 1989) and another in Tennessee (April 1989) … [Editor's Note: Now THAT'S planning ahead!]
 
-Speaking of the future, Sally takes off on her annual migration for parts unknown [except to her] this month. Therefore, there is some question as to whether or not there will be July and/or August fanletters. [She does take her computer with her, but . . . . ] So we have to ask you to be patient with us. We WILL have a September fanletter, so keep in touch.
+Speaking of the future, Sally takes off on her annual migration for parts unknown [except to her] this month. Therefore, there is some question as to whether or not there will be July and/or August fanletters. [She does take her computer with her, but … . ] So we have to ask you to be patient with us. We WILL have a September fanletter, so keep in touch.
 
 Judith Louvis and Sally Paduch
 
@@ -54,9 +54,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no art in this newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no art in this newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

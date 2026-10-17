@@ -19,7 +19,7 @@ canonical_path = "/webring-code/"
 
 ## HTML Code
 
-Before I can add you to the ring, you must add the ring graphics and the HTML code for the ring to your page. Please do not link to these graphics! If you don't know how to upload the graphic to your own site, [contact me](mailto:Legend@malcor.com), and I will be happy to talk you through the process.
+Before I can add you to the ring, you must add the ring graphics and the HTML code for the ring to your page. Please do not link to these graphics! If you don't know how to upload the graphic to your own site, [contact me](mailto:shashtah@gmail.com), and I will be happy to talk you through the process.
 
 Graphic 1:
 
@@ -73,7 +73,7 @@ This [Queen's Own](/club-webring/) site is owned by [YOUR_NAME](mailto:YOUR_EMAI
 
 <a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoo.gif" style="width:80px; height:100px"/></a>
 
-If you have any problems, [message me](mailto:Legend@malcor.com), and I will do my best to help.
+If you have any problems, [message me](mailto:shashtah@gmail.com), and I will do my best to help.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 

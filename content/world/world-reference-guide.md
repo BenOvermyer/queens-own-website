@@ -11,13 +11,12 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/world-reference-guide/"
+revised = "3/26/02"
 +++
 
 ## Queen's Own
 
 ## Just the FAQs
-
-### (Revised 3/26/02)
 
 <img alt="" loading="lazy" src="/pegasus.gif"/>
 

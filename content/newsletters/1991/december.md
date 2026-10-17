@@ -52,9 +52,9 @@ It was at the North American Science Fiction Convention in 1985 that Misty had a
 
 "Betsy told me that they were seriously looking at buying my books," Lackey recalls. "But, at the same tme, she was feeling me out to find out if I was going to act hysterically when she said there were rewrites she wanted. I told her no problem, since by then I had a computer. If I'd had to do them on a typewriter, **then** I might have gotten hysterical."
 
-Misty writes at least 10 pages a night, and she has been known to push for as many as 20. She explained to Brad: "It's something that I **have** to do . . . since I quite literally have a book due every two months until the middle of next year. Now that I don't have to be at work every morning at 8 a.m., I'll get up and putter around the house, do chores and clean up the place. If there are any errands, I'll usually do them between, say, 10 a.m. and 3 p.m. Then, around 4 p.m., I'll start to work, and I usually work until midnightish or later.
+Misty writes at least 10 pages a night, and she has been known to push for as many as 20. She explained to Brad: "It's something that I **have** to do … since I quite literally have a book due every two months until the middle of next year. Now that I don't have to be at work every morning at 8 a.m., I'll get up and putter around the house, do chores and clean up the place. If there are any errands, I'll usually do them between, say, 10 a.m. and 3 p.m. Then, around 4 p.m., I'll start to work, and I usually work until midnightish or later.
 
-"For me, *everything* in storytelling starts from the characters . . . Once you have them, then you build your world and figure out the problem or problems they'll be facing."
+"For me, *everything* in storytelling starts from the characters … Once you have them, then you build your world and figure out the problem or problems they'll be facing."
 
 Brad went on to explain that Misty spends two weeks to a month constructing an extensive story outline that contains action and some dialogue, but only a minimum of description.
 
@@ -186,7 +186,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

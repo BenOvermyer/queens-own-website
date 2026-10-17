@@ -11,6 +11,7 @@ vlink = "silver"
 historical = true
 topic = "publications"
 canonical_path = "/compass-rose/about/"
+revised = "10/18/20"
 +++
 
 ## The Queen's Own
@@ -18,8 +19,6 @@ canonical_path = "/compass-rose/about/"
 ## Compass Rose
 
 ## An Online, Nonfiction Journal
-
-### (Revised 10/18/20)
 
 <img alt="The Compass Rose by Laura Cameron" loading="lazy" src="/comprose.jpg"/>
 
@@ -39,7 +38,7 @@ The journal accepts book reviews, commentaries, articles (such as those generate
 
 This journal does not accept any stories, poetry, filk or other works of fiction. Please send these to the QO-approved [fanzines](/fan-fiction/).
 
-If you want, you may submit journal materials via e-mail when possible. Send written texts in either MS Word or .txt/ASCII format. You can scan photos, costume designs, and so forth, and send them either as .jpgs or .gifs. If you do not have a scanner, you can still submit your text by e-mail and snail mail any pictures or other nontext items. If you do not have your text in electronic format, you can snail mail that as well. E-mail submissions for the journal to [Herald-Mage Adept Danya Winterborn](mailto:Legend@malcor.com). Please specify that your submission is for *The Queen's Own Compass Rose*.
+If you want, you may submit journal materials via e-mail when possible. Send written texts in either MS Word or .txt/ASCII format. You can scan photos, costume designs, and so forth, and send them either as .jpgs or .gifs. If you do not have a scanner, you can still submit your text by e-mail and snail mail any pictures or other nontext items. If you do not have your text in electronic format, you can snail mail that as well. E-mail submissions for the journal to [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com). Please specify that your submission is for *The Queen's Own Compass Rose*.
 
 A special thanks to Laura Cameron for designing *The Compass Rose* logo!
 

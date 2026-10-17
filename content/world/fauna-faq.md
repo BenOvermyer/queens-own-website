@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/fauna-faq/"
+revised = "2/7/02"
 +++
 
 ## Fauna FAQ
-
-## (Revised 2/7/02)
 
 Misty has included a ton of different animals on Velgarth. Some have equivalents in the "real world", and others are entirely products of her very fertile imagination. Here are some of the known denizens of Velgarth:
 

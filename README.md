@@ -58,6 +58,14 @@ without member names or email addresses. Each JSON source has `front_matter`,
 `persona_url`, `player`, `email`, and a `details` list of `date`, `gifts`, `note` or
 `raw` fragments. The renderer omits `player` and `email`.
 
+Club pages close with a shared sign-off: “Zhai’helleva, Herald-Mage Adept Danya
+Winterborn”. Its salutation, name, and address live in `config.toml` under
+`[extra.signoff]`, and the `signoff` component in `templates/components.html` renders
+them, so pages simply write `{{ <signoff /> }}`. Change the config values to update
+the coda everywhere. The signature uses the self-hosted Great Vibes script
+(`static/fonts`, OFL); layout and type are styled by `.signoff` in
+`static/css/site.css`.
+
 To regenerate canonical links, redirects, and publication indexes after changing
 the preserved archive or refreshing PDF availability evidence:
 

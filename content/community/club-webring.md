@@ -21,11 +21,11 @@ canonical_path = "/club-webring/"
 
 Welcome to the homepage of the Official Queen's Own Webring!
 
-Only members of Queen's Own may join this ring. If you are a member and have a website you would like to have added to the ring, message Danya at [Legend@malcor.com](mailto:Legend@malcor.com) and ask for an invitation to the QO webring.
+Only members of Queen's Own may join this ring. If you are a member and have a website you would like to have added to the ring, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) and ask for an invitation to the QO webring.
 
 If you are not a member of Queen's Own and would like to join, you can [create a persona](/persona-handouts/).
 
-If you have any questions, message [Danya](mailto:Legend@malcor.com).
+If you have any questions, message [Danya](mailto:shashtah@gmail.com).
 
 Thank you for your interest in Queen's Own!
 

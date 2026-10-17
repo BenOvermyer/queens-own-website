@@ -38,13 +38,13 @@ Jody's cover of *Storm Warning* is available in 6-3/4" x 14" size. There are a g
 
 From Baen comes *Lammas Night*, created by Misty and edited by Josepha Sherman. In Misty's song "Lammas Night," (on *Magic, Moondust & Melancholy,* available from Firebird) a young woman is persuaded to become the weaver of spells for a small village. As part of their persuasion, the villagers have given her the house of her predecessor. She unwittingly partially frees his spirit and is courted by the half-seen phantom. Is he her destinved lover, or something wicked that aims to entrap her? Misty's song was purposely ambiguous, and left the ending up to the listener. In this short story collection various writers present their endings. *Lammas Night* contains stories by Misty, Josepha, Elisabeth Waters, Stephanie Shaver, Ru Emerson, Jody Lynn Nye, and more and is available in bookstores now or very soon.
 
-Tanya Huff's *No Quarter* has an April release date and a beautiful Jody Lee cover. This is a sequel to *Fifth Quarter*. The cover quote is "They were the most feared pair in the Empire, and they were both trapped in the same body . . . "
+Tanya Huff's *No Quarter* has an April release date and a beautiful Jody Lee cover. This is a sequel to *Fifth Quarter*. The cover quote is "They were the most feared pair in the Empire, and they were both trapped in the same body … "
 
 There is no story by Misty in DAW's *Celebrity Vampires*, but there are a lot of enjoyable--but strange--tales for you vampire fans. *Celebrity Vampires* is edited by Martin J. Greenberg.
 
 Coming in April from DAW is the anthology *Warrior Enchantresses*, edited by Kathleen M. Massie-Ferch and Martin J. Greenberg. Again, no story by Misty, but Melanie Rawn, Tanith Lee, Andre Norton, Jennifer Roberson, and other favorite authors are represented.
 
-Good news from Firebird: the *Arrows of the Queen Concordance* is ready and has been mailed to all who pre-ordered. The Concordance contains a wealth of information about the people and places of Valdemar and costs [Ed. note 2005: Out-of-date info withheld.]. The songbook of "Lovers, Lore, & Loss" is ready. Yes, the printer made a mistake on one page, but the corrected page will be included in every copy. Firebird carries all of Misty's books and songs; the music of TEMPEST, Clannad, Patrick Ball, Stan Roers, R. Carlos Nakai, and more; Celtic Knot pewter jewelry; portfolio art by Larry Dixon; T-shirts . . . I had a Firebird Christmas, receiving gifts of CDs, the TEMPEST video, stationery, and Fairgrove & Valdemar pendants. Lovely, all of it. You can browse through Firebird's online catalog at [Ed. note 2005: Out-of-date info withheld.]. Oregon or international calls should use [Ed. note 2005: Out-of-date info withheld.]. If you get an answering machine, be sure to leave your complete name and address; if orcering, be sure to include your name and address!
+Good news from Firebird: the *Arrows of the Queen Concordance* is ready and has been mailed to all who pre-ordered. The Concordance contains a wealth of information about the people and places of Valdemar and costs [Ed. note 2005: Out-of-date info withheld.]. The songbook of "Lovers, Lore, & Loss" is ready. Yes, the printer made a mistake on one page, but the corrected page will be included in every copy. Firebird carries all of Misty's books and songs; the music of TEMPEST, Clannad, Patrick Ball, Stan Roers, R. Carlos Nakai, and more; Celtic Knot pewter jewelry; portfolio art by Larry Dixon; T-shirts … I had a Firebird Christmas, receiving gifts of CDs, the TEMPEST video, stationery, and Fairgrove & Valdemar pendants. Lovely, all of it. You can browse through Firebird's online catalog at [Ed. note 2005: Out-of-date info withheld.]. Oregon or international calls should use [Ed. note 2005: Out-of-date info withheld.]. If you get an answering machine, be sure to leave your complete name and address; if orcering, be sure to include your name and address!
 
 TEMPESTS's new album, *Turn of the Wheel,* is in the stores now. Special album release shows in California are: [Ed. note 2005: Out-of-date info withheld.].
 
@@ -183,9 +183,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

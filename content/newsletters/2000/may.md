@@ -30,7 +30,7 @@ Heyla, Misty Fans!
 
 Welcome to the first issue of the Queen's Own newsletter put out by Herald-Mage Journeyman Danya Winterborn and Healer Adept Moonstar!
 
-Since you have received this newsletter via e-mail, you already know that Queen's Own is under new management and has a website located at [Queen’s Own](/). Memberships are now free for the newsletter, which will be mailed online a few days before the HTML copy goes up on the site. The MS-Word copy of the newsletter will not contain art (so people don't find 1 MB messages in their mailboxes &lt;g>), but if you have art you would like to submit to us for the website version of the newsletter, we'd love to post it! E-mail .jpg or .gif files to [Legend@malcor.com](mailto:Legend@malcor.com) or send hardcopy to the address listed above.
+Since you have received this newsletter via e-mail, you already know that Queen's Own is under new management and has a website located at [Queen’s Own](/). Memberships are now free for the newsletter, which will be mailed online a few days before the HTML copy goes up on the site. The MS-Word copy of the newsletter will not contain art (so people don't find 1 MB messages in their mailboxes &lt;g>), but if you have art you would like to submit to us for the website version of the newsletter, we'd love to post it! E-mail .jpg or .gif files to [shashtah@gmail.com](mailto:shashtah@gmail.com) or send hardcopy to the address listed above.
 
 We're taking the club and the newsletter back to the old format developed by the founder of Queen's Own, Judith Louvis, only we're doing it online. This means you can submit ads, personals, and all sorts of goodies via e-mail &lt;g>. Do remember, though, that the newsletter will be posted online, so **if you don't want your snail mail address posted on the Net, don't submit it**. Think about submitting your e-mail address instead. Also, you may want to stick to your persona name instead of using your real name. Up to you. Just make sure we know what you want so no information goes into the newsletter that you do not want there.
 
@@ -66,13 +66,13 @@ The catalog of *Firebird Arts and Music* is a wonderful introduction to the worl
 
 Do you dream of being a Herald? A Healer? A Bard? Queen's Own members can earn the right tot hose titles by following the guidelines in our helpful handouts. You can find the handouts at [Persona handouts and submission instructions](/persona-handouts/) on the Queen's Own website.
 
-In the past we've had local chapters, zine, a cookbook, writer's circles, role playing games, mentors to answer questions in other areas of fandom, even a worst pun contest. Is there something you'd like to see us do? Message us at [Legend@malcor.com](mailto:Legend@malcor.com) or post a message in the Queen's Own Private Delphi Forum ([Delphi forum](/delphi-forum/)). Share your ideas and enthusiasm!
+In the past we've had local chapters, zine, a cookbook, writer's circles, role playing games, mentors to answer questions in other areas of fandom, even a worst pun contest. Is there something you'd like to see us do? Message us at [shashtah@gmail.com](mailto:shashtah@gmail.com) or post a message in the Queen's Own Private Delphi Forum ([Delphi forum](/delphi-forum/)). Share your ideas and enthusiasm!
 
 <img alt="Bar" loading="lazy" src="/bar2.gif"/>
 
 ## Ren Faires:
 
-<a href="/pacific-northwest-collegium/"><img alt="Yarik in the Companion's Field by Laura Cameron" class="float-right" loading="lazy" src="/cc8.gif"/></a> Here are the faires we know about that are happening in May. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com).
+<a href="/pacific-northwest-collegium/"><img alt="Yarik in the Companion's Field by Laura Cameron" class="float-right" loading="lazy" src="/cc8.gif"/></a> Here are the faires we know about that are happening in May. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 ## California
 
@@ -131,7 +131,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at [h
 
 ## Conventions:
 
-<a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik Sparring by Laura Cameron" class="float-right" loading="lazy" src="/cc18.gif"/></a> Have any information about conventions in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com).
+<a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik Sparring by Laura Cameron" class="float-right" loading="lazy" src="/cc18.gif"/></a> Have any information about conventions in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 ## California
 
@@ -168,7 +168,7 @@ For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fan
 - **Lois Bujold:** Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - **Marion Zimmer Bradley:** Marion Zimmer Bradley's *FANTASY Magazine* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
 - **Tanya Huff:** **Nine Above!** is a list for fans of author Tanya Huff. This list provides announcements about Tanya's latest work, publication dates, and personal appearances. NA! also provides a forum for Tanya's fans to communicate with each other, and will have discussion as well as announcements. Lurking is fine, but participation is encouraged. When you join, we'd love for you to send a "hello" to the group at large, telling us who you are! To start sending messages to members of this group, simply send email to [nineabove@egroups.com](mailto:nineabove@egroups.com).
-- **L.A. Malcor:** **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [Legend@malcor.com](mailto:Legend@malcor.com).
+- **L.A. Malcor:** **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - **Anne McCaffrey/Pern:** **The Third Pass Weyrs**. Contact Weyrwoman Second Naerah at [Nyco@aol.com](mailto:Nyco@aol.com) or visit the website at http://www.3rdpass.com/ for more information.
 - **Adrian Paul of Highlander:** **Peace**, APFC P.O. Box 4593, North Hollywood, CA 91617 or **Peace**, APFC P.O. Box 519, Broley, Kent, BR29WX, England.
 
@@ -210,7 +210,7 @@ The Queen�s Own mailing list was at one time about 1,100 members strong, and w
 
 The only "fee" for a fan message is to write to two other people. If your mailbox is empty, don't complain--write letters!
 
-- From Danya Winterborn, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
+- From Danya Winterborn, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [shashtah@gmail.com](mailto:shashtah@gmail.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
 
 <img alt="Bar" loading="lazy" src="/bar2.gif"/>
 
@@ -228,7 +228,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Co-Editor/Co-President Herald-Mage Journeyman Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com)) Co-Editor/Co-President Healer Adept Moonstar (Kendra Renaud; AOL-IM SN healermoon; [healermoon@gmail.com](mailto:healermoon@gmail.com))
+Co-Editor/Co-President Herald-Mage Journeyman Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com)) Co-Editor/Co-President Healer Adept Moonstar (Kendra Renaud; AOL-IM SN healermoon; [healermoon@gmail.com](mailto:healermoon@gmail.com))
 
 The featured artist for the online version of the newsletter is [Laura Cameron](mailto:anjakiya@hotmail.com). All drawings in this newsletter are ©1998-1999 Laura Cameron. All rights reserved.
 

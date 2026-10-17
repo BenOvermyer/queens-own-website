@@ -30,7 +30,7 @@ Heyla, Misty fans!
 
 Happy Summer! Hope you are all having a well-deserved break from your usual activities.
 
-Misty now officially writes faster than either of us can read &lt;g>. If you would like to write a book review of any of her books, we�d like to publish it in the QO newsletter! Please send your comments to Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
+Misty now officially writes faster than either of us can read &lt;g>. If you would like to write a book review of any of her books, we�d like to publish it in the QO newsletter! Please send your comments to Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 If you haven�t already checked it out, we want to let you know about the BAEN Free Library at [http://www.baen.com/library/](http://www.baen.com/library/). So far the following Misty titles are available through this service:
 
@@ -54,7 +54,7 @@ The paperback edition of *The Outstretched Shadow* (Book 1 of the Obsidian Trilo
 
 Stephanie Harris is looking for a co-President to help run Southern Arrows. The chapter is also looking for members. Contact Stephanie at [sblackwell@knology.net](mailto:sblackwell@knology.net) for more details.
 
-**Editors and Chapter Presidents:** Please check your information at [Chapter directory](/chapters/) and in the QO newsletter to make sure that it�s up-to-date and accurate. If you have any changes, please send them to Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
+**Editors and Chapter Presidents:** Please check your information at [Chapter directory](/chapters/) and in the QO newsletter to make sure that it�s up-to-date and accurate. If you have any changes, please send them to Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 We have a special treat this time: a review of *No Pain, No Gain* from Adept Starfeather K�Valdemar. Enjoy!
 
@@ -78,7 +78,7 @@ And thus, the stage is set for a rollicking good time. *Tales from the Slushpile
 
 ## Ren Faires:
 
-Here are the Faires we know about for August. Faires are indexed alphabetically by state. Have any information about any other Renaissance Faires in your area? Send it to us at [Legend@malcor.com.](mailto:legend@malcor.com)
+Here are the Faires we know about for August. Faires are indexed alphabetically by state. Have any information about any other Renaissance Faires in your area? Send it to us at [shashtah@gmail.com.](mailto:shashtah@gmail.com)
 
 ### California
 
@@ -124,7 +124,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at [h
 
 ## Conventions:
 
-These are the upcoming cons we know about. Have any information about conventions in your area? Send it to us at [Legend@malcor.com.](mailto:Legend@malcor.com)
+These are the upcoming cons we know about. Have any information about conventions in your area? Send it to us at [shashtah@gmail.com.](mailto:shashtah@gmail.com)
 
 ### Arizona
 
@@ -204,7 +204,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ### Local chapters:
 
-- **Arrows OnLine:** Contact: Adept Grayfeather k'Varis (Kristi Reed). E-mail: [DragonMamaK@aol.com](mailto:DragonMamaK@aol.com). Arrows OnLine is the AOL chapter of QO. Chats will be held the first and third Wednesdays of each month from 8-10 PM ET. Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions. Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat. As far as instructions on how to get there . . . there are lots of hoops to jump through now. Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there. She's no longer a keyword, but hopefully with more traffic in the future that will change. If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links. The links to the chatroom will be on my "signature" on the boards.
+- **Arrows OnLine:** Contact: Adept Grayfeather k'Varis (Kristi Reed). E-mail: [DragonMamaK@aol.com](mailto:DragonMamaK@aol.com). Arrows OnLine is the AOL chapter of QO. Chats will be held the first and third Wednesdays of each month from 8-10 PM ET. Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions. Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat. As far as instructions on how to get there … there are lots of hoops to jump through now. Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there. She's no longer a keyword, but hopefully with more traffic in the future that will change. If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links. The links to the chatroom will be on my "signature" on the boards.
 - **German Heartstone:** Website: [http://www.heartstone.de](http://www.heartstone.de). Contact: [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de). A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on [http://www.heartstone.de](http://www.heartstone.de)! For more information contact [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de).
 - **Golden Grove:** Website: [Golden Grove](/golden-grove/). Contact [Theresa Young](mailto:minna@adelphia.net). Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
 - **Heartland Arrows:** Website: [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). Contact [Mary Wilson](mailto:mary@marymuse.com). This chapter is for Queen�s Own members in Iowa, Illinois, Minnesota, & Wisconsin. For information e-mail [mary@marymuse.com](mailto:mary@marymuse.com), or send a SASE to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169. Our new homepage is [http://www.marymuse.com/heartlandarrows/](http://www.marymuse.com/heartlandarrows/). (Formerly Illinois Arrow.)
@@ -251,7 +251,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
   3. E-mail:it to [gbertke@fuse.net](mailto:gbertke@fuse.net). (This is my father's e-mail address. Use it for submissions for Herald's Companion only.)
 - ***Riding Circuit***, a quarterly zine of Velgarth fanfiction seeks submissions. The first issue is due out in early April, and I look forward to stories of Heralds, Hawkbrothers, Bards and other people of Velgarth. Art and poetry are also welcome. Submissions may be sent by mail to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169 or e-mailed to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com). Visit our website [http://www.marymuse.com/HeartlandArrows/RC.html](http://www.marymuse.com/HeartlandArrows/RC.html) for more information.
 - **Tales of the Southern Bard:** TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at [SouthernBard@eudoramail.com](mailto:SouthernBard@eudoramail.com) for submission guidelines and information on how to join or visit TOTSB's homepage: [http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm](http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm).
-- ***Tales of the Unicorn*:** After a decade hiatus it's back . . . *Tales of the Unicorn*. Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy. Tales will be published quarterly with the first issue coming in late April. Art and poetry are also welcome. Visit our website at [http://www.marymuse.com/HeartlandArrows/TotU.html](http://www.marymuse.com/HeartlandArrows/TotU.html) for more information. Submissions may be sent to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com) or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
+- ***Tales of the Unicorn*:** After a decade hiatus it's back … *Tales of the Unicorn*. Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy. Tales will be published quarterly with the first issue coming in late April. Art and poetry are also welcome. Visit our website at [http://www.marymuse.com/HeartlandArrows/TotU.html](http://www.marymuse.com/HeartlandArrows/TotU.html) for more information. Submissions may be sent to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com) or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -260,7 +260,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - CrossGen Comics: Exciting New Fantasy Comic Books. Follow Prince Ethan's adventures the third Wednesday of each month as he gains the powerful sigil and accidentally puts his world on the brink of war. Meridian, on sale the fourth Wednesday of each month, is the fantastic saga of a teenage girl and her plight to save her floating island home. Go to [http://www.crossgen.com](http://www.crossgen.com), or call 1-888-COMICBOOK for details on a retail location near you.
 - Tanya Huff: **Nine Above!** is a list for fans of author Tanya Huff. This list provides announcements about Tanya's latest work, publication dates, and personal appearances. NA! also provides a forum for Tanya's fans to communicate with each other, and will have discussion as well as announcements. Lurking is fine, but participation is encouraged. When you join, we'd love for you to send a "hello" to the group at large, telling us who you are! To start sending messages to members of this group, simply send email to [nineabove@egroups.com](mailto:nineabove@egroups.com).
-- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [Legend@malcor.com](mailto:Legend@malcor.com).
+- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - Adrian Paul of Highlander: **Peace,**APFC P.O. Box 4593, North Hollywood, CA 91617 or **Peace,**APFC P.O. Box 519, Broley, Kent, BR29WX, England.
 - Michael Praed: *Michael Praed Network Newsletter*, c/o Kate Raymond, P.O. Box 516, Midlotioan, IL 60445.
 - Melanie Rawn: **Pandemonium**- The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira, P.O. Box 18A146 , Los Angeles, CA 90018.
@@ -276,15 +276,15 @@ We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercena
 
 You need a release form (online at [Release form instructions](/release-form-instructions/)) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. Do NOT include the *original* of the release form with your persona material; send it to Misty. Send a *copy* to us.
 
-All personae materials should be sent to the QO address or submitted by e-mail to [Legend@malcor.com](mailto:Legend@malcor.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
+All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
 - Congratulations to **Herald Lily** who has earned the rank of **Herald Riding Instructor**! *Lily Evans* has won the following awards in competition: Safety Breaks Summer Horse Spectacular--1st Best Presented, W.A.A.H.A--1st Partbred Arab Gelding, 1st Classic Trot- gelding, Champion derivative Futurity Horse, 1st Ridden Stallion Arabian Derivative, 1st Classic Head- gelding, top 4 Junior Arabian Derivative Colt, Champion Anglo Colt/stallion, 2nd Arabian Derivative lightweight hack, 1st Arabian Derviative Quality Head, Champion Stock horse Mare, Res. Champion junior Novice rider, Open Elementary Dressage Exhibit, 3rd Arabian Derivative Classic Trot- stallion, 2nd Arabian derivative classic trot�colt, and Champion Anglo stallion!
 
-If you were working on a persona who is no longer listed at [Club chat guidance](/club-chat/) that means we have not heard from you in over a year. To revive your persona, simply message Danya at [Legend@malcor.com](mailto:Legend@malcor.com) and tell her that your persona is in "Deep Storage." She will pull it out for you and reactivate your submission.
+If you were working on a persona who is no longer listed at [Club chat guidance](/club-chat/) that means we have not heard from you in over a year. To revive your persona, simply message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) and tell her that your persona is in "Deep Storage." She will pull it out for you and reactivate your submission.
 
-If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [Legend@malcor.com](mailto:Legend@malcor.com), and she�ll make sure you are greeted in the next newsletter.
+If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
 
-### Lost . . .
+### Lost …
 
 One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
@@ -310,7 +310,7 @@ One of the challenges running an online club is that people don�t always leave
 - Tayledras Blackwolf k'Vala (HRHIce@aol.com)
 - Tayledras Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
 
-If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
+If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
 <img alt="Iaia by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo217.jpg"/>
 
@@ -322,11 +322,11 @@ Well, I�ve had an exciting month. *King Arthur* opened on July 7th, and I�ve
 
 I�m back to writing on my book about the Sword in the Stone as well as a popular book about the original L. Artorius Castus. The scholarly book will have to wait since too much new information is coming to light for me to get to press without the text being out of date. I also reread the first couple of chapters of a novel about Castus that I�d started a while back, and they were good enough to encourage me to start plugging away on that again. (Can you tell that I�m really enjoying my new office, which looks out on my backyard, so I can watch the kids play and still get some work done at the same time &lt;G>?) I�m also working, once again, on the project to get some of the old newsletters coded and online. We will finish that some day, we promise &lt;g>.
 
-Work was finally completed on my fireplace mantel. Now I just have to find someone to do the stonework part of the surround . . . Eventually I will be able to curl up and read a good Misty book by the fire in my new library/living room &lt;G>.
+Work was finally completed on my fireplace mantel. Now I just have to find someone to do the stonework part of the surround … Eventually I will be able to curl up and read a good Misty book by the fire in my new library/living room &lt;G>.
 
-The yard is coming along nicely. We got rid of the last of the massive palms. If you�ve ever wondered what it looks like when a crane lifts 6,000 pounds of really big palms out of a very large hole, you can check it out here: [http://www.malcor.com/](http://www.malcor.com/) (Click on "Here" at the top of the screen, then select "Goodbye Palms."). We�re going to fill in the hole, level off the yard, put in new sod, and plant a green Japanese maple. Eventually the place will start looking more like the California Tudor style we like . . .
+The yard is coming along nicely. We got rid of the last of the massive palms. If you�ve ever wondered what it looks like when a crane lifts 6,000 pounds of really big palms out of a very large hole, you can check it out here: [http://www.malcor.com/](http://www.malcor.com/) (Click on "Here" at the top of the screen, then select "Goodbye Palms."). We�re going to fill in the hole, level off the yard, put in new sod, and plant a green Japanese maple. Eventually the place will start looking more like the California Tudor style we like …
 
-I�m heading up to Lake Tahoe the second week of August, and I�ll be in San Francisco on the 7th and 8th. Anyone in the area who would like to try to get together for a quick "Heyla!" and a cup of coffee, message me at [Legend@malcor.com](mailto:Legend@malcor.com).
+I�m heading up to Lake Tahoe the second week of August, and I�ll be in San Francisco on the 7th and 8th. Anyone in the area who would like to try to get together for a quick "Heyla!" and a cup of coffee, message me at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 Zhai�helleva,
 
@@ -342,7 +342,7 @@ Danya
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
 - **From: Healer Adept Moonstar. To: All. Re: Release Forms for Personas.** I still need release forms from many of you for your personas. I received most of the releases for Issue 1, and only one release for each of Issue 2 and Issue 3. Please send copies of your release forms to: Queen�s Own, P.O. Box 749, Laguna Beach, CA 92652.
 -
-- **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [Legend@malcor.com](mailto:Legend@malcor.com)? Thanks!
+- **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -350,11 +350,11 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Co-Editor/Co-President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Co-Editor/Co-President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Co-Editor/Co-President Healer Adept Moonstar (Kendra Renaud; AOL-IM SN healermoon; [healermoon@gmail.com](mailto:healermoon@gmail.com))
 
-The featured artist for this newsletter is [Jan Tallevast](mailto:heraldauralynn@hotmail.net) All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+The featured artist for this newsletter is [Jan Tallevast](mailto:heraldauralynn@hotmail.net) All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

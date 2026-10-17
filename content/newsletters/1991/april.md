@@ -38,9 +38,9 @@ Remember, *Winds of Fate*, the first of **The Mage Winds** trilogy, has a releas
 
 Words from Misty:
 
-"I was born in Chicago . . . and have lived in the Midwest most of my life. I began reading SF at a very tender age; nine, I think, picking up some of my father's SF books becuase they looked interesting. My parents were big believers in reading, going to the extent of verifying to our local librarian that I was 'mature enough' to check books out of the adult section. As a result, by age twelve I held an 'adult' library card. The first SF book I ever read was James Schmidt's *Agent of Vega*, my second, *Beast Master* by Andre Norton, thus beginning a love affair with Northon's books that has continued to this day. One of the most exciting things to happen in my career as a writer was to be invited to write a 'Witch World' story for the first of her 'Friends of Witch World' anthologies; it was literally a dream come true, since back in the dark ages, when I was a Kid, I wrote (handwrote, and illustrated) many Norton pastiche stories when I couldn't find any new books to read.
+"I was born in Chicago … and have lived in the Midwest most of my life. I began reading SF at a very tender age; nine, I think, picking up some of my father's SF books becuase they looked interesting. My parents were big believers in reading, going to the extent of verifying to our local librarian that I was 'mature enough' to check books out of the adult section. As a result, by age twelve I held an 'adult' library card. The first SF book I ever read was James Schmidt's *Agent of Vega*, my second, *Beast Master* by Andre Norton, thus beginning a love affair with Northon's books that has continued to this day. One of the most exciting things to happen in my career as a writer was to be invited to write a 'Witch World' story for the first of her 'Friends of Witch World' anthologies; it was literally a dream come true, since back in the dark ages, when I was a Kid, I wrote (handwrote, and illustrated) many Norton pastiche stories when I couldn't find any new books to read.
 
-"I *wanted* to write professionally--but was perfectly well aware that writers don't make any money--so I chose instead a career in science, getting my B.Sci. in Biology from Purdue University in 1972. I then discovered that B.Sci.'s don't make any money either. As a result I ended up in a variety of jobs, from waitress to security guard to artist's model. I finally ended up in a job which started out as telephone survey work, and ended up as a 'programmer' doing some very simple 'cookbook programming' for Indiana Univerisy at South Bend. From there I went into a computer programming class for Associates . . . I stayed there for three years, then took a job with American Airlines, and finally made the break to full-time writer in October of 1990."
+"I *wanted* to write professionally--but was perfectly well aware that writers don't make any money--so I chose instead a career in science, getting my B.Sci. in Biology from Purdue University in 1972. I then discovered that B.Sci.'s don't make any money either. As a result I ended up in a variety of jobs, from waitress to security guard to artist's model. I finally ended up in a job which started out as telephone survey work, and ended up as a 'programmer' doing some very simple 'cookbook programming' for Indiana Univerisy at South Bend. From there I went into a computer programming class for Associates … I stayed there for three years, then took a job with American Airlines, and finally made the break to full-time writer in October of 1990."
 
 (More to come in the next newsletter, I promise.)
 
@@ -84,7 +84,7 @@ For you lucky fans in the Atlanta area, Misty will be autographing books a **SF 
 
 *Circle of Light* Is a monthly newsletter devoted to Heralds, Beauty & the Beast, and other facets of Fantasy. The cost is [Ed. note 2003: Out-of-date information withheld.]. &lt;o> From **Thornton Kimes [Ed. note 2003: Out-of-date information withheld.]**:
 
-"I want to create a QO Joke Collection. Jokes about HEralds, Companions, Hawkbrethern (and sistren), etc., etc. Daffynitions too, and uh, puns . . . "
+"I want to create a QO Joke Collection. Jokes about HEralds, Companions, Hawkbrethern (and sistren), etc., etc. Daffynitions too, and uh, puns … "
 
 *Hello from the UK!* Alison Pearl and Cari Woolveridge are starting a QO chapter in England. [Ed. note 2003: Out-of-date information withheld.].
 
@@ -100,13 +100,13 @@ Did you try to write to *For Whom the Bell Tolls*, the role playing writer's clu
 
 ### Hello from Herald Housemother:
 
-It has been one year since I took over duties of editor as well as everything else here at Queen's Own. All mail that comes into PO Box 43143 is opened and read and answered by me. Don't think that this is a one-woman operation though. QO has survived because of the help of many members: people like Patricia Riggs, our "answer lady" the "Mailing Day Helpers" who come once a month to fold, dtaple, stamp and address the newsletters; the Mentors who are slowly being organized so they can help with specific aspects of fandom; the folks who send artwork for the side of the newsletter; Ana Casacuberta and Joanne MAttern who are still trying to organize the files (and me); my family, who are tolerant beyond belief of the way QO first took over the kitchen table, then the dining room, then Mom needed a computer . . . And lastly, all of you, who send me silly cards and cheerful ntoes and your whole-hearted support. Here's to many, many more years to Misty's writing career, and to her club, Queen's Own.
+It has been one year since I took over duties of editor as well as everything else here at Queen's Own. All mail that comes into PO Box 43143 is opened and read and answered by me. Don't think that this is a one-woman operation though. QO has survived because of the help of many members: people like Patricia Riggs, our "answer lady" the "Mailing Day Helpers" who come once a month to fold, dtaple, stamp and address the newsletters; the Mentors who are slowly being organized so they can help with specific aspects of fandom; the folks who send artwork for the side of the newsletter; Ana Casacuberta and Joanne MAttern who are still trying to organize the files (and me); my family, who are tolerant beyond belief of the way QO first took over the kitchen table, then the dining room, then Mom needed a computer … And lastly, all of you, who send me silly cards and cheerful ntoes and your whole-hearted support. Here's to many, many more years to Misty's writing career, and to her club, Queen's Own.
 
 I kept count last month--338 letters received, 280 answered. I thank you for St. Patrick's Day cards, Easter cards, (including one measuring 16-1/2 inches by 2 feet!), and other assorted goodies. Our membership is over the 600 mark, and still growing.
 
 Any ideas for a QO button design? Keep in mind that the button will be only 2 or 3 inches wide. A simple design in black ink is easiest to reproduce.
 
-**Misty's birthday is June 24th!** Last year I secretly collected snapshots of members and put them in an album for her. No reason to be sneaky this year--if you're not in the birthday album, send me a picture so we can update it! Spapshots can be of you as Herald or mundane; include your cats, dogs, horses, little brothers . . . whatever.
+**Misty's birthday is June 24th!** Last year I secretly collected snapshots of members and put them in an album for her. No reason to be sneaky this year--if you're not in the birthday album, send me a picture so we can update it! Spapshots can be of you as Herald or mundane; include your cats, dogs, horses, little brothers … whatever.
 
 The **Collegium Registry** will return next month. We have many new Heralds and Bards; we don't have space to list them.
 
@@ -138,7 +138,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

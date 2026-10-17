@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/blues-and-blue-bloods-faq/"
+revised = "3/1/02"
 +++
 
 ## Blues and Blue Bloods
-
-## (Revised 3/1/02)
 
 Valdemar has mandatory schooling for children, which is conducted in the temples. Children must attend every morning until they can read, write and solve basic mathematical equations. Most students accomplish this by the time they are twelve-years-old (the age at which they start training in whatever career they will follow as an adult). A hot breakfast is served to the children every morning in these temple schools by order of Queen Seleney.
 

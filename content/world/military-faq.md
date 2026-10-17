@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/military-faq/"
+revised = "2/5/02"
 +++
 
 ## Military FAQ
-
-## (Revised 2/5/02)
 
 There are a variety of military-type characters on Velgarth. The ones we know the most about are the Guard and the Mercenaries.
 

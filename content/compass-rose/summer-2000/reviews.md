@@ -28,7 +28,7 @@ Reviews
 
 **Except as otherwise noted, all reviews in this issue were written by**
 
-[Linda A. Malcor](mailto:Legend@malcor.com), Aliso Viejo, CA
+[Linda A. Malcor](mailto:shashtah@gmail.com), Aliso Viejo, CA
 
 <table class="border-5 cellpadding-2 cellspacing-2" style="width:60%">
 <tr>

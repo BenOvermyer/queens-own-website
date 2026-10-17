@@ -62,7 +62,7 @@ The New Year will be a busy one for you readers; *Stoned Souls* (with Josepha Sh
 
 Also, *Harry Potter and the Half-blood Prince* is due out July 16th. If you pre-order by July 11th through the Dragonlords� Bookstore at [http://www.dragonlordsnet.com/bkjuvhp.htm](https://dragonlords.fans/bkjuvhp.htm), Amazon.com will guarantee delivery on the date of release.
 
-You can now pre-order *The Polar Express* (The Movie) at [http://www.dragonlordsnet.com/bkholiday.htm](https://dragonlords.fans/bkholiday.htm). Please do! I�ve been waiting months for this. The song "Believe" should have an Academy Award, even though it wasn�t nominated. Those of us with kids think the book is fabulous, and the movie was an excellent presentation of the spirit of the book. We couldn�t imagine how anyone would make this into a movie, and they did it so well . . . Please encourage these folks to do more projects of this nature!
+You can now pre-order *The Polar Express* (The Movie) at [http://www.dragonlordsnet.com/bkholiday.htm](https://dragonlords.fans/bkholiday.htm). Please do! I�ve been waiting months for this. The song "Believe" should have an Academy Award, even though it wasn�t nominated. Those of us with kids think the book is fabulous, and the movie was an excellent presentation of the spirit of the book. We couldn�t imagine how anyone would make this into a movie, and they did it so well … Please encourage these folks to do more projects of this nature!
 
 Remember, a portion of all purchases made through the Dragonlords� Bookstore, [http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm), go to support Queen�s Own. This is how we keep our memberships free, so we greatly appreciate your patronage.
 
@@ -78,9 +78,9 @@ Congratulations to Herald Jhenna Leisater on the birth of her daughter, Jessica 
 
 Special thanks to Amber Taufen for her help compiling this edition of the Queen�s Own newsletter! I really appreciate the assistance.
 
-There are all sorts of things that need doing with Queen�s Own. If you have some extra time and would like to volunteer to help out, contact me at [Legend@malcor.com](mailto:Legend@malcor.com).
+There are all sorts of things that need doing with Queen�s Own. If you have some extra time and would like to volunteer to help out, contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
-If you have news of interest to QO members, write to me (Danya) at [Legend@malcor.com](mailto:Legend@malcor.com). I love to hear what�s going on and to announce the milestones in your lives in the QO newsletter. Attended a fandom or related event (a Faire, a Con, somewhere like Medieval Times, visited a special museum or archaeological site, an awards ceremony, took a tour of a press . . . )? Read a good book? Seen a good movie? Write a review! If you have pictures, send those as well! (We are in desperate need of art for the online version of the newsletter. Artists, please send me whatever you have at [Legend@malcor.com](mailto:Legend@malcor.com)! Thanks!)
+If you have news of interest to QO members, write to me (Danya) at [shashtah@gmail.com](mailto:shashtah@gmail.com). I love to hear what�s going on and to announce the milestones in your lives in the QO newsletter. Attended a fandom or related event (a Faire, a Con, somewhere like Medieval Times, visited a special museum or archaeological site, an awards ceremony, took a tour of a press … )? Read a good book? Seen a good movie? Write a review! If you have pictures, send those as well! (We are in desperate need of art for the online version of the newsletter. Artists, please send me whatever you have at [shashtah@gmail.com](mailto:shashtah@gmail.com)! Thanks!)
 
 For our special section this month, here�s my review of Jasper Fforde�s *The Big Over Easy*.
 
@@ -94,11 +94,11 @@ Herald-Mage Adept Danya Winterborn
 
 **Review of The Big Over Easy by Jasper Fforde. New York: Viking, 2005, 383 pages.** Jasper Fforde, the amazingly creative author of the Thursday Next series, inaugurates a new mystery series, the Nursery Crimes. Detective Jack Spratt and his assistant, Mary Mary (yes, she�s quite contrary) investigate the murder of Humpty Dumpty. As usual, Fforde keeps you on your proverbial toes (or perhaps "piggies" would be the better word in this case) with his clever literary references, this time to enough nursery rhymes and fairy tales to give even this folklorist�s memory a decent workout.
 
-This new series seems to be set in the same world as the Thursday Next stories, only this time the detective works for the Nursery Crimes Division (NCD). As in Thursday�s world, literary characters cross over into the "real" world, but the nursery rhyme characters are not always aware that they are from fairy tales and other traditional children�s stories. The greatest detectives in the world belong to the Guild, a body of detectives and Official Sidekicks, inspired by the work of Sherlock Holmes and Watson. Guild detectives have their exploits published in *Amazing Crime Stories*, a serial magazine. These detectives get all the best cases and a lot of other perks. Jack�s wife has nominated him for membership in the Guild, but Jack isn�t sure he really wants to join. He has an uneasy feeling that something is wrong with the Guild, aside from the fact that his former partner, Friedland Chymes, is the number two detective in that organization. Jack would simply rather do good old fashioned detective work . . .
+This new series seems to be set in the same world as the Thursday Next stories, only this time the detective works for the Nursery Crimes Division (NCD). As in Thursday�s world, literary characters cross over into the "real" world, but the nursery rhyme characters are not always aware that they are from fairy tales and other traditional children�s stories. The greatest detectives in the world belong to the Guild, a body of detectives and Official Sidekicks, inspired by the work of Sherlock Holmes and Watson. Guild detectives have their exploits published in *Amazing Crime Stories*, a serial magazine. These detectives get all the best cases and a lot of other perks. Jack�s wife has nominated him for membership in the Guild, but Jack isn�t sure he really wants to join. He has an uneasy feeling that something is wrong with the Guild, aside from the fact that his former partner, Friedland Chymes, is the number two detective in that organization. Jack would simply rather do good old fashioned detective work …
 
 There�s nothing good or old fashioned about the case when Humpty Dumpty turns up in pieces one morning (near a great wall, of course). As head of the NCD, Jack is assigned the case. Together with Mary Mary and an assortment of other misfit crime fighters (including an actual alien), Jack collects clues, follows leads, and tries to piece together the puzzle (which is about as hard to put together as Humpty�s remains). The investigation would be tricky enough without Chymes trying to take the case away from the NCD. Jack has until the Jellyman arrives to dedicate the Sacred Gonga to solve the crime, otherwise the NCD will be disbanded and Chymes will get the case.
 
-If that weren�t enough, Jack�s daughter (one of his five children) is dating his new lodger, Prometheus, and, after a misadventure with some magic beans, his mother now has an enormous beanstalk growing in her backyard . . . *The Big Over Easy* is quite the enjoyable romp for anyone who enjoys folklore and mythology�plus it�s a wonderful detective story. Do treat yourself to this one for some enjoyable summer reading!
+If that weren�t enough, Jack�s daughter (one of his five children) is dating his new lodger, Prometheus, and, after a misadventure with some magic beans, his mother now has an enormous beanstalk growing in her backyard … *The Big Over Easy* is quite the enjoyable romp for anyone who enjoys folklore and mythology�plus it�s a wonderful detective story. Do treat yourself to this one for some enjoyable summer reading!
 
 The Big Over Easy will be released July 25, 2005. You can pre-order this novel and order Jasper Fforde�s other excellent books at http://www.dragonlordsnet.com/bksfjf.htm. (If you aren�t familiar with this author yet, definitely try his works. They are wonderful reads!)
 
@@ -108,7 +108,7 @@ The Big Over Easy will be released July 25, 2005. You can pre-order this novel a
 
 ## Ren Faires:
 
-Here are the Faires we know about for July. Faires are indexed alphabetically by state. Have any information about any other Renaissance Faires in your area? Send it to us at [Legend@malcor.com.](mailto:legend@malcor.com)
+Here are the Faires we know about for July. Faires are indexed alphabetically by state. Have any information about any other Renaissance Faires in your area? Send it to us at [shashtah@gmail.com.](mailto:shashtah@gmail.com)
 
 ### Alaska
 
@@ -228,7 +228,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at ht
 
 ## Conventions:
 
-These are the upcoming cons we know about. Have any information about conventions in your area? Send it to us at [Legend@malcor.com.](mailto:Legend@malcor.com)
+These are the upcoming cons we know about. Have any information about conventions in your area? Send it to us at [shashtah@gmail.com.](mailto:shashtah@gmail.com)
 
 ### California
 
@@ -280,7 +280,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ### Local Chapters:
 
-- **Arrows OnLine:** Contact: Adept Grayfeather k'Varis (Kristi Reed). E-mail: [DragonMamaK@aol.com](mailto:DragonMamaK@aol.com). Arrows OnLine is the AOL chapter of QO. Chats will be held the first and third Wednesdays of each month from 8-10 PM ET. Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions. Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat. As far as instructions on how to get there . . . there are lots of hoops to jump through now. Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there. She's no longer a keyword, but hopefully with more traffic in the future that will change. If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links. The links to the chatroom will be on my "signature" on the boards.
+- **Arrows OnLine:** Contact: Adept Grayfeather k'Varis (Kristi Reed). E-mail: [DragonMamaK@aol.com](mailto:DragonMamaK@aol.com). Arrows OnLine is the AOL chapter of QO. Chats will be held the first and third Wednesdays of each month from 8-10 PM ET. Topics will be posted prior to chat, hopefully as soon as a month in advance for book discussions. Although we have the scheduled chat, the Companion's Grove is open 24/7, and anyone can come in for informal chat. As far as instructions on how to get there … there are lots of hoops to jump through now. Go to the books community, find the message board link, then find the "Author A-Z" message board, and find your way to the Mercedes Lackey boards from there. She's no longer a keyword, but hopefully with more traffic in the future that will change. If you don't want to jump through hoops, you can e-mail me directly, and I'll give you the links. The links to the chatroom will be on my "signature" on the boards.
 - **German Heartstone:** Website: [http://www.heartstone.de](http://www.heartstone.de). Contact: [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de). A new chapter of Queens Qwn FanClub started in Germany for all German-speaking people within a brand new Misty-Fanpage on [http://www.heartstone.de](http://www.heartstone.de)! For more information contact [Sunny@heartstone.de](mailto:Sunny@heartstone.de) or [Shae@heartstone.de](mailto:Shae@heartstone.de).
 - **Sapphire and White:** Editor Ronald Glaser. E-mail: [luckystar@abe.midco.net](mailto:luckystar@abe.midco.net). We want members from all over the United States, but we technically cover the Great Lakes region, including South Dakota, North Dakota, Minnesota, Nebraska and Iowa. Heyla there, everyone! Sapphire and White is looking for people who are interested in Mercedes Lackey and her works such as the Valdemar series and the many other books that she has written. You can contact me for more info at [luckystar@abe.midco.net](mailto:luckystar@abe.midco.net). I hope to have a chat list and maybe a fanzine going soon, but i am looking for submissions for that when it gets up and running.
 - **Valdemar Estate Waystation:** Website: [http://valdemarwaystation.iwarp.com/index.html](http://valdemarwaystation.iwarp.com/index.html). Contact: Herald Lily. E-mail: [Valdemarestatearabians@mugglenet.com](mailto:Valdemarestatearabians@mugglenet.com). Valdemar Estate is looking for members to join. Online is very welcome. The Estate specializes in things of an Equine nature and any queries about our four-legged friends of real or Valdemaran kind are welcome too. We have people here who are able to make or create just about anything you would want. Riding and other training happens at Palamino Reserve in Armadale, at the end of Palamino Place on the 2nd and 4th Saturday of the month at 3pm. Changes in time will be announced on the website. Costume rides are on the 4th Saturday of every even month unless showing. Those wanting sword or archery training need to contact me so that I can either organizes some sessions or redirect you to the appropriate trainers in the area. Horse gear can also be purchased from the Estate by order. E-mail the details of what you are looking for and it can be found.
@@ -326,7 +326,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - CrossGen Comics: Exciting New Fantasy Comic Books. Follow Prince Ethan's adventures the third Wednesday of each month as he gains the powerful sigil and accidentally puts his world on the brink of war. Meridian, on sale the fourth Wednesday of each month, is the fantastic saga of a teenage girl and her plight to save her floating island home. Go to [http://www.crossgen.com](http://www.crossgen.com), or call 1-888-COMICBOOK for details on a retail location near you.
 - Tanya Huff: **Nine Above!** is a list for fans of author Tanya Huff. This list provides announcements about Tanya's latest work, publication dates, and personal appearances. NA! also provides a forum for Tanya's fans to communicate with each other, and will have discussion as well as announcements. Lurking is fine, but participation is encouraged. When you join, we'd love for you to send a "hello" to the group at large, telling us who you are! To start sending messages to members of this group, simply send email to [nineabove@egroups.com](mailto:nineabove@egroups.com).
-- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [Legend@malcor.com](mailto:Legend@malcor.com).
+- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - Adrian Paul of Highlander: **Peace,**APFC P.O. Box 4593, North Hollywood, CA 91617 or **Peace,**APFC P.O. Box 519, Broley, Kent, BR29WX, England.
 - Michael Praed: *Michael Praed Network Newsletter*, c/o Kate Raymond, P.O. Box 516, Midlotioan, IL 60445.
 - Melanie Rawn: **Pandemonium**- The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira, P.O. Box 18A146 , Los Angeles, CA 90018.
@@ -342,15 +342,15 @@ We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercena
 
 You need a release form (online at [Release form instructions](/release-form-instructions/)) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. Do NOT include the *original* of the release form with your persona material; send it to Misty. Send a *copy* to us.
 
-All personae materials should be sent to the QO address or submitted by e-mail to [Legend@malcor.com](mailto:Legend@malcor.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
+All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
 - **Court Musician Bard Marsaya**, who was accepted in the [December 2004](/newsletters/2004/december/) QO newsletter, has completed the work for her persona. Marsaya is Gifted with Bardic, Talent and Creativity. *Elizabeth Davis* wrote about Marsaya and her family and friends, composed a song, learned to play a musical instrument, performs regularly, and wrote a story.
 
-We have no new personae to announce this month, but several people are very close to completion. If you were working on a persona who is no longer listed at [Club chat guidance](/club-chat/) that means we have not heard from you in over a year. To revive your persona, simply message Danya at [Legend@malcor.com](mailto:Legend@malcor.com) and tell her that your persona is in "Deep Storage." She will pull it out for you and reactivate your submission.
+We have no new personae to announce this month, but several people are very close to completion. If you were working on a persona who is no longer listed at [Club chat guidance](/club-chat/) that means we have not heard from you in over a year. To revive your persona, simply message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) and tell her that your persona is in "Deep Storage." She will pull it out for you and reactivate your submission.
 
-If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [Legend@malcor.com](mailto:Legend@malcor.com), and she�ll make sure you are greeted in the next newsletter.
+If you are a returning member who has recently activated your membership in Queen�s Own and we have forgotten to list you, message Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she�ll make sure you are greeted in the next newsletter.
 
-### Lost . . .
+### Lost …
 
 One of the challenges running an online club is that people don�t always leave a forwarding address when they move &lt;g>. We are missing current e-mail addresses for the following members:
 
@@ -388,7 +388,7 @@ One of the challenges running an online club is that people don�t always leave
 - Tayledras Scout Skyfire k�Chona (logroth@hotmail.com)
 - White Winds Sorceress Cime Shadow Weaver (cimeshadow@aol.com)
 
-If you know any of these folks, please have them contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com) with a current e-mail address.
+If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
 <img alt="Moonstar by Laura Cameron" class="border-5 float-left" loading="lazy" src="/moonstar1.jpg"/>
 
@@ -409,7 +409,7 @@ Moonstar
 - **From Ellen Million:** Not only is Ellen Million Graphics still around (ten years last October!), but I now offer an array of gorgeous new work by new artists, on many new products (including t-shirts!) and a brand new character portrait service. Ordering is available on-line or by snail mail: [http://www.ellenmilliongraphics.com](http://www.ellenmilliongraphics.com). I'd also love to get back in touch with lost penpals! (Use the contact form on the website to avoid death-by-spam-filters!)
 - **From Herald Valana Dorrandale/Rachel Valentine:** 21-year-old college student needs relief from mundania! I enjoy Misty, Anne Rice, Mickey Zucker Riechert, Robert Jordan, Fiona Patton, Tanya Huff, C.S. Friedman etc. B5, Star Trek, Star Wars, Highlander, LOTR,all kinds of music, scaly and furry animals, Garfield, writing, drawing, singing, playing guitar, horseback riding, traveling and much more. Do you like this stuff?? Write me! **TO: Robin S., Bess H., Bard Shiana, Harold P.:** Are you all still QO members?? Please write me; I've missed you guys! E-mail: [raeval23@yahoo.com](mailto:raeval23@yahoo.com).
 - **From White Winds Sorceress Cime Shadow Weaver. To All.** Shadows of Goddess is now an online store. I offer 10 % discount to Queen�s Own members. Be sure to tell me you are though. (:) I offer new items weekly. [http://www.ebaystores.com/shadowsofthegoddess](http://www.ebaystores.com/shadowsofthegoddess). My e-mail address is [cimeshadow@aol.com](mailto:cimeshadow@aol.com).
-- **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [Legend@malcor.com](mailto:Legend@malcor.com)? Thanks!
+- **From Herald-Mage Danya. To: All. Re: Cookbook.** If you've read my persona submission in CoV, you know that I like making up medieval-style recipes. I'm thinking about compiling a cookbook based on meals that Misty describes in the Velgarth series. If anyone is currently reading the books, could you note the book and page any food items are mentioned on and send them to me at [shashtah@gmail.com](mailto:shashtah@gmail.com)? Thanks!
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
@@ -417,9 +417,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-The featured artists for this newsletter are [Laura Cameron](mailto:anjakiya@hotmail.com) and [Devin Harris](mailto:devin@greendragonpress.net). All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+The featured artists for this newsletter are [Laura Cameron](mailto:anjakiya@hotmail.com) and [Devin Harris](mailto:devin@greendragonpress.net). All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

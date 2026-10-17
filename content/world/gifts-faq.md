@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/gifts-faq/"
+revised = "2/7/02"
 +++
 
 ## Gifts FAQ
-
-## (Revised 2/7/02)
 
 People often ask what characters with the various Gifts are capable of doing. Here are the known Gifts and what they do:
 

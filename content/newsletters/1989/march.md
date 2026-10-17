@@ -36,7 +36,7 @@ Thank you, each and every one, who've recently written your thanks to us. We are
 
 Thanks also for your input. You'll note that we have a whole page of fanmessages, with requests for everything from silver bells to [no, not cockle shells,] dreamers; a new category, "CON-NOTES"; some mini-reviews; and a letter from Misty!
 
-For those of you who have/had difficulty getting Misty's books, can no longer find earlier editions, or want to get them 'hot off the press', we want to remind you that [Firebird Arts and Music](http://firebirdarts.com/), Inc., [formerly Off Centaur,] [Ed. Note 2002: out-of-date address withheld. Use the link.] has all her books, a map of the Kingdom of Valdemar, and her tapes. There is a shipping and handling charge, but if you're desperate . . . .
+For those of you who have/had difficulty getting Misty's books, can no longer find earlier editions, or want to get them 'hot off the press', we want to remind you that [Firebird Arts and Music](http://firebirdarts.com/), Inc., [formerly Off Centaur,] [Ed. Note 2002: out-of-date address withheld. Use the link.] has all her books, a map of the Kingdom of Valdemar, and her tapes. There is a shipping and handling charge, but if you're desperate … .
 
 We are working on a suggestion from Dan Moser, [seconded by Judith,] for a button to wear at cons, and other appropriate places, identifying us as members of QO. We've sent the rough draft of an idea to Misty for her comments and will keep you apprised of our progress.
 
@@ -48,13 +48,13 @@ To date, we've received three ideas for the name of Holly Vaughan Williams' Illi
 
 Lynne also wrote that she'd tried "the" recipe, and "the popcorn was wonderful". So take your bows, Misty and Sue Beech! Further, Lynne offered another definition for the term "filk" "I thought that 'filk' was a combination of 'folk' and 'filch', meaning 'to steal'. So many of the tunes are 'borrowed.'" [Editor's Note: All of you who are or know filkers who write music, relax! Lynne's not pointing any fingers and neither are we.]
 
-And Maureen wrote of Misty's story in FRIENDS OF THE HORSECLANS 2, "The Enemy of My Enemy", "I don't know much about the Horseclans, but fortunately this story is about the few gypsies who survive in their world . . . also two psychic big cats of some kind [belonging to the Horseclans] and lots of psychic Rom horses. The colt Pika is delightful! The two main characters are Kevin, the mayor and blacksmith of a small town the Rom are visiting, and Chali, a Rom girl who, despite muteness, *cannot* be described as handicapped! . . . This story has everything . . . But be warned--it reads fast." [Editor's Comment: The good ones always do.]
+And Maureen wrote of Misty's story in FRIENDS OF THE HORSECLANS 2, "The Enemy of My Enemy", "I don't know much about the Horseclans, but fortunately this story is about the few gypsies who survive in their world … also two psychic big cats of some kind [belonging to the Horseclans] and lots of psychic Rom horses. The colt Pika is delightful! The two main characters are Kevin, the mayor and blacksmith of a small town the Rom are visiting, and Chali, a Rom girl who, despite muteness, *cannot* be described as handicapped! … This story has everything … But be warned--it reads fast." [Editor's Comment: The good ones always do.]
 
 We'd like to add that anyone who has ever felt like a misfit adolescent, [at whatever age,] will want to hug Misty's "Were-Hunter", in TALES OF THE WITCH WORLD I, created by Andre Norton, to his/her heart. And while Ms. Norton has diplomatically arranged her guest authors in alphabetical order, Misty's story follows another were-tale [Is that a pun, Judith?] most serendipitously.
 
-*Yes!* Just finished reading BURNING WATER, [at 2:30 a.m.,] and were overwhelmed. We'd never read a "horror" story before, [due to an overactive imagination and tendency to relive scary stuff in our dreams as a kid.] But this, this was *great*! And what a change of pace for our favorite author! It took an incredible amount of research to achieve such doubts at all that TOR too will want *more*; certainly "A Diana Tregarde Investigation", [at the bottom of the cover,] promises more to *our* way of thinking. Read and enjoy, regardless of . . .
+*Yes!* Just finished reading BURNING WATER, [at 2:30 a.m.,] and were overwhelmed. We'd never read a "horror" story before, [due to an overactive imagination and tendency to relive scary stuff in our dreams as a kid.] But this, this was *great*! And what a change of pace for our favorite author! It took an incredible amount of research to achieve such doubts at all that TOR too will want *more*; certainly "A Diana Tregarde Investigation", [at the bottom of the cover,] promises more to *our* way of thinking. Read and enjoy, regardless of …
 
-In the March LOCUS, "Reviews by Tom Whitmore", [Editor's Note: And I thought we had trouble reproducing pictures,] Mr. Whitmore "quibbles" [his own word] with Misty's characterizations of Crowletites, "I have known some quite nice . . . . ", and her insistence with "making the magic pyrotechnic". It seems that Mr. Whitmore had to dig deeply for those nit-picks, and could better have filled the last two inches of space required of him with something besides a review of a '50s movie, loosely tied to his "review" of BURNING WATER.
+In the March LOCUS, "Reviews by Tom Whitmore", [Editor's Note: And I thought we had trouble reproducing pictures,] Mr. Whitmore "quibbles" [his own word] with Misty's characterizations of Crowletites, "I have known some quite nice … . ", and her insistence with "making the magic pyrotechnic". It seems that Mr. Whitmore had to dig deeply for those nit-picks, and could better have filled the last two inches of space required of him with something besides a review of a '50s movie, loosely tied to his "review" of BURNING WATER.
 
 ## Con-Notes
 
@@ -112,9 +112,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no art in this edition of the newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no art in this edition of the newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

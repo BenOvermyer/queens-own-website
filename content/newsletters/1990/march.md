@@ -36,7 +36,7 @@ Please accept my heartfelt apologies for the lateness of this issue. Circumstanc
 
 I must also ask your indulgence should there be an abnormal number of typographical errors and/or omissions. Under more normal circumstances I would have taken more time to check and double-check.
 
-**MORE HERALDS HAVE JOINED OUR RANKS!** Judith and I continue to be delighted and amazed by the imagination and *talent* displayed in the material we've been sent. I am also *very* complimented that we have been allowed to share what for many of our Heralds are their first non-school related efforts at fiction writing. Some of you have asked, "What now?" Now, dear hearts, you *fly*! You've taken the first, and hardest, step. Offering your work to zines like those of Stephanie and Nathan [also referred to as R. Nathanie] will further try you wings. And now it gives me great pleasure to introduce . . .
+**MORE HERALDS HAVE JOINED OUR RANKS!** Judith and I continue to be delighted and amazed by the imagination and *talent* displayed in the material we've been sent. I am also *very* complimented that we have been allowed to share what for many of our Heralds are their first non-school related efforts at fiction writing. Some of you have asked, "What now?" Now, dear hearts, you *fly*! You've taken the first, and hardest, step. Offering your work to zines like those of Stephanie and Nathan [also referred to as R. Nathanie] will further try you wings. And now it gives me great pleasure to introduce …
 
 - **MELISSA CARUSO**, to be hereinafter known as **Herald Kyria**, who sent us her persona and support characters material in addition to drawings of Kyria and a friend. She was Chosen by the stallion Evantior, and her Gifts are those of Mindspeech, Fetching, and Farsight.
 - **KAY DARBY**, to be hereinafter known as **Herald Reyalla Kendalson**, who wrote about her persona and support characters, drew a map of the community in which her persona grew up and portraits of Teyalla and her Companion. She was Chosen by Trinn, and her Gift is that of Empathy, with some ability at projection.
@@ -56,7 +56,7 @@ I must also ask your indulgence should there be an abnormal number of typographi
 
 **LEST I FORGET,** Elsie also sent, "A warm hug to all Misty fans!" [You can add Judith's and mine to that one and consider yourselves well appreciated!]
 
-The February issue of LOCUS, in "Short Reviews" by Scott Winnett, included comments on MZB's DOMAINS OF DARKOVER, due out this month, an original anthology of 17 stories; "These are more of the usual fare, but two are standouts: 'An Object Lesson' by Mercedes Lackey is one of the best Free Amazon tales I've ever read . . . " So there you are, children, another Misty read while waiting for MAGIC'S PRICE. It should help stave off Misty withdrawal pangs.
+The February issue of LOCUS, in "Short Reviews" by Scott Winnett, included comments on MZB's DOMAINS OF DARKOVER, due out this month, an original anthology of 17 stories; "These are more of the usual fare, but two are standouts: 'An Object Lesson' by Mercedes Lackey is one of the best Free Amazon tales I've ever read … " So there you are, children, another Misty read while waiting for MAGIC'S PRICE. It should help stave off Misty withdrawal pangs.
 
 CHRIS JOHNSON, as mentioned in [February's issue](/newsletters/1990/february/), has come through with what we believe to be an *incredible* consolidation and clarification of those criteria we are using for becoming a Herald! After an exchange of letters and telephone calls, Chris sent me, by *Express Mail*, [THE HELPFUL HANDOUT OF HOW TO BECOME A HERALD](/herald-handout/). It is a model of clarity and brevity, [and a copy may be obtained by sending Judith your request along with a SASE.]
 
@@ -68,7 +68,7 @@ Nancy Sloop wrote, on behalf of herself and daughter Ginny. "We are really looki
 
 Judith and I once again thank Chris for making the difficult look easy, and point out that this is what Caroline and Christa have done as well. I would hopt that if you too like and appreciate what they've done you'll let *them* know, as you have us. It's very rewarding when someone ways "thank you," "well done," or "I like what you've done." [Almost as good as a hug.]
 
-**SPEAKING OF FEED-BACK**, a number of you have been good enough to write that you not only don't think dues are a bad idea, you think they're a *good* idea. Some of you even suggested that we should have asked for dues some time ago. To that I can only reply that it takes some of us a little longer . . . .
+**SPEAKING OF FEED-BACK**, a number of you have been good enough to write that you not only don't think dues are a bad idea, you think they're a *good* idea. Some of you even suggested that we should have asked for dues some time ago. To that I can only reply that it takes some of us a little longer … .
 
 **A QUICK THANK YOU** to those who sent us St. Patrick's Day cards. It's one of those times when the unexpected elicits a smile.
 
@@ -76,7 +76,7 @@ Judith and I once again thank Chris for making the difficult look easy, and poin
 
 It seems that it is time for another reminder that Judith and I, with occasional help from her friends with the mailing of the fanletter, *are* Queen's Own. There is no *staff* and *we* aren't staff--no one, neither Misty nor DAW Books, Inc., pays us. To date the cost to *us* has not been covered, even with some of the generous contributions many of you have sent--for [February's issue](/newsletters/1990/february/) alone, ± 2,000 sheets of paper, ±500 envelopes, ±500 mailing labels, xerox machine supplies, not to mention Post Office Box rent, etc.
 
-To contribute not just the cost of the newsletter *but the time involved* has become a major consideration. To have it suggested that Judith might tamper with Misty's *private* [which would not only be rude but is a Federal offense] is *totally* uncalled for and I would suggest that the person responsible not only owes her 65¢ but an abject apology as well, anonymously or otherwise. To more pleasant things . . .
+To contribute not just the cost of the newsletter *but the time involved* has become a major consideration. To have it suggested that Judith might tamper with Misty's *private* [which would not only be rude but is a Federal offense] is *totally* uncalled for and I would suggest that the person responsible not only owes her 65¢ but an abject apology as well, anonymously or otherwise. To more pleasant things …
 
 Natasha Wendt wrote Judith to add to the information Patrick McKinnion offered on white breeches. The three businesses which are listed offer catalogs for about $2, and "are chock full of horse stuff." She has also, bless her, included some price rances.
 
@@ -90,7 +90,7 @@ Continuing the spirit of caring and sharing, Pamela Sayre reminded us that Misty
 
 Stephanie writes, "I've come to slowly realize that the existing guidelines for ARROW'S MESSAGE are much too harsh and unreasonable. After taking a different point of view, I've written a new and more lenient set of guidelines. For those poor souls who were unfortunate enough to read the previous ones, my fervent apologies. Please write again for the new set.
 
-"For those of you who have dabbled (if not more than dabbled) in Misty's world, especially those who are currently working on your personas, please write also. I would like to print your accomplishments int he zine and share them with the rest of us Misty fans. The zine's purpose is to further our love for Misty's work through our own creations . . . . "
+"For those of you who have dabbled (if not more than dabbled) in Misty's world, especially those who are currently working on your personas, please write also. I would like to print your accomplishments int he zine and share them with the rest of us Misty fans. The zine's purpose is to further our love for Misty's work through our own creations … . "
 
 The first 12 page "mini-zine" edition of ARROW'S MESSAGE will have come "hot off the press" by the time this reaches you. Judith and I regret that we weren't able to tell you sooner, as Stephanie had asked Judith to let you know so that you could order by March 21, but normally I start the final draft of each month's issue about mid-month, thereby allowing Judith at least two weekends for the copying and mailing processes, and this month I took even longer unfortunately.
 
@@ -116,11 +116,11 @@ If you are interested, please do her the courtesy of sending her not only a SASE
 
 We don't think Christa will mind if we also mention a note in the February-MArch issue of Arrow that Patricia Riggs is putting together a list of all fan clubs and groups that would interest Queen's Own members--such as author fans clubs, SCA groups, gaming groups, etc. If you have any group or club you think should be included, send the information to Christa or Patricia Riggs [Ed. Note 2002: Address withheld.].
 
-I know that in the [February](/newsletters/1990/february/) issue I declared the subject of how one describes oneself closed, but I ask your indulgence for including the following . . .
+I know that in the [February](/newsletters/1990/february/) issue I declared the subject of how one describes oneself closed, but I ask your indulgence for including the following …
 
-From Nancy Sloop, who wrote, "If the world is told too often how insane, crazy, weird, etc., a person is because h/she feels they don't htink or act like the people immediately surrounding them, some day h/she may wake up to find the world believed them and there may be unpleasant consequences. *It could become a self-fulfilling prophecy.* Besides, if seems almost a *mockery* of those who really do have mental problems to describe yourself as insane when it's only a matter of loving science fiction/fantasy, or *anything* not necessarily main-stream . . . After all, if *you* don't think well of yourself, *why* should anyone else?" I added the emphasis in italics with the hope that Nancy won't mind. And thank her for her comments.
+From Nancy Sloop, who wrote, "If the world is told too often how insane, crazy, weird, etc., a person is because h/she feels they don't htink or act like the people immediately surrounding them, some day h/she may wake up to find the world believed them and there may be unpleasant consequences. *It could become a self-fulfilling prophecy.* Besides, if seems almost a *mockery* of those who really do have mental problems to describe yourself as insane when it's only a matter of loving science fiction/fantasy, or *anything* not necessarily main-stream … After all, if *you* don't think well of yourself, *why* should anyone else?" I added the emphasis in italics with the hope that Nancy won't mind. And thank her for her comments.
 
-Vicki Stephens included the following in a letter to Judith . . .
+Vicki Stephens included the following in a letter to Judith …
 
 *We are measured Not by what we are, But by the perception Of what se seem to be; Not by what we say, But how we are heard; Not by what we do, but How we appear to do it.*
 
@@ -146,9 +146,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no art for this edition of the newsletter. If you have a clue who they were, please contact Herald-Mage Adept Danya at [Legend@malcor.com](mailto:Legend@malcor.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no art for this edition of the newsletter. If you have a clue who they were, please contact Herald-Mage Adept Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

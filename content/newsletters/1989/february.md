@@ -32,11 +32,11 @@ Dear Misty fans:
 
 Happy Valentines Day!
 
-Have we told you lately that we love you!?! We do. If you weren't such a wonderful, sharing, caring, fun-loving group of disparate individuals, we wouldn't be doing this. The chord Misty struck in each of us . . . well, you know what we mean.
+Have we told you lately that we love you!?! We do. If you weren't such a wonderful, sharing, caring, fun-loving group of disparate individuals, we wouldn't be doing this. The chord Misty struck in each of us … well, you know what we mean.
 
 Jusith asks those of you whose letters she's not answered yet to please be patient. She *will* get back to you. It's just that recently the real world has demanded even more of her time and energy than usual.
 
-**IMPORTANT REMINDERS:** (1) If you *don't* want your name included on the next updated, penpal list you must let Judith know. Otherwise it's automatic. [Editor's Kudo: The logo on the most recent list is courtesy of Patrick Petty.] and, (2), if you haven't sent stamps, ¢¢ or $$ recently, and you want to continue to receive the fanletters . . . . Most of you have been very conscientious, but some have been a wee bit forgetful. It's 25¢ for US and APO addresses and US39¢ for overseas addresses.
+**IMPORTANT REMINDERS:** (1) If you *don't* want your name included on the next updated, penpal list you must let Judith know. Otherwise it's automatic. [Editor's Kudo: The logo on the most recent list is courtesy of Patrick Petty.] and, (2), if you haven't sent stamps, ¢¢ or $$ recently, and you want to continue to receive the fanletters … . Most of you have been very conscientious, but some have been a wee bit forgetful. It's 25¢ for US and APO addresses and US39¢ for overseas addresses.
 
 **Questions Answered:** For those of you who've asked for the definition of "filk", [Editor's Note: Bless you, we thought we were the only ones who didn't know!] the one we like best is that it grew out of a typographical error of "folk".&#42; [Ed. Note 2002: Upside Down Note at bottom of page: &#42;(Our typos should be so interesting!).
 
@@ -68,13 +68,13 @@ Remove honey and sugar syrup from the heat and add the peanut butter and vanilla
 
 Put the empty syrup pan into hot, soapy water immediately, before it sets, and enjoy.
 
-**Misty writes**: "CHILDREN OF THE NIGHT is done, complete with the victim you [Editor's Note: Heh, heh, heh . . . . ] requested/ Feels solid . . . I start MAGIC'S PROMISE revisions next, which shouldn't take long. Turned MAGIC'S PAWN galleys in . . . PAWN is scheduled for June, PROMISE for January 1990 and PRICE for June 1990 . . .
+**Misty writes**: "CHILDREN OF THE NIGHT is done, complete with the victim you [Editor's Note: Heh, heh, heh … . ] requested/ Feels solid … I start MAGIC'S PROMISE revisions next, which shouldn't take long. Turned MAGIC'S PAWN galleys in … PAWN is scheduled for June, PROMISE for January 1990 and PRICE for June 1990 …
 
-"I turned in my BLOOD OF TEN CHIEFS story . . . but haven't heard anything yet.
+"I turned in my BLOOD OF TEN CHIEFS story … but haven't heard anything yet.
 
-". . . about keeping you up to date. When *I* get release dates I let you know, honest. . . . the WITCHWORLD story . . . has been out for *ages* but only in hardcover. *I* didn't know it was out in paper until my copy arrived yesterday. They don't always tell *me* these things. They're reprinting the MAGIC IN ITHKAR books in paperback size, so I suspect my Ithkar story will show up some time in the next year also, [it's in MAGIC IN ITHKAR 3.]
+"… about keeping you up to date. When *I* get release dates I let you know, honest… . the WITCHWORLD story … has been out for *ages* but only in hardcover. *I* didn't know it was out in paper until my copy arrived yesterday. They don't always tell *me* these things. They're reprinting the MAGIC IN ITHKAR books in paperback size, so I suspect my Ithkar story will show up some time in the next year also, [it's in MAGIC IN ITHKAR 3.]
 
-"Long since paid for, but still not in print: stories in FRIENDS OF THE HORSE CLANS 2, CATS FANTASTIC, BLOOD OF TEN CHIEFS 3, MEROVINGEN NIGHTS: BODY POITIC. I have no release dates on any of those . . . Forgot one: FRIENDS OF DARKOVER ANTHOLOGY . . . "Short-story-wise. I'm promised to do my annual SWORD AND SORCERESS story, MEROVINGEN NIGHTS: FLOOD TIME, and if Susan Shwartz gets another ARABIAN NIGHTS contract, one of those. That's basically it." [Editor's Note: Lots to look and wait for! Thanks, Misty!!]
+"Long since paid for, but still not in print: stories in FRIENDS OF THE HORSE CLANS 2, CATS FANTASTIC, BLOOD OF TEN CHIEFS 3, MEROVINGEN NIGHTS: BODY POITIC. I have no release dates on any of those … Forgot one: FRIENDS OF DARKOVER ANTHOLOGY … "Short-story-wise. I'm promised to do my annual SWORD AND SORCERESS story, MEROVINGEN NIGHTS: FLOOD TIME, and if Susan Shwartz gets another ARABIAN NIGHTS contract, one of those. That's basically it." [Editor's Note: Lots to look and wait for! Thanks, Misty!!]
 
 ## Fanmessages
 
@@ -98,9 +98,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no art in this edition of the newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no art in this edition of the newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

@@ -44,11 +44,11 @@ Here's news from Baen Books on books to come later this year:
 <dt><i>March 1992</i>     <b>BORN TO RUN</b>--Mercedes Lackey &amp; Larry Dixon</dt>
 <dd>"<b>Born to Run</b> is the first of the SERRAted Edge series of novels (SERRA stands for the South Eastern Road Racing Association that the elves and humans have formed).  Each novel will take on some aspect of trouble that kids these days are facing, <i>and we will be running hotline numbers at the back of each novel so that real children in peril will be able to do something to help themselves.</i>  In <b>Born to Run</b> the problem is that of kids on the streets, runaways.  In <b>Wheels of Fire</b> (Misty and Mark Shepherd, October 1992) the issue is kidnappingg--missing children and cults; in <b>When the Bough Breaks</b> (Misty &amp; Holly Lisle, January 1993) the authors dissect child abuse.
 <p>
-"There are elves out there.  And more are coming.  But even elves need money to survive in the 'real' world.  The good elves in South Carolina, intrigued by the thrills of stock car racing, are manufacturing new, light-weight engines (with, incidentally, very little 'cold' iron); the bad elves run a kiddie-porn and nuff-film ring, with occasional forays into drugs.  Caught in the middle of an ages old vendetta are good kids already in serious trouble and about to get into more . . . Children in Peril--Elves to the Rescue."
+"There are elves out there.  And more are coming.  But even elves need money to survive in the 'real' world.  The good elves in South Carolina, intrigued by the thrills of stock car racing, are manufacturing new, light-weight engines (with, incidentally, very little 'cold' iron); the bad elves run a kiddie-porn and nuff-film ring, with occasional forays into drugs.  Caught in the middle of an ages old vendetta are good kids already in serious trouble and about to get into more … Children in Peril--Elves to the Rescue."
 </p><p class="align-right">72110-0 *352 pages* $4.99
 </p><p class="align-left"></p></dd>
 <dt><i>June 1</i>     <b>SUMMONED TO TOURNEY</b>--Mercedes Lackey &amp; Ellen Guon</dt>
-<dd>"You wrote and asked for it, here it is:  the sequel to <b>Knight of Ghosts and Shadows</b>!  Elves in San Francisco?  Where else would an elf go when L.A. got too hot?  All is well there with our elf-lord, his human companion and the mage who brought them all together--until it turns out that San Francisco is doomed to fall off the face of the continent.  Doomed, that is, unless our mage can summon the Nightflyers, the soul devouring shadow creatures from the dreaming world--creatures no one on earth could possibly control . . . (Set in the same world as the SERRATED Edge series, but featuring a different enclave of elves.)"
+<dd>"You wrote and asked for it, here it is:  the sequel to <b>Knight of Ghosts and Shadows</b>!  Elves in San Francisco?  Where else would an elf go when L.A. got too hot?  All is well there with our elf-lord, his human companion and the mage who brought them all together--until it turns out that San Francisco is doomed to fall off the face of the continent.  Doomed, that is, unless our mage can summon the Nightflyers, the soul devouring shadow creatures from the dreaming world--creatures no one on earth could possibly control … (Set in the same world as the SERRATED Edge series, but featuring a different enclave of elves.)"
 <p class="align-right">72122-4 *320 pages* $4.99
 </p><p class="align-left"></p></dd>
 <dt><i>August 1992</i>     <b>THE SHIP WHO SEARCHED</b>--Anne McCaffrey &amp; Mercedes Lackey</dt>
@@ -103,11 +103,11 @@ Greetings! We are now forming a chpater for those of us in the middle of the Sta
 
 Pitssburgh area filkers and Misty fen: We are trying to start some kind of organized filking here. If you'd like to get involved, write to [Ed. note 2003: Out-of-date information withheld.].
 
-From *Julie & Dan Bowen*, [Ed. note 2003: Out-of-date information withheld.]: "We have decided to quit Queen's Own and Haven Sent . . . We hate to leave this group hanging--so I hope someone will step in quickly and take over editorship. The only qualifications needed are time and caring." Contact Julie if you are interested in heading the Texas chapter.
+From *Julie & Dan Bowen*, [Ed. note 2003: Out-of-date information withheld.]: "We have decided to quit Queen's Own and Haven Sent … We hate to leave this group hanging--so I hope someone will step in quickly and take over editorship. The only qualifications needed are time and caring." Contact Julie if you are interested in heading the Texas chapter.
 
-To musicians, poets, anyone suspecting (or wishing for) a touch of the Bardic gift, an organization of would-be Bards has been established by *Jennifer Mulvihill*, [Ed. note 2003: Out-of-date information withheld.]. Bardic Collegium welcomes Guild members, free bards, buskers, minstrels, entertainers, songwriters . . . For guidelines for the Collegium newsletter, *The Minstrel*, and/or information on Bardic Collegium, write to Jennifer.
+To musicians, poets, anyone suspecting (or wishing for) a touch of the Bardic gift, an organization of would-be Bards has been established by *Jennifer Mulvihill*, [Ed. note 2003: Out-of-date information withheld.]. Bardic Collegium welcomes Guild members, free bards, buskers, minstrels, entertainers, songwriters … For guidelines for the Collegium newsletter, *The Minstrel*, and/or information on Bardic Collegium, write to Jennifer.
 
-Librarian *Mary K. Chelton* is compiling a list called "If you like Mercedes Lackey, try these . . . " What authors do you look for when you've read all of Misty's work? Send the names of three authors with favorite titles on a postcard to [Ed. note 2003: Out-of-date information withheld.].
+Librarian *Mary K. Chelton* is compiling a list called "If you like Mercedes Lackey, try these … " What authors do you look for when you've read all of Misty's work? Send the names of three authors with favorite titles on a postcard to [Ed. note 2003: Out-of-date information withheld.].
 
 "The Dragon roars and the Knight cowers back in fear. 'Read me a story!' he thunders, puffs of smoke coming from his nostrils. 'Do not fear, my love! I shall save you!' Racing across the mounds of gold comes the fair maiden, skirts hiked high, sword in hand. Who shall win? Dragon or Damsel in distress? Tune in next time for the first issue of **The Storyteller**! Guidelines are yours for a SASE from [Ed. note 2003: Out-of-date information withheld.]. This narration hath been given by Archangel--who needs help. Send in your work!"
 
@@ -123,7 +123,7 @@ Librarian *Mary K. Chelton* is compiling a list called "If you like Mercedes Lac
 
 ## Collegium News:
 
-Those QO members whose names are listed here have fulfilled the requirements for becoming a Herald. If you are interested in joining their ranks, [Ed. note 2003: Out-of-date information withheld. Visit [Persona handouts and submission instructions](/persona-handouts/) for the current instructions.]. (Yes, Collegium members, you **will** receive the promised certificate some day. [Ed. note 2003: If you are a member who did receive one of those certificates, could you please send us the scanned image as a .jpg at [Legend@malcor.com](mailto:Legend@malcor.com) or as a photocopy to the QO PO Box, which is listed below? We'd love to revive this tradition, but we've never seen what the certificates looked like!])
+Those QO members whose names are listed here have fulfilled the requirements for becoming a Herald. If you are interested in joining their ranks, [Ed. note 2003: Out-of-date information withheld. Visit [Persona handouts and submission instructions](/persona-handouts/) for the current instructions.]. (Yes, Collegium members, you **will** receive the promised certificate some day. [Ed. note 2003: If you are a member who did receive one of those certificates, could you please send us the scanned image as a .jpg at [shashtah@gmail.com](mailto:shashtah@gmail.com) or as a photocopy to the QO PO Box, which is listed below? We'd love to revive this tradition, but we've never seen what the certificates looked like!])
 
 Welcome, **Herald Naire**, Chosen by Chisel and gifted with strong Farsight and "a gant's sneeze worth of Foresight." *Samantha Kunz* sent information on Naire and her family, a story and a recipe.
 
@@ -155,7 +155,7 @@ Remember, the "pay" of a fan message is that you write to someone who has placed
 
 I don't think it's a secret that I frequently (but unintentionally, honest) make mistakes in zip codes. Any zip code I've printed with four or six numbers is obviously wrong and can be checked at your post office. Unfortunately, I also transpose, scramble, and seemingly even create 5-number zips that look quite normal. Sorry 'bout that. As I said, it's quite unintentional. I do try to put out a mistake-free newsletter.
 
-Having said my piece, here is Jennifer Wilson's fan messages from last issue, printed this time with the correct zip code . . .
+Having said my piece, here is Jennifer Wilson's fan messages from last issue, printed this time with the correct zip code …
 
 [Ed. Note 2003: Fan messages are not being posted online because of the personal information they contained.]
 
@@ -198,7 +198,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

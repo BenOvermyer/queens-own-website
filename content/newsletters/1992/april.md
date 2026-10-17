@@ -32,7 +32,7 @@ Mercedes Lackey Fan Club
 
 Three new collaborations will be available from Misty this summer. In June, *Summoned to Tourney*, written with Ellen Guon, brings us further adventures of Kory, Eric and Beth. *Castle of Deception*, coming in July, is co-authored by Josepha Sherman. *Castle* is set in the same literary universe as the computer adventure, *The Bard's Tale IV*. In conjunction with the book will be a new video game from Nintendo, a board game and lead miniatures. Then in August, *The Ship Who Searched*, writteb by Misty and Anne McCaffrey.
 
-Have you read *Born to Run* yet? Scott Winnett is his review in LOCUS says, "Lackey's latest series (this first book a collaboration with her husabned) is one of her rollicking action comedies, a story of elves crossing into our world and finding lifestyles they enjoy . . . Lackey and Dixon do a good job with this kind of world, where the fantastic intrudes into the dirty everyday lives of desperate people, just a trick away from being ont he street. The comedy is clever, the characters strong, and there is easily enough here to make a nice series. As with any book Lackey works on, the principal joy is the story; she sweeps you along and never lets you go." (Hooray! The contract has been signed for two more Tannim novels.)
+Have you read *Born to Run* yet? Scott Winnett is his review in LOCUS says, "Lackey's latest series (this first book a collaboration with her husabned) is one of her rollicking action comedies, a story of elves crossing into our world and finding lifestyles they enjoy … Lackey and Dixon do a good job with this kind of world, where the fantastic intrudes into the dirty everyday lives of desperate people, just a trick away from being ont he street. The comedy is clever, the characters strong, and there is easily enough here to make a nice series. As with any book Lackey works on, the principal joy is the story; she sweeps you along and never lets you go." (Hooray! The contract has been signed for two more Tannim novels.)
 
 Re Tannim's bed in *Born to Run*: The bed actually exists, says Larry ruefully. The difference is that Tannim bought it and he, to his regret, didn't. At the time, there just wasn't any place to put it! Oh yes--Tiger Balm actually exists also. It is a wonderfully soothing and aromatic salce, but WASH YOUR HANDS CAREFULLY agter using it! It stings in the eyes and other sensitive places.
 
@@ -54,7 +54,7 @@ To those of you who enjoy communicating via computer, are you aware that Prodigy
 
 Misty asks that you not discuss her universes on Prodigy. Because it is a publishing service, your writing about Valdemar and Heralds is probably a violation of Misty's copyrights.
 
-There has been a spirited discussion about lifebonding on GEnie the past few months. To those of you who asked about the romantic status of characters in *By the Sword*, Misty says "Everyone in BTS was lifebonded????? Gee, I never noticed that, and I thought I was the author! . . . The only TRULY lifebonded coule in BTS was . . . (drumrool) . . . Daren and Selenay. Everything else was either very strong love or someone was deluding him/herself.
+There has been a spirited discussion about lifebonding on GEnie the past few months. To those of you who asked about the romantic status of characters in *By the Sword*, Misty says "Everyone in BTS was lifebonded????? Gee, I never noticed that, and I thought I was the author! … The only TRULY lifebonded coule in BTS was … (drumrool) … Daren and Selenay. Everything else was either very strong love or someone was deluding him/herself.
 
 "Here is one absolutely ironclad way to tell if it is a lifebond. Once the pairing is confirmed and all the dust settles, NEITHER OF THE TWO CAN REMAIN ANGRY WITH THE OTHER FOR MORE THAN THREE HOURS. This means real true forgiveness, not a grudging, 'well, all right, grumble, grumble' and stowing the grienvance away to bring up during the next argument. For instance, Van and Stef--if they had NOT been lifebonded, Van would have blown Stef away with everybody else in that old fortification because he got in the way. It is something that goes as deep as instinct. It is dangerous; lifebonded couples tend to be people who NEED to be together FOR THE GOOD OF THOSE AROUND THEM. They create a partnership and stability that stabilizes things for OTHERS, not just themselves.
 
@@ -113,7 +113,7 @@ First, news *for* club members: SUPPORT OUR ZINES! Remember, all you would-be wr
 
 Second, if you're interested in starting your own chapter, write to the already established chapters for ideas and advice. PLEASE, SEND A SASE WHEN YOU WANT INFORMATION FROM ANOTHER MEMBER OR FROM ME!
 
-From *Sara Ryan*, [Ed. note 2003: Out-of-date information withheld.]: *Star Triad #4* is available. [Ed. note 2003: Out-of-date information withheld.] *Star Triad* is looking for original fiction, art, poetry . . . [Ed. note 2003: Out-of-date information withheld.]
+From *Sara Ryan*, [Ed. note 2003: Out-of-date information withheld.]: *Star Triad #4* is available. [Ed. note 2003: Out-of-date information withheld.] *Star Triad* is looking for original fiction, art, poetry … [Ed. note 2003: Out-of-date information withheld.]
 
 *To everyone interested i the Louise Cooper Fan Club*: Please note this corrected address--[Ed. note 2003: Out-of-date information withheld.]. Yes, the Club is still on; we're just snowed under with other things right now. We'll get back to you as soon as possible--thanks for your patience!
 
@@ -137,7 +137,7 @@ The GEnie chapter of QO is called "Modems of the Queen". For information on it a
 
 From *Mary Wilson*, [Ed. note 2003: Out-of-date information withheld.]: The deadline for *Tales of the Unicorn* has been moved to May 1. This issue will be a Midsummer's Eve special. Send her fantasy/romance/scifi/poetry/art and book/movie reviews.
 
-"This is called a Storyteller's book," said the Maiden to the Dragon, "and gathered here are all the drawings, stories, songs and poems of those who weave such wonders. Would you care to hear one?" The Dragon cocked his head and hten nodded, puffs of purple smoke coming from his nostrils. "It all started," the Maiden said in her best storytelling voice, "when you sent a SASE to [Ed. note 2003: Out-of-date information withheld.] for guidelines . . . ."
+"This is called a Storyteller's book," said the Maiden to the Dragon, "and gathered here are all the drawings, stories, songs and poems of those who weave such wonders. Would you care to hear one?" The Dragon cocked his head and hten nodded, puffs of purple smoke coming from his nostrils. "It all started," the Maiden said in her best storytelling voice, "when you sent a SASE to [Ed. note 2003: Out-of-date information withheld.] for guidelines … ."
 
 ## Mentor News:
 
@@ -177,7 +177,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

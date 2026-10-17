@@ -30,7 +30,7 @@ Mercedes Lackey Fan Club
 
 Dear Misty fans:
 
-From Elise Wollheim at DAW, "Your members will be interested to know that Misty's story 'Dragon's Teeth', will appear in our forthcoming book, *Spell Singers*. Publication date is December 1988 . . . (This is the DAW paperbook edition of Hypatia Press' *Bardic Voices One*.)"
+From Elise Wollheim at DAW, "Your members will be interested to know that Misty's story 'Dragon's Teeth', will appear in our forthcoming book, *Spell Singers*. Publication date is December 1988 … (This is the DAW paperbook edition of Hypatia Press' *Bardic Voices One*.)"
 
 Wait 'til you see the cover of OATHBREAKERS (coming out January 1989) from the VOWS AND HONOR series. Jody Lee continues her skillful interpretation of Misty's characters. The two ladies met at the April Concatenation in Tennessee and apparently firmly established a mutual admiration society. Jody asked Misty to have us poll you as to how many of you would be interested in signed, limited edition (50-100) prints of the covers at ±$25 each. Let us know if you would be and, if so, which one(s).
 
@@ -64,9 +64,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no art in this newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no art in this newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

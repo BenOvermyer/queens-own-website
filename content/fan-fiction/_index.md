@@ -11,13 +11,12 @@ vlink = "silver"
 historical = true
 topic = "publications"
 canonical_path = "/fan-fiction/"
+revised = "1/5/2024"
 +++
 
 ## Queen's Own
 
 ## Fan Fiction
-
-### (Revised 1/5/2024)
 
 <img alt="" loading="lazy" src="/qofanfic_files/ValdemarCrestsm.jpg"/>
 

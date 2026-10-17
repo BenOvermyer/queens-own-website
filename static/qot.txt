@@ -38,7 +38,7 @@ Determine your Position within the clan by rolling one six-sided die.
 
 Mindspeech
 
-Determine what type of Mindspeech you have by rolling one six-sided die. 
+Determine what type of Mindspeech you have by rolling one six-sided die.
 
 1:   With your bondbird only
 2-3: With your bondbird and non-human races (hertasi, dyheli, tervandi)
@@ -144,7 +144,7 @@ Helpful Hints
   back, supply us with an address label and sufficient postage. Better
   yet, send us copies and keep the originals. Even better, see the
   e-mail option below to save on postage. We hope to publish this
-  material in _Children of Velgarth_, the Queen's Own fanzine, and it 
+  material in _Children of Velgarth_, the Queen's Own fanzine, and it
   is easier to do that from e-copy.
 
 * If you're using a computer or word processor, use your spell-check!
@@ -164,5 +164,5 @@ If you want, you may submit personae materials via e-mail when possible.
 Send persona sketches, stories, poems and other written text in either MS
 Word or .txt/ASCII format. You can scan your CPR cards, pictures, costume
 designs, and so forth, and send them either as .jpgs or .gifs. E-mail
-submissions to both Herald-Mage Master Danya Winterborn (Legend@malcor.com) and Healer Adept Moonstar (healermoon@hotmail.com). If you do not have a scanner, you can still submit your
+submissions to both Herald-Mage Master Danya Winterborn (shashtah@gmail.com) and Healer Adept Moonstar (healermoon@hotmail.com). If you do not have a scanner, you can still submit your
 text by e-mail and snail mail any pictures or other nontext items.

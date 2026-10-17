@@ -28,7 +28,7 @@ canonical_path = "/compass-rose/spring-2002/diversity-in-libraries/references/"
 
 ### by
 
-## [Kendra Renaud](mailto:Legend@malcor.com)
+## [Kendra Renaud](mailto:shashtah@gmail.com)
 
 <a id="ref"></a>
 

@@ -38,7 +38,7 @@ My most recent conversation with Misty was interrupted by her cries of "Ouch! Ou
 
 If that's not enough to keep them busy, Misty and Larry are continuing with their rehabilitation work. Currently they have two red tail hawks that were orphaned, and a young kestrel. The latter is being trained for the Tulsa Zoo rather than to be released. He's been moved into the kitchen and is being thoroughly spoiled.
 
-The two red tail hawks, however, will be released into the wild. Misty exercises them on a creance (a very long string) and plays hawk-tossing. Since she's not training them for falconry, they don't need glove-manners. She says, " . . . sometimes it's just easier to walk out to where they landed, pick 'em up off the ground, and toss them into the air like a volleyball. My neighbors must think I'm insane . . . "
+The two red tail hawks, however, will be released into the wild. Misty exercises them on a creance (a very long string) and plays hawk-tossing. Since she's not training them for falconry, they don't need glove-manners. She says, " … sometimes it's just easier to walk out to where they landed, pick 'em up off the ground, and toss them into the air like a volleyball. My neighbors must think I'm insane … "
 
 &#42;&#42;&#42;&#42;Larry's birthday is July 28th. Mail your cards to him at Highflight [Ed. note 2005: Out-of-date info withheld.].&#42;&#42;&#42;&#42;
 
@@ -65,7 +65,7 @@ Watch for Mark Shepherd's *Elvendude* in October/November; *The Eagle and the Ni
 
 In August/September comes *The Rose Sea* by S.M. Stirling and Holly Lisle. Holly and Misty co-authored *When the Bough Breaks*, a SERRAted Edge Story. The blurb in the ad for *The Rose Sea* reads: "Long ago the Great Ones made a world, but as the eons passed, the Great Ones departed and the lesser gods decayed, some into madness and cruelty, some locked away from the world.
 
-"Bren Morkaarin was an obscure officer in the armies of the New Empire of Tykiss. Karah Grenlaarin was a rancher's daughter, in town to sell her horses. War brought them together; the touch of the Gods gave them a destiny . . . "
+"Bren Morkaarin was an obscure officer in the armies of the New Empire of Tykiss. Karah Grenlaarin was a rancher's daughter, in town to sell her horses. War brought them together; the touch of the Gods gave them a destiny … "
 
 Elizabeth Barrette's "Pros & Cons: An Introduction to Fandom" can be yours for just [Ed. note 2005: Out-of-date info withheld.]. (I'm not asking for a SASE because I have envelopes just the right size.) This little booklet has definitions of most of the "fan jargon" used in the newsletter and at cons. So, before you decide to gafiate, send for your copy and become one of the fen.
 
@@ -241,7 +241,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

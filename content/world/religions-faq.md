@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/religions-faq/"
+revised = "5/30/05"
 +++
 
 ## Religions FAQ
-
-## (Revised 5/30/05)
 
 There are two types of Kal'enedral: those Sworn to the Warrior and those Sworn to the Crone. Those Sworn to the Warrior wear black. Those Sworn to the Crone wear blue.
 

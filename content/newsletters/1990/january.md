@@ -30,7 +30,7 @@ Mercedes Lackey Fan Club
 
 Dear Misty fans:
 
-[Ed. Note 2002: The first four pages of this newsletter are missing. Does anyone have them? Contact Herald-Mage Adept at [Legend@malcor.com](mailto:Legend@malcor.com).]
+[Ed. Note 2002: The first four pages of this newsletter are missing. Does anyone have them? Contact Herald-Mage Adept at [shashtah@gmail.com](mailto:shashtah@gmail.com).]
 
 ## STOP THE PRESSES!
 
@@ -44,13 +44,13 @@ Before starting on my persona, I had worked on a map and some floor plans for th
 
 It appears that we've embarked on a do-it-yourself creative writing course! Let me hasten to assure you though, *none of your efforts will be critiqued, corrected, or 'graded'!* [Ed. Note 2002: Things are a bit different these days. We work with you until you get a persona that really works with the rest of the approved personae. See the handouts at [Persona handouts and submission instructions](/persona-handouts/).] Whereas Misty established the requirements and guidelines for Heralds, my job is only to verify fulfillment of same and authorize your getting your Herald's certificate, [Suitable for framing, of course.]
 
-At last! My son delivered my copy of MAGIC'S PROMISE. With the weekend ahead of me . . . .
+At last! My son delivered my copy of MAGIC'S PROMISE. With the weekend ahead of me … .
 
-The main reason for this extra page is that Judith received some information and PERSONALS, including one from herself, that she really wanted in this month's issue. Therefore . . .
+The main reason for this extra page is that Judith received some information and PERSONALS, including one from herself, that she really wanted in this month's issue. Therefore …
 
 Aaron Lindahl wrote in response to Christine Kreb's plea for a pattern that he has found a very satisfactory supplier of same: [Ed. Note 2002: Out-of-date info withheld.]. Aaron says that the patterns he's received were very authentic and of superior quality. They carry over 700 historic and ethnic clothing patterns for men, women, and children from the year 1390 to 1950, with everything from outer-garments to undergarments. A pattern catalog is $4.00 postpaid. [Editor's sigh: Now I don't have an excuse to postpone making a costume either.]
 
-Nathan Waldbaur has informed us that he's decided to change the name of his planned compendium [see the November-December issue] from *Compendium of Heraldic Lore and Legends* to *Tales of Valdemar and Beyond*. He says he did this mostly because he thought the first title was a little too stuffy and bookish. "While Elcarth might approve, I didn't think many others would." In his writer's and artist's guidelines he states, "It is an attempt to channel the creative outpourings of her [Mercedes Lackey] fans, giving them a chance to take on the role of 'co-creator' . . ." What a great opportunity for those of you who've written stories about your personae to see them in print! Remember, this is what Elizabeth (Betsy) Wollheim [from DAW] said to Misty, "Go for it" [Dedication in MAGIC'S PROMISE.]
+Nathan Waldbaur has informed us that he's decided to change the name of his planned compendium [see the November-December issue] from *Compendium of Heraldic Lore and Legends* to *Tales of Valdemar and Beyond*. He says he did this mostly because he thought the first title was a little too stuffy and bookish. "While Elcarth might approve, I didn't think many others would." In his writer's and artist's guidelines he states, "It is an attempt to channel the creative outpourings of her [Mercedes Lackey] fans, giving them a chance to take on the role of 'co-creator' …" What a great opportunity for those of you who've written stories about your personae to see them in print! Remember, this is what Elizabeth (Betsy) Wollheim [from DAW] said to Misty, "Go for it" [Dedication in MAGIC'S PROMISE.]
 
 ## Personals
 
@@ -68,9 +68,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no art (so far) for this edition of the newsletter. If you have a clue who they were, please contact Herald-Mage Adept Danya at [Legend@malcor.com](mailto:Legend@malcor.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no art (so far) for this edition of the newsletter. If you have a clue who they were, please contact Herald-Mage Adept Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

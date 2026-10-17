@@ -11,13 +11,12 @@ vlink = "navy"
 historical = true
 topic = "community"
 canonical_path = "/chapters/"
+revised = "11/21/20"
 +++
 
 ## Queen's Own
 
 ## Chapters
-
-### (Revised 11/21/20)
 
 <img alt="" loading="lazy" src="/book2.gif"/>
 

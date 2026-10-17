@@ -12,6 +12,7 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/proverbs-of-velgarth/"
+revised = "10/2/99"
 +++
 
 ## Proverbs from Velgarth
@@ -20,9 +21,7 @@ canonical_path = "/proverbs-of-velgarth/"
 
 ## Danielle DiFronzo
 
-## (Revised 10/2/99)
-
-I finally got around to typing up all those proverbs from Misty's books. There's probably more than I missed, or haven't gotten to (I haven't read all the Kethry/Tarma short stories yet . . .). When I started it, it was just for the Shin'a'in proverbs, then it spread to Tayledras and Skan . . . &lt;g> So there's likely Valdemaran and other ones I just didn't bother writing down. And I'm just a little over halfway done with *Owlknight*; one has popped up, but it's always possible there's more. Eventually I plan to reread all of them since it's been *so* long. Anyway, I thought other Misty fans might like to see this.
+I finally got around to typing up all those proverbs from Misty's books. There's probably more than I missed, or haven't gotten to (I haven't read all the Kethry/Tarma short stories yet …). When I started it, it was just for the Shin'a'in proverbs, then it spread to Tayledras and Skan … &lt;g> So there's likely Valdemaran and other ones I just didn't bother writing down. And I'm just a little over halfway done with *Owlknight*; one has popped up, but it's always possible there's more. Eventually I plan to reread all of them since it's been *so* long. Anyway, I thought other Misty fans might like to see this.
 
 The information contained here is intended solely for the enjoyment of Velgarth fans everywhere and as an aid to writers of fan fiction set on Velgarth. It is not intended to infringe in any way upon the rights held by Mercedes Lackey.
 

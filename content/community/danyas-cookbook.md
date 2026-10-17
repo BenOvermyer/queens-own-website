@@ -12,6 +12,7 @@ vlink = "red"
 historical = true
 topic = "community"
 canonical_path = "/danyas-cookbook/"
+revised = "10/30/98"
 +++
 
 ## Herald Danya's Cookbook
@@ -19,8 +20,6 @@ canonical_path = "/danyas-cookbook/"
 ## Created by
 
 ## L.A. Malcor
-
-### (Revised 10/30/98)
 
 ## Copyright Notices
 

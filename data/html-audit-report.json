@@ -1,6 +1,6 @@
 {
   "summary": {
-    "files_scanned": 249,
+    "files_scanned": 248,
     "rules": {
       "nested_table": {
         "occurrences": 1,
@@ -20,7 +20,7 @@
       "path": "content/_index.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "9cd0e82a187f83edd83343816677c32ae09ef2e8278598d499cb5960ad6fc7ce",
+        "visible_text_sha256": "7e32d4f22d8957b97a9258e3774e25b87496592faa12bd08f12de0087558962c",
         "links": 2,
         "images": 0,
         "anchors": [],
@@ -33,7 +33,7 @@
       "path": "content/community/chapters.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "57b5bb12d546538ab7f8aed96a32ceb55c024a1b16340747ef35a8039044de0a",
+        "visible_text_sha256": "f44e5633b232e60a81c210257f291b6128d2d2fa6bbb0d2f87ed047a3e916451",
         "links": 1,
         "images": 3,
         "anchors": [
@@ -48,7 +48,7 @@
       "path": "content/community/club-chat.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "af19f33761947394b122884c6e33d19e8df8921850962bd95083542dcfb2aa7c",
+        "visible_text_sha256": "bf55f913446a317a84c6d887591a55a59a4ec1d7caeb439c09c1a22a4475652e",
         "links": 3,
         "images": 3,
         "anchors": [
@@ -108,7 +108,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "7c15bfffad3d3a7f20a4914c3d80630f2fcecf2aa85624f333860f41cf067f97",
+        "visible_text_sha256": "77b34d909f7e9d7fb9e91e9a4059750dbb78be82519d610d5e0b0e6fa4e98541",
         "links": 30,
         "images": 25,
         "anchors": [
@@ -148,7 +148,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "cd70b28d8f9fe541b8d342d160998dd93ee19ad6c4f2b96538175a98b21547b1",
+        "visible_text_sha256": "4fcced9cb19404e94a1d19ae2cb33fd78cf107b8caf7e1fa5caf706d07915783",
         "links": 41,
         "images": 21,
         "anchors": [
@@ -182,7 +182,7 @@
       "path": "content/community/delphi-forum.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "6c554e0ff69297a2c959cc432ab9964dbf91991657f037e3bd505421dea72629",
+        "visible_text_sha256": "2a41976e283d5ca9fec351bb6ffc3e1dbfaae4120c228d6cef129addd71040d0",
         "links": 1,
         "images": 3,
         "anchors": [],
@@ -224,7 +224,7 @@
       "path": "content/community/golden-grove.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f3213f5bfedba13929f326b00a09cd9f1cfa87ac299783a94e9555a27ba4d91c",
+        "visible_text_sha256": "031541fe7fdefa88f6caf11d90d77bd1d27fc1985654a5ab7e7d71ee21828f6e",
         "links": 3,
         "images": 8,
         "anchors": [],
@@ -237,7 +237,7 @@
       "path": "content/community/mercedes-lackey-links.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3c77c1d14dd43968fe4d9b03b4c89d5d1a4c21545bb4e85f6aa07bc09da2dad1",
+        "visible_text_sha256": "f6f8b496c2e64d560d4f730ac4f97c98add1aeff3396519e5f391d0cde10b64c",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -250,7 +250,7 @@
       "path": "content/community/pacific-northwest-collegium.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "4ac6249f2cbafa7d1bbed639742cc63d4a73394483f8f8669c8e225bdda47826",
+        "visible_text_sha256": "3259e00abfdb513251dc7cff06f366f7089a061a38925aa3a5be8b4775109e71",
         "links": 4,
         "images": 16,
         "anchors": [],
@@ -263,7 +263,7 @@
       "path": "content/community/role-playing.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "fcdfd163389d2ef5640f2904d1d6a6570c366fcc3cce757171c6879343fc1ba4",
+        "visible_text_sha256": "6dfdd9759f36e6f4ac57bf5cf93c463c0ee1fe005d622018d08c16ed749a230b",
         "links": 1,
         "images": 4,
         "anchors": [],
@@ -276,7 +276,7 @@
       "path": "content/community/science-and-magic-tricks.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3f5fed7eb304a701e7bee1712e4c0019b99178dec7302b2a6506a3848e8c50eb",
+        "visible_text_sha256": "216620352681a82e786176355091f7813e009d865761ae1930dc5f7a1df23517",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -289,7 +289,7 @@
       "path": "content/community/sonoran-collegium.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "11632b4896041499c6f6e7f6b1b7d0c31dc289f699f4318bcd755c9086d6cec4",
+        "visible_text_sha256": "1b5e4144f7cb3903c72025a4dc1aaf23e4fb58bc1d5d609a99fd0db278d9540a",
         "links": 3,
         "images": 6,
         "anchors": [],
@@ -315,7 +315,7 @@
       "path": "content/compass-rose/about.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "e545e648f935256d5b440846ca09ad7a33affa93f046c67bdb169bbc76d07fa2",
+        "visible_text_sha256": "9525819f6eff359a2ce635e38b3027dc9af1dd40995dfb4efe797ad6bc0ed0e1",
         "links": 1,
         "images": 5,
         "anchors": [],
@@ -876,7 +876,7 @@
       "path": "content/dream-casts/magics-pawn.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "0abf22024d1047e518faddce7633511d3a1ec86034dd6c5e2e77c64d0f1a8a26",
+        "visible_text_sha256": "afa04a474537715d898a5fb96f5aeb8381533fdc097e2718a15d67a16bbaa4b9",
         "links": 1,
         "images": 3,
         "anchors": [],
@@ -889,7 +889,7 @@
       "path": "content/dream-casts/magics-price.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "550a24a263923b08ae509302e5ea2e18064e5a3b12d1d1c5599f9f4314b5a52a",
+        "visible_text_sha256": "146b2b20ecc40071f56a4da5d457b42910930a1f9b0519c611e584be09816a6f",
         "links": 2,
         "images": 3,
         "anchors": [],
@@ -902,7 +902,7 @@
       "path": "content/dream-casts/magics-promise.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "9cafe8c6a8330b95b77d22b9261f522e8113857eef0fd16b6b39d8dcb74c155a",
+        "visible_text_sha256": "9c9abe8fe2bf6fbb94d67826742d893ed4461b6568ba57cc32e3b3b06edbf100",
         "links": 1,
         "images": 3,
         "anchors": [],
@@ -915,7 +915,7 @@
       "path": "content/fan-fiction/_index.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "900e7a69f623756176331051aecd652bf33b15b8d071e6473d3291eea0d0a58c",
+        "visible_text_sha256": "fde10a9071df06179384bb2bf9b8e8df564efeedd67c67e28f60f062c76341c3",
         "links": 14,
         "images": 4,
         "anchors": [],
@@ -928,7 +928,7 @@
       "path": "content/fan-fiction/children-of-velgarth.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "095fde6238473b9e80b3c2fa5f7d22b35812b3605c99df76fb9f881dea606e1b",
+        "visible_text_sha256": "3b638f7d0d59acb7aeded126df330fe4288d60fbdfa9744e19889a02a0db0169",
         "links": 1,
         "images": 6,
         "anchors": [],
@@ -978,7 +978,7 @@
       "path": "content/membership/club-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "cb417a82ba238940e22f51f8942fd24cba069ba15ca48f735f1077f05b8202a2",
+        "visible_text_sha256": "302dc78d0c41372b9cd270b9508948472e8358c6efc912505dce870e103bd07c",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -991,7 +991,7 @@
       "path": "content/membership/club-seal.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7618c708c499b350fc0bcdd4b0e2e7fc0415ba3a4ace58090715375f7ca8c407",
+        "visible_text_sha256": "9dba11e112c51ac22b666e76a0f189ea504d69837ba9558e4e555faec5dce5d6",
         "links": 1,
         "images": 3,
         "anchors": [],
@@ -1001,23 +1001,10 @@
       }
     },
     {
-      "path": "content/membership/how-to-join.md",
-      "findings": [],
-      "baseline": {
-        "visible_text_sha256": "9d269332c3b209dfd7a104a345fb507851b39ce247eb95d0a0867e55161bb1d0",
-        "links": 1,
-        "images": 3,
-        "anchors": [],
-        "tables": 0,
-        "headings": [],
-        "legacy_source": "qojoin.htm"
-      }
-    },
-    {
       "path": "content/membership/mentors.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "18c3e1a7282ddda11462ec96d0e75eb93b6b45db82451b4e54b103689c2920ec",
+        "visible_text_sha256": "f4bef112bb64726c9183fbf7ba54b062a08bbf037057c50fe3a1b70c172e0851",
         "links": 7,
         "images": 3,
         "anchors": [],
@@ -3145,7 +3132,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "af96b143d63be9148ae8fdb017d96b38b476f458fa152b8af06656b49aeeee0e",
+        "visible_text_sha256": "2b2a8abb48c3333bac1ff48d37199eafeee7d3bac3959e61e1fe31630cd3e671",
         "links": 158,
         "images": 12,
         "anchors": [
@@ -3363,7 +3350,7 @@
       "path": "content/personas/npc-directory.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "e29aa9c41de81f3dffac72d3d3de4c8176085e14233c885db6b935c7613f781c",
+        "visible_text_sha256": "8d930f892d817c623aefe7b947f7518e42c83a398d75c6e8f58b66adadca09ad",
         "links": 4,
         "images": 14,
         "anchors": [],
@@ -3376,7 +3363,7 @@
       "path": "content/personas/persona-directory.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "dd9eb335b369aa94271ec659ea4f30d325ff2453437e52c3217d4b7ef75824ea",
+        "visible_text_sha256": "1b732bcead3f9dd1fa65119456b8cb24af1c3bb236cd67c17de6d79a15faaa5a",
         "links": 4,
         "images": 21,
         "anchors": [],
@@ -3389,7 +3376,7 @@
       "path": "content/personas/persona-handouts.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7079660ac9a88dcb00b3edb82def729829ce0ab67e9777d2e5267a5d54c8e271",
+        "visible_text_sha256": "bdcaa7461235be4f8d7c3bd245f80c0a419ca0313fa1bc01e6c9500f6185ba3d",
         "links": 8,
         "images": 7,
         "anchors": [
@@ -3568,7 +3555,7 @@
       "path": "content/vanyel-fan-club/newsletter.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "ff3b549d789cdba809fa27fe9737a15b597fe1320487eb3c1ecc2a11807eedf1",
+        "visible_text_sha256": "a920d20676967a8cc1d0eb823ee038977229e8e4bb12c1c122f4b958392162af",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -3594,7 +3581,7 @@
       "path": "content/world/bards-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "1cd6b1e17d3eb3f8da1672aa2c77407457bb97509f89343b39d6dfa929d0caef",
+        "visible_text_sha256": "6c6e788f2771af6d26f8cdd0adcfa58565fc9ef184653a932b058903ab5bb07f",
         "links": 0,
         "images": 11,
         "anchors": [],
@@ -3607,7 +3594,7 @@
       "path": "content/world/blues-and-blue-bloods-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "1beb140f8d19f2108b564546d4d19e439c2f6bd41493acf28c6276a6f60f3579",
+        "visible_text_sha256": "7bf9269e9a8125f0143678c0582c77e026ea44d93d9e697b1c51aa3135b20dfd",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3620,7 +3607,7 @@
       "path": "content/world/companions-choices.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3d80c2d9e206e3bfb1db495d358778c15305cd62b200b19b04cc2f37e3de9221",
+        "visible_text_sha256": "6eb67a97e9c9b39c136a02f8e041d68c5ad9f4df69291b4ede83e6c8904e946e",
         "links": 0,
         "images": 1,
         "anchors": [],
@@ -3633,7 +3620,7 @@
       "path": "content/world/cooking-velgarth-style.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "cec3c0f225bb7456c5a82750e918758fd452333de59ff1d15e2551c7c62218b2",
+        "visible_text_sha256": "6f17c8bc2479d40bd906ff6a3b5563feefd6c73aafd2c022ea60e5db71693a8d",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3646,7 +3633,7 @@
       "path": "content/world/fauna-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7b7ff1b1f0df361c40b811e4ef2c4a83224342a9925eae5bc3ad6ca43fd86e74",
+        "visible_text_sha256": "ab4798ac7c60d9246f377922dc475fc78e498ac1ae47822506c8c7b9c04dce55",
         "links": 2,
         "images": 3,
         "anchors": [
@@ -3662,7 +3649,7 @@
       "path": "content/world/garb-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "11bf2bf96cba07729a5eb61f0795b254bcc1a6786b992b69379d7adb5c3f5adc",
+        "visible_text_sha256": "cc9d6458c7c05f9fed5e4ef22173b68d1e69f6933a4d80b78b9611f6ef8c6fde",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3675,7 +3662,7 @@
       "path": "content/world/gifts-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "cef113d5dba3ebe86f5a9f8996cfa5a2ebddc575e8d3d908d3252d139cabf0d1",
+        "visible_text_sha256": "a9f7ba7e632fdfed0a376f93049a196ea22db979a45fe6f347f08e93b3d7d4e0",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3688,7 +3675,7 @@
       "path": "content/world/guilds-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "d82ace0de13dd759ee3abf7894bf9bc9d22d198c1b3d2d7bbf33e11d8a79d842",
+        "visible_text_sha256": "76f6afe6b98d03cd395c1385e40030640966709c5c6e0b4791c86810bdbdcd13",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3701,7 +3688,7 @@
       "path": "content/world/healers-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "d55acfe78b8a48bdf5830ff561f7aad93ebdbb68326af1e17b13bc40bd404d3b",
+        "visible_text_sha256": "b27ca78c8a8cd6c7b17de3f421ed104aa63196aa4c4be6e6664c78aabc1c700d",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3714,7 +3701,7 @@
       "path": "content/world/heralds-and-companions.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "602fb28364f5b594235e688e8c3c13cf95d0a94e56c46160ad8e68e1b82434d6",
+        "visible_text_sha256": "cdf7c7a69690fbe62e5b44a623d5f553a73c73911a6109f61dbb21a4ee8f83f2",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3727,7 +3714,7 @@
       "path": "content/world/heralds-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "c6f08cc1072b2bb1c0cedc220cf706caac0bdd3d0de935ec8f770c962621d1b6",
+        "visible_text_sha256": "f6cd0e5487c5abbb09db590f5f38cf914feb327afc2e0d89d3089fe4d2728e4e",
         "links": 1,
         "images": 3,
         "anchors": [
@@ -3752,7 +3739,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "ca8a864692466b3a33d0ceb312f7e71beadc47fd28303c7f65c5abc26a3c4d76",
+        "visible_text_sha256": "18d3a438fd64a55bbd6d2774c0079c77459dbfb226c0c46a8a557b714cdf4faf",
         "links": 7,
         "images": 7,
         "anchors": [
@@ -3783,7 +3770,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "4cadd04e2eef188908137dd48ae4cd2df9b0bf32c9ee0fad6a3eaa637469c713",
+        "visible_text_sha256": "ac591ef2eb5e391f6e7519a499aae33dfb2dac94022a1d5bbe20391966da4a69",
         "links": 1,
         "images": 7,
         "anchors": [],
@@ -3796,7 +3783,7 @@
       "path": "content/world/northern-barbarians-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "73b6f587f3c84a7c7c8a7ce471ce9b51b24add30d88baaec3539c726063a8c85",
+        "visible_text_sha256": "37fa11df5492d5ca3702061fc513ec586e9aad12a46dcf6d8e3e2fa0123a82c6",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3809,7 +3796,7 @@
       "path": "content/world/plants-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "6105a97f96225e48165759d13357305f15e7514d1c5763b33e23b1fa3dbacef1",
+        "visible_text_sha256": "0454c840566e36ade8fade6f4e41b3b32850b48028e96ad6b10e0ff39ae903de",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3822,7 +3809,7 @@
       "path": "content/world/proverbs-of-velgarth.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "d9824c4fe9d34ec274e209a286a4a7e9dbbdbcc19f34c5604dae857bb5a9f4ca",
+        "visible_text_sha256": "7069ccde0429c2e62f4a5609812dc5a78e8fc800fa78bb3ec71f96a498b37e6c",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -3835,7 +3822,7 @@
       "path": "content/world/reincarnated-characters.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "169a09355dec2b716c5d62466c351a253edeb97e02bad16d9909f8c2a94c4a20",
+        "visible_text_sha256": "00c6bc804594fe64d45b5bdf5e21e3f87f8b2529e9013c7bba0f274b998d9b72",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -3848,7 +3835,7 @@
       "path": "content/world/religions-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "c32065de8aaa1989c780712b15e375f7d97848d1a8edaf64fc7b2ccf6fdbc3f4",
+        "visible_text_sha256": "114581397f269125171ab4fc88102e6f9fe03b965ea2577ac40b7bfb5cf708a0",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3861,7 +3848,7 @@
       "path": "content/world/shina-in-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "70292944cbf022b6bef796773f4fae27ac00f96dfc964ec96c505aabb34836c7",
+        "visible_text_sha256": "69e2134e9574cbbdc484b5f9d1cfde8afdf1bc851b37faef5f7a05c36e52cc9e",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3874,7 +3861,7 @@
       "path": "content/world/tayledras-faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "de28369b237917b5ef3c2f1712735125430f53bb6f3069d25577a2617fd124ab",
+        "visible_text_sha256": "ae329612e51ec6e7abb5e3c3095e56e5273f7e4c1cd868ce918400080f298f6e",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3887,7 +3874,7 @@
       "path": "content/world/travel-guide.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7f0f14701e9c09ce8d38197dcdf8eae8b388341aa655574605207fd7b4d38662",
+        "visible_text_sha256": "90c3d6c60cd1188eff14d2ea41b1c30c6a3322e77b5e9372de30837211df491b",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3900,7 +3887,7 @@
       "path": "content/world/valdemar-timeline.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "2948a2ec857eb5e61dd18500f5bf76a8501c3605061d1396304ac3ab12af5279",
+        "visible_text_sha256": "e3cf01c48421c4b57d159bc807900a4015cd046ff8e02f634b1f790987f5ca34",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -3923,7 +3910,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "d3a330d6bf4bcb557ccea5045abd0a7dbc1d763eb2eef7c74cd420e38080c78a",
+        "visible_text_sha256": "2c3324ff5eb97373454627d0a37c8e69c647e950fcd3884fcd383ad0b3d5ddbe",
         "links": 19,
         "images": 3,
         "anchors": [],

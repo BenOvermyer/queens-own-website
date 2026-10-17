@@ -4,20 +4,15 @@ path = "club-faq"
 template = "page.html"
 [extra]
 legacy_source = "qofaqqo.htm"
-bgcolor = "lightsteelblue"
-text = "black"
-link = "blue"
-vlink = "red"
 historical = true
 topic = "membership"
 canonical_path = "/club-faq/"
+revised = "10/17/26"
 +++
 
 ## Queen's Own FAQ
 
-## (Revised 7/22/08)
-
-To quote the original editors of the Queen's Own newsletter, "Questions, we get questions . . . " This FAQ is for all those questions about stuff in the "real world" related to Misty or the club that keep cropping up . . .
+To quote the original editors of the Queen's Own newsletter, "Questions, we get questions … " This FAQ is for all those questions about stuff in the "real world" related to Misty or the club that keep cropping up …
 
 ## About Queen's Own
 
@@ -34,9 +29,3 @@ Over the years, the club's name has undergone some changes:
 Judith also called the club "the official Mercedes Lackey Appreciation Society" in most of the newsletters she published, which is probably the best description of what the club is about.
 
 Membership in QO is free these days. Instead of dues we ask that you create a persona. The persona types available are listed at [Persona handouts and submission instructions](/persona-handouts/). Anyone may use the site for free. You need to create a persona, however, to get to the private portions of the club.
-
-<img alt="" loading="lazy" src="/barcomp.gif"/>
-
-[<img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/>Return to the Queen's Own Home Page](/)
-
-[<img alt="" class="float-center" loading="lazy" src="/qobutback.gif"/>Return to Just the FAQs Index](/world-reference-guide/)

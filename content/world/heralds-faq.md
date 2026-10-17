@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/heralds-faq/"
+revised = "10/18/20"
 +++
 
 ## The Heralds of Valdemar FAQ
-
-## (Revised 10/18/20)
 
 Gifts (Heraldic Mind Magic) tend to run in families. It is also curious to note that there are usually several sets of twins who are attending the Collegium at the same time. Twins are usually Chosen at the same time, but there are rare cases where one twin is Chosen later than the other and where one of the twins is not Chosen at all.
 

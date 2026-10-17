@@ -12,15 +12,15 @@
       "vlink": "silver",
       "historical": true,
       "topic": "personas",
-      "canonical_path": "/persona-directory/"
+      "canonical_path": "/persona-directory/",
+      "revised": "10/17/26"
     }
   },
   "preamble": [
     "## Queen's Own",
     "## Persona List",
-    "### (Revised 10/17/26)",
     "<img alt=\"\" loading=\"lazy\" src=\"/ValdemarCrestsm.jpg\"/>",
-    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" class=\"float-left\" loading=\"lazy\" src=\"/ml4.gif\"/></a>These are the approved personae for Queen's Own. If you have an approved persona who is not listed here, please contact [me](mailto:Legend@malcor.com).",
+    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" class=\"float-left\" loading=\"lazy\" src=\"/ml4.gif\"/></a>These are the approved personae for Queen's Own. If you have an approved persona who is not listed here, please contact [me](mailto:shashtah@gmail.com).",
     "If a name is not linked and does not have an asterisk (&#42;), then we do not know how to reach that person. If you know him/her, please have him/her contact us with a current address!",
     "&#42;=e-mail withheld by request or unavailable. †=In memoriam; the member is deceased.",
     "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" class=\"float-right\" loading=\"lazy\" src=\"/ml5.gif\"/></a>Each person may only have one persona on this list at a time. Only the first-approved persona will be recognized in the newsletter. (These rules exist simply for our record-keeping sanity. You are perfectly free to develop as many personae as you please.)",
@@ -7901,7 +7901,7 @@
           "persona": "Herald-Mage Adept Danya Winterborn",
           "persona_url": null,
           "player": "Terrill",
-          "email": "Legend@malcor.com",
+          "email": "shashtah@gmail.com",
           "details": [
             {
               "type": "date",

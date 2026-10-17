@@ -54,7 +54,7 @@ Now for some news. If you look at the top of the newsletter, you will see that t
 
 Also, in case you didn't know, Judith is and always will be Herald Housemother, I prefer she keep that title as she has earned it. If you must call me by a title, please use Herald Seneschal, in the SCA it is considered the title of President, so it is fitting.
 
-<img alt="Left border" class="float-left" loading="lazy" src="/qo299.jpg"/> <img alt="Left border" class="float-right" loading="lazy" src="/qo299.jpg"/> For now, I'm having too much fun putting this together, so please forgive me if the newsletter is different than what you are used to. I love to play on the computer, and I love graphics . . . so . . . Please send any and all artwork you think I might like.
+<img alt="Left border" class="float-left" loading="lazy" src="/qo299.jpg"/> <img alt="Left border" class="float-right" loading="lazy" src="/qo299.jpg"/> For now, I'm having too much fun putting this together, so please forgive me if the newsletter is different than what you are used to. I love to play on the computer, and I love graphics … so … Please send any and all artwork you think I might like.
 
 Firebird Arts and Music carries all of Misty's books and lots of other merchandise. From Babylon 5 soundtracks to Larry's art prints. From music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds & Shin'a'in. From Oneida Indian Nation T-shirts to Celtic design gift wraps. Visit their website at [http://firebirdarts.com](http://firebirdarts.com). If you want a "real" catalog, send $3 to Firebird Arts & Music, PO Box 3068, Portland OR 97294-3268. to place an order, call 1-800-752-0494. for more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
 
@@ -108,9 +108,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-The featured artist for this edition of the newsletter is Herald Alora. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+The featured artist for this edition of the newsletter is Herald Alora. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

@@ -11,13 +11,12 @@ vlink = "navy"
 historical = true
 topic = "personas"
 canonical_path = "/persona-handouts/"
+revised = "10/16/20"
 +++
 
 ## Queen's Own
 
 ## Handouts
-
-### (Revised 10/16/20)
 
 <img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 
@@ -128,7 +127,7 @@ In order to be formally recognized in the [Queen's Own newsletter](/newsletter-g
 - Spell check! Then proofread your material as well before you send it. The spell-checker won't catch "it's" when you mean "its" or "herd" for "heard."
 - Take time out every once in a while to read your story out loud. You will be more likely to hear when "I am" sounds a bit stilted and "I'm" would read more natuarlly. Reading out loud also helps you find typographical errors more easily. This is not a graded assignment, but do your best. You want to be worthy of being Chosen if you are a Herald or of having your other persona type approved.
 
-Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+{{ <signoff /> }}
 
 <img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
 

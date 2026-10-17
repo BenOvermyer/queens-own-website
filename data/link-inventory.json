@@ -1,13 +1,14 @@
 {
   "summary": {
-    "local_available": 1199,
+    "local_available": 1203,
     "missing_file": 3,
     "unavailable_content": 2,
     "remote_available": 120,
-    "missing_pdf": 27
+    "missing_pdf": 27,
+    "unverified_pdf": 1
   },
   "pdf_reconciliation": {
-    "linked_filenames": 147,
+    "linked_filenames": 148,
     "manifest_filenames": 120,
     "linked_without_source_file": [
       "Pirate.pdf",
@@ -21,6 +22,7 @@
       "qoaug2008.pdf",
       "qoaug2015.pdf",
       "qodec2005.pdf",
+      "qofall2026.pdf",
       "qofeb2008.pdf",
       "qofeb2011.pdf",
       "qohac.pdf",
@@ -56,11 +58,6 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "bard-handout/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "bards-faq/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
@@ -126,19 +123,9 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "club-faq/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "club-seal/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "club-seal/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "club-webring/index.html",
@@ -471,11 +458,6 @@
           "url": "http://127.0.0.1:1111"
         },
         {
-          "page": "how-to-join/index.html",
-          "attribute": "href",
-          "url": "/"
-        },
-        {
           "page": "index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
@@ -514,11 +496,6 @@
           "page": "mentors/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
-        },
-        {
-          "page": "mentors/index.html",
-          "attribute": "href",
-          "url": "/"
         },
         {
           "page": "mercedes-lackey-links/index.html",
@@ -2292,6 +2269,11 @@
         },
         {
           "page": "newsletters/2024/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111"
+        },
+        {
+          "page": "newsletters/2026/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111"
         },
@@ -4061,6 +4043,11 @@
           "url": "http://127.0.0.1:1111/archive"
         },
         {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/archive"
+        },
+        {
           "page": "newsletters/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/archive"
@@ -4369,11 +4356,6 @@
           "url": "/barcomp.gif"
         },
         {
-          "page": "club-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
           "page": "club-webring/index.html",
           "attribute": "src",
           "url": "/barcomp.gif"
@@ -4455,16 +4437,6 @@
         },
         {
           "page": "heralds-faq/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "how-to-join/index.html",
-          "attribute": "src",
-          "url": "/barcomp.gif"
-        },
-        {
-          "page": "mentors/index.html",
           "attribute": "src",
           "url": "/barcomp.gif"
         },
@@ -5658,11 +5630,6 @@
       "target": "/barmusic.gif",
       "type": "asset",
       "references": [
-        {
-          "page": "bard-handout/index.html",
-          "attribute": "src",
-          "url": "/barmusic.gif"
-        },
         {
           "page": "bards-faq/index.html",
           "attribute": "src",
@@ -8541,6 +8508,11 @@
         },
         {
           "page": "newsletters/2024/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/community"
+        },
+        {
+          "page": "newsletters/2026/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/community"
         },
@@ -12853,6 +12825,11 @@
           "url": "http://127.0.0.1:1111/css/site.css"
         },
         {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/css/site.css"
+        },
+        {
           "page": "newsletters/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/css/site.css"
@@ -13940,6 +13917,3002 @@
           "page": "fauna-faq/index.html",
           "attribute": "href",
           "url": "#main"
+        }
+      ],
+      "local_present": true,
+      "status": "local_available"
+    },
+    {
+      "target": "/fonts/cardo-400.woff2",
+      "type": "asset",
+      "references": [
+        {
+          "page": "archive/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "bard-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "bards-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "blues-and-blue-bloods-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "blues-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "chapters/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "children-of-velgarth/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "club-chat/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "club-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "club-seal/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "club-webring/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "community/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "companions-choices/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/about/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/arthurian-tales/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/arthurian-tales/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/diversity-in-libraries/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/diversity-in-libraries/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/editorial/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/music-in-medieval-ireland/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/music-in-medieval-ireland/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/reviews/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/editorial/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/either-or/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/either-or/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/from-reptile-to-mammal/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/from-reptile-to-mammal/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/in-the-name-of-god/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/in-the-name-of-god/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/reviews/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/sink-or-swim/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "cooking-velgarth-style/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "danya-winterborn/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "danyas-cookbook/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "delphi-forum/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "dream-casts/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "dream-casts/magics-pawn/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "dream-casts/magics-price/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "dream-casts/magics-promise/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "fan-fiction/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "fauna-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "fun-stuff/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "garb-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "gifts-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "golden-grove/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "guild-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "guilds-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "healer-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "healers-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "herald-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "herald-mage-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "heralds-and-companions/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "heralds-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "how-to-join/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "kalen-edral-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "legal-notices/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "magic-of-velgarth/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "membership/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "mentors/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "mercedes-lackey-links/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "mercedes-lackey-release-form/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "military-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "military-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletter-guidance/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1993/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1993/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1993/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1995/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1995/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1995/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1995/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1995/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2006/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2007/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2008/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2009/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2010/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2011/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2012/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2015/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2016/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2017/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2018/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2019/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2020/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2021/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2022/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2023/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2024/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "newsletters/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "northern-barbarian-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "northern-barbarians-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "npc-directory/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "pacific-northwest-collegium/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "persona-directory/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "persona-handouts/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "personas/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "plants-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "priest-and-priestess-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "privacy-policy/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "proverbs-of-velgarth/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "publications/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "reincarnated-characters/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "release-form-instructions/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "religions-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "role-playing/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "science-and-magic-tricks/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "shina-in-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "shina-in-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "sonoran-collegium/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "sorcerer-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "tayledras-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "tayledras-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "travel-guide/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "valdemar-timeline/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/chat/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/heralds-haven/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/heralds-haven-gate/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/join/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/newsletter/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/president/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "webring-code/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "world/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        },
+        {
+          "page": "world-reference-guide/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/cardo-400.woff2"
+        }
+      ],
+      "local_present": true,
+      "status": "local_available"
+    },
+    {
+      "target": "/fonts/yeseva-one-400.woff2",
+      "type": "asset",
+      "references": [
+        {
+          "page": "archive/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "bard-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "bards-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "blues-and-blue-bloods-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "blues-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "chapters/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "children-of-velgarth/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "club-chat/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "club-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "club-seal/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "club-webring/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "community/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "companions-choices/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/about/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/arthurian-tales/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/arthurian-tales/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/diversity-in-libraries/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/diversity-in-libraries/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/editorial/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/music-in-medieval-ireland/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/music-in-medieval-ireland/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/spring-2002/reviews/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/editorial/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/either-or/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/either-or/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/from-reptile-to-mammal/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/from-reptile-to-mammal/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/in-the-name-of-god/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/in-the-name-of-god/references/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/reviews/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "compass-rose/summer-2000/sink-or-swim/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "cooking-velgarth-style/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "danya-winterborn/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "danyas-cookbook/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "delphi-forum/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "dream-casts/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "dream-casts/magics-pawn/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "dream-casts/magics-price/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "dream-casts/magics-promise/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "fan-fiction/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "fauna-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "fun-stuff/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "garb-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "gifts-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "golden-grove/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "guild-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "guilds-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "healer-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "healers-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "herald-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "herald-mage-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "heralds-and-companions/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "heralds-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "how-to-join/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "kalen-edral-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "legal-notices/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "magic-of-velgarth/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "membership/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "mentors/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "mercedes-lackey-links/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "mercedes-lackey-release-form/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "military-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "military-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletter-guidance/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1988/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1989/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1990/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1991/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1992/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1993/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1993/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1993/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1994/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1995/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1995/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1995/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1995/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1995/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1996/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1997/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1998/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/1999/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2000/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2001/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2002/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2003/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/december/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/november/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/october/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2004/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/april/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/august/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/february/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/january/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/july/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/june/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/march/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/may/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2005/september/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2006/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2007/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2008/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2009/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2010/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2011/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2012/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2015/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2016/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2017/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2018/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2019/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2020/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2021/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2022/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2023/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2024/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "newsletters/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "northern-barbarian-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "northern-barbarians-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "npc-directory/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "pacific-northwest-collegium/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "persona-directory/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "persona-handouts/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "personas/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "plants-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "priest-and-priestess-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "privacy-policy/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "proverbs-of-velgarth/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "publications/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "reincarnated-characters/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "release-form-instructions/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "religions-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "role-playing/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "science-and-magic-tricks/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "shina-in-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "shina-in-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "sonoran-collegium/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "sorcerer-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "tayledras-faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "tayledras-handout/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "travel-guide/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "valdemar-timeline/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/chat/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/faq/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/heralds-haven/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/heralds-haven-gate/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/join/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/newsletter/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "vanyel-fan-club/president/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "webring-code/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "world/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
+        },
+        {
+          "page": "world-reference-guide/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/fonts/yeseva-one-400.woff2"
         }
       ],
       "local_present": true,
@@ -16419,6 +19392,11 @@
           "url": "http://127.0.0.1:1111/legal-notices"
         },
         {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/legal-notices"
+        },
+        {
           "page": "newsletters/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/legal-notices"
@@ -18133,6 +21111,11 @@
         },
         {
           "page": "newsletters/2024/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/membership"
+        },
+        {
+          "page": "newsletters/2026/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/membership"
         },
@@ -21152,6 +24135,16 @@
         },
         {
           "page": "newsletters/2024/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/newsletters"
+        },
+        {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/newsletters/"
+        },
+        {
+          "page": "newsletters/2026/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/newsletters"
         },
@@ -29195,6 +32188,32 @@
       "status": "local_available"
     },
     {
+      "target": "/newsletters/2026",
+      "type": "page",
+      "references": [
+        {
+          "page": "newsletters/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/newsletters/2026"
+        }
+      ],
+      "local_present": true,
+      "status": "local_available"
+    },
+    {
+      "target": "/newsletters/2026#main",
+      "type": "page",
+      "references": [
+        {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "#main"
+        }
+      ],
+      "local_present": true,
+      "status": "local_available"
+    },
+    {
       "target": "/northern-barbarian-handout",
       "type": "page",
       "references": [
@@ -29540,27 +32559,12 @@
           "url": "/pegasus.gif"
         },
         {
-          "page": "club-seal/index.html",
-          "attribute": "src",
-          "url": "/pegasus.gif"
-        },
-        {
           "page": "club-webring/index.html",
           "attribute": "src",
           "url": "/pegasus.gif"
         },
         {
           "page": "delphi-forum/index.html",
-          "attribute": "src",
-          "url": "/pegasus.gif"
-        },
-        {
-          "page": "how-to-join/index.html",
-          "attribute": "src",
-          "url": "/pegasus.gif"
-        },
-        {
-          "page": "mentors/index.html",
           "attribute": "src",
           "url": "/pegasus.gif"
         },
@@ -31764,6 +34768,11 @@
           "url": "http://127.0.0.1:1111/personas"
         },
         {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/personas"
+        },
+        {
           "page": "newsletters/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/personas"
@@ -33420,6 +36429,11 @@
           "url": "http://127.0.0.1:1111/privacy-policy"
         },
         {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/privacy-policy"
+        },
+        {
           "page": "newsletters/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/privacy-policy"
@@ -34963,6 +37977,11 @@
         },
         {
           "page": "newsletters/2024/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/publications"
+        },
+        {
+          "page": "newsletters/2026/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/publications"
         },
@@ -39392,11 +42411,6 @@
           "url": "/qobutback.gif"
         },
         {
-          "page": "club-faq/index.html",
-          "attribute": "src",
-          "url": "/qobutback.gif"
-        },
-        {
           "page": "cooking-velgarth-style/index.html",
           "attribute": "src",
           "url": "/qobutback.gif"
@@ -40295,11 +43309,6 @@
       "type": "asset",
       "references": [
         {
-          "page": "bard-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
           "page": "bards-faq/index.html",
           "attribute": "src",
           "url": "/qobuthome.gif"
@@ -40326,16 +43335,6 @@
         },
         {
           "page": "club-chat/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "club-faq/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "club-seal/index.html",
           "attribute": "src",
           "url": "/qobuthome.gif"
         },
@@ -40415,17 +43414,7 @@
           "url": "/qobuthome.gif"
         },
         {
-          "page": "how-to-join/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
           "page": "kalen-edral-handout/index.html",
-          "attribute": "src",
-          "url": "/qobuthome.gif"
-        },
-        {
-          "page": "mentors/index.html",
           "attribute": "src",
           "url": "/qobuthome.gif"
         },
@@ -45055,6 +48044,11 @@
           "url": "http://127.0.0.1:1111/world"
         },
         {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "http://127.0.0.1:1111/world"
+        },
+        {
           "page": "newsletters/index.html",
           "attribute": "href",
           "url": "http://127.0.0.1:1111/world"
@@ -45327,11 +48321,6 @@
         },
         {
           "page": "blues-and-blue-bloods-faq/index.html",
-          "attribute": "href",
-          "url": "/world-reference-guide/"
-        },
-        {
-          "page": "club-faq/index.html",
           "attribute": "href",
           "url": "/world-reference-guide/"
         },
@@ -47546,6 +50535,28 @@
         "url": "https://files.queensown.org/qodec2017.pdf"
       },
       "status": "remote_available"
+    },
+    {
+      "target": "https://files.queensown.org/qofall2026.pdf",
+      "type": "pdf",
+      "references": [
+        {
+          "page": "newsletters/2026/index.html",
+          "attribute": "href",
+          "url": "https://files.queensown.org/qofall2026.pdf"
+        }
+      ],
+      "local_present": false,
+      "http_url": "https://files.queensown.org/qofall2026.pdf",
+      "http": {
+        "status": null,
+        "error": "Not checked"
+      },
+      "status": "unverified_pdf",
+      "recovery_http": {
+        "status": null,
+        "error": "Not checked"
+      }
     },
     {
       "target": "https://files.queensown.org/qofeb2006.pdf",

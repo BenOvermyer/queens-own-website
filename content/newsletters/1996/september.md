@@ -104,7 +104,7 @@ Robert Jordan--Under the Dragon Banner [Ed. note 2005: Out-of-date info withheld
 
 Doctor Who and other Media--The Prydonians of Prynceton [Ed. note 2005: Out-of-date info withheld.]. Dues are $12 ($18 for first class postage) for their monthly newsletter, *The Prydonian Renegade.*
 
-Tanya Huff--Nine Above! [Ed. note 2005: Out-of-date info withheld.]. In the latest newsletter AJ reveals that Tanya is working on a contemporary fantasy based in Kingston, Ontario about a guest house with a hole to hell in the basement that really cuts the heating costs . . . If you are a Tanya Huff fan, subscribe to Nine Above!
+Tanya Huff--Nine Above! [Ed. note 2005: Out-of-date info withheld.]. In the latest newsletter AJ reveals that Tanya is working on a contemporary fantasy based in Kingston, Ontario about a guest house with a hole to hell in the basement that really cuts the heating costs … If you are a Tanya Huff fan, subscribe to Nine Above!
 
 Anne McCaffrey/Pern--Starfire Weyr c/o Lady Katya [Ed. note 2005: Out-of-date info withheld.].
 
@@ -118,7 +118,7 @@ The Queen's Own newsletter is as good as I can make it, and I'm pleased with mos
 
 FOLLOW OUR DREAMS, the zine for us and our wildest dreams and ideas. What is your dream? Do you think it will ever come true? You can send in anything you want! I'll publish about anything! FOLLOW OUR DREAMS has poems, stories, drawings, dreams, reviews (books; magazines, music, etc), and pen pal ads. Submit anything you want, but it must be original. I've been working on sending out the 2nd issue and I'm almost finished putting together the 3rd issue. To subscribe, please send $5.00 for 6 issues. Sample issues are free! Come on, give it a shot and subscribe today: You *won't* be disappointed! FOLLOW OUR DREAMS [Ed. note 2005: Out-of-date info withheld.].
 
-Ellen Million Graphics has expanded! Now, six artists offer over 50 designs of fantasy stationery, cards, postcards and bookmarks! For fabulous stationery products on partly recycled paper, write and join the mailing list. Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.]. No SASE needed. Order . . . and be enchanted!
+Ellen Million Graphics has expanded! Now, six artists offer over 50 designs of fantasy stationery, cards, postcards and bookmarks! For fabulous stationery products on partly recycled paper, write and join the mailing list. Ellen Million Graphics [Ed. note 2005: Out-of-date info withheld.]. No SASE needed. Order … and be enchanted!
 
 PHOENIX RISING: From the ashes of tire and destruction rises the bird born of flame. She needs your help to live. Send in stories of all kinds, poetry, artwork, messages, register personas of any background, leave a personal, drop some helpful info. I hope to get her out by November, please send submissions by October 20th. This is uncensored, so let your dreams run in our *Sandman's Dreamscape*. Send all questions, info, submissions, with a SASE, to PHOENIX RISING [Ed. note 2005: Out-of-date info withheld.].
 
@@ -173,7 +173,7 @@ We have individual handout sheets for the aspiring Herald, Bard, Healer, Tayledr
 
   Newsletters are published on (or near) the first of each month.
 
-  Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+  Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
   Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

@@ -144,11 +144,11 @@ From Amanda Parsons: "Wheeeeee! Another issue of *Queen of the Mists* is ready: 
 
 From Nicole Blackwell: "She rose, drawn by some unseen force through the balcony doors, into the night .... then she saw him-�motionless beside the crumbling marble statue.., a haunting silhouette in the moonlight. She gasped, and in that same instant he turned, their gazes meeting, spanning the distance between them. And smiling, he lifted his face, extending his arms, and whispered softly into the darkness, *Moonlight Masquerade*... Issue #1, with 50 pages and 2 amazing full-color illustrations, is still available for $6.50. (Checks to Nicole Blackwell) The March issue has yet to be filled. No SASE necessary for guidelines. [Ed. note 2005: Out-of-date info withheld.].�'
 
-"Calling all fellow children of the Star Eyed! Yes, K'Guadia has finally raised its banners high and is need of clansiblings. To find out more, merely send a standard #10 SASE to [Ed. note 2005: Out-of-date info withheld.]. To all present recruits . . . the first newsletter is out! To get a copy send a SASE or preferably $8.00 for a one year's subscription to the Clan Chief."
+"Calling all fellow children of the Star Eyed! Yes, K'Guadia has finally raised its banners high and is need of clansiblings. To find out more, merely send a standard #10 SASE to [Ed. note 2005: Out-of-date info withheld.]. To all present recruits … the first newsletter is out! To get a copy send a SASE or preferably $8.00 for a one year's subscription to the Clan Chief."
 
 From Q Clay: "Are you lacking sanity or are you just extremely weird. Or perhaps mundane life is giving you a nervous breakdown? If so, we want your artwork, short stories, and/or babblings. Far guidelines and more information send a SASE to The Last Step to Insanity c/o [Ed. note 2005: Out-of-date info withheld.]."
 
-"Hey you! Yep, you. So you like vampires, huh? Strange and mystical stories your fancy? Well then, have I got a zine for you. Packed full of stories about vampires, shape-shifters, and werewolves . . . Interested? Send a SASE to Night Songs [Ed. note 2005: Out-of-date info withheld.]. The January issue has been changed to March, and the January, Summer, and October issues of *Night Songs Vol. I* are still available. Submissions desperately needed by March 1st." - Jennifer
+"Hey you! Yep, you. So you like vampires, huh? Strange and mystical stories your fancy? Well then, have I got a zine for you. Packed full of stories about vampires, shape-shifters, and werewolves … Interested? Send a SASE to Night Songs [Ed. note 2005: Out-of-date info withheld.]. The January issue has been changed to March, and the January, Summer, and October issues of *Night Songs Vol. I* are still available. Submissions desperately needed by March 1st." - Jennifer
 
 "The Chronicles of Valdemar" is a 3 year old role-writing chapter. We publish 10 issues a year and a zinc of members' works. If interested, send a SASE to Cathy Timura [Ed. note 2005: Out-of-date info withheld.]."--Cathy
 
@@ -203,7 +203,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

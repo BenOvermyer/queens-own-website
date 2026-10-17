@@ -28,7 +28,7 @@ canonical_path = "/compass-rose/summer-2000/in-the-name-of-god/references/"
 
 ### by
 
-## [Linda A. Malcor](mailto:Legend@malcor.com)
+## [Linda A. Malcor](mailto:shashtah@gmail.com)
 
 ## Notes and References
 

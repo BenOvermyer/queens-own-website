@@ -12,11 +12,10 @@ vlink = "blue"
 historical = true
 topic = "community"
 canonical_path = "/vanyel-fan-club/newsletter/"
+revised = "10/18/20"
 +++
 
 ## The Valdemaran Herald
-
-### (Revised 10/18/20)
 
 *The Valdemaran Herald* is the newsletter of the Vanyel Fan Club, an official chapter of [Queen's Own](/). The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage* trilogy by Mercedes Lackey.
 

@@ -11,13 +11,12 @@ vlink = "silver"
 historical = true
 topic = "community"
 canonical_path = "/delphi-forum/"
+revised = "2/1/02"
 +++
 
 ## Queen's Own
 
 ## Delphi Forum
-
-### (Revised 2/1/02)
 
 <img alt="" loading="lazy" src="/pegasus.gif"/>
 

@@ -48,7 +48,7 @@ Brad says that more than half the songs Misty has written have dealt with the ba
 
 "Frequently, when I need to fill some blank in the storyline or get a better handle on an emotional situation and how it should go, I'll write a song about it."
 
-On the tape, *Mercedes Lackey . . . Live!*, she not only wrote the songs, but also sings them.
+On the tape, *Mercedes Lackey … Live!*, she not only wrote the songs, but also sings them.
 
 "That was an interesting experience, one that I had fun doing," she says, "but I don't think I would like to repeat it. There are two more tapes in mixing right now, *Oathbreakers* and *Freedom, Flight and Fantasy*." (Ed. note: *Oathbreakers* has since been released.)
 
@@ -60,7 +60,7 @@ In the [April '91](/newsletters/1991/april/) newsletter we gave Misty's explanat
 
 The presentation of a replica of *Need* to Misty was reported in the November newsletter. At that time I mentioned that anyone interested in obtaining a *Need* sibling or other handcrafted sword should contact **SteelWolf Armouria** and gave an address. Did I put the wrong zip code? No! I outdid myself and put the wrong state! The correct address is [Ed. note 2003: Out-of-date information withheld.].
 
-Among the information sent me by Michelle Lutz from GEnie was some good news from LArry Dixon: "Finished the tweaks and edits on *Winds of Change*, Chapter Two earlier. I like the feel of this book; those of you who are Tayledras fans will be in heaven (or a good thermal, depending on your bent), since the first part of the book takes place in K'sheyna Vale. I've got a hell of a challenge ahead of me, showing the regalia . . . but then again, I like to have challenges."
+Among the information sent me by Michelle Lutz from GEnie was some good news from LArry Dixon: "Finished the tweaks and edits on *Winds of Change*, Chapter Two earlier. I like the feel of this book; those of you who are Tayledras fans will be in heaven (or a good thermal, depending on your bent), since the first part of the book takes place in K'sheyna Vale. I've got a hell of a challenge ahead of me, showing the regalia … but then again, I like to have challenges."
 
 Later Larry adds, "Valdemar isn't exactly what you'd call a 'medieval' society; think early Renaissance, crossing pseudo-Dane and Northern Italy. And think of the Tayledras as Pierre Cardin designing L.L. Bean gear, with textures and patterns."
 
@@ -92,7 +92,7 @@ New policy: I must have a copy of your zine guidelines before I run an announcem
 
 What is a "zine?" A fanzine (zine for short) is an amateur-produced magazine devoted to a fannish subject, usually SF/F related. Some zines concentrate on one universe, others cover anything of interest to fans. Contributors are not paid for their efforts, but usually receive a fee copy of the issue where their work appears. So when I say "Suppor our zines!" I mean, "Send your artwork, poetry, stories, essays, etc. to one or all of our hardworking zine editors!"
 
-From *Lyne Masamitsu* comes the bad news that her art show zine has folded. She'd like to thank everyone who has supported the zine with art and interest. Because of personal family tragedies and continuing demands on her time and energy, she has had to close the zine. She says, "I returned all art in early January. I **hope** you received it safe and sound . . . Thank you again for your support and understanding."
+From *Lyne Masamitsu* comes the bad news that her art show zine has folded. She'd like to thank everyone who has supported the zine with art and interest. Because of personal family tragedies and continuing demands on her time and energy, she has had to close the zine. She says, "I returned all art in early January. I **hope** you received it safe and sound … Thank you again for your support and understanding."
 
 Greetings from the Middle Sates! We are forming a chapter for those of us in the Kansas, Missouri, Colorado, Nebraska, Iowa, Arkansas and Oklahoma area. For more information, [Ed. note 2003: Out-of-date information withheld.].
 
@@ -188,7 +188,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

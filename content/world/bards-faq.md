@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/bards-faq/"
+revised = "3/11/02"
 +++
 
 ## Bards FAQ
-
-## (Revised 3/11/02)
 
 There are three basic types of musicians on Velgarth: gleemen, minstrels and Bards. They are distinguished mostly by their level of skill and the Gifts that they have. In addition to entertaining, the musicians also function as a way of spreading news throughout the various lands.
 

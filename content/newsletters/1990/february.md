@@ -30,11 +30,11 @@ Mercedes Lackey Fan Club
 
 Dear Misty fans:
 
-[Ed. Note 2002: The fourth page of this newsletter is missing. Does anyone have it? Contact Herald-Mage Adept at [Legend@malcor.com](mailto:Legend@malcor.com).]
+[Ed. Note 2002: The fourth page of this newsletter is missing. Does anyone have it? Contact Herald-Mage Adept at [shashtah@gmail.com](mailto:shashtah@gmail.com).]
 
 We're two years old this issue!
 
-**PLEASE JOIN US IN WELCOMING OUR NEW HERALDS!** Judith and I have been in a state of near shock ever since the large, thick, brown envelopes containing Herald material started arriving. We are both so inordinately *impressed* by those who've managed their time so successfully as to have been able to complete Misty's requirements this quickly. [On the other hand, I'm still stuck in the middle of the second draft of my persona. I haven't got "writer's block" and I'm not lazy, I'm just . . . not as organized as I'd like to be.] Herewith, our first Heralds:
+**PLEASE JOIN US IN WELCOMING OUR NEW HERALDS!** Judith and I have been in a state of near shock ever since the large, thick, brown envelopes containing Herald material started arriving. We are both so inordinately *impressed* by those who've managed their time so successfully as to have been able to complete Misty's requirements this quickly. [On the other hand, I'm still stuck in the middle of the second draft of my persona. I haven't got "writer's block" and I'm not lazy, I'm just … not as organized as I'd like to be.] Herewith, our first Heralds:
 
 - **MERI ANTHONY**, to be hereinafter known as **Herald Meris**, wrote her persona, material on a supporting character, and a story, then finished fulfilling Misty's criteria with a map and floor plans of her home. She was Chosen by a mare named Elithania, and her Gifts are those of Mindspeech, Fetching, and Firestarting.
 - **JODIE BARKER**, to be hereinafter known as **Herald Kana**, wrote her persona, material on a supporting character, and two poems, and included four pictures of herself on her horse Meg to fulfill Misty's criteria. She was Chosen by Khetch, and her Gifts are those of Mindspeech and Fetching.
@@ -45,7 +45,7 @@ We're two years old this issue!
 
 All the Herald material has been, or will be, sent to Misty at her request, so please keep copies and don't ask that we send them back.
 
-For those of you, like myself, still working on your material, or considering starting same, I have a few suggestions or hints that might help you. Put your name on absolutely *everything* you send to me or to one of the zines. This will avoid any mix-ups. If you're using a computer or word processor, proof your material *before* you have it print out. If, like me, you're using a typewriter, proof it before you take the page out. [It's really touch getting it back in the right place, and [*blush*] writing over/in *afterwards* . . . . ]
+For those of you, like myself, still working on your material, or considering starting same, I have a few suggestions or hints that might help you. Put your name on absolutely *everything* you send to me or to one of the zines. This will avoid any mix-ups. If you're using a computer or word processor, proof your material *before* you have it print out. If, like me, you're using a typewriter, proof it before you take the page out. [It's really touch getting it back in the right place, and [*blush*] writing over/in *afterwards* … . ]
 
 Take time out every once in a while to read what you've written *out loud*. that way you'll be more likely to *hear* when "I am" sounds a bit stilted and "I'm" would *read* more naturally. Also, in doing that, when you pause to take a breath, that might be a good place to insert a comma. Reading out loud actually helps you find typographical errors more easily too. Give it a try.
 
@@ -57,7 +57,7 @@ Take time out every once in a while to read what you've written *out loud*. that
 
 Judith says, " In my kitchen is a table about three and a half feet square. On it are a small lazy susan, a napkin holder, a cassette player, and a few filk tapes. The remainder of the surface has been taken over by QO. There are boxes of newsletters, stacks of letters that have been answered and need to be filed. [yes, she keeps them,] the mail of the week, (and sometimes the week before,) envelopes, stamps, and assorted miscellany. There is barely room for my teacup, and my children complain that there's not enough room for a bowl of cereal.
 
-"Oh yes, what spills over from the kitchen table is piled on the dining room table, where the cats sleep on it, play in it, and sometimes scatter it all onto the floor. This is not a complaint, but an explanation of why I'm not always as efficient as we all wish. *There is no modern office with a computer and printer.* [Or fancy filing cabinets and efficient secretaries . . . . ] There are no little elves to process requests for information. *We're* [Judith and Sally] *it, guys and gals!* Please be patient with us." [And help us out too by following our requests--see PERSONALS and FANMESSAGES in particular.]
+"Oh yes, what spills over from the kitchen table is piled on the dining room table, where the cats sleep on it, play in it, and sometimes scatter it all onto the floor. This is not a complaint, but an explanation of why I'm not always as efficient as we all wish. *There is no modern office with a computer and printer.* [Or fancy filing cabinets and efficient secretaries … . ] There are no little elves to process requests for information. *We're* [Judith and Sally] *it, guys and gals!* Please be patient with us." [And help us out too by following our requests--see PERSONALS and FANMESSAGES in particular.]
 
 Once more I'll remind you that Judith, in addition to being a wife and mother [with all the joys and responsibilities that come therefrom,] works outside of her home 5 days a week. She xeroxes QO on a *borrowed* machine, keeps address records on a *borrowed* computer, and *hand* collates, folds, stuffs, stamps and addresses every issue with very occasional help. And writes lots, and lots, and lots of letters.
 
@@ -67,11 +67,11 @@ We are trying to take *everything* into consideration--from which is more import
 
 **ANSWER[S] TO EDITOR'S JANUARY TRIVIA QUESTION:** "What is the definition of 'aged' in horsewo/men's terms?" As the old saying goes, "Ya pays yer money and thaes yer choice."
 
-1. Tas Schlabach, with whom I would have agreed, wrote, "In horse terms it's anything over the age 8, in men it's over 40, and for women it's *never*!" But then . . .
-2. Robin Bonne wrote, "Among horse persons the term 'aged' (pronounced as a single syllable, i.e. 'ag'd') is used to describe any horse more than nine (9) years old, whatever the actual number of years the animal has lived. That is, a horse ten years old and one thirty years old are both said to be 'aged.'" And finally . . .
+1. Tas Schlabach, with whom I would have agreed, wrote, "In horse terms it's anything over the age 8, in men it's over 40, and for women it's *never*!" But then …
+2. Robin Bonne wrote, "Among horse persons the term 'aged' (pronounced as a single syllable, i.e. 'ag'd') is used to describe any horse more than nine (9) years old, whatever the actual number of years the animal has lived. That is, a horse ten years old and one thirty years old are both said to be 'aged.'" And finally …
 3. Linda Yourell, [with whom my cousin and personal horse mavin agreed,] wrote, "As a horsewoman, of sorts, it is my understanding that it refers to any horse over the age of 10. A horse years is equivalent to either 3 or 4 years of a human's life (they can live to be 30--I know one who is 28.). One of my two horses will be 21 next month; the other will be 9 in May."
 
-So there you have it, children. Seeing as the horses aren't talking . . .
+So there you have it, children. Seeing as the horses aren't talking …
 
 **EDITOR'S FEBRUARY TRIVIA QUESTION:** In which of Misty's DAW books did the QO blurb *first* appear?
 
@@ -79,10 +79,10 @@ So there you have it, children. Seeing as the horses aren't talking . . .
 
 **A POTPOURRI OF QUESTIONS AND ANSWERS:** This past month's mail included an unusual number of questions. Many of them have been, or soon will be, answered directly by Judith, but some of them are of general interst so I'm answering them here.
 
-1. **Are Queen's Own buttons still available?** Yes. [Ed. Note 2002: Out-of-date contact and payment info omitted. No, the buttons are no longer available. Anyone want to revive this? Is so, contact Herald-Mage Adept Danya Winterborn at [Legend@malcor.com](mailto:Legend@malcor.com).]
-2. **What happens to a Herald's, or a Herald-to-be's, first Companion if s/he gets Chosen by the Monach's Own Companion?** I took this one to Misty. She says that the first Companion re-Chooses. I think that this is why Herald-Companion bonding takes place over a period of time. Just in case . . . .
+1. **Are Queen's Own buttons still available?** Yes. [Ed. Note 2002: Out-of-date contact and payment info omitted. No, the buttons are no longer available. Anyone want to revive this? Is so, contact Herald-Mage Adept Danya Winterborn at [shashtah@gmail.com](mailto:shashtah@gmail.com).]
+2. **What happens to a Herald's, or a Herald-to-be's, first Companion if s/he gets Chosen by the Monach's Own Companion?** I took this one to Misty. She says that the first Companion re-Chooses. I think that this is why Herald-Companion bonding takes place over a period of time. Just in case … .
 3. **Is the three-page Herald's persona supposed to be story or resumé form?** I think I've finally figured this one out well enough to answer intelligently/understandably. The *resumé* form would be used as/in place of an *outline* for the written three-page [minimum] *persona*, which is more often than not in *story* form.
-4. **What does "authentic" mean (as in recipe)?** In that context, I think it means you should keep in mind that many of the food products and kitchen conveniences we enjoy are not available in Misty's world. Flour--yes. Bisquick--no. Oven--yes. Microwave--no. Fruits and vegetables should either be fresh, and available "locally", or of the type which can be stored in cold cellars or dried successfully. No last year's strawberries or corn, for example. [Corn that old is edible only if you're a horse or . . . ]
+4. **What does "authentic" mean (as in recipe)?** In that context, I think it means you should keep in mind that many of the food products and kitchen conveniences we enjoy are not available in Misty's world. Flour--yes. Bisquick--no. Oven--yes. Microwave--no. Fruits and vegetables should either be fresh, and available "locally", or of the type which can be stored in cold cellars or dried successfully. No last year's strawberries or corn, for example. [Corn that old is edible only if you're a horse or … ]
 5. **Can your friend/relative [supporting character] material be about another Herald or someone who will be Chosen relatively soon?** I don't see why not.
 6. **And can that someone use you as their friend/relative [supporting character]?** Oops. Now we're getting into a sensitive area. Whereas many authors collaborate--like Misty and C.J. Cherryh and Misty and Andre Norton--the idea here is for *you* to develop your *own* personae. If you collaborate with a friend/relative, it's not *yours* [singular]. Therefore, I think the answer has to be no.
 7. **What is a "con"?** It is the diminutive of the word *con*vention.
@@ -120,11 +120,11 @@ Stephanie's requirements for Arrow's
 
 Patrick McKinnion, bless 'im, wrote to
 
-[Ed. note 2002: If anyone has the text for this page, please send it to Danya at [Legend@maclor.com](mailto:Legend@malcor.com). Continuing . . . ]
+[Ed. note 2002: If anyone has the text for this page, please send it to Danya at [Legend@maclor.com](mailto:shashtah@gmail.com). Continuing … ]
 
 Dana Evans wrote Judith indicating her concern that unsuspecting Heralds might find white leather not only *very* expensive but also *extremely* difficult to care for. "Get it wet once and it's spotted and ruined for life. Also, if worn, it gets wear spots, i.e. the suede rubs off and it gets shiny, hard, and dark. If you get the 'tanned' leather, it's hard to work with, harder to wear, [and] without proper oiling it cracks, flakes, etc. Not only that, leater makes you sweat and your skin doesn't breathe. (Those who are forced to wear it often get pressure sores if they don't wear linen under it.) Take it from someone who's worn lots of leather."
 
-I gather it's also very hard to work with/sew. If your budget will allow, and you want to wear as-close-to-the-real-thing as possible, consider ultrasuiede. I believe it's quite easy to work with and I *know* it's machine washable. But, be warned, it probably should be lined, or you should wear cotton or linen under it as well. And it too can be very warm. [I think there's a very special beastie on Velgarth who's hide is used for Heralds' whites. Unfortunately . . . . ]
+I gather it's also very hard to work with/sew. If your budget will allow, and you want to wear as-close-to-the-real-thing as possible, consider ultrasuiede. I believe it's quite easy to work with and I *know* it's machine washable. But, be warned, it probably should be lined, or you should wear cotton or linen under it as well. And it too can be very warm. [I think there's a very special beastie on Velgarth who's hide is used for Heralds' whites. Unfortunately … . ]
 
 **THE ONE TRUISM THAT REMAINS CONSTANT IS THAT THERE IS NO ONE WAY.** If "Dear Abby" and "Ann Landers" can admit to not knowing it all, so can I. In the last two issues of QO, I have written about and printed the responses to, my concern over what I considered the negative affects of those self-deprecating adjectives previously used in some FANMESSAGES.
 
@@ -140,7 +140,7 @@ To respond to the last question first, yes, I think maybe it is mostly. Though t
 
 Basically, it would seem that those of you still in school, particularly at the high school level, are under *enormous* pressure to *think* and *do*, and *be* things, if not the same, acceptable by both your peers and your parents, which may not represent the *real* you. So you develop a protective *persona* which has its own vocabulary.
 
-From the parental point of view, there is an *equal* conflict. Parents want their children to "fit in" *at the same time* they want them to "find themselves." As the King says in *The King and I*, "Is a puzzlement." If I may, I'd like to declare this subject closed with a reference to another musical, *Fanny*, in which two teenagers sing, "Be kind to your parents, though they don't deserve it. Remember that grown-up's a difficult stage of life. They're apt to be nervous, and over-excited, due to enormous stress and strife. Just keep in mind, though it sounds hard, I know, that grown-up's were children long ago . . . ." consider yourselves all hugged for your candor and sharing.
+From the parental point of view, there is an *equal* conflict. Parents want their children to "fit in" *at the same time* they want them to "find themselves." As the King says in *The King and I*, "Is a puzzlement." If I may, I'd like to declare this subject closed with a reference to another musical, *Fanny*, in which two teenagers sing, "Be kind to your parents, though they don't deserve it. Remember that grown-up's a difficult stage of life. They're apt to be nervous, and over-excited, due to enormous stress and strife. Just keep in mind, though it sounds hard, I know, that grown-up's were children long ago … ." consider yourselves all hugged for your candor and sharing.
 
 ## Personals
 
@@ -174,9 +174,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no art (so far) for this edition of the newsletter. If you have a clue who they were, please contact Herald-Mage Adept Danya at [Legend@malcor.com](mailto:Legend@malcor.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no art (so far) for this edition of the newsletter. If you have a clue who they were, please contact Herald-Mage Adept Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com). If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

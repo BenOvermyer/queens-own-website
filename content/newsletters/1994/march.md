@@ -40,9 +40,9 @@ Larry came to chat on GEnie on February 18th and David Dean is sharing some of t
 
 **LARRY:** "Misty & I were flattered the other day when someone on Internet commented that High Flight fans are among the most considerate and courteous in all of fandom. It made us feel very proud that we have attracted such people.
 
-"As for working back that far ...(re The Black Gryphon)..remember that Misty has a hard-science background, as well as personal interests in various cultures . . . plus I have a classical-art background with my pot�pourri of other skills. Neither of us feels like things just spontaneously &#96;happen' in human history . . . we build in the &#96;reasons,' at least in outline form, before the outward signs are ever put on paper. Or screen. ; )
+"As for working back that far ...(re The Black Gryphon)..remember that Misty has a hard-science background, as well as personal interests in various cultures … plus I have a classical-art background with my pot�pourri of other skills. Neither of us feels like things just spontaneously &#96;happen' in human history … we build in the &#96;reasons,' at least in outline form, before the outward signs are ever put on paper. Or screen. ; )
 
-"Of course, that doesn't mean that we don't DISCOVER things as we go! Both Vikteren and Kechara were like that for us . . . and to some extent, Lady Cinnibar and her sexy 'beau.'"
+"Of course, that doesn't mean that we don't DISCOVER things as we go! Both Vikteren and Kechara were like that for us … and to some extent, Lady Cinnibar and her sexy 'beau.'"
 
 In answer to a question about whether the Stelvi Pass explosion was big enough to create Lake Evendim Larry said:
 
@@ -58,7 +58,7 @@ And about later Gryphon books:
 
 "*White Gryphon* won't *be* what you're expecting, I would say. And I can tell you that at least part of *Silver Gryphon* will be set in the current (Storm Waming) time base.
 
-"&lt; smile> Skandranon is going to recover from the effects of being Gate-trapped, though, despite *some* very serious aftereffects . . . acidosis, etc."
+"&lt; smile> Skandranon is going to recover from the effects of being Gate-trapped, though, despite *some* very serious aftereffects … acidosis, etc."
 
 "It occurred to me that one of the most miserable creatures on Velgarth would be a ticklish gryphon. He'd NEVER get away from those feathers."--Larry Dixon, excerpted from GEnie by David Dean for Queen's Own
 
@@ -214,7 +214,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

@@ -36,7 +36,7 @@ Dear Misty Fans,
 
 "Mercedes Lackey's very first novel, *Arrows of the Queen*, introduced readers to the magical land of Valdemar. In this ancient realm, beset by war and internal conflicts, justice is dispensed by an elite force - the legendary Heralds. These unusual men and women, 'Chosen' from all corners of the kingdom by their mysterious horselike Companions, undergo a rigorous training, and follow a rigid code of honor. Bonded for life with their Companions, the Heralds endeavor to keep the peace and, if necessary, defend their country in the name of their monarch.
 
-"Now, Mickey Zucker Reichert, Larry Dixon, Tanya Huff, Michelle Sagara and others add their own special chapters to the history of Valdemar. Meet with a Herald-assassin known only to the Queen . . . learn why in Karse, a question can be deadlier than any sword . . . and discover how for two iifebonded Heralds justice prevails over honor, in seventeen original stories of valor and magic, including three co-authored by Mercedes Lackey herself."
+"Now, Mickey Zucker Reichert, Larry Dixon, Tanya Huff, Michelle Sagara and others add their own special chapters to the history of Valdemar. Meet with a Herald-assassin known only to the Queen … learn why in Karse, a question can be deadlier than any sword … and discover how for two iifebonded Heralds justice prevails over honor, in seventeen original stories of valor and magic, including three co-authored by Mercedes Lackey herself."
 
 *Sword of Ice* has a cover price of [Ed. note 2005: Out-of-date info withheld.].
 
@@ -200,7 +200,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

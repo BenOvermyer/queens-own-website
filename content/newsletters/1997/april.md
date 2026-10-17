@@ -38,7 +38,7 @@ Good news! *Marion Zimmer Bradley's FANTASY Magazine* has bought a new story by 
 
 "Dear Friends,
 
-"The spring is upon us and we're hitting the road with a bunch of new songs . . . This new material will be recorded in May, for our second album on Magna Carta, scheduled for release in August. So come on out and celebrate spring with us - we'll be in your town soon!" April 9, Minneapolis MN at Kieran's Irish Pub, [Ed. note 2005: Out-of-date info withheld.]; April 10, Madison WI at Regent Street Retreat, [Ed. note 2005: Out-of-date info withheld.]; 4/11, Milwaukee WI at Alverno College The Pipeline, [Ed. note 2005: Out-of-date info withheld.]; 4/12 Chicago IL at Fitzgerald's [Ed. note 2005: Out-of-date info withheld.]; 4/13, Sault Ste. Marie MI at Hollywood Cafe [Ed. note 2005: Out-of-date info withheld.]; 4/16, Columbus OH at Stache's [Ed. note 2005: Out-of-date info withheld.]; 4/17 Pittsburgh PA Charlie's Bar [Ed. note 2005: Out-of-date info withheld.]; 4/18, Newport KY at Southgate House [Ed. note 2005: Out-of-date info withheld.]; 4/19, Dayton OH at Canal Street Tavern [Ed. note 2005: Out-of-date info withheld.]; 4/23 Eugene OR at The Wild Duck [Ed. note 2005: Out-of-date info withheld.]; 4/24, Portland OR at Key Largo [Ed. note 2005: Out-of-date info withheld.]; 4/25 Bellingham WA at Cosmos Cafe [Ed. note 2005: Out-of-date info withheld.]; 4/26 Vancouver BC Celtic Festival at The Gate [Ed. note 2005: Out-of-date info withheld.].
+"The spring is upon us and we're hitting the road with a bunch of new songs … This new material will be recorded in May, for our second album on Magna Carta, scheduled for release in August. So come on out and celebrate spring with us - we'll be in your town soon!" April 9, Minneapolis MN at Kieran's Irish Pub, [Ed. note 2005: Out-of-date info withheld.]; April 10, Madison WI at Regent Street Retreat, [Ed. note 2005: Out-of-date info withheld.]; 4/11, Milwaukee WI at Alverno College The Pipeline, [Ed. note 2005: Out-of-date info withheld.]; 4/12 Chicago IL at Fitzgerald's [Ed. note 2005: Out-of-date info withheld.]; 4/13, Sault Ste. Marie MI at Hollywood Cafe [Ed. note 2005: Out-of-date info withheld.]; 4/16, Columbus OH at Stache's [Ed. note 2005: Out-of-date info withheld.]; 4/17 Pittsburgh PA Charlie's Bar [Ed. note 2005: Out-of-date info withheld.]; 4/18, Newport KY at Southgate House [Ed. note 2005: Out-of-date info withheld.]; 4/19, Dayton OH at Canal Street Tavern [Ed. note 2005: Out-of-date info withheld.]; 4/23 Eugene OR at The Wild Duck [Ed. note 2005: Out-of-date info withheld.]; 4/24, Portland OR at Key Largo [Ed. note 2005: Out-of-date info withheld.]; 4/25 Bellingham WA at Cosmos Cafe [Ed. note 2005: Out-of-date info withheld.]; 4/26 Vancouver BC Celtic Festival at The Gate [Ed. note 2005: Out-of-date info withheld.].
 
 The phone numbers given are for the establishments where TEMPEST is playing. To contact TEMPEST directly, use [Ed. note 2005: Out-of-date info withheld.].
 
@@ -141,7 +141,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

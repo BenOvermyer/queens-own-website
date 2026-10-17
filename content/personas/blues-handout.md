@@ -75,7 +75,7 @@ Choose and complete the requirements for two (minimum) of the following:
 ## Special Notes for Blues
 
 - Remember, to be accepted as a Blue you must either be the child of someone who works in the Palace at Haven or of a noble who is required to be at the Palace, or you must have demonstrated aptitude in some elite skill, such as science, engineering, mathematics, or architecture.
-- People do not stay Blues forever. Blues grow up and become something: a politician, a diplomat, a teacher of Blues . . . something. Keep in mind what you want your character to become when you are creating him/her. (See [Advanced Rank](/blues-handout/#advance) below.)
+- People do not stay Blues forever. Blues grow up and become something: a politician, a diplomat, a teacher of Blues … something. Keep in mind what you want your character to become when you are creating him/her. (See [Advanced Rank](/blues-handout/#advance) below.)
 - For General Rules, click [here](/persona-handouts/#rules).
 - For Submission Instructions, click [here](/persona-handouts/#submit).
 - For Helpful Hints, click [here](/persona-handouts/#help).
@@ -110,7 +110,7 @@ Exception: If you are a police officer or firefighter, you may claim full Guard 
 
 For advanced ranks for Guards, see the Advanced rank instructions on the [Military Handout](/military-handout/#advance).
 
-Zhai'helleva, [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com)
+{{ <signoff /> }}
 
 <img alt="" loading="lazy" src="/barcastl.gif"/>
 

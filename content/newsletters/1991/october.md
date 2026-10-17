@@ -34,7 +34,7 @@ The four chapters of *Bardic Voices: The LArk & the Wren* that many of you recei
 
 *Jinx High* is finally on shelves in NJ, as is *Winds of Fate*. Wow! Two new books by Misty to read! Yes, the George Louvis mentioned in *Jinx High* is a relative--my older son to be exact. He's a nusician but he's never had an experience like that prom gig.
 
-If you feel you can't afford a hardcover book, nag your local library to buy *Winds of Fate*, take up a collection among your friends and buy a to-be-shared copy, bet it from a friend, put it on your Christmas list (and ask for it now)--you've got to read this one! Heart-stopping moments, twists and turns in the plot, characters so well drawn they feel like old friends . . . *Winds of Fate* is probably Misty's best work to date.
+If you feel you can't afford a hardcover book, nag your local library to buy *Winds of Fate*, take up a collection among your friends and buy a to-be-shared copy, bet it from a friend, put it on your Christmas list (and ask for it now)--you've got to read this one! Heart-stopping moments, twists and turns in the plot, characters so well drawn they feel like old friends … *Winds of Fate* is probably Misty's best work to date.
 
 *The Elvenbane*, Misty's collaboration with Andre Norton, is the featured selection of the Science Fiction Book Club for November. It's being offered at a "limited time only" price [Ed. note 2003: Out-of-date information withheld.]. If you don't belong to the SFBC, now is a good time to join. You get six books for [Ed. note 2003: Out-of-date information withheld.], and the member friend who enlists you gets [Ed. note 2003: Out-of-date information withheld.]. Your obligation is to [Ed. note 2003: Out-of-date information withheld.]. I've already sent in my order, and I'll be glad to send the enrollment form to the first person who asks for it.
 
@@ -150,7 +150,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

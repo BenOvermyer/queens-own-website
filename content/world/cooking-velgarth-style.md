@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/cooking-velgarth-style/"
+revised = "3/1/02"
 +++
 
 ## Cooking Velgarth Style
-
-## (Revised 3/1/02)
 
 Cooking in a medieval-style setting is sometimes a bit of a challenge. This FAQ will probably develop into a Valdemar Cookbook eventually. For the moment, it's a listing of the types of dishes and foods that are available on Velgarth.
 

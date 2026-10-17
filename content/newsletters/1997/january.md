@@ -52,7 +52,7 @@ For information on the QOC track of programming, contact M. Morrey at [Ed. note 
 
 The winter catalog of Firebird Arts & Music of Oregon, Inc. contains many treasures, including a new David Arkenstone album, "Return of the Guardians." Like "Quest of the Dream Warrior," "Return of the Guardians" contains a complete short story by Misty and a beautiful full color map. *The Herald-Mage Concordance* is being finished at the printers; next to be done is the *Shadow Stalker Songbook*. The re-issue of the songs of *Oathbreakers* is nearly complete, *Oathbomd* has been shipped to all who placed an order. Later this year should see the release of *Spirit Ride* by Mark Shepherd and an album of electronic music composed and played by Mark, also called "Spirit Ride."
 
-You can buy all of Misty's books from Firebird. Teri Lee has a special offer for QO members: *Bardic Voices 2: The Robin and the Kestrel* in hardcover for only $14. Browse through the latest merchandise in Firebircl's online catalog at [Ed. note 2005: Out-of-date info withheld.]. E-mail orders may be sent to [Ed. note 2005: Out-of-date info withheld.]. Call [Ed. note 2005: Out-of-date info withheld.] or write to [Ed. note 2005: Out-of-date info withheld.]. Teri reports that even though all nearby rivers are at flood stage, the studio is all right--"if the creek don't rise." Floods, blizzards . . . is this what is meant by "May you live in interesting times"?
+You can buy all of Misty's books from Firebird. Teri Lee has a special offer for QO members: *Bardic Voices 2: The Robin and the Kestrel* in hardcover for only $14. Browse through the latest merchandise in Firebircl's online catalog at [Ed. note 2005: Out-of-date info withheld.]. E-mail orders may be sent to [Ed. note 2005: Out-of-date info withheld.]. Call [Ed. note 2005: Out-of-date info withheld.] or write to [Ed. note 2005: Out-of-date info withheld.]. Teri reports that even though all nearby rivers are at flood stage, the studio is all right--"if the creek don't rise." Floods, blizzards … is this what is meant by "May you live in interesting times"?
 
 ## COLLEGIUM NEWS:
 
@@ -142,7 +142,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

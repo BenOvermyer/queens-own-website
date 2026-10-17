@@ -11,7 +11,7 @@ Queen’s Own is a fan club for readers of Mercedes Lackey’s work. This policy
 
 ## Contact us
 
-For privacy questions or requests, contact the club coordinators: Linda A. Malcor at [shashtah@gmail.com](mailto:shashtah@gmail.com) or Kendra Hosseini at [healermoon@gmail.com](mailto:healermoon@gmail.com). Please identify the page, publication, or record concerned and describe what you would like changed. Do not send identity documents or other sensitive information with your initial request.
+For privacy questions or requests, contact the club coordinators: Linda A. Malcor at [shashtah@gmail.com](mailto:shashtah@gmail.com) or Gregory Griffiths at [rynok@yahoo.com](mailto:rynok@yahoo.com). Please identify the page, publication, or record concerned and describe what you would like changed. Do not send identity documents or other sensitive information with your initial request.
 
 ## Information you provide
 

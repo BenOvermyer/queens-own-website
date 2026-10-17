@@ -11,13 +11,12 @@ vlink = "silver"
 historical = true
 topic = "community"
 canonical_path = "/club-chat/"
+revised = "7/23/08"
 +++
 
 ## Queen's Own
 
 ## Chat List
-
-### (Revised 7/23/08)
 
 <img alt="" loading="lazy" src="/pegasus.gif"/>
 
@@ -51,13 +50,13 @@ Nonmembers may join the "Pending List" at
 
 [This list is not currently working. We hope to reestablish it soon.]
 
-Only subscribers may post to this list. If you are a subscriber and wish to post a message, send your message to [This list is not currently working. We hope to reestablish it soon. In the meantime, you can send questions directly to Danya at [Legend@malcor.com](mailto:Legend@malcor.com).].
+Only subscribers may post to this list. If you are a subscriber and wish to post a message, send your message to [This list is not currently working. We hope to reestablish it soon. In the meantime, you can send questions directly to Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).].
 
 <a id="tracking"></a>
 
 ### Persona Tracking
 
-I *think* all personae that have been submitted to date have been read and either approved or replied to for a rewrite. If you have submitted a persona and have not heard from me, please contact me at [Legend@malcor.com](mailto:Legend@malcor.com). Here is a list of the current personae in our approval process:
+I *think* all personae that have been submitted to date have been read and either approved or replied to for a rewrite. If you have submitted a persona and have not heard from me, please contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com). Here is a list of the current personae in our approval process:
 
 <table class="cellpadding-2 cellspacing-2 border-2" style="width:100%">
 <tr>
@@ -189,16 +188,16 @@ Bio, Family/Friends, Extra Points</th>
 </tr>
 </table>
 
-If you have submitted a persona and do not see your persona's name on this list, please contact Herald-Mage Adept Danya Winterborn at [Legend@malcor.com](mailto:Legend@malcor.com?subject=Personaapproval).
+If you have submitted a persona and do not see your persona's name on this list, please contact Herald-Mage Adept Danya Winterborn at [shashtah@gmail.com](mailto:shashtah@gmail.com?subject=Personaapproval).
 
 Please note, that if your e-mail address is not working, then we have no way to contact you (so that's probably why you have not heard from us &lt;g>).
 
-We will wait for a year for a rewrite. After a year, we will assume that life has interfered with your ability to complete your persona submission, and the unapproved persona submission will be moved to "deep storage". To reactivate your submission, all you need to do is contact us at [Legend@malcor.com](mailto:Legend@malcor.com?subject=Personarevival). Your persona will be returned to this list, and the submission process will continue from wherever we left off.
+We will wait for a year for a rewrite. After a year, we will assume that life has interfered with your ability to complete your persona submission, and the unapproved persona submission will be moved to "deep storage". To reactivate your submission, all you need to do is contact us at [shashtah@gmail.com](mailto:shashtah@gmail.com?subject=Personarevival). Your persona will be returned to this list, and the submission process will continue from wherever we left off.
 
 <img alt="" loading="lazy" src="/barcomp.gif"/>
 
 ## Removal Instructions for the Queen's Own Chat List
 
-You may unsubscribe from the general information list for each list. If you have trouble, message Herald-Mage Adept Danya Winterborn at [Legend@malcor.com](mailto:Legend@malcor.com), and she will handle your request as soon as possible.
+You may unsubscribe from the general information list for each list. If you have trouble, message Herald-Mage Adept Danya Winterborn at [shashtah@gmail.com](mailto:shashtah@gmail.com), and she will handle your request as soon as possible.
 
 <a href="/"><img alt="" class="float-center" loading="lazy" src="/qobuthome.gif"/></a> [Return to the Queen's Own Home Page](/)

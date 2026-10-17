@@ -28,7 +28,7 @@ canonical_path = "/compass-rose/spring-2002/arthurian-tales/references/"
 
 ### by
 
-## [Linda A. Malcor](mailto:Legend@malcor.com)
+## [Linda A. Malcor](mailto:shashtah@gmail.com)
 
 ## Notes and References
 

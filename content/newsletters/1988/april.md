@@ -38,7 +38,7 @@ Misty is also working on two new novels for DAW in the Heralds series, MAGIC'S P
 
 For those who enjoy her music, Misty is also currently working on OATHBOUND, OATHBREAKERS AND OMENS for Off Centaur Publications [Ed. note 2002: Now Firebird Arts and Music, [http://firebirdarts.com/](http://firebirdarts.com/)]. We'll let you know when it's available.
 
-In our February newsletter we told you that Misty ". . . has one highly supportive husband, John [Ed. note 2002: at the time, Misty's husband's name was really Tony . . . Sally apologizes for the glitch in the July 1988 newsletter.], two dogs and eight cats." After some consideration, we came to the conclusion that we had done the dogs and cats a disservice in not telling you more about them; therefore, herewith Misty's descriptions: "Katie, dog/English setter; Mithril, dog/Spitz; Rattan (Rat), cat/half Siamese, black; Boris Badenov, cat/domestic, black; Jasmine (Jazz), cat/half Manz [sic], black; F. Frederick Skitty (Skat), cat/domestic, orange lnghr [longhair?]; Nadia Comanche (Nads), cat/domestic, tortoiseshell; Mischa Barishnicat (Meesh), cat/domestic, tortoiseshell; Eroll [sic] Flynn (Flynn), cat/Siamese, flamelynxpoint; Strider, cat/Siamese, chocolatepoint." [Editor: We think "Katie" got short-changed in the name catagory.]
+In our February newsletter we told you that Misty "… has one highly supportive husband, John [Ed. note 2002: at the time, Misty's husband's name was really Tony … Sally apologizes for the glitch in the July 1988 newsletter.], two dogs and eight cats." After some consideration, we came to the conclusion that we had done the dogs and cats a disservice in not telling you more about them; therefore, herewith Misty's descriptions: "Katie, dog/English setter; Mithril, dog/Spitz; Rattan (Rat), cat/half Siamese, black; Boris Badenov, cat/domestic, black; Jasmine (Jazz), cat/half Manz [sic], black; F. Frederick Skitty (Skat), cat/domestic, orange lnghr [longhair?]; Nadia Comanche (Nads), cat/domestic, tortoiseshell; Mischa Barishnicat (Meesh), cat/domestic, tortoiseshell; Eroll [sic] Flynn (Flynn), cat/Siamese, flamelynxpoint; Strider, cat/Siamese, chocolatepoint." [Editor: We think "Katie" got short-changed in the name catagory.]
 
 Kristin Ruhle wrote Judith that she had attended Bayfilk in Los Angeles, met Misty, and that Misty autographed all her books. It sounded as though both ladies enjoyed themselves thoroughly. [Note to Kristin: Your letter has been forwarded to Misty as you requested.]
 
@@ -54,9 +54,9 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
-There was no art in this newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+There was no art in this newsletter. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

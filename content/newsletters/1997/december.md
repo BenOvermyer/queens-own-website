@@ -36,7 +36,7 @@ Coming this month from Baen is *Four & Twenty Blackbirds*, Book IV of **Bardic V
 
 "A magical murderer is loose in Alanda. The victims are always women, always lower-class, and the weapon is always a three-sided stiletto, most often found among Church regalia. But the killers are never churchmen, and they always commit suicide immediately after the bloody deed.
 
-"Tat Rufen is just a simple constable. But he really cares about his job, and when one of these murder/suicides happens on his beat he becomes obsessed. His superiors don't care -- the victims will never be missed, and their murderers are already justly dead. But every instinct Tat Rufen has cries out that he has seen only one small piece of a bigger and much nastier puzzle . . . "
+"Tat Rufen is just a simple constable. But he really cares about his job, and when one of these murder/suicides happens on his beat he becomes obsessed. His superiors don't care -- the victims will never be missed, and their murderers are already justly dead. But every instinct Tat Rufen has cries out that he has seen only one small piece of a bigger and much nastier puzzle … "
 
 Other books in the **Bardic Voices** series are *The Lark & the Wren*, *The Robin & the Kestrel*, and *The Eagle & the Nightingales*. For more about Ardis and the Kingsford fire, read **Bardic Choices**: *A Cast of Corbies*, co-written with Josepha Sherman.
 
@@ -46,7 +46,7 @@ Good news for all of us who enjoyed *Owlflight*, there will be an *Owlflight II*
 
 Holiday cards for Misty and Larry can be sent to them in care of their business address: Highflight [Ed. note 2005: Out-of-date info withheld.]. If you would like to show your appreciation for their books with more than a card, consider a donation to **The Alex Foundation**, their favorite charity. Misty says, "**The Alex Foundation** supports the research of Dr. Irene Pepperberg of the University of Arizona in her research into the intelligence, cognitive, and speaking abilities of African Grey Parrots. What she has learned so far has contributed to great advances in the treatment and therapy of learning-disabled children. Dr. Pepperberg raises more than half the money for her research herself, criss-crossing the country to lecture and give demonstrations--on top of her full-time research position! .
 
-" . . . This is a unique opportunity for ordinary folk to support basic research into patterns of learning. All contributions to The Alex Foundation are tax deductible . . . "
+" … This is a unique opportunity for ordinary folk to support basic research into patterns of learning. All contributions to The Alex Foundation are tax deductible … "
 
 Send your donations to The Alex Foundation [Ed. note 2005: Out-of-date info withheld.].
 
@@ -58,7 +58,7 @@ Misty provides the lyrics for the songs on "Magic, Moondust, & Melancholy," a ca
 
 Barbara Hambly will be the Guest of Honor at Fantasy Worlds Festival in Berkeley next Labor Day weekend. Details will be available on the MZB web page [Ed. note 2005: Out-of-date info withheld.] and in future *MZB FANTASY Magazines* and QO newsletters.
 
-Do your holiday shopping at Firebird Arts & Music. Their latest catalog has just been mailed. If you're not yet on their mailing list, send [Ed. note 2005: Out-of-date info withheld.], or browse through their on-line catalog at [Ed. note 2005: Out-of-date info withheld.]. You'll find Misry's books and music, Larry's art in portfolios and on T-shirts, Amberdrake's favorite massage oils, patterns for Valdemar costumes, the books of Tanya Huff and Charles de Lint, both Babylon 5 soundtracks, Indian Nation T-shirts, the Kate Shugak mysteries, the Lord of the Dance video . . . Truly, there's something for everyone. Call [Ed. note 2005: Out-of-date info withheld.] to place an order.
+Do your holiday shopping at Firebird Arts & Music. Their latest catalog has just been mailed. If you're not yet on their mailing list, send [Ed. note 2005: Out-of-date info withheld.], or browse through their on-line catalog at [Ed. note 2005: Out-of-date info withheld.]. You'll find Misry's books and music, Larry's art in portfolios and on T-shirts, Amberdrake's favorite massage oils, patterns for Valdemar costumes, the books of Tanya Huff and Charles de Lint, both Babylon 5 soundtracks, Indian Nation T-shirts, the Kate Shugak mysteries, the Lord of the Dance video … Truly, there's something for everyone. Call [Ed. note 2005: Out-of-date info withheld.] to place an order.
 
 ## CONVENTION NEWS:
 
@@ -104,7 +104,7 @@ For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fan
 
 A new 'zine is starting: Come join us as we ride CIRCUIT. Each issue of CIRCUIT will focus on 2 separate areas of Velgarth. CIRCUIT will feature recipes, poetry, songs, short stories, and a limited amount of pictures, all based on the area featured in each issue. The first issue will focus on the non-collegium ports of the city of Haven and the Dhorisha Plains. The next will feature Hawk's Nest, Sorrows, and Bolthaven. Please limit your submissions to these 5 areas. For questions, guidelines, and submissions please send. a SASE to CIRCUIT [Ed. note 2005: Out-of-date info withheld.].
 
-Rea begins her usual monologue . . . "If you missed the last announcement, issue 1 of DA is finally done. It costs $4 for an issue; if you are a contributor, you pay only $3. We prefer cash, but you can make a check or money order out to "Erin Frost." Outkingdorners are not charged extra for postage. Don't have the money? Are you an editor willing to trade 'zines or perhaps a partial subscription to your newsletter? We negotiate: issues 3 & 4 are now open for submissions. We are accepting artwork, poetry, articles, commentaries, Letters to the Editors, stories, and a lot of other things. If you think we might publish it, just send it! When writing for guidelines, please specify whether you wish the Artists' or Writers' guidelines. Submissions should be Velgarth, Fantasy, or Fantasy-related. Also, we'll now accept stuff on disc. Mac or PC, Word (any version), Powerpoint (any version), Works, Write, or Notepad. For guidelines and more info you need only to send a SASE or 2IRCs and a legible address! So what are you waiting for? Find out what we're all about!" Please, because of the age of the editors, no mail from inmates. DON'T ARGUE WITH THE VOICE c/o Rea Wildfire [Ed. note 2005: Out-of-date info withheld.].
+Rea begins her usual monologue … "If you missed the last announcement, issue 1 of DA is finally done. It costs $4 for an issue; if you are a contributor, you pay only $3. We prefer cash, but you can make a check or money order out to "Erin Frost." Outkingdorners are not charged extra for postage. Don't have the money? Are you an editor willing to trade 'zines or perhaps a partial subscription to your newsletter? We negotiate: issues 3 & 4 are now open for submissions. We are accepting artwork, poetry, articles, commentaries, Letters to the Editors, stories, and a lot of other things. If you think we might publish it, just send it! When writing for guidelines, please specify whether you wish the Artists' or Writers' guidelines. Submissions should be Velgarth, Fantasy, or Fantasy-related. Also, we'll now accept stuff on disc. Mac or PC, Word (any version), Powerpoint (any version), Works, Write, or Notepad. For guidelines and more info you need only to send a SASE or 2IRCs and a legible address! So what are you waiting for? Find out what we're all about!" Please, because of the age of the editors, no mail from inmates. DON'T ARGUE WITH THE VOICE c/o Rea Wildfire [Ed. note 2005: Out-of-date info withheld.].
 
 All good things must come to an end so they say. Sadly, I must announce the end of the short-lived zinc SPELL AND STEEL. Reality does take its toll, and it, has reared its ugly head in my fantasy life big 'time! Send your great submissions to someone else's zine. My sincere thanks for everything that was sent to me. I am currently working on getting it back to you. Oh, I still have copies of Issue #3. I will combine it with fragments of #1. This all-in-one issue is yours for only $3; get them while they last! Michelle Woods [Ed. note 2005: Out-of-date info withheld.].
 
@@ -164,7 +164,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

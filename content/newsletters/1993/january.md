@@ -46,7 +46,7 @@ As a sample of how most of us view Misty and Larry, I'd like to share a letter a
 
 "It was a delight to meet Misty and Larry," Susan wrote. "They are refreshing people in a world of author's oversized egos and sense of importance. I had the pleasure of sharing a meal with them (where the waiter was decadently and appreciatively overtipped) and spent several hours chatting about their varied interests beyond their careers.
 
-" . . . All in all, the two of them were friendly, easy to talk to, and attracted crowds wherever they went." Here is Susan's review:
+" … All in all, the two of them were friendly, easy to talk to, and attracted crowds wherever they went." Here is Susan's review:
 
 "Mercedes Lackey and Larry Dixon once again proved to their fans what friendly, charming and accessible folks they are at ICON 17, a science Fiction and fantasy convention in Iowa City, Iowa, on October 2-4, 1992. Organizers of the event attribute the record attendance (over 500!) to Misty's popularity, but Larry's presence and personality were a wonderful addition.
 
@@ -128,7 +128,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

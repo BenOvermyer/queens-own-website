@@ -34,7 +34,7 @@ Dear Misty Fans,
 
 <img alt="flowers" class="float-right" loading="lazy" src="/qo227.jpg"/>Good news for you Wing Commander fans! The promo from Baen books reads: "One of Baen's Biggest Stars and a Team Leader from Wing Commander Team Up on a Tie-In to the Bestselling Computer Game of all Time!" Yes, it's another collaboration from Misty and Ellen Guon, and it's a Wing Commander book, to be released in time for Christmas.
 
-*WING COMMANDER: FREEDOM FLIGHT* features Ralgha nar Rhallas, captain of a war cruiser, noble lord of the Kilrathi Empire - and a rebel.... Captain K'Kai of Firekka, first of her winged species to leave her planet for the stars . . . . Captain Ian St. John, call sign "Hunter," hotshot human pilot - he thinks he's just in it for the hot flying . . . . Rikik, K'Kai's niece, hereditary leader of her clan - all she wants to do is follow in her notorious relative's footsteps and fly the stars . . . . They were as disreputable a gang of misfits as ever flew between the stars. But together they could free a world . . . . WOW!
+*WING COMMANDER: FREEDOM FLIGHT* features Ralgha nar Rhallas, captain of a war cruiser, noble lord of the Kilrathi Empire - and a rebel.... Captain K'Kai of Firekka, first of her winged species to leave her planet for the stars … . Captain Ian St. John, call sign "Hunter," hotshot human pilot - he thinks he's just in it for the hot flying … . Rikik, K'Kai's niece, hereditary leader of her clan - all she wants to do is follow in her notorious relative's footsteps and fly the stars … . They were as disreputable a gang of misfits as ever flew between the stars. But together they could free a world … . WOW!
 
 Tornadoes tore through Oklahoma June 19th. On June 20th Larry posted this on GEnie: "Tornadoes are funny things.
 
@@ -42,11 +42,11 @@ Tornadoes tore through Oklahoma June 19th. On June 20th Larry posted this on GEn
 
 "We found the path of the tornado that hit the garage cleanly etched out in our field, meandering to the garage only, and hooking behind it to the twenty feet between the Aerie proper and the old garage, where it threw a footlocker of camping gear through the porch railing.
 
-"And there the tornado lifted, two feet or so from the Aerie. Pretty nifty . . . .
+"And there the tornado lifted, two feet or so from the Aerie. Pretty nifty … .
 
 "Lost two portfolios and an archive file. And a box of uncirculated prints. The good news for you all is that the prints and art you have are now even more collectible. It's a pretty cool planet, all in all....
 
-"As disasters go, this isn't one. Rubber, plastic, metal, glass, and enamel is all a car is. Paper, graphite, and acrylic is all art is. And wood and metal is all construction is. We have resources, and are dealing with it, no problem. As far as the portfolios--I can make more art. There are people who are on Welfare who lost their homes... Don't get too upset over this . . . if you want to get upset over something, our agent, Russell Galen--who is also a dear personal friend--just lost a lung this week to a large but benign cancer. Send your good thoughts his way. He deserves an enormous amount of credit from the fans. It has been his work from the beginning that has brought our work to you folks . . . "
+"As disasters go, this isn't one. Rubber, plastic, metal, glass, and enamel is all a car is. Paper, graphite, and acrylic is all art is. And wood and metal is all construction is. We have resources, and are dealing with it, no problem. As far as the portfolios--I can make more art. There are people who are on Welfare who lost their homes... Don't get too upset over this … if you want to get upset over something, our agent, Russell Galen--who is also a dear personal friend--just lost a lung this week to a large but benign cancer. Send your good thoughts his way. He deserves an enormous amount of credit from the fans. It has been his work from the beginning that has brought our work to you folks … "
 
 The George Alec Effinger Medical Fund announces a new fund raiser, the "WORLDCON-FOR-A-BUCK" raffle. Win a chance to attend WorldCon '93 in San Francisco for only a dollar. The Grand Prize includes airline travel from anywhere in the continental US, WorldCon membership, and 4 nights hotel accommodations and meal allowance.
 
@@ -132,7 +132,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

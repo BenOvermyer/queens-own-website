@@ -11,11 +11,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/guilds-faq/"
+revised = "3/1/02"
 +++
 
 ## Guild FAQ
-
-## (Revised 3/1/02)
 
 There are many Guilds on Velgarth. Some are specific to a given country. When we have such information, it is given in parentheses following the Guild name. Here are the Guilds we know about:
 

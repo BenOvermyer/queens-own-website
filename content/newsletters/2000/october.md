@@ -36,7 +36,7 @@ This month we continue series of interviews with the editors of the various Quee
 
 1. When did you join Queen's Own?
 
-  "Unofficially," around 8 years ago. Er . . . Umm . . . I'm now in the process of "officially" joining. Really.
+  "Unofficially," around 8 years ago. Er … Umm … I'm now in the process of "officially" joining. Really.
 2. What got you hooked on Misty's books?
 
   I picked up *Arrow's Flight* in the library because I'm a sucker for good cover art, and went out and bought the whole series because I'm also a sucker for a good story. I enjoy Misty's stories because she's not afraid to spotlight alternative lifestyles and beliefs and treat them as commonplace. Her use of strong female protagonists in many of her books--especially Diana Tregarde, Tarma and Kerowyn--kept me reading and wishing that I could meet these women in person!
@@ -48,7 +48,7 @@ This month we continue series of interviews with the editors of the various Quee
   Depends on my current mood: Loreena McKennitt, Dead Can Dance, Classical, Nine Inch Nails, Various Soundtracks, Ethnic/World, Bluegrass, Folk, "New Age"--the occasional attack of 80's nostalgia--In other words, I have a wide range and eclectic taste.
 5. What was the first con you went to?
 
-  Not counting the occasional Star Trek convention, the first con that had any fantasy leanings was the DreamCon-I-don't-remember-the-number) in Everett, WA where Misty was GoH. This is where I picked up a brochure about Pacific Northwest Collegium and learned about QO. The rest, they say, is history . . .
+  Not counting the occasional Star Trek convention, the first con that had any fantasy leanings was the DreamCon-I-don't-remember-the-number) in Everett, WA where Misty was GoH. This is where I picked up a brochure about Pacific Northwest Collegium and learned about QO. The rest, they say, is history …
 6. What do you like the best about Queen's Own?
 
   QO is a great opportunity to meet people of like mind who have a love of fantasy in general and of Misty's work in particular. Plus, it's a chance to meet and connect with people throughout the USA--and beyond.
@@ -73,7 +73,7 @@ This month we continue series of interviews with the editors of the various Quee
 
 <img alt="Crossed Swords by Herald Alora" class="border-2" loading="lazy" src="/qo24.jpg"/>
 
-Here are the faires we know about that are happening in October. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com)
+Here are the faires we know about that are happening in October. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
 ### Alabama
 
@@ -157,7 +157,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at [h
 
 ## Conventions:
 
-These are the upcoming cons we know about. (Living in California, that's what I usually get information on.) Have any information about conventions in your area? Send it to us at [Legend@malcor.com](mailto:Legend@malcor.com).
+These are the upcoming cons we know about. (Living in California, that's what I usually get information on.) Have any information about conventions in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 ### New York
 
@@ -206,7 +206,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
 - CrossGen Comics: Exciting New Fantasy Comic Books. Follow Prince Ethan's adventures the third Wednesday of each month as he gains the powerful sigil and accidentally puts his world on the brink of war. Meridian, on sale the fourth Wednesday of each month, is the fantastic saga of a teenage girl and her plight to save her floating island home. Go to [http://www.crossgen.com](http://www.crossgen.com), or call 1-888-COMICBOOK for details on a retail location near you.
 - Tanya Huff: **Nine Above!** is a list for fans of author Tanya Huff. This list provides announcements about Tanya's latest work, publication dates, and personal appearances. NA! also provides a forum for Tanya's fans to communicate with each other, and will have discussion as well as announcements. Lurking is fine, but participation is encouraged. When you join, we'd love for you to send a "hello" to the group at large, telling us who you are! To start sending messages to members of this group, simply send email to [nineabove@egroups.com](mailto:nineabove@egroups.com).
-- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [Legend@malcor.com](mailto:Legend@malcor.com).
+- L.A. Malcor: **Dragonlords of Dumnonia**: L.A. Malcor, [http://www.dragonlordsnet.com](https://dragonlords.fans/index.html), [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - Anne McCaffrey/Pern: **The Third Pass Weyrs.**Contact Weyrwoman Second Naerah at [Nyco@aol.com](mailto:Nyco@aol.com) or visit the website at http://www.3rdpass.com/ for more information.
 - Adrian Paul of Highlander: **Peace,**APFC P.O. Box 4593, North Hollywood, CA 91617 or **Peace,**APFC P.O. Box 519, Broley, Kent, BR29WX, England.
 - Michae Praed: *Michael Praed Network Newsletter*, c/o Kate Raymond, P.O. Box 516, Midlotioan, IL 60445.
@@ -221,7 +221,7 @@ We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercena
 
 You need a release form (online at [Release form instructions](/release-form-instructions/)) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. Do NOT include the *original* of the release form with your persona material; send it to Misty. Send a *copy* to us.
 
-All personae materials should be sent to the QO address or submitted by e-mail to [Legend@malcor.com](mailto:Legend@malcor.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
+All personae materials should be sent to the QO address or submitted by e-mail to [shashtah@gmail.com](mailto:shashtah@gmail.com) and [healermoon@gmail.com](mailto:healermoon@gmail.com).
 
 - Welcome, **Tayledras Mage Silentheart k'Chona**. Her bondbird is a black Northern Hawk Owl named Ty'lire, and she has Mindspeech with her bondbird only. **Michelle Brumley** wrote about her persona and friends, drew a picture of Silentheart, and drew a picture of Ty'lire.
 - Welcome, **Tayledras Healer Adept Crystalwren k'Sheyna**. Her bondbird is a Grey Goshawk named Perdue, and she has Mindspeech with her bondbird and non-human races. **Caitlyn Wilkinson** wrote about her persona and friends, drew a picture of Crystalwren, and drew a picture of Perdue.
@@ -230,9 +230,9 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 ### From Herald-Mage Master Danya Winterborn:
 
-In the fanfiction world, Danya is the mother of triplet boys. In the real world, I am the mother of a four-year-old son, and I am about to become the mother of . . . well, we don't know if the baby will be a boy or a girl. What we are fairly certain about is that I will be induced in late October. That means that I'm already working on the November QO newsletter and will likely be sending it out early . . . or possibly late, if my second child decides to show up early of his/her own accord ::grin::. If you have anything for the November issue, make sure you send it to me as soon as possible!
+In the fanfiction world, Danya is the mother of triplet boys. In the real world, I am the mother of a four-year-old son, and I am about to become the mother of … well, we don't know if the baby will be a boy or a girl. What we are fairly certain about is that I will be induced in late October. That means that I'm already working on the November QO newsletter and will likely be sending it out early … or possibly late, if my second child decides to show up early of his/her own accord ::grin::. If you have anything for the November issue, make sure you send it to me as soon as possible!
 
-In other news, if you would like to stop by and say "Heyla", my coauthor, C. Scott Littleton, and I will be signing copies of our book, From Scythia to Camelot, in Morrison Lounge at Occidental College (1600 Campus Rd., Los Angeles, CA) on Thursday, October 5, 2000 at 4:00 PM. I'd love to see you! For more information, e-mail me at [Legend@malcor.com](mailto:Legend@malcor.com).
+In other news, if you would like to stop by and say "Heyla", my coauthor, C. Scott Littleton, and I will be signing copies of our book, From Scythia to Camelot, in Morrison Lounge at Occidental College (1600 Campus Rd., Los Angeles, CA) on Thursday, October 5, 2000 at 4:00 PM. I'd love to see you! For more information, e-mail me at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 I also want to remind you that, as you prepare to do your holiday shopping, please consider purchasing from the Dragonlords' Bookstore at [http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm). Books, videos, CDs, toys, electronics and much, much more are all available through this site, often at excellent discounts. A portion of the proceeds from every purchase goes to support Dragonlords, and Dragonlords is the group that grants Queen's Own free webspace, access to a PO box, and the like, covering Queen's Own's expenses so that we no longer have to charge for memberships. Your patronage is greatly appreciated!
 
@@ -245,7 +245,7 @@ The newsletter is routinely posted to the Net. If you are concerned about your a
 The only "fee" for a fan message is to write to two other people. If your mailbox is empty, don't complain--write letters!
 
 - From **White Winds Soceress Shadow Weaver**. I am looking for gothic and sci/fi fantasy events in Ohio/KY/Indiana/West Virginia to merchant at. If you have any info please e-mail [cimeshadow@aol.com](mailto:cimeshadow@aol.com) or snail mail Lisa Brawner at P.O. Box 8335, Lexington, KY 40533-8335.
-- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [Legend@malcor.com](mailto:Legend@malcor.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
+- From **Danya Winterborn**, P.O. Box 749, Laguna Beach, CA 92652, E-mail: [shashtah@gmail.com](mailto:shashtah@gmail.com). Heyla, all! I am a tremendously busy "mom" &lt;g>, but I do try to answer all messages that are sent to me. (Sometimes it takes me a few days, but I do answer them.) Feel free to write if you have any questions or even if you just want to chat!
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
@@ -253,7 +253,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 
 ## Personals:
 
-- To **Elizabeth Barrette**, the author of the Pros & Cons booklet we distribute, from **Herald-Mage Master Danya Winterborn**. Please contact me at [Legend@malcor.com](mailto:Legend@malcor.com).
+- To **Elizabeth Barrette**, the author of the Pros & Cons booklet we distribute, from **Herald-Mage Master Danya Winterborn**. Please contact me at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 - To **Everyone Who's Asked**, from **Herald-Mage Master Danya Winterborn**. The paperback edition of my book on King Arthur and my dissertation on the Holy Grail are available (at reasonable prices for a change!) through the links at [http://www.dragonlordsnet.com/bkmalcor.htm](https://dragonlords.fans/bkmalcor.htm). For a current listing of my publications, visit [http://www.dragonlordsnet.com/author.htm](https://dragonlords.fans/author.htm).
 - To **Filk and Anne McCaffrey fans**, from **Cassandra Vuksa**. Visit [http://members.aol.com/opland/index.htm](http://members.aol.com/opland/index.htm). Tania Opland and Mike Freeman have produced a very cool CD, which has songs like "Lessa's Ride" and "The Question Song" on it. I bought the CD and have never regretted it.
 
@@ -263,11 +263,11 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Co-Editor/Co-President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Co-Editor/Co-President Herald-Mage Master Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Co-Editor/Co-President Healer Adept Moonstar (Kendra Renaud; AOL-IM SN healermoon; [healermoon@gmail.com](mailto:healermoon@gmail.com))
 
-The featured artist for this online version of the newsletter is Herald Alora. All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [Legend@malcor.com](mailto:Legend@malcor.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
+The featured artist for this online version of the newsletter is Herald Alora. All drawings in this newsletter are © to the credited artist. All rights reserved. If you would like your art to be featured in the online version of the QO newsletter, send .gifs or .jpgs to [shashtah@gmail.com](mailto:shashtah@gmail.com) or hardcopy to Queen's Own, P.O. Box 749, Laguna Beach, CA 92652.
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

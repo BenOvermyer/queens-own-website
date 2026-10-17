@@ -23,7 +23,7 @@ SOURCES = {
 def sanitize_public_text(text: str) -> str:
     """Remove contact addresses from public prose blocks."""
     text = text.replace(
-        'please contact [me](mailto:Legend@malcor.com).',
+        'please contact [me](mailto:shashtah@gmail.com).',
         'please contact the club.',
     )
     return re.sub(r'\[([^\]]*)\]\(mailto:[^)]*\)', r'\1', text)

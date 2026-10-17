@@ -88,7 +88,7 @@ SHIN'A'IN!!! Come join your fellow clansmen with *Under Kal'enel's Care*. The bi
 
 I am making a section in the Vales for each of the following: Heralds, Healers, Bards, Mercenaries, Herald-Mages, Shin'a'in, White Winds Sorcerers, as well as Tayledras personas. Don't be left out. Submissions will be accepted until December first. Please send your persona as well as an SASE to Kendra Renaud [Ed. note 2005: Out-of-date info withheld.]. I will mail out completed lists at the end of December. The cost of the VALES will depend on the number of submissions.
 
-MOONLIGHT MASQUERADE, a journal of fantasy and adventure, mysticism and romance, where the night is eternal, and the splendor of your dreams awaits you amidst the brilliance of the Masquerade . . . Each issue of this full-size journal is another breathtaking journey into the realms of fantasy, mystery, and romance, yet another glimpse into the enchantment of the imagination and the magic of the Masquerade. Published quarterly, every issue is in 11. x 17" pro format with a cardstock cover and 60+ pages of poetry, artwork, and tales. Sample Issues are $3.50 USA/$4.50 Canada/$6.50 overseas. Checks/money orders should be payable to Nicole Blackwell, please. Come join the Masquerade! Send all orders, or SASE or 2 IRCs for submission guidelines and more information to[Ed. note 2005: Out-of-date info withheld.]. Issue #10 available now!
+MOONLIGHT MASQUERADE, a journal of fantasy and adventure, mysticism and romance, where the night is eternal, and the splendor of your dreams awaits you amidst the brilliance of the Masquerade … Each issue of this full-size journal is another breathtaking journey into the realms of fantasy, mystery, and romance, yet another glimpse into the enchantment of the imagination and the magic of the Masquerade. Published quarterly, every issue is in 11. x 17" pro format with a cardstock cover and 60+ pages of poetry, artwork, and tales. Sample Issues are $3.50 USA/$4.50 Canada/$6.50 overseas. Checks/money orders should be payable to Nicole Blackwell, please. Come join the Masquerade! Send all orders, or SASE or 2 IRCs for submission guidelines and more information to[Ed. note 2005: Out-of-date info withheld.]. Issue #10 available now!
 
 Lynn Tucker's COMPANIONS' GROVE 7 is almost ready for print! I am now accepting submissions for Vo18. I need fiction, poetry, and artwork that is set in Misty's world of Valdemar. Please send SASE for guidelines to COMPANIONS' GROVE [Ed. note 2005: Out-of-date info withheld.]. For information on back issues, contact Lynn Tucker [Ed. note 2005: Out-of-date info withheld.]. Prices vary. Also available from Lynn is "DO OR DYE: A GUIDE TO COMPANION CAMOUFLAGE", written by Elizabeth Barrette and illustrated by Herald Alora, for $2.50.
 
@@ -98,7 +98,7 @@ Stamps For Life: Be part of the ultimate recycling project. Your old/used postag
 
 Do you like Star Trek? Love getting stuff in the mail? What about writing and role-playing clubs? If you answered yes to one or more, then Warp Nine: The Future Begins Here is for you! For information, please send an SASE to Ambassador Tourian L'Rae Rt.l Box 28 Ozark AL 36360.
 
-STARFIRE WEYR is here! For those of you who haven't heard, STARFIRE WEYR is a fantasy 'zine set in a unique combination of the worlds created by Anne McCaffrey. We're always searching for new dragonriders, harpers, healers, telepaths, and crystal singers . . . Come join the fun! Anyone may place an ad or fan message at no charge. Sample issues are $1 + an SASE for your first issue, and subscriptions are $10 for five issues of *The Night Sky*. For information/guidelines, send an SASE to STARFIRE WEYR c/o Lady KaLya [Ed. note 2005: Out-of-date info withheld.].
+STARFIRE WEYR is here! For those of you who haven't heard, STARFIRE WEYR is a fantasy 'zine set in a unique combination of the worlds created by Anne McCaffrey. We're always searching for new dragonriders, harpers, healers, telepaths, and crystal singers … Come join the fun! Anyone may place an ad or fan message at no charge. Sample issues are $1 + an SASE for your first issue, and subscriptions are $10 for five issues of *The Night Sky*. For information/guidelines, send an SASE to STARFIRE WEYR c/o Lady KaLya [Ed. note 2005: Out-of-date info withheld.].
 
 ## COLLEGIUM NEWS:
 
@@ -146,7 +146,7 @@ Queen's Own is the official Mercedes Lackey Appreciation Society. Our purpose is
 
 Newsletters are published on (or near) the first of each month.
 
-Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [Legend@malcor.com](mailto:Legend@malcor.com))
+Editor/President Herald-Mage Adept Danya Winterborn (L.A. Malcor; AOL-IM SN Shashtah; [shashtah@gmail.com](mailto:shashtah@gmail.com))
 
 Mercedes Lackey does not receive mail at the Queen's Own address. Fanmail to Mercedes Lackey and releases for fan fiction should be sent to:
 

@@ -1,0 +1,9 @@
+{#- Club sign-off component. The salutation, name, and address live in config.toml
+    under [extra.signoff]; edit them there to change the coda on every page.
+    Usage in content: {{ <signoff /> }} -#}
+{%- component signoff(@config) -%}
+<div class="signoff">
+    <span class="salutation">{{ config.extra.signoff.salutation }},</span>
+    <span class="signature"><a href="mailto:{{ config.extra.signoff.email }}">{{ config.extra.signoff.name }}</a></span>
+</div>
+{%- endcomponent signoff -%}

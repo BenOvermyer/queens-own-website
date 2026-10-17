@@ -12,17 +12,16 @@ vlink = "red"
 historical = true
 topic = "community"
 canonical_path = "/golden-grove/"
+revised = "7/12/08"
 +++
 
 ## Golden Grove
 
 ## The California Chapter of Queen's Own
 
-### (Revised 7/12/08)
-
 <img alt="" loading="lazy" src="/GGlogo.png"/>
 
-Golden Grove is the California Chapter of Queen's Own. It is currently up for adoption. If you would like to adopt this chapter, contact Danya at [Legend@malcor.com](mailto:Legend@malcor.com).
+Golden Grove is the California Chapter of Queen's Own. It is currently up for adoption. If you would like to adopt this chapter, contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 ## History
 
@@ -40,7 +39,7 @@ Golden Grove is the California chapter of [Queen's Own](/), the official Mercede
 
 <a href="/club-webring/"><img alt="Queen's Own" loading="lazy" src="/qoq.gif" style="width:80px; height:100px"/></a>
 
-This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:Legend@malcor.com).
+This [Queen's Own](/club-webring/) site is owned by [L.A. Malcor](mailto:shashtah@gmail.com).
 
 [[Previous 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;prev5) | [Previous](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;prev) | [Next](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;next) | [Next 5 Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;id=4;next5) | [Random Site](http://www.webring.org/cgi-bin/webring?ring=qsown;random) | [List Sites](http://www.webring.org/cgi-bin/webring?ring=qsown;list)]
 

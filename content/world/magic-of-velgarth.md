@@ -12,11 +12,10 @@ vlink = "red"
 historical = true
 topic = "world"
 canonical_path = "/magic-of-velgarth/"
+revised = "5/30/05"
 +++
 
 ## The Magic of Velgarth
-
-## (Revised 5/30/05)
 
 As I work on making Danya a Herald-Mage in [Queen's Own](/), I'm compiling details about how various forms of magic work on Misty's world of Velgarth, both inside and outside the borders of Valdemar. I'm actively rereading the entire Valdemar series at the moment, so expect this section to updated frequently.
 
