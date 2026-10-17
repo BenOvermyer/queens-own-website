@@ -79,13 +79,46 @@ a:visited { color: var(--visited); }
 nav { display: flex; justify-content: center; flex-wrap: wrap; gap: .4rem 1rem; margin-top: .5rem; }
 .legacy-content img { max-width: 100%; height: auto; }
 .legacy-content { overflow-wrap: anywhere; }
-main { overflow-x: auto; width: 968px; margin: 0 auto; }
+main { overflow-x: auto; width: calc(100% - 2rem); max-width: 968px; margin: 0 auto; }
 .skip { position: absolute; left: -10000px; }
 .skip:focus { left: 1rem; top: 1rem; background: var(--background); padding: .5rem; }
 .unavailable-note { font-size: .85em; font-style: italic; }
-.topic-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: 1rem; }
-.topic-grid section { border: 1px solid currentColor; padding: 1rem; }
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
+  gap: 2rem 1.5rem;
+  margin-block: 2rem;
+  padding: .5rem;
+}
+.topic-grid section {
+  position: relative;
+  min-width: 0;
+  border: 1px solid transparent;
+  padding: 1.5rem;
+  overflow-wrap: anywhere;
+}
+/* Both outlines have straight sides and opposing waves above and below. */
+.topic-grid section::before,
+.topic-grid section::after {
+  --wave-offset: calc(-.375rem - 1px);
+  content: "";
+  position: absolute;
+  inset: .125rem .375rem;
+  background: var(--valdemar-blue);
+  /* Masking lets the wave strokes inherit the theme color. */
+  mask:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='8' viewBox='0 0 24 8'%3E%3Cpath d='M0 4Q6 -2 12 4T24 4' fill='none' stroke='black' stroke-width='1'/%3E%3C/svg%3E") var(--wave-offset) top / 24px 8px repeat-x,
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='8' viewBox='0 0 24 8'%3E%3Cpath d='M0 4Q6 10 12 4T24 4' fill='none' stroke='black' stroke-width='1'/%3E%3C/svg%3E") var(--wave-offset) bottom / 24px 8px repeat-x,
+    linear-gradient(black, black) left center / 1px calc(100% - 8px) no-repeat,
+    linear-gradient(black, black) right center / 1px calc(100% - 8px) no-repeat;
+  pointer-events: none;
+}
+.topic-grid section::before {
+  --wave-offset: 0px;
+  inset: calc(-.25rem - 1px) -1px;
+}
 .topic-grid h2 { margin-top: 0; }
+.topic-grid p:last-child { margin-bottom: 0; }
 .breadcrumbs { justify-content: flex-start; font-size: .9em; }
 .revised { font-weight: 700; }
 .page-list li, .year-list li { margin-bottom: .5rem; }
@@ -97,7 +130,7 @@ footer { text-align: center; padding: 1rem; border-top: 1px solid currentColor; 
 .hero { text-align: center; }
 .hero h1 { margin: 0; }
 .hero .subtitle { display: block; font-style: italic; font-size: 1.75rem; }
-.hero img { margin-top: 0.5rem; }
+.hero img { margin-top: 0.5rem; max-width: 100%; height: auto; }
 
 td, th { border: 1px solid #000000; margin: 0; padding: 0.25rem; }
 table { margin: 0.25rem auto; border: 2px solid #000000; }
