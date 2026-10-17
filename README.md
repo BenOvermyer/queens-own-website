@@ -48,6 +48,16 @@ retain `extra.legacy_source` for provenance; the membership landing pages and ot
 navigation hubs are separately maintained Markdown. Hub edits survive reorganization
 and reimport. Ordinary new editorial pages do not need a legacy source identifier.
 
+Member names and contact addresses for the persona and NPC directories are kept in
+`data/persona-directory.json` and `data/npc-directory.json`. Those private sources are
+not rendered. After editing them, regenerate the public pages with
+`python3 scripts/sanitize_persona_directories.py`; the script writes
+`content/personas/persona-directory.md` and `content/personas/npc-directory.md`
+without member names or email addresses. Each JSON source has `front_matter`,
+`preamble`, `sections` and `postamble`; section entries carry `persona`, optional
+`persona_url`, `player`, `email`, and a `details` list of `date`, `gifts`, `note` or
+`raw` fragments. The renderer omits `player` and `email`.
+
 To regenerate canonical links, redirects, and publication indexes after changing
 the preserved archive or refreshing PDF availability evidence:
 

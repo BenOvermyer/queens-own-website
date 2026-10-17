@@ -7,6 +7,7 @@ from urllib.parse import unquote, urlsplit
 from bs4 import BeautifulSoup
 import audit_html
 from audit_links import audit
+from sanitize_persona_directories import SOURCES, render_source
 from verify_routes import validate
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -26,6 +27,15 @@ def raw_markdown(text):
     text = re.sub(r'<code\b.*?</code>', '', text, flags=re.S)
     text = re.sub(r'<table\b.*?</table>', '', text, flags=re.S)
     return RAW_MARKDOWN.findall(text)
+
+
+for source, destination in SOURCES.items():
+    rendered = render_source(source)
+    if destination.read_text() != rendered:
+        errors.append(
+            f'{destination.relative_to(ROOT)} is not the rendered output of '
+            f'{source.relative_to(ROOT)}; run scripts/sanitize_persona_directories.py'
+        )
 
 
 for path in output.rglob('*'):

@@ -1,0 +1,565 @@
+{
+  "schema_version": 1,
+  "front_matter": {
+    "title": "Non-player character directory",
+    "path": "npc-directory",
+    "template": "page.html",
+    "extra": {
+      "legacy_source": "qonpc.htm",
+      "bgcolor": "blue",
+      "text": "white",
+      "link": "aqua",
+      "vlink": "silver",
+      "historical": true,
+      "topic": "personas",
+      "canonical_path": "/npc-directory/"
+    }
+  },
+  "preamble": [
+    "## Queen's Own",
+    "## NPC List",
+    "### (Revised 10/17/26)",
+    "<img alt=\"\" loading=\"lazy\" src=\"/pegasus.gif\"/>",
+    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" class=\"float-left\" loading=\"lazy\" src=\"/ml4.gif\"/></a>These are the approved additional personae (NPCs) for Queen's Own. To create a recognized NPC, you have to do everything on a [handout](/persona-handouts/), just as you would if you were creating an initial persona. (You do not have to do this if you simply want to make up characters to use in stories. The NPCs listed on this page represent only those characters for whom the member has done the additional work.) If you have an approved NPC persona who is not listed here, please contact [me](mailto:Legend@malcor.com).",
+    "If a name is not linked and does not have an asterisk (&#42;), then we do not know how to reach that person. If you know him/her, please have him/her contact us with a current address!",
+    "&#42;=e-mail withheld by request or unavailable.",
+    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" class=\"float-right\" loading=\"lazy\" src=\"/ml5.gif\"/></a>Each person may have as many NPC personae as s/he wishes. The NPC will only be listed on this page, however, if the club member has done all of the required work on the [handout](/persona-handouts/) for that character type.",
+    "Dates following the names indicate the date of publication of the newsletter in which the persona was recognized. Herald-Mages have multiple dates, indicating their date of acceptance as a Herald and the date they earned each of their Herald-Mage ranks.",
+    "<a href=\"https://dragonlords.fans/bkmlvs.htm\"><img alt=\"\" loading=\"lazy\" src=\"/ml7.gif\"/></a>"
+  ],
+  "sections": [
+    {
+      "title": "Heralds",
+      "url": "/herald-handout/",
+      "notes": [],
+      "entries": [
+        {
+          "persona": "Herald Adera shena Vyusher'edras",
+          "persona_url": null,
+          "player": "Coriyala",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "[June 1990](/newsletters/1990/june/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Fetching, Empathy"
+            },
+            {
+              "type": "note",
+              "text": "Also a Shin'a'in"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Ariel",
+          "persona_url": null,
+          "player": "Tanica",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "July 1993"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Fetching"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Brenna Freeborn",
+          "persona_url": null,
+          "player": "Kayle",
+          "email": "healermoon@gmail.com",
+          "details": [
+            {
+              "type": "date",
+              "text": "[October 1997](/newsletters/1997/october/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Double-strength Mindspeech, Fetching"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Carrana \"Carran\"",
+          "persona_url": null,
+          "player": "Sari",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "[May 1991](/newsletters/1991/may/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Fetching"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Cimerone \"Cam\"",
+          "persona_url": null,
+          "player": "Gayle",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "July 1996"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Animal Mindspeech, Mindhealing"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Garrett Hawkswing",
+          "persona_url": null,
+          "player": "Damaras",
+          "email": "ravyndarke@hotmail.com",
+          "details": [
+            {
+              "type": "date",
+              "text": "October 1993"
+            },
+            {
+              "type": "gifts",
+              "text": "Fetching, Animal Mindspeech, Mindspeech"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Jaala",
+          "persona_url": null,
+          "player": "Echo",
+          "email": "garou@netspeed.com.au",
+          "details": [
+            {
+              "type": "date",
+              "text": "[January 1997](/newsletters/1997/january/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Double-strength Mindspeech, Fetching"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Jasen Snowfyre",
+          "persona_url": null,
+          "player": "Tarvigor",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "[September 1991](/newsletters/1991/september/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Fetching, Animal Mindspeech"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Jayden Ranalth",
+          "persona_url": null,
+          "player": "Arleth",
+          "email": "evillurking@gmail.com",
+          "details": [
+            {
+              "type": "date",
+              "text": "[October 1997](/newsletters/1997/october/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Double-strength Mindspeech, Animal Mindspeech"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Kyr Daringay",
+          "persona_url": null,
+          "player": "Jyrnx",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "September 1993"
+            },
+            {
+              "type": "gifts",
+              "text": "strong Fetching"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Mari Kathryn Lewell",
+          "persona_url": null,
+          "player": "Citronella",
+          "email": "mary@marymuse.com",
+          "details": [
+            {
+              "type": "date",
+              "text": "June 1994"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Fetching, Farsight"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Ranissa Chapman",
+          "persona_url": null,
+          "player": "Fatije",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "July 1995"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Healing, Fetching"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Sable",
+          "persona_url": null,
+          "player": "Sarren",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "[February 1992](/newsletters/1992/february/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Foresight"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Samara Linnea Esaan",
+          "persona_url": null,
+          "player": "Selwyn",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "[September 1991](/newsletters/1991/september/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Fetching, Animal Mindspeech"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Storm",
+          "persona_url": null,
+          "player": "Dustyn",
+          "email": "ravyndarke@hotmail.com",
+          "details": [
+            {
+              "type": "date",
+              "text": "October 1993"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Animal Mindspeech"
+            }
+          ]
+        },
+        {
+          "persona": "Herald Tassanta \"Tass\" Arah Tsornmar",
+          "persona_url": null,
+          "player": "Farlic",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "[May 1991](/newsletters/1991/may/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Farsight, dollop of Empathy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Herald Mages",
+      "url": "/herald-mage-handout/",
+      "notes": [],
+      "entries": []
+    },
+    {
+      "title": "Bards",
+      "url": "/bard-handout/",
+      "notes": [],
+      "entries": [
+        {
+          "persona": "Bard Jarel Snowfyre",
+          "persona_url": null,
+          "player": null,
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "[September 1991](/newsletters/1991/september/)"
+            }
+          ]
+        },
+        {
+          "persona": "Minstrel-Trainee Lassirius",
+          "persona_url": null,
+          "player": null,
+          "email": "knotes93@simons-rock.edu",
+          "details": [
+            {
+              "type": "date",
+              "text": "[May 1991](/newsletters/1991/may/)"
+            }
+          ]
+        },
+        {
+          "persona": "Bard Max Harper",
+          "persona_url": null,
+          "player": null,
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "February 1993"
+            },
+            {
+              "type": "gifts",
+              "text": "Talent, Creativity, Gift"
+            }
+          ]
+        },
+        {
+          "persona": "Bard Tiernan Ava",
+          "persona_url": null,
+          "player": null,
+          "email": "garou@netspeed.com.au",
+          "details": [
+            {
+              "type": "date",
+              "text": "February 2001"
+            },
+            {
+              "type": "gifts",
+              "text": "Talent, Creativity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Healers",
+      "url": "/healer-handout/",
+      "notes": [],
+      "entries": [
+        {
+          "persona": "Healer Cinnamon Ava",
+          "persona_url": null,
+          "player": null,
+          "email": "garou@netspeed.com.au",
+          "details": [
+            {
+              "type": "date",
+              "text": "[December 1997](/newsletters/1997/december/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Very Strong Empathy"
+            }
+          ]
+        },
+        {
+          "persona": "Healer Obesty Banff",
+          "persona_url": null,
+          "player": null,
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "March 1995"
+            },
+            {
+              "type": "gifts",
+              "text": "Very Strong Empathy"
+            }
+          ]
+        },
+        {
+          "persona": "Healer Tearanna Wilder",
+          "persona_url": null,
+          "player": null,
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "[December 1998](/newsletters/1998/december/)(unavailable in archive)"
+            },
+            {
+              "type": "gifts",
+              "text": "Physical Healing"
+            }
+          ]
+        },
+        {
+          "persona": "Healer Vanni Taltos",
+          "persona_url": null,
+          "player": null,
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "[January 1995](/newsletters/1995/january/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Physical Healing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mercenaries",
+      "url": "/military-handout/",
+      "notes": [],
+      "entries": []
+    },
+    {
+      "title": "Shin'a'in",
+      "url": "/shina-in-handout/",
+      "notes": [],
+      "entries": [
+        {
+          "persona": "Herald Adera shena Vyusher'edras",
+          "persona_url": null,
+          "player": "Coriyala",
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "[June 1990](/newsletters/1990/june/)"
+            },
+            {
+              "type": "gifts",
+              "text": "Mindspeech, Fetching, Empathy"
+            },
+            {
+              "type": "note",
+              "text": "Also a Herald"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kal'enedral",
+      "url": "/shina-in-handout/",
+      "notes": [
+        "Note: Some details do not match the current handout because the characters were developed and approved prior to the creation of the handout."
+      ],
+      "entries": [
+        {
+          "persona": "Shin'a'in Kal'enedral Ta'hanya shena Liha'irden",
+          "persona_url": null,
+          "player": null,
+          "email": "Sttawylime@hotmail.com",
+          "details": [
+            {
+              "type": "date",
+              "text": "[June 1999](/newsletters/1999/june/)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tayledras",
+      "url": "/tayledras-handout/",
+      "notes": [],
+      "entries": [
+        {
+          "persona": "Scout Cometfire k'Vaia",
+          "persona_url": null,
+          "player": null,
+          "email": "evillurking@gmail.com",
+          "details": [
+            {
+              "type": "date",
+              "text": "[May 1998](/newsletters/1998/may/)"
+            },
+            {
+              "type": "note",
+              "text": "Bondbird: Lyra; Kestral"
+            }
+          ]
+        },
+        {
+          "persona": "Scout Darkstar",
+          "persona_url": null,
+          "player": null,
+          "email": "evillurking@gmail.com",
+          "details": [
+            {
+              "type": "date",
+              "text": "[Queen’s Own newsletter — September 1996](/newsletters/1996/september/)[September 1996](/newsletters/1996/september/)"
+            },
+            {
+              "type": "note",
+              "text": "Bondbird: Jilar; Harris Hawk"
+            }
+          ]
+        },
+        {
+          "persona": "Healer Adept Shadowstar k'Lobo",
+          "persona_url": null,
+          "player": null,
+          "email": "shadowstar23@hotmail.com",
+          "details": [
+            {
+              "type": "date",
+              "text": "July 1995"
+            }
+          ]
+        },
+        {
+          "persona": "Scout Warwind k'Shador",
+          "persona_url": null,
+          "player": null,
+          "email": null,
+          "details": [
+            {
+              "type": "date",
+              "text": "June 1995"
+            },
+            {
+              "type": "note",
+              "text": "Bondbird: Tralee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "postamble": [
+    "## [White Winds Sorcerers/Sorceresses](/sorcerer-handout/)",
+    "<img alt=\"\" loading=\"lazy\" src=\"/barcomp.gif\"/>",
+    "<a href=\"/\"><img alt=\"\" class=\"float-center\" loading=\"lazy\" src=\"/qobuthome.gif\"/></a> [Return to the Queen's Own Home Page](/)"
+  ]
+}
