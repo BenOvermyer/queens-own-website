@@ -12,6 +12,8 @@
 <body {% block appearance %}{% endblock appearance %}>
   <a class="skip" href="#main">Skip to content</a>
   <header class="site-header">
+    <img class="header-crest" src="{{ get_url(path='images/queens-own-crest-small.webp') }}" width="47" height="64" alt="">
+    <div class="header-content">
     <a class="brand" href="{{ get_url(path='/') }}">Queen’s Own</a>
     <span>The official Mercedes Lackey fan club</span>
     <nav aria-label="Main navigation">
@@ -22,6 +24,8 @@
       <a href="{{ get_url(path='publications/') }}">Publications</a>
       <a href="{{ get_url(path='archive/') }}">Archive</a>
     </nav>
+    </div>
+    <img class="header-crest" src="{{ get_url(path='images/queens-own-crest-small.webp') }}" width="47" height="64" alt="">
   </header>
   <main id="main">{% block content %}{% endblock content %}</main>
   <footer><a href="{{ get_url(path='legal-notices/') }}">Legal notices</a> &Delta; <a href="{{ get_url(path='privacy-policy/') }}">Privacy policy</a></footer>

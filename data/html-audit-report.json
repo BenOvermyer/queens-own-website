@@ -7,8 +7,12 @@
         "files": 1
       },
       "table_without_header": {
-        "occurrences": 83,
-        "files": 41
+        "occurrences": 82,
+        "files": 40
+      },
+      "unknown_element": {
+        "occurrences": 10,
+        "files": 10
       }
     },
     "acknowledged_findings": 0,
@@ -48,7 +52,7 @@
       "path": "content/community/club-chat.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "bf55f913446a317a84c6d887591a55a59a4ec1d7caeb439c09c1a22a4475652e",
+        "visible_text_sha256": "2feed7bc446970890cf720126c0589433875d2a6f20b8c807b90dd469ddd4803",
         "links": 3,
         "images": 3,
         "anchors": [
@@ -74,7 +78,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "d330fa31e7e88fed0181bdd3f80f5cdc90ed5202e40a2e7ef1b49c0d23304b0b",
+        "visible_text_sha256": "c480261e478f9a15b58e532454753446d237ab36c5428f77da5d1bf9d5f94cd6",
         "links": 4,
         "images": 10,
         "anchors": [],
@@ -108,7 +112,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "77b34d909f7e9d7fb9e91e9a4059750dbb78be82519d610d5e0b0e6fa4e98541",
+        "visible_text_sha256": "0855a5d001e7689ed4caa4d9724b86c14e2d17cdeec64706b0b6cf9828446352",
         "links": 30,
         "images": 25,
         "anchors": [
@@ -224,7 +228,7 @@
       "path": "content/community/golden-grove.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "031541fe7fdefa88f6caf11d90d77bd1d27fc1985654a5ab7e7d71ee21828f6e",
+        "visible_text_sha256": "13f21ba247ac81e996b9cd77f6c0822612abaee1e5b69aa9132cfcf17c78dc20",
         "links": 3,
         "images": 8,
         "anchors": [],
@@ -250,7 +254,7 @@
       "path": "content/community/pacific-northwest-collegium.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3259e00abfdb513251dc7cff06f366f7089a061a38925aa3a5be8b4775109e71",
+        "visible_text_sha256": "62d797a76d2331857df62afbcf095f8e4ee7469b7432ccca8c371b86735575dc",
         "links": 4,
         "images": 16,
         "anchors": [],
@@ -263,7 +267,7 @@
       "path": "content/community/role-playing.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "6dfdd9759f36e6f4ac57bf5cf93c463c0ee1fe005d622018d08c16ed749a230b",
+        "visible_text_sha256": "011cec0d2aa7256eb257726463939858bbfdfbe8be930ff9bb2623d9b8b4d92e",
         "links": 1,
         "images": 4,
         "anchors": [],
@@ -276,7 +280,7 @@
       "path": "content/community/science-and-magic-tricks.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "216620352681a82e786176355091f7813e009d865761ae1930dc5f7a1df23517",
+        "visible_text_sha256": "60bb6345365fc635427573f88d3f32f644a54de37183de769e8433de03c13cc5",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -289,7 +293,7 @@
       "path": "content/community/sonoran-collegium.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "1b5e4144f7cb3903c72025a4dc1aaf23e4fb58bc1d5d609a99fd0db278d9540a",
+        "visible_text_sha256": "1a91098f945c519c702a8d5f871e3d76eb1c8363c52acf855d9dba4e45afda2a",
         "links": 3,
         "images": 6,
         "anchors": [],
@@ -302,7 +306,7 @@
       "path": "content/community/webring-code.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "6f77d7714aa23b53fd1c411e6a6516798ff7b2d22920f8b5a81d4ad57f07b729",
+        "visible_text_sha256": "708790135777ae70279f2ae82a70306b072d8a7af6671838843d0654ecabb02d",
         "links": 2,
         "images": 9,
         "anchors": [],
@@ -315,7 +319,7 @@
       "path": "content/compass-rose/about.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "9525819f6eff359a2ce635e38b3027dc9af1dd40995dfb4efe797ad6bc0ed0e1",
+        "visible_text_sha256": "e2588892c5e0a5029fff1d7f0031a07085b43700d190b8fada36e46692e9b57f",
         "links": 1,
         "images": 5,
         "anchors": [],
@@ -328,7 +332,7 @@
       "path": "content/compass-rose/spring-2002/_index.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "290b03df63aa3b358e8a4103da3eaac693423d06453cf4b3b1370639dcfe2ab8",
+        "visible_text_sha256": "f53f1d71048e24a75f8d76f55316e6523fa515c1b8aaa3afab7e596237e4231f",
         "links": 0,
         "images": 1,
         "anchors": [],
@@ -352,7 +356,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "5324ed4046b7c74c6de6cff474e5f9e9567b1114f6fb4ea45a1bd360c21f8ef7",
+        "visible_text_sha256": "82cae995e86306bb36eff772ca2e2ab81ddfdbf6a601bc2dcbfa27abc346c88c",
         "links": 9,
         "images": 1,
         "anchors": [
@@ -383,7 +387,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "3080dba23db3116befade0f5a52c0b3dbd98d971441a46e17484234242ffc56c",
+        "visible_text_sha256": "20428f63c64fcf2efdfefa58da88e40abca8e89f9f373da2db71394b5e1c1452",
         "links": 5,
         "images": 1,
         "anchors": [],
@@ -407,7 +411,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "c3943346eeb83034c75929096c6dbc44c535cb9c3fb63bb799ed59e5b4d63a9d",
+        "visible_text_sha256": "3cfb268f36bb5d134e7490f003215b2ae53a18f6b45251176ce1b155a28792a2",
         "links": 13,
         "images": 1,
         "anchors": [
@@ -442,7 +446,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "46ee2b211b084083e37eaa27fb189bdf8dabd37b09516ad9660ed9b47b83c746",
+        "visible_text_sha256": "0d6472caa613fbfea1339da7f25b8223b525a3a28a9fc00dc2d6d43e1910d6c8",
         "links": 4,
         "images": 1,
         "anchors": [],
@@ -490,7 +494,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "092d45184ad1f6321d55da2a66f1012ab00063a7b49e213706622f2b7e58c250",
+        "visible_text_sha256": "17f066c7183827949b852b4e61b9251163b1ea3b9fd988af02b8cc85c16c4964",
         "links": 27,
         "images": 1,
         "anchors": [
@@ -539,7 +543,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "b1f96a2e2f5a8f6383a0c8a20b14132abbd46a54117bf0f35fec55ad454bcab0",
+        "visible_text_sha256": "49743ebcbf8eefe975713be16209aacdaf3e36f613644f1b9fccaf069f71b10d",
         "links": 5,
         "images": 1,
         "anchors": [],
@@ -564,7 +568,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "d7c697f461e4d37c21c3f84f7e96e58a8f1c7c8ddce67924c10d21f2be9f2c6b",
+        "visible_text_sha256": "d9c3023cf67f2bc1623053ea5e1a7857305dad56a7c874252bdf30a7400b81f9",
         "links": 15,
         "images": 1,
         "anchors": [
@@ -587,7 +591,7 @@
       "path": "content/compass-rose/summer-2000/_index.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "48951fa7ffe6c590f7d85283f64dc86ad1f250e11efc70f663b064bf9fbe63d4",
+        "visible_text_sha256": "9f6fd8ac22c2696151a7de57e4e07a656f717cceef8bb7d89f626b3b124f3c00",
         "links": 1,
         "images": 2,
         "anchors": [],
@@ -749,7 +753,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "38435e5d2b8e6fb39236e9589c74add1361cd726f4ebfa528965511f5ddc4925",
+        "visible_text_sha256": "a65e3507193d2be092b796c0c457f510faddb439c99b81fd044d2ba5764da920",
         "links": 29,
         "images": 1,
         "anchors": [
@@ -800,7 +804,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "11b59ccc10a33ddb9ffbd602a6e1650f33513e13f8e0e7a158e6e85cc49172ac",
+        "visible_text_sha256": "3b3530c55dbcd8ac3c7dc72ec13e92c4d042926401c63b0a56db763ad32244dd",
         "links": 5,
         "images": 1,
         "anchors": [],
@@ -825,7 +829,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "ec2786a935d3997d8b091d87d18926542b0c8f05ee97755c9c365eefdee9d377",
+        "visible_text_sha256": "8816e7fb29f86b14b2d632584f0d78443762f988aa835c8c33ed1f34e497d804",
         "links": 21,
         "images": 1,
         "anchors": [
@@ -863,7 +867,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "63ae7a4d9ae829cc2611ce5d293a893fa991986ccb40627e6a17e4fa06a76431",
+        "visible_text_sha256": "15b3811e806030dd03ecae48fdefd5bf6b022f039bd2d046aecaf44c18d8824f",
         "links": 3,
         "images": 1,
         "anchors": [],
@@ -876,7 +880,7 @@
       "path": "content/dream-casts/magics-pawn.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "afa04a474537715d898a5fb96f5aeb8381533fdc097e2718a15d67a16bbaa4b9",
+        "visible_text_sha256": "c9859e5c6529496ae7d3edb378f03f65c1a8d0ec509900d8d9f4f523bd92ce38",
         "links": 1,
         "images": 3,
         "anchors": [],
@@ -889,7 +893,7 @@
       "path": "content/dream-casts/magics-price.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "146b2b20ecc40071f56a4da5d457b42910930a1f9b0519c611e584be09816a6f",
+        "visible_text_sha256": "1a5f91b4ea623fbc16cca3e2f03837fc2602093d9eaa8321400d8f3904f28a18",
         "links": 2,
         "images": 3,
         "anchors": [],
@@ -902,7 +906,7 @@
       "path": "content/dream-casts/magics-promise.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "9c9abe8fe2bf6fbb94d67826742d893ed4461b6568ba57cc32e3b3b06edbf100",
+        "visible_text_sha256": "3016c21a259c2652ebae6df2efdb8ee80aefdcde0215592c97fab5e590e6447b",
         "links": 1,
         "images": 3,
         "anchors": [],
@@ -928,7 +932,7 @@
       "path": "content/fan-fiction/children-of-velgarth.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3b638f7d0d59acb7aeded126df330fe4288d60fbdfa9744e19889a02a0db0169",
+        "visible_text_sha256": "2d4e6d719d0b915851c9e3200dd1f5c171b0103c144fc945309c86bb2884e7db",
         "links": 1,
         "images": 6,
         "anchors": [],
@@ -963,9 +967,18 @@
     },
     {
       "path": "content/fan-fiction/release-form-instructions.md",
-      "findings": [],
+      "findings": [
+        {
+          "rule": "unknown_element",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "<signoff> x1"
+          ]
+        }
+      ],
       "baseline": {
-        "visible_text_sha256": "7ed076b5818948a621ddc2d7b8b08c674615dfe9aab178ee24f0dce818f37869",
+        "visible_text_sha256": "c8dd67eab4e04ce94f520239ecc67f11c089300ac12db87000523d90631ff099",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -975,25 +988,12 @@
       }
     },
     {
-      "path": "content/membership/club-faq.md",
-      "findings": [],
-      "baseline": {
-        "visible_text_sha256": "302dc78d0c41372b9cd270b9508948472e8358c6efc912505dce870e103bd07c",
-        "links": 0,
-        "images": 3,
-        "anchors": [],
-        "tables": 0,
-        "headings": [],
-        "legacy_source": "qofaqqo.htm"
-      }
-    },
-    {
       "path": "content/membership/club-seal.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "9dba11e112c51ac22b666e76a0f189ea504d69837ba9558e4e555faec5dce5d6",
-        "links": 1,
-        "images": 3,
+        "visible_text_sha256": "b0d829492a72ec352d9145c7e613b32b4e01a2f11db9f87a279c4ec5440466d9",
+        "links": 0,
+        "images": 1,
         "anchors": [],
         "tables": 0,
         "headings": [],
@@ -1001,12 +1001,34 @@
       }
     },
     {
+      "path": "content/membership/how-to-join.md",
+      "findings": [
+        {
+          "rule": "unknown_element",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "<signoff> x1"
+          ]
+        }
+      ],
+      "baseline": {
+        "visible_text_sha256": "8e044c3b6ba9a60ac9e80bf0ea2b38850364a4695c8150037f1f53b4c9a7a35f",
+        "links": 0,
+        "images": 0,
+        "anchors": [],
+        "tables": 0,
+        "headings": [],
+        "legacy_source": "qojoin.htm"
+      }
+    },
+    {
       "path": "content/membership/mentors.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f4bef112bb64726c9183fbf7ba54b062a08bbf037057c50fe3a1b70c172e0851",
-        "links": 7,
-        "images": 3,
+        "visible_text_sha256": "aa4e200f5278b93ecdd23d749c5acf0b1ce7569a7d29aa4591e3086f4f1be403",
+        "links": 6,
+        "images": 0,
         "anchors": [],
         "tables": 1,
         "headings": [],
@@ -1017,7 +1039,7 @@
       "path": "content/newsletters/1988/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "5beb7413dccf4bc7985e6e7fb7841fc6d98386729098274b547e114a73ee47c8",
+        "visible_text_sha256": "f28bb2e537beab3ed22fb57d300fe8e9be58606fef62c20ef97ff3b00075cb31",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1030,7 +1052,7 @@
       "path": "content/newsletters/1988/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "ba660716f79a44dcc1602c06a28df150deb265aea0aaf760b72e4e005092913a",
+        "visible_text_sha256": "5ac81762912b0c02a84934dd0ff6088137d3320321a72e3e1851813c4c4dde9a",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1043,7 +1065,7 @@
       "path": "content/newsletters/1988/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "33ea810977b45e4e9fcc8f66ec9961a20e667780f836dd91e277c58d0821f415",
+        "visible_text_sha256": "a30cd2e9e50921a95c86acd250ef7233df2988173febbcff4ccc34aeb990d0e9",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1056,7 +1078,7 @@
       "path": "content/newsletters/1988/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "c71b9bf2fed95886b32caa98a82dffdc6ebdb88a6d61273536c686fa76ba9686",
+        "visible_text_sha256": "2944144c9c67bd34bc25ee924e51929a26e65904199980d07aab5347a461b233",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1069,7 +1091,7 @@
       "path": "content/newsletters/1988/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "76a78ea6ad435b5af0b7b99dc47485f9a83270fb3b52aa000081ee69fea65f6f",
+        "visible_text_sha256": "a276224a29a6b4c8a91e1709b05ae8037ce9ef8326d1ab3a52a97999b4289159",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1082,7 +1104,7 @@
       "path": "content/newsletters/1988/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "fedf0f26baf15c3c029ae91d0695098f6c2bb6b64c03664346fb671c3ea8c478",
+        "visible_text_sha256": "7dbe910eb10d3575a9ae3959c5c8bdefe8c8c563ad5ae55a93163919542c6b20",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1095,7 +1117,7 @@
       "path": "content/newsletters/1988/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "311c896f03a259bcbe5c7d55b3acf82f5f05d194f499969fbe5e5392b78adbfa",
+        "visible_text_sha256": "c653f2a44c5efeb79d26e93079ead4abea8b3e22a20808175998a7f89e0aaadd",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1108,7 +1130,7 @@
       "path": "content/newsletters/1989/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "546bd20031c551e96aaa28d0fff7a2b2c21f13de28bff326ec6769f4499b9fd9",
+        "visible_text_sha256": "a398fdd20e9243843e37304ec625bdf9c6e65f475251935d6c61ece62fc9d7e3",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1131,7 +1153,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "adfc2ebae57929fb92041422c47e8ef28bc76f14ae4925dc41d2fa3d1a1efc4d",
+        "visible_text_sha256": "3816e895c827b8fdad80b0f52349e67ba525ddcd8801e688c2680a2a21178dd9",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1144,7 +1166,7 @@
       "path": "content/newsletters/1989/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "d384439545220487b583cef6d51e657dbc22cf32a8760398a877e2278c7bdc3b",
+        "visible_text_sha256": "3d73ff9585f197281a5cb7079da46c11e18c1bc66503a180ed11aa2a497811e2",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1157,7 +1179,7 @@
       "path": "content/newsletters/1989/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f325b129d1367085fbcb73cd9416a879313e9e08ca6c53e76aa0dbc7b6ef9c86",
+        "visible_text_sha256": "499e5e5d71fe46a6d9c789388d089154a93dd18804e3a1b5e75bcf1bc9197465",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1170,7 +1192,7 @@
       "path": "content/newsletters/1989/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "35f2f5a3082e94584259eeaeb01fc978668afa8b2b12f5ad45e047310983b228",
+        "visible_text_sha256": "77c14e43732ef6267c504c27f062dc1a0c99c8686807da172c459365b1b9487e",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1183,7 +1205,7 @@
       "path": "content/newsletters/1989/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "5896e168c9a0bdf9981fd8f4bbb78e5bebb22fab843ac753145ec39d07763ceb",
+        "visible_text_sha256": "e7125c4e43cf2b5982d7a2044ed2f75400a7b29e79ff8cd73ca5ad1b4e9d56ad",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1196,7 +1218,7 @@
       "path": "content/newsletters/1989/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "c2bc15ffc70c95af156076fc34c7ad433bced0a0b7e02b2ccc27e2abb2705ecd",
+        "visible_text_sha256": "31d2846bae06abb3f44b9aafb19507515f777234293299d27fe9d15e51fdca50",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1209,7 +1231,7 @@
       "path": "content/newsletters/1989/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f4dd85b003caeb427ab6de2e753c3a6d4db041fb151034daed43981698a2edac",
+        "visible_text_sha256": "b24ff3e2fc3b93c55c5299cf4e0779e61c357e0d7e63acdfef892df5f302a12a",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1222,7 +1244,7 @@
       "path": "content/newsletters/1989/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "78ec8a7a0a56a00a57f7f99d8750bf8e4e33280f54c48e5c5840104ebf7f7c6a",
+        "visible_text_sha256": "699e8a8ba14b5dd36e931ce286def0342dcf692eb9b00f3132d28e4821296a1e",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1245,7 +1267,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "92cf3a7e2ae324ffc150cf04d97d3f7947a95f7b486491dfb8b95b252a7ecc5f",
+        "visible_text_sha256": "32be849bcc54ddba70c930e5adb8847d333f4849ba09a2cd96fb0bf07a82b5b6",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1268,7 +1290,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "0fa440e996e70069d6edf310d27da3f0f037999f1000258ac0a16a51ec7a69a6",
+        "visible_text_sha256": "37fc29da46a14b38a7514756fd7b1dba4c277dd8a6db5a535dfddade9a77b1df",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1281,7 +1303,7 @@
       "path": "content/newsletters/1990/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3dbfc81596de3cc08173eba1552741e2f6c8903b63e09637da463921866bf9c8",
+        "visible_text_sha256": "b280d8b765bf6e54d007cc5248321927a9b7f582f9dd2aef397c92b6d1cf2280",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1294,7 +1316,7 @@
       "path": "content/newsletters/1990/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "b3a61517555a045f9ecfa795d749cf2d941e88ecac663780e7e4c99824529e3f",
+        "visible_text_sha256": "cd954adfb6382898a2bc29a68e62c4c5003362853bd999c2eb1f8b191f6e2b86",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1317,7 +1339,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "8e1408d8123a85a01bdeba6d4d04637da82eb7f04f39918dbbd4ee5f30424fa6",
+        "visible_text_sha256": "4eae566b94809371b0bf0c4b3b12b759f88e6ebe6eb17315cb94934fb2a3e610",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1330,7 +1352,7 @@
       "path": "content/newsletters/1990/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "574a191a7f1761f4dfa38c480d5271af80007e318d7ee42de6237833e3cefbe3",
+        "visible_text_sha256": "ab0e7a09d77ec5ec620788929a2e71c8737227da52b1c40a7e0691842b58ad6d",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1343,7 +1365,7 @@
       "path": "content/newsletters/1990/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "95e44064a4ec98115ba48db26a3fdfabbf96be09c981562e7c1bc2e9764932e0",
+        "visible_text_sha256": "3d2ce46b784d7053ad069e3333f62a03f8d11f072391324ea14e20b457633e9b",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1356,7 +1378,7 @@
       "path": "content/newsletters/1990/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "616508de15e42219df8f6e1b1a09c1a305c91bfab0803d7f6cf9f26905521e6d",
+        "visible_text_sha256": "abfc142102b802a9f0c2f4c160e539f3af68956d054363a8a5c6801f5d47e454",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1369,7 +1391,7 @@
       "path": "content/newsletters/1990/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "063a073702591f6656c1351d2cf33792647f3208c9c5a8c86581d7b96ff450eb",
+        "visible_text_sha256": "f14df67685a16100235183b725e0d50ad35234024f58026de24fee259025ef80",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1382,7 +1404,7 @@
       "path": "content/newsletters/1991/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "1eb8c4f246ee30c48af4b43ab9339d740268d93942570c710bb571dbce7bbaa0",
+        "visible_text_sha256": "2161caac546923db6af93de3a0b6d2f30850a20885e7dde5f8de8313b7aca78e",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1395,7 +1417,7 @@
       "path": "content/newsletters/1991/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "c487c8f61268ca18008533a4859a88627a1d71167033392c3d58e3d2985c0af3",
+        "visible_text_sha256": "83227b75aabfbb9887a5c1ba7a558825fe2ded11142a5a7c49db36aaffbe293c",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1408,7 +1430,7 @@
       "path": "content/newsletters/1991/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "08fb6bc2333b4f92b45b2e00e6e15aa57c265760c905fb6b2eb5d18938da329f",
+        "visible_text_sha256": "f8cae73fadd7884041a382b1bc7b535bbf3a78a17145f1de7c61f0ed11b2f067",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1421,7 +1443,7 @@
       "path": "content/newsletters/1991/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "8255cca69c5e8ba92524a82cd1547484ead55c839a563327d1c78343c4fff82d",
+        "visible_text_sha256": "ad58f2be22fb8ea802a93d8483d6726f30179e9501887bb738ddb3fb3b567cc9",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1434,7 +1456,7 @@
       "path": "content/newsletters/1991/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "92a74770cebdbe609342878c1d4d1a7b579d353cfd20d185042382ba3bc04fc4",
+        "visible_text_sha256": "09fe430e533996a8a6f54c1244b80d327ba3095774aecc7e974a20528491f2c6",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1447,7 +1469,7 @@
       "path": "content/newsletters/1991/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "2ca7c4a7dcf6e78db28655d1fcaef9f5a76120db3172533d19dc490c8e2b2142",
+        "visible_text_sha256": "35ea63fc242275e6424f95ba65f0cf17d0f469a06490d9fa6b369d24ef7581b0",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1460,7 +1482,7 @@
       "path": "content/newsletters/1991/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "567535f7c60cfa92580cdb1bed11dbdb97e4b65dd67d80c9c12fa5e928eb6edf",
+        "visible_text_sha256": "2e0d587db695d6b959d78788076060eb6c8b8dc84c4fd54d31830834dd5ead10",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1473,7 +1495,7 @@
       "path": "content/newsletters/1991/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "9e38f4324b99cae77fb0d070e50ffcdd716e99790ded12e928fe5d5eb33fffc0",
+        "visible_text_sha256": "001a4476d5859f75cbc14069323a7e841dc6159a50c01d6ec27953d626f37caa",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1486,7 +1508,7 @@
       "path": "content/newsletters/1991/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "ee49dcda7aef543adb63a1d26a9d426f0bb55b4885f41f920e5cdd4bfd11a6ce",
+        "visible_text_sha256": "0e72e7179416caae66dd76963c2fb78c16ba1045c6acca2f4bf605d34cf51816",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1499,7 +1521,7 @@
       "path": "content/newsletters/1991/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "ee489cfece7a41f9fefe48fa47cfc9c4fc31bb48026c365d25af1b65fa1ecce3",
+        "visible_text_sha256": "01fe693a78f64815f8e19695202118928c69778668c88ce9ccf1c198234a2883",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1522,7 +1544,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "aa5e6ad1bc10c514e9ff48373176ff38d36d8e1cfde16cdf8edc114b6eece70d",
+        "visible_text_sha256": "39fc9c870f7c1b12bd8646bf1b0b2ae4f191c6be15d428704746a245df91e42b",
         "links": 2,
         "images": 4,
         "anchors": [],
@@ -1535,7 +1557,7 @@
       "path": "content/newsletters/1992/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3245290983faf3c9d17cb2a77651feacf6c0e511e6fa6ee1b892b8cd15809206",
+        "visible_text_sha256": "39e4e1594ba06e45a7ddba179d4eabe263dae2883e19cc6ee07f9dfc8083ae13",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1548,7 +1570,7 @@
       "path": "content/newsletters/1992/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "afc6a8c51475b518e39ab6cde2b738c8b183141f08a040af9fc9387f494561ba",
+        "visible_text_sha256": "8d796247d4af4b52e64d189724ef4e7f0efbc7e248c13f69056c0cf705ae2fff",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1561,7 +1583,7 @@
       "path": "content/newsletters/1992/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "408ae6a6446c051b0f10512b35649f69b01385ba788e74b6bbae48c3ee2d5bbe",
+        "visible_text_sha256": "49ff5c18fec203a4c23242ae0d565b4f01be21df78edc15b5d1ae3ee882c1ada",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1574,7 +1596,7 @@
       "path": "content/newsletters/1992/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f94d9b2b4f483b17717d4058e59ca1a1dbb4bfcb5451091abee0baac52434581",
+        "visible_text_sha256": "c1074b23ee0ebf12a592089cbd865affc51c01b369be80074173227ddde1323f",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1587,7 +1609,7 @@
       "path": "content/newsletters/1992/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "0b69a3cdfe8c4dc281fdb3a6ac98503d28fe974f49163e5c7890cea695310af5",
+        "visible_text_sha256": "acd6a27ec6a3089c360dee9d63595e300e7895305d3579ba77a825a1eacf768f",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1600,7 +1622,7 @@
       "path": "content/newsletters/1992/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7de137f840281852cb84de4c816d45d6416510f892e31fe50661a94edef72cfc",
+        "visible_text_sha256": "4e4da5618712561114ce877846ae3fe5d54e1b88c927d5127dfc08ed7e2ecce1",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1613,7 +1635,7 @@
       "path": "content/newsletters/1992/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7a2009c43729d87f7297d8ac2ad484e46b4fc7bb9dfe9e73dade611208e975f7",
+        "visible_text_sha256": "97dd376ba2581be937916a658516fd24491b09629e356086258c1281626b3604",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1626,7 +1648,7 @@
       "path": "content/newsletters/1992/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "eb8141843a5976fc544945e7538bb34218c87df687d501296bea50713975e4df",
+        "visible_text_sha256": "141161720ddd4073653fd77f487c7a0c24964505277edb2ab883e568c88f11a2",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1649,7 +1671,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "4adb1d3eec682c6d94c464bfceeb3cbeaa193ffa8d65ea85d946a28882c91610",
+        "visible_text_sha256": "01e14f82fb44e06cb40c1d161b4493ab3056c094ce271cbad6efc9ce49fcbcd5",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1662,7 +1684,7 @@
       "path": "content/newsletters/1993/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "d922d230672eede17d773e397628c766ddcd87b2c72293c83b9441b1178828ef",
+        "visible_text_sha256": "4b785eb84930b1742ef10c46349c72fdad51be39c8efa0a697f988255bc359af",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1675,7 +1697,7 @@
       "path": "content/newsletters/1993/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "9464d0beb8a2b162b59f60ee287d560ad2ef8d575b60aac3a4c77d17fbaec2b6",
+        "visible_text_sha256": "d24ca235619667b454b18f67dcdefc145852dd2250b1c73e5a3d57920867bbcc",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1688,7 +1710,7 @@
       "path": "content/newsletters/1994/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "183a7194e3eba532021fee3a92ae5ffb16ba18dfa306b80a4609a05dba7537e9",
+        "visible_text_sha256": "85091d53eb5e3f2d275ab6da0dda701525ca04a27a229b50974a94bc83fbbd21",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1701,7 +1723,7 @@
       "path": "content/newsletters/1994/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "c0a82f5c8a0ff17a257938d848fb007749731db4bc3437a4344eeed8882d3378",
+        "visible_text_sha256": "7d46736fcb15f1d6cb6e5afd2257504309c625201c949f5b6454f00e30b31970",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1714,7 +1736,7 @@
       "path": "content/newsletters/1994/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "09f0aeea828f62b2874cade11df6e22373c926d7e5416e8abdc42eb3aac68b91",
+        "visible_text_sha256": "b0f1ff4a8bcc0671eedf310cc9bc93f4f49448c2a33376409a5a7e1f7e5ed358",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -1727,7 +1749,7 @@
       "path": "content/newsletters/1994/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "27c3e0912e222104fece7d3f0d4261348c2f343b3aa8cbebfb3071211e5636d8",
+        "visible_text_sha256": "9612ca78882961088553bb1add4386e2b09cc1f88787a1258b4dfe87dd2f4110",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1740,7 +1762,7 @@
       "path": "content/newsletters/1994/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "34eb10c7b0387a05fdf1fd4f4740a4a298458b00b1ecc9d1560091df659f44da",
+        "visible_text_sha256": "426ec71dd0718ae63ac8b0f1313f18e6c5b9267a654436c6857a10f0a96c7d49",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1753,7 +1775,7 @@
       "path": "content/newsletters/1994/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "079b4cb280f59b83f3ec36ffff060747567329ddc312670d862aaff0efb8b1d7",
+        "visible_text_sha256": "3176e8cb7288ec23429f01735bee5e81360eca06e47d2752aa11961075f36af0",
         "links": 2,
         "images": 8,
         "anchors": [],
@@ -1766,7 +1788,7 @@
       "path": "content/newsletters/1994/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "86c99ec15f81f59b93402647b314ef3d69046a2cb287ce7777d0c12245d98e60",
+        "visible_text_sha256": "39eaf919551780e20face8f4399c99424b2750edceb82562a045bbb43faf042b",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -1779,7 +1801,7 @@
       "path": "content/newsletters/1995/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "cf0de629045e4dc05bd9b4857dc0fd137dd5a70e6a7eae9cd5311d9f8a72f53c",
+        "visible_text_sha256": "8eee5f57835b38efbdfce468ee1983c42533a7de379ac33bcbee34983a85e7dc",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1792,7 +1814,7 @@
       "path": "content/newsletters/1995/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "5fb9996001f8b798fda711530bf86729cb18df681bfaff34586536b6304019af",
+        "visible_text_sha256": "e05b0a1628360681e3968f9768e13f8240e19a0c651a39d82280362ba4b57da4",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1805,7 +1827,7 @@
       "path": "content/newsletters/1995/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "810b253c4bc4d4f5c8de5b3951bb8482a2af60dce6ca79729b1d1734a3194372",
+        "visible_text_sha256": "aed4c7f249b08a427efdf2c0d4dcdc0b1084e866995c8e97b4d7a59b07a6b4f4",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1818,7 +1840,7 @@
       "path": "content/newsletters/1995/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "317107bdf0851060a032db55d6d88b88dd9dc07a11459e12711b5aa4fddd3373",
+        "visible_text_sha256": "4ea746fb918b14f5146ee2bf9334a8b61f8fef74fc8302c482c72356009dc987",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1831,7 +1853,7 @@
       "path": "content/newsletters/1996/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "0368195fac6a40289610e9c631a59fa8de3964c5875ac391b85a469f6760e7fb",
+        "visible_text_sha256": "96178b16451d1d546b112fbca7c62b67e7120bc6cc17a22f674392e502c7b709",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1844,7 +1866,7 @@
       "path": "content/newsletters/1996/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f979fed4e6cc51738cedf62758c6a9207697fefca1864e16d399de23787257e6",
+        "visible_text_sha256": "5899bc81777b144fefe0adf7685c57e72d1603f462d4298a5f40843390d35533",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1857,7 +1879,7 @@
       "path": "content/newsletters/1996/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "e22f15643c8b99fe1e872eba662d2b725a0b85b5c820ca7b3c48a337675ee7d5",
+        "visible_text_sha256": "95df1f195dc6a8744183b4f63f00ba289d63905f8a0cacf23d00a0aef9f50895",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1870,7 +1892,7 @@
       "path": "content/newsletters/1996/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "db94edd8c1eec1aa6b0989bf38f1ef194b8c6378b107f08e80bc637c95f63eb7",
+        "visible_text_sha256": "6fa8cc8f69cbb7eb8bd5a09661d3d74ab936d0658587a7a9ae403d756e334c75",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1883,7 +1905,7 @@
       "path": "content/newsletters/1996/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "dced5c61b4998d0d87612d64a9b4fc5b46877513e30841b2538b31ed0f20f6ae",
+        "visible_text_sha256": "71ffe236525e81fe9960a9780df51cdac90611bc1292e36d0a481d922fc0b758",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1906,7 +1928,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "03dc937580eb112b877e18359657082cd38b487bdeb6c8dbafe54b4ac3dba6e4",
+        "visible_text_sha256": "8f64cef238cd65d7e3230de950a4b85a2658b39f126558d2ad5c22268b0d3e3b",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1919,7 +1941,7 @@
       "path": "content/newsletters/1996/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "32b059eded2d1bc4d8420663c4d842116a22eff2600ee991a93b1ece338a274d",
+        "visible_text_sha256": "e439db558f52d77a490e4fd17cfad47b78f323cf4a7e5b7e070f3ff1065f7672",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1932,7 +1954,7 @@
       "path": "content/newsletters/1996/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "5230cfef5fc03ca1bc9c74fc9e95d406dd4b67450cbc725d53857606736436bb",
+        "visible_text_sha256": "6395171976ea5d71a8e11fe13950339cad5587ff0669a13b12dd7539a72b94f1",
         "links": 2,
         "images": 9,
         "anchors": [],
@@ -1945,7 +1967,7 @@
       "path": "content/newsletters/1996/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "edfc02514df3de5d1855440b2aaa73eef4341aec42a7e05bdd0da1b755ca411e",
+        "visible_text_sha256": "9f94c7dc5df0272ac76e36464007a586ac0cbf8a4ff3ccdfcacdc69c80e9fc25",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -1958,7 +1980,7 @@
       "path": "content/newsletters/1997/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "427114530631d12645b5d0d63fe396b614a95b5496737b2c0608f7b8b3a222ca",
+        "visible_text_sha256": "f36a4fa3be462358940e34111454c545a38391220c57267d75f1735171ca3866",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -1971,7 +1993,7 @@
       "path": "content/newsletters/1997/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "21c31eaa5f11d13bd36c3ec30e18216dba7228fd452cd5466897cdbbc104c54a",
+        "visible_text_sha256": "fd2942ce0cb236eaefcba4be2fd3d5ad1e3451d96bcea3f70e51ac73d8665867",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -1984,7 +2006,7 @@
       "path": "content/newsletters/1997/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "622aa3a74d78949fe36ac9420ce9f8cb9d3567a8a19157b3bc6ff6590cca3ea5",
+        "visible_text_sha256": "f9fce9a65bd7ad92c17cdc099febd8a44e5ecd85ba0b358ab8af3487a8201906",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -1997,7 +2019,7 @@
       "path": "content/newsletters/1997/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "e340b0d277c97ce07d3c0bce5f51a3a8792d9c97f672c297b206b103f31bc3d5",
+        "visible_text_sha256": "a4dd830b953f64f4b91e3f09aaef1dd702198ac7415d2b5329859cb029e6fde2",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -2010,7 +2032,7 @@
       "path": "content/newsletters/1997/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "ab3d930924a0a3fa4d570ce55646d2f0d7c72df5e157d875a7f27447c2892b97",
+        "visible_text_sha256": "918f4b33db56d69a257877a6a101d4bb428c0a313e5b4965b930a2fcb919e102",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -2023,7 +2045,7 @@
       "path": "content/newsletters/1997/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f880a3c2631ae03dacba59838454e3d6844eada45f40a2d8b2584d0f978f2dbf",
+        "visible_text_sha256": "e185e783b3298fb2eaffbc06a2b3fe402ebb5777609686a2437bf0a98dee3335",
         "links": 2,
         "images": 5,
         "anchors": [],
@@ -2036,7 +2058,7 @@
       "path": "content/newsletters/1997/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "6d02a4ec820cdf410f980c655f06231e5bd5b7ad669ec312e7235381731da7a4",
+        "visible_text_sha256": "adf576b7070cbe25a0cad3a40a291f1f62c527d1d42c9de8d10663b920c9c2d4",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -2049,7 +2071,7 @@
       "path": "content/newsletters/1997/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "0844af6fa890be5803c61f476299cf375ac0d3c487631b207206bdedae77fdd1",
+        "visible_text_sha256": "10d4397c9909f368eb5307f02ff1ef0ee2ffeca21e2a38bd7683f68a613eff2a",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -2072,7 +2094,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "ce9e9cd13a4c0de6226e9e25472b4cdab39baad4f2e632b5ae74ede911462f77",
+        "visible_text_sha256": "e93c6b6e255357567b59ae1e37bb53bd2a20451d5f6ac4f4164f786ef49aec84",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -2085,7 +2107,7 @@
       "path": "content/newsletters/1998/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "2e45cf68358f88e1eed78debf1ca1ccab4720b3c482b16d8c9692e89d25fbf06",
+        "visible_text_sha256": "f286a03ccfccc831d1cbe71aa4d43fa9b3eea01ca876f4654d99b44628be497d",
         "links": 3,
         "images": 5,
         "anchors": [],
@@ -2098,7 +2120,7 @@
       "path": "content/newsletters/1998/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "496fe266cd0f6601a230421b0f1c25ecc2791f5f3efd80e632fe7e8fb2731e16",
+        "visible_text_sha256": "d7ef0330350a7b8834a3411284d6bf0ace886c380cbae19819ad2c860a1691c9",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -2111,7 +2133,7 @@
       "path": "content/newsletters/1998/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "e1d06de0c6a38a0a29ffeffeb74cc99602e73fc63f6842f0b81ef71e294856b3",
+        "visible_text_sha256": "7bc8fa938f123b8a0d6f22cc790045a7c517d37de31dd6adc74ad2b83541639f",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -2124,7 +2146,7 @@
       "path": "content/newsletters/1998/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "da9917e77f6fad25ad431b0c5ff8e3fc8702fc7b3d1a912c0d7bc5290c73588b",
+        "visible_text_sha256": "015ad28ef5361b738d5343cef408d50d1a7cd0b1bd97345c0c2859e59e1ffcb0",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -2137,7 +2159,7 @@
       "path": "content/newsletters/1998/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7a08e908a16cadfd45e24757b8918145e94ced32315b6266c1b89c7ba9cbe1b2",
+        "visible_text_sha256": "6bd2064f0b51b873427f0a8954637a3e1718d99e37a870ed126fb0335a366f5d",
         "links": 2,
         "images": 6,
         "anchors": [],
@@ -2150,7 +2172,7 @@
       "path": "content/newsletters/1998/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "888c3629c6f81a2ea4076f6c945db80cfaa0f31d75e8c00ae72d6d4320cee846",
+        "visible_text_sha256": "8b51eef61b24bc363bea1d26f3d9f7cb604870c04ad2b4bb2aaaddddc082fa2e",
         "links": 2,
         "images": 8,
         "anchors": [],
@@ -2163,7 +2185,7 @@
       "path": "content/newsletters/1998/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "981821eba3d5f368b5844ca36a3057f70225b2d6e939104308e296797950daa9",
+        "visible_text_sha256": "ee6056ad25a55940ac5f3ae8787837c3aa708c5ae22fd74ddb38fe6ef29a2f15",
         "links": 2,
         "images": 9,
         "anchors": [],
@@ -2186,7 +2208,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "4e606ee2126e7473e0998136d07b80a1e20e40d3d16e93f6c68e962e09542954",
+        "visible_text_sha256": "edc3777521bed5888e487256883ad221ca396ee7983c1388d5a729959913208b",
         "links": 2,
         "images": 9,
         "anchors": [],
@@ -2199,7 +2221,7 @@
       "path": "content/newsletters/1999/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "af204a6b569cbf6d2b7ff1f732757bc5d5de45174da4424400a7f309453f71e0",
+        "visible_text_sha256": "a403a15b78a2a93897052fb98d956a47ff1eb567fe3812b847bf9c2eb2218f5f",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -2212,7 +2234,7 @@
       "path": "content/newsletters/1999/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f131b9a7f2585aa34121d225a74ca81cef5cb431576ffd899c5565c5d1dcf365",
+        "visible_text_sha256": "7eac4141f5f0d2a3188fb399ce93b7731a6962101a899a036359a8657ffa1a9b",
         "links": 3,
         "images": 6,
         "anchors": [],
@@ -2225,7 +2247,7 @@
       "path": "content/newsletters/1999/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "6cc967d9ecc21efcd45991bcb2d0410b519148689331502bbf680b040b446a6b",
+        "visible_text_sha256": "f17f63b4e84d6d3fe1892f6d8cb21dccad263feae7993c3e0ea74959f3829056",
         "links": 3,
         "images": 8,
         "anchors": [],
@@ -2238,7 +2260,7 @@
       "path": "content/newsletters/1999/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "540d53bfeddf7f827b8bf4bd2e99d177e47387ddfecf6df07a87508c35b94897",
+        "visible_text_sha256": "7002eb8928df3603f4ea83a6fc97b24b7a636fe5b82bfbb9823b40713c179a08",
         "links": 3,
         "images": 7,
         "anchors": [],
@@ -2251,7 +2273,7 @@
       "path": "content/newsletters/1999/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "029f30b9318b69ddea01aae1043aff164abcc7c92be67ba959172e5aa751385f",
+        "visible_text_sha256": "9f4de9a6bdbbe55c2fc7b7d452e2c95e5ec51e1816838bb482274b2e10a8d99a",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -2264,7 +2286,7 @@
       "path": "content/newsletters/1999/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "0e9d755ab3c472289862a79faa5e7fce3b0c10f1b682149a5081b168165384c4",
+        "visible_text_sha256": "806389e01557ca30e4ef615d29e27c6e391bdbfb46cbd238a894a3ef3e384384",
         "links": 2,
         "images": 7,
         "anchors": [],
@@ -2277,7 +2299,7 @@
       "path": "content/newsletters/2000/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "8a1d96c96cbd2e8a5d1678b134cb20f2d5057bd82b84353de23bdac4afd9e95d",
+        "visible_text_sha256": "844fff575f73a92a4c355f2299d6db99935dd40ba022a0428c518c9a9fe16fda",
         "links": 2,
         "images": 18,
         "anchors": [],
@@ -2290,7 +2312,7 @@
       "path": "content/newsletters/2000/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "cc2b62c1947992572029021d0bc3a1c26d7d645ce4d392770efd6f683531d36c",
+        "visible_text_sha256": "780abb8468c434b6e99b7e46b6e6a07b9feb0b3278f8c5f656ce30fc37886cba",
         "links": 2,
         "images": 19,
         "anchors": [],
@@ -2303,7 +2325,7 @@
       "path": "content/newsletters/2000/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "35cf696f1e653d633cf1878cbd4a0481db7a596aa13e90a309ae48cdf2126d96",
+        "visible_text_sha256": "d610a656d5b615a25a085d14e333967b31688222deb03a0c79d4108f05f296a6",
         "links": 2,
         "images": 16,
         "anchors": [],
@@ -2316,7 +2338,7 @@
       "path": "content/newsletters/2000/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "ec3c4cb53bd7cf1f5e7ce5e27222c21ff9e678d11038e76fa054c97afb184fd5",
+        "visible_text_sha256": "54b1c7f0767b02e451849f3969e9b08c059576d8107765e8096e6be7189aefea",
         "links": 2,
         "images": 18,
         "anchors": [],
@@ -2329,7 +2351,7 @@
       "path": "content/newsletters/2000/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "196b783958060fb3842faf78d3ea1b037ab441be98fd4cfafb68ab5225606a8d",
+        "visible_text_sha256": "b68072c09c55ada38c2281f97ad6c22b8e675445f358627c9fe42be3ca9012ac",
         "links": 10,
         "images": 21,
         "anchors": [],
@@ -2342,7 +2364,7 @@
       "path": "content/newsletters/2000/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "4eea42e801e984e004cd2adf2d7887531f2e7cf417b59735ce6f7d3e029fc9a1",
+        "visible_text_sha256": "1b24cb6bf2a2e6a770fd87762eb1a0a066342a4e31e24e9495c0cad06b9e3965",
         "links": 2,
         "images": 18,
         "anchors": [],
@@ -2355,7 +2377,7 @@
       "path": "content/newsletters/2000/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "226199f66a3ffcf5644933fcb66f43f8fe6f11de1ee2265d1a70da7f7fd5acf6",
+        "visible_text_sha256": "31ade8300f442301b1dd986bb91f5323d64a528ac6551901efec8a6d5518e51c",
         "links": 2,
         "images": 18,
         "anchors": [],
@@ -2368,7 +2390,7 @@
       "path": "content/newsletters/2000/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f1f8f3f5ce76555798d5f10810eda07abb81e4842cbb592c7b6a87a90ad766eb",
+        "visible_text_sha256": "752bdfe24a82fa33a974547d57c8a8609bc8227bd7b86c67bfdad5af3c9ba513",
         "links": 2,
         "images": 16,
         "anchors": [],
@@ -2381,7 +2403,7 @@
       "path": "content/newsletters/2001/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "93f73266504f5b0dd2d8187151df28792a7f9fdfad1cdc4f1b82b3643c2d995a",
+        "visible_text_sha256": "32e8e026de4abfc752c0337043a23090540fbe97c80a242e438f68e78e7824ce",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2394,7 +2416,7 @@
       "path": "content/newsletters/2001/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f2fd69a88e0836f40752ba6fcee6847a748f37bf9670271f683d79a17b3be40c",
+        "visible_text_sha256": "1713576339042b7cda40d41e37d2976b8ce406e66337c6fe8a45094ad1e2d9d2",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2407,7 +2429,7 @@
       "path": "content/newsletters/2001/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "4bdc10d9a96339e08fd2fc6ebef1df2c62d9de9d640a3d40084e014fcf7e0f04",
+        "visible_text_sha256": "e604e024d66fd8113d63ad40051ee0a4c1392adcfcf9540b1dd6f939185fa67b",
         "links": 7,
         "images": 15,
         "anchors": [],
@@ -2420,7 +2442,7 @@
       "path": "content/newsletters/2001/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "0228cf5be2817b6ac72b1aa1122e5da5c84016d7c3e83608549531099d875204",
+        "visible_text_sha256": "acc378943fef10bbd285632eee9db82cf63775f1c70d1e24ed48027395209e47",
         "links": 2,
         "images": 16,
         "anchors": [],
@@ -2433,7 +2455,7 @@
       "path": "content/newsletters/2001/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3461fdc0e26ad4d7edf09e99bfe9071702b2b8132a4301ea51cc705c1f3a59de",
+        "visible_text_sha256": "c745f9274ab783a711f3d87c1fd76b159312d73e00443cfa2dca19d47a70fc72",
         "links": 2,
         "images": 18,
         "anchors": [],
@@ -2446,7 +2468,7 @@
       "path": "content/newsletters/2001/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "cfbd6b5dd1a9dd0cac806e4756c040a1b01d64bb2cccb2f5114327daf6aae6ed",
+        "visible_text_sha256": "3c1b380b39e64cfdbf9e49ac4daa97aab5dfae6da0fcaf6a25845eae22d69223",
         "links": 2,
         "images": 14,
         "anchors": [],
@@ -2459,7 +2481,7 @@
       "path": "content/newsletters/2001/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "2f07e3f6d1c10970ce36ecca554aac621ac27c84fce393de722d59e3f5a47422",
+        "visible_text_sha256": "ebf90754a047d0f6b8073f38a0e9f38c151053a5efd68e198451f9010678d23d",
         "links": 2,
         "images": 14,
         "anchors": [],
@@ -2472,7 +2494,7 @@
       "path": "content/newsletters/2001/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "b201236a3cb3f0572375b82ef755e765490418996db2102bec1c66415f50cb0a",
+        "visible_text_sha256": "63efb561fb4b4170fcaeea0690d4edf66b99b407655fc16ac16c917b54c73f0b",
         "links": 2,
         "images": 16,
         "anchors": [],
@@ -2485,7 +2507,7 @@
       "path": "content/newsletters/2001/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "af113caf79ae83b657b062eebd4e5feda17290ce61da0e4f916da1e57c4c5827",
+        "visible_text_sha256": "481184b27b47ecd6a3f8495080125174f7267f89d0e2fb58ed2df67536b84ec1",
         "links": 2,
         "images": 16,
         "anchors": [],
@@ -2498,7 +2520,7 @@
       "path": "content/newsletters/2001/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "748a03f995d8b63b7a50a13da2b76f7f5b28726f319f552a79e7ea57fa5e543c",
+        "visible_text_sha256": "7abf9dd5e9e30d5ea3bd36579bb79b7e9fa1fd4382157389405e31c79fdb5b7f",
         "links": 2,
         "images": 15,
         "anchors": [],
@@ -2511,7 +2533,7 @@
       "path": "content/newsletters/2001/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "e84a7943c88dcee2708b87a52c2702b4dbb38cbc6ec38d5823ed1fddf0d10738",
+        "visible_text_sha256": "43b6f7a6a541f12399c88f47c62013fd300ef8631e619bc3782f5d5d2ded6f6e",
         "links": 2,
         "images": 14,
         "anchors": [],
@@ -2524,7 +2546,7 @@
       "path": "content/newsletters/2001/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "f6be221d0cec73d6b16e1f50483593b265c503fd86ec06b863a937b4bdcde94b",
+        "visible_text_sha256": "56d35ad95583509feedd782de5e95ab3d9b1b4f36e0f111e2c1a69a4afa5b673",
         "links": 2,
         "images": 14,
         "anchors": [],
@@ -2537,7 +2559,7 @@
       "path": "content/newsletters/2002/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3ddc716b31e442131c8ddbac71ba0950be4caafb3d84988fcab27445a49a1fc0",
+        "visible_text_sha256": "0e60cce295cf94bda756ae0abd329505da1e09e3e4d6bfd5d2a1efdbeb655f08",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2550,7 +2572,7 @@
       "path": "content/newsletters/2002/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "bb975d801b107548f6574cdb43c3f79d9f9d4743fe274a0d7d8e08defd440f50",
+        "visible_text_sha256": "2c92ce99e054b6ad15022a83b8379898d7013d7070035b0b10e121f3ff97d953",
         "links": 3,
         "images": 13,
         "anchors": [],
@@ -2563,7 +2585,7 @@
       "path": "content/newsletters/2002/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "aab62b64ed24ef4d68939bb31626929bfd46fcb5ad2323e55fbf5e317141b883",
+        "visible_text_sha256": "c90179fdf5930c1fd2ee7c86112bdf0d112e1f858949589609e30621fe686352",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2576,7 +2598,7 @@
       "path": "content/newsletters/2002/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "b725c23efbb57972619ba424f14702a3a8efedea7a09e390e73e03a644cd6239",
+        "visible_text_sha256": "d5fe60a937db6f005c3343751b45d3687ce5af2b7381f4b8d105bca3888c609a",
         "links": 2,
         "images": 16,
         "anchors": [],
@@ -2589,7 +2611,7 @@
       "path": "content/newsletters/2002/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "55102210089db58606080c180dace0525d48292599a99a4b3ac654fcc5036244",
+        "visible_text_sha256": "2bdb054aa22f8231edec4ef5a0148d7835cade0dc7a3660553dac05bba2ef2bd",
         "links": 7,
         "images": 14,
         "anchors": [],
@@ -2602,7 +2624,7 @@
       "path": "content/newsletters/2002/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "da4ca999a7c34c943c5140988de08fdfe85b50f8ce0e1381865a8d5eea57128a",
+        "visible_text_sha256": "94570b6b2142abb02246cfaf449199b09c0421bb6f3eb92562177179ff438280",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -2615,7 +2637,7 @@
       "path": "content/newsletters/2002/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "358c6512274b105d25f50a3814219c4cc95256dfdbeb9930373c20a67e0a1e7d",
+        "visible_text_sha256": "a11a1b7a7127b75ae19726bd790e09bae87da9252a65162b9d2900727a51ce20",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2628,7 +2650,7 @@
       "path": "content/newsletters/2002/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "c8aeb00bc2fe2623af61f5077d5af94f69e3c4798cc662b6fb78f23a6efb74dc",
+        "visible_text_sha256": "d41b372d2d0a282d86ced9ba7dd3d2a41712695232000a91825e7404d85e12d5",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2641,7 +2663,7 @@
       "path": "content/newsletters/2002/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "890ef7b7f862a520e1cc75ed3d57987589468f12e9ce3b7be3fe09b50231269e",
+        "visible_text_sha256": "d7f700c601365c1d11de6d28fc8a28804c15592e8f171af2974a42a094e291ae",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2654,7 +2676,7 @@
       "path": "content/newsletters/2002/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "9e49f0779e5011efde28c396c4c0f92f036519c57f886a035e09cb077803f8ee",
+        "visible_text_sha256": "83f64a065ceac045ec57956f6899307f95f0dd449fe62b2ec02a62cac5b00964",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2667,7 +2689,7 @@
       "path": "content/newsletters/2002/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "102c88e055335a08510f79176f193dee1866474e11dad971e41878324658d5e3",
+        "visible_text_sha256": "d57b9c96623265d50ab55632ec566e48529637423eed3b291e544df20d58c962",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2680,7 +2702,7 @@
       "path": "content/newsletters/2002/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "85eaa69bfd2d9895371077b6cc3fe414c41ff748bf34072bdfe6d681df2a5430",
+        "visible_text_sha256": "ac0ef0c9996f08ce6ad40ab6ad3b41d281376ad1e4707378cbe93668b7df753b",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -2693,7 +2715,7 @@
       "path": "content/newsletters/2003/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "19b19a460e13720fce98a9cd0859fa742be1bc597ed976b981d58a1fb7e21d48",
+        "visible_text_sha256": "26f658c9a55e816a24a5ec787bb4a0546d2b6d509005e4001ea58f8d0aa0569b",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2706,7 +2728,7 @@
       "path": "content/newsletters/2003/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "a653ce97efe33ea28e3957c2b738fdf1ae99796d6de605efb20e37fa16a54e82",
+        "visible_text_sha256": "70709fc7c2d6234451c7023a050071d6fba0d892b15c30296173831e823b589a",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2719,7 +2741,7 @@
       "path": "content/newsletters/2003/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3cc509ecb3e9b66062dd0765980d76ec4ff1a7eb6c830dcf70c7e851734c1715",
+        "visible_text_sha256": "a4425f3ff82583c69826e95d5900bfd500917ed92dd964182ee55e48de1ff2b1",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2732,7 +2754,7 @@
       "path": "content/newsletters/2003/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "22cd7f9dfdff3cbf31b8580af179cef30fbb67502025038c5146175d6df2a0d9",
+        "visible_text_sha256": "d96cb7caccaef42a3caaa9344fa6c8861b1ebd91faa44cb873ef73338b81b4b2",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2745,7 +2767,7 @@
       "path": "content/newsletters/2003/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "a35374132deb61c817a404e9c7dc36d35ebe3c07011b9e1acbc0047c961ffe20",
+        "visible_text_sha256": "876c096ae8b76271dc0d448f74dcc9f85a002acb2d1e56cc721ca6fc99277526",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2758,7 +2780,7 @@
       "path": "content/newsletters/2003/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "8f2105c44aa3e4bd15341ba633e1ecd5c9d38cc02aea141b12342229050d4df0",
+        "visible_text_sha256": "74ef306b53dd5af2d319d6c55bc82568753a19e858d0b81ff9b55fa9347bd6a3",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2771,7 +2793,7 @@
       "path": "content/newsletters/2003/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3d956db9468f26310c71b2225c5f84d7f42a86dc8190466455bc67cba2ba217d",
+        "visible_text_sha256": "667325876082ccaeef9436863d93d309c306dda991e7249448c98f4e5daea9ab",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2784,7 +2806,7 @@
       "path": "content/newsletters/2003/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "4c0fc5dab6346cabe771658e5c2e99f5f9db85fe3875e92e6fa526b78b4a123a",
+        "visible_text_sha256": "69932b27a2855db5aa962b668e248c757745a2c2193366fd4a0f1f3c9a4740a0",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2797,7 +2819,7 @@
       "path": "content/newsletters/2003/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "aa2cda3adbf515796ec9ea0be9c80c8ba6346df35d33402429accd025d9d62ac",
+        "visible_text_sha256": "8cafee653e724e7e336bbc444f1797c0beb1311adfaaebbe91d3503cc1085dd5",
         "links": 2,
         "images": 13,
         "anchors": [],
@@ -2810,7 +2832,7 @@
       "path": "content/newsletters/2003/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "82e69f451e8e66ba08c3077038021bae7a77f7d48f25f37704cdf5d7ebb8bfbc",
+        "visible_text_sha256": "88f01ce16991673a79fcd2ad41f69c2c7ed5fea99f95dd39645233f77a373946",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2823,7 +2845,7 @@
       "path": "content/newsletters/2003/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "c620de3c45c2a4911a52c493fa2c2a7f66820e3e84c160ce452b3ea0cf7cfbf2",
+        "visible_text_sha256": "cf07f6279e04b215f4d3719376a591dd3bca34b9d9f841a41f547a006cb3eb28",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -2836,7 +2858,7 @@
       "path": "content/newsletters/2003/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "38338bb6975787f344c269d20688928f1bd5d42c67ff350930affa3b0b4ddb9a",
+        "visible_text_sha256": "9299f988e92877be37092e2b79b70a448ca12f8fbe17e884feeb3f58eb6ce99c",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -2849,7 +2871,7 @@
       "path": "content/newsletters/2004/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "1852e5f2076beb1a29b9b5196544314051b712c2217eb2e2b43d710c4e625cc3",
+        "visible_text_sha256": "608eb7d51bbceb299598a95c53c8084b5dc4e075f523f35012592760f1b5e2d7",
         "links": 2,
         "images": 10,
         "anchors": [],
@@ -2862,7 +2884,7 @@
       "path": "content/newsletters/2004/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "6ad6294e540cd94141961fd450059b3491250ee7b053de003958f5a654f73509",
+        "visible_text_sha256": "ab66341ca307292e51bf807293ad72d41c7392a08288c3593aa09784b04a26e4",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -2875,7 +2897,7 @@
       "path": "content/newsletters/2004/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "88ff97ca6526e0c23b20524e1aee56aa2fcfc9238d4dba0a789c67edf2c01124",
+        "visible_text_sha256": "d6783c6441062f56f87be80a3181a7ef1324b71b01f0ff9430df94baaa87850b",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -2888,7 +2910,7 @@
       "path": "content/newsletters/2004/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "72e423d8a4dd32e03643a0b7969ada3f1d8243b6ee2bb0adec0f37776692f917",
+        "visible_text_sha256": "58073f7b20cbaa5867b805d3906dfd58fde257b939e72ed3bf17dbf0dc922769",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -2901,7 +2923,7 @@
       "path": "content/newsletters/2004/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "2c5f03c3d1f092a38df354142767c74565b31f82d737f2921b4a2c28b3763996",
+        "visible_text_sha256": "90f4898bb55284418b00bfd7187e987e6be169db4fe713b3531bc1cf9b75c73a",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -2914,7 +2936,7 @@
       "path": "content/newsletters/2004/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "a617e39289bf0edbe9eb19c91d825e0173ab8b09d6d1ab83a2fe1364f542395d",
+        "visible_text_sha256": "a766573b78c32f0fb841c0b1feb376a0613a224bafb0401da6287a44fc91e009",
         "links": 2,
         "images": 10,
         "anchors": [],
@@ -2927,7 +2949,7 @@
       "path": "content/newsletters/2004/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "255951fae3aec08c9443b541deec1cde04406b0d1a13165bc591ee58404e3758",
+        "visible_text_sha256": "8132811231296720e0289117d7fda55cf7aee721d24e01b75d30b92cb4b783ad",
         "links": 2,
         "images": 10,
         "anchors": [],
@@ -2940,7 +2962,7 @@
       "path": "content/newsletters/2004/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "0aeea96c3892e3eef2f8b57e0a011fed804cd63ba1fdc4f12d912ac17bd85bbf",
+        "visible_text_sha256": "d40cd98742902c87b0473c9c3c8cb5d8229bb879af0b91921bb2564603688045",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -2953,7 +2975,7 @@
       "path": "content/newsletters/2004/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "4da10ad87076383b75d6272f93caa7b142b61219243ecb604c1262c41692b87e",
+        "visible_text_sha256": "9f7e8ead83b6044ad8ae768e58819ace0e73b35d3581110b648586ebbd5cab06",
         "links": 2,
         "images": 10,
         "anchors": [],
@@ -2966,7 +2988,7 @@
       "path": "content/newsletters/2004/november.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "ad8c6ca8bffaf64c49ee27ad2659c8a6b01533ef38818e40de0780ad570a2bc8",
+        "visible_text_sha256": "0a0645fae1a652a7b8ec49ab55721b43905311ffdb922830296bb1ea8a1d6510",
         "links": 2,
         "images": 10,
         "anchors": [],
@@ -2979,7 +3001,7 @@
       "path": "content/newsletters/2004/october.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "5472ff3e2d4a4ab4019d997cbb0834be16797b8f4851c1057981bc2ab906d7ed",
+        "visible_text_sha256": "21c2dffd528400cdb37b6fea50812e26c4824f695c9f2cb3b7ab2e7e6b573712",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -2992,7 +3014,7 @@
       "path": "content/newsletters/2004/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "ee03c1fbc7baf3053670493af7a75eb8ae1d11e9758765eab559d6f8a5b1ca64",
+        "visible_text_sha256": "03a7c5b3b445220167baa75537d98c64f50e5734d8e53a282383a149d5226970",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -3005,7 +3027,7 @@
       "path": "content/newsletters/2005/april.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "a829ffdd53cb0a09907f2f37a177c61d947a5c2510e6d5333d59c6e7749e84d5",
+        "visible_text_sha256": "ec5ef8f9c4cb60eb297731ba97ace1e823c7abcf5fc1d17de65cbe9161239f3d",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -3018,7 +3040,7 @@
       "path": "content/newsletters/2005/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3b15c32d3f7ebf2b44566652920104f690e0f1b409357d31c7f106069d95c124",
+        "visible_text_sha256": "12ba86567c6d218cc1336528fc556945175f33e3a5340013e51b98d5dee0a8b1",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -3031,7 +3053,7 @@
       "path": "content/newsletters/2005/february.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "fe5a46f620d8aaf9cc6c2228350589f129d871fed6603af031409f92eb22b4a9",
+        "visible_text_sha256": "e39da9a697ecf2cf83c679f0960567821137b72fd69e0cebc54c11c85b238a81",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -3044,7 +3066,7 @@
       "path": "content/newsletters/2005/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "ace09a06f23daeef0b98510263927b61d461377f2261e5e84549e1689e0c5246",
+        "visible_text_sha256": "c770c2483b018dabeecf42639682fd9de2d2683d9f0374a3a3e8abec48502f95",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -3057,7 +3079,7 @@
       "path": "content/newsletters/2005/july.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "c489be87685e5dc22b95e9b80efc91c2e451d67283feb64a3c560b0efec11183",
+        "visible_text_sha256": "10cc758b83dba7885f579d0e81bf4298eb05d4a3339464d797811f7ccc02f18f",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -3070,7 +3092,7 @@
       "path": "content/newsletters/2005/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "6d438c31be8c704f3ed32d599b92ee3cb40ce56eaf87ad38a50f77039bb4b7fb",
+        "visible_text_sha256": "d4685168ff6c7946bdadd9f04129d8847081b0dcb782c96bf2c985720b8851b6",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -3083,7 +3105,7 @@
       "path": "content/newsletters/2005/march.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "270bd4447d51095e8e08df4f41917f281601282efaa8bf122aba1ce239bd672c",
+        "visible_text_sha256": "236df7e59d8a29fc23ec02a1fbeaaf05dcaef2e552bb8dcb90da61c71f992a47",
         "links": 2,
         "images": 12,
         "anchors": [],
@@ -3096,7 +3118,7 @@
       "path": "content/newsletters/2005/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "4fded04405bfa27219ea9621dc619b42ef54868d630088cb12b843bfa781e54e",
+        "visible_text_sha256": "e97e72f265973ebdc66192731d096849b07d3462cf880905a658689af85a56f4",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -3109,7 +3131,7 @@
       "path": "content/newsletters/2005/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "ccadf48bd15314911bab8acf7ebdf3d58ddc01b759b95778933283c1f5ea6a99",
+        "visible_text_sha256": "fbb743ed4509916e2b0c8398bebcdcfdefc7c5079a7f97e6ae30e7ddd1e3d54a",
         "links": 2,
         "images": 11,
         "anchors": [],
@@ -3132,7 +3154,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "2b2a8abb48c3333bac1ff48d37199eafeee7d3bac3959e61e1fe31630cd3e671",
+        "visible_text_sha256": "b46eb93aba0f60b254d56643f50be0db2aaa84402fd179970cd94e7cdf919f18",
         "links": 158,
         "images": 12,
         "anchors": [
@@ -3154,19 +3176,18 @@
       "path": "content/personas/bard-handout.md",
       "findings": [
         {
-          "rule": "table_without_header",
+          "rule": "unknown_element",
           "severity": "warning",
           "count": 1,
           "examples": [
-            "table 1 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+            "<signoff> x1"
+          ]
         }
       ],
       "baseline": {
-        "visible_text_sha256": "2afdac6ac86eff20a724f78d18f2c17cc9de0f01a9a9c11b30855f3e75d0e322",
+        "visible_text_sha256": "e6c0e1ecfce4aa28808ac99f7cd8db09c1c6604962cac6210f66de875f3edec3",
         "links": 5,
-        "images": 7,
+        "images": 0,
         "anchors": [
           "court",
           "master",
@@ -3181,9 +3202,18 @@
     },
     {
       "path": "content/personas/blues-handout.md",
-      "findings": [],
+      "findings": [
+        {
+          "rule": "unknown_element",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "<signoff> x1"
+          ]
+        }
+      ],
       "baseline": {
-        "visible_text_sha256": "c8b15ee186f55b550d4403ad03a92c41adcaf763177782045afdc30b053b00c4",
+        "visible_text_sha256": "e089a22648f8d141f2cb6b33996835fb9e231d7ace1d4a43581c8eebd02a69bd",
         "links": 5,
         "images": 7,
         "anchors": [
@@ -3220,7 +3250,7 @@
       "path": "content/personas/healer-handout.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7f7c9d8ed5efd397fbfb29d5d80cd9f742c9b8f82c7f862d8e05b3e6cff9e110",
+        "visible_text_sha256": "7d5b913842d548969cc4e0d0ad9ae8e2d399552ef603fad381f963febb52041b",
         "links": 5,
         "images": 7,
         "anchors": [
@@ -3267,9 +3297,18 @@
     },
     {
       "path": "content/personas/herald-mage-handout.md",
-      "findings": [],
+      "findings": [
+        {
+          "rule": "unknown_element",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "<signoff> x1"
+          ]
+        }
+      ],
       "baseline": {
-        "visible_text_sha256": "6e85e48a36aeeb471b46c4cd5f8ea7c35c92bca7dad9b3520691ebfbd01f2d4f",
+        "visible_text_sha256": "fe8c42b7b9c3e3b1b76325f286c28ce829654ebe3808ee676b62b2d811c50292",
         "links": 0,
         "images": 7,
         "anchors": [],
@@ -3280,9 +3319,18 @@
     },
     {
       "path": "content/personas/kalen-edral-handout.md",
-      "findings": [],
+      "findings": [
+        {
+          "rule": "unknown_element",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "<signoff> x1"
+          ]
+        }
+      ],
       "baseline": {
-        "visible_text_sha256": "7a42bbdbbb624b7e9d13afc1e135cd614265515a7f47c7ee09a3be98fcefb161",
+        "visible_text_sha256": "e2278be89b764717c5fdb9bab42082b8e7608bc7c294bebbc5aae69f70b90201",
         "links": 0,
         "images": 8,
         "anchors": [],
@@ -3295,6 +3343,14 @@
       "path": "content/personas/military-handout.md",
       "findings": [
         {
+          "rule": "unknown_element",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "<signoff> x1"
+          ]
+        },
+        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 1,
@@ -3305,7 +3361,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "09f459675fc6a58d0765b43c5a5829e3a12c59750624c721c045a7f355d19448",
+        "visible_text_sha256": "50b7f662344a97c9fbc7385965c1c18a2e7a29ca728700a218346c8520f11b6b",
         "links": 3,
         "images": 10,
         "anchors": [
@@ -3322,6 +3378,14 @@
       "path": "content/personas/northern-barbarian-handout.md",
       "findings": [
         {
+          "rule": "unknown_element",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "<signoff> x1"
+          ]
+        },
+        {
           "rule": "table_without_header",
           "severity": "warning",
           "count": 2,
@@ -3333,7 +3397,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "b5aad8cae04f0341db88f91800f9fd1534de172930784bc394532c62e03162d0",
+        "visible_text_sha256": "6b2c931c9754640ded406dfe69c701583a9807dae5db99e9f6d00f4bfda1a6e1",
         "links": 3,
         "images": 7,
         "anchors": [
@@ -3374,9 +3438,18 @@
     },
     {
       "path": "content/personas/persona-handouts.md",
-      "findings": [],
+      "findings": [
+        {
+          "rule": "unknown_element",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "<signoff> x1"
+          ]
+        }
+      ],
       "baseline": {
-        "visible_text_sha256": "bdcaa7461235be4f8d7c3bd245f80c0a419ca0313fa1bc01e6c9500f6185ba3d",
+        "visible_text_sha256": "02bdf88f6cd4a72fb1e6b397299600b01ad6deb40998669547d51110810a17eb",
         "links": 8,
         "images": 7,
         "anchors": [
@@ -3391,9 +3464,18 @@
     },
     {
       "path": "content/personas/priest-and-priestess-handout.md",
-      "findings": [],
+      "findings": [
+        {
+          "rule": "unknown_element",
+          "severity": "warning",
+          "count": 1,
+          "examples": [
+            "<signoff> x1"
+          ]
+        }
+      ],
       "baseline": {
-        "visible_text_sha256": "60074f9f0397151ef800c0cafb2e0bb7fd730e350e28184e56b20586697eac1f",
+        "visible_text_sha256": "50afb8c404416fdb4396559c6ff9ff313149d85dab97a3228777751ad14d7c10",
         "links": 1,
         "images": 8,
         "anchors": [
@@ -3490,7 +3572,7 @@
       "path": "content/vanyel-fan-club/chat.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "9fbc3581a53d599d9af8355e46e2bdd6f9a5a5730230f3e5b906a8684d1b33e6",
+        "visible_text_sha256": "6a78864e2681a3d6e1dd3ea18b06a1a52be6cc04f42fe68c21a4a224c3a87f6e",
         "links": 0,
         "images": 4,
         "anchors": [],
@@ -3503,7 +3585,7 @@
       "path": "content/vanyel-fan-club/faq.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "06b6f116c20030793439345538e3beff9b19e7f69a786fc8449ba3346d4a884f",
+        "visible_text_sha256": "7d0112eaf351de3f15e27283d239441a18e09b76288927807b109188e99a0730",
         "links": 0,
         "images": 8,
         "anchors": [],
@@ -3516,7 +3598,7 @@
       "path": "content/vanyel-fan-club/heralds-haven-gate.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "249d43cd5570bb4942ae3391eb13a871ecd66919b0fcbdcb19beb7ee4ed1b36e",
+        "visible_text_sha256": "f7cc8db17d9b973c436519c1b82a8f50d6b945d2e61fda8fb8ee2af295d2a802",
         "links": 1,
         "images": 3,
         "anchors": [],
@@ -3529,7 +3611,7 @@
       "path": "content/vanyel-fan-club/heralds-haven.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "10ed80dc407c5cea39e3889462480dbc82e4e0945c81afad16f2ae10f817eb89",
+        "visible_text_sha256": "2dc2ea40bdcca148c29d7460aa327be5f077107d428d23909568d737f9d003c2",
         "links": 0,
         "images": 5,
         "anchors": [],
@@ -3568,7 +3650,7 @@
       "path": "content/vanyel-fan-club/president.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "29ba45aa150c469a9d26648640314af98f359431d50547d28d90a40ffe972e2d",
+        "visible_text_sha256": "3dd8108c373a4506b67805a76ebb2ae5bf1eeffb00182c83657401e568c51881",
         "links": 0,
         "images": 4,
         "anchors": [],
@@ -3607,7 +3689,7 @@
       "path": "content/world/companions-choices.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "6eb67a97e9c9b39c136a02f8e041d68c5ad9f4df69291b4ede83e6c8904e946e",
+        "visible_text_sha256": "d06adba1412e35f189a3c9aaacefdcbd3a9819c2d497b0ed3a3cf59a3ed51ed6",
         "links": 0,
         "images": 1,
         "anchors": [],
@@ -3701,7 +3783,7 @@
       "path": "content/world/heralds-and-companions.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "cdf7c7a69690fbe62e5b44a623d5f553a73c73911a6109f61dbb21a4ee8f83f2",
+        "visible_text_sha256": "0f2660ca970b0475c53e6661a16d3d11800a027076cdead5df0cdab829c83419",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -3809,7 +3891,7 @@
       "path": "content/world/proverbs-of-velgarth.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7069ccde0429c2e62f4a5609812dc5a78e8fc800fa78bb3ec71f96a498b37e6c",
+        "visible_text_sha256": "0e9a941ed5e645c79ee7a22ef2caccf6e4f68330b08e8106dcbabff3214301a9",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -3822,7 +3904,7 @@
       "path": "content/world/reincarnated-characters.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "00c6bc804594fe64d45b5bdf5e21e3f87f8b2529e9013c7bba0f274b998d9b72",
+        "visible_text_sha256": "f0a8e2306865908680b8baa9f944553f0a620c73e2d591de37520ff183e79a74",
         "links": 0,
         "images": 2,
         "anchors": [],

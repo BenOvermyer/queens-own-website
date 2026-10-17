@@ -1,11 +1,10 @@
 {
   "summary": {
-    "local_available": 1203,
+    "local_available": 1205,
     "missing_file": 3,
     "unavailable_content": 2,
-    "remote_available": 120,
-    "missing_pdf": 27,
-    "unverified_pdf": 1
+    "remote_available": 121,
+    "missing_pdf": 27
   },
   "pdf_reconciliation": {
     "linked_filenames": 148,
@@ -18021,6 +18020,1517 @@
           "page": "how-to-join/index.html",
           "attribute": "href",
           "url": "#main"
+        }
+      ],
+      "local_present": true,
+      "status": "local_available"
+    },
+    {
+      "target": "/images/queens-own-crest-small.webp",
+      "type": "asset",
+      "references": [
+        {
+          "page": "archive/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "bard-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "bards-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "blues-and-blue-bloods-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "blues-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "chapters/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "children-of-velgarth/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "club-chat/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "club-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "club-seal/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "club-webring/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "community/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "companions-choices/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/about/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/spring-2002/arthurian-tales/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/spring-2002/arthurian-tales/references/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/spring-2002/diversity-in-libraries/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/spring-2002/diversity-in-libraries/references/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/spring-2002/editorial/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/spring-2002/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/spring-2002/music-in-medieval-ireland/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/spring-2002/music-in-medieval-ireland/references/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/spring-2002/reviews/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/summer-2000/editorial/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/summer-2000/either-or/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/summer-2000/either-or/references/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/summer-2000/from-reptile-to-mammal/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/summer-2000/from-reptile-to-mammal/references/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/summer-2000/in-the-name-of-god/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/summer-2000/in-the-name-of-god/references/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/summer-2000/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/summer-2000/reviews/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "compass-rose/summer-2000/sink-or-swim/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "cooking-velgarth-style/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "danya-winterborn/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "danyas-cookbook/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "delphi-forum/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "dream-casts/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "dream-casts/magics-pawn/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "dream-casts/magics-price/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "dream-casts/magics-promise/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "fan-fiction/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "fauna-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "fun-stuff/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "garb-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "gifts-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "golden-grove/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "guild-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "guilds-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "healer-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "healers-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "herald-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "herald-mage-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "heralds-and-companions/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "heralds-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "how-to-join/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "kalen-edral-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "legal-notices/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "magic-of-velgarth/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "membership/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "mentors/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "mercedes-lackey-links/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "mercedes-lackey-release-form/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "military-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "military-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletter-guidance/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1988/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1988/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1988/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1988/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1988/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1988/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1988/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1988/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1989/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1989/august/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1989/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1989/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1989/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1989/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1989/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1989/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1989/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1989/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1990/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1990/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1990/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1990/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1990/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1990/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1990/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1990/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1990/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1990/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1991/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1992/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1992/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1992/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1992/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1992/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1992/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1992/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1992/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1992/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1992/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1993/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1993/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1993/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1994/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1994/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1994/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1994/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1994/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1994/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1994/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1994/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1995/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1995/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1995/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1995/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1995/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1996/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1996/august/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1996/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1996/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1996/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1996/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1996/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1996/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1996/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1996/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1997/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1997/august/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1997/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1997/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1997/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1997/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1997/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1997/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1997/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1997/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1998/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1998/august/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1998/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1998/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1998/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1998/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1998/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1998/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1998/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1998/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1999/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1999/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1999/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1999/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1999/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1999/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1999/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/1999/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2000/august/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2000/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2000/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2000/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2000/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2000/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2000/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2000/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2000/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/august/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2001/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/august/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2002/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/august/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2003/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/august/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/december/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/november/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/october/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2004/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2005/april/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2005/august/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2005/february/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2005/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2005/january/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2005/july/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2005/june/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2005/march/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2005/may/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2005/september/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2006/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2007/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2008/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2009/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2010/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2011/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2012/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2015/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2016/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2017/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2018/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2019/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2020/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2021/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2022/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2023/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2024/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/2026/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "newsletters/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "northern-barbarian-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "northern-barbarians-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "npc-directory/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "pacific-northwest-collegium/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "persona-directory/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "persona-handouts/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "personas/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "plants-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "priest-and-priestess-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "privacy-policy/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "proverbs-of-velgarth/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "publications/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "reincarnated-characters/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "release-form-instructions/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "religions-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "role-playing/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "science-and-magic-tricks/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "shina-in-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "shina-in-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "sonoran-collegium/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "sorcerer-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "tayledras-faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "tayledras-handout/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "travel-guide/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "valdemar-timeline/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "vanyel-fan-club/chat/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "vanyel-fan-club/faq/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "vanyel-fan-club/heralds-haven/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "vanyel-fan-club/heralds-haven-gate/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "vanyel-fan-club/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "vanyel-fan-club/join/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "vanyel-fan-club/newsletter/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "vanyel-fan-club/president/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "webring-code/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "world/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        },
+        {
+          "page": "world-reference-guide/index.html",
+          "attribute": "src",
+          "url": "http://127.0.0.1:1111/images/queens-own-crest-small.webp"
+        }
+      ],
+      "local_present": true,
+      "status": "local_available"
+    },
+    {
+      "target": "/images/queens-own-crest.webp",
+      "type": "asset",
+      "references": [
+        {
+          "page": "index.html",
+          "attribute": "src",
+          "url": "/images/queens-own-crest.webp"
         }
       ],
       "local_present": true,
@@ -50549,10 +52059,13 @@
       "local_present": false,
       "http_url": "https://files.queensown.org/qofall2026.pdf",
       "http": {
-        "status": null,
-        "error": "Not checked"
+        "checked_at": "2026-10-17T17:17:01.941393+00:00",
+        "content_type": "application/pdf",
+        "final_url": "https://files.queensown.org/qofall2026.pdf",
+        "status": 200,
+        "url": "https://files.queensown.org/qofall2026.pdf"
       },
-      "status": "unverified_pdf",
+      "status": "remote_available",
       "recovery_http": {
         "status": null,
         "error": "Not checked"
