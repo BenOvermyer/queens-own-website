@@ -45,8 +45,8 @@ maps every imported page to its section, canonical path, content file, and redir
 
 Source files live in native Zola sections under `content/`. Preserved source pages
 retain `extra.legacy_source` for provenance; the membership landing pages and other
-navigation hubs are separately maintained Markdown. Hub edits survive reorganization
-and reimport. Ordinary new editorial pages do not need a legacy source identifier.
+navigation hubs are separately maintained Markdown. Hub edits survive reorganization.
+Ordinary new editorial pages do not need a legacy source identifier.
 
 Member names and contact addresses for the persona and NPC directories are kept in
 `data/persona-directory.json` and `data/npc-directory.json`. Those private sources are
@@ -85,20 +85,17 @@ use the first day for sorting, with `date_precision = "month"`; the UI shows the
 known month/year, not an invented publication day. Missing issues retain unavailable
 notices and unresolved inventory statuses.
 
-## Reimport the archive
+## Import provenance
 
-```sh
-python3 -m pip install -r requirements-migration.txt
-python3 scripts/migrate.py ../queens-own/queensown.org
-```
+The club content was imported once from the hand-coded archive
+(`../queens-own/queensown.org`) and the selected Dragonlords pages. The importer and
+the archive-to-Markdown conversion pipeline that produced the preserved content have
+since been removed, because the import is not repeated; those pages are now maintained
+as ordinary Markdown and HTML. Preserved pages retain `extra.legacy_source` for
+provenance, and the original source directory was never modified.
 
-Reimporting overwrites imported content and copied static assets. Edit the importer
-for repeatable changes, or edit generated content directly and avoid reimporting
-those changes. The original source directory is never modified.
-Both importers use the section mapping and run the organizer, so they retain the
-new paths and preserve the separate home page and curated navigation hubs.
-
-`data/migration-report.json` lists repaired references and missing source files.
+`data/migration-report.json` lists references repaired during that import and missing
+source files.
 It is the original migration snapshot, rather than the current resolution status.
 The current inventory and recovery dispositions are documented in
 [`docs/content-inventory.md`](docs/content-inventory.md).
@@ -114,27 +111,22 @@ Known historical gaps remain explicitly unresolved; a new missing target or new
 page referring to an acknowledged gap fails validation. Online availability can
 change, so an offline check does not establish that downloads are currently live.
 
-`data/link-corrections.json` and `scripts/link_repairs.py` keep link fixes and anchor
-aliases reproducible on reimport. `python3 scripts/repair_links.py` applies those fixes
-and unavailable-content notices to existing pages without reimporting the archive.
-After recovering a resource, remove its entry from `data/link-dispositions.json`
-and its unavailable notice from the page, refresh live evidence where appropriate,
-then rerun the organizer, rebuild, and verify.
+`data/link-corrections.json` records the link fixes and anchor aliases applied during
+the one-time import; the preserved pages already carry them. After recovering a
+resource, remove its entry from `data/link-dispositions.json` and its unavailable
+notice from the page, refresh live evidence where appropriate, then rerun the
+organizer, rebuild, and verify.
 
-## HTML markup repair and audit
+## HTML audit
 
-The original pages contain malformed attribute quoting and unescaped `<`. The pages
+The original pages contained malformed attribute quoting and unescaped `<`. The pages
 predate emoji, so they use ``<g>`` (grin) and similar letter emoticons as text, which a
 lenient parser reads as unknown elements and can turn into swallowed links, escaped
-markup, and bogus tags.
-`scripts/markup_repairs.py` repairs the quotes and broken fragments in the raw archive
-bytes; `scripts/markup_normalize.py` repairs nesting (including emoticons read as tags
-that swallow block content or nest list items), headings, anchors, and emoticons
-and then converts the page to Markdown via `scripts/html_to_markdown.py`; and
-`scripts/markup_destyle.py` turns the presentational markup that survives inside kept
-HTML (tables and images) into shared classes in `static/css/site.css`. Both importers
-run the full sequence, so a reimport emits the same Markdown;
-`python3 scripts/markup_normalize.py` reruns it over existing content.
+markup, and bogus tags. Those defects were repaired during the one-time import, which
+also moved the presentational markup that survives inside kept HTML (tables and images)
+into shared classes in `static/css/site.css`; the repair and conversion pipeline has
+been retired.
+
 `scripts/audit_html.py` audits the remaining HTML for structural, presentational, and
 semantic problems and records a content-preservation baseline.
 `python3 scripts/audit_html.py --check` fails while unresolved structural errors
@@ -143,31 +135,19 @@ Markdown, during deployment verification. Intentional
 exceptions are listed in `data/html-exceptions.json` and documented in
 [`docs/html-audit.md`](docs/html-audit.md).
 
-## Content remaining on Dragonlords
+## Content on Dragonlords
 
 [`docs/dragonlords-migration-inventory.md`](docs/dragonlords-migration-inventory.md)
 identifies Queen's Own and Velgarth content left on the other site by the original
 filename-based split. The complete file spreadsheet and page/dependency inventory
 are in `data/dragonlords-file-inventory.csv` and
-`data/dragonlords-content-inventory.json`.
+`data/dragonlords-content-inventory.json`; these are one-time migration snapshots, and
+the inventory and import tooling has been retired.
 
-To regenerate those data files from the local split archive:
-
-```sh
-python3 scripts/inventory_dragonlords.py ../queens-own/dragonlords.fans
-```
-
-This requires the migration Python dependencies. Install `pdftotext` (Poppler) to
-include PDF keyword scanning; the JSON records whether PDF text was extracted.
-Recommendations identify candidates for subsequent migration; they do not move
-content or change either site's routes.
-
-The selected club pages have been migrated under descriptive paths. The bookstore
+The selected club pages were migrated under descriptive paths. The bookstore
 and substantive Dragonlords material stay on the other site; shared hosting footers
-and bookstore promotions were removed from imported copies. To repeat that import,
-run `python3 scripts/migrate_dragonlords.py ../queens-own/dragonlords.fans`, then build
-and verify. This overwrites the imported copies, so maintain repeatable changes in
-the migration script. `data/dragonlords-route-map.json` records the initial imported paths;
+and bookstore promotions were removed from imported copies.
+`data/dragonlords-route-map.json` records the imported paths;
 `data/site-routes.json` records the organized content locations and canonical URLs,
 and `static/_redirects` redirects old filenames on the Netlify site. Redirects on the
 original Dragonlords host need a separate deployment there.

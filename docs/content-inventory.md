@@ -50,8 +50,8 @@ Dragonlords content migration: the recovered California chapter page is now at
 | `qoww.htm#formal` | Add alias at Formal Training. |
 | `qom.htm#advance` | Add alias at Advanced Rank. |
 
-These corrections are applied by the importer as well as the standalone repair
-script. No new prose, contact addresses, or missing artwork were invented.
+These corrections were applied during the one-time import. No new prose, contact
+addresses, or missing artwork were invented.
 
 ## Recovery evidence and limitations
 

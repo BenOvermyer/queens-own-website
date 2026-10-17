@@ -100,17 +100,16 @@ deployment URL through `DEPLOY_PRIME_URL`. Redirects on the separate Dragonlords
 host require a separate deployment there; its bookstore and other retained content
 remain external links.
 
-## Reimports and maintenance
+## Organization and maintenance
 
-Both importers look up canonical content-file locations before writing source
-pages, then rerun `scripts/organize_site.py`. This keeps the organized structure and
-prevents source reimports from replacing the curated home page. Existing hub body
-edits are preserved. The organizer is idempotent and does not rewrite source archives.
-
-Source reimports overwrite the preserved source copies, as before; maintain
-repeatable source corrections in the import/organization scripts. Edit the hub
-Markdown directly for editorial navigation changes. Ordinary new editorial pages
-can be created in the relevant section without inventing a legacy source identifier.
+`scripts/organize_site.py` maps the preserved pages to canonical content-file
+locations and regenerates canonical paths, redirects, the archive index, and the
+publication/navigation indexes. It is idempotent and does not rewrite source
+archives, and it preserves the curated home page and hub bodies. The one-time archive
+import has been retired, so these pages are now maintained directly: edit the hub or
+content Markdown for editorial changes, and rerun the organizer when routes,
+redirects, or indexes need updating. Ordinary new editorial pages can be created in
+the relevant section without inventing a legacy source identifier.
 
 ```sh
 python3 scripts/organize_site.py

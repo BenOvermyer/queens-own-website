@@ -244,17 +244,14 @@ These are additional migration findings, separate from the issue #4 inventory of
 5. Decide the mailing-list archive, shared release form, cookbook, author CV, and mixed-page excerpts separately; retain the surrounding Dragonlords material.
 6. Run the site’s local link/anchor audit, confirm PDF destinations, and check new pages for publication dates, artwork attribution, and original notices.
 
-## Regenerate the inventory
+## Inventory data
 
-```sh
-python3 scripts/inventory_dragonlords.py ../queens-own/dragonlords.fans
-```
-
-Requires the migration Python dependencies and Poppler’s `pdftotext` for PDF keyword extraction. This regenerates the machine-readable data files. Update this review report if the source or recommendations change.
+The machine-readable inventory was produced by a one-time scan; the scan tooling has
+been retired, so these files are now historical snapshots rather than regenerable
+outputs. Update this review report if the source or recommendations change.
 
 - `data/dragonlords-file-inventory.csv`: complete file inventory for spreadsheet review.
 - `data/dragonlords-content-inventory.json`: all page classifications, evidence, incoming links, dependencies, and PDF findings.
-- `scripts/inventory_dragonlords.py`: repeatable scan and explicit candidate-group definitions.
 
 ## Completed migration
 
@@ -289,15 +286,6 @@ The old `dragonlords.fans` host has not been changed; when updating its deployme
 use the route map to redirect moved pages to the intended Queen's Own deployment
 URL while leaving the bookstore and other retained material in place.
 
-To repeat the import:
-
-```sh
-python3 scripts/migrate_dragonlords.py ../queens-own/dragonlords.fans
-python3 scripts/build.py
-python3 scripts/verify.py
-```
-
-Reimport overwrites the imported pages from the archive. Edit the migration script
-for repeatable changes. The original Queen's Own importer also uses the route map
-and restores the imported archive listing, so it does not reinstate old cross-domain
-links when reimporting the original site's content.
+The import ran once and is not repeated; the importer and the archive-to-Markdown
+conversion pipeline have been retired. The pages are now maintained directly, and the
+preserved credits and notices remain in place.

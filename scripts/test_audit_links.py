@@ -8,8 +8,6 @@ import unittest
 from unittest.mock import patch
 
 import audit_links
-from bs4 import BeautifulSoup
-from link_repairs import annotate_gaps, repair_anchors
 
 
 class LinkAuditTests(unittest.TestCase):
@@ -64,13 +62,6 @@ class LinkAuditTests(unittest.TestCase):
         with self.assertRaises(SystemExit):
             self.run_audit()
 
-    def test_original_name_only_anchor_gets_alias_without_losing_old_target(self):
-        soup = BeautifulSoup('<a name="teacher"></a><h3>Teacher</h3>', 'lxml')
-        repair_anchors(soup, 'qob.htm')
-        repair_anchors(soup, 'qob.htm')
-        self.assertIsNotNone(soup.find('a', attrs={'name': 'teacher'}))
-        self.assertEqual(len(soup.find_all(id='teach')), 1)
-
     def test_absolute_site_root_is_not_the_current_document(self):
         (self.root / 'public/missing').mkdir()
         (self.root / 'public/missing/index.html').write_text('<a href="https://example.netlify.app">Home</a><article data-missing-source="/lost.htm">Unavailable</article>')
@@ -85,14 +76,6 @@ class LinkAuditTests(unittest.TestCase):
         report = self.run_audit()
         self.assertEqual(next(r for r in report['targets'] if r['target'] == '/missing')['status'], 'unavailable_content')
         self.assertEqual(next(r for r in report['targets'] if r['target'] == '/missing#main')['status'], 'local_available')
-
-
-class GapAnnotationTests(unittest.TestCase):
-    def test_disposition_matches_by_original_target_after_canonicalization(self):
-        soup = BeautifulSoup('<a href="/qodec98.htm">December 1998</a>', 'lxml')
-        annotate_gaps(soup, {'/newsletters/1998/december': {'original_target': '/qodec98.htm'}})
-        self.assertEqual(soup.find('a')['title'], 'Unavailable in the preserved archive')
-        self.assertIsNotNone(soup.find('span', class_='unavailable-note'))
 
 
 if __name__ == '__main__':

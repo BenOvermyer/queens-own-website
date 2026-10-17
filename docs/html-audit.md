@@ -29,43 +29,42 @@ attribute quotes (`href='page.htm">`, `href="mailto:a@b.com>a@b.com</a>`, links 
 `href` swallowed their own `</a>`, and malformed `<font=…>` tags), plus unescaped
 `<` that turned the era's ``<g>`` "grin" emoticon (shorthand that predates emoji) and
 broken links (`<http:>`) into bogus elements.
-`scripts/markup_repairs.py` normalizes the quotes and broken fragments on the raw
-archive bytes, and `scripts/markup_normalize.py` escapes the emoticons and fragments
-back to literal text.
+The one-time import normalized the quotes and broken fragments on the raw archive
+bytes and escaped the emoticons and fragments back to literal text. The repair and
+conversion pipeline has since been retired.
 
 **Emoticons read as tags.** A ``<g>`` (grin) is text, not a tag, but a lenient parser
 reads it as an unknown element and can nest the content that follows inside it — an
-unclosed `<font>` can likewise wrap the rest of a page. `scripts/markup_normalize.py`
-releases list items that were nested this way, and `scripts/html_to_markdown.py` renders
-block content found inside a paragraph as blocks instead of flattening it into one
-line, so a single stray emoticon or tag no longer collapses a long newsletter.
+unclosed `<font>` can likewise wrap the rest of a page. During the import, list items
+nested this way were released, and block content found inside a paragraph was rendered
+as blocks instead of flattening it into one line, so a single stray emoticon or tag no
+longer collapses a long newsletter.
 
 **HTML blocks that would swallow Markdown.** A standalone `<img>` (or other block
 tag) placed immediately before prose starts an HTML block that hides every following
-Markdown line until a blank line. The converter now separates a list item's trailing
-block from the text that follows it, and `scripts/verify.py` scans the built pages for
-unrendered Markdown headings or link syntax so a reimport cannot quietly restore this.
+Markdown line until a blank line. The import separated a list item's trailing block
+from the text that follows it, and `scripts/verify.py` scans the built pages for
+unrendered Markdown headings or link syntax so the problem cannot quietly return.
 
-**Nesting, headings, anchors.** `scripts/markup_normalize.py` moves named anchors and
-table-of-contents links onto their headings, releases block content out of stray
-anchors, removes targetless anchors, dedupes ids, starts content headings at `<h2>`
-(the templates render the page `<h1>`), and fills skipped heading levels.
+**Nesting, headings, anchors.** The import moved named anchors and
+table-of-contents links onto their headings, released block content out of stray
+anchors, removed targetless anchors, deduped ids, started content headings at `<h2>`
+(the templates render the page `<h1>`), and filled skipped heading levels.
 
-**Presentation.** `scripts/markup_destyle.py` converts the presentational markup that
+**Presentation.** The import converted the presentational markup that
 survives inside kept HTML (tables and images) into `align-*`, `valign-*`,
 `border-*`, `cellpadding-*`, `cellspacing-*`, `table-align-*`, and `float-*` classes
-defined in `static/css/site.css`, and moves one-off dimensions to inline styles.
+defined in `static/css/site.css`, and moved one-off dimensions to inline styles.
 
-**HTML → Markdown.** `scripts/html_to_markdown.py` converts each page body to
+**HTML → Markdown.** The import converted each page body to
 Markdown: headings, paragraphs, lists, blockquotes, `<hr>`, emphasis, and links
 become Markdown; `<div>`, `<center>`, and presentational wrappers are removed;
 `<img>`, image-only links, named anchors, `<dl>`, and genuine **data tables** stay
 HTML; **layout tables** (single-column, or cells containing headings/lists) are
 converted to Markdown; `<xmp>`
 becomes a fenced code block. PDF links that carry the `__PDF_BASE_URL__` token stay
-HTML because the token is substituted after Markdown rendering. `markup_normalize`
-runs the whole sequence over existing content, and both importers (`migrate.py`,
-`migrate_dragonlords.py`) emit Markdown directly so a reimport stays correct.
+HTML because the token is substituted after Markdown rendering. The conversion ran
+once during the import; the preserved pages carry its output.
 
 A preservation check confirms every changed page keeps its prose, links, images, and
 anchors, and every class used in the content is defined in the stylesheet.
