@@ -1,6 +1,13 @@
 {% extends "base.html" %}
 {% block content %}
-<h1>Welcome to Queen’s Own</h1>
+
+<div class="hero">
+    <h1>Welcome to Queen’s Own</h1>
+    <span class="subtitle">The Official Mercedes Lackey Fan Club</span>
+
+    <img src="/images/queens-own-crest.png" />
+</div>
+
 {{ section.content | safe }}
 <div class="topic-grid">
   <section><h2><a href="{{ get_url(path='membership/') }}">Membership</a></h2><p>Curious about joining, or looking for member resources? Head to the Membership section.</p></section>
