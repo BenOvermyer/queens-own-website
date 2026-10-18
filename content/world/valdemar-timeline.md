@@ -192,8 +192,48 @@ This is the order in which Mercedes Lackey copyrighted the various works:
 - "Oathblood" 1998 (in *Oathblood* 1998)
 - *Oathblood* 1998
 - *Owlsight* 1998
-- *Owlflight* 1999
 - *Owlknight* 1999
 - *Brightly Burning* 2000
 - *Take a Thief* 2001
 - "A Herald's Journey" in *The Valdemar Companion* 2001
+- *Exile's Honor* 2002
+- "After Midnight" 2002 (in *Fantasy: DAW 30th Anniversary*)
+- *Exile's Valor* 2003
+- "On the Other Side" 2003 (in *Stars*)
+- *Sun in Glory and Other Tales of Valdemar* 2003
+- "Out of the Deep" 2004 (in *Masters of Fantasy*)
+- *Crossroads and Other Tales of Valdemar* 2005
+- *Foundation* 2008
+- *Moving Targets and Other Tales of Valdemar* 2008
+- *Changing the World: All-New Tales of Valdemar* 2009
+- *Intrigues* 2010
+- *Finding the Way and Other Tales of Valdemar* 2010
+- *Changes* 2011
+- *Under the Vale and Other Tales of Valdemar* 2011
+- *Redoubt* 2012
+- *Bastion* 2013
+- *Closer to Home* 2014
+- *No True Way: All-New Tales of Valdemar* 2014
+- *Closer to the Heart* 2015
+- *Crucible: All-New Tales of Valdemar* 2015
+- *Closer to the Chest* 2016
+- *Tempest: All-New Tales of Valdemar* 2016
+- *Pathways: All-New Tales of Valdemar* 2017
+- *The Hills Have Spies* 2018
+- *Choices: All-New Tales of Valdemar* 2018
+- *Eye Spy* 2019
+- *Seasons: All-New Tales of Valdemar* 2019
+- *Spy, Spy Again* 2020
+- *Passages* 2020
+- *Beyond* 2021
+- *Boundaries* 2021
+- *Into the West* 2022
+- *Shenanigans* 2022
+- *Gryphon in Light* 2023
+- *Anything With Nothing* 2023
+- *Valdemar* 2023
+- *Feuds* 2024
+- *Grandmaster: Twenty-five Years of Tales* 2025
+- *Smoke and Mirrors* 2025
+- *Vanyel and Vixen* 2026 (forthcoming)
+- *A Many-Splintered Thing* 2026 (forthcoming)
