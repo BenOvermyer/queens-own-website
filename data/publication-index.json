@@ -9,7 +9,7 @@
           "available": true,
           "format": "PDF",
           "year": 2026,
-          "month": 10,
+          "month": 9,
           "label": "Fall 2026"
         }
       ]
@@ -2880,7 +2880,7 @@
   "summary": {
     "preserved_html_newsletters": 155,
     "unavailable_html_newsletters": 2,
-    "pdf_newsletters": 132,
+    "pdf_newsletters": 133,
     "fiction_pdfs": 14
   }
 }

@@ -134,10 +134,8 @@ canonical destinations, page/section type, source-presence status, and publicati
 | --- | --- | --- | --- | --- |
 | `qochap.htm` | community | `/chapters/` | `community/chapters.md` | Preserved |
 | `qochat.htm` | community | `/club-chat/` | `community/club-chat.md` | Preserved |
-| `qoring.htm` | community | `/club-webring/` | `community/club-webring.md` | Preserved |
 | `danya.htm` | community | `/danya-winterborn/` | `community/danya-winterborn.md` | Preserved |
 | `recipes.htm` | community | `/danyas-cookbook/` | `community/danyas-cookbook.md` | Preserved |
-| `qodelphi.htm` | community | `/delphi-forum/` | `community/delphi-forum.md` | Preserved |
 | `dcpawn.htm` | community | `/dream-casts/magics-pawn/` | `dream-casts/magics-pawn.md` | Preserved |
 | `dcprice.htm` | community | `/dream-casts/magics-price/` | `dream-casts/magics-price.md` | Preserved |
 | `dcprom.htm` | community | `/dream-casts/magics-promise/` | `dream-casts/magics-promise.md` | Preserved |
@@ -156,7 +154,6 @@ canonical destinations, page/section type, source-presence status, and publicati
 | `vfcjoin.htm` | community | `/vanyel-fan-club/join/` | `vanyel-fan-club/join.md` | Preserved |
 | `vfcnews.htm` | community | `/vanyel-fan-club/newsletter/` | `vanyel-fan-club/newsletter.md` | Preserved |
 | `vfcpres.htm` | community | `/vanyel-fan-club/president/` | `vanyel-fan-club/president.md` | Preserved |
-| `qoring1.htm` | community | `/webring-code/` | `community/webring-code.md` | Preserved |
 | `qofaqqo.htm` | membership | `/club-faq/` | `membership/club-faq.md` | Preserved |
 | `qoseal.htm` | membership | `/club-seal/` | `membership/club-seal.md` | Preserved |
 | `qojoin.htm` | membership | `/how-to-join/` | `membership/how-to-join.md` | Preserved |

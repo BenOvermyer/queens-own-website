@@ -52,7 +52,7 @@ Danya has been busily trying to update the Misty section of the Dragonlords' Boo
 
 **Chat List:** Remember that if you are a member of QO, you are entitled to join the QO chatlist at [Club chat guidance](/club-chat/). This is the list where we announce upcoming online events, news flashes from Misty and other important information that comes up between newsletters. Do join so you can keep up-to-date with what's going on! (If you are not a QO member, you may join the QO Pending list for assistance in developing your persona.)
 
-**Delphi Forum:** If you are a member of QO, you are also entitled to join our [Delphi Forum](/delphi-forum/). If you have lost your invitation, contact Danya, and she'll send you another one. (Remember to say that this is for QO and to include the name of your approved persona.) The Forum features message boards to discuss Misty's works as well as other things about which members want to trade information.
+**Delphi Forum:** If you are a member of QO, you are also entitled to join our Delphi Forum. If you have lost your invitation, contact Danya, and she'll send you another one. (Remember to say that this is for QO and to include the name of your approved persona.) The Forum features message boards to discuss Misty's works as well as other things about which members want to trade information.
 
 **Publication News:** This has been a busy year for Misty, and she plans to keep up the pace next year!
 

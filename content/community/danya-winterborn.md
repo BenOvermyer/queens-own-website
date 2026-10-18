@@ -27,8 +27,6 @@ Danya Winterborn's Page
 Books</a></td>
 </tr>
 <tr>
-<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#rings">Mercedes Lackey
-Webrings</a></td>
 <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#links">Misty Links</a></td>
 <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#movie">Movie Project</a></td>
 </tr>

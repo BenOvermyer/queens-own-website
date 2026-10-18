@@ -1,10 +1,8 @@
 source,title,topic,section,canonical_path,content_file,kind,source_present,redirect_target
 qochap.htm,Chapter directory,community,community,/chapters/,community/chapters.md,page,True,/chapters/
 qochat.htm,Club chat guidance,community,community,/club-chat/,community/club-chat.md,page,True,/club-chat/
-qoring.htm,Club webring,community,community,/club-webring/,community/club-webring.md,page,True,/club-webring/
 danya.htm,Danya Winterborn,community,community,/danya-winterborn/,community/danya-winterborn.md,page,True,/danya-winterborn/
 recipes.htm,Herald Danya's Cookbook,community,community,/danyas-cookbook/,community/danyas-cookbook.md,page,True,/danyas-cookbook/
-qodelphi.htm,Delphi forum,community,community,/delphi-forum/,community/delphi-forum.md,page,True,/delphi-forum/
 dcpawn.htm,Magic's Pawn,community,dream-casts,/dream-casts/magics-pawn/,dream-casts/magics-pawn.md,page,True,/dream-casts/magics-pawn/
 dcprice.htm,Magic's Price,community,dream-casts,/dream-casts/magics-price/,dream-casts/magics-price.md,page,True,/dream-casts/magics-price/
 dcprom.htm,Magic's Promise,community,dream-casts,/dream-casts/magics-promise/,dream-casts/magics-promise.md,page,True,/dream-casts/magics-promise/
@@ -23,7 +21,6 @@ vfcgates.htm,Heralds' Haven,community,vanyel-fan-club,/vanyel-fan-club/heralds-h
 vfcjoin.htm,Join the Vanyel Fan Club!,community,vanyel-fan-club,/vanyel-fan-club/join/,vanyel-fan-club/join.md,page,True,/vanyel-fan-club/join/
 vfcnews.htm,The Valdemaran Herald,community,vanyel-fan-club,/vanyel-fan-club/newsletter/,vanyel-fan-club/newsletter.md,page,True,/vanyel-fan-club/newsletter/
 vfcpres.htm,About the Vanyel Fan Club President,community,vanyel-fan-club,/vanyel-fan-club/president/,vanyel-fan-club/president.md,page,True,/vanyel-fan-club/president/
-qoring1.htm,Webring code,community,community,/webring-code/,community/webring-code.md,page,True,/webring-code/
 qofaqqo.htm,Queen’s Own FAQ,membership,membership,/club-faq/,membership/club-faq.md,page,True,/club-faq/
 qoseal.htm,Queen’s Own seal,membership,membership,/club-seal/,membership/club-seal.md,page,True,/club-seal/
 qojoin.htm,How to join,membership,membership,/how-to-join/,membership/how-to-join.md,page,True,/how-to-join/

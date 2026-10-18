@@ -67,7 +67,7 @@ These are ads for penpals. Because we all believe in Herald's honor, the decisio
 
 From: [INSERT YOUR NAME AND E-MAIL AND/OR SNAIL MAIL ADDRESS] Message: Tell prospective penpals a little about yourself. What are you interested in? What books do you like to read?
 
-Note: Queen's Own provides this section as a courtesy to its members. Queen's Own does not screen submissions (other than to determine that they are from QO members). Just because someone is a QO member does not guarantee that he/she is a nice person. Answer fan messages at your own risk, and use your discretion. Never give out personal information to someone you only know through the Internet. Never go alone to meet anyone you have only met on the Internet, and if you do decide to meet someone, do it only in a very public place. (We do not recommend that anyone under 18 ever agree to meet anyone from the Internet except in the company of a parent or legal guardian.) Please use this section wisely. It is here for fans to get to know each other and to solicite letters. Remember, though, that we also have the [chat list](/club-chat/) and the [private Delphi forum](/delphi-forum/), and you may feel safer using those tools to contact other QO fans.
+Note: Queen's Own provides this section as a courtesy to its members. Queen's Own does not screen submissions (other than to determine that they are from QO members). Just because someone is a QO member does not guarantee that he/she is a nice person. Answer fan messages at your own risk, and use your discretion. Never give out personal information to someone you only know through the Internet. Never go alone to meet anyone you have only met on the Internet, and if you do decide to meet someone, do it only in a very public place. (We do not recommend that anyone under 18 ever agree to meet anyone from the Internet except in the company of a parent or legal guardian.) Please use this section wisely. It is here for fans to get to know each other and to solicite letters. Remember, though, that we also have the [chat list](/club-chat/) and the private Delphi forum, and you may feel safer using those tools to contact other QO fans.
 
 ## VII. <a id="personals"></a>
 
@@ -231,7 +231,7 @@ Winter Spring Summer Fall
 
 ### 2026
 
-2026 Winter Spring Summer Fall
+Winter Spring Summer <a href="__PDF_BASE_URL__/qofall2026.pdf">Fall</a>
 
 ### 2027
 

@@ -1325,22 +1325,6 @@
     },
     "source_present": true
   },
-  "qodelphi.htm": {
-    "source": "qodelphi.htm",
-    "title": "Delphi forum",
-    "topic": "community",
-    "section": "community",
-    "canonical_path": "/delphi-forum/",
-    "content_file": "community/delphi-forum.md",
-    "kind": "page",
-    "redirect_target": "/delphi-forum/",
-    "aliases": [
-      "/qodelphi.htm",
-      "/qodelphi.htm/"
-    ],
-    "issue": null,
-    "source_present": true
-  },
   "qofanfic.htm": {
     "source": "qofanfic.htm",
     "title": "Fan fiction archive",
@@ -4073,38 +4057,6 @@
     "aliases": [
       "/qorel.htm",
       "/qorel.htm/"
-    ],
-    "issue": null,
-    "source_present": true
-  },
-  "qoring.htm": {
-    "source": "qoring.htm",
-    "title": "Club webring",
-    "topic": "community",
-    "section": "community",
-    "canonical_path": "/club-webring/",
-    "content_file": "community/club-webring.md",
-    "kind": "page",
-    "redirect_target": "/club-webring/",
-    "aliases": [
-      "/qoring.htm",
-      "/qoring.htm/"
-    ],
-    "issue": null,
-    "source_present": true
-  },
-  "qoring1.htm": {
-    "source": "qoring1.htm",
-    "title": "Webring code",
-    "topic": "community",
-    "section": "community",
-    "canonical_path": "/webring-code/",
-    "content_file": "community/webring-code.md",
-    "kind": "page",
-    "redirect_target": "/webring-code/",
-    "aliases": [
-      "/qoring1.htm",
-      "/qoring1.htm/"
     ],
     "issue": null,
     "source_present": true

@@ -56,7 +56,7 @@ The catalog of *Firebird Arts and Music* is a wonderful introduction to the worl
 
 Do you dream of being a Herald? A Healer? A Bard? Queen's Own members can earn the right tot hose titles by following the guidelines in our helpful handouts. You can find the handouts at [Persona handouts and submission instructions](/persona-handouts/) on the Queen's Own website.
 
-In the past we've had local chapters, zine, a cookbook, writer's circles, role playing games, mentors to answer questions in other areas of fandom, even a worst pun contest. Is there something you'd like to see us do? Message us at [shashtah@gmail.com](mailto:shashtah@gmail.com) or post a message in the Queen's Own Private Delphi Forum ([Delphi forum](/delphi-forum/)). Share your ideas and enthusiasm!
+In the past we've had local chapters, zine, a cookbook, writer's circles, role playing games, mentors to answer questions in other areas of fandom, even a worst pun contest. Is there something you'd like to see us do? Message us at [shashtah@gmail.com](mailto:shashtah@gmail.com) or post a message in the Queen's Own Private Delphi Forum (Delphi forum). Share your ideas and enthusiasm!
 
 ## Ren Faires:
 

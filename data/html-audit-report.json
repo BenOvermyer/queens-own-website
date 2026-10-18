@@ -1,18 +1,14 @@
 {
   "summary": {
-    "files_scanned": 212,
+    "files_scanned": 208,
     "rules": {
-      "nested_table": {
-        "occurrences": 1,
-        "files": 1
-      },
       "table_without_header": {
-        "occurrences": 71,
-        "files": 34
+        "occurrences": 68,
+        "files": 33
       },
       "unknown_element": {
-        "occurrences": 10,
-        "files": 10
+        "occurrences": 20,
+        "files": 12
       }
     },
     "acknowledged_findings": 0,
@@ -37,9 +33,9 @@
       "path": "content/community/chapters.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "02cdd154a2c26c2f8d9797c84cb41250e45497e5b7d0203ad43e9526dd58f07f",
+        "visible_text_sha256": "d90fc9b3dcb19bfb8aedcd2a0caf6aa84c89ce9866268e14c5b32a8985a01843",
         "links": 1,
-        "images": 2,
+        "images": 1,
         "anchors": [
           "start"
         ],
@@ -52,9 +48,9 @@
       "path": "content/community/club-chat.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "959ccb53f5dcccf00d72796d98b4ab262dcd32a8da30f9198e88df31dc3cb36e",
+        "visible_text_sha256": "372be7662a108a49ef75c1aabc65c2ecf76df4b9f8f8a7c3017eaeb6ac84122a",
         "links": 2,
-        "images": 1,
+        "images": 0,
         "anchors": [
           "pending",
           "tracking"
@@ -65,56 +61,31 @@
       }
     },
     {
-      "path": "content/community/club-webring.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
-      "baseline": {
-        "visible_text_sha256": "41cccd9de5524b5c30ae6db554490e6f3cbbe131d434a380575ecf16b5217110",
-        "links": 4,
-        "images": 7,
-        "anchors": [],
-        "tables": 1,
-        "headings": [],
-        "legacy_source": "qoring.htm"
-      }
-    },
-    {
       "path": "content/community/danya-winterborn.md",
       "findings": [
         {
-          "rule": "table_without_header",
+          "rule": "unknown_element",
           "severity": "warning",
           "count": 4,
           "examples": [
-            "table 1 (3 rows)",
-            "table 2 (6 rows)",
-            "table 3 (2 rows)",
-            "table 4 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
+            "<artwork> x4"
+          ]
         },
         {
-          "rule": "nested_table",
+          "rule": "table_without_header",
           "severity": "warning",
-          "count": 1,
+          "count": 2,
           "examples": [
-            "nested <table>"
-          ]
+            "table 1 (3 rows)",
+            "table 2 (6 rows)"
+          ],
+          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
         }
       ],
       "baseline": {
-        "visible_text_sha256": "0855a5d001e7689ed4caa4d9724b86c14e2d17cdeec64706b0b6cf9828446352",
-        "links": 30,
-        "images": 11,
+        "visible_text_sha256": "ab1ae714670e2d841f313f81fd0413c8c7790920b366f2bc06d202bdb46a72d0",
+        "links": 17,
+        "images": 1,
         "anchors": [
           "Herald",
           "books",
@@ -122,11 +93,10 @@
           "links",
           "movie",
           "recipes",
-          "rings",
           "spells",
           "trivia"
         ],
-        "tables": 4,
+        "tables": 2,
         "headings": [],
         "legacy_source": "danya.htm"
       }
@@ -152,7 +122,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "4fcced9cb19404e94a1d19ae2cb33fd78cf107b8caf7e1fa5caf706d07915783",
+        "visible_text_sha256": "683a8ba2c4115b9b439cf26bdbe495271fb7f3c4ab9bcf3ac4e354b324b1a46c",
         "links": 41,
         "images": 2,
         "anchors": [
@@ -183,19 +153,6 @@
       }
     },
     {
-      "path": "content/community/delphi-forum.md",
-      "findings": [],
-      "baseline": {
-        "visible_text_sha256": "30c3390afd770b16160a845ac1b3799d4a80b4e0e74d635b1798235b9871a589",
-        "links": 0,
-        "images": 1,
-        "anchors": [],
-        "tables": 0,
-        "headings": [],
-        "legacy_source": "qodelphi.htm"
-      }
-    },
-    {
       "path": "content/community/fun-stuff.md",
       "findings": [
         {
@@ -209,9 +166,9 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "a7611dfe946617e94d1cfc7042a8b321a25a5fbc10952d0e4a82bff8fcc7f729",
-        "links": 70,
-        "images": 31,
+        "visible_text_sha256": "13b985c73949f6f288ec984f0d70001246905de05e95652b6ecf9c2a810374cc",
+        "links": 68,
+        "images": 28,
         "anchors": [
           "Art",
           "Velgarth",
@@ -228,9 +185,9 @@
       "path": "content/community/golden-grove.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "13f21ba247ac81e996b9cd77f6c0822612abaee1e5b69aa9132cfcf17c78dc20",
-        "links": 3,
-        "images": 4,
+        "visible_text_sha256": "fffcb8c044409a1db445629023589e5af0da9b05d00dcb36879b5e99fbb7f182",
+        "links": 0,
+        "images": 1,
         "anchors": [],
         "tables": 0,
         "headings": [],
@@ -239,11 +196,20 @@
     },
     {
       "path": "content/community/pacific-northwest-collegium.md",
-      "findings": [],
+      "findings": [
+        {
+          "rule": "unknown_element",
+          "severity": "warning",
+          "count": 6,
+          "examples": [
+            "<artwork> x6"
+          ]
+        }
+      ],
       "baseline": {
-        "visible_text_sha256": "62d797a76d2331857df62afbcf095f8e4ee7469b7432ccca8c371b86735575dc",
-        "links": 4,
-        "images": 12,
+        "visible_text_sha256": "1df71869d6bb7538057d37f5a78dec925268363a4e976f7bcd0d9bb22c41fc17",
+        "links": 0,
+        "images": 1,
         "anchors": [],
         "tables": 0,
         "headings": [],
@@ -254,9 +220,9 @@
       "path": "content/community/role-playing.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "0b70865a0c893e3b1cecace9d0971b0659a08c6fa823a438c16d999094e480ee",
+        "visible_text_sha256": "44d5023926f42a471462e20caa591da6c1c438e8b9930fd5282e85f5980e67ac",
         "links": 0,
-        "images": 2,
+        "images": 1,
         "anchors": [],
         "tables": 0,
         "headings": [],
@@ -264,36 +230,10 @@
       }
     },
     {
-      "path": "content/community/sonoran-collegium.md",
-      "findings": [],
-      "baseline": {
-        "visible_text_sha256": "1a91098f945c519c702a8d5f871e3d76eb1c8363c52acf855d9dba4e45afda2a",
-        "links": 3,
-        "images": 4,
-        "anchors": [],
-        "tables": 0,
-        "headings": [],
-        "legacy_source": "danyasc.htm"
-      }
-    },
-    {
-      "path": "content/community/webring-code.md",
-      "findings": [],
-      "baseline": {
-        "visible_text_sha256": "0c4b31388f2f7432d9ede5e861a0fffa424344a09773ab7ac000f8b6669fc5da",
-        "links": 2,
-        "images": 4,
-        "anchors": [],
-        "tables": 0,
-        "headings": [],
-        "legacy_source": "qoring1.htm"
-      }
-    },
-    {
       "path": "content/compass-rose/about.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "8a67279b2ccdaa7272936c5e1ec2ad7d3f264375bbc68d5b175e313a2de38b7e",
+        "visible_text_sha256": "9153937336ca37342c892c98f714b2eae8f81475af43c74035756920af5b8db9",
         "links": 0,
         "images": 1,
         "anchors": [],
@@ -2078,7 +2018,7 @@
       "path": "content/newsletters/2000/may.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "4684061b07480aa41902925323d4d93a28ddfb63c2453760265a899bcdd71441",
+        "visible_text_sha256": "7c3469e1f18f5bde54ff856f6f165d284af7b45421b25b709df0b6c1a3e6d863",
         "links": 7,
         "images": 7,
         "anchors": [],
@@ -2364,7 +2304,7 @@
       "path": "content/newsletters/2002/june.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "598ce71eaabf63dcb8b786db39acf7bd50aeba20d45a5c9d61fdc199f9bb59df",
+        "visible_text_sha256": "483d7da221b5e398fb98b47dc5e9f4bab28691f6c0c3dd5e9de244b8c119fcfc",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -2585,7 +2525,7 @@
       "path": "content/newsletters/2003/september.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "2716b3047ab69652a6d19cce8f3a337ed9897709bb174cd6812152aee219a7d9",
+        "visible_text_sha256": "e3217488fa4686cb2b2e3f192bef0ff33611cfa97839aef3a46fb4774abb33cb",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -2624,7 +2564,7 @@
       "path": "content/newsletters/2004/december.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "e5731feca1166ff430aba8a3b4c026bc0bb210abb0fb8eb4e8650412475d6e97",
+        "visible_text_sha256": "d60fda2612239eb2f5b93756c4f0928bc851383c68a522e17f0061bd27065193",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -2881,8 +2821,8 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "b014dded29001328165ad1e254185b6075cbbc87e53e77b0b6ef24bfab144d42",
-        "links": 148,
+        "visible_text_sha256": "5fb7c97add3ee6d0dbcefcc2e9c502997354ac456e32c8c0fe83529175b10fc8",
+        "links": 149,
         "images": 1,
         "anchors": [
           "article",
@@ -3463,9 +3403,9 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "295cb9522e84669ed3344ee5aaf5b861b0a45b8178d95ded7cafa6119316f6e9",
+        "visible_text_sha256": "23b740acb295f70948da15c4007a08c1226d79ab8fe2aa2107f20dcf3fb219b0",
         "links": 18,
-        "images": 1,
+        "images": 0,
         "anchors": [],
         "tables": 1,
         "headings": [],
