@@ -10,7 +10,7 @@ topic = "publications"
 canonical_path = "/compass-rose/spring-2002/diversity-in-libraries/references/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
 <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
@@ -48,7 +48,7 @@ canonical_path = "/compass-rose/spring-2002/diversity-in-libraries/references/"
 
 <a id="schlaf"></a>Schlafly, Phyllis. "Who are the Real Censors?" *War of Words: The Censorship Debate*. Edited by George Beahm. Kansas City: Universal, 1993. 183-8.
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/reviews/">Next</a></td>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></td>

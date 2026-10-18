@@ -60,8 +60,9 @@ defined in `static/css/site.css`, and moved one-off dimensions to inline styles.
 Markdown: headings, paragraphs, lists, blockquotes, `<hr>`, emphasis, and links
 become Markdown; `<div>`, `<center>`, and presentational wrappers are removed;
 `<img>`, image-only links, named anchors, `<dl>`, and genuine **data tables** stay
-HTML; **layout tables** (single-column, or cells containing headings/lists) are
-converted to Markdown; `<xmp>`
+HTML; **layout tables** are converted to Markdown, or — where the boxed table
+styling is part of the preserved look — kept as HTML with `role="presentation"` so
+assistive technology ignores their table structure; `<xmp>`
 becomes a fenced code block. PDF links that carry the `__PDF_BASE_URL__` token stay
 HTML because the token is substituted after Markdown rendering. The conversion ran
 once during the import; the preserved pages carry its output.
@@ -75,7 +76,7 @@ These are reported but are not structural errors.
 
 | Rule | Occurrences | Files | Disposition |
 | --- | ---: | ---: | --- |
-| `table_without_header` | 83 | 41 | Editorial: most are genuine data tables with no header row (recipe ingredient lists, schedule grids); adding `<th>` automatically would corrupt data. |
+| `table_without_header` | 0 | 0 | Resolved: genuine data tables carry a `<caption>` and header cells, and layout tables are marked `role="presentation"`, which the rule skips. |
 | `nested_table` | 1 | 1 | Acceptable: one nested data table; retained. |
 
 Every image carries an `alt` attribute (many are intentionally empty decorative
@@ -93,4 +94,4 @@ Rendering on desktop and mobile is still a manual check against the built site.
 `scripts/verify.py` runs automated checks against the built pages (unresolved PDF
 hosts, missing local links and anchors, and unrendered Markdown), and the audit
 inspects source markup for structural, presentational, and semantic problems;
-the table classification is editorial.
+the table classification (data vs. layout) is editorial.

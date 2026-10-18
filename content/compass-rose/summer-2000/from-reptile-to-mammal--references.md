@@ -10,7 +10,7 @@ topic = "publications"
 canonical_path = "/compass-rose/summer-2000/from-reptile-to-mammal/references/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
 <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td>
@@ -46,7 +46,7 @@ canonical_path = "/compass-rose/summer-2000/from-reptile-to-mammal/references/"
 
 <a id="wuetrich"></a> Wuetrich, Bernice. 1997. "Will Fossil From Down Under Upend Mammal Evolution?" *Science* 278:1401-1402.
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/summer-2000/in-the-name-of-god/">Next</a></td>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></td>

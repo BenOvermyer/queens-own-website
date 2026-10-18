@@ -10,7 +10,7 @@ topic = "publications"
 canonical_path = "/compass-rose/spring-2002/diversity-in-libraries/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
 <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
@@ -56,7 +56,7 @@ Censorship in any form, whether it be for the "protection or advancement of corr
 
 > > *The boy visiting his friend in Cheyenne wandered through the county library. Spotting the book he couldn't find in his own town, he gleefully grabbed it from the shelf and began to read. Much to his dismay, he found the book too dull for his liking. "Why did they ban this?" he wondered, "It's not bad, at least in anyway I can tell." Wondering how many libraries banned books from their shelves for no real reason, he placed the book back on the red return shelf. He also wondered how long it would be until this library banned the book.*
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-top"><a href="/compass-rose/spring-2002/reviews/">Next</a></td>
 <td class="align-center valign-top"><a href="/compass-rose/spring-2002/diversity-in-libraries/references/#ref">References Cited</a></td>

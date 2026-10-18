@@ -19,7 +19,7 @@ Danya Winterborn's Page
 
 {{ <artwork src="/cc3a.gif" title="Terrill Choosing Danya" artist="Laura Cameron" alt="Danya Winterborn" href="/pacific-northwest-collegium/" artist_url="/pacific-northwest-collegium/" /> }}
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%">
+<table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#cchron">Fan Fiction</a></td>
 <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#spells">Magic</a></td>
@@ -108,6 +108,13 @@ Every fandom I've ever been a part of has, at one time or another, had fun with 
 In The Valdemar Companion Misty registers her own votes for the Dream Cast list for her works. Here are her choices:
 
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:50%">
+<caption class="visually-hidden">Mercedes Lackey's dream cast choices</caption>
+<thead>
+<tr>
+<th class="align-left valign-middle" scope="col">Actor</th>
+<th class="align-left valign-middle" scope="col">Character</th>
+</tr>
+</thead>
 <tr>
 <td class="align-left valign-middle">David Bowie</td>
 <td class="align-left valign-middle">Falconsbane</td>

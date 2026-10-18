@@ -10,7 +10,7 @@ topic = "publications"
 canonical_path = "/compass-rose/summer-2000/sink-or-swim/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
 <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td>
@@ -126,7 +126,7 @@ To order a complete copy of *Sink or Swim* send $1.50 (Checks payable to "Aurora
 
 Aurora Nelson PMB #189 2843 Hopyard Road Pleasanton, CA 94588
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/summer-2000/either-or/">Next</a></td>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></td>

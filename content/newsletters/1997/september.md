@@ -31,6 +31,13 @@ Dear Misty Fans,
 Here is the annual list of short stories by Misty:
 
 <table class="cellpadding-2 cellspacing-2" style="width:90%">
+<caption class="visually-hidden">Short stories by Mercedes Lackey in anthologies</caption>
+<thead>
+<tr>
+<th class="align-left valign-top" scope="col">Story</th>
+<th class="align-left valign-top" scope="col">Publication</th>
+</tr>
+</thead>
 <tr>
 <td class="align-left valign-top">"A Different Kind of Courage"</td>
 <td class="align-left valign-top"><i>Free Amazons of Darkover</i>, ed. by Marion Zimmer Bradley, 1985 (This was Misty's first professional sale.)</td>

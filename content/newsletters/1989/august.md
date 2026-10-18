@@ -94,7 +94,7 @@ We received a huge envelope of material from Debbie Sanders of NA MELE O NA HOKU
 
 The gorgeous gryphon and regal lion depicted below are explained in Misty's letter.
 
-<table class="cellpadding-2 cellspacing-2">
+<table class="cellpadding-2 cellspacing-2" role="presentation">
 <tr>
 <td class="align-center valign-middle"><img alt="Gryphon (image unavailable in archive)" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/></td>
 <td class="align-center valign-middle"><img alt="Lion (image unavailable in archive)" data-unavailable-target="https://queensown.org/%2A%2A%2A.jpg" loading="lazy"/></td>

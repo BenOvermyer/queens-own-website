@@ -10,7 +10,7 @@ topic = "publications"
 canonical_path = "/compass-rose/summer-2000/either-or/references/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
 <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td>
@@ -42,7 +42,7 @@ canonical_path = "/compass-rose/summer-2000/either-or/references/"
 
 <a id="toufexis"></a> Toufexis, Anastasia. 1992. "Bisexuality: What is it?" *Time* 17:49-51.
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/summer-2000/reviews/">Next</a></td>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/summer-2000/">Return to Table of Contents</a></td>

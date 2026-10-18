@@ -241,7 +241,10 @@ def audit_file(path, text, root):
 
     tables = soup.find_all('table')
     if tables:
-        without_header = [f'table {i + 1} ({len(t.find_all("tr"))} rows)' for i, t in enumerate(tables) if not t.find('th')]
+        presentational = {'presentation', 'none'}
+        without_header = [f'table {i + 1} ({len(t.find_all("tr"))} rows)'
+                          for i, t in enumerate(tables)
+                          if not t.find('th') and t.get('role') not in presentational]
         if without_header:
             add('table_without_header', 'warning', without_header,
                 'Candidate data table; confirm whether it is layout or should gain <th>.')

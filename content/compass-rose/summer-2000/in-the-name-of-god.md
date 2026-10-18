@@ -10,7 +10,7 @@ topic = "publications"
 canonical_path = "/compass-rose/summer-2000/in-the-name-of-god/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
 <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td>
@@ -130,7 +130,7 @@ One of the few positive things to come out of the Crusades developed out of the 
 
 Hollister argued that medieval spirituality, a knightly need to find an outlet for their martial skills, and the basic human greed of land-owning nobles were all needed in order for the Crusades to happen.[<sup>18</sup>](/compass-rose/summer-2000/in-the-name-of-god/references/#note18) Essentially the greed provided the motive, the knights provided the means, and the shifting nature of medieval spirituality provided the opportunity for one of the most protracted incidents of bloodshed in human history, all committed in the name of the Christian God of love and peace.
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/summer-2000/sink-or-swim/">Next</a></td>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/summer-2000/in-the-name-of-god/references/">Notes</a></td>

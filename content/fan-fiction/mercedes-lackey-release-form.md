@@ -35,7 +35,7 @@ I am submitting to you herewith a manuscript for a short story or novel of appro
 
 Very truly yours,
 
-<table style="width:100%">
+<table style="width:100%" role="presentation">
 <tr>
 <td class="align-left">_______________________________________</td>
 <td class="align-left">________________________________________</td>
@@ -50,7 +50,7 @@ _____________________________________________ Print name
 
 ______________________________________________________________________________________ Address
 
-<table style="width:100%">
+<table style="width:100%" role="presentation">
 <tr>
 <td class="align-left">_______________________________________</td>
 <td class="align-left">________________________________________</td>

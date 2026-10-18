@@ -85,6 +85,13 @@ Your archivist, **Patricia Riggs**, has emerged from her record keeping long eno
 According to Pat, the number of Heralds with each gift is:
 
 <table class="cellpadding-2 cellspacing-2" style="width:30%">
+<caption class="visually-hidden">Heralds by Gift</caption>
+<thead>
+<tr>
+<th class="align-left valign-top" scope="col">Gift</th>
+<th class="align-right valign-top" scope="col">Number of Heralds</th>
+</tr>
+</thead>
 <tr>
 <td class="align-left valign-top">Mindspeech</td>
 <td class="align-right valign-top">51</td>

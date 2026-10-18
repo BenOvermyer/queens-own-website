@@ -63,6 +63,13 @@ Misty and Larry will be Guests of Honor at **BFAC**, the Boise Fantasy Arts Con 
 ## Stories of Misty's in Anthologies
 
 <table class="cellpadding-2 cellspacing-2 border-2">
+<caption class="visually-hidden">Short stories by Mercedes Lackey in anthologies</caption>
+<thead>
+<tr>
+<th class="align-left valign-top" scope="col">Story</th>
+<th class="align-left valign-top" scope="col">Publication</th>
+</tr>
+</thead>
 <tr>
 <td class="align-left valign-top">"A Different Kind of Courage"
 </td>

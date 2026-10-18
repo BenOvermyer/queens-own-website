@@ -2,10 +2,6 @@
   "summary": {
     "files_scanned": 208,
     "rules": {
-      "table_without_header": {
-        "occurrences": 68,
-        "files": 33
-      },
       "unknown_element": {
         "occurrences": 20,
         "files": 12
@@ -70,20 +66,10 @@
           "examples": [
             "<artwork> x4"
           ]
-        },
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (3 rows)",
-            "table 2 (6 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
         }
       ],
       "baseline": {
-        "visible_text_sha256": "393e03d9682fa55790567e52df03d7cf464fa8d8d26b36c1e14872ceef2e65bd",
+        "visible_text_sha256": "2115197c05b9466ad503b3a182109fd0a7888cfb08eff147927ef01b204ec200",
         "links": 15,
         "images": 1,
         "anchors": [
@@ -101,26 +87,9 @@
     },
     {
       "path": "content/community/danyas-cookbook.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "table 2 (7 rows)",
-            "table 3 (4 rows)",
-            "table 4 (10 rows)",
-            "table 5 (8 rows)",
-            "table 6 (5 rows)",
-            "table 7 (6 rows)",
-            "table 8 (3 rows)",
-            "table 9 (10 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "683a8ba2c4115b9b439cf26bdbe495271fb7f3c4ab9bcf3ac4e354b324b1a46c",
+        "visible_text_sha256": "4d4792868c6278cc9de1d0fb6bc8f8e4769751e246f723dab236cfcf3241679b",
         "links": 40,
         "images": 2,
         "anchors": [
@@ -151,17 +120,7 @@
     },
     {
       "path": "content/community/fun-stuff.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "13b985c73949f6f288ec984f0d70001246905de05e95652b6ecf9c2a810374cc",
         "links": 68,
@@ -254,18 +213,7 @@
     },
     {
       "path": "content/compass-rose/spring-2002/arthurian-tales--references.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "82cae995e86306bb36eff772ca2e2ab81ddfdbf6a601bc2dcbfa27abc346c88c",
         "links": 9,
@@ -285,18 +233,7 @@
     },
     {
       "path": "content/compass-rose/spring-2002/arthurian-tales.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (3 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "20428f63c64fcf2efdfefa58da88e40abca8e89f9f373da2db71394b5e1c1452",
         "links": 5,
@@ -309,18 +246,7 @@
     },
     {
       "path": "content/compass-rose/spring-2002/diversity-in-libraries--references.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "3cfb268f36bb5d134e7490f003215b2ae53a18f6b45251176ce1b155a28792a2",
         "links": 13,
@@ -344,18 +270,7 @@
     },
     {
       "path": "content/compass-rose/spring-2002/diversity-in-libraries.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "0d6472caa613fbfea1339da7f25b8223b525a3a28a9fc00dc2d6d43e1910d6c8",
         "links": 4,
@@ -368,18 +283,7 @@
     },
     {
       "path": "content/compass-rose/spring-2002/editorial.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "72436148bdc5dbc5a3e4230ffb83f74f13d9a409bb812b1a5f114630ebae1eef",
         "links": 3,
@@ -392,18 +296,7 @@
     },
     {
       "path": "content/compass-rose/spring-2002/music-in-medieval-ireland--references.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "17f066c7183827949b852b4e61b9251163b1ea3b9fd988af02b8cc85c16c4964",
         "links": 27,
@@ -441,18 +334,7 @@
     },
     {
       "path": "content/compass-rose/spring-2002/music-in-medieval-ireland.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (3 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "49743ebcbf8eefe975713be16209aacdaf3e36f613644f1b9fccaf069f71b10d",
         "links": 5,
@@ -465,19 +347,7 @@
     },
     {
       "path": "content/compass-rose/spring-2002/reviews.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)",
-            "table 3 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "d9c3023cf67f2bc1623053ea5e1a7857305dad56a7c874252bdf30a7400b81f9",
         "links": 15,
@@ -513,18 +383,7 @@
     },
     {
       "path": "content/compass-rose/summer-2000/editorial.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "c395cee05c66455b384b3f4ee1e74a3a7b78adbb7c6d883b8f71a163f9c88fdb",
         "links": 3,
@@ -537,18 +396,7 @@
     },
     {
       "path": "content/compass-rose/summer-2000/either-or--references.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "4d414b0fefadcaf5ab3b564b90abb99fca246bd1812ee3414311ac18138287f3",
         "links": 10,
@@ -569,18 +417,7 @@
     },
     {
       "path": "content/compass-rose/summer-2000/either-or.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "dd81c17768b10c18a2a516f27e60cd5e820f8554af22ec5999bf6ee599a87a2b",
         "links": 4,
@@ -593,18 +430,7 @@
     },
     {
       "path": "content/compass-rose/summer-2000/from-reptile-to-mammal--references.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "7a91f002c812aaa992e4bcd825fe35353eea63317921a962868e37bea4f9d6e3",
         "links": 12,
@@ -627,18 +453,7 @@
     },
     {
       "path": "content/compass-rose/summer-2000/from-reptile-to-mammal.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "0ca03d2d9f23e0a27b480cdb32837b01cf286dc45552066d73c24823330f9df6",
         "links": 4,
@@ -651,18 +466,7 @@
     },
     {
       "path": "content/compass-rose/summer-2000/in-the-name-of-god--references.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "e8664f35ad00da35703515998594239607084e06ba65d28ef4f4918e45233ca1",
         "links": 29,
@@ -702,18 +506,7 @@
     },
     {
       "path": "content/compass-rose/summer-2000/in-the-name-of-god.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (3 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "3b3530c55dbcd8ac3c7dc72ec13e92c4d042926401c63b0a56db763ad32244dd",
         "links": 5,
@@ -726,19 +519,7 @@
     },
     {
       "path": "content/compass-rose/summer-2000/reviews.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 3,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (2 rows)",
-            "table 3 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "8816e7fb29f86b14b2d632584f0d78443762f988aa835c8c33ed1f34e497d804",
         "links": 21,
@@ -765,18 +546,7 @@
     },
     {
       "path": "content/compass-rose/summer-2000/sink-or-swim.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (1 rows)",
-            "table 2 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "15b3811e806030dd03ecae48fdefd5bf6b022f039bd2d046aecaf44c18d8824f",
         "links": 3,
@@ -854,18 +624,7 @@
     },
     {
       "path": "content/fan-fiction/mercedes-lackey-release-form.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 2,
-          "examples": [
-            "table 1 (2 rows)",
-            "table 2 (2 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "02ece8d7417b35f53b489003da15f6f7f1791027fde7438cef561c824bbaa954",
         "links": 0,
@@ -961,17 +720,7 @@
     },
     {
       "path": "content/newsletters/1989/august.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (1 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "eb77ccb244f1368163c3f9ae73188ceebc6a2d68639114d9ac300c1a2ee964c9",
         "links": 0,
@@ -1036,19 +785,9 @@
     },
     {
       "path": "content/newsletters/1990/april.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 2 (5 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "e4aa550c660f22436e4b82934a0e36854acb4f44a724e936fe23ebef01c16955",
+        "visible_text_sha256": "96d61e88315914ee70d59c76c834579f6be4b8beb5f979eafd49ebd9d45dde7c",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -1059,19 +798,9 @@
     },
     {
       "path": "content/newsletters/1990/december.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (9 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "20363cb2ce43ff9e23384cc7ebe42b5b8bc06c95361f3ecbfff67af021a5adbb",
+        "visible_text_sha256": "fd36319eb7d85cb3e6c3ac5b6172378f8ae725cc8b025c1ca82c9aa9640e02d4",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -1082,19 +811,9 @@
     },
     {
       "path": "content/newsletters/1990/july.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (21 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "ceda847c299432146413f0fb91a27c925c11e4b5e853669e2d392f2b65e8163a",
+        "visible_text_sha256": "20988085e21144d87adb11bb1a255abc57ff619fc532fc59755d4c3e3461711e",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -1196,19 +915,9 @@
     },
     {
       "path": "content/newsletters/1991/september.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (23 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "7ad379d6f17546d7f5df1882b54cc4e4b0ad800be04a15074b0c82b7785d1c6f",
+        "visible_text_sha256": "f05ecccca2a73d05927a5208a7647f3694ab984c0cfbf3c936d712bde55ecfa0",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -1323,19 +1032,9 @@
     },
     {
       "path": "content/newsletters/1992/september.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (31 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "dc31e693315410618ac35c635ec09495f22cbf3a88a26e4136070796265c2e83",
+        "visible_text_sha256": "f4d036abe55906e70b4ec781788a54a7d3637a5d3a5409a35e087923c81c6e40",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -1580,19 +1279,9 @@
     },
     {
       "path": "content/newsletters/1996/june.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (40 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "590be5e92ab8a9f5785149a62441e9c3273fb5cae1794746cb54aa512e7a0174",
+        "visible_text_sha256": "dc000484faf7d41228be1d867c3b03915dd01e1bdf2592dba24d240e63ff19bb",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -1746,19 +1435,9 @@
     },
     {
       "path": "content/newsletters/1997/september.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (46 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "0880cc526780fb2b66d0ccf5da8777d793ec7b2e721f6f3a34f423bf5c7203f4",
+        "visible_text_sha256": "61d363adfdc70c33e7228dccc225de76ae9541087f49e4e0e0c1cd4deeb12435",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -1860,19 +1539,9 @@
     },
     {
       "path": "content/newsletters/1999/december.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (48 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "837bc49caddb8b4f1c2bc58d17b268077d0ffc2ec414ad6623a51124b7410261",
+        "visible_text_sha256": "5ae39ec4575e168271a653036be262d9e8341ea1f70136d768e5ca8a1e195d87",
         "links": 0,
         "images": 5,
         "anchors": [],
@@ -2806,17 +2475,7 @@
     },
     {
       "path": "content/newsletters/newsletter-guidance.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (2 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "5fb7c97add3ee6d0dbcefcc2e9c502997354ac456e32c8c0fe83529175b10fc8",
         "links": 149,
@@ -3311,19 +2970,9 @@
     },
     {
       "path": "content/world/magic-of-velgarth.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (9 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "66733fe10cf1883d52e8139503236f5ae75bddbcbe7173c89250636580a70f15",
+        "visible_text_sha256": "ab99d1e06c85d89acac7cfb463981412818ce2ae08d3faaa27061a5b419405ea",
         "links": 7,
         "images": 0,
         "anchors": [
@@ -3383,17 +3032,7 @@
     },
     {
       "path": "content/world/world-reference-guide.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (6 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
         "visible_text_sha256": "23b740acb295f70948da15c4007a08c1226d79ab8fe2aa2107f20dcf3fb219b0",
         "links": 18,
