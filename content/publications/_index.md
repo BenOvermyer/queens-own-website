@@ -1,5 +1,6 @@
 +++
 title = "Publications"
+description = "Queen’s Own publications: the newsletter archive, The Compass Rose, and the club’s fan fiction collection."
 template = "section.html"
 sort_by = "title"
 [extra]

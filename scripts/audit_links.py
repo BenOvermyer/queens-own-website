@@ -49,6 +49,10 @@ def crawl(output):
     records = {}
     for page, soup in documents.items():
         for node in soup.select('[href], [src], [data-unavailable-target]'):
+            # A canonical URL is metadata, not a link to follow; it names the page
+            # itself and would otherwise be inventoried as a self-reference.
+            if node.name == 'link' and 'canonical' in (node.get('rel') or []):
+                continue
             for attr in ('href', 'src', 'data-unavailable-target'):
                 if not node.has_attr(attr):
                     continue

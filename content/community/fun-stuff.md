@@ -1,5 +1,6 @@
 +++
 title = "Fun stuff"
+description = "Fun stuff for Queen’s Own members: links, projects, and fan activities from around the club and Velgarth."
 path = "fun-stuff"
 template = "page.html"
 [extra]

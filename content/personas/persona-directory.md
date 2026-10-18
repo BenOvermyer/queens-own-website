@@ -1,5 +1,6 @@
 +++
 title = "Persona directory"
+description = "The Queen’s Own persona directory: the club’s members and the personas they play, listed by type."
 path = "persona-directory"
 template = "page.html"
 [extra]

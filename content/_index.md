@@ -1,5 +1,6 @@
 +++
 title = "Queen’s Own"
+description = "Queen’s Own is the official Mercedes Lackey and Larry Dixon fan club: personas, Velgarth reference, newsletters, and a browsable archive."
 template = "index.html"
 sort_by = "title"
 [extra]

@@ -1,5 +1,6 @@
 +++
 title = "Healers FAQ"
+description = "Common questions about Healers and healing in Velgarth: the Gift of Healing, training, and the Healers’ Collegium."
 path = "healers-faq"
 template = "page.html"
 [extra]

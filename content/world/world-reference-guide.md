@@ -1,5 +1,6 @@
 +++
 title = "Velgarth reference guide"
+description = "The Velgarth reference guide: a subject index to Queen’s Own’s FAQs and handbooks about Mercedes Lackey’s world."
 path = "world-reference-guide"
 template = "page.html"
 [extra]

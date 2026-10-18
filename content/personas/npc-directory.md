@@ -1,5 +1,6 @@
 +++
 title = "Non-player character directory"
+description = "Non-player characters created by Queen’s Own members: the club’s NPC directory."
 path = "npc-directory"
 template = "page.html"
 [extra]

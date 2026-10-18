@@ -1,5 +1,6 @@
 +++
 title = "Military handout"
+description = "How to create and advance a military persona in Queen’s Own: rank criteria, requirements, and submission rules."
 path = "military-handout"
 template = "page.html"
 [extra]

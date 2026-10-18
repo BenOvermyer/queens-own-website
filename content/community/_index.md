@@ -1,5 +1,6 @@
 +++
 title = "Community"
+description = "Queen’s Own community: chapter archives, social links, fan activities, and the Golden Grove and Vanyel Fan Club collections."
 template = "section.html"
 sort_by = "title"
 [extra]

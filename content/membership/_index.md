@@ -1,5 +1,6 @@
 +++
 title = "Membership"
+description = "Join Queen’s Own, the official Mercedes Lackey and Larry Dixon fan club: how to join, member resources, the club FAQ, and our policies."
 template = "section.html"
 sort_by = "title"
 [extra]

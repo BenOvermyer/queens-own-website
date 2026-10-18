@@ -1,5 +1,6 @@
 +++
 title = "Guild handout"
+description = "How to create and advance a Guild persona in Queen’s Own, with the club’s rank criteria and submission rules."
 path = "guild-handout"
 template = "page.html"
 [extra]

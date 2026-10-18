@@ -1,5 +1,6 @@
 +++
 title = "Priest and priestess handout"
+description = "How to create and advance a priest or priestess persona in Queen’s Own, with rank criteria and rules."
 path = "priest-and-priestess-handout"
 template = "page.html"
 [extra]

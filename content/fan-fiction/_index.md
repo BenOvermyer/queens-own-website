@@ -1,5 +1,6 @@
 +++
 title = "Fan fiction archive"
+description = "Fan fiction from Queen’s Own: stories, submission guidance, and the Mercedes Lackey release form."
 template = "fan-fiction.html"
 sort_by = "title"
 [extra]

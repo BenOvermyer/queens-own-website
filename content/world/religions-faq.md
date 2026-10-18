@@ -1,5 +1,6 @@
 +++
 title = "Religions FAQ"
+description = "Common questions about religion in Velgarth: the gods, the priesthoods, and how faith is practised in the realms."
 path = "religions-faq"
 template = "page.html"
 [extra]

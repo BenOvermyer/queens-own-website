@@ -1,5 +1,6 @@
 +++
 title = "Gifts FAQ"
+description = "Common questions about the Gifts of Velgarth: Mindspeech, Fetching, Empathy, Foresight, and how they are trained."
 path = "gifts-faq"
 template = "page.html"
 [extra]

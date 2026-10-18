@@ -1,5 +1,6 @@
 +++
 title = "Herald-Mage handout"
+description = "How to create and advance a Herald-Mage persona in Queen’s Own, with rank criteria and submission rules."
 path = "herald-mage-handout"
 template = "page.html"
 [extra]

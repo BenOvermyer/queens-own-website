@@ -1,5 +1,6 @@
 +++
 title = "Blues handout"
+description = "How to create and advance a Blues persona in Queen’s Own, with the club’s rank criteria and submission rules."
 path = "blues-handout"
 template = "page.html"
 [extra]

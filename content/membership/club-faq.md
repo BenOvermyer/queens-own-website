@@ -1,5 +1,6 @@
 +++
 title = "Queen’s Own FAQ"
+description = "Common questions about Queen’s Own itself: its history, name changes, membership, and how the club is organised."
 path = "club-faq"
 template = "page.html"
 [extra]

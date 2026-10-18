@@ -1,5 +1,6 @@
 +++
 title = "Healer handout"
+description = "How to create and advance a Healer persona in Queen’s Own: rank criteria, requirements, and submission rules."
 path = "healer-handout"
 template = "page.html"
 [extra]

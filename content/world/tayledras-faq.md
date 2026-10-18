@@ -1,5 +1,6 @@
 +++
 title = "Tayledras FAQ"
+description = "Common questions about the Tayledras of Velgarth: the Hawkbrothers, their Vales, magic, and customs."
 path = "tayledras-faq"
 template = "page.html"
 [extra]
