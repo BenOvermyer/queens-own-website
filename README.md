@@ -89,6 +89,13 @@ to link the image and `artist_url="/path/"` to link the artist credit. Supply de
 `alt` text for the image. Shared `.artwork` rules in `static/css/site.css` control
 the responsive image, centered caption, title, and attribution.
 
+Every page declares the club crest as its site icon. `templates/base.html` links the
+multi-resolution `static/favicon.ico`, the PNG sizes in `static/icons/`, and
+`static/site.webmanifest`; the browser-chrome color comes from the Valdemar blue in the
+`theme-color` meta tag. Those raster files are cropped from the transparent
+`static/images/queens-own-crest.webp`, so replace them alongside that crest if the
+artwork changes.
+
 To regenerate canonical links, redirects, and publication indexes after changing
 the preserved archive or refreshing PDF availability evidence:
 
