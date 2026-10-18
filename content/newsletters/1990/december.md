@@ -84,7 +84,7 @@ Your archivist, **Patricia Riggs**, has emerged from her record keeping long eno
 
 According to Pat, the number of Heralds with each gift is:
 
-<table class="cellpadding-2 cellspacing-2" style="width:30%">
+<table class="cellpadding-2 cellspacing-2 w-30">
 <caption class="visually-hidden">Heralds by Gift</caption>
 <thead>
 <tr>

@@ -42,7 +42,7 @@ Bards are the elite musicians of Velgarth. The difference between minstrels and 
 
 All Bards have Bardic Gift. To be accepted at the Bardic Collegium, a student must have either Talent or Creativity in addition to Bardic Gift. These Gifts are called the "Musical Gifts".
 
-<table class="cellpadding-2 cellspacing-2 border-2" style="width:80%">
+<table class="cellpadding-2 cellspacing-2 border-2 w-80">
 <tr>
 <th>Musical Gift</th>
 <th>Description</th>

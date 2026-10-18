@@ -51,7 +51,7 @@
   <link rel="apple-touch-icon" href="{{ get_url(path='icons/apple-touch-icon.png') }}">
   <link rel="manifest" href="{{ get_url(path='site.webmanifest') }}">
   <meta name="theme-color" content="#0B2BA1">
-  <link rel="stylesheet" href="{{ get_url(path='css/site.css') }}">
+  <link rel="stylesheet" href="{{ get_url(path='css/site.css') }}?v={{ get_hash(path='css/site.css') }}">
   <link rel="preload" href="{{ get_url(path='fonts/cardo-400.woff2') }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ get_url(path='fonts/yeseva-one-400.woff2') }}" as="font" type="font/woff2" crossorigin>
 </head>

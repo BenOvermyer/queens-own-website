@@ -10,11 +10,11 @@ topic = "publications"
 canonical_path = "/compass-rose/spring-2002/arthurian-tales/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
+<table class="cellpadding-2 cellspacing-2 w-100" role="presentation">
 <tr>
-<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px" width="168" height="168"/></td>
-<td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
-<td style="width:35%"> </td>
+<td class="align-left valign-top w-15"><img alt="Compass Rose Logo" class="border-5 issue-logo" loading="lazy" src="/crlogo.jpg" width="168" height="168"/></td>
+<td class="align-left valign-middle w-50"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
+<td class="w-35"> </td>
 </tr>
 </table>
 
@@ -66,11 +66,11 @@ As can be clearly seen by now, the real Arthur was a far cry from the Arthur of 
 
 These faces, fantasies, additions, confused and tangled bits of truth, and exaggerations are those that make up the body of the Arthurian tales. This paper just covers a few of these. Volumes can be, and in fact have been, written on this subject. Actually, it is up to the individual to determine where the fact stops and the legend begins because, in many places, the web is so tangled that it is just a matter of beliefs as to whether the stories are true or false. I have found this subject to be very interesting as I have done extensive research in this area, and I hope to look into the subject further in the future.
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
+<table class="cellpadding-2 cellspacing-2 w-100" role="presentation">
 <tr>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/diversity-in-libraries/">Next</a></td>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/arthurian-tales/references/">Notes</a></td>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/arthurian-tales/references/#ref">References Cited</a></td>
+<td class="align-center valign-top w-33"><a href="/compass-rose/spring-2002/diversity-in-libraries/">Next</a></td>
+<td class="align-center valign-top w-33"><a href="/compass-rose/spring-2002/arthurian-tales/references/">Notes</a></td>
+<td class="align-center valign-top w-33"><a href="/compass-rose/spring-2002/arthurian-tales/references/#ref">References Cited</a></td>
 </tr>
 <tr>
 <td> </td>
@@ -78,9 +78,9 @@ These faces, fantasies, additions, confused and tangled bits of truth, and exagg
 <td> </td>
 </tr>
 <tr>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></td>
-<td style="width:33%"> </td>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/about/">Return to homepage</a></td></tr>
+<td class="align-center valign-top w-33"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></td>
+<td class="w-33"> </td>
+<td class="align-center valign-top w-33"><a href="/compass-rose/about/">Return to homepage</a></td></tr>
 </table>
 
 © Linda A. Peterson 1977. All rights reserved.

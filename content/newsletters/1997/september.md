@@ -30,7 +30,7 @@ Dear Misty Fans,
 
 Here is the annual list of short stories by Misty:
 
-<table class="cellpadding-2 cellspacing-2" style="width:90%">
+<table class="cellpadding-2 cellspacing-2 w-90">
 <caption class="visually-hidden">Short stories by Mercedes Lackey in anthologies</caption>
 <thead>
 <tr>

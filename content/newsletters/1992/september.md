@@ -32,7 +32,7 @@ Dear Misty Fans,
 
 (By publication date - or at least, I tried)
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2 w-100">
 <caption class="visually-hidden">Short stories by Mercedes Lackey in anthologies</caption>
 <thead>
 <tr>

@@ -10,11 +10,11 @@ topic = "publications"
 canonical_path = "/compass-rose/spring-2002/music-in-medieval-ireland/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
+<table class="cellpadding-2 cellspacing-2 w-100" role="presentation">
 <tr>
-<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px" width="168" height="168"/></td>
-<td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
-<td style="width:35%"> </td>
+<td class="align-left valign-top w-15"><img alt="Compass Rose Logo" class="border-5 issue-logo" loading="lazy" src="/crlogo.jpg" width="168" height="168"/></td>
+<td class="align-left valign-middle w-50"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
+<td class="w-35"> </td>
 </tr>
 </table>
 
@@ -84,11 +84,11 @@ Buckley also cautions against falling into certain traps of assumption that comm
 
 The more looking and reading done in exploring medieval Irish music, the more information is uncovered. Hopefully, with the resurgence of interest in Irish music since the 1950's and 60's more people will delve into discovering the truth of medieval Irish music. Anything that could be so all embracing (references to music can be found in almost all types of medieval Irish surviving materials, ie stonework, metalwork, mythology, oral tradition, writings by visitors and the writings of the monks themselves) is definitely worth the trouble to take some time and wade through remnants of the society. Perhaps the Irish people's love for music can teach us something about our own society.
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
+<table class="cellpadding-2 cellspacing-2 w-100" role="presentation">
 <tr>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/arthurian-tales/">Next</a></td>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/">Notes</a></td>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#ref">References Cited</a></td>
+<td class="align-center valign-top w-33"><a href="/compass-rose/spring-2002/arthurian-tales/">Next</a></td>
+<td class="align-center valign-top w-33"><a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/">Notes</a></td>
+<td class="align-center valign-top w-33"><a href="/compass-rose/spring-2002/music-in-medieval-ireland/references/#ref">References Cited</a></td>
 </tr>
 <tr>
 <td> </td>
@@ -96,9 +96,9 @@ The more looking and reading done in exploring medieval Irish music, the more in
 <td> </td>
 </tr>
 <tr>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></td>
-<td style="width:33%"> </td>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/about/">Return to homepage</a></td></tr>
+<td class="align-center valign-top w-33"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></td>
+<td class="w-33"> </td>
+<td class="align-center valign-top w-33"><a href="/compass-rose/about/">Return to homepage</a></td></tr>
 </table>
 
 © Laura Felton 2000. All rights reserved.

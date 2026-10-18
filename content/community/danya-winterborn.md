@@ -19,22 +19,22 @@ Danya Winterborn's Page
 
 {{ <artwork src="/cc3a.gif" title="Terrill Choosing Danya" artist="Laura Cameron" alt="Danya Winterborn" href="/pacific-northwest-collegium/" artist_url="/pacific-northwest-collegium/" /> }}
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%" role="presentation">
+<table class="border-2 cellpadding-2 cellspacing-2 table-align-center w-100" role="presentation">
 <tr>
-<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#cchron">Fan Fiction</a></td>
-<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#spells">Magic</a></td>
-<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#books">Mercedes Lackey's
+<td class="align-center valign-middle w-33 h-43"><a href="/danya-winterborn/#cchron">Fan Fiction</a></td>
+<td class="align-center valign-middle w-33 h-43"><a href="/danya-winterborn/#spells">Magic</a></td>
+<td class="align-center valign-middle w-33 h-43"><a href="/danya-winterborn/#books">Mercedes Lackey's
 Books</a></td>
 </tr>
 <tr>
-<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#links">Misty Links</a></td>
-<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#movie">Movie Project</a></td>
+<td class="align-center valign-middle w-33 h-43"><a href="/danya-winterborn/#links">Misty Links</a></td>
+<td class="align-center valign-middle w-33 h-43"><a href="/danya-winterborn/#movie">Movie Project</a></td>
 </tr>
 <tr>
-<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/">Queen's
+<td class="align-center valign-middle w-33 h-43"><a href="/">Queen's
 Own</a></td>
-<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#recipes">Recipes</a></td>
-<td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#trivia">Trivia</a></td>
+<td class="align-center valign-middle w-33 h-43"><a href="/danya-winterborn/#recipes">Recipes</a></td>
+<td class="align-center valign-middle w-33 h-43"><a href="/danya-winterborn/#trivia">Trivia</a></td>
 </tr>
 </table>
 
@@ -107,7 +107,7 @@ Every fandom I've ever been a part of has, at one time or another, had fun with 
 
 In The Valdemar Companion Misty registers her own votes for the Dream Cast list for her works. Here are her choices:
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:50%">
+<table class="border-2 cellpadding-2 cellspacing-2 w-50">
 <caption class="visually-hidden">Mercedes Lackey's dream cast choices</caption>
 <thead>
 <tr>

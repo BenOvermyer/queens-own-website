@@ -204,7 +204,7 @@ Magical energy on Velgarth comes from three sources (OBo, pp. 25-27, OBr p. 70):
 
 &#42;The planes mentioned in the books are (OBo, p. 27):
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+<table class="border-2 cellpadding-2 cellspacing-2 w-100">
 <tr>
 <th class="align-left">Name of Plane</th>
 <th class="align-left">Known Denizens</th>
@@ -461,7 +461,7 @@ Of the various schools of mages, Misty tells us the most about the White Winds m
 
 To advance in rank, White Winds mages must prove that they can cast a series of spells. These spells will only work if the mage has the skill and ability to cast them.
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+<table class="border-2 cellpadding-2 cellspacing-2 w-100">
 <tr>
 <th class="align-center">Rank</th>
 <th class="align-center">Spell</th>
@@ -501,7 +501,7 @@ The "duel arcane" is a battle between mages, using magic. These battles take pla
 
 The duel arcane Kethry (the Challenger) fought (OBr, pp. 199-203) follows the pattern described below. During the battle, the mages must stay within a circle. Each mage puts up half of a domed shield, which protects bystanders and the surrounding area from the effects of the battle. Personal shields appear as smaller domes within the larger dome.
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+<table class="border-2 cellpadding-2 cellspacing-2 w-100">
 <tr>
 <th class="align-center">Round</th>
 <th class="align-center">Challenger</th>
