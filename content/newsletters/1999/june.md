@@ -28,7 +28,7 @@ Mercedes Lackey Fan Club
 
 ## The Official Mercedes Lackey Fan Club
 
-<a href="http://www.amazon.com/exec/obidos/ASIN/0886778336/dragonlordsofdumA/"><img alt="" class="float-left" loading="lazy" src="/ml54.gif" width="97" height="140"/></a><img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo113.jpg" width="74" height="904"/>Black Swan - DAW released May 1999 ISBN 0886778336
+<img alt="" class="float-left" loading="lazy" src="/ml54.gif" width="97" height="140"/><img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo113.jpg" width="74" height="904"/>Black Swan - DAW released May 1999 ISBN 0886778336
 
 After his wife's untimely death, a powerful sorcerer dedicates his life to seeking revenge against all womankind. Scouring his lands to capture women who inspire his rage for vengeance, he turns them into swans who only regain their human forms by the transitory light of the moon. Only Odette, noblest of the enchanted flock, has the courage to confront her captor. Can she gain the allies she needs to free herself and the other swan-maidens from their magical slavery? A monumental tale of loyalty and betrayal, of magic used for good and for evil, of love both carnal and pure, and of the incredible duality of human nature, The Black Swan is a rich tapestry which is sure to be recognized as a masterpiece of fantasy.
 

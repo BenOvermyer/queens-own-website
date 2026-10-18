@@ -90,7 +90,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "4d4792868c6278cc9de1d0fb6bc8f8e4769751e246f723dab236cfcf3241679b",
-        "links": 40,
+        "links": 39,
         "images": 2,
         "anchors": [
           "apc",
@@ -123,7 +123,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "13b985c73949f6f288ec984f0d70001246905de05e95652b6ecf9c2a810374cc",
-        "links": 68,
+        "links": 40,
         "images": 28,
         "anchors": [
           "Art",
@@ -562,7 +562,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "c9859e5c6529496ae7d3edb378f03f65c1a8d0ec509900d8d9f4f523bd92ce38",
-        "links": 1,
+        "links": 0,
         "images": 1,
         "anchors": [],
         "tables": 1,
@@ -575,7 +575,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "1a5f91b4ea623fbc16cca3e2f03837fc2602093d9eaa8321400d8f3904f28a18",
-        "links": 2,
+        "links": 1,
         "images": 1,
         "anchors": [],
         "tables": 1,
@@ -588,7 +588,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "6d0a310b940e999b35827ddd5f2735f72c122d96460f565e6ea717c8e6fde2df",
-        "links": 1,
+        "links": 0,
         "images": 1,
         "anchors": [],
         "tables": 1,
@@ -649,7 +649,7 @@
       ],
       "baseline": {
         "visible_text_sha256": "86d3d84a74ed9264b51d13d8b5ab37db1640108c627404eda932255c4a2e98e2",
-        "links": 1,
+        "links": 0,
         "images": 3,
         "anchors": [],
         "tables": 0,
@@ -1451,7 +1451,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "cab38d7f414b96ffe1e4983547895961616bd50480d7017451b4e267f798991b",
-        "links": 1,
+        "links": 0,
         "images": 1,
         "anchors": [],
         "tables": 0,
@@ -1568,7 +1568,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "9753998ccd247f69c2e52eb70d522594c9f6b8dd158853cf2a6bb890596385e7",
-        "links": 1,
+        "links": 0,
         "images": 2,
         "anchors": [],
         "tables": 0,
@@ -1581,7 +1581,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "b5a7fbf61e0fd238d9e133b43aa3c25a7473b00e255f0c86a20d81d951a375f2",
-        "links": 1,
+        "links": 0,
         "images": 4,
         "anchors": [],
         "tables": 0,
@@ -1763,7 +1763,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "2d212d164732940a1642c7cdb975db345fe56dcc79ced5fcef1f406ba873f537",
-        "links": 5,
+        "links": 0,
         "images": 5,
         "anchors": [],
         "tables": 0,
@@ -1906,7 +1906,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "7fdf689b9c1f37405554221e7f39d3ad0aa6e9ad943d4e75c0aa7ea5861fad07",
-        "links": 1,
+        "links": 0,
         "images": 4,
         "anchors": [],
         "tables": 0,
@@ -1945,7 +1945,7 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "19b15e5af376914927b042b62b811c9f87df4a9cf61406ce977e8e0fd05ede7c",
-        "links": 5,
+        "links": 0,
         "images": 5,
         "anchors": [],
         "tables": 0,
