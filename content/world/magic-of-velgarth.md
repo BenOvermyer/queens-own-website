@@ -32,6 +32,15 @@ These are the types of magic in Misty's Valdemar books:
 The codes that follow the names tell which book mentions the pair. The codes are:
 
 <table class="border-1 cellpadding-2 cellspacing-1">
+<caption class="visually-hidden">Codes for the books that mention each Gift pair</caption>
+<thead>
+<tr>
+<th scope="col">Code</th>
+<th scope="col">Book</th>
+<th scope="col">Code</th>
+<th scope="col">Book</th>
+</tr>
+</thead>
 <tr>
 <td>AFa</td>
 <td>Arrow's Fall</td>

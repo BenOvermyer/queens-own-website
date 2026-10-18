@@ -3,8 +3,8 @@
     "files_scanned": 208,
     "rules": {
       "table_without_header": {
-        "occurrences": 68,
-        "files": 33
+        "occurrences": 43,
+        "files": 23
       },
       "unknown_element": {
         "occurrences": 20,
@@ -74,16 +74,15 @@
         {
           "rule": "table_without_header",
           "severity": "warning",
-          "count": 2,
+          "count": 1,
           "examples": [
-            "table 1 (3 rows)",
-            "table 2 (6 rows)"
+            "table 1 (3 rows)"
           ],
           "note": "Candidate data table; confirm whether it is layout or should gain <th>."
         }
       ],
       "baseline": {
-        "visible_text_sha256": "393e03d9682fa55790567e52df03d7cf464fa8d8d26b36c1e14872ceef2e65bd",
+        "visible_text_sha256": "2115197c05b9466ad503b3a182109fd0a7888cfb08eff147927ef01b204ec200",
         "links": 15,
         "images": 1,
         "anchors": [
@@ -101,26 +100,9 @@
     },
     {
       "path": "content/community/danyas-cookbook.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 15,
-          "examples": [
-            "table 2 (7 rows)",
-            "table 3 (4 rows)",
-            "table 4 (10 rows)",
-            "table 5 (8 rows)",
-            "table 6 (5 rows)",
-            "table 7 (6 rows)",
-            "table 8 (3 rows)",
-            "table 9 (10 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "683a8ba2c4115b9b439cf26bdbe495271fb7f3c4ab9bcf3ac4e354b324b1a46c",
+        "visible_text_sha256": "4d4792868c6278cc9de1d0fb6bc8f8e4769751e246f723dab236cfcf3241679b",
         "links": 40,
         "images": 2,
         "anchors": [
@@ -1036,19 +1018,9 @@
     },
     {
       "path": "content/newsletters/1990/april.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 2 (5 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "e4aa550c660f22436e4b82934a0e36854acb4f44a724e936fe23ebef01c16955",
+        "visible_text_sha256": "96d61e88315914ee70d59c76c834579f6be4b8beb5f979eafd49ebd9d45dde7c",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -1059,19 +1031,9 @@
     },
     {
       "path": "content/newsletters/1990/december.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (9 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "20363cb2ce43ff9e23384cc7ebe42b5b8bc06c95361f3ecbfff67af021a5adbb",
+        "visible_text_sha256": "fd36319eb7d85cb3e6c3ac5b6172378f8ae725cc8b025c1ca82c9aa9640e02d4",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -1082,19 +1044,9 @@
     },
     {
       "path": "content/newsletters/1990/july.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (21 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "ceda847c299432146413f0fb91a27c925c11e4b5e853669e2d392f2b65e8163a",
+        "visible_text_sha256": "20988085e21144d87adb11bb1a255abc57ff619fc532fc59755d4c3e3461711e",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -1196,19 +1148,9 @@
     },
     {
       "path": "content/newsletters/1991/september.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (23 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "7ad379d6f17546d7f5df1882b54cc4e4b0ad800be04a15074b0c82b7785d1c6f",
+        "visible_text_sha256": "f05ecccca2a73d05927a5208a7647f3694ab984c0cfbf3c936d712bde55ecfa0",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -1323,19 +1265,9 @@
     },
     {
       "path": "content/newsletters/1992/september.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (31 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "dc31e693315410618ac35c635ec09495f22cbf3a88a26e4136070796265c2e83",
+        "visible_text_sha256": "f4d036abe55906e70b4ec781788a54a7d3637a5d3a5409a35e087923c81c6e40",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -1580,19 +1512,9 @@
     },
     {
       "path": "content/newsletters/1996/june.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (40 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "590be5e92ab8a9f5785149a62441e9c3273fb5cae1794746cb54aa512e7a0174",
+        "visible_text_sha256": "dc000484faf7d41228be1d867c3b03915dd01e1bdf2592dba24d240e63ff19bb",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -1746,19 +1668,9 @@
     },
     {
       "path": "content/newsletters/1997/september.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (46 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "0880cc526780fb2b66d0ccf5da8777d793ec7b2e721f6f3a34f423bf5c7203f4",
+        "visible_text_sha256": "61d363adfdc70c33e7228dccc225de76ae9541087f49e4e0e0c1cd4deeb12435",
         "links": 0,
         "images": 2,
         "anchors": [],
@@ -1860,19 +1772,9 @@
     },
     {
       "path": "content/newsletters/1999/december.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (48 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "837bc49caddb8b4f1c2bc58d17b268077d0ffc2ec414ad6623a51124b7410261",
+        "visible_text_sha256": "5ae39ec4575e168271a653036be262d9e8341ea1f70136d768e5ca8a1e195d87",
         "links": 0,
         "images": 5,
         "anchors": [],
@@ -3311,19 +3213,9 @@
     },
     {
       "path": "content/world/magic-of-velgarth.md",
-      "findings": [
-        {
-          "rule": "table_without_header",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "table 1 (9 rows)"
-          ],
-          "note": "Candidate data table; confirm whether it is layout or should gain <th>."
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "66733fe10cf1883d52e8139503236f5ae75bddbcbe7173c89250636580a70f15",
+        "visible_text_sha256": "ab99d1e06c85d89acac7cfb463981412818ce2ae08d3faaa27061a5b419405ea",
         "links": 7,
         "images": 0,
         "anchors": [

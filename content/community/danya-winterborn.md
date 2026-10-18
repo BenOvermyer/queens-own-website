@@ -108,6 +108,13 @@ Every fandom I've ever been a part of has, at one time or another, had fun with 
 In The Valdemar Companion Misty registers her own votes for the Dream Cast list for her works. Here are her choices:
 
 <table class="border-2 cellpadding-2 cellspacing-2" style="width:50%">
+<caption class="visually-hidden">Mercedes Lackey's dream cast choices</caption>
+<thead>
+<tr>
+<th class="align-left valign-middle" scope="col">Actor</th>
+<th class="align-left valign-middle" scope="col">Character</th>
+</tr>
+</thead>
 <tr>
 <td class="align-left valign-middle">David Bowie</td>
 <td class="align-left valign-middle">Falconsbane</td>

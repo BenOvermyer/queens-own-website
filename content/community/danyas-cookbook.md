@@ -69,6 +69,11 @@ When Danya was still a Herald-to-be, she and Bard Kestran were severely limited 
 Servings: 6
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Potato Cakes ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>2</td>
 <td>cups</td>
@@ -115,6 +120,11 @@ Heat oil in large skillet over medium high heat. When hot, put about 2 tablespoo
 Servings: 6
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Potato Skins ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>6</td>
 <td> </td>
@@ -164,6 +174,11 @@ Broil for 4 minutes. (Same effect can be achieved by cooking in oven at a low te
 Servings: 4
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Potato Soup ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>2</td>
 <td>med.</td>
@@ -235,6 +250,11 @@ Ladle into soup bowls, and sprinkle with chopped parsley.
 Servings: 8
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Roasted Garlic Soup ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>1</td>
 <td>head</td>
@@ -294,6 +314,11 @@ Add milk. Puree and strain soup (can be done with a hand-masher and cheesecloth-
 Servings: 8
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Potato Biscuits ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>1-1/4</td>
 <td>lbs.</td>
@@ -336,6 +361,11 @@ In large skillet, heat half of oil over medium-high heat (add more oil or butter
 Servings: 4
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Potato Dumplings ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>8</td>
 <td>med.</td>
@@ -379,6 +409,11 @@ Roll each dumpling in flour and drop into rapidly boiling water. Cover and cook 
 Servings: 4
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Garlic Potatoes ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>4</td>
 <td> </td>
@@ -405,6 +440,11 @@ Boil whole or quartered potatoes for 5 minutes. Roast potatoes, smeared with oil
 Servings: 4 (1 dozen)
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Potato Pancakes ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>3</td>
 <td>lg.</td>
@@ -470,6 +510,11 @@ Arrange pancakes in single layer on large, flat pan. Bake at 300 (low oven) for 
 Servings: 4
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Shepherd's Pie ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>4</td>
 <td>Slices</td>
@@ -527,6 +572,11 @@ Sprinkle with bacon, and serve hot from skillet.
 Servings: 2
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Twice-Baked Potatoes ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>2</td>
 <td>med.</td>
@@ -580,6 +630,11 @@ Place filled skins in shallow baking dish. Bake at 350 (medium oven) until chees
 Servings: 4
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Baked Potatoes ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>4</td>
 <td>lg.</td>
@@ -618,6 +673,11 @@ Brown butter in small skillet over high heat, about 2-3 minutes. Remove from hea
 Servings: 10
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Kestran's Favorite Potatoes ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td> 5</td>
 <td>lbs.</td>
@@ -665,6 +725,11 @@ Uncover and bake an additional 15 minutes or until slightly browned on top. Let 
 Servings: 5
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Parsleyed Potatoes ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>15</td>
 <td> </td>
@@ -691,6 +756,11 @@ Cook potatoes 20 minutes in boiling water. Drain well. Toss with butter and pars
 Servings: 6
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Scalloped Potatoes ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>2</td>
 <td>lbs.</td>
@@ -737,6 +807,11 @@ Bake 20 minutes then reduce heat to 350 (medium) and bake 50 to 60 minutes longe
 Servings: 8
 
 <table class="cellpadding-2 cellspacing-2">
+<caption class="visually-hidden">Scalloped Potatoes with Herbs ingredients</caption>
+<thead>
+<tr><th scope="col">Amount</th><th scope="col">Units</th><th scope="col">Ingredient</th></tr>
+</thead>
+
 <tr>
 <td>3</td>
 <td>med.</td>
