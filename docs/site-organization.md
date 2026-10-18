@@ -95,8 +95,9 @@ absence of redirect chains, local anchors, and absence of legacy internal/sitema
 
 The build now uses standard Zola directory indexes. The former `.htm` directory
 flattening is removed. `zola serve` previews canonical content; Netlify implements
-the redirects. No domain was switched to production: Netlify still supplies the
-deployment URL through `DEPLOY_PRIME_URL`. Redirects on the separate Dragonlords
+the redirects. Production builds use the canonical host `https://www.queensown.org`
+from `config.toml`; preview and branch deploys derive their URL from
+`DEPLOY_PRIME_URL`. Redirects on the separate Dragonlords
 host require a separate deployment there; its bookstore and other retained content
 remain external links.
 

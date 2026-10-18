@@ -1,0 +1,7 @@
+# Web fonts are always fetched in CORS mode by the browser, even for
+# same-origin preloads. Netlify serves the site from several hostnames
+# (custom domain, branch and deploy-preview aliases), so a page fetched from
+# one hostname can request fonts from the origin baked into base_url. Allow
+# those requests instead of letting the browser block the response.
+/fonts/*
+  Access-Control-Allow-Origin: *

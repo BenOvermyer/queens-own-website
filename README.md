@@ -26,9 +26,14 @@ Publish `public/`. Page URLs are descriptive and extensionless, such as
 The verification script requires the migration Python dependencies below.
 
 Netlify uses `netlify.toml` to run the same deployment build and publish `public/`.
-It passes Netlify's `DEPLOY_PRIME_URL` to Zola so site links use the current
-Netlify site, branch, or preview URL. The default URL in `config.toml` is localhost;
-PDF downloads continue to use `files.queensown.org`.
+Production builds use the canonical host from `config.toml`
+(`https://www.queensown.org`), so page and asset URLs — including the preloaded
+fonts — stay same-origin however the site is reached. Set `www.queensown.org` as
+the primary domain in Netlify so the apex and `*.netlify.app` hostnames redirect
+there. Preview and branch deploys override `base_url` with Netlify's
+`DEPLOY_PRIME_URL` so links stay on the preview site; `static/_headers` allows
+font requests across those hostnames. PDF downloads continue to use
+`files.queensown.org`.
 The configuration pins Zola to 0.23.6, matching the locally tested version.
 The deployment build uses Python's standard library and does not need the migration
 dependencies or original archive directory.

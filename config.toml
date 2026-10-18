@@ -1,5 +1,8 @@
-# Local default; Netlify overrides this with the current deployment URL.
-base_url = "http://127.0.0.1:1111"
+# Canonical production host. `zola serve` overrides this for local previews,
+# and Netlify overrides it with the deploy URL on preview/branch builds (see
+# netlify.toml). Keeping it fixed in production means asset and page URLs stay
+# same-origin regardless of which Netlify hostname serves the request.
+base_url = "https://www.queensown.org"
 title = "Queen's Own"
 description = "The official Mercedes Lackey fan club — community, personas, stories, and an archive of newsletters."
 compile_sass = false
