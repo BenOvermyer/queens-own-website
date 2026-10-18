@@ -7,6 +7,7 @@ from urllib.parse import unquote, urlsplit
 from bs4 import BeautifulSoup
 import audit_a11y
 import audit_html
+import optimize_images
 from audit_links import audit
 from sanitize_persona_directories import SOURCES, render_source
 from verify_routes import validate
@@ -106,6 +107,8 @@ audit_a11y.write_report(a11y_report)
 unacknowledged = [f for f in a11y_report['findings'] if not f['acknowledged']]
 for finding in unacknowledged:
     errors.append(f"{finding['file']}: {finding['rule']} ({finding['detail']})")
+for item in optimize_images.validate(output)[:5]:
+    errors.append(f'srcset target missing: {item}')
 if errors:
     raise SystemExit('\n'.join(errors))
 print(f"Accessibility audit: {a11y_report['summary']['files_scanned']} documents, "
