@@ -70,8 +70,6 @@ For a listing of places where you can send your own Valdemar fan fiction as well
 
  ## Trivia
 
-<a id="trivia"></a>
-
 Here's some fun stuff I cobbled together while procrastinating on my latest writing project &lt;g>.
 
 - [List of Heralds and Companions](/heralds-and-companions/)
@@ -137,8 +135,6 @@ In The Valdemar Companion Misty registers her own votes for the Dream Cast list 
 </table>
 
  ## Recipes
-
-<a id="recipes"></a>
 
 {{ <artwork src="/cc2a.gif" title="Danya and Bard Kestran" artist="Laura Cameron" alt="Danya and Bard Kestran" href="/pacific-northwest-collegium/" artist_url="/pacific-northwest-collegium/" /> }}
 

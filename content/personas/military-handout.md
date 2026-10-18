@@ -126,8 +126,6 @@ If you have additional questions, check out the [Military](/military-faq/) FAQ.
 
 There are several advanced ranks available for military-type personae.
 
-<a id="captain"></a>
-
 ### Captain
 
 For those of you who would like to qualify as a Captain of a mercenary company or Guard unit, complete the requirements for your military persona first. Then do one of the following:

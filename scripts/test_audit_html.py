@@ -75,6 +75,12 @@ class HtmlAuditTests(unittest.TestCase):
         found, _ = self.findings('<h2 id="special">A</h2><h3 id="special">B</h3>')
         self.assertIn('duplicate_id', found)
 
+    def test_duplicate_ids_helper_catches_template_collisions(self):
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup('<main id="main"><a id="main"></a></main>', 'lxml')
+        self.assertEqual(audit_html.duplicate_ids(soup), ['main'])
+        self.assertEqual(audit_html.duplicate_ids(BeautifulSoup('<a id="a"></a><b id="b"></b>', 'lxml')), [])
+
     def test_heading_semantics_are_reported(self):
         found, _ = self.findings('<h1>A</h1><h1>B</h1><h3>C</h3>')
         self.assertIn('multiple_h1', found)

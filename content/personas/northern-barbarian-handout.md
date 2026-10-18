@@ -163,8 +163,6 @@ If you have an approved Northern Barbarian persona, you may try for the advanced
 
 - Write a 20-page paper on the Wooland tribe of your choice (For some suggestions, see the map at [http://www.kstrom.net/isk/maps/images/algonmap.gif](http://www.kstrom.net/isk/maps/images/algonmap.gif).).
 
-<a id="warleader"></a>
-
 ### Warleader
 
 If you have an approved Clan Elder, you may try for Warleader. To become a Warleader:
