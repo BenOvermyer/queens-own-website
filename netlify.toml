@@ -1,7 +1,8 @@
 [build]
   # Production bakes the canonical host from config.toml, so pages and assets
   # (including the preloaded fonts) stay same-origin for every visitor.
-  command = 'python3 scripts/build.py'
+  # requirements.txt provides Pillow for the responsive image pipeline.
+  command = 'python3 -m pip install -r requirements.txt && python3 scripts/build.py'
   publish = "public"
 
 [build.environment]
@@ -10,7 +11,7 @@
 # Preview and branch deploys keep their own deploy URL so links stay on the
 # preview site. Cross-host font requests are allowed by static/_headers.
 [context.deploy-preview]
-  command = 'python3 scripts/build.py --base-url "$DEPLOY_PRIME_URL"'
+  command = 'python3 -m pip install -r requirements.txt && python3 scripts/build.py --base-url "$DEPLOY_PRIME_URL"'
 
 [context.branch-deploy]
-  command = 'python3 scripts/build.py --base-url "$DEPLOY_PRIME_URL"'
+  command = 'python3 -m pip install -r requirements.txt && python3 scripts/build.py --base-url "$DEPLOY_PRIME_URL"'

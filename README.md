@@ -15,6 +15,7 @@ Install Zola, then run `zola serve` for a development preview.
 For deployment, run:
 
 ```sh
+python3 -m pip install -r requirements.txt
 python3 scripts/build.py
 python3 scripts/verify.py
 ```
@@ -35,11 +36,29 @@ there. Preview and branch deploys override `base_url` with Netlify's
 font requests across those hostnames. PDF downloads continue to use
 `files.queensown.org`.
 The configuration pins Zola to 0.23.6, matching the locally tested version.
-The deployment build uses Python's standard library and does not need the migration
-dependencies or original archive directory.
+The deployment build installs `requirements.txt` (Pillow, for the responsive
+image pipeline) and otherwise needs no migration dependencies or the original
+archive directory.
 
 For a manual deployment, specify its URL with
 `python3 scripts/build.py --base-url https://YOUR-SITE.netlify.app`.
+
+## Responsive images
+
+`scripts/optimize_images.py` runs at the end of `scripts/build.py`, after Zola.
+For every image a page references that is at least 128 px wide it encodes WebP
+variants into `public/images/responsive/`, then wraps the `<img>` in a `<picture>`
+whose `<source>` offers those variants with `sizes`, keeping the original file as
+the fallback. GIF and PNG sources are encoded lossless, photographs lossily, and
+a variant is only kept when it is smaller than the file it replaces, so the
+pipeline cannot increase a page's image payload.
+
+Images under 128 px (bullets, icons), external images, unavailable-image
+placeholders, and `<img>` inside `<pre>`/`<code>` samples are left alone. The
+output lives in `public/`, which is generated and git-ignored, so the source
+keeps its original `<img>` tags and `zola serve` shows the originals. AVIF is not
+emitted (it needs an extra Pillow plugin); WebP is supported by every current
+browser. `scripts/verify.py` fails if a `srcset` target is missing.
 
 ## Site structure and editing
 
