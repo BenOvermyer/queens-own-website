@@ -1,5 +1,5 @@
 +++
-title = "Reviews"
+title = "Spring 2002 Reviews"
 path = "compass-rose/spring-2002/reviews"
 template = "page.html"
 [extra]

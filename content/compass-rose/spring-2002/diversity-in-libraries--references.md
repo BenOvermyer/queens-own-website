@@ -1,5 +1,5 @@
 +++
-title = "The Death of Diversity in our Nation's Libraries"
+title = "The Death of Diversity in our Nation's Libraries — References"
 path = "compass-rose/spring-2002/diversity-in-libraries/references"
 template = "page.html"
 [extra]

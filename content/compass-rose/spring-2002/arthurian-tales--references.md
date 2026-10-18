@@ -1,5 +1,5 @@
 +++
-title = "The Arthurian Tales"
+title = "The Arthurian Tales — References"
 path = "compass-rose/spring-2002/arthurian-tales/references"
 template = "page.html"
 [extra]
