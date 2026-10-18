@@ -10,7 +10,7 @@ topic = "publications"
 canonical_path = "/compass-rose/spring-2002/reviews/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
 <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
@@ -22,7 +22,7 @@ canonical_path = "/compass-rose/spring-2002/reviews/"
 
 Reviews
 
-<table class="border-5 cellpadding-2 cellspacing-2" style="width:60%">
+<table class="border-5 cellpadding-2 cellspacing-2" style="width:60%" role="presentation">
 <tr>
 <td class="align-center valign-top" style="width:25%"><a href="/compass-rose/spring-2002/reviews/#fiction">Fiction</a></td>
 <td class="align-center valign-top" style="width:25%"><a href="/compass-rose/spring-2002/reviews/#film">Film</a></td>
@@ -99,7 +99,7 @@ Directed by Michael Hoffman, Starring: Robert Downey Jr., Meg Ryan, and Sam Neil
 
 A doctor must battle within himself to find a greater good. He is overtaken by pitfalls of medicine of the seventeenth century, the plague, and the love of a king. Every time I thought I knew where this movie was going, it changed course. It kept me entertained, as well as my husband. This was a movie dubbed "chick flick" at the theaters and then surprisingly gripped the men in the sweeping epic. I highly recommend this one.
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></td>
 <td style="width:33%"> </td>

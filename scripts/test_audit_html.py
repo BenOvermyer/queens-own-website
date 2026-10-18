@@ -81,6 +81,14 @@ class HtmlAuditTests(unittest.TestCase):
         self.assertEqual(audit_html.duplicate_ids(soup), ['main'])
         self.assertEqual(audit_html.duplicate_ids(BeautifulSoup('<a id="a"></a><b id="b"></b>', 'lxml')), [])
 
+    def test_headerless_table_is_flagged_as_a_candidate(self):
+        found, _ = self.findings('<table><tr><td>a</td><td>b</td></tr></table>')
+        self.assertIn('table_without_header', found)
+
+    def test_presentational_layout_table_is_not_flagged(self):
+        found, _ = self.findings('<table role="presentation"><tr><td>a</td><td>b</td></tr></table>')
+        self.assertNotIn('table_without_header', found)
+
     def test_heading_semantics_are_reported(self):
         found, _ = self.findings('<h1>A</h1><h1>B</h1><h3>C</h3>')
         self.assertIn('multiple_h1', found)

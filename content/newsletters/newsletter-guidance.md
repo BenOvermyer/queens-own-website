@@ -16,7 +16,7 @@ revised = "1/13/2024"
 
 <img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
 
-<table class="cellpadding-2 cellspacing-2 border-2 table-align-center" style="width:80%">
+<table class="cellpadding-2 cellspacing-2 border-2 table-align-center" style="width:80%" role="presentation">
 <tr>
 <td class="align-center valign-middle" style="width:20%; height:43px"><a href="/newsletter-guidance/#article">Article</a></td>
 <td class="align-center valign-middle" style="width:20%; height:43px"><a href="/newsletter-guidance/#collegium">Collegium News</a></td>

@@ -19,7 +19,7 @@ Danya Winterborn's Page
 
 {{ <artwork src="/cc3a.gif" title="Terrill Choosing Danya" artist="Laura Cameron" alt="Danya Winterborn" href="/pacific-northwest-collegium/" artist_url="/pacific-northwest-collegium/" /> }}
 
-<table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%">
+<table class="border-2 cellpadding-2 cellspacing-2 table-align-center" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#cchron">Fan Fiction</a></td>
 <td class="align-center valign-middle" style="width:33%; height:43px"><a href="/danya-winterborn/#spells">Magic</a></td>

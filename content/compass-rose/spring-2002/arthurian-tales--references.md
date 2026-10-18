@@ -10,7 +10,7 @@ topic = "publications"
 canonical_path = "/compass-rose/spring-2002/arthurian-tales/references/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
 <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
@@ -60,7 +60,7 @@ Tennyson, Alfred Lord. No date. "Morte D'Arthur", "Sir Galahad", "Sir Launcelot 
 
 Mason, Eugene, trans. 1928. Wace, *Roman de Brut* in *Arthurian Chronicles*. Edited by Ernest Rhys. New York: Dutton.
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/diversity-in-libraries/">Next</a></td>
 <td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></td>

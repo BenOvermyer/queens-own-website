@@ -9,7 +9,7 @@ topic = "community"
 canonical_path = "/fun-stuff/"
 +++
 
-<table class="cellpadding-3 cellspacing-2 border-2 table-align-center" style="width:80%">
+<table class="cellpadding-3 cellspacing-2 border-2 table-align-center" style="width:80%" role="presentation">
 <tr>
 <td class="align-center valign-middle" style="width:25%; height:43px"><a href="/fun-stuff/#qo">Fun Stuff at<br/>Queen's Own</a></td>
 <td class="align-center valign-middle" style="width:25%; height:43px"><a href="/fun-stuff/#chapters">Chapters of Queen's Own</a></td>

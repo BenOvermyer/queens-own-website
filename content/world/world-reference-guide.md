@@ -16,7 +16,7 @@ revised = "3/26/02"
 
 We don't claim to have the answer to everything you've ever wanted to know about Velgarth, but we think we've made a respectable dent &lt;g>:
 
-<table>
+<table role="presentation">
 <tr>
 <td><a href="/bards-faq/">Bards and Music</a></td>
 <td><a href="/blues-and-blue-bloods-faq/">Blues and Blue Bloods</a></td>

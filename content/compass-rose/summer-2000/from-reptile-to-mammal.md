@@ -10,7 +10,7 @@ topic = "publications"
 canonical_path = "/compass-rose/summer-2000/from-reptile-to-mammal/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
 <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 1, No. 1, Summer 2000</b></td>
@@ -96,7 +96,7 @@ Until the end of the Cretaceous, mammals remained tiny animals, hidden from the 
 
 After the extinction of the dinosaurs the mammals were the quickest group to pick up the evolutionary torch. They, along with the other endothermic vertebrate class, Aves (birds), expanded to all of the niches vacated by dinosaurs. Today there are three living infraclasses and over forty-five different orders ([Eisenberg 1981](/compass-rose/summer-2000/from-reptile-to-mammal/references/#eisenberg)). Mammals are the dominant class of animal on earth. From lumbering reptile to nocturnal shrews to ourselves, mammals have undergone a long and intense evolutionary origin. Today we are undergoing an intense extinction event as disastrous as the one that killed the dinosaurs. Mammals survived the last one and multiplied, but will we be able to do it again?
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%">
+<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
 <td class="align-center valign-top" style="width:10%"><a href="/compass-rose/summer-2000/in-the-name-of-god/">Next</a></td>
 <td class="align-center valign-top" style="width:25%"><a href="/compass-rose/summer-2000/from-reptile-to-mammal/references/">References Cited</a></td>
