@@ -4,7 +4,7 @@
 # same-origin regardless of which Netlify hostname serves the request.
 base_url = "https://www.queensown.org"
 title = "Queen's Own"
-description = "The official Mercedes Lackey fan club — community, personas, stories, and an archive of newsletters."
+description = "The official Mercedes Lackey and Larry Dixon fan club — community, personas, stories, and an archive of newsletters."
 compile_sass = false
 build_search_index = false
 

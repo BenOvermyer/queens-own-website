@@ -25,6 +25,7 @@ Over the years, the club's name has undergone some changes:
 - Queen's Own, The Mercedes Lackey Fan Club
 - Queen's Own/Merging of the Ways
 - Queen's Own, The Official Mercedes Lackey Fan Club
+- Queen's Own, The Official Mercedes Lackey and Larry Dixon Fan Club
 
 Judith also called the club "the official Mercedes Lackey Appreciation Society" in most of the newsletters she published, which is probably the best description of what the club is about.
 
