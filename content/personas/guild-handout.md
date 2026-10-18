@@ -90,15 +90,11 @@ If you have additional questions, check out the [Guild](/guilds-faq/) FAQ.
 
 Guild members may advance in rank to Journeyman and then to Master.
 
-<a id="journeyman"></a>
-
 ### Journeyman
 
 To become a Journeyman Guilder, first create an approved Guild persona, then:
 
 - Write a 20-page paper on something in your Guild's specialty.
-
-<a id="master"></a>
 
 ### Master
 

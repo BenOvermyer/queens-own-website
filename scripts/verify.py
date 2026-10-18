@@ -47,6 +47,9 @@ for path, soup in documents.items():
     artifacts = raw_markdown(path.read_text())
     if artifacts:
         errors.append(f'{path.relative_to(output)}: unrendered Markdown {artifacts[:3]}')
+    duplicate_ids = audit_html.duplicate_ids(soup)
+    if duplicate_ids:
+        errors.append(f'{path.relative_to(output)}: duplicate ids {duplicate_ids}')
     for node in soup.select('[href], [src]'):
         value = node.get('href', node.get('src', ''))
         url = urlsplit(value)

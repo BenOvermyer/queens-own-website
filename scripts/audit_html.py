@@ -14,6 +14,7 @@ Unresolved structural errors fail with `--check`; acknowledged exceptions are li
 import argparse
 import hashlib
 import json
+from collections import Counter
 from pathlib import Path
 import re
 import tomllib
@@ -87,6 +88,17 @@ def strip_markdown(text):
     """Remove Markdown code spans/fences so only real HTML is parsed."""
     text = re.sub(r'```.*?```', '', text, flags=re.S)
     return re.sub(r'`[^`]*`', '', text)
+
+
+def duplicate_ids(soup):
+    """Return the ID values that occur more than once in a parsed document, sorted.
+
+    Unlike the content-only duplicate_id finding, this inspects a fully rendered
+    page, so it also catches IDs introduced by templates (for example an in-content
+    anchor colliding with the ``<main id="main">`` landmark).
+    """
+    ids = [element['id'] for element in soup.find_all(attrs={'id': True})]
+    return sorted(value for value, count in Counter(ids).items() if count > 1)
 
 
 class MarkupChecker(HTMLParser):

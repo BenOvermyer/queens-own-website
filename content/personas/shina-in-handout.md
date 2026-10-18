@@ -160,8 +160,6 @@ If you have an approved Shin'a'in persona, you may try for the advanced rank of 
 
 - Write a 20-page paper on the Plains Indian or Steppe culture of your choice.
 
-<a id="warleader"></a>
-
 ### Warleader
 
 If you have an approved Clan Elder, you may try for Warleader. To become a Warleader:

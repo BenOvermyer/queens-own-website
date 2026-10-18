@@ -84,7 +84,7 @@
       ],
       "baseline": {
         "visible_text_sha256": "393e03d9682fa55790567e52df03d7cf464fa8d8d26b36c1e14872ceef2e65bd",
-        "links": 17,
+        "links": 15,
         "images": 1,
         "anchors": [
           "Herald",
@@ -92,9 +92,7 @@
           "cchron",
           "links",
           "movie",
-          "recipes",
-          "spells",
-          "trivia"
+          "spells"
         ],
         "tables": 2,
         "headings": [],
@@ -123,7 +121,7 @@
       ],
       "baseline": {
         "visible_text_sha256": "683a8ba2c4115b9b439cf26bdbe495271fb7f3c4ab9bcf3ac4e354b324b1a46c",
-        "links": 41,
+        "links": 40,
         "images": 2,
         "anchors": [
           "apc",
@@ -132,7 +130,6 @@
           "bpb",
           "bpd",
           "bread",
-          "main",
           "mgp",
           "mpp",
           "msp",
@@ -2900,12 +2897,10 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "7b3e2c1e3316f988008a5c57e1beebd19d03a5b41ead7a6a9cdbb0731d62a229",
-        "links": 4,
+        "links": 2,
         "images": 0,
         "anchors": [
           "advance",
-          "journeyman",
-          "master",
           "special"
         ],
         "tables": 0,
@@ -3007,11 +3002,10 @@
       ],
       "baseline": {
         "visible_text_sha256": "a86f5490fcd68e5ef783d544401da98b9df38d149a4a2aa75c586408dfa3e72a",
-        "links": 3,
+        "links": 2,
         "images": 0,
         "anchors": [
           "advance",
-          "captain",
           "palace"
         ],
         "tables": 1,
@@ -3033,12 +3027,11 @@
       ],
       "baseline": {
         "visible_text_sha256": "a3648d8e369a9e8dd0bca048317e553a07ec6c4bf23bb9c220fa55e9013f9e1c",
-        "links": 3,
+        "links": 2,
         "images": 0,
         "anchors": [
           "chief",
-          "elder",
-          "warleader"
+          "elder"
         ],
         "tables": 2,
         "headings": [],
@@ -3126,12 +3119,11 @@
       "findings": [],
       "baseline": {
         "visible_text_sha256": "8321486fc4ff504fbd6c5b32f3da99b511c4dbc4584fc31497ab8e403126e6f9",
-        "links": 3,
+        "links": 2,
         "images": 0,
         "anchors": [
           "chief",
-          "elder",
-          "warleader"
+          "elder"
         ],
         "tables": 2,
         "headings": [],

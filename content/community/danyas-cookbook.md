@@ -155,8 +155,6 @@ Broil for 4 minutes. (Same effect can be achieved by cooking in oven at a low te
 
 <a id="bpd"></a>
 
-<a id="main"></a>
-
 <a id="mgp"></a>
 
 <a id="side"></a>
