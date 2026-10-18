@@ -19,7 +19,7 @@ Here are the characters who appear in *Magic's Promise* by Mercedes Lackey. Copy
 
 () = who the character is, what they do {} = which of the three books they star in m: = mate of / married to l: = lover of d. = daughter of s. = son of c: = Companion to / Chosen by
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+<table class="border-2 cellpadding-2 cellspacing-2 w-100">
 <tr>
 <th>Character Name</th>
 <th>Character Description</th>
@@ -412,4 +412,4 @@ Original list compiled by Firestorm.
 
 The information on this page is intended solely for the enjoyment of fans of the Last Herald Mage series. It is not intended to infringe in any way upon the rights held by Mercedes Lackey.
 
-<img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/18/X513002/showlogo?" style="width:468px; height:16px"/>
+<img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/18/X513002/showlogo?" class="issue-badge"/>

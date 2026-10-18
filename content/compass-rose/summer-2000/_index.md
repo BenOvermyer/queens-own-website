@@ -90,4 +90,4 @@ Linda A. Malcor, Publisher Aliso Viejo, CA USA
 
 © *The Compass Rose* 2000. All rights reserved.
 
-<a href="http://leader.linkexchange.com/25/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/25/X513002/showlogo?" style="width:468px; height:16px"/></a>
+<a href="http://leader.linkexchange.com/25/X513002/clicklogo" target="_top"><img alt="LinkExchange Network" ismap="" loading="lazy" src="http://leader.linkexchange.com/25/X513002/showlogo?" class="issue-badge"/></a>

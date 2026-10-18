@@ -1,12 +1,7 @@
 {
   "summary": {
-    "files_scanned": 208,
-    "rules": {
-      "unknown_element": {
-        "occurrences": 20,
-        "files": 12
-      }
-    },
+    "files_scanned": 205,
+    "rules": {},
     "acknowledged_findings": 0,
     "unresolved_errors": 0
   },
@@ -58,18 +53,9 @@
     },
     {
       "path": "content/community/danya-winterborn.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 4,
-          "examples": [
-            "<artwork> x4"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "2115197c05b9466ad503b3a182109fd0a7888cfb08eff147927ef01b204ec200",
+        "visible_text_sha256": "16cebf160cca57cc2fcae83e8412b9b30d4ee54de8c1b630a985e3a0c6a09f2e",
         "links": 15,
         "images": 1,
         "anchors": [
@@ -152,18 +138,9 @@
     },
     {
       "path": "content/community/pacific-northwest-collegium.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 6,
-          "examples": [
-            "<artwork> x6"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "1df71869d6bb7538057d37f5a78dec925268363a4e976f7bcd0d9bb22c41fc17",
+        "visible_text_sha256": "2fb029d25f323a89c3d7fe2dfa4f4377d2a2fa21f899fc0403c907a9c49dd60b",
         "links": 0,
         "images": 1,
         "anchors": [],
@@ -637,18 +614,9 @@
     },
     {
       "path": "content/fan-fiction/release-form-instructions.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<signoff> x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "86d3d84a74ed9264b51d13d8b5ab37db1640108c627404eda932255c4a2e98e2",
+        "visible_text_sha256": "8ec97b317f1175f90a4e60747183c5050db5685cd426fb49630e07d60c06b8b3",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -668,28 +636,6 @@
         "tables": 0,
         "headings": [],
         "legacy_source": "qoseal.htm"
-      }
-    },
-    {
-      "path": "content/membership/how-to-join.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<signoff> x1"
-          ]
-        }
-      ],
-      "baseline": {
-        "visible_text_sha256": "8e044c3b6ba9a60ac9e80bf0ea2b38850364a4695c8150037f1f53b4c9a7a35f",
-        "links": 0,
-        "images": 0,
-        "anchors": [],
-        "tables": 0,
-        "headings": [],
-        "legacy_source": "qojoin.htm"
       }
     },
     {
@@ -2497,18 +2443,9 @@
     },
     {
       "path": "content/personas/bard-handout.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<signoff> x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "a7e371184328d5f2ac23d14afc19b75772cf978cd8d25b8c636c39b98fc605f1",
+        "visible_text_sha256": "2b14f5c5e6c644ab33278bee5296f3fcf7d8015be4891ad3472f4e4a130dc3ab",
         "links": 5,
         "images": 0,
         "anchors": [
@@ -2525,18 +2462,9 @@
     },
     {
       "path": "content/personas/blues-handout.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<signoff> x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "6d00694a51a0e468a7dee66eb85c2d0b818b3d4279c001d617abb031ee0f4e7d",
+        "visible_text_sha256": "7ff3b7e6dd7c3e09d8baaeeb4c0dc86e609619093513ae7ef9eb4f76cd9db63e",
         "links": 5,
         "images": 0,
         "anchors": [
@@ -2604,63 +2532,10 @@
       }
     },
     {
-      "path": "content/personas/herald-mage-handout.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<signoff> x1"
-          ]
-        }
-      ],
-      "baseline": {
-        "visible_text_sha256": "4d20050021020377d65ca3e80e4c9edc03472280738f5c9285f669ae8f6c9f4d",
-        "links": 0,
-        "images": 0,
-        "anchors": [],
-        "tables": 0,
-        "headings": [],
-        "legacy_source": "qohm.htm"
-      }
-    },
-    {
-      "path": "content/personas/kalen-edral-handout.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<signoff> x1"
-          ]
-        }
-      ],
-      "baseline": {
-        "visible_text_sha256": "6019f970cc035a5009beb5e721a1c0338b0d04e5caf10b0b8e52a754372089fb",
-        "links": 0,
-        "images": 0,
-        "anchors": [],
-        "tables": 0,
-        "headings": [],
-        "legacy_source": "qok.htm"
-      }
-    },
-    {
       "path": "content/personas/military-handout.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<signoff> x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "a86f5490fcd68e5ef783d544401da98b9df38d149a4a2aa75c586408dfa3e72a",
+        "visible_text_sha256": "489736c19ac1b04c2583ba99413b4378cdecf7e0e546b444322d54d4db39ce04",
         "links": 2,
         "images": 0,
         "anchors": [
@@ -2674,18 +2549,9 @@
     },
     {
       "path": "content/personas/northern-barbarian-handout.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<signoff> x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "a3648d8e369a9e8dd0bca048317e553a07ec6c4bf23bb9c220fa55e9013f9e1c",
+        "visible_text_sha256": "f778ef9e7e47ed1f4f652d08d6b65b2589eef9afc718dfcc6d2017d2f13f4132",
         "links": 2,
         "images": 0,
         "anchors": [
@@ -2725,18 +2591,9 @@
     },
     {
       "path": "content/personas/persona-handouts.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<signoff> x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "5117e4ffd363001e3febc6bfa6c0fb78dfb53a84ee79fb10ab5c9cc3638a1802",
+        "visible_text_sha256": "4f1600795811dd31a53cf5789ca4e047d33a263a60389611a01ea356a2dc6654",
         "links": 3,
         "images": 1,
         "anchors": [
@@ -2751,18 +2608,9 @@
     },
     {
       "path": "content/personas/priest-and-priestess-handout.md",
-      "findings": [
-        {
-          "rule": "unknown_element",
-          "severity": "warning",
-          "count": 1,
-          "examples": [
-            "<signoff> x1"
-          ]
-        }
-      ],
+      "findings": [],
       "baseline": {
-        "visible_text_sha256": "0dff8d410f7eb2eccdd8697e9c2029f08f5993361abace36ebaefea06a3db28c",
+        "visible_text_sha256": "5f2bb362b14af2fe4da112808ab6aa1fc6f42b660ff20856de14a4d35301695c",
         "links": 1,
         "images": 0,
         "anchors": [

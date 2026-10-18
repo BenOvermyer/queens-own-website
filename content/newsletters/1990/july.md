@@ -62,7 +62,7 @@ Ellen Wells, [Ed. note 2002: Out-of-date contact information deleted. Send curre
 
 (with corrections from later newsletters, except for the titles of the *Merovingian Nights* books, which are wrong, but no corrections were published.)
 
-<table class="cellpadding-2 cellspacing-2" style="width:90%">
+<table class="cellpadding-2 cellspacing-2 w-90">
 <caption class="visually-hidden">Short stories by Mercedes Lackey in anthologies</caption>
 <thead>
 <tr>

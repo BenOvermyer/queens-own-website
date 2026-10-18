@@ -21,7 +21,7 @@ Here are the characters who appear in *Magic's Price* by Mercedes Lackey. Copy t
 
 ## The List
 
-<table class="border-2 cellpadding-2 cellspacing-2" style="width:100%">
+<table class="border-2 cellpadding-2 cellspacing-2 w-100">
 <tr>
 <th>Character Name</th>
 <th>Character Description</th>
@@ -507,4 +507,4 @@ Original list compiled by Firestorm.
 
 The information on this page is intended solely for the enjoyment of fans of the Last Herald Mage series. It is not intended to infringe in any way upon the rights held by Mercedes Lackey.
 
-<img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/17/X513002/showlogo?" style="width:468px; height:16px"/>
+<img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/17/X513002/showlogo?" class="issue-badge"/>

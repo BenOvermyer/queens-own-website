@@ -150,6 +150,25 @@ td, th { border: 1px solid #000000; margin: 0; padding: 0.25rem; }
 th { overflow-wrap: normal; }
 #military-gifts tbody th { white-space: nowrap; }
 table { margin: 0.25rem auto; border: 2px solid #000000; }
+/* Widths and sizes carried over from the original layout tables. These replace
+   the inline style attributes the archive used, so the content carries no inline
+   styles and the site can send a strict Content-Security-Policy. */
+.w-10 { width: 10%; }
+.w-15 { width: 15%; }
+.w-20 { width: 20%; }
+.w-25 { width: 25%; }
+.w-30 { width: 30%; }
+.w-33 { width: 33%; }
+.w-35 { width: 35%; }
+.w-50 { width: 50%; }
+.w-60 { width: 60%; }
+.w-75 { width: 75%; }
+.w-80 { width: 80%; }
+.w-90 { width: 90%; }
+.w-100 { width: 100%; }
+.h-43 { height: 43px; }
+.issue-logo { width: 168px; height: 168px; }
+.issue-badge { width: 468px; height: 16px; }
 
 .artwork { margin: 2rem auto; text-align: center; }
 .artwork img { display: block; max-width: 100%; height: auto; margin: 0 auto; }

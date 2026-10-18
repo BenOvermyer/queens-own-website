@@ -32,7 +32,7 @@ The purpose of this newsletter is to keep you informed of new books and tapes by
 
 ## Book Release Dates
 
-<table class="cellpadding-2 cellspacing-2" style="width:75%">
+<table class="cellpadding-2 cellspacing-2 w-75">
 <tr>
 <th class="align-left valign-top">Coming in July:</th>
 <th class="align-left valign-top">Coming in August:</th>
@@ -113,7 +113,7 @@ Thanks, hugs, and lots of jelly beans (no green ones) are hereby awarded to Ana 
 
 ## Dates to Remember
 
-<table class="cellpadding-2 cellspacing-2" style="width:75%">
+<table class="cellpadding-2 cellspacing-2 w-75">
 <caption class="visually-hidden">Dates to remember</caption>
 <thead>
 <tr>

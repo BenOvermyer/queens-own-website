@@ -58,6 +58,10 @@ class HtmlAuditTests(unittest.TestCase):
         found, _ = self.findings('<p><g> and more</p>')
         self.assertIn('unknown_element', found)
 
+    def test_zola_component_invocations_are_not_unknown_elements(self):
+        found, _ = self.findings('<p>text</p>\n{{ <signoff /> }}\n{{ <artwork src="/a.gif" title="t" artist="a" alt="x" /> }}')
+        self.assertNotIn('unknown_element', found)
+
     def test_obsolete_and_presentational_markup_is_reported(self):
         found, _ = self.findings('<font color="red"><center>x</center></font>')
         self.assertIn('obsolete_element', found)

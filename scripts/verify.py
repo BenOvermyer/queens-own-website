@@ -89,6 +89,10 @@ for path, soup in documents.items():
     canonical = soup.find_all('link', attrs={'rel': 'canonical'})
     if len(canonical) != 1 or not (canonical[0].get('href') or '').startswith('http'):
         errors.append(f'{path.relative_to(output)}: expected exactly one absolute canonical link')
+inline_pages = [str(path.relative_to(output)) for path, soup in documents.items()
+                if soup.find(attrs={'style': True}) or soup.find('style')]
+if inline_pages:
+    errors.append(f'{len(inline_pages)} pages contain inline styles: {inline_pages[:3]}')
 if list(output.rglob('*.pdf')):
     errors.append('PDF files unexpectedly present in site output')
 (ROOT / 'data' / 'anchor-report.json').write_text(json.dumps(anchor_warnings, indent=2) + '\n')

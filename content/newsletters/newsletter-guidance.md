@@ -16,18 +16,18 @@ revised = "1/13/2024"
 
 <img alt="" loading="lazy" src="/ValdemarCrestsm.jpg" width="242" height="283"/>
 
-<table class="cellpadding-2 cellspacing-2 border-2 table-align-center" style="width:80%" role="presentation">
+<table class="cellpadding-2 cellspacing-2 border-2 table-align-center w-80" role="presentation">
 <tr>
-<td class="align-center valign-middle" style="width:20%; height:43px"><a href="/newsletter-guidance/#article">Article</a></td>
-<td class="align-center valign-middle" style="width:20%; height:43px"><a href="/newsletter-guidance/#collegium">Collegium News</a></td>
-<td class="align-center valign-middle" style="width:20%; height:43px"><a href="/newsletter-guidance/#cons">Conventions</a></td>
-<td class="align-center valign-middle" style="width:20%; height:43px"><a href="/newsletter-guidance/#fan">Fan Messages</a></td>
+<td class="align-center valign-middle w-20 h-43"><a href="/newsletter-guidance/#article">Article</a></td>
+<td class="align-center valign-middle w-20 h-43"><a href="/newsletter-guidance/#collegium">Collegium News</a></td>
+<td class="align-center valign-middle w-20 h-43"><a href="/newsletter-guidance/#cons">Conventions</a></td>
+<td class="align-center valign-middle w-20 h-43"><a href="/newsletter-guidance/#fan">Fan Messages</a></td>
 </tr>
 <tr>
-<td class="align-center valign-middle" style="width:20%; height:43px"><a href="/newsletter-guidance/#member">Member News</a></td>
-<td class="align-center valign-middle" style="width:20%; height:43px"><a href="/newsletter-guidance/#past">Past Newsletters</a></td>
-<td class="align-center valign-middle" style="width:20%; height:43px"><a href="/newsletter-guidance/#personals">Personals</a></td>
-<td class="align-center valign-middle" style="width:20%; height:43px"><a href="/newsletter-guidance/#faires">Ren Faires</a></td>
+<td class="align-center valign-middle w-20 h-43"><a href="/newsletter-guidance/#member">Member News</a></td>
+<td class="align-center valign-middle w-20 h-43"><a href="/newsletter-guidance/#past">Past Newsletters</a></td>
+<td class="align-center valign-middle w-20 h-43"><a href="/newsletter-guidance/#personals">Personals</a></td>
+<td class="align-center valign-middle w-20 h-43"><a href="/newsletter-guidance/#faires">Ren Faires</a></td>
 </tr>
 </table>
 

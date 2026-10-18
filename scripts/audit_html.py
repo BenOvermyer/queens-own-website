@@ -60,6 +60,9 @@ SIZED_ELEMENTS = {
     'img', 'video', 'audio', 'source', 'embed', 'object', 'iframe', 'canvas', 'svg',
 }
 VALID_ATTRIBUTE_NAME = re.compile(r'^[A-Za-z_:][-A-Za-z0-9_:.]*$')
+# Zola component invocations ({{ <signoff /> }}) look like elements but are
+# template syntax, so they are removed before the markup is parsed.
+SHORTCODE = re.compile(r'\{\{.*?\}\}|\{%.*?%\}', re.DOTALL)
 # HTML elements the archive may legitimately contain (including retained legacy ones).
 KNOWN_HTML_ELEMENTS = {
     'a', 'abbr', 'address', 'area', 'article', 'aside', 'audio', 'b', 'base', 'bdi', 'bdo',
@@ -90,9 +93,10 @@ def read_body(text):
 
 
 def strip_markdown(text):
-    """Remove Markdown code spans/fences so only real HTML is parsed."""
+    """Remove Markdown code spans/fences and Zola shortcodes so only real HTML is parsed."""
     text = re.sub(r'```.*?```', '', text, flags=re.S)
-    return re.sub(r'`[^`]*`', '', text)
+    text = re.sub(r'`[^`]*`', '', text)
+    return SHORTCODE.sub('', text)
 
 
 def duplicate_ids(soup):

@@ -10,11 +10,11 @@ topic = "publications"
 canonical_path = "/compass-rose/spring-2002/music-in-medieval-ireland/references/"
 +++
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
+<table class="cellpadding-2 cellspacing-2 w-100" role="presentation">
 <tr>
-<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px" width="168" height="168"/></td>
-<td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
-<td style="width:35%"> </td>
+<td class="align-left valign-top w-15"><img alt="Compass Rose Logo" class="border-5 issue-logo" loading="lazy" src="/crlogo.jpg" width="168" height="168"/></td>
+<td class="align-left valign-middle w-50"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
+<td class="w-35"> </td>
 </tr>
 </table>
 
@@ -70,11 +70,11 @@ canonical_path = "/compass-rose/spring-2002/music-in-medieval-ireland/references
 
 <a id="sayers"></a> Sayers, William. "The Bound and the Binding: The Lyre in Early Ireland." *Proceedings of the first North American Congress of Celtic Studies*. (March, 1986): 365-385.
 
-<table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
+<table class="cellpadding-2 cellspacing-2 w-100" role="presentation">
 <tr>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/arthurian-tales/">Next</a></td>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></td>
-<td class="align-center valign-top" style="width:33%"><a href="/compass-rose/about/">Return to homepage</a></td></tr>
+<td class="align-center valign-top w-33"><a href="/compass-rose/spring-2002/arthurian-tales/">Next</a></td>
+<td class="align-center valign-top w-33"><a href="/compass-rose/spring-2002/">Return to Table of Contents</a></td>
+<td class="align-center valign-top w-33"><a href="/compass-rose/about/">Return to homepage</a></td></tr>
 </table>
 
 © Laura Felton 2000. All rights reserved.

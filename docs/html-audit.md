@@ -20,7 +20,8 @@ verification. Regression tests live in `scripts/test_audit_html.py`.
 There are **no unresolved structural errors**: no unclosed or mismatched tags, no
 malformed attributes, and no duplicate anchor ids. The presentational HTML that the
 archive relied on has been converted to Markdown or moved into shared stylesheet
-classes.
+classes. The audit ignores Zola component invocations such as `{{ <signoff /> }}`:
+they look like unknown elements but are template syntax.
 
 ## Repairs applied
 
@@ -51,10 +52,11 @@ table-of-contents links onto their headings, released block content out of stray
 anchors, removed targetless anchors, deduped ids, started content headings at `<h2>`
 (the templates render the page `<h1>`), and filled skipped heading levels.
 
-**Presentation.** The import converted the presentational markup that
-survives inside kept HTML (tables and images) into `align-*`, `valign-*`,
-`border-*`, `cellpadding-*`, `cellspacing-*`, `table-align-*`, and `float-*` classes
-defined in `static/css/site.css`, and moved one-off dimensions to inline styles.
+**Presentation.** The import moved the presentational markup that survives
+inside kept HTML (tables and images) into shared classes. Widths and fixed sizes
+now use the `w-*`, `h-43`, and `issue-*` utility classes in `static/css/site.css`,
+and the pages carry no inline `style` attributes, so the site can send a strict
+`style-src 'self'` Content-Security-Policy.
 
 **HTML → Markdown.** The import converted each page body to
 Markdown: headings, paragraphs, lists, blockquotes, `<hr>`, emphasis, and links
