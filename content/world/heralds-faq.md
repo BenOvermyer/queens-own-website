@@ -1,5 +1,6 @@
 +++
 title = "Heralds FAQ"
+description = "Common questions about the Heralds of Valdemar: the Heraldic Gift, Whites, Companions, and Herald training."
 path = "heralds-faq"
 template = "page.html"
 [extra]

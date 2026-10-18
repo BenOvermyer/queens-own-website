@@ -1,5 +1,6 @@
 +++
 title = "Kal’enedral handout"
+description = "How to create and advance a Kal’enedral persona in Queen’s Own, with rank criteria and submission rules."
 path = "kalen-edral-handout"
 template = "page.html"
 [extra]

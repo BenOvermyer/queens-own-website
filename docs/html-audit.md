@@ -92,7 +92,8 @@ now fenced code blocks, so nothing needs to be preserved as escaped markup.
 
 Rendering on desktop and mobile is still a manual check against the built site.
 `scripts/verify.py` runs automated checks against the built pages (unresolved PDF
-hosts, missing local links and anchors, unrendered Markdown, duplicate IDs, and
-local `<img>` elements without intrinsic `width`/`height`), and the audit
+hosts, missing local links and anchors, unrendered Markdown, duplicate IDs,
+local `<img>` elements without intrinsic `width`/`height`, and meta descriptions
+that are missing, duplicated, or longer than ~156 characters), and the audit
 inspects source markup for structural, presentational, and semantic problems;
 the table classification (data vs. layout) is editorial.

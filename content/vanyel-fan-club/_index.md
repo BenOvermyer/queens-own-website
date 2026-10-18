@@ -1,5 +1,6 @@
 +++
 title = "Vanyel Fan Club"
+description = "The Vanyel Fan Club archive: newsletters, chat, the Herald’s Haven gate, and club history."
 template = "section.html"
 sort_by = "title"
 [extra]

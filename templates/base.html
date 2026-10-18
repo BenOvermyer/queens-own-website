@@ -4,7 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-  <meta name="description" content="{{ config.description }}">
+  {#- Page-specific description first, then a news-letter period, then the page
+      or section title with the club tagline (so no two pages share one), and the
+      site description only as a last resort. -#}
+  {%- if page and page.description %}{% set meta_description = page.description %}
+  {%- elif page and page.extra.publication_period %}{% set meta_description = "The Queen’s Own newsletter for " ~ page.extra.publication_period ~ " — club news, member letters, and fan activity." %}
+  {%- elif page %}{% set meta_description = page.title ~ " — " ~ config.extra.description_tagline %}
+  {%- elif section and section.description %}{% set meta_description = section.description %}
+  {%- elif section %}{% set meta_description = section.title ~ " — " ~ config.extra.description_tagline %}
+  {%- else %}{% set meta_description = config.description %}{% endif %}
+  <meta name="description" content="{{ meta_description }}">
   <link rel="icon" href="{{ get_url(path='favicon.ico') }}" sizes="any">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ get_url(path='icons/favicon-16x16.png') }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ get_url(path='icons/favicon-32x32.png') }}">

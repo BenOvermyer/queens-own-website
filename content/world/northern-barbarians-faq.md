@@ -1,5 +1,6 @@
 +++
 title = "Northern Barbarians FAQ"
+description = "Common questions about the Northern Barbarians of Velgarth: their tribes, customs, and ways of life."
 path = "northern-barbarians-faq"
 template = "page.html"
 [extra]

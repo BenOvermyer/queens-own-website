@@ -1,5 +1,6 @@
 +++
 title = "Bards FAQ"
+description = "Answers to common questions about Bards in Velgarth: the three kinds of musician, the Bardic Gift, training, and ranks."
 path = "bards-faq"
 template = "page.html"
 [extra]

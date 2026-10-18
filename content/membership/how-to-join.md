@@ -1,5 +1,6 @@
 +++
 title = "How to join"
+description = "How to join Queen’s Own, the official Mercedes Lackey and Larry Dixon fan club: membership is free, and a persona is all you need."
 path = "how-to-join"
 template = "page.html"
 [extra]

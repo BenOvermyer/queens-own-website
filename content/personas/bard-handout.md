@@ -1,5 +1,6 @@
 +++
 title = "Bard handout"
+description = "How to create and advance a Bard persona in Queen’s Own, with the club’s rank criteria and submission rules."
 path = "bard-handout"
 template = "page.html"
 [extra]

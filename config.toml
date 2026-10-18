@@ -12,6 +12,10 @@ build_search_index = false
 # Public download host for the PDF archive.
 pdf_base_url = "https://files.queensown.org"
 
+# Appended to a page's own title when the page has no description of its own, so
+# every page's meta description is unique. See templates/base.html.
+description_tagline = "Queen’s Own, the official Mercedes Lackey and Larry Dixon fan club."
+
 # Shared sign-off that closes club pages. The signoff component in
 # templates/components.html renders it, so changing the salutation, name, or
 # address here updates every page at once.

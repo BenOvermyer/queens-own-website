@@ -1,5 +1,6 @@
 +++
 title = "World reference"
+description = "Explore Velgarth: its peoples, Gifts, magic, history, and everyday life, drawn from Mercedes Lackey’s Valdemar novels."
 template = "section.html"
 sort_by = "title"
 [extra]

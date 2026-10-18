@@ -1,5 +1,6 @@
 +++
 title = "Shin’a’in FAQ"
+description = "Common questions about the Shin’a’in of Velgarth: their clans, the Dhorisha Plains, horses, and the Kal’enedral."
 path = "shina-in-faq"
 template = "page.html"
 [extra]

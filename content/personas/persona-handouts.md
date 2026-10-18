@@ -1,5 +1,6 @@
 +++
 title = "Persona handouts and submission instructions"
+description = "Persona handouts for Queen’s Own: submission instructions and the rank handouts for each character type."
 path = "persona-handouts"
 template = "page.html"
 [extra]

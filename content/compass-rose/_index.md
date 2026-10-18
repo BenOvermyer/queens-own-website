@@ -1,5 +1,6 @@
 +++
 title = "The Compass Rose"
+description = "The Compass Rose, Queen’s Own’s nonfiction journal: articles, editorials, and reviews preserved from the club’s archive."
 template = "section.html"
 sort_by = "title"
 [extra]

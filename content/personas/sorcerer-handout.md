@@ -1,5 +1,6 @@
 +++
 title = "Sorcerer and sorceress handout"
+description = "How to create and advance a sorcerer or sorceress persona in Queen’s Own, with rank criteria and rules."
 path = "sorcerer-handout"
 template = "page.html"
 [extra]

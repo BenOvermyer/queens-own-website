@@ -1,5 +1,6 @@
 +++
 title = "Blues and blue bloods FAQ"
+description = "Common questions about the Blues and Blue Bloods of Velgarth: healing, training, and the Healers’ Collegium."
 path = "blues-and-blue-bloods-faq"
 template = "page.html"
 [extra]

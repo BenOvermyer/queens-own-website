@@ -1,5 +1,6 @@
 +++
 title = "Guilds FAQ"
+description = "Common questions about the guilds of Valdemar: how they are organised, who joins them, and what they do."
 path = "guilds-faq"
 template = "page.html"
 [extra]

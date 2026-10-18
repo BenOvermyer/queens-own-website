@@ -1,5 +1,6 @@
 +++
 title = "Shin’a’in handout"
+description = "How to create and advance a Shin’a’in persona in Queen’s Own, with rank criteria and submission rules."
 path = "shina-in-handout"
 template = "page.html"
 [extra]

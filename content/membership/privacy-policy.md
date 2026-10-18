@@ -1,5 +1,6 @@
 +++
 title = "Privacy policy"
+description = "The Queen’s Own privacy policy: what member information is published, how it is stored, and how to request changes."
 path = "privacy-policy"
 template = "page.html"
 [extra]

@@ -1,5 +1,6 @@
 +++
 title = "Plants FAQ"
+description = "Common questions about the plants and herbs of Velgarth, from healing herbs to the flora of the Pelagirs."
 path = "plants-faq"
 template = "page.html"
 [extra]

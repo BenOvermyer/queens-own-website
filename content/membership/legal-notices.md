@@ -1,5 +1,6 @@
 +++
 title = "Legal notices"
+description = "Queen’s Own legal notices: copyright, trademarks, artwork credits, and reuse of club publications."
 path = "legal-notices"
 template = "page.html"
 [extra]

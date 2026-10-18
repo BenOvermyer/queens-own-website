@@ -1,5 +1,6 @@
 +++
 title = "Fauna FAQ"
+description = "Common questions about the animals and creatures of Velgarth, from Companions and kyree to the wildlife of the realms."
 path = "fauna-faq"
 template = "page.html"
 [extra]

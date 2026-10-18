@@ -1,5 +1,6 @@
 +++
 title = "Northern Barbarian handout"
+description = "How to create and advance a Northern Barbarian persona in Queen’s Own, with rank criteria and rules."
 path = "northern-barbarian-handout"
 template = "page.html"
 [extra]

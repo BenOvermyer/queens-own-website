@@ -1,5 +1,6 @@
 +++
 title = "Personas"
+description = "Personas in Queen’s Own: character handouts, submission guidance, and the club’s persona and NPC directories."
 template = "section.html"
 sort_by = "title"
 [extra]

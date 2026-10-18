@@ -1,5 +1,6 @@
 +++
 title = "Military FAQ"
+description = "Common questions about the military of Valdemar: the Guard, the army, mercenaries, and how soldiers are equipped."
 path = "military-faq"
 template = "page.html"
 [extra]

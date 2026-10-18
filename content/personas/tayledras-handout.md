@@ -1,5 +1,6 @@
 +++
 title = "Tayledras handout"
+description = "How to create and advance a Tayledras persona in Queen’s Own, with rank criteria and submission rules."
 path = "tayledras-handout"
 template = "page.html"
 [extra]

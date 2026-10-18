@@ -1,5 +1,6 @@
 +++
 title = "Garb FAQ"
+description = "Common questions about clothing in Velgarth: what people wear, by region, rank, and occasion."
 path = "garb-faq"
 template = "page.html"
 [extra]

@@ -68,6 +68,20 @@ for path, soup in documents.items():
             target_soup = documents[target]
             if not target_soup.find(id=fragment) and not target_soup.find('a', attrs={'name': fragment}):
                 anchor_warnings.append({'page': str(path.relative_to(output)), 'target': value})
+descriptions = {}
+for path, soup in documents.items():
+    meta = soup.find('meta', attrs={'name': 'description'})
+    text = ((meta.get('content') or '').strip()) if meta else ''
+    if not text:
+        errors.append(f'{path.relative_to(output)}: missing meta description')
+        continue
+    if len(text) > 156:
+        errors.append(f'{path.relative_to(output)}: meta description is {len(text)} characters')
+    descriptions.setdefault(text, []).append(str(path.relative_to(output)))
+duplicates = {text: pages for text, pages in descriptions.items() if len(pages) > 1}
+if duplicates:
+    sample = '; '.join(f'{text[:40]!r} x{len(pages)}' for text, pages in list(duplicates.items())[:3])
+    errors.append(f'{len(duplicates)} duplicated meta descriptions: {sample}')
 if list(output.rglob('*.pdf')):
     errors.append('PDF files unexpectedly present in site output')
 (ROOT / 'data' / 'anchor-report.json').write_text(json.dumps(anchor_warnings, indent=2) + '\n')

@@ -1,5 +1,6 @@
 +++
 title = "Newsletter archive"
+description = "Read Queen’s Own newsletters by year, from the earliest recovered issues through the later PDF editions."
 template = "newsletters.html"
 sort_by = "title"
 [extra]
