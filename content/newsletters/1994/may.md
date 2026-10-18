@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo256.jpg"/> No new books from Misty this month, but there are three short stories for you to add to your collection. The cover story in issue #23 of *Marion Zimmer Bradley's FANTASY Magazine* is "Killer Byte," a new Diana Tregarde/Andre adventure. *Snows of Darkover*, edited by Marion Zimmer Bradley, contains Misty's short story "Poetic License." "The Cup and the Cauldron" appears in *Grails: Quests of the Dawn*. This is a paperback version of a limited edition hardcover called *Grails: Quests, Visitations and other Occurrences* that was published in 1942. Both *Snows* and *Grails* should be in your local bookstore; *FANTASY* can be ordered from *Marion Zimmer Bradley's FANTASY Magazine* [Ed. note 2005: Out-of-date info withheld.] for a year's subscription or $4.95 plus $2.50 shipping and handling for individual issues. Make checks payable to Marion Zimmer Bradley.
+<img alt="Border art" class="float-right" loading="lazy" src="/qo256.jpg" width="144" height="1389"/> No new books from Misty this month, but there are three short stories for you to add to your collection. The cover story in issue #23 of *Marion Zimmer Bradley's FANTASY Magazine* is "Killer Byte," a new Diana Tregarde/Andre adventure. *Snows of Darkover*, edited by Marion Zimmer Bradley, contains Misty's short story "Poetic License." "The Cup and the Cauldron" appears in *Grails: Quests of the Dawn*. This is a paperback version of a limited edition hardcover called *Grails: Quests, Visitations and other Occurrences* that was published in 1942. Both *Snows* and *Grails* should be in your local bookstore; *FANTASY* can be ordered from *Marion Zimmer Bradley's FANTASY Magazine* [Ed. note 2005: Out-of-date info withheld.] for a year's subscription or $4.95 plus $2.50 shipping and handling for individual issues. Make checks payable to Marion Zimmer Bradley.
 
 *Storm Warning* and *Chrome Circle* have an August release date, as do the paper back editions of *Winds of Fury* and *If I Pay Thee Not in Gold*. MZB's *Sword & Sorceress XI* (with a Tarma & Kethry story) will be available this summer, too.
 

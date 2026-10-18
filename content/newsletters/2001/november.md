@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 2, No. 11 November 1, 2001
 
-<img alt="Zyryk by L.A. Malcor" class="border-3" loading="lazy" src="/zyryk.jpg"/>
+<img alt="Zyryk by L.A. Malcor" class="border-3" loading="lazy" src="/zyryk.jpg" width="337" height="240"/>
 
 Heyla, Misty fans!
 
@@ -56,7 +56,7 @@ The second goal of Peace Corps is to share American culture with the host countr
 
 Sincerely, Herald Belprin Shandy P. Smith RPCV [spsmith@wt.net](mailto:spsmith@wt.net)
 
-<img alt="Tor by L.A. Malcor" class="border-3 float-left" loading="lazy" src="/tor2.jpg"/>
+<img alt="Tor by L.A. Malcor" class="border-3 float-left" loading="lazy" src="/tor2.jpg" width="359" height="218"/>
 
 ## Ren Faires:
 
@@ -312,7 +312,7 @@ WOLF SG-3. E-mail: [wolf359con@aol.com](mailto:wolf359con@aol.com). Website: [ht
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Red Bluff Castle by L.A. Malcor" class="border-3 float-right" loading="lazy" src="/redb.jpg"/>
+<img alt="Red Bluff Castle by L.A. Malcor" class="border-3 float-right" loading="lazy" src="/redb.jpg" width="359" height="234"/>
 
 ## Member News:
 
@@ -338,7 +338,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
 
-<img alt="Dragonquest by L.A. Malcor" class="border-3 float-right" loading="lazy" src="/wdquest.gif"/>
+<img alt="Dragonquest by L.A. Malcor" class="border-3 float-right" loading="lazy" src="/wdquest.gif" width="320" height="200"/>
 
 ## Other Fandoms:
 
@@ -365,7 +365,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 We have no new personae to announce at this time (although three people are very close to approval). Several former members, however, have returned. Check out [Persona directory](/persona-directory/) as well as our Delphi forum to see who has reappeared! (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 
-<img alt="Krin's Base Camp by L.A. Malcor" class="border-3 float-left" loading="lazy" src="/ocbc1a.gif"/>
+<img alt="Krin's Base Camp by L.A. Malcor" class="border-3 float-left" loading="lazy" src="/ocbc1a.gif" width="432" height="263"/>
 
 ### From Healer Adept Moonstar:
 

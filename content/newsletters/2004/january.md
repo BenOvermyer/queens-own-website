@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 5, No. 1 January 1, 2004
 
-<img alt="Battle by Devin Harris" class="border-5" loading="lazy" src="/qo191.jpg"/>
+<img alt="Battle by Devin Harris" class="border-5" loading="lazy" src="/qo191.jpg" width="367" height="275"/>
 
 Heyla, Misty fans!
 
@@ -94,7 +94,7 @@ Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
-<img alt="Calling Down the Moon by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo192.jpg"/>
+<img alt="Calling Down the Moon by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo192.jpg" width="291" height="550"/>
 
 ## Ren Faires:
 
@@ -240,7 +240,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Dragons by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo193.jpg"/>
+<img alt="Dragons by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo193.jpg" width="367" height="275"/>
 
 ## Member News:
 
@@ -352,7 +352,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Fear Me by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo194.jpg"/>
+<img alt="Fear Me by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo194.jpg" width="387" height="300"/>
 
 ### From Healer Adept Moonstar:
 

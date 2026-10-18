@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 4, No. 10 October 1, 2003
 
-<img alt="Ashansa Rishelle by Aislira Falcon" class="border-2" loading="lazy" src="/qo173.jpg"/>
+<img alt="Ashansa Rishelle by Aislira Falcon" class="border-2" loading="lazy" src="/qo173.jpg" width="295" height="412"/>
 
 Heyla, Misty fans!
 
@@ -478,7 +478,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Herald Sylla by Aislira Falcon" class="border-5 float-right" loading="lazy" src="/qo174.jpg"/>
+<img alt="Herald Sylla by Aislira Falcon" class="border-5 float-right" loading="lazy" src="/qo174.jpg" width="277" height="412"/>
 
 ## Member News:
 

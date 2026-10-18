@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo291.jpg"/> How did Misty come to write the Valdemar books? Fortunately for us, she has vivid dreams.
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo291.jpg" width="113" height="688"/> How did Misty come to write the Valdemar books? Fortunately for us, she has vivid dreams.
 
 "Much as I HATE to admit it--since every bad writer in the universe comes to pros with the same 'story'--the genesis of Valdemar was in a dream. There was a short sequence of the beginning, right up to being Chosen, then the dream moved directly to the scene where Talia meets the Queen and accepts the position of Queen's Own …
 
@@ -161,7 +161,7 @@ Basic requirements are the same for every category of persona, but extra point r
 
 [Ed. note 2005: Content withheld.]
 
-<img alt="Border Art" loading="lazy" src="/qo292.jpg"/>
+<img alt="Border Art" loading="lazy" src="/qo292.jpg" width="593" height="216"/>
 
 Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 

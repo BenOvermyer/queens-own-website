@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 5, No. 12 December 1, 2004
 
-<img alt="Holiday Greetings from Danya and Moonstar" class="border-5" loading="lazy" src="/xmas2004.jpg"/>
+<img alt="Holiday Greetings from Danya and Moonstar" class="border-5" loading="lazy" src="/xmas2004.jpg" width="400" height="262"/>
 
 Heyla, Misty fans!
 
@@ -182,7 +182,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Markov by Cassandra Vuksa" class="border-5 float-left" loading="lazy" src="/qo232.jpg"/>
+<img alt="Markov by Cassandra Vuksa" class="border-5 float-left" loading="lazy" src="/qo232.jpg" width="290" height="422"/>
 
 ### Collegium News:
 

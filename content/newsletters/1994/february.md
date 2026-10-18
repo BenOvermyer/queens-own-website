@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo254.jpg"/> Here in its entirety is the interview with Misty and Larry that appeared in the Dec/Jan issue of *Sense of Wonder*, B. Dalton's Science Fiction, Fantasy & Role Playing Newsletter. The interviewer was Stephen Pagel and he started by saying that Fantasy readers know Mercedes Lackey as one of the most prolific writers of the nineties--and one of the most popular. Misty told him that her latest book, *The Black Gryphon*, is special. It takes place nearly 1,000 years before any other Valdemar novel and explores the prehistory of this complex and wonderful world. It was written in collaboration with Misty's husband Larry Dixon, a talented artist and a fine writer in his own right. The interview begins:
+<img alt="Border art" class="float-right" loading="lazy" src="/qo254.jpg" width="272" height="1500"/> Here in its entirety is the interview with Misty and Larry that appeared in the Dec/Jan issue of *Sense of Wonder*, B. Dalton's Science Fiction, Fantasy & Role Playing Newsletter. The interviewer was Stephen Pagel and he started by saying that Fantasy readers know Mercedes Lackey as one of the most prolific writers of the nineties--and one of the most popular. Misty told him that her latest book, *The Black Gryphon*, is special. It takes place nearly 1,000 years before any other Valdemar novel and explores the prehistory of this complex and wonderful world. It was written in collaboration with Misty's husband Larry Dixon, a talented artist and a fine writer in his own right. The interview begins:
 
 **Misty:** "It all started at a convention in Meridian, Mississippi, about 3-4 years ago. Larry was the artist guest of honor and I was the writer guest of honor."
 

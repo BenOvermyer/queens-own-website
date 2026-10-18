@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 3, No. 2 February 1, 2002
 
-<img alt="Gwen 1 by Gwenaelle Durand" class="float-center" loading="lazy" src="/qo101.jpg"/>
+<img alt="Gwen 1 by Gwenaelle Durand" class="float-center" loading="lazy" src="/qo101.jpg" width="247" height="381"/>
 
 Heyla, Misty fans!
 
@@ -73,7 +73,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
   Ah, that's for you young folks to decide. I would like to see fandom in general return to the goal of having fun and being an outlet for creativity. Fandom is NOT a way of life; it's a way of play. All intelligent species need play!
 
-  <img alt="Gwen 2 by Gwenaelle Durand" class="border-5 float-left" loading="lazy" src="/qo102.jpg"/>
+  <img alt="Gwen 2 by Gwenaelle Durand" class="border-5 float-left" loading="lazy" src="/qo102.jpg" width="291" height="400"/>
 
   ## Ren Faires:
 
@@ -239,7 +239,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
   For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-  <img alt="Tantris by Gwenaelle Durand" class="border-5 float-right" loading="lazy" src="/qo103.jpg"/>
+  <img alt="Tantris by Gwenaelle Durand" class="border-5 float-right" loading="lazy" src="/qo103.jpg" width="209" height="400"/>
 
   ## Member News:
 
@@ -263,7 +263,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
   - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com). If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable).
 
-  <img alt="Lestat by Laura Felton" loading="lazy" src="/qo104.jpg"/>
+  <img alt="Lestat by Laura Felton" loading="lazy" src="/qo104.jpg" width="285" height="417"/>
 
   ## Other Fandoms:
 
@@ -292,7 +292,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   - Congratulations to **Shin'a'in Leshya'edrin shena Pretera'sedrin**, Clan Chief of the Grasscat Clan. **Gwenaelle Durand** wrote a story about her persona, family and friends, and had it published in *Austral'a'in*. She knows archery, can ride a horse, and has learned the care and feeding of horses.
   - Welcome **Tayledras Mage Flameheart k'Chona** and her Bondbird Choni! Flameheart has very strong Mindspeech and the ability to communicate with her bondbird, humans and other races. **Rachel Kory** wrote about her persona and Flameheart's family and friends, drew a picture of her bondbird and sent a poem.
 
-  <img alt="Davad by Janetta Maxwell" class="float-right" loading="lazy" src="/qo105.jpg"/>
+  <img alt="Davad by Janetta Maxwell" class="float-right" loading="lazy" src="/qo105.jpg" width="344" height="243"/>
 
   ### From Herald-Mage Master Danya Winterborn:
 
@@ -319,7 +319,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
   - From **Crystal Sarakas Kocher** ([crys@stny.rr.com](mailto:crys@stny.rr.com)) 26-year-old radio/television producer looking for friends who enjoy long, silly conversations, dreaming of Valdemar and other such things. I would love to hear from old friends that I have lost touch with over the years and from new friends, too!
   - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 
-  <img alt="Kiera by Janetta Maxwell" class="float-right" loading="lazy" src="/qo106.jpg"/>
+  <img alt="Kiera by Janetta Maxwell" class="float-right" loading="lazy" src="/qo106.jpg" width="260" height="392"/>
 
   ## Personals:
 

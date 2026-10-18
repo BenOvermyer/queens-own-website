@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Sword of Ice" class="float-right" loading="lazy" src="/ml6.gif"/> Coming from DAW by January (check your bookstores now) is *Sword of Ice and Other Tales of Valdemar*, seventeen all'origana stories o magic and valor, edited by Misty and with this beautiful Jody Lee cover.
+<img alt="Sword of Ice" class="float-right" loading="lazy" src="/ml6.gif" width="88" height="140"/> Coming from DAW by January (check your bookstores now) is *Sword of Ice and Other Tales of Valdemar*, seventeen all'origana stories o magic and valor, edited by Misty and with this beautiful Jody Lee cover.
 
 "Mercedes Lackey's very first novel, *Arrows of the Queen*, introduced readers to the magical land of Valdemar. In this ancient realm, beset by war and internal conflicts, justice is dispensed by an elite force - the legendary Heralds. These unusual men and women, 'Chosen' from all corners of the kingdom by their mysterious horselike Companions, undergo a rigorous training, and follow a rigid code of honor. Bonded for life with their Companions, the Heralds endeavor to keep the peace and, if necessary, defend their country in the name of their monarch.
 

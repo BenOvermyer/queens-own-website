@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="border by Catherine King" class="float-right" loading="lazy" src="/qo296.jpg"/>Dear Misty Fans,
+<img alt="border by Catherine King" class="float-right" loading="lazy" src="/qo296.jpg" width="133" height="1073"/>Dear Misty Fans,
 
 Misty's Birthday is June 24, Larry's is July 28. Send cards to their business address: [Ed. note 2003: Their current address is Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017].
 

@@ -38,7 +38,7 @@ To join play, come up with some likely explanation for your persona to be passin
 
 Queen's Own RPs take place in the village of Hotsprings on our alternate timeline (the one where Herald Kris does not die) unless otherwise announced. Hotsprings is located on a spur off the East Trade Road, which puts it at the base of the Armor Hills (You'll find those near where the borders of Hardorn, Karse and Valdemar meet.). All events are set *after* the conclusion of the *Mage Storms* trilogy.
 
-<img alt="Hotsprings" class="border-5" loading="lazy" src="/qohot.jpg"/>
+<img alt="Hotsprings" class="border-5" loading="lazy" src="/qohot.jpg" width="500" height="500"/>
 
 Hotsprings has about 300 full time residents who are mainly engaged in the farming and herding industries. Most of these families live on the edge of town, traveling out to the fields and herds as needed. They share a bakehouse, blacksmith and townhall.
 

@@ -881,4 +881,4 @@ Remove potatoes from oven. Sprinkle with reserved leeks. Sprinkle top with crumb
 
 <a href="http://leader.linkexchange.com/20/X513002/clicklogo" target="_top"> <img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/20/X513002/showlogo?" style="width:468px; height:16px"/></a>
 
-[<img alt="" class="float-center" loading="lazy" src="/butback.gif"/>Return to Danya Winterborn's Page](https://dragonlords.fans/index.htm)
+[<img alt="" class="float-center" loading="lazy" src="/butback.gif" width="68" height="47"/>Return to Danya Winterborn's Page](https://dragonlords.fans/index.htm)

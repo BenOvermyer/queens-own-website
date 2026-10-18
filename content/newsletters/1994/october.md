@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo262.jpg"/> Congratulations, Misty! *Storm Warning* is #1 on LOCUS, B.Dalton, and Walden lists. *Winds of Fury* and *Chrome Circle* are among the top five paperbacks on all three lists.
+<img alt="Border art" class="float-right" loading="lazy" src="/qo262.jpg" width="145" height="1334"/> Congratulations, Misty! *Storm Warning* is #1 on LOCUS, B.Dalton, and Walden lists. *Winds of Fury* and *Chrome Circle* are among the top five paperbacks on all three lists.
 
 *Bardic Voices III: The Eagle & the Nightingales* has a January/February release date: "Why is the High King of the Human kingdoms not doing his job - and thereby allowing the Church to fill the power vacuum in the human lands of Alanda? This is a matter of some concern to Nightingale and her friends; the Church is becoming ever more overtly hostile to non-human sentients (of which there are several species in Alanda) as well as to anything that it does not at least indirectly control, such as gypsies and Free Bards.
 
@@ -68,7 +68,7 @@ LOSCON 21 November 25-27 Airport Hilton, Burbank CA. GoH Lois McMaster Bujold, A
 
 &#42;&#42;Remember to include a SASE or a self-addressed envelope and an IRC when requesting information.&#42;&#42;
 
-<img alt="Border" class="float-right" loading="lazy" src="/qo263.jpg"/>
+<img alt="Border" class="float-right" loading="lazy" src="/qo263.jpg" width="140" height="1332"/>
 
 ## COLLEGIUM NEWS:
 

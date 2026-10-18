@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="border by Robert St.Pierre" class="float-right" loading="lazy" src="/qo293.jpg"/>Dear Misty Fans,
+<img alt="border by Robert St.Pierre" class="float-right" loading="lazy" src="/qo293.jpg" width="145" height="1337"/>Dear Misty Fans,
 
 Larry Dixon's birthday is July 28. Send cards to Misty & Larry's business address: Hightflight PO Box 8309 Tulsa OK 74101-8309.
 

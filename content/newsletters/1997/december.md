@@ -24,9 +24,9 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
-<img alt="Four and Twenty Blackbirds" class="float-right" loading="lazy" src="/ml26.gif"/> Dear Misty Fans,
+<img alt="Four and Twenty Blackbirds" class="float-right" loading="lazy" src="/ml26.gif" width="92" height="140"/> Dear Misty Fans,
 
 Coming this month from Baen is *Four & Twenty Blackbirds*, Book IV of **Bardic Voices**. The cover illustration is bv Darrell K. Sweet.
 
@@ -150,7 +150,7 @@ Deadline for next newsletter contributions: January 10--earlier is better. Next 
 
 Editor, President, Dogsbody, Housemother--Judith Louvis [Ed. note 2005: Out-of-date content withheld.] (Call only before 10 pm and let it ring.) Border design on back page--Kathryn Heald Mailing Day Helper (last issue)--Barbara Leflar Jackson.
 
-<img alt="Holiday Greetings" loading="lazy" src="/qo278.jpg"/>
+<img alt="Holiday Greetings" loading="lazy" src="/qo278.jpg" width="648" height="799"/>
 
 [End Excerpt]
 

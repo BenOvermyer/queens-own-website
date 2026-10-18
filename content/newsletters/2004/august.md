@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 5, No. 8 August 1, 2004
 
-<img alt="Horse in Field by Jan Tallevast" class="border-5" loading="lazy" src="/qo215.jpg"/>
+<img alt="Horse in Field by Jan Tallevast" class="border-5" loading="lazy" src="/qo215.jpg" width="304" height="410"/>
 
 Heyla, Misty fans!
 
@@ -190,7 +190,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Pern Dragons by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo216.jpg"/>
+<img alt="Pern Dragons by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo216.jpg" width="386" height="287"/>
 
 ## Member News:
 
@@ -302,7 +302,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Iaia by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo217.jpg"/>
+<img alt="Iaia by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo217.jpg" width="328" height="302"/>
 
 ### From Herald-Mage Adept Danya Winterborn:
 

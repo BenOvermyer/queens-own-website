@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 4, No. 9 September 1, 2003
 
-<img alt="Tanya by Jessica Ebert" loading="lazy" src="/qo170.jpg"/>
+<img alt="Tanya by Jessica Ebert" loading="lazy" src="/qo170.jpg" width="338" height="350"/>
 
 Heyla, Misty fans!
 
@@ -410,7 +410,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Female Costume by Jessica Ebert" class="border-5 float-right" loading="lazy" src="/qo171.jpg"/>
+<img alt="Female Costume by Jessica Ebert" class="border-5 float-right" loading="lazy" src="/qo171.jpg" width="376" height="398"/>
 
 ## Member News:
 
@@ -529,7 +529,7 @@ Hugs-
 
 Moonstar
 
-<img alt="Male Costume by Jessica Ebert" class="border-5 float-right" loading="lazy" src="/qo172.jpg"/>
+<img alt="Male Costume by Jessica Ebert" class="border-5 float-right" loading="lazy" src="/qo172.jpg" width="351" height="404"/>
 
 ## Personals:
 

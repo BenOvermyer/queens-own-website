@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 6, No. 9 September 1, 2005
 
-<img alt="Sidhe" class="border-5" loading="lazy" src="/qo309.jpg"/>
+<img alt="Sidhe" class="border-5" loading="lazy" src="/qo309.jpg" width="303" height="487"/>
 
 Heyla, Misty fans!
 
@@ -145,7 +145,7 @@ CASCADIA CON. Website: [http://www.cascadiacon.org/](http://www.cascadiacon.org/
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/) or the Sci-Fi Guide at [http://scifi.about.com/blcon.htm](http://scifi.about.com/blcon.htm).
 
-<img alt="Man" class="border-5 float-left" loading="lazy" src="/qo310.jpg"/>
+<img alt="Man" class="border-5 float-left" loading="lazy" src="/qo310.jpg" width="246" height="342"/>
 
 ## Member News:
 
@@ -205,7 +205,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Saiph" class="border-5 float-left" loading="lazy" src="/qo311.jpg"/>
+<img alt="Saiph" class="border-5 float-left" loading="lazy" src="/qo311.jpg" width="360" height="280"/>
 
 ### Collegium News:
 

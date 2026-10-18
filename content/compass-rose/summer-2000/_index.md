@@ -11,7 +11,7 @@ topic = "publications"
 canonical_path = "/compass-rose/summer-2000/"
 +++
 
-<img alt="The Compass Rose" class="border-5" loading="lazy" src="/comprose.jpg"/>
+<img alt="The Compass Rose" class="border-5" loading="lazy" src="/comprose.jpg" width="336" height="336"/>
 
 ## The Compass Rose
 

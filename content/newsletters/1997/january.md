@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo273.jpg"/> This letter from Larry arrived last month after I had sent the December newsletter to the printer. It's always good to hear from Misty and Larry, and I'm sure all of you would rather read this late than not at all.
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo273.jpg" width="161" height="1416"/> This letter from Larry arrived last month after I had sent the December newsletter to the printer. It's always good to hear from Misty and Larry, and I'm sure all of you would rather read this late than not at all.
 
 "Well, I don't want to take up too much of the newsletter space with my particular ramblings, but I wanted you to know how things are, and perhaps a little of where things are going. You know, I've been through a lot---garage hit by tornado, studio lost to fire, previous studio lost to flood, financial scares, stalkers, auto crashes, drunk drivers, fights, sabotage, betrayals, fraud, and so on. But is that cause to feel victimized? Nah. These things happen for good reasons. People who live intensely instead of just talking or faking get banged up. When you play life hard you're bound to get knocked around a bit! In my case it's been a good way to have perspective. Kindness isn't a weakness, generosity isn't either, but losing them both can be.
 

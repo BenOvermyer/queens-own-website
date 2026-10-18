@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg"/>Dear Misty Fans,
+<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg" width="133" height="103"/>Dear Misty Fans,
 
 The four chapters of *Bardic Voices: The LArk & the Wren* that many of you received in the mail is called a teaser book. It's a form of advertising and, in this case, a thank you from Baen to all QO members who can be reached by surface mail. I hoped it would be viewed as a pleasant surprise. If anyone objects to my making your address available to Baen, please let m eknow, and I will remove your name form future mailings. Baen does not have the QO membership list; I am printing labels for them as needed. As I said, it's Baen's way of showing their appreciation to Misty's fans. There will be more goodies in your mailboxes from time to time.
 

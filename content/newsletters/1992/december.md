@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo230.jpg"/>Enclosed with your newsletter is an eletrostatic window decal, your holiday greeting from Misty and Larry.
+<img alt="Border art" class="float-right" loading="lazy" src="/qo230.jpg" width="92" height="878"/>Enclosed with your newsletter is an eletrostatic window decal, your holiday greeting from Misty and Larry.
 
 The following letter is also from Misty and is especially important to all of you who like writing in Misty's worlds:
 

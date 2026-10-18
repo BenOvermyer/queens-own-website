@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 2, No. 4 April 1, 2001
 
-<img alt="Queen by Cassandra Vuksa" class="border-3" loading="lazy" src="/qo69.jpg"/>
+<img alt="Queen by Cassandra Vuksa" class="border-3" loading="lazy" src="/qo69.jpg" width="232" height="338"/>
 
 Heyla, Misty fans!
 
@@ -55,7 +55,7 @@ Zhai'helleva,
 
 ## Ren Faires:
 
-<img alt="Changling by Cassandra Vuksa" class="border-2 float-left" loading="lazy" src="/qo68.jpg"/>
+<img alt="Changling by Cassandra Vuksa" class="border-2 float-left" loading="lazy" src="/qo68.jpg" width="296" height="397"/>
 
 Here are the faires we know about that are happening in April. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
@@ -383,7 +383,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Tee 1 by Jan Tallevast" class="border-3" loading="lazy" src="/qo70.jpg"/>
+<img alt="Tee 1 by Jan Tallevast" class="border-3" loading="lazy" src="/qo70.jpg" width="189" height="270"/>
 
 ## Member News:
 
@@ -410,7 +410,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ## Other Fandoms:
 
-<img alt="Tee 2 by Jan Tallevast" class="border-3" loading="lazy" src="/qo71.jpg"/>
+<img alt="Tee 2 by Jan Tallevast" class="border-3" loading="lazy" src="/qo71.jpg" width="180" height="212"/>
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.

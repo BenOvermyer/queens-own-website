@@ -26,7 +26,7 @@ Mercedes Lackey Fan Club
 
 Dear Misty fans:
 
-<img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo302.jpg"/>
+<img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo302.jpg" width="115" height="1199"/>
 
 Here are excerpts from an interview with Misty done by Jeanne Caggiano called "Breaking the Mold." It appeared in the October-December Baen's Books. Jeanne started the interview by asking about *The Fire Rose*.
 

@@ -26,7 +26,7 @@ Mercedes Lackey Fan Club
 
 Dear Misty fans:
 
-<img alt="Border by Jenny Jo Reinhart" class="float-right" loading="lazy" src="/qo300.jpg"/>
+<img alt="Border by Jenny Jo Reinhart" class="float-right" loading="lazy" src="/qo300.jpg" width="106" height="1144"/>
 
 *The Silver Gryphon* has a March release date and is a hardcover. Trout Printing did a fantastic job of reproducing Jody Lee's *Silver Gryphon* cover in the last newsletter, but wait until you see that cover in color!
 
@@ -155,7 +155,7 @@ Please, please, PLEASE, type e-mail & web page info! I'll type in what I think y
 
 I think all of us who attended **Queen's Own Collegia** at Dragon&#42;Con last year had a wonderful time and planned to return. Unfortunately, I can not. Morgan and her committee are working hard ot make this year's gathering a success. I hope you'll give her your enthusiastic support.
 
-<img alt="Border by Jenny Jo Reinhart" class="float-left" loading="lazy" src="/qo301.jpg"/>
+<img alt="Border by Jenny Jo Reinhart" class="float-left" loading="lazy" src="/qo301.jpg" width="230" height="723"/>
 
 ## Fan Messages:
 

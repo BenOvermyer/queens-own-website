@@ -24,9 +24,9 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo284.jpg"/> Dear Misty Fans,
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo284.jpg" width="191" height="1517"/> Dear Misty Fans,
 
 "I hope you have found a friend Closing time Every new beginning comes from some other beginning's end"
 
@@ -131,7 +131,7 @@ Coming in September!
 
 All news, ads, messages, personals, etc. shouldbe sent to the Winnetka address.
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo285.jpg"/>
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo285.jpg" width="223" height="1577"/>
 
 Recommended reading: everything by Lois McMaster Bujold--read the earlier Miles Vorkosigan adventures before reading *Mirror Dance*, *Memory*; and *Komarr*; David Weber, especially his Honor Harrington series again, best read in order. Watch for *Echoes of Honor*, coming in October.
 

@@ -16,6 +16,6 @@ This Gate will take you to a secret place only members of the Vanyel Fan Club ma
 
 If you are a member of the Vanyel Fan Club, proceed into the Gate, if you so desire …
 
-<a href="/vanyel-fan-club/heralds-haven/"><img alt="" loading="lazy" src="/vfcgate.jpg"/></a>
+<a href="/vanyel-fan-club/heralds-haven/"><img alt="" loading="lazy" src="/vfcgate.jpg" width="216" height="216"/></a>
 
 (Note: This gate is not currently active. [Join the VFC](/vanyel-fan-club/chat/) to be notified when Heralds' Haven is once again functioning.)

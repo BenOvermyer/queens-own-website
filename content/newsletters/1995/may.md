@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="Storm Rising" class="float-right" loading="lazy" src="/ml19.gif"/> Dear Misty Fans,
+<img alt="Storm Rising" class="float-right" loading="lazy" src="/ml19.gif" width="84" height="140"/> Dear Misty Fans,
 
 This is the Jody LEe cover for *Storm Rising*, Book 2 of the MAGE STORMS trilogy, showing High Priestess Solaris, Karal, Florian and another Companion. *Storm Rising* is a hardcover with an August/September release date:
 

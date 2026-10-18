@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 6, No. 5 May 1, 2005
 
-<img alt="Companion by Sara Haas" class="border-5" loading="lazy" src="/qo248.jpg"/>
+<img alt="Companion by Sara Haas" class="border-5" loading="lazy" src="/qo248.jpg" width="413" height="498"/>
 
 Heyla, Misty fans!
 
@@ -186,7 +186,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Costume by BriAnne Searles" class="border-5 float-right" loading="lazy" src="/qo249.jpg"/>
+<img alt="Costume by BriAnne Searles" class="border-5 float-right" loading="lazy" src="/qo249.jpg" width="450" height="349"/>
 
 ## Member News:
 
@@ -246,7 +246,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Herald Antalyah and her daughter" class="border-5 float-right" loading="lazy" src="/qo250.jpg"/>
+<img alt="Herald Antalyah and her daughter" class="border-5 float-right" loading="lazy" src="/qo250.jpg" width="334" height="307"/>
 
 ### Collegium News:
 

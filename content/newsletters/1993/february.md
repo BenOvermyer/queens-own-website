@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo252.jpg"/> In an early edition of the newsletter (in 1988, I think) we printed the news from Misty that DAW had tried to interest Science Fiction Book Club in picking up her books but they just weren't interested. My, my - they are certainly interested now.
+<img alt="Border art" class="float-right" loading="lazy" src="/qo252.jpg" width="108" height="1435"/> In an early edition of the newsletter (in 1988, I think) we printed the news from Misty that DAW had tried to interest Science Fiction Book Club in picking up her books but they just weren't interested. My, my - they are certainly interested now.
 
 Featured selections from SFBC have been *The Ship Who Searched*, *The Lark and the Wren*, *Bedlam's Bard* (*Knight of Ghost and Shadows* and *Summoned to Tourney*), *The Elvenbane*, *The Last Herald-Mage* (*Magic's Pawn*, *Magic's Promise*, and *Magic's Price), and now, "magic and adventure pervade this superb fantasy trilogy - complete in an exclusive SFBC omnibus," a three-in-one volume combining Arrows of the Queen*, *Arrow's Flight*, and *Arrow's Fall*, appropriately called *Queen's Own*. For membership information in Science Fiction Book Club, call [Editor's Note 2005: Out-of-date information withheld.], or send a SASE to me for a membership form. The current offer is six free books (plus shipping and handling) and the obligation to buy four more during the year.
 

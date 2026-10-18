@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Crest" loading="lazy" src="/qo178.jpg"/>
+<img alt="QO Crest" loading="lazy" src="/qo178.jpg" width="150" height="149"/>
 
 Dear Misty Fans,
 

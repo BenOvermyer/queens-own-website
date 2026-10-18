@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<a href="http://www.amazon.com/exec/obidos/ASIN/0671878662/dragonlordsofdumA/"><img alt="" class="float-left" loading="lazy" src="/ml41.gif"/></a>Dear Misty Fans,
+<a href="http://www.amazon.com/exec/obidos/ASIN/0671878662/dragonlordsofdumA/"><img alt="" class="float-left" loading="lazy" src="/ml41.gif" width="88" height="140"/></a>Dear Misty Fans,
 
 Coming from BAEN in April is *Fiddler Fair*, advertised as "a command performance by Fantasy's grand diva". This paperback is $5.99.
 

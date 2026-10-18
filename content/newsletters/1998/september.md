@@ -24,9 +24,9 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="Left border" class="float-left" loading="lazy" src="/qo297.jpg"/> <img alt="Right border" class="float-right" loading="lazy" src="/qo298.jpg"/>
+<img alt="Left border" class="float-left" loading="lazy" src="/qo297.jpg" width="83" height="992"/> <img alt="Right border" class="float-right" loading="lazy" src="/qo298.jpg" width="92" height="989"/>
 
-<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/>
+<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg" width="774" height="99"/>
 
 ## The Official Mercedes Lackey Fan Club
 
@@ -50,7 +50,7 @@ Now for some news. If you look at the top of the newsletter, you will see that t
 
 Also, in case you didn't know, Judith is and always will be Herald Housemother, I prefer she keep that title as she has earned it. If you must call me by a title, please use Herald Seneschal, in the SCA it is considered the title of President, so it is fitting.
 
-<img alt="Left border" class="float-left" loading="lazy" src="/qo299.jpg"/> <img alt="Left border" class="float-right" loading="lazy" src="/qo299.jpg"/> For now, I'm having too much fun putting this together, so please forgive me if the newsletter is different than what you are used to. I love to play on the computer, and I love graphics … so … Please send any and all artwork you think I might like.
+<img alt="Left border" class="float-left" loading="lazy" src="/qo299.jpg" width="91" height="112"/> <img alt="Left border" class="float-right" loading="lazy" src="/qo299.jpg" width="91" height="112"/> For now, I'm having too much fun putting this together, so please forgive me if the newsletter is different than what you are used to. I love to play on the computer, and I love graphics … so … Please send any and all artwork you think I might like.
 
 Firebird Arts and Music carries all of Misty's books and lots of other merchandise. From Babylon 5 soundtracks to Larry's art prints. From music of Frank Hayes to porcelain jewelry. From kits for plastic knights to Robin Hood characters to doll-size costume patterns for Heralds & Shin'a'in. From Oneida Indian Nation T-shirts to Celtic design gift wraps. Visit their website at [http://firebirdarts.com](http://firebirdarts.com). If you want a "real" catalog, send $3 to Firebird Arts & Music, PO Box 3068, Portland OR 97294-3268. to place an order, call 1-800-752-0494. for more information, please use 1-503-255-5751. Firebird does not answer inquiries from prison addresses.
 

@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 5, No. 3 March 1, 2004
 
-<img alt="Thinking by Devin Harris" class="border-5" loading="lazy" src="/qo199.jpg"/>
+<img alt="Thinking by Devin Harris" class="border-5" loading="lazy" src="/qo199.jpg" width="239" height="341"/>
 
 Heyla, Misty fans!
 
@@ -50,7 +50,7 @@ Congrats to QO member Adept Starfeather k'Valdemar on the publication of her nov
 
 "This book is out in print! The print ISBN # is 1-59088-764-6, and if you give this number to your friendly neighborhood bookstore, they should be able to order it for you."
 
-<img alt="Lost Plots Cover" class="float-right" loading="lazy" src="/LostPlots.jpg"/>**We Recommend:** For those of you who have caught up on all of your Misty reading (Is that possible?) we suggest that you take a look at the Thursday Next series by Jasper Fforde. The first book in the series, *The Eyre Affair*, is available in paperback. People from the real world can jump into books, and characters from books can visit the real world. That's all good and fine, but it's Thursday's job to see that no one messes with the stories'such as when someone starts to change the plot of Jane Eyre. The second installment, *Lost in a Good Book*, just came out in paperback. In this rollicking romp through assorted masterpieces of literature, Miss Havisham (from *Great Expectations*) recruits Thursday to practice her detective skills in the book world. There's also the not so little problem that someone has tried to erase Thursday's real world husband from everyone's memory … Danya just finished reading the hardcover version of the third Thursday Next novel, *The Well of Lost Plots*. This series just keeps getting better! Thursday takes up residence in an unpublished novel to try to catch her breath and figure out how to get her husband back, but the dangers surrounding an attempt to introduce a new, technological way of reading books keeps her hopping from one novel after another while she's trying to pass her exams to become a full detective in the book world. You can find links to learn more about these amazing books through the Dragonlords' Bookstore at [http://www.dragonlordsnet.com/bksfjf.htm](https://dragonlords.fans/bksfjf.htm).
+<img alt="Lost Plots Cover" class="float-right" loading="lazy" src="/LostPlots.jpg" width="172" height="259"/>**We Recommend:** For those of you who have caught up on all of your Misty reading (Is that possible?) we suggest that you take a look at the Thursday Next series by Jasper Fforde. The first book in the series, *The Eyre Affair*, is available in paperback. People from the real world can jump into books, and characters from books can visit the real world. That's all good and fine, but it's Thursday's job to see that no one messes with the stories'such as when someone starts to change the plot of Jane Eyre. The second installment, *Lost in a Good Book*, just came out in paperback. In this rollicking romp through assorted masterpieces of literature, Miss Havisham (from *Great Expectations*) recruits Thursday to practice her detective skills in the book world. There's also the not so little problem that someone has tried to erase Thursday's real world husband from everyone's memory … Danya just finished reading the hardcover version of the third Thursday Next novel, *The Well of Lost Plots*. This series just keeps getting better! Thursday takes up residence in an unpublished novel to try to catch her breath and figure out how to get her husband back, but the dangers surrounding an attempt to introduce a new, technological way of reading books keeps her hopping from one novel after another while she's trying to pass her exams to become a full detective in the book world. You can find links to learn more about these amazing books through the Dragonlords' Bookstore at [http://www.dragonlordsnet.com/bksfjf.htm](https://dragonlords.fans/bksfjf.htm).
 
 Happy St. Patrick's Day!
 
@@ -226,7 +226,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Sea Treasure Face by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo201.jpg"/>
+<img alt="Sea Treasure Face by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo201.jpg" width="242" height="277"/>
 
 ## Member News:
 
@@ -340,7 +340,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Magic by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo200.jpg"/>
+<img alt="Magic by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo200.jpg" width="156" height="300"/>
 
 ### From Healer Adept Moonstar:
 

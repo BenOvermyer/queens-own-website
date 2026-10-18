@@ -14,7 +14,7 @@ revised = "1/5/2024"
 
 ## Fan Fiction
 
-<img alt="" loading="lazy" src="/qofanfic_files/ValdemarCrestsm.jpg"/>
+<img alt="" loading="lazy" src="/qofanfic_files/ValdemarCrestsm.jpg" width="242" height="283"/>
 
 ## The Fanzines
 

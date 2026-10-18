@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 6, No. 1 January 1, 2005
 
-<img alt="by Devin Harris" class="border-5" loading="lazy" src="/qo233.jpg"/>
+<img alt="by Devin Harris" class="border-5" loading="lazy" src="/qo233.jpg" width="386" height="500"/>
 
 Heyla, Misty fans!
 
@@ -92,7 +92,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo234.jpg"/>
+<img alt="by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo234.jpg" width="357" height="500"/>
 
 ## Member News:
 
@@ -154,7 +154,7 @@ By way of news from other fandoms, we were saddened to learn of the death of Dou
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo236.jpg"/>
+<img alt="by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo236.jpg" width="328" height="500"/>
 
 ### Collegium News:
 
@@ -204,7 +204,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo235.jpg"/>
+<img alt="by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo235.jpg" width="500" height="417"/>
 
 ### From Healer Adept Moonstar:
 

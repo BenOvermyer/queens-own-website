@@ -14,7 +14,7 @@ revised = "9/28/03"
 
 Members of Queen's Own are granted permission to display this seal on their websites and personal computers. All other use of this seal and permission for nonmembers to display the seal are expressly denied. The original artwork is ©2003 Hope Nickel, who has granted QO permission for the use of this art in our seal.
 
-<img alt="Queen's Own Seal, 2003-2004" loading="lazy" src="/qoseal.jpg"/>
+<img alt="Queen's Own Seal, 2003-2004" loading="lazy" src="/qoseal.jpg" width="245" height="270"/>
 
 ## Instructions
 
@@ -23,7 +23,7 @@ Members of Queen's Own are granted permission to display this seal on their webs
 
   ```
   <!-- Start QO Seal HTML Fragment -->
-  <a href="/"><img src="qoseal.jpg" border=0 alt="Queen's Own Seal, 2003-2004"></a>
+  <a href="/"><img src="qoseal.jpg" border=0 alt="Queen's Own Seal, 2003-2004" width="245" height="270"></a>
   <!-- End QO Seal HTML Fragment -->
   ```
 3. E-mail Herald-Mage Adept Danya Winterborn at [shashtah@gmail.com](mailto:shashtah@gmail.com) once the image and HTML fragment are in place. (Make sure you include the URL of the page where the award appears!) She will visit the page. If the image and link are in place properly, she will then add you to the link list (below).

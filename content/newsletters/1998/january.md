@@ -24,9 +24,9 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
-<img alt="Oathblood" class="float-right" loading="lazy" src="/ml10.gif"/> Dear Misty Fans,
+<img alt="Oathblood" class="float-right" loading="lazy" src="/ml10.gif" width="88" height="140"/> Dear Misty Fans,
 
 Coming in April from DAW: *Oathblood*, an all-new Tarma and Kethry novel plus Misty's complete col'lected short stories of these two brave sisters of sword and spell.
 
@@ -100,7 +100,7 @@ Look for Anne McCaffrey's *The Masterharper of Pern* this month, Barbara Hambly'
 
 [Ed. note 2005: Content withheld.]
 
-<img alt="Border Art" loading="lazy" src="/qo279.jpg"/>
+<img alt="Border Art" loading="lazy" src="/qo279.jpg" width="684" height="38"/>
 
 Queen's Own [Ed. note 2005: Out-of-date content withheld.], for 9 issues of the newsletter. Sending out only nine issues per year will let me keep the dues at [Ed. note 2005: Out-of-date content withheld.] and still nearly break even. Please make checks payable to Queen's Own in US funds only--my bank charges me $10 to cash a foreign currency cheque. You may pay [Ed. note 2005: Out-of-date content withheld.] if you wish. The $8 fee covers the cost of printing and mailing; I have no objection to your sharing a newsletter. Check the date on your address label to see when your membership ends.
 

@@ -24,9 +24,9 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
-<img alt="Owlflight" class="float-right" loading="lazy" src="/ml21.gif"/> Dear Misty Fans,
+<img alt="Owlflight" class="float-right" loading="lazy" src="/ml21.gif" width="85" height="140"/> Dear Misty Fans,
 
 Coming from DAW by October (check your bookstores next month) is *Owlflight*, another tale of Valdemar. The book has a Jody Lee cover and interior illustrations by Larry Dixon.
 
@@ -56,7 +56,7 @@ You can order all of Misty's books from Firebird as well as an *Arrows of the Qu
 
 Send $3 for a complete Firebird catalog or check out the on-line catalog at [Ed. note 2005: Out-of-date info withheld.] for up to date product information. E-mail [Ed. note 2005: Out-of-date info withheld.]. Firebird's address is Firebird Arts & Music of Oregon Inc. [Ed. note 2005: Out-of-date info withheld.].
 
-<img alt="QO Logo" class="float-right" loading="lazy" src="/qo274.jpg"/>
+<img alt="QO Logo" class="float-right" loading="lazy" src="/qo274.jpg" width="200" height="1017"/>
 
 ## MEMBER NEWS:
 

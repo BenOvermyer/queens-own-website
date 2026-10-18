@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 5, No. 9 September 1, 2004
 
-<img alt="Griffon by Jan Tallevast" class="border-5" loading="lazy" src="/qo218.jpg"/>
+<img alt="Griffon by Jan Tallevast" class="border-5" loading="lazy" src="/qo218.jpg" width="245" height="374"/>
 
 Heyla, Misty fans!
 
@@ -246,7 +246,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Horse Lying Down by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo219.jpg"/>
+<img alt="Horse Lying Down by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo219.jpg" width="425" height="322"/>
 
 ## Member News:
 
@@ -358,7 +358,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Lisa and Tiger by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo220.jpg"/>
+<img alt="Lisa and Tiger by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo220.jpg" width="398" height="310"/>
 
 ### From Healer Adept Moonstar:
 

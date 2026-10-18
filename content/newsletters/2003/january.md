@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 4, No. 1 January 1, 2003
 
-<img alt="Herald Kevyn by J.J. Routhier" class="border-5" loading="lazy" src="/qo143.jpg"/>
+<img alt="Herald Kevyn by J.J. Routhier" class="border-5" loading="lazy" src="/qo143.jpg" width="259" height="375"/>
 
 Heyla, Misty fans!
 
@@ -208,7 +208,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Horse by J.J. Routhier" class="border-5 float-left" loading="lazy" src="/qo144.jpg"/>
+<img alt="Horse by J.J. Routhier" class="border-5 float-left" loading="lazy" src="/qo144.jpg" width="309" height="292"/>
 
 ## Member News:
 
@@ -241,7 +241,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. If anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable).
 
-<img alt="Horse Love by J.J. Routhier" class="border-5 float-right" loading="lazy" src="/qo145.jpg"/>
+<img alt="Horse Love by J.J. Routhier" class="border-5 float-right" loading="lazy" src="/qo145.jpg" width="254" height="321"/>
 
 ## Other Fandoms:
 

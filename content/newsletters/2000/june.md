@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 1, No. 2 June 1, 2000
 
-<img alt="Aerolyn and Companion Kyler by Anthony Barton" class="border-5" loading="lazy" src="/qopic1.jpg"/>
+<img alt="Aerolyn and Companion Kyler by Anthony Barton" class="border-5" loading="lazy" src="/qopic1.jpg" width="422" height="326"/>
 
 Heyla, Misty fans!
 
@@ -61,7 +61,7 @@ Many of you know Herald-Mage Master Danya and I from work we have done in other 
 
 ## Ren Faires:
 
-<img alt="Terrill Choosing Danya by Laura Cameron" class="border-2" loading="lazy" src="/cc3a.gif"/>
+<img alt="Terrill Choosing Danya by Laura Cameron" class="border-2" loading="lazy" src="/cc3a.gif" width="247" height="237"/>
 
 Here are the faires we know about that are happening in June. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
@@ -147,7 +147,7 @@ POLYCON XVIII. E-mail: [polycon-info@polycon.punk.net](mailto:polycon-info@polyc
 
 SLUG-A-THON 22: A GAMING CONVENTION. E-mail: [slugathon@slugathon.com](mailto:slugathon@slugathon.com). Website: [http://www.slugathon.com](http://www.slugathon.com/). Site Address: Santa Clara Convention Center, 5001 Great America Parkway, Santa Clara, CA. Dates: 6/17/00.
 
-<img alt="Compass Rose Logo by Laura Cameron" class="border-3" loading="lazy" src="/comprose.jpg"/>
+<img alt="Compass Rose Logo by Laura Cameron" class="border-3" loading="lazy" src="/comprose.jpg" width="336" height="336"/>
 
 ## Member News:
 
@@ -171,7 +171,7 @@ Note: **Arrows OnLine**has declared on its AOL message boards that it is no long
 
 ## Other Fandoms:
 
-<img alt="Original Sold at Norwescon 1998--by Laura Cameron" class="border-3" loading="lazy" src="/fwarrior.jpg"/>
+<img alt="Original Sold at Norwescon 1998--by Laura Cameron" class="border-3" loading="lazy" src="/fwarrior.jpg" width="378" height="516"/>
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
@@ -185,7 +185,7 @@ Note: **Arrows OnLine**has declared on its AOL message boards that it is no long
 
 ### Collegium News:
 
-<img alt="Danya and Yarik Riding to Save Kaylan by Laura Cameron" class="border-3" loading="lazy" src="/cc19.gif"/>
+<img alt="Danya and Yarik Riding to Save Kaylan by Laura Cameron" class="border-3" loading="lazy" src="/cc19.gif" width="566" height="152"/>
 
 We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in. You can find these handouts online at [Persona handouts and submission instructions](/persona-handouts/).
 
@@ -198,7 +198,7 @@ All personae materials should be sent to the QO address.
 - Welcome, **Herald Lisbeth Maye**, Chosen by Dirrenia! **Sara Dougherty** wrote about her persona and her best friend, wrote a poem about Valdemar and the Mage Winds trilogy, and drew a map of Lisbeth's village.
 - Congratulations to **Herald-Mage Danya Winterborn**for earning the rank of Herald-Mage Master! **L.A. Malcor** wrote a 20-page paper on the Crusades from a Christian point of view, wrote a 20-page paper on how magic on Velgarth is similar to nuclear fission/fusion, and learned the following stage magic tricks: Hat and Egg, Appearing/Multiplying Ping Pong Balls, Escape from Ropes and a card trick ("The Four Heralds").
 
-<img alt="Kyler by Anthony Barton" class="border-5" loading="lazy" src="/qopic2.jpg"/>
+<img alt="Kyler by Anthony Barton" class="border-5" loading="lazy" src="/qopic2.jpg" width="324" height="399"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 
@@ -214,7 +214,7 @@ As fans, I strongly urge you to go to Ren Faires and Conventions (and help work 
 
 Finally, a plea for patronage &lt;g>. The Queen's Own site is hosted by Dragonlords of Dumnonia ([http://www.dragonlordsnet.com](https://dragonlords.fans/index.html)), and the Dragonlords Bookstore ([http://www.dragonlordsnet.com/bkstore.htm](https://dragonlords.fans/bkstore.htm)) is the means by which Dragonlords pays for bandwidth, the PO Box, webspace, postage and the zillion other little expenses that go into running a fan club. A portion of every purchase made through the Dragonlords Bookstore goes to help defray these costs. So when you buy books, videos, CDs, etc., please consider doing so through the Dragonlords Bookstore. You'll be helping to support the group that is financially supporting Queen's Own.
 
-<img alt="Kaylan and Adele by Laura Cameron" class="border-3" loading="lazy" src="/cc12.gif"/>
+<img alt="Kaylan and Adele by Laura Cameron" class="border-3" loading="lazy" src="/cc12.gif" width="464" height="377"/>
 
 ## Fan Messages:
 
@@ -227,7 +227,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 - From Healer Adept Moonstar. To Eric: Thank you very much for the copies of April 91-October 95 newsletters! Is there any way I can repay you?
 
-<img alt="Windrider by Anthony Barton" class="border-5" loading="lazy" src="/qopic3.jpg"/>
+<img alt="Windrider by Anthony Barton" class="border-5" loading="lazy" src="/qopic3.jpg" width="389" height="383"/>
 
 ## Personals:
 

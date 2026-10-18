@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 1, No. 8 December 1, 2000
 
-<img alt="Herald Auralynn and Sabyll Riding Circuit by Jan Tallevast" class="border-3" loading="lazy" src="/qo40.jpg"/>
+<img alt="Herald Auralynn and Sabyll Riding Circuit by Jan Tallevast" class="border-3" loading="lazy" src="/qo40.jpg" width="360" height="415"/>
 
 Heyla, Misty fans!
 
@@ -54,7 +54,7 @@ Misty
 
 ## Ren Faires:
 
-<img alt="Herald Auralynn by Jan Tallevast" class="border-2 float-left" loading="lazy" src="/qo41.jpg"/>
+<img alt="Herald Auralynn by Jan Tallevast" class="border-2 float-left" loading="lazy" src="/qo41.jpg" width="270" height="342"/>
 
 Here are the faires we know about that are happening in December. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
@@ -78,7 +78,7 @@ INGLESIDE RENAISSANCE FAIRE AND CHRISTMAS CRAFT BAZAAR. E-mail: [wench500@hotmai
 
 For additional Ren Faire information, visit the Renaissance Faire Homepage at [http://www.renfaire.com/](http://www.renfaire.com/) and the Renaissance Magazine site at [http://www.renaissancemagazine.com](http://www.renaissancemagazine.com).
 
-<img alt="Companions and Friends by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo42.jpg"/>
+<img alt="Companions and Friends by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo42.jpg" width="300" height="318"/>
 
 ## Conventions:
 
@@ -138,7 +138,7 @@ HOGMANAYCON. E-mail: [andy.nimmo@net.ntl.com](mailto:andy.nimmo@net.ntl.com). We
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Frostbite by Jan Tallevast" class="border-3" loading="lazy" src="/qo43.jpg"/>
+<img alt="Frostbite by Jan Tallevast" class="border-3" loading="lazy" src="/qo43.jpg" width="405" height="311"/>
 
 ## Member News:
 
@@ -151,7 +151,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [Collegium Chronicles](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
 - **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([shashtah@gmail.com](mailto:shashtah@gmail.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [Vanyel Fan Club](/vanyel-fan-club/).
 
-<img alt="Flying Gryphon by Jan Tallevast" class="border-3 float-right" loading="lazy" src="/qo44.jpg"/>
+<img alt="Flying Gryphon by Jan Tallevast" class="border-3 float-right" loading="lazy" src="/qo44.jpg" width="358" height="469"/>
 
 ### Zines and Newsletters:
 
@@ -161,12 +161,12 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Dreamscape***. Editor: Laura Cameron, Pacific Northwest Collegium. E-mail: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). A 'zine totally devoted to fantasy art and artists is looking for submissions: black & white AND color. DREAMSCAPE will feature beautiful artwork, articles, Interviews with professional artists and other goodies pertaining to the fantasy art world. The frequency--and size of the 'zine depends on the amount of submissions and interest. The first issue will be out in the Spring of 2001! Approx. 20 pp., $10. Contributors get a $2 discount! If you have ideas, articles, artwork, and general inquiries, please send them to Laura Cameron at the above address (Please include a SASE when requesting information via snail mail.). Please stay tuned for more information!
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 
-  <img alt="Merry X-mas from GG" class="border-5" loading="lazy" src="/qoxmasgg.jpg"/>
+  <img alt="Merry X-mas from GG" class="border-5" loading="lazy" src="/qoxmasgg.jpg" width="421" height="281"/>
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
 
 ## Other Fandoms:
 
-<img alt="Purple Gryphon by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo46.jpg"/>
+<img alt="Purple Gryphon by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo46.jpg" width="320" height="388"/>
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
@@ -189,7 +189,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 - Welcome to **Herald Auralynn "NyteShadow" Trevana'sedrin**, Chosen by Sabyll and Gifted with Fetching, Mindhealing, and Animal Mindspeech. In addition to writing about her family and friends, **Jan Tallevast** submitted four pieces of artwork, pictures of her herald and companion outfits she made, wrote a poem, learned the care of horses, sent us several recipes, has a brown belt in Karate, and volunteers with Ellis County Sheriff Association's Battered Women's Fund, Computers for Kids, Hybrid Wolf rescue and is trying to start an Adopt an Elder program in her area. She also has a help page for child molestation and rape survivors.
 
-<img alt="Gryphonlet by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo45.jpg"/>
+<img alt="Gryphonlet by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo45.jpg" width="268" height="284"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 
@@ -211,7 +211,7 @@ Danya
 
 ## Fan Messages:
 
-<img alt="Kearie by Jan Tallevast" class="border-3 float-right" loading="lazy" src="/qo47.jpg"/>
+<img alt="Kearie by Jan Tallevast" class="border-3 float-right" loading="lazy" src="/qo47.jpg" width="273" height="409"/>
 
 The newsletter is routinely posted to the Net. If you are concerned about your address falling into unfriendly hands, don't place a fan message! You may answer fan messages without ever placing one yourself. The editors reserve the right to edit--and shorten!--all messages. (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 

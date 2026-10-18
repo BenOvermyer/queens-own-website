@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 1, No. 3 July 1, 2000
 
-<img alt="Companion by Laura Felton" class="border-5" loading="lazy" src="/qopic4.jpg"/>
+<img alt="Companion by Laura Felton" class="border-5" loading="lazy" src="/qopic4.jpg" width="326" height="447"/>
 
 Heyla, Misty fans!
 
@@ -69,7 +69,7 @@ This month it's my turn to play interviewer. It is my pleasure to introduce you 
 
 ## Ren Faires:
 
-<img alt="Companion 2 by Laura Felton" class="border-2" loading="lazy" src="/qopic6.jpg"/>
+<img alt="Companion 2 by Laura Felton" class="border-2" loading="lazy" src="/qopic6.jpg" width="267" height="335"/>
 
 Here are the faires we know about that are happening in July. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
@@ -153,7 +153,7 @@ WORLDCON (Chicon2000). Website: [http://www.chicon.org](http://www.chicon.org). 
 
 STERLING GAME CON BY SGR. E-mail: [dweaver@integrityonline4.com](mailto:dweaver@integrityonline4.com). Where: Spokane. Dates: 8/22/00 - 8/23/00.
 
-<img alt="Tayledras by Laura Felton" class="border-3" loading="lazy" src="/qopic7.jpg"/>
+<img alt="Tayledras by Laura Felton" class="border-3" loading="lazy" src="/qopic7.jpg" width="267" height="356"/>
 
 ## Member News:
 
@@ -175,7 +175,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ## Other Fandoms:
 
-<img alt="Mercenary by Laura Felton" class="border-3" loading="lazy" src="/qopic8.jpg"/>
+<img alt="Mercenary by Laura Felton" class="border-3" loading="lazy" src="/qopic8.jpg" width="262" height="349"/>
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
@@ -206,7 +206,7 @@ Remember your stories need a release sent to High Flight. Always make copies of 
 
 In short, keep writing! I look forward to seeing your work.
 
-<img alt="Companion by Aurora Nelson" class="border-3" loading="lazy" src="/qopic9.jpg"/>
+<img alt="Companion by Aurora Nelson" class="border-3" loading="lazy" src="/qopic9.jpg" width="200" height="301"/>
 
 ## Fan Messages:
 
@@ -218,7 +218,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
-<img alt="Companion Rolling in Companion's Field by Aurora Nelson" class="border-3" loading="lazy" src="/qopic5.jpg"/>
+<img alt="Companion Rolling in Companion's Field by Aurora Nelson" class="border-3" loading="lazy" src="/qopic5.jpg" width="331" height="134"/>
 
 ## Personals:
 

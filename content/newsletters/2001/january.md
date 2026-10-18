@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 2, No. 1 January 1, 2001
 
-<img alt="Zahneel in Flight by Jan Tallevast" class="border-3" loading="lazy" src="/qo48.jpg"/>
+<img alt="Zahneel in Flight by Jan Tallevast" class="border-3" loading="lazy" src="/qo48.jpg" width="320" height="407"/>
 
 Heyla, Misty fans!
 
@@ -67,7 +67,7 @@ Thanks for all of your excellent ideas about directions that we can take the clu
 
   ## Ren Faires:
 
-  <img alt="Tayledras Scout and Kyree by Jan Tallevast" class="border-2 float-left" loading="lazy" src="/qo49.jpg"/>
+  <img alt="Tayledras Scout and Kyree by Jan Tallevast" class="border-2 float-left" loading="lazy" src="/qo49.jpg" width="335" height="435"/>
 
   Here are the faires we know about that are happening in January. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
@@ -83,7 +83,7 @@ Thanks for all of your excellent ideas about directions that we can take the clu
 
   For additional Ren Faire information, visit the Renaissance Faire Homepage at [http://www.renfaire.com/](http://www.renfaire.com/) and the Renaissance Magazine site at [http://www.renaissancemagazine.com](http://www.renaissancemagazine.com).
 
-  <img alt="Skandranon by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo50.jpg"/>
+  <img alt="Skandranon by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo50.jpg" width="262" height="373"/>
 
   ## Conventions:
 
@@ -219,7 +219,7 @@ Thanks for all of your excellent ideas about directions that we can take the clu
 
   For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-  <img alt="Sabyll's Nightmare by Jan Tallevast" class="border-3" loading="lazy" src="/qo51.jpg"/>
+  <img alt="Sabyll's Nightmare by Jan Tallevast" class="border-3" loading="lazy" src="/qo51.jpg" width="300" height="294"/>
 
   ## Member News:
 
@@ -232,7 +232,7 @@ Thanks for all of your excellent ideas about directions that we can take the clu
   - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [Collegium Chronicles](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
   - **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([shashtah@gmail.com](mailto:shashtah@gmail.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [Vanyel Fan Club](/vanyel-fan-club/).
 
-  <img alt="Sabyll's Head by Jan Tallevast" class="border-3 float-right" loading="lazy" src="/qo52.jpg"/>
+  <img alt="Sabyll's Head by Jan Tallevast" class="border-3 float-right" loading="lazy" src="/qo52.jpg" width="276" height="360"/>
 
   ### Zines and Newsletters:
 
@@ -245,7 +245,7 @@ Thanks for all of your excellent ideas about directions that we can take the clu
 
   ## Other Fandoms:
 
-  <img alt="Shan by Jan Tallevast" class="border-5" loading="lazy" src="/qo54.jpg"/>
+  <img alt="Shan by Jan Tallevast" class="border-5" loading="lazy" src="/qo54.jpg" width="325" height="400"/>
 
   - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
   - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
@@ -262,7 +262,7 @@ Thanks for all of your excellent ideas about directions that we can take the clu
 
   ### Collegium News:
 
-  <img alt="Sabyll and Herald Auralynn by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo53.jpg"/>We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in. You can find these handouts online at [Persona handouts and submission instructions](/persona-handouts/).
+  <img alt="Sabyll and Herald Auralynn by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo53.jpg" width="225" height="280"/>We have individual handouts for aspiring Heralds, Healers, Bards, Blues, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald or for a Kal'enedral if you are already a Shin'a'in. You can find these handouts online at [Persona handouts and submission instructions](/persona-handouts/).
 
   You need a release form (online at [Release form instructions](/release-form-instructions/)) if you write a story set in Misty's worlds or using any of her characters. You do not need a release for a character sketch, poem or filk. All Misty wants to do is protect her characters and her worlds. Send the release form (you do NOT need to include the story) to Misty c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017. Do NOT include the *original* of the release form with your persona material; send it to Misty. Send a *copy* to us.
 
@@ -284,7 +284,7 @@ Thanks for all of your excellent ideas about directions that we can take the clu
 
   ## Fan Messages:
 
-  <img alt="Daja by Jan Tallevast" class="border-3 float-left" loading="lazy" src="/qo55.jpg"/>
+  <img alt="Daja by Jan Tallevast" class="border-3 float-left" loading="lazy" src="/qo55.jpg" width="268" height="357"/>
 
   The newsletter is routinely posted to the Net. If you are concerned about your address falling into unfriendly hands, don't place a fan message! You may answer fan messages without ever placing one yourself. The editors reserve the right to edit--and shorten!--all messages. (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 

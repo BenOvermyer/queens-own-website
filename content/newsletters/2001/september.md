@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 2, No. 9 September 1, 2001
 
-<img alt="Castle (on Moonstar's closet doors) by Laura Cameron" class="border-3" loading="lazy" src="/qo92.jpg"/>
+<img alt="Castle (on Moonstar's closet doors) by Laura Cameron" class="border-3" loading="lazy" src="/qo92.jpg" width="600" height="348"/>
 
 Heyla, Misty fans!
 
@@ -47,7 +47,7 @@ Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 9. What other things besides Queen's Own occupy your time?
 10. What types of things would you like to see Queen's Own do in the coming years?
 
-<img alt="Danya Cover by Laura Cameron" class="border-3 float-left" loading="lazy" src="/qo93.jpg"/>
+<img alt="Danya Cover by Laura Cameron" class="border-3 float-left" loading="lazy" src="/qo93.jpg" width="322" height="425"/>
 
 ## Ren Faires:
 
@@ -381,7 +381,7 @@ Arizona
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Dragon's Eye by Laura Cameron" class="border-3 float-right" loading="lazy" src="/qo94.jpg"/>
+<img alt="Dragon's Eye by Laura Cameron" class="border-3 float-right" loading="lazy" src="/qo94.jpg" width="250" height="225"/>
 
 ## Member News:
 
@@ -432,7 +432,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 We have no new personae to announce at this time (although three people are very close to approval). Several former members, however, have returned. Check out [Persona directory](/persona-directory/) as well as our Delphi forum to see who has reappeared! (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 
-<img alt="Midsummer Night Rings by Laura Cameron" class="border-3 float-left" loading="lazy" src="/qo95.jpg"/>
+<img alt="Midsummer Night Rings by Laura Cameron" class="border-3 float-left" loading="lazy" src="/qo95.jpg" width="395" height="270"/>
 
 ### From Healer Adept Moonstar:
 

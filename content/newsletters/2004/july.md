@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 5, No. 7 July 1, 2004
 
-<img alt="Horse Head by Jan Tellevast" class="border-5" loading="lazy" src="/qo211.jpg"/>
+<img alt="Horse Head by Jan Tellevast" class="border-5" loading="lazy" src="/qo211.jpg" width="301" height="365"/>
 
 Heyla, Misty fans!
 
@@ -212,7 +212,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Dragonflight by Jan Tellevast" class="border-5 float-right" loading="lazy" src="/qo212.gif"/>
+<img alt="Dragonflight by Jan Tellevast" class="border-5 float-right" loading="lazy" src="/qo212.gif" width="384" height="295"/>
 
 ## Member News:
 
@@ -324,7 +324,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Mely by Jan Tellevast" class="border-5 float-right" loading="lazy" src="/qo213.jpg"/>
+<img alt="Mely by Jan Tellevast" class="border-5 float-right" loading="lazy" src="/qo213.jpg" width="341" height="422"/>
 
 ### From Healer Adept Moonstar:
 

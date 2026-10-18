@@ -24,9 +24,9 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo276.jpg"/> Dear Misty Fans,
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo276.jpg" width="164" height="2006"/> Dear Misty Fans,
 
 Watch for Misty's hardcover book, *Four and Twenty Blackbirds*. It has a December release date but may be shipped earlier. *Four and Twenty Blackbirds* is a *Bardic Voices* book from the same universe as *The Lark and the Wren*, *The Robin and the Kestrel*, *The Eagle and the Nightingales*, and the 3-in-1 volume, *The Free Bards*.
 
@@ -126,7 +126,7 @@ Stamps For Life: Be part of the ultimate recycling project. Your old/used postag
 
 PEACEMAIL is a good-news letter from the Grafton Center for Peace. For a sample issue, send a SASE to Tasha Halpert [Ed. note 2005: Out-of-date info withheld.]. Suggested subscriptions for six issues are $6/US and $10/Canadian or overseas.
 
-<img alt="Border Art" class="float-left" loading="lazy" src="/qo277.jpg"/>
+<img alt="Border Art" class="float-left" loading="lazy" src="/qo277.jpg" width="181" height="2005"/>
 
 ## COLLEGIUM NEWS:
 

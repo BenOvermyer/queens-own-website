@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo229.jpg"/>The dedication in *Winds of Change* reads "Dedicated to the Tayledras and Heralds of our world: police, fire fighters, and rescue workers everywhere, whose accomplishments in everyday life outdo anything in fiction." Added to that list, I think, should be Misty and Larry themselves. Almost immediately after Hurricane Andrew hit Florida. Larry posted the following on GEnie:
+<img alt="Border art" class="float-right" loading="lazy" src="/qo229.jpg" width="78" height="1078"/>The dedication in *Winds of Change* reads "Dedicated to the Tayledras and Heralds of our world: police, fire fighters, and rescue workers everywhere, whose accomplishments in everyday life outdo anything in fiction." Added to that list, I think, should be Misty and Larry themselves. Almost immediately after Hurricane Andrew hit Florida. Larry posted the following on GEnie:
 
 "Misty and I had 381 Ibs. of medical supplies and goods in the air to Florida within 16 hours when this disaster hit. The SCA was able to put together a delivery conduit directly into the hardest-hit areas of Homestead. A 7-truck convoy of collected goods was there for people that had yet to see as much as a policeman or soldier in the remains of their neighborhoods. And you've all followed the saga of our floods, tornado, and the loss of my studio here; I spent all of my studio budget on the goods we have sent and are sending to Florida.
 

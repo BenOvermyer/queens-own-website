@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 1, No. 6 October 1, 2000
 
-<img alt="Sword Woman by Herald Alora" class="border-3" loading="lazy" src="/qo29.jpg"/>
+<img alt="Sword Woman by Herald Alora" class="border-3" loading="lazy" src="/qo29.jpg" width="224" height="311"/>
 
 Heyla, Misty fans!
 
@@ -63,7 +63,7 @@ This month we continue series of interviews with the editors of the various Quee
 
 ## Ren Faires:
 
-<img alt="Crossed Swords by Herald Alora" class="border-2" loading="lazy" src="/qo24.jpg"/>
+<img alt="Crossed Swords by Herald Alora" class="border-2" loading="lazy" src="/qo24.jpg" width="148" height="124"/>
 
 Here are the faires we know about that are happening in October. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
@@ -145,7 +145,7 @@ WEST TEXAS RENAISSANCE FAIRE. E-mail: [renfaire@camalott.com](mailto:renfaire@ca
 
 For additional Ren Faire information, visit the Renaissance Faire Homepage at [http://www.renfaire.com/](http://www.renfaire.com/) and the Renaissance Magazine site at [http://www.renaissancemagazine.com](http://www.renaissancemagazine.com).
 
-<img alt="Woman Border by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo30.jpg"/>
+<img alt="Woman Border by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo30.jpg" width="101" height="590"/>
 
 ## Conventions:
 
@@ -163,7 +163,7 @@ GAYLAXICON 2000. Website: [http://www.lambdasf.org/g2k/index.html](http://www.la
 
 INCON 2000. Website: http://incon.skywalk.com/. Site Address: Spokane Shilo Hotel, E 923 Third Avenue, Spokane, WA 99202-2215. Dates: 10/27/00 - 10/29/00.
 
-<img alt="Mage by Herald Alora" class="border-3" loading="lazy" src="/qo26.jpg"/>
+<img alt="Mage by Herald Alora" class="border-3" loading="lazy" src="/qo26.jpg" width="123" height="198"/>
 
 ## Member News:
 
@@ -175,7 +175,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [Collegium Chronicles](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery. **PNWC Members:** Yes, indeed, Vol.9 issue 4 WILL be out in late August/early September, with another issue immediately following. Mundane worldly issues have gobbled up my time and energies these past few months, making it impossible to devote to other projects. Never fear--PNWC and the *Chronicles* are still alive and kicking! **Laura/Moonglade**, editor.
 
-<img alt="Companion by Herald Alora" class="border-3" loading="lazy" src="/qo25.jpg"/>
+<img alt="Companion by Herald Alora" class="border-3" loading="lazy" src="/qo25.jpg" width="211" height="194"/>
 
 ### Zines and Newsletters:
 
@@ -188,7 +188,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ## Other Fandoms:
 
-<img alt="Dragon by Herald Alora" class="border-5" loading="lazy" src="/qo28.jpg"/>
+<img alt="Dragon by Herald Alora" class="border-5" loading="lazy" src="/qo28.jpg" width="245" height="175"/>
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
@@ -201,7 +201,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Melanie Rawn: **Pandemonium**- The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira, P.O. Box 18A146 , Los Angeles, CA 90018.
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Gem by Herald Alora" class="border-3" loading="lazy" src="/qo27.jpg"/>
+<img alt="Gem by Herald Alora" class="border-3" loading="lazy" src="/qo27.jpg" width="129" height="179"/>
 
 ### Collegium News:
 
@@ -214,7 +214,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 - Welcome, **Tayledras Mage Silentheart k'Chona**. Her bondbird is a black Northern Hawk Owl named Ty'lire, and she has Mindspeech with her bondbird only. **Michelle Brumley** wrote about her persona and friends, drew a picture of Silentheart, and drew a picture of Ty'lire.
 - Welcome, **Tayledras Healer Adept Crystalwren k'Sheyna**. Her bondbird is a Grey Goshawk named Perdue, and she has Mindspeech with her bondbird and non-human races. **Caitlyn Wilkinson** wrote about her persona and friends, drew a picture of Crystalwren, and drew a picture of Perdue.
 
-<img alt="Tayledras Border by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo31.jpg"/>
+<img alt="Tayledras Border by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo31.jpg" width="99" height="457"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 

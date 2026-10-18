@@ -50,6 +50,9 @@ for path, soup in documents.items():
     duplicate_ids = audit_html.duplicate_ids(soup)
     if duplicate_ids:
         errors.append(f'{path.relative_to(output)}: duplicate ids {duplicate_ids}')
+    dimensionless = audit_html.images_without_dimensions(soup)
+    if dimensionless:
+        errors.append(f'{path.relative_to(output)}: images without width/height {dimensionless[:3]}')
     for node in soup.select('[href], [src]'):
         value = node.get('href', node.get('src', ''))
         url = urlsplit(value)

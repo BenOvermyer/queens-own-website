@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo253.jpg"/> In the last newsletter I told you of the George Alec Effinger Medical Fund raffle. This is my last chance to remind you to send in your donation; the drawing is Valentine's Day. First prize is airfare from anywhere in the US and most of Canada to Fantasy Worlds Festival '94 in Berkeley, California in April. Membership in the con is included. Second prize is a blue moonstone choker, donated by Misty. Third prize is a Tempest T-shirt, autographed by the members of Tempest and Misty and Larry. Fourth prize is *Sword and Sorceress X*, autographed personally for the winner by Marion Zimmer Bradley, Misty, and every author at the con. These prizes are only for Queen's Own members and their friends.
+<img alt="Border art" class="float-right" loading="lazy" src="/qo253.jpg" width="113" height="998"/> In the last newsletter I told you of the George Alec Effinger Medical Fund raffle. This is my last chance to remind you to send in your donation; the drawing is Valentine's Day. First prize is airfare from anywhere in the US and most of Canada to Fantasy Worlds Festival '94 in Berkeley, California in April. Membership in the con is included. Second prize is a blue moonstone choker, donated by Misty. Third prize is a Tempest T-shirt, autographed by the members of Tempest and Misty and Larry. Fourth prize is *Sword and Sorceress X*, autographed personally for the winner by Marion Zimmer Bradley, Misty, and every author at the con. These prizes are only for Queen's Own members and their friends.
 
 To enter, write your name and address and phone number on as many 3 by 5 pieces of paper as you like. Include a dollar for each "ticket" you write, and mail to [Editors' Note 2005: Out-of-date information withheld.]. Checks are to be made payable to The George Alec Eftinger Medical Fund. Mail as soon as possible so your tickets are there before Valentine's Day.
 

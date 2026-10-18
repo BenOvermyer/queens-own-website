@@ -10,7 +10,7 @@ topic = "community"
 canonical_path = "/vanyel-fan-club/chat/"
 +++
 
-<img alt="" loading="lazy" src="/vfcmail.jpg"/>
+<img alt="" loading="lazy" src="/vfcmail.jpg" width="567" height="128"/>
 
 You can join the Vanyel Fan Club by subscribing to the VFC List.
 

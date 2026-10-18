@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 6, No. 4 April 1, 2005
 
-<img alt="Smoke by Devin Harris" class="border-5" loading="lazy" src="/qo245.jpg"/>
+<img alt="Smoke by Devin Harris" class="border-5" loading="lazy" src="/qo245.jpg" width="500" height="489"/>
 
 Heyla, Misty fans!
 
@@ -167,7 +167,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Male 10 by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo246.jpg"/>
+<img alt="Male 10 by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo246.jpg" width="355" height="500"/>
 
 ## Member News:
 
@@ -227,7 +227,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Musicians by Laura Felton" class="border-5 float-right" loading="lazy" src="/qo247.jpg"/>
+<img alt="Musicians by Laura Felton" class="border-5 float-right" loading="lazy" src="/qo247.jpg" width="306" height="325"/>
 
 ### Collegium News:
 

@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 5, No. 2 February 1, 2004
 
-<img alt="Moonlight Walk by Devin Harris" class="border-5" loading="lazy" src="/qo197.jpg"/>
+<img alt="Moonlight Walk by Devin Harris" class="border-5" loading="lazy" src="/qo197.jpg" width="247" height="350"/>
 
 Heyla, Misty fans!
 
@@ -64,7 +64,7 @@ Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
-<img alt="Fire Goddess with Phoenix by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo195.jpg"/>
+<img alt="Fire Goddess with Phoenix by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo195.jpg" width="235" height="413"/>
 
 ## Ren Faires:
 
@@ -246,7 +246,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Hatchling by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo198.jpg"/>
+<img alt="Hatchling by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo198.jpg" width="367" height="275"/>
 
 ## Member News:
 
@@ -356,7 +356,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Greet the Dawn by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo196.jpg"/>
+<img alt="Greet the Dawn by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo196.jpg" width="250" height="318"/>
 
 ### From Herald-Mage Adept Danya Winterborn:
 

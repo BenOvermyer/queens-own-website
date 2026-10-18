@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo182.jpg"/>
+<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo182.jpg" width="896" height="99"/>
 
 ## The Official Mercedes Lackey Fan Club
 
-<img alt="Snowflake" class="float-left" loading="lazy" src="/qo184.jpg"/><img alt="Snowflake Border" class="float-right" loading="lazy" src="/qo185.jpg"/>Let's start this issue out with a few explanations. I know a lot of you must be wondering why the newsletter hasn't been received since September's issue. This was due to my com'puter crashing and refusing to work for over two months. Let me tell you, I was pretty miffed about it. I just bought this computer before I started Queen's Own (Sept. 1998). Af'ter many a hard and arduous journey, I have arrived at the decision that by next February I am getting a Mac; I am tired of the PC game. To all of you who have PC computers that are happy, I wish I had had your luck.
+<img alt="Snowflake" class="float-left" loading="lazy" src="/qo184.jpg" width="138" height="142"/><img alt="Snowflake Border" class="float-right" loading="lazy" src="/qo185.jpg" width="84" height="687"/>Let's start this issue out with a few explanations. I know a lot of you must be wondering why the newsletter hasn't been received since September's issue. This was due to my com'puter crashing and refusing to work for over two months. Let me tell you, I was pretty miffed about it. I just bought this computer before I started Queen's Own (Sept. 1998). Af'ter many a hard and arduous journey, I have arrived at the decision that by next February I am getting a Mac; I am tired of the PC game. To all of you who have PC computers that are happy, I wish I had had your luck.
 
 With a new year and a new millenium starting, I had hoped to have a different look for the newsletter. Something new to take the club into the next century. Well, I've not been able to accomplish much in that area, but you will notice that, the, newsletter, now has COLOR!!! So, now anyone who sends me art'work that has color in X, will be included in the newsletter. Personally, I like color!
 
@@ -40,7 +40,7 @@ One request that I do have, I have noticed lately that I'm receiving more and mo
 
 Thanks to everyone who sent greetings and holiday cards. Everyone here loved them immensely. I wish I had had more time to prepare something for all of you. Please accept the enclosed card with a wish for all the good things this holiday season and into the next millennium.
 
-<img alt="Robin, Jason, Alara and Misty" class="border-2 float-left" loading="lazy" src="/qo183.jpg"/>
+<img alt="Robin, Jason, Alara and Misty" class="border-2 float-left" loading="lazy" src="/qo183.jpg" width="447" height="345"/>
 
 Happy Holidays and Y2K, too!
 
@@ -81,7 +81,7 @@ Future mailing dates for the Newsletter:
 <dd>The deadline for submission is January 5, 2001.<p></p></dd>
 </dl>
 
-<img alt="Doves" class="float-right" loading="lazy" src="/qo186.jpg"/>With all of the artwork, I have colorized or in same way altered the original. Ellen's work I made lighter so that it would appear to be a watermark. Herald Alora and Aubrey's work I shaded in blue. If for any reason you do not like what I have done, I solely take blame. The artwork, in my humble opinion, was worthy all on its own merit. I only changed what I felt was necessary to bring it all to a whole. Thanks to all the wonderful artists.
+<img alt="Doves" class="float-right" loading="lazy" src="/qo186.jpg" width="658" height="241"/>With all of the artwork, I have colorized or in same way altered the original. Ellen's work I made lighter so that it would appear to be a watermark. Herald Alora and Aubrey's work I shaded in blue. If for any reason you do not like what I have done, I solely take blame. The artwork, in my humble opinion, was worthy all on its own merit. I only changed what I felt was necessary to bring it all to a whole. Thanks to all the wonderful artists.
 
 This is the runner up. Aubrey Smith did this wonderful piece of work. Many thanks to the few who entered this contest.
 

@@ -89,6 +89,22 @@ class HtmlAuditTests(unittest.TestCase):
         found, _ = self.findings('<table role="presentation"><tr><td>a</td><td>b</td></tr></table>')
         self.assertNotIn('table_without_header', found)
 
+    def test_images_without_dimensions_flags_only_local_unsized_images(self):
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(
+            '<img src="/a.jpg"><img src="/b.jpg" width="1" height="1">'
+            '<img alt="placeholder"><img src="https://e/x.png">',
+            'lxml')
+        self.assertEqual(audit_html.images_without_dimensions(soup), ['/a.jpg'])
+
+    def test_image_dimensions_are_not_treated_as_presentational(self):
+        found, _ = self.findings('<img src="/a.gif" width="10" height="10" alt="a"/>')
+        self.assertNotIn('presentational_attribute', found)
+
+    def test_layout_dimensions_are_still_presentational(self):
+        found, _ = self.findings('<table width="100"><tr><td>x</td></tr></table>')
+        self.assertIn('presentational_attribute', found)
+
     def test_heading_semantics_are_reported(self):
         found, _ = self.findings('<h1>A</h1><h1>B</h1><h3>C</h3>')
         self.assertIn('multiple_h1', found)

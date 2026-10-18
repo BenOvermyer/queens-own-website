@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo251.jpg"/>*When the Bough Breaks*, co-written by Misty and Holly Lisle, is being shipped any day. It may be in your bookstores now. This is book three of the SERRAted Edge series and has a Larry Elmore cover.
+<img alt="Border art" class="float-right" loading="lazy" src="/qo251.jpg" width="142" height="1476"/>*When the Bough Breaks*, co-written by Misty and Holly Lisle, is being shipped any day. It may be in your bookstores now. This is book three of the SERRAted Edge series and has a Larry Elmore cover.
 
 Some "definite" publication dates are April for *Bard's Tale 2: Fortress of Frost and Fire* and July for the Piers Anthony collaboration, *If I Pay Thee Not in Gold*. The hardcover edition of *Winds of Fury* (with a spectacular Jody Lee cover - her best yet, according to DAW) won't be in your bookstores until August first. At about the same time, the paperback edition of *Winds of Change* will be released. *Winds of Fury* is priced at $20.
 
