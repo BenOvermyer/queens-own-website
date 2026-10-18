@@ -26,7 +26,7 @@ Mercedes Lackey Fan Club
 
 Dear Misty fans:
 
-<img alt="Border by William Hall" class="float-right" loading="lazy" src="/qo303.jpg"/>
+<img alt="Border by William Hall" class="float-right" loading="lazy" src="/qo303.jpg" width="104" height="919"/>
 
 Here is the last of an interview with Misty done by Jeanne Caggiano called "Breaking the Mold." It appeared in the October-December Baen's Books. Thank you, Jeanne and Baen Books, for sharing with QO members.
 

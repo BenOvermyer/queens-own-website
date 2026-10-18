@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/>
+<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg" width="774" height="99"/>
 
 ## The Official Mercedes Lackey Fan Club
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo181.jpg"/><a href="http://www.amazon.com/exec/obidos/ASIN/0671578065/dragonlordsofdumA/"><img alt="Mark Shepherd, Lazerwarz" class="float-left" loading="lazy" src="/bk6.jpg"/></a> Available 5/99 from Baen Books:
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo181.jpg" width="83" height="855"/><a href="http://www.amazon.com/exec/obidos/ASIN/0671578065/dragonlordsofdumA/"><img alt="Mark Shepherd, Lazerwarz" class="float-left" loading="lazy" src="/bk6.jpg" width="101" height="169"/></a> Available 5/99 from Baen Books:
 
 Lazerwarz by Mark Shepherd the third in the Elvendude series.
 

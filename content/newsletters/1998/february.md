@@ -24,9 +24,9 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
-<img alt="Border Art" class="float-left" loading="lazy" src="/qo280.jpg"/> <img alt="Border Art" class="float-right" loading="lazy" src="/qo281.jpg"/> Dear Misty Fans,
+<img alt="Border Art" class="float-left" loading="lazy" src="/qo280.jpg" width="171" height="1519"/> <img alt="Border Art" class="float-right" loading="lazy" src="/qo281.jpg" width="158" height="1523"/> Dear Misty Fans,
 
 Coming in March from Baen is *Bedlam's Bard*, a reissue of the Misty/Ellen Guon collaborations *Knight of Ghost and Shadows* and *Summoned to Tourney* in one volume. April is the release date for the short story collection *Fiddler Fair*.
 

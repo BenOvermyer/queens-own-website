@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 4, No. 11 November 1, 2003
 
-<img alt="Omorose" class="border-2" loading="lazy" src="/qo175.jpg"/>
+<img alt="Omorose" class="border-2" loading="lazy" src="/qo175.jpg" width="309" height="373"/>
 
 Heyla, Misty fans!
 
@@ -374,7 +374,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Linda A. Malcor as Danya Winterborn" class="border-5 float-right" loading="lazy" src="/qo176.jpg"/>
+<img alt="Linda A. Malcor as Danya Winterborn" class="border-5 float-right" loading="lazy" src="/qo176.jpg" width="210" height="325"/>
 
 ## Member News:
 
@@ -482,7 +482,7 @@ Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Two of Danya's Kids: Kassie as Blue and John as Stitch" class="border-5 float-right" loading="lazy" src="/qo177.jpg"/>
+<img alt="Two of Danya's Kids: Kassie as Blue and John as Stitch" class="border-5 float-right" loading="lazy" src="/qo177.jpg" width="420" height="420"/>
 
 ### From Healer Adept Moonstar k'Vala k'Sheyna:
 

@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg"/>Dear Misty Fans,
+<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg" width="133" height="103"/>Dear Misty Fans,
 
 Three new collaborations will be available from Misty this summer. In June, *Summoned to Tourney*, written with Ellen Guon, brings us further adventures of Kory, Eric and Beth. *Castle of Deception*, coming in July, is co-authored by Josepha Sherman. *Castle* is set in the same literary universe as the computer adventure, *The Bard's Tale IV*. In conjunction with the book will be a new video game from Nintendo, a board game and lead miniatures. Then in August, *The Ship Who Searched*, writteb by Misty and Anne McCaffrey.
 

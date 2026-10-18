@@ -44,7 +44,7 @@ This section is dedicated to the works of Mercedes Lackey. The purpose of this f
 
 You will occasionally see Mercedes Lackey refered to as "Misty" on these pages. "Misty" is a nickname that she's had from many years now (derived from children slurring "Miss Dee" at a camp where she was a councilor), and the name is the one by which she is affectionately known to her fans.
 
-<a href="/"><img alt="Queen's Own Seal, 2003-2004" loading="lazy" src="/qoseal.jpg"/></a>
+<a href="/"><img alt="Queen's Own Seal, 2003-2004" loading="lazy" src="/qoseal.jpg" width="245" height="270"/></a>
 
 Danya Winterborn is my (L.A. Malcor's) [Queen's Own](/)-approved persona. So far she's earned the rank of Herald-Mage, Adept, and she is working on the rank of Herald-Mage, Guardian. The only other known Herald-Mage Adepts are author Ellen Guon and Mercedes Lackey herself.
 

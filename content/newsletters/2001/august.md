@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 2, No. 8 August 1, 2001
 
-<img alt="Phemonial Demonoid by Michell Cornette" class="border-3" loading="lazy" src="/qo88.jpg"/>
+<img alt="Phemonial Demonoid by Michell Cornette" class="border-3" loading="lazy" src="/qo88.jpg" width="332" height="423"/>
 
 Heyla, Misty fans!
 
@@ -46,7 +46,7 @@ Zhai'helleva,
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
 
-<img alt="Border by Michell Cornette" class="border-3 float-left" loading="lazy" src="/qo89.jpg"/>
+<img alt="Border by Michell Cornette" class="border-3 float-left" loading="lazy" src="/qo89.jpg" width="213" height="839"/>
 
 ## Ren Faires:
 
@@ -344,7 +344,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Border by Herald Alora" class="border-3 float-right" loading="lazy" src="/qo90.jpg"/>
+<img alt="Border by Herald Alora" class="border-3 float-right" loading="lazy" src="/qo90.jpg" width="174" height="1605"/>
 
 ## Member News:
 
@@ -395,7 +395,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 - Welcome to **Herald Laliea Shathgran**, Gifted with Fetching and Mindspeech and Chosen by Sylva! **Toni McQuilken** wrote about her Herald and her family and her friends, drew a map of the family estate and created a recipe.
 
-<img alt="Border by Herald Alora" class="border-3 float-left" loading="lazy" src="/qo91.jpg"/>
+<img alt="Border by Herald Alora" class="border-3 float-left" loading="lazy" src="/qo91.jpg" width="169" height="1597"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 

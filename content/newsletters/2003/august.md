@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 4, No. 8 August 1, 2003
 
-<img alt="Elven Lady by Gibel Encarnacion" loading="lazy" src="/qo166.jpg"/>
+<img alt="Elven Lady by Gibel Encarnacion" loading="lazy" src="/qo166.jpg" width="186" height="323"/>
 
 Heyla, Misty fans!
 
@@ -380,7 +380,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Come and Play by Gibel Encarnacion" class="float-left" loading="lazy" src="/qo167.jpg"/>
+<img alt="Come and Play by Gibel Encarnacion" class="float-left" loading="lazy" src="/qo167.jpg" width="235" height="402"/>
 
 ## Member News:
 
@@ -444,7 +444,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Dark Elf by Gibel Encarnacion" class="border-5 float-left" loading="lazy" src="/qo168.jpg"/>
+<img alt="Dark Elf by Gibel Encarnacion" class="border-5 float-left" loading="lazy" src="/qo168.jpg" width="242" height="346"/>
 
 ### Collegium News:
 
@@ -503,7 +503,7 @@ Zhai'helleva,
 
 Danya
 
-<img alt="Priestess by Gibel Encarnacion" class="border-5 float-right" loading="lazy" src="/qo169.jpg"/>
+<img alt="Priestess by Gibel Encarnacion" class="border-5 float-right" loading="lazy" src="/qo169.jpg" width="266" height="350"/>
 
 ## Personals:
 

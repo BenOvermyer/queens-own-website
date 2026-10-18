@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Storm Breaking" class="float-right" loading="lazy" src="/ml20.gif"/> Coming this fall is Misty's long awaited *Storm Breaking*, Book Three of *The Mage Storms*, with this beautiful Jody Lee cover and interior illustrations by Larry Dixon.
+<img alt="Storm Breaking" class="float-right" loading="lazy" src="/ml20.gif" width="87" height="140"/> Coming this fall is Misty's long awaited *Storm Breaking*, Book Three of *The Mage Storms*, with this beautiful Jody Lee cover and interior illustrations by Larry Dixon.
 
 "As *Storm Breaking* opens, the western allies, led by Karal, Karsite Sun'priest and delegate to the Valdemaran Court, and the Adepts Firesong and An'desha, have traveled deep into the Dorisha Plains to locate the ancient ruins of the Tower of Urtho, Mage of Silence, creator of the gryphous: Legend has it that below the Tower, deeply buried beneath the plains, is Urtho's Vault, hidden stronghold of some of the most powerful magical weapons ever devised - weapons that Urtho himself felt were too dangerous to use. With the help of the Shin'a'in plainsmeu, they have successfully excavated this ancient arsenal, and risked their lives triggering one of these antique but potent tools of death to unleash a monstrous burst of mage-energy.
 

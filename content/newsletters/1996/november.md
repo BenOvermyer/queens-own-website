@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo270.jpg"/> Coming in time for the holidays, Misty's *Firebird*, a coming-of-age fantasy set in Russia before the Tsars. This is the tale of the adventures of a young aristocrat in a fantastic Russian landscape and of his eventual confrontation with the fabled Firebird. *Firebird* is a TOR hardcover, priced at $24.95. It has a December release date but may be in some stores this month. Misty and Paul Espinoza of Golden Bough are writing songs for a *Firebird* album that should be ready in February.
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo270.jpg" width="253" height="1365"/> Coming in time for the holidays, Misty's *Firebird*, a coming-of-age fantasy set in Russia before the Tsars. This is the tale of the adventures of a young aristocrat in a fantastic Russian landscape and of his eventual confrontation with the fabled Firebird. *Firebird* is a TOR hardcover, priced at $24.95. It has a December release date but may be in some stores this month. Misty and Paul Espinoza of Golden Bough are writing songs for a *Firebird* album that should be ready in February.
 
 Baen is re-issuing *The Lark & the Wren, Knight of Ghosts and Shadows* by Misty and Ellen Guon, and *Born to Run*, by Misty and Larry, as well as the Wing Commander novel by Misty and Ellen, *Freedom Flight*, and the Misty/Piers Anthony collaboration, *If I Pay Thee Not in Gold*, all in paperback.
 
@@ -50,7 +50,7 @@ TEMPEST will be in Fremont at Club Kaos [Ed. note 2005: Out-of-date info withhel
 
 Do you want to know what conventions are going to be held where and when? QO member Jason Burnett tells me that regretfully, Filthy Pierre's "SF Conventional Register" has ceased publication (after 22 years!). There are other sources. According to the October issue of *Science Fiction Chronicle*, conventions are listed in Scott Merritt's "ConTemporal." Subscription prices for that are $15 for 4 quarterly, $20 for 6 monthly, or $30 for 12 monthly issues. Make checks payable to "Pegasus Publis" and mail them to [Ed. note 2005: Out-of-date info withheld.] . SFC is "the science fiction and fantasy newsmagazine" and is available in bookstores and magazine stands. It has book reviews, release dates, a listing of markets for you would-be--wrlters, and some convention news. Single copy price is $3.50.
 
-<img alt="Border Art" class="float-left" loading="lazy" src="/qo269.jpg"/>
+<img alt="Border Art" class="float-left" loading="lazy" src="/qo269.jpg" width="283" height="168"/>
 
 ## MEMBER NEWS:
 
@@ -84,7 +84,7 @@ R.C.M.H. - now forming in CANADA. Contact Pam Dziedzic [Ed. note 2005: Out-of-da
 
 Under Kal'enel's Care--SHIN'A'IN!!! Come join your fellow clansmen with *Under Kal'enel's Care*. The bi-monthly newsletters are aimed specifically at the Slnn.'a'irr. Dues are 15 stamps per year; for a sample newsletter send SASE to [Ed. note 2005: Out-of-date info withheld.].
 
-<img alt="Border Art" loading="lazy" src="/qo271.jpg"/>
+<img alt="Border Art" loading="lazy" src="/qo271.jpg" width="509" height="216"/>
 
 ## Other Fandoms:
 
@@ -138,7 +138,7 @@ SHIN'A'IN!!! Come join your fellow clansmen with *Under Kal'enel's Care*. The bi
 
 Stamps For Life: Send your old/used postage stamps to White Deer [Ed. note 2005: Out-of-date info withheld.]. White Deer will send them on to the Manchester Children's Hospital in England where they will be redeemed to buy equipment and medication for the children in the Cancer Ward. Won't you help?
 
-<img alt="Border Art" class="float-left" loading="lazy" src="/qo272.jpg"/>
+<img alt="Border Art" class="float-left" loading="lazy" src="/qo272.jpg" width="167" height="157"/>
 
 ## COLLEGIUM NEWS:
 

@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
@@ -166,7 +166,7 @@ Dear Misty Fans,
 </tr>
 </table>
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo228.jpg"/>Most of the books listed here are still available; back issues of *Marion Zimmer Bradley's FANTASY Magazine* can be ordered from [Ed. note 2004: Out-of-date info. withheld.].
+<img alt="Border art" class="float-right" loading="lazy" src="/qo228.jpg" width="90" height="1090"/>Most of the books listed here are still available; back issues of *Marion Zimmer Bradley's FANTASY Magazine* can be ordered from [Ed. note 2004: Out-of-date info. withheld.].
 
 For those of you who like to prowl through old book stores, Misty had short stories in *Fantasy Book*, September 1985, March 1986, September 1986, and December 1986. Also look for *American Fantasy*, Winter 1987. Happy Hunting - I've never been able to find them.
 

@@ -12,7 +12,7 @@ revised = "10/18/20"
 
 ## An Online, Nonfiction Journal
 
-<img alt="The Compass Rose by Laura Cameron" loading="lazy" src="/comprose.jpg"/>
+<img alt="The Compass Rose by Laura Cameron" loading="lazy" src="/comprose.jpg" width="336" height="336"/>
 
 Named for the tavern that served as the favorite gathering place for the Blues and their instructors in Mercedes Lackey's *The Mage Storms Trilogy*, this nonfiction journal is sponsored by Queen's Own to provide a place for people to publish nonfiction material related to Mercedes Lackey's works. Mercedes Lackey greatly values the fact that Queen's Own encourages educational efforts among her fans. As part of this endeavor, Queen's Own has created *The Compass Rose* to promote all forms of nonfiction writing.
 

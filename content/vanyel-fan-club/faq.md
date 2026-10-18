@@ -10,7 +10,7 @@ topic = "community"
 canonical_path = "/vanyel-fan-club/faq/"
 +++
 
-<img alt="" loading="lazy" src="/vfcqa.jpg"/>
+<img alt="" loading="lazy" src="/vfcqa.jpg" width="569" height="128"/>
 
 **Q:** Does Q&A stand for "Quaggas and Avacados"? Or "Queers and Aardvarks"? **A:** No. It stands for Questions and Answers …
 

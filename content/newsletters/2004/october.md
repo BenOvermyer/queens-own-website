@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 5, No. 10 October 1, 2004
 
-<img alt="Mik'n by Jan Tallevast" class="border-5" loading="lazy" src="/qo221.jpg"/>
+<img alt="Mik'n by Jan Tallevast" class="border-5" loading="lazy" src="/qo221.jpg" width="353" height="327"/>
 
 Heyla, Misty fans!
 
@@ -236,7 +236,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Winget Warrior by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo222.jpg"/>
+<img alt="Winget Warrior by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo222.jpg" width="375" height="329"/>
 
 ## Member News:
 
@@ -354,7 +354,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Zaelle by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo223.jpg"/>
+<img alt="Zaelle by Jan Tallevast" class="border-5 float-left" loading="lazy" src="/qo223.jpg" width="279" height="387"/>
 
 ### From Herald-Mage Adept Danya Winterborn:
 

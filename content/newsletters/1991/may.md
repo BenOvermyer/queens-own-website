@@ -26,7 +26,7 @@ Mercedes Lackey Fan Club
 
 [Ed. Note 2003: The header on the original of this newsletter reads April, but since we already had one newsletter for April 1991 and since the next newsletter in the series in June 1991, we're guessing that this one came out in May 1991.]
 
-<img alt="QO Crest" loading="lazy" src="/qo178.jpg"/>
+<img alt="QO Crest" loading="lazy" src="/qo178.jpg" width="150" height="149"/>
 
 Dear Misty Fans,
 

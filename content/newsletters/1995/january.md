@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo266.jpg"/> If you're a Queen's Own member, there should be a New Year's greeting from Misty and Larry tucked in with your newsletter. (It's the reason for the large envelope). The postcard shows the Feathered Serpent, a Larry Dixon design. It's the cover art for the CD "Freedom, Flight & Fantasy" and is also available on a T-shirt or as an art print, sold by Firebird of course.
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo266.jpg" width="140" height="1336"/> If you're a Queen's Own member, there should be a New Year's greeting from Misty and Larry tucked in with your newsletter. (It's the reason for the large envelope). The postcard shows the Feathered Serpent, a Larry Dixon design. It's the cover art for the CD "Freedom, Flight & Fantasy" and is also available on a T-shirt or as an art print, sold by Firebird of course.
 
 *The Eagle and the Nightingales* is now in your bookstore (unless it's sold out already). Isn't a new Misty book a wonderful way to start off the New Year? *The Black Gryphon* is available now in paperback, as is *The Robin and the Kestrel*.
 

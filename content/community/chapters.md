@@ -47,4 +47,4 @@ If you would rather start a chapter from scratch, contact [Herald-Mage Adept Dan
 
 A chapter may advertise for members in the QO newsletter and solicit members on the QO chatlist. A chapter can also run an ad about the newsletter or fanzine (if any) that the group publishes. Contact [Herald-Mage Adept Danya Winterborn](mailto:shashtah@gmail.com) to place ads or if you would like me to interview you about your organization for the QO newsletter.
 
-<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
+<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg" width="862" height="194"/>

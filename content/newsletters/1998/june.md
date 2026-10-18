@@ -24,9 +24,9 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
-<img alt="Owlsight" class="float-right" loading="lazy" src="/ml22.gif"/> Dear Misty Fans,
+<img alt="Owlsight" class="float-right" loading="lazy" src="/ml22.gif" width="100" height="140"/> Dear Misty Fans,
 
 Coming in October is *Owlsight*, the sequel to *Owlflight*. *Owlsight* is co-authored by Misty and Larry and has a beautiful Jody A. Lee cover and interior illustrations by Larry.
 

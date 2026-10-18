@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 5, No. 4 April 1, 2004
 
-<img alt="Young Companions Watching the Obstacle Course by Lily Evans" class="border-5" loading="lazy" src="/qo202.jpg"/>
+<img alt="Young Companions Watching the Obstacle Course by Lily Evans" class="border-5" loading="lazy" src="/qo202.jpg" width="495" height="328"/>
 
 Heyla, Misty fans!
 
@@ -262,7 +262,7 @@ United Kingdom
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Kantor and Mare by Lily Evans" class="border-5 float-left" loading="lazy" src="/qo204.jpg"/>
+<img alt="Kantor and Mare by Lily Evans" class="border-5 float-left" loading="lazy" src="/qo204.jpg" width="284" height="256"/>
 
 ## Member News:
 
@@ -372,7 +372,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Kantor as Silver by Lily Evans" class="border-5 float-right" loading="lazy" src="/qo203.jpg"/>
+<img alt="Kantor as Silver by Lily Evans" class="border-5 float-right" loading="lazy" src="/qo203.jpg" width="323" height="231"/>
 
 ### From Herald-Mage Adept Danya Winterborn:
 

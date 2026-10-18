@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
@@ -332,7 +332,7 @@ Welcome to all new members, and a warm thank you to all who have renewed.
 
 Like you, I'm eagerly awaiting Owlflight. For anyone who reads SF as well as Fantasy I recommend Holly Lisle's *Hunting the Corrigan's Blood* (paperback--$5.99) and David Weber's latest Honor Harrington adventure, *In Enemy Hands* (hardcover--$22).
 
-<img alt="Border Art" loading="lazy" src="/qo275.jpg"/>
+<img alt="Border Art" loading="lazy" src="/qo275.jpg" width="810" height="121"/>
 
 ## FAN MESSAGES:
 

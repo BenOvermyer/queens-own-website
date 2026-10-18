@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 2, No. 6 June 1, 2001
 
-<img alt="Companion by Laura Felton" class="border-3" loading="lazy" src="/qo78.jpg"/>
+<img alt="Companion by Laura Felton" class="border-3" loading="lazy" src="/qo78.jpg" width="267" height="359"/>
 
 Heyla, Misty fans!
 
@@ -54,7 +54,7 @@ Zhai'helleva,
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
 
-<img alt="Staff by Laura Felton" class="float-right" loading="lazy" src="/qo79.jpg"/>
+<img alt="Staff by Laura Felton" class="float-right" loading="lazy" src="/qo79.jpg" width="311" height="452"/>
 
 ## Ren Faires:
 
@@ -318,7 +318,7 @@ Online
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Girl with Braid by Laura Felton" class="border-3 float-right" loading="lazy" src="/qo80.jpg"/>
+<img alt="Girl with Braid by Laura Felton" class="border-3 float-right" loading="lazy" src="/qo80.jpg" width="313" height="407"/>
 
 ## Member News:
 
@@ -346,7 +346,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ## Other Fandoms:
 
-<img alt="Penelope by Laura Felton" class="border-3" loading="lazy" src="/qo81.jpg"/>
+<img alt="Penelope by Laura Felton" class="border-3" loading="lazy" src="/qo81.jpg" width="436" height="287"/>
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
@@ -371,7 +371,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 - Welcome to **Tayledras Adept Fireblade k'Treva**, Gifted with Mindspeech with Bondbirds, Humans and Other Races, and her Bondbird Kyr'na (a red-tailed hawk)! Kristi wrote about Fireblade and her family and her friends, drew a picture of her persona and wrote a poem.
 
-<img alt="Girl on White Horse by Laura Felton" class="border-5 float-right" loading="lazy" src="/qo82.jpg"/>
+<img alt="Girl on White Horse by Laura Felton" class="border-5 float-right" loading="lazy" src="/qo82.jpg" width="397" height="347"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 

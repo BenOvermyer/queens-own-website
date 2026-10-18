@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg"/>Dear Misty Fans,
+<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg" width="133" height="103"/>Dear Misty Fans,
 
 One of Misty's closest friends, George Alec Effinger (author of *A Fire in the Sun*, *When Gravity Fails*, *Exile Kiss*, and a host of Hugo and Nebula winnters) has suffered from a serious debilitating illness most of his life. Because his condition is chronic, no medical insurance is available to him, and his current medical bills stand at $40,000. The Niagara Falls Science Fiction Association has created a special fund to help pay the illness-related expenses of Mr. Effinget. (Among the trustees of this fund are Mary Stanton, Nancy Kress, and Joan D. Vinge.) We in Queen's Own have been asked to participate in a raggle, open only to QO members and their friends. There are no formal tickets to buy; write your name, address and phone number on a 3x5 piece of paper and send it with a dollar per ticket to [Ed. note 2003: Out-of-date information withheld.]
 

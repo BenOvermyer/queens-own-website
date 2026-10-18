@@ -24,9 +24,9 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
-<img alt="QO Border" class="float-right" loading="lazy" src="/qo214.jpg"/>In *Summoned to Tourney*, we find Beth, Eric, and Kory preparing to perform at Northern Faire. Their transportation to the Faire site is two elvensteeds, masquerading as motorcycles …
+<img alt="QO Border" class="float-right" loading="lazy" src="/qo214.jpg" width="69" height="763"/>In *Summoned to Tourney*, we find Beth, Eric, and Kory preparing to perform at Northern Faire. Their transportation to the Faire site is two elvensteeds, masquerading as motorcycles …
 
 "There was a cluster of bikes of all sorts off to one side, huddled together like musk-oxen; Beth brought the bike to a halt just behind Kory and all three of them got off. Eric took the bags from both of them, Beth and Kory walked the bikes over to the herd and parked them; Kory passed his hand over both.
 

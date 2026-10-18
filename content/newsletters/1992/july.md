@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="flowers" class="float-right" loading="lazy" src="/qo227.jpg"/>Good news for you Wing Commander fans! The promo from Baen books reads: "One of Baen's Biggest Stars and a Team Leader from Wing Commander Team Up on a Tie-In to the Bestselling Computer Game of all Time!" Yes, it's another collaboration from Misty and Ellen Guon, and it's a Wing Commander book, to be released in time for Christmas.
+<img alt="flowers" class="float-right" loading="lazy" src="/qo227.jpg" width="67" height="1043"/>Good news for you Wing Commander fans! The promo from Baen books reads: "One of Baen's Biggest Stars and a Team Leader from Wing Commander Team Up on a Tie-In to the Bestselling Computer Game of all Time!" Yes, it's another collaboration from Misty and Ellen Guon, and it's a Wing Commander book, to be released in time for Christmas.
 
 *WING COMMANDER: FREEDOM FLIGHT* features Ralgha nar Rhallas, captain of a war cruiser, noble lord of the Kilrathi Empire - and a rebel.... Captain K'Kai of Firekka, first of her winged species to leave her planet for the stars … . Captain Ian St. John, call sign "Hunter," hotshot human pilot - he thinks he's just in it for the hot flying … . Rikik, K'Kai's niece, hereditary leader of her clan - all she wants to do is follow in her notorious relative's footsteps and fly the stars … . They were as disreputable a gang of misfits as ever flew between the stars. But together they could free a world … . WOW!
 

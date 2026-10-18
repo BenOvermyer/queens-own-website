@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 6, No. 7 July 1, 2005
 
-<img alt="Aloft by Devin Harris" class="border-5" loading="lazy" src="/qo304.jpg"/>
+<img alt="Aloft by Devin Harris" class="border-5" loading="lazy" src="/qo304.jpg" width="269" height="375"/>
 
 Heyla, Misty fans!
 
@@ -264,7 +264,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/) or the Sci-Fi Guide at [http://scifi.about.com/blcon.htm](http://scifi.about.com/blcon.htm).
 
-<img alt="Frost by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo305.jpg"/>
+<img alt="Frost by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo305.jpg" width="247" height="375"/>
 
 ## Member News:
 
@@ -378,7 +378,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Moonstar by Laura Cameron" class="border-5 float-left" loading="lazy" src="/moonstar1.jpg"/>
+<img alt="Moonstar by Laura Cameron" class="border-5 float-left" loading="lazy" src="/moonstar1.jpg" width="193" height="271"/>
 
 ### From Healer Adept Moonstar:
 

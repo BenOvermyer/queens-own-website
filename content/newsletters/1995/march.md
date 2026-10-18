@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo282.jpg"/> Dear Misty Fans,
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo282.jpg" width="172" height="1317"/> Dear Misty Fans,
 
 Last month we learned about some of the birst that share the "Eerie Aerie," Misty and LArry's home: a Blue-Streak Lory named Visyr; Jayde, a Yellow-Collar Mini Macaw; Harlie Quinn, a Blue-And-Gold Macaw; and Ikaika, an Umbrella Cockatoo. There are more!
 
@@ -165,7 +165,7 @@ Next Mailing Day: May 6, 1995--Call [Ed. note 2005: Out-of-date content withheld
 
 Editor, President, Dogsbody, Housemother - Judith Louvis [Ed. Note 2005:personal info withheld] Archivist and Organizer extraordinaire - Patricia Riggs [Ed. Note 2005:address withheld] write to Patricia with your questions about the club. You may register your persona and Companion names with Patricia before completing the requirements. Herald-Mage Registrar/Dispenser of handout sheets - Guardian of the Web [Ed. Note 2005:address withheld] Newsletter Border Design - Page 1 Heather l. Wedo; page 6 Meredith Hulka Mailing Day Helpers (last issue) - Meredith Baldino, Helen Edwards and Rusty, Barbara Leflar Jackson, and Steve Louvis.
 
-<img alt="Border Art" loading="lazy" src="/qo283.jpg"/>
+<img alt="Border Art" loading="lazy" src="/qo283.jpg" width="831" height="114"/>
 
 [End Excerpt]
 

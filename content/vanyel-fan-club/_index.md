@@ -10,7 +10,7 @@ topic = "community"
 canonical_path = "/vanyel-fan-club/"
 +++
 
-<a href="/vanyel-fan-club/"><img alt="" loading="lazy" src="/vfcfronta.jpg"/></a>
+<a href="/vanyel-fan-club/"><img alt="" loading="lazy" src="/vfcfronta.jpg" width="400" height="440"/></a>
 
 - [VFC Chat List](/vanyel-fan-club/chat/)
   [Q & A](/vanyel-fan-club/faq/)

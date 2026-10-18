@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 2, No. 7 July 1, 2001
 
-<img alt="La Divine Contesse by Laura Cameron" class="border-3" loading="lazy" src="/qo83.jpg"/>
+<img alt="La Divine Contesse by Laura Cameron" class="border-3" loading="lazy" src="/qo83.jpg" width="419" height="525"/>
 
 Heyla, Misty fans!
 
@@ -48,7 +48,7 @@ Zhai'helleva,
 
 **Herald-Mage Master Danya Winterborn** and **Healer Adept Moonstar**
 
-<img alt="Hell's Courtesan by Laura Cameron" class="border-3 float-right" loading="lazy" src="/qo84.jpg"/>
+<img alt="Hell's Courtesan by Laura Cameron" class="border-3 float-right" loading="lazy" src="/qo84.jpg" width="316" height="437"/>
 
 ## Ren Faires:
 
@@ -338,7 +338,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Greenman by Laura Cameron" class="border-3 float-right" loading="lazy" src="/qo85.jpg"/>
+<img alt="Greenman by Laura Cameron" class="border-3 float-right" loading="lazy" src="/qo85.jpg" width="396" height="309"/>
 
 ## Member News:
 
@@ -366,7 +366,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ## Other Fandoms:
 
-<img alt="Morrigan by Laura Cameron" class="border-3" loading="lazy" src="/qo86.jpg"/>
+<img alt="Morrigan by Laura Cameron" class="border-3" loading="lazy" src="/qo86.jpg" width="525" height="400"/>
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
@@ -391,7 +391,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 - Welcome to **Tayledras Adept Fireblade k'Treva**, Gifted with Mindspeech with Bondbirds, Humans and Other Races, and her Bondbird Kyr'na (a red-tailed hawk)! Kristi wrote about Fireblade and her family and her friends, drew a picture of her persona and wrote a poem.
 
-<img alt="Thought and Memory by Laura Cameron" class="border-5 float-left" loading="lazy" src="/qo87.jpg"/>
+<img alt="Thought and Memory by Laura Cameron" class="border-5 float-left" loading="lazy" src="/qo87.jpg" width="419" height="525"/>
 
 ### From Healer Adept Moonstar:
 

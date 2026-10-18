@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo260.jpg"/> By now I hope you're happily reading *Chrome Circle* and *Storm Warning*. If your bookstore doesn't have copies, remember that both can be ordered from Firebird Arts and Music. Also available this summer are the paperback editions of *Winds of Fury* and *If I Pay Thee Not in Gold*.
+<img alt="Border art" class="float-right" loading="lazy" src="/qo260.jpg" width="138" height="1414"/> By now I hope you're happily reading *Chrome Circle* and *Storm Warning*. If your bookstore doesn't have copies, remember that both can be ordered from Firebird Arts and Music. Also available this summer are the paperback editions of *Winds of Fury* and *If I Pay Thee Not in Gold*.
 
 My most recent conversation with Misty was interrupted by her cries of "Ouch! Ouch! Stop that!" as the mini-macaw Jayde determinedly nibbled on her hair. Being called "for the birds" is not an insult at the Aerie. Besides Jayde, Misty and Larry own (or are owned by) a blue and gold macaw named HarlieQuinn; Ikaika, an umbrella cockatoo; Elsie, a female African grey parrot; a Goffin's cockatoo named Kechara; male and female blue-streak lorikeets named Visyr and Syri; three nameless society finches (won as a door prize when Larry went shopping for bird toys); and a budgie named Snack. (In Aboriginal language "budgerigar" means "good food.")
 
@@ -163,7 +163,7 @@ You need a [release form](/release-form-instructions/) (send the Guardian or me 
 - Welcome, **Herald Treyll'clar**, Chosen by Anyr and gifted with Mindspeech, Fetching, and Healing. *Aimee Bresler* sent information on her persona and best friend, a story which she submitted to Moonlight Masquerade, and a poem.
 - From *Julie Persinger* comes **Blackwolf k'Vala**. Blackwolf's bondbird is a harpy eagle named Kirrth. Julie sent background information, two poems, drawings, and details on her volunteer work at the SPCA.
 
-<img alt="Border" class="float-right" loading="lazy" src="/qo261.jpg"/>
+<img alt="Border" class="float-right" loading="lazy" src="/qo261.jpg" width="139" height="1313"/>
 
 ## MEMBER NEWS:
 

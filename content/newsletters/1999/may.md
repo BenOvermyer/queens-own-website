@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/>
+<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg" width="774" height="99"/>
 
 ## The Official Mercedes Lackey Fan Club
 
-<img alt="Misty with her race car at Hallett Motor Racing Circuit Hallett, Oklahoma" class="float-left" loading="lazy" src="/qo111.jpg"/><img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo112.jpg"/> Just got word from Firebird that "Black Swan" is out in hardback. The cost is $24.95 + s/h. Firebird's address and website are listed on page 2 of this newsletter. Black Swan will be the feature for the next Newsletter. This latest from Misty was found on the High Flight website, under the link "Update" Thanks Matt!!!!!!!!!!!!!!!!!!!!!!
+<img alt="Misty with her race car at Hallett Motor Racing Circuit Hallett, Oklahoma" class="float-left" loading="lazy" src="/qo111.jpg" width="121" height="95"/><img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo112.jpg" width="81" height="1218"/> Just got word from Firebird that "Black Swan" is out in hardback. The cost is $24.95 + s/h. Firebird's address and website are listed on page 2 of this newsletter. Black Swan will be the feature for the next Newsletter. This latest from Misty was found on the High Flight website, under the link "Update" Thanks Matt!!!!!!!!!!!!!!!!!!!!!!
 
 So, here is what's been going on lately in the life of the High Flight Family: Just in time for the New Year, I finished a big stand-alone novel for DAW Books, called *The Black Swan*. It is the story also told in the ballet "Swan Lake," but from the viewpoint of the character Odile von Rothbart. Eric Von Rothbart is a sorcerer who has imprisoned a large number of young women, keeping them in the shape of swans and only allowing them to assume their true forms by moonlight. His daughter Odile (the "Black Swan" of the title), a would-be magician herself, serves her father as their keeper. His "reason" for so imprisoning them is that he is punishing them for their sins---each of them has, in some way, betrayed a man who depended on her. One night Odette, the highest ranking of the flock and hence their "Queen" challenges him for his right to continue to imprison them, and learns that if she can win the love and faith of a man who knows her entire story, she can win freedom not only for herself but for the entire flock.
 

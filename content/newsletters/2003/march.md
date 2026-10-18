@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 4, No. 3 March 1, 2003
 
-<img alt="Joust" class="border-5" loading="lazy" src="/ml70.jpg"/>
+<img alt="Joust" class="border-5" loading="lazy" src="/ml70.jpg" width="60" height="90"/>
 
 Heyla, Misty fans!
 
@@ -72,7 +72,7 @@ Zhai'helleva and Happy Valentine's Day,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
-<img alt="Ally by Laura Felton" class="border-5 float-left" loading="lazy" src="/qo151.jpg"/>
+<img alt="Ally by Laura Felton" class="border-5 float-left" loading="lazy" src="/qo151.jpg" width="414" height="354"/>
 
 ## Ren Faires:
 
@@ -298,7 +298,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Ally by Laura Felton" class="border-5 float-left" loading="lazy" src="/qo149.jpg"/>
+<img alt="Ally by Laura Felton" class="border-5 float-left" loading="lazy" src="/qo149.jpg" width="263" height="282"/>
 
 ## Member News:
 
@@ -334,7 +334,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Riding Circuit***, a quarterly zine of Velgarth fanfiction seeks submissions. The first issue is due out in early April, and I look forward to stories of Heralds, Hawkbrothers, Bards and other people of Velgarth. Art and poetry are also welcome. Submissions may be sent by mail to: Mary Wilson, P.O. Box 235, Mitchellville, IA, 50169 or e-mailed to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com). Visit our website [http://www.marymuse.com/HeartlandArrows/RC.html](http://www.marymuse.com/HeartlandArrows/RC.html) for more information.
 - ***Tales of the Unicorn*:** After a decade hiatus it's back … *Tales of the Unicorn*. Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy. Tales will be published quarterly with the first issue coming in late April. Art and poetry are also welcome. Visit our website at [http://www.marymuse.com/HeartlandArrows/TotU.html](http://www.marymuse.com/HeartlandArrows/TotU.html) for more information. Submissions may be sent to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com) or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 
-<img alt="Companion by Laura Felton" class="border-5 float-right" loading="lazy" src="/qo150.jpg"/>
+<img alt="Companion by Laura Felton" class="border-5 float-right" loading="lazy" src="/qo150.jpg" width="343" height="351"/>
 
 ## Other Fandoms:
 

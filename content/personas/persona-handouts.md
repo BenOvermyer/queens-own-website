@@ -115,4 +115,4 @@ In order to be formally recognized in the [Queen's Own newsletter](/newsletter-g
 
 {{ <signoff /> }}
 
-<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg"/>
+<img alt="Companions by Laura Felton" loading="lazy" src="/qo34.jpg" width="862" height="194"/>

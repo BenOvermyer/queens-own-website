@@ -54,6 +54,11 @@ PRESENTATIONAL_ATTRIBUTES = {
     'hspace', 'language', 'link', 'nowrap', 'size', 'text', 'valign', 'version',
     'vlink', 'vspace', 'width',
 }
+# On replaced elements, width/height carry intrinsic size (and prevent layout
+# shift) rather than presentation, so they are not reported there.
+SIZED_ELEMENTS = {
+    'img', 'video', 'audio', 'source', 'embed', 'object', 'iframe', 'canvas', 'svg',
+}
 VALID_ATTRIBUTE_NAME = re.compile(r'^[A-Za-z_:][-A-Za-z0-9_:.]*$')
 # HTML elements the archive may legitimately contain (including retained legacy ones).
 KNOWN_HTML_ELEMENTS = {
@@ -99,6 +104,24 @@ def duplicate_ids(soup):
     """
     ids = [element['id'] for element in soup.find_all(attrs={'id': True})]
     return sorted(value for value, count in Counter(ids).items() if count > 1)
+
+
+def images_without_dimensions(soup):
+    """Return src values of local <img> elements that lack intrinsic width/height.
+
+    Local images should carry width/height so the browser can reserve space and
+    avoid layout shift. Unavailable-image placeholders (no src) and external or
+    data: images are excluded because they have no known intrinsic size here.
+    """
+    missing = []
+    for img in soup.find_all('img'):
+        if img.get('width') and img.get('height'):
+            continue
+        src = img.get('src', '')
+        if not src or src.startswith(('http://', 'https://', '//', 'data:')):
+            continue
+        missing.append(src)
+    return missing
 
 
 class MarkupChecker(HTMLParser):
@@ -197,7 +220,9 @@ def audit_file(path, text, root):
         counts = sorted(({name: len(soup.find_all(name)) for name in obsolete}).items(), key=lambda item: -item[1])
         add('obsolete_element', 'warning', [f'{name} x{count}' for name, count in counts], count=sum(count for _, count in counts))
 
-    presentational = sorted({attr for node in soup.find_all(True) for attr in node.attrs if attr in PRESENTATIONAL_ATTRIBUTES})
+    presentational = sorted({attr for node in soup.find_all(True) for attr in node.attrs
+                             if attr in PRESENTATIONAL_ATTRIBUTES
+                             and not (attr in ('width', 'height') and node.name in SIZED_ELEMENTS)})
     if presentational:
         counts = sorted(({attr: sum(1 for n in soup.find_all(True) if attr in n.attrs) for attr in presentational}).items(), key=lambda item: -item[1])
         add('presentational_attribute', 'warning', [f'{attr} x{count}' for attr, count in counts], count=sum(count for _, count in counts))

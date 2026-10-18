@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 2, No. 10 October 1, 2001
 
-<img alt="Elven Queen by Michell Cornette" class="border-3" loading="lazy" src="/qo96.jpg"/>
+<img alt="Elven Queen by Michell Cornette" class="border-3" loading="lazy" src="/qo96.jpg" width="203" height="310"/>
 
 Heyla, Misty fans!
 
@@ -38,7 +38,7 @@ Zhai'helleva,
 
 Herald-Mage Master Danya Winterborn and Healer Adept Moonstar
 
-<img alt="Loki by Michell Cornette" class="border-3 float-left" loading="lazy" src="/qo97.jpg"/>
+<img alt="Loki by Michell Cornette" class="border-3 float-left" loading="lazy" src="/qo97.jpg" width="307" height="416"/>
 
 ## Ren Faires:
 
@@ -414,7 +414,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Necromancer by Michell Cornette" class="border-3 float-right" loading="lazy" src="/qo98.jpg"/>
+<img alt="Necromancer by Michell Cornette" class="border-3 float-right" loading="lazy" src="/qo98.jpg" width="269" height="346"/>
 
 ## Member News:
 
@@ -440,7 +440,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
 
-<img alt="Watching the Flames by Michell Cornette" class="border-3 float-right" loading="lazy" src="/qo100.jpg"/>
+<img alt="Watching the Flames by Michell Cornette" class="border-3 float-right" loading="lazy" src="/qo100.jpg" width="223" height="356"/>
 
 ## Other Fandoms:
 
@@ -467,7 +467,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 We have no new personae to announce at this time (although three people are very close to approval). Several former members, however, have returned. Check out [Persona directory](/persona-directory/) as well as our Delphi forum to see who has reappeared! (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 
-<img alt="Reverse Kitsuni by Michell Cornette" class="border-3 float-left" loading="lazy" src="/qo99.jpg"/>
+<img alt="Reverse Kitsuni by Michell Cornette" class="border-3 float-left" loading="lazy" src="/qo99.jpg" width="255" height="346"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 

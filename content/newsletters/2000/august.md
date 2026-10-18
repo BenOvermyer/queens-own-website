@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 1, No. 4 August 1, 2000
 
-<img alt="Birds in Flight by Herald Alora" class="border-5" loading="lazy" src="/qo13.jpg"/>
+<img alt="Birds in Flight by Herald Alora" class="border-5" loading="lazy" src="/qo13.jpg" width="396" height="249"/>
 
 Heyla, Misty fans!
 
@@ -71,7 +71,7 @@ Note: Cassandra Vuksa is Australian, so we have chosen to preserve the Australia
 
 ## Ren Faires:
 
-<img alt="Sophie-Diane by Laura Felton" class="border-2" loading="lazy" src="/qo10.jpg"/>
+<img alt="Sophie-Diane by Laura Felton" class="border-2" loading="lazy" src="/qo10.jpg" width="246" height="312"/>
 
 Here are the faires we know about that are happening in August. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
@@ -161,7 +161,7 @@ WORLDCON (Chicon2000). Website: [http://www.chicon.org](http://www.chicon.org). 
 
 DRAGONFLIGHT GAME CONVENTION. Website: [http://www.dragonflight.org](http://www.dragonflight.org). Seattle, WA. Dates: 8/25/00-8/27/00.
 
-<img alt="Female Archer by Herald Alora" class="border-3" loading="lazy" src="/qo14.jpg"/>
+<img alt="Female Archer by Herald Alora" class="border-3" loading="lazy" src="/qo14.jpg" width="388" height="285"/>
 
 ## Member News:
 
@@ -173,7 +173,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [Collegium Chronicles](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
 
-<img alt="Companions by Laura Felton" class="border-3" loading="lazy" src="/qo12.jpg"/>
+<img alt="Companions by Laura Felton" class="border-3" loading="lazy" src="/qo12.jpg" width="249" height="324"/>
 
 ### Zines and Newsletters:
 
@@ -186,7 +186,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ## Other Fandoms:
 
-<img alt="Lovers by Herald Alora" class="border-3" loading="lazy" src="/qo15.jpg"/>
+<img alt="Lovers by Herald Alora" class="border-3" loading="lazy" src="/qo15.jpg" width="364" height="231"/>
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
@@ -199,7 +199,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Melanie Rawn: **Pandemonium**- The official Melanie Rawn club invites you to join their ranks. SASE for more information: Irena Pereira, P.O. Box 18A146 , Los Angeles, CA 90018.
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Sorceress by Herald Alora" class="border-3" loading="lazy" src="/qo16.jpg"/>
+<img alt="Sorceress by Herald Alora" class="border-3" loading="lazy" src="/qo16.jpg" width="249" height="476"/>
 
 ### Collegium News:
 
@@ -221,7 +221,7 @@ We are also getting close to having enough material to put out the first issue o
 
 Remember, you are all entitled to submit personals and fan messages. We are also chronically in need of art for the online version of this newsletter. Keep those submissions coming! This is your club, and all of you are responsible for helping to make it a success!
 
-<img alt="Companion by Laura Felton" class="border-3" loading="lazy" src="/qo11.jpg"/>
+<img alt="Companion by Laura Felton" class="border-3" loading="lazy" src="/qo11.jpg" width="251" height="315"/>
 
 ## Fan Messages:
 
@@ -233,7 +233,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 - From **Herald-Mage Hedge Wizard Jensen Redstart/Kat Knafelc** [dragonfodder@gmail.com](mailto:dragonfodder@gmail.com). 22-year-old college grad going back for her Master's in Ecology in the fall. Loves reading, writing, fandom, Scooby-Doo and comic books.
 - From **Healer Adept Moonstar**. Needed February '88 through March '91, Queen's Own newletters. I am creating an archive for the club, and as you can see we are listing all the approved personas on the site. Anyone with these newsletters please send COPIES to the Queen's Own address, P.O. Box 749, Laguna Beach, CA 92652. Thank you very much.
 
-<img alt="Scout by Herald Alora" class="border-3" loading="lazy" src="/qo17.jpg"/>
+<img alt="Scout by Herald Alora" class="border-3" loading="lazy" src="/qo17.jpg" width="279" height="338"/>
 
 ## Personals:
 

@@ -26,7 +26,7 @@ Mercedes Lackey Fan Club
 
 Dear Misty fans:
 
-<img alt="Border by Jane Callard" class="float-right" loading="lazy" src="/qo294.jpg"/>Misty's Birthday is June 24, Larry's is July 28. Send cards to their business address: [Ed. note 2003: The current address is Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017].
+<img alt="Border by Jane Callard" class="float-right" loading="lazy" src="/qo294.jpg" width="152" height="1045"/>Misty's Birthday is June 24, Larry's is July 28. Send cards to their business address: [Ed. note 2003: The current address is Mercedes Lackey or Larry Dixon, c/o High Flight Arts and Letters, P.O. Box 2970, Claremore, OK 74017].
 
 Here is a list of short stories by Misty.
 
@@ -272,7 +272,7 @@ There are a few Personals that are addressed to folks who are no longer on the Q
 
 Editor, President, Dogsbody, Housemother--Judith Louvis [phone withheld] [snip] Mailing Day Helpers (last issue)--Helen Edwards and Rusty--Thank you, thank you, thank you, for your loyalty & dependability! Helen, enjoy your vacation in England!
 
-<img alt="Need by Jake Adamo" loading="lazy" src="/qo295.jpg"/>
+<img alt="Need by Jake Adamo" loading="lazy" src="/qo295.jpg" width="824" height="136"/>
 
 [End Excerpt]
 

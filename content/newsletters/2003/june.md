@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 4, No. 6 June 1, 2003
 
-<img alt="Companion by Mary Wilson" loading="lazy" src="/qo160.jpg"/>
+<img alt="Companion by Mary Wilson" loading="lazy" src="/qo160.jpg" width="350" height="308"/>
 
 Heyla, Misty fans!
 
@@ -376,7 +376,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Angel by Michelle Cornett" class="border-5 float-right" loading="lazy" src="/qo161.jpg"/>
+<img alt="Angel by Michelle Cornett" class="border-5 float-right" loading="lazy" src="/qo161.jpg" width="322" height="425"/>
 
 ## Member News:
 
@@ -425,7 +425,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Herald Meshel by Michelle Cornett" class="border-5 float-right" loading="lazy" src="/qo162.jpg"/>
+<img alt="Herald Meshel by Michelle Cornett" class="border-5 float-right" loading="lazy" src="/qo162.jpg" width="280" height="400"/>
 
 ### Collegium News:
 

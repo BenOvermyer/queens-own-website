@@ -24,9 +24,9 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo286.jpg"/> <img alt="Border Art" class="float-left" loading="lazy" src="/qo287.jpg"/> Dear Misty Fans,
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo286.jpg" width="137" height="1377"/> <img alt="Border Art" class="float-left" loading="lazy" src="/qo287.jpg" width="157" height="1387"/> Dear Misty Fans,
 
 ## Misty's birthday is June 24
 
@@ -130,7 +130,7 @@ Queen's Own ahs been an important part of my life for over ten years. In three m
 
 Stamps For Life is still collecting used postage stamps used postage stamps from all countries but has a new address. The cash from teh sale of these stamps is used to purchase equipment and medication for children in the Cancer Ward of Manchester Children's Hospital in England. Simply remove the stamps from all your mail and send them to [Ed. note 2005: Out-of-date info withheld.]. They will be sent to England. Send a few, send a lot, all will help. If you lose the Pittsburgh address, send the stamps to [Ed. note 2005: Out-of-date info withheld.]; I'll mail them on.
 
-<img alt="Border Art" class="float-left" loading="lazy" src="/qo288.jpg"/>
+<img alt="Border Art" class="float-left" loading="lazy" src="/qo288.jpg" width="129" height="1385"/>
 
 ## Collegium News:
 

@@ -14,7 +14,7 @@ revised = "1/13/2024"
 
 ## Newsletters
 
-<img alt="" loading="lazy" src="/ValdemarCrestsm.jpg"/>
+<img alt="" loading="lazy" src="/ValdemarCrestsm.jpg" width="242" height="283"/>
 
 <table class="cellpadding-2 cellspacing-2 border-2 table-align-center" style="width:80%" role="presentation">
 <tr>

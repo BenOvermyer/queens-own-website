@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 4, No. 12 December 1, 2003
 
-<img alt="2003 Holiday Gift by L.A. Malcor" class="border-2" loading="lazy" src="/qo187.jpg"/>
+<img alt="2003 Holiday Gift by L.A. Malcor" class="border-2" loading="lazy" src="/qo187.jpg" width="296" height="351"/>
 
 Heyla, Misty fans!
 
@@ -78,7 +78,7 @@ Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
-<img alt="So Shoot Me by Stephanie Blackwell" class="border-5 float-left" loading="lazy" src="/qo190.jpg"/>
+<img alt="So Shoot Me by Stephanie Blackwell" class="border-5 float-left" loading="lazy" src="/qo190.jpg" width="288" height="516"/>
 
 ## Ren. Faires:
 
@@ -196,7 +196,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Herald Sitara by Stephanie Blackwell" class="border-5 float-right" loading="lazy" src="/qo188.jpg"/>
+<img alt="Herald Sitara by Stephanie Blackwell" class="border-5 float-right" loading="lazy" src="/qo188.jpg" width="269" height="360"/>
 
 ## Member News:
 
@@ -301,7 +301,7 @@ Scout Skyfire k'Chona (liquid_twinkie@hotmail.com)
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Lavan and Kalira by Stephanie Blackwell" class="border-5 float-left" loading="lazy" src="/qo189.jpg"/>
+<img alt="Lavan and Kalira by Stephanie Blackwell" class="border-5 float-left" loading="lazy" src="/qo189.jpg" width="327" height="383"/>
 
 ### From Herald-Mage Adept Danya Winterborn:
 

@@ -12,7 +12,7 @@ canonical_path = "/compass-rose/spring-2002/editorial/"
 
 <table class="cellpadding-2 cellspacing-2" style="width:100%" role="presentation">
 <tr>
-<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px"/></td>
+<td class="align-left valign-top" style="width:15%"><img alt="Compass Rose Logo" class="border-5" loading="lazy" src="/crlogo.jpg" style="width:168px; height:168px" width="168" height="168"/></td>
 <td class="align-left valign-middle" style="width:50%"><b><i>The Compass Rose</i>, Vol. 2, No. 1, Spring 2002</b></td>
 <td style="width:35%"> </td>
 </tr>
@@ -22,7 +22,7 @@ canonical_path = "/compass-rose/spring-2002/editorial/"
 
 ## Letter from the Editor
 
-<img alt="The Compass Rose by Jan Tallevast" class="border-5" loading="lazy" src="/compassrose.jpg"/>
+<img alt="The Compass Rose by Jan Tallevast" class="border-5" loading="lazy" src="/compassrose.jpg" width="342" height="295"/>
 
 **The Compass Rose by Jan Tallevast**
 

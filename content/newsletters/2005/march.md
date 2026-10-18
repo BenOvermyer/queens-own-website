@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 6, No. 3 March 1, 2005
 
-<img alt="Embrace by Devin Harris" class="border-5" loading="lazy" src="/qo241.jpg"/>
+<img alt="Embrace by Devin Harris" class="border-5" loading="lazy" src="/qo241.jpg" width="386" height="500"/>
 
 Heyla, Misty fans!
 
@@ -78,7 +78,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Evil Pink by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo242.jpg"/>
+<img alt="Evil Pink by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo242.jpg" width="386" height="500"/>
 
 ## Member News:
 
@@ -138,7 +138,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Fae Warrior by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo243.jpg"/>
+<img alt="Fae Warrior by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo243.jpg" width="386" height="500"/>
 
 ### Collegium News:
 
@@ -187,7 +187,7 @@ One of the challenges running an online club is that people don't always leave a
 
 If you know any of these folks, please have them contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com) with a current e-mail address.
 
-<img alt="Little Girl by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo244.jpg"/>
+<img alt="Little Girl by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo244.jpg" width="331" height="500"/>
 
 ### From Healer Adept Moonstar:
 

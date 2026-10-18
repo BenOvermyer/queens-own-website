@@ -32,7 +32,7 @@ Speaking of things going into the newsletter, we would be happy to consider item
 
 ## From the Archives
 
-<a href="/pacific-northwest-collegium/"><img alt="Danya and Bard Kestran by Laura Cameron" loading="lazy" src="/cc2.gif"/></a>
+<a href="/pacific-northwest-collegium/"><img alt="Danya and Bard Kestran by Laura Cameron" loading="lazy" src="/cc2.gif" width="380" height="506"/></a>
 
 Here's an updated version of a piece that used to be sent to everyone who inquired about Queen's Own. The original author is Judith Louvis. Updates were made by L.A. Malcor.
 
@@ -60,7 +60,7 @@ In the past we've had local chapters, zine, a cookbook, writer's circles, role p
 
 ## Ren Faires:
 
-<a href="/pacific-northwest-collegium/"><img alt="Yarik in the Companion's Field by Laura Cameron" class="float-right" loading="lazy" src="/cc8.gif"/></a> Here are the faires we know about that are happening in May. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
+<a href="/pacific-northwest-collegium/"><img alt="Yarik in the Companion's Field by Laura Cameron" class="float-right" loading="lazy" src="/cc8.gif" width="482" height="494"/></a> Here are the faires we know about that are happening in May. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 ## California
 
@@ -117,7 +117,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at [h
 
 ## Conventions:
 
-<a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik Sparring by Laura Cameron" class="float-right" loading="lazy" src="/cc18.gif"/></a> Have any information about conventions in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
+<a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik Sparring by Laura Cameron" class="float-right" loading="lazy" src="/cc18.gif" width="433" height="248"/></a> Have any information about conventions in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 
 ## California
 
@@ -130,7 +130,7 @@ For additional Ren Faire information, visit the Renaissance Faire Homepage at [h
 
 ## Member News:
 
-<a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik by Laura Cameron" loading="lazy" src="/cc5.gif"/></a>
+<a href="/pacific-northwest-collegium/"><img alt="Danya and Yarik by Laura Cameron" loading="lazy" src="/cc5.gif" width="508" height="572"/></a>
 
 For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fandom" written by Elizabeth Barrette. (Judith is sending us a copy, and we hope to be able to make it available to you soon.)
 
@@ -166,7 +166,7 @@ For definitions of our fannish jargon, read "Pros & Cons: An Introduction to Fan
 
 ## Collegium News:
 
-<a href="/pacific-northwest-collegium/"><img alt="Danya, Yarik and Dean Terren by Laura Cameron" loading="lazy" src="/cc7.gif"/></a>
+<a href="/pacific-northwest-collegium/"><img alt="Danya, Yarik and Dean Terren by Laura Cameron" loading="lazy" src="/cc7.gif" width="481" height="485"/></a>
 
 We have individual handouts for aspiring Heralds, Healers, Bards, Mercenaries, Tayledras, Shin'a'in, and White Winds Sorcerers/Sorceresses and instructions on how to work for Herald-Mage status if you are already a Herald. You can find these handouts online at [Persona handouts and submission instructions](/persona-handouts/).
 
@@ -184,7 +184,7 @@ The Queen's Own mailing list was at one time about 1,100 members strong, and we 
 
 ## Fan Messages:
 
-<a href="/pacific-northwest-collegium/"><img alt="Yarik, Danya and Sherrill by Laura Cameron" class="float-right" loading="lazy" src="/cc9.gif"/></a> The newsletter is routinely posted to the Net. If you are concerned about your address falling into unfriendly hands, **don't place a fan message**! You may answer fan messages without ever placing one yourself. The editors reserve the right to edit--and shorten!--all messages. (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
+<a href="/pacific-northwest-collegium/"><img alt="Yarik, Danya and Sherrill by Laura Cameron" class="float-right" loading="lazy" src="/cc9.gif" width="430" height="515"/></a> The newsletter is routinely posted to the Net. If you are concerned about your address falling into unfriendly hands, **don't place a fan message**! You may answer fan messages without ever placing one yourself. The editors reserve the right to edit--and shorten!--all messages. (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 
 The only "fee" for a fan message is to write to two other people. If your mailbox is empty, don't complain--write letters!
 
@@ -192,7 +192,7 @@ The only "fee" for a fan message is to write to two other people. If your mailbo
 
 ## Personals:
 
-<a href="/pacific-northwest-collegium/"><img alt="Healing Session by Laura Cameron" loading="lazy" src="/cc27.gif"/></a>
+<a href="/pacific-northwest-collegium/"><img alt="Healing Session by Laura Cameron" loading="lazy" src="/cc27.gif" width="290" height="303"/></a>
 
 - To **Herald Jensen Redstart** and **Herald An'Talyah Brighthawk** from **Herald-Mage Journeyman Danya Winterborn**. Thanks for helping us get the new incarnation of Queen's Own off the ground!
 - From: **Rea Wildfire/Aurora Nelson**, To: Everyone who knows me. Sorry for being a ditz for not writing. Letters coming! Some of you owe me letters! :)

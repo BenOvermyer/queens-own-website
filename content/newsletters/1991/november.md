@@ -20,13 +20,13 @@ Mercedes Lackey Fan Club
 
 ## Series 1, Vol. V, No. 3 November 1991
 
-<img alt="Misty, Larry and Need at Dreamcon 6 in Everett, Washington. The photograph was taken at Dreamcon 6 in Everett, Washington and supplied by Herald Aerolyn." class="border-5" loading="lazy" src="/qo140.jpg"/>
+<img alt="Misty, Larry and Need at Dreamcon 6 in Everett, Washington. The photograph was taken at Dreamcon 6 in Everett, Washington and supplied by Herald Aerolyn." class="border-5" loading="lazy" src="/qo140.jpg" width="401" height="341"/>
 
 **(Note: These are excerpts from the original newsletter that was published on this date. The Queen's Own address has been updated. The current President of Queen's Own is Herald-Mage Adept Danya Winterborn. For more information, see [Queen’s Own](/).)**
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg"/>Dear Misty Fans,
+<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg" width="133" height="103"/>Dear Misty Fans,
 
 She likes it! ("It" being the replica of *Need*, of course, and "she" obviously being Misty.) To all of you who enviously said, "Have a great time at DreamCon," I wasn't there either! But the Pacific Northwest Collegium did us all proud. Here's Tia Schmidt's report of the weekend …
 

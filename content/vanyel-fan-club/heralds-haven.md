@@ -10,7 +10,7 @@ topic = "community"
 canonical_path = "/vanyel-fan-club/heralds-haven/"
 +++
 
-<img alt="" loading="lazy" src="/vfchgn.jpg"/>
+<img alt="" loading="lazy" src="/vfchgn.jpg" width="308" height="72"/>
 
 Below are Gates to the homes of various Heralds of the Vanyel Fan Club:
 

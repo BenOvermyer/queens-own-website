@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 2, No. 2 February 1, 2001
 
-<img alt="Gryphons by Jan Tallevast" class="border-3" loading="lazy" src="/qo56.jpg"/>
+<img alt="Gryphons by Jan Tallevast" class="border-3" loading="lazy" src="/qo56.jpg" width="300" height="428"/>
 
 Heyla, Misty fans!
 
@@ -69,7 +69,7 @@ Zhai'helleva,
 
 ## Ren Faires:
 
-<img alt="Eagle by Jan Tallevast" class="border-2 float-left" loading="lazy" src="/qo57.jpg"/>
+<img alt="Eagle by Jan Tallevast" class="border-2 float-left" loading="lazy" src="/qo57.jpg" width="297" height="336"/>
 
 Here are the faires we know about that are happening in February. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
@@ -223,7 +223,7 @@ CON OF THE NORTH 2001. E-mail: [info@conofthenorth.org](mailto:info@conofthenort
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Girl and Man by Jan Tallevast" class="border-3" loading="lazy" src="/qo59.jpg"/>
+<img alt="Girl and Man by Jan Tallevast" class="border-3" loading="lazy" src="/qo59.jpg" width="300" height="374"/>
 
 ## Member News:
 
@@ -237,7 +237,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [Collegium Chronicles](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery.
 - **The Vanyel Fan Club**: The *Vanyel Fan Club* is a chapter of QO that started out as an independent fan organization. The chapter is devoted to fans of Herald-Mage Vanyel Ashkevron from *The Last Herald-Mage Trilogy* by Mercedes Lackey. E-mail: [VanyelFanClub@hotmail.com](mailto:VanyelFanClub@hotmail.com); Herald Bastian, President aka Western Guardian ([herald_bastian@hotmail.com](mailto:herald_bastian@hotmail.com)); Herald-Mage Master Danya Winterborn, Guardian of Questions aka Northern Guardian ([shashtah@gmail.com](mailto:shashtah@gmail.com)); Herald Kaeldra, Guardian of Trainees/New Heralds aka Eastern Guardian ([healermoon@gmail.com](mailto:healermoon@gmail.com)). (The position of Southern Guardian, editor of the VFC newsletter, is currently open. Several people are interviewing for it.) There are currently no dues, but dues will probably be set at $10 per year for people who wish to subscribe to a hardcopy of the newsletter/zine. For more information, see the VFC website at [Vanyel Fan Club](/vanyel-fan-club/).
 
-<img alt="Healer by Jan Tallevast" class="border-3 float-right" loading="lazy" src="/qo60.jpg"/>
+<img alt="Healer by Jan Tallevast" class="border-3 float-right" loading="lazy" src="/qo60.jpg" width="228" height="338"/>
 
 ### Zines and Newsletters:
 
@@ -251,7 +251,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ## Other Fandoms:
 
-<img alt="Owlsight by Jan Tallevast" class="border-5" loading="lazy" src="/qo61.jpg"/>
+<img alt="Owlsight by Jan Tallevast" class="border-5" loading="lazy" src="/qo61.jpg" width="300" height="407"/>
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
@@ -277,7 +277,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 - Welcome to **Tayledras Scout Brightshadow k'Vala** (Bondbird Ahnshee, a Saker Falcon), Gifted with Mindspeech with his Bondbird and Non-Human Races. **Jaime Paz** wrote a story and submitted it to three of our 'zines, created a new Pelagris race (firehounds), and composed a piece of music.
 - **Cassandra Vuksa** brings us NPC **Bard Tiernan Ava**, Gifted with Talent and Creativity. Cassandra wrote about her Bard and his family and friends, composed lyrics to a song, and sent a story and two poems to one of our 'zines.
 
-<img alt="Flying Gryphon by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo58.jpg"/>
+<img alt="Flying Gryphon by Jan Tallevast" class="border-5 float-right" loading="lazy" src="/qo58.jpg" width="300" height="399"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 

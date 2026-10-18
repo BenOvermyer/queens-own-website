@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo289.jpg"/> *The Faces of Fantasy* is a collection of photographs of fantasy writers taken by Patti Perret. Each author has a full page picture and a chance to say a few words. There are photos of Marion Zimmer Bradley, Anne McCaffrey, Peter Beagle, Storm Constantine, Barbara Hambly, Emma Bull, Charles de Lint, Melanie Rawn and many, many more. Misty's photo shows her holding 'Kaika, her umbrella cockatoo. Her write-up speaks of the importance of "paying forward.". She and Larry feel that htere is no way for anyone to ever pay back all the good things that come along, so the best response is to pay *forward*, to give of oneself when needed. This philosophy is reflected in their writing and in their care of wild birds.
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo289.jpg" width="155" height="1583"/> *The Faces of Fantasy* is a collection of photographs of fantasy writers taken by Patti Perret. Each author has a full page picture and a chance to say a few words. There are photos of Marion Zimmer Bradley, Anne McCaffrey, Peter Beagle, Storm Constantine, Barbara Hambly, Emma Bull, Charles de Lint, Melanie Rawn and many, many more. Misty's photo shows her holding 'Kaika, her umbrella cockatoo. Her write-up speaks of the importance of "paying forward.". She and Larry feel that htere is no way for anyone to ever pay back all the good things that come along, so the best response is to pay *forward*, to give of oneself when needed. This philosophy is reflected in their writing and in their care of wild birds.
 
 *The Faces of Fantasy* is a large size paperback published by Tor and priced at [Ed. note 2005: Out-of-date info withheld.]. For information of Tor Books on the World Wide Web, use [Ed. note 2005: Out-of-date info withheld.]. (Buy *Faces* before Dragon&#42;Con and play spot the author.)
 
@@ -114,7 +114,7 @@ The Pacific Northwest Collegium is looking for a new editor! Charlene Ryan is re
 
 Support our local chapters and our zines. They can be an outlet for your talent as well as a great place to play and make more friends.
 
-<img alt="Border Art" class="float-right" loading="lazy" src="/qo290.jpg"/>
+<img alt="Border Art" class="float-right" loading="lazy" src="/qo290.jpg" width="169" height="1305"/>
 
 ## COLLEGIUM NEWS:
 

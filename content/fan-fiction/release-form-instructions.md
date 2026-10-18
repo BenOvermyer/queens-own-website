@@ -11,11 +11,11 @@ canonical_path = "/release-form-instructions/"
 
 ## Release Form Instructions
 
-<img alt="" loading="lazy" src="/book2.gif"/>
+<img alt="" loading="lazy" src="/book2.gif" width="148" height="62"/>
 
 Every time you write a story based on Misty's stories, you need to file a release form with High Flight:
 
-<a href="/mercedes-lackey-release-form/"><img alt="" loading="lazy" src="/ball.gif"/></a>[Release Form (HTML version)](/mercedes-lackey-release-form/)
+<a href="/mercedes-lackey-release-form/"><img alt="" loading="lazy" src="/ball.gif" width="14" height="14"/></a>[Release Form (HTML version)](/mercedes-lackey-release-form/)
 
 Print out the form, fill it out, and mail it to High Flight along with a copy of your story.
 
@@ -25,4 +25,4 @@ Forms distributed by:
 
 Queens Own The Official Mercedes Lackey Fan Club P.O. Box 749 Laguna Beach, CA 92652 USA
 
-[<img alt="" class="float-center" loading="lazy" src="/buthome.gif"/>Return to the Dragonlords of Dumnonia Home Page](https://dragonlords.fans/index.htm)
+[<img alt="" class="float-center" loading="lazy" src="/buthome.gif" width="125" height="45"/>Return to the Dragonlords of Dumnonia Home Page](https://dragonlords.fans/index.htm)

@@ -24,7 +24,7 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg"/>Dear Misty Fans,
+<img alt="QO Logo" class="float-right" loading="lazy" src="/qo180.jpg" width="133" height="103"/>Dear Misty Fans,
 
 Book release dates:
 

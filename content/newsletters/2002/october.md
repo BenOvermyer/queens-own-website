@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 3, No. 10 October 1, 2002
 
-<img alt="Cat Leisure by Gibel Encarnacion" class="border-5 float-center" loading="lazy" src="/qo132.jpg"/>
+<img alt="Cat Leisure by Gibel Encarnacion" class="border-5 float-center" loading="lazy" src="/qo132.jpg" width="345" height="258"/>
 
 Heyla, Misty fans!
 
@@ -317,7 +317,7 @@ NEW ZEALAND DIPLOMACY CHAMPIONSHIPS. Website: [http://daanz.org.au/dip-tournamen
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Cat Stretch by Gibel Encarnacion" class="border-5 float-center" loading="lazy" src="/qo133.jpg"/>
+<img alt="Cat Stretch by Gibel Encarnacion" class="border-5 float-center" loading="lazy" src="/qo133.jpg" width="429" height="357"/>
 
 ## Member News:
 
@@ -340,7 +340,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com). The Typo-Dragon Giveaway contest has begun. To win you need to be a member of HC and send in something to print (story, recipe etc.) with your name, address, city, state and zip. (Phone number optional). Deadline is Dec. 15, 2001. Also, if anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
 
-<img alt="Cel Bow by Gibel Encarnacion" class="border-5 float-right" loading="lazy" src="/qo134.jpg"/>
+<img alt="Cel Bow by Gibel Encarnacion" class="border-5 float-right" loading="lazy" src="/qo134.jpg" width="395" height="372"/>
 
 ## Other Fandoms:
 
@@ -356,7 +356,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Come and Play by Gibel Encarnacion" class="border-5 float-left" loading="lazy" src="/qo135.jpg"/>
+<img alt="Come and Play by Gibel Encarnacion" class="border-5 float-left" loading="lazy" src="/qo135.jpg" width="235" height="402"/>
 
 ### Collegium News:
 

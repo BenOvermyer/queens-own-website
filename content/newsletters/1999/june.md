@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg"/>
+<img alt="Queen's Own/Merging of the Ways" loading="lazy" src="/qo179.jpg" width="774" height="99"/>
 
 ## The Official Mercedes Lackey Fan Club
 
-<a href="http://www.amazon.com/exec/obidos/ASIN/0886778336/dragonlordsofdumA/"><img alt="" class="float-left" loading="lazy" src="/ml54.gif"/></a><img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo113.jpg"/>Black Swan - DAW released May 1999 ISBN 0886778336
+<a href="http://www.amazon.com/exec/obidos/ASIN/0886778336/dragonlordsofdumA/"><img alt="" class="float-left" loading="lazy" src="/ml54.gif" width="97" height="140"/></a><img alt="Border by Herald Alora" class="float-right" loading="lazy" src="/qo113.jpg" width="74" height="904"/>Black Swan - DAW released May 1999 ISBN 0886778336
 
 After his wife's untimely death, a powerful sorcerer dedicates his life to seeking revenge against all womankind. Scouring his lands to capture women who inspire his rage for vengeance, he turns them into swans who only regain their human forms by the transitory light of the moon. Only Odette, noblest of the enchanted flock, has the courage to confront her captor. Can she gain the allies she needs to free herself and the other swan-maidens from their magical slavery? A monumental tale of loyalty and betrayal, of magic used for good and for evil, of love both carnal and pure, and of the incredible duality of human nature, The Black Swan is a rich tapestry which is sure to be recognized as a masterpiece of fantasy.
 
@@ -70,7 +70,7 @@ BEST FRIENDS ANIMAL SANCTUARY-The nation's largest sanctuary for abused and aban
 
 **NOTICE** ~ I would like to see a new logo or letterhead for Queen's Own. I know that there are lots of creative minds in this club and I would like to see what you can come up with. Full credit will go to the artist as usual. The logo/letterhead must contain "Queen's Own - Merging of the Ways". Winner will receive a full year subscription FREE! Please send to the QO PO Box, and mark the envelope "Logo". Thanks in advance for your participation. Deadline for submissions is August 1, 1999.
 
-<img alt="Companions and Crossed Swords by Herald Alora" loading="lazy" src="/qo114.jpg"/>
+<img alt="Companions and Crossed Swords by Herald Alora" loading="lazy" src="/qo114.jpg" width="403" height="95"/>
 
 ## LOCAL CHAPTERS
 

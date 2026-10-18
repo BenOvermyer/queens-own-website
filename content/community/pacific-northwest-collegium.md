@@ -11,7 +11,7 @@ canonical_path = "/pacific-northwest-collegium/"
 revised = "3/09/10"
 +++
 
-<img alt="" loading="lazy" src="/cc1.gif"/>
+<img alt="" loading="lazy" src="/cc1.gif" width="770" height="286"/>
 
 The Collegium Chronicles is the official newsletter for members of the Pacific Northwest Collegium, a Mercedes Lackey Fan Club serving primarily Washington, Oregon, Idaho, California, and other various and sundry places. We are a not-for-profit fan-run organization, publishing for the sole purpose of sharing news of Velgarth and other "Misty" realms. The chapter is currently up for adoption.
 

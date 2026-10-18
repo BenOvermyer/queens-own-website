@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 5, No. 11 November 1, 2004
 
-<img alt="Dolvendusk by Rebecca Fitzgerald" class="border-5" loading="lazy" src="/qo224.jpg"/>
+<img alt="Dolvendusk by Rebecca Fitzgerald" class="border-5" loading="lazy" src="/qo224.jpg" width="364" height="150"/>
 
 Heyla, Misty fans!
 
@@ -168,7 +168,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/).
 
-<img alt="Spring Song by Ellen Million" class="border-5 float-right" loading="lazy" src="/qo225.jpg"/>
+<img alt="Spring Song by Ellen Million" class="border-5 float-right" loading="lazy" src="/qo225.jpg" width="79" height="700"/>
 
 ## Member News:
 

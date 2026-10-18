@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 6, No. 8 August 1, 2005
 
-<img alt="Morrigan 2 by Laura Cameron" class="border-5" loading="lazy" src="/qo306.jpg"/>
+<img alt="Morrigan 2 by Laura Cameron" class="border-5" loading="lazy" src="/qo306.jpg" width="525" height="400"/>
 
 Heyla, Misty fans!
 
@@ -220,7 +220,7 @@ Interaction/Worldcon 2005. E-mail: [info@interaction.worldcon.org.uk](mailto:inf
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/) or the Sci-Fi Guide at [http://scifi.about.com/blcon.htm](http://scifi.about.com/blcon.htm).
 
-<img alt="Questionable Welcome by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo307.jpg"/>
+<img alt="Questionable Welcome by Devin Harris" class="border-5 float-right" loading="lazy" src="/qo307.jpg" width="250" height="313"/>
 
 ## Member News:
 
@@ -280,7 +280,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - Star Trek: The **USS Starfire** is a writing group that writes original fiction set in the Star Trek universe. To find our more about our group, please visit our website at [http://www.epix.net/~ckocher/starfire.html](http://www.epix.net/~ckocher/starfire.html) or e-mail us at [trek01@epix.net](mailto:trek01@epix.net).
 - Doctor Who and other Media: **The Prydonians of Prynceton,**P.O. Box 3194, Princeton, NJ 08543-3194.
 
-<img alt="Watching Madness by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo308.jpg"/>
+<img alt="Watching Madness by Devin Harris" class="border-5 float-left" loading="lazy" src="/qo308.jpg" width="281" height="300"/>
 
 ### Collegium News:
 

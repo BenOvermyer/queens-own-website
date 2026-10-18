@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 3, No. 7 July 1, 2002
 
-<img alt="Man by Laura Felton" class="border-5 float-center" loading="lazy" src="/qo124.jpg"/>
+<img alt="Man by Laura Felton" class="border-5 float-center" loading="lazy" src="/qo124.jpg" width="246" height="341"/>
 
 Heyla, Misty fans!
 
@@ -372,7 +372,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com). The Typo-Dragon Giveaway contest has begun. To win you need to be a member of HC and send in something to print (story, recipe etc.) with your name, address, city, state and zip. (Phone number optional). Deadline is Dec. 15, 2001. Also, if anyone has friends stationed overseas for the war, let us know and we'll send them a feezil mascot (to make anything feezilable). Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238. E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
 
-<img alt="Musicians by Laura Felton" class="border-5" loading="lazy" src="/qo125.jpg"/>
+<img alt="Musicians by Laura Felton" class="border-5" loading="lazy" src="/qo125.jpg" width="305" height="324"/>
 
 ## Other Fandoms:
 

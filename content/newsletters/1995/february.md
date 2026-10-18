@@ -26,7 +26,7 @@ Mercedes Lackey Fan Club
 
 Dear Misty Fans,
 
-<img alt="border by Hanna Bruin" class="float-right" loading="lazy" src="/qo110.jpg"/>Lots of news from Misty in this issue.
+<img alt="border by Hanna Bruin" class="float-right" loading="lazy" src="/qo110.jpg" width="168" height="1814"/>Lots of news from Misty in this issue.
 
 First, a note of warning: Misty says, "If you see a flyer with our names on it, as apparently happened for a convention called CONJUNCTION in Arkansas in January, the con committee is either lying or has been approached by my imposter. Yes, I have an imposter out there. If you meet someone claiming to be me at a convention, turn her in to the convention committee immediately! As for convention committees, evidently some people are convinced that if they claim we are going to be a guest we will be 'forced' to attend. We are not even going to the Queen's Own mini-con at &#42;NASFIC this year … . it's right in the middle of hacking-out season for my rehab birds, and stupid-fledgling season when young birds get hurt a lot. No matter what you see or hear, if you don't hear about it from us, here, it isn't true. If we decide to start attending conventions, I will announce it first here, but at the moment, it is not very likely, as the birds need us more."
 

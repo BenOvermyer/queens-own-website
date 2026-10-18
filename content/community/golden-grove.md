@@ -13,7 +13,7 @@ revised = "7/12/08"
 
 ## The California Chapter of Queen's Own
 
-<img alt="" loading="lazy" src="/GGlogo.png"/>
+<img alt="" loading="lazy" src="/GGlogo.png" width="100" height="100"/>
 
 Golden Grove is the California Chapter of Queen's Own. It is currently up for adoption. If you would like to adopt this chapter, contact Danya at [shashtah@gmail.com](mailto:shashtah@gmail.com).
 

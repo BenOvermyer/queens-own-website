@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo255.jpg"/> *Sacred Ground*, Misty's contemporary novel of fantasy and suspense, arrived early in many bookstores. It's a hardcover, with beautiful jacket art by Larry Dixon. *Sacred Ground* is the story of Jennifer Talldeer, a private investigator who is also the grand-daughter and student of a powerful Osage Medicine Man. Jennifer must call upon all her skills from both worlds as she battles the great evil that threatens the land.
+<img alt="Border art" class="float-right" loading="lazy" src="/qo255.jpg" width="160" height="1530"/> *Sacred Ground*, Misty's contemporary novel of fantasy and suspense, arrived early in many bookstores. It's a hardcover, with beautiful jacket art by Larry Dixon. *Sacred Ground* is the story of Jennifer Talldeer, a private investigator who is also the grand-daughter and student of a powerful Osage Medicine Man. Jennifer must call upon all her skills from both worlds as she battles the great evil that threatens the land.
 
 The winners of the recent George Alec Effinger Medical Fund raffle are: Melissa Wong--a trip to Fantasy Worlds 1 Festival in Berkeley; Michelle Betor--jewelry donated by Misty; Meghan O'Toole--an autographed Tempest T-shirt; and Rachel Rounsevilie--an autographed copy of Sword & Sorceress. The Fund thanks the members of QO for its support; the money raised by this raffle will go toward George's hospital bills. Anyone wishing to contribute to the Fund may do so at any time. The address is The George Alec Effinger Medical Fund [Ed. note 2005: Out-of-date info withheld.].
 

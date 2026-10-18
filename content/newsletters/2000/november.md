@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 1, No. 7 November 1, 2000
 
-<img alt="Bondbird by Adam King" class="border-3" loading="lazy" src="/qo32.jpg"/>
+<img alt="Bondbird by Adam King" class="border-3" loading="lazy" src="/qo32.jpg" width="395" height="314"/>
 
 Heyla, Misty fans!
 
@@ -61,7 +61,7 @@ This month we conclude our series of interviews with the editors of the various 
 
 ## Ren Faires:
 
-<img alt="Companions by Laura Felton" class="border-2" loading="lazy" src="/qo34.jpg"/>
+<img alt="Companions by Laura Felton" class="border-2" loading="lazy" src="/qo34.jpg" width="862" height="194"/>
 
 Here are the faires we know about that are happening in November. Faires are indexed alphabetically by state. Have any information about any other Ren Faires in your area? Send it to us at [shashtah@gmail.com](mailto:shashtah@gmail.com)
 
@@ -93,7 +93,7 @@ TEXAS RENAISSANCE FESTIVAL. Fax: 936-894-2391. E-mail: [info@texrenfest.com](mai
 
 For additional Ren Faire information, visit the Renaissance Faire Homepage at [http://www.renfaire.com/](http://www.renfaire.com/) and the Renaissance Magazine site at [http://www.renaissancemagazine.com](http://www.renaissancemagazine.com).
 
-<img alt="Directions by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo35.jpg"/>
+<img alt="Directions by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo35.jpg" width="92" height="812"/>
 
 ## Conventions:
 
@@ -285,7 +285,7 @@ NOVACON 30. E-mail: [pat@cooky.demon.co.uk](mailto:pat@cooky.demon.co.uk). Websi
 
 WOLF SG-2 MEDIA/STARGATE. E-mail: [wolf359con@aol.com](mailto:wolf359con@aol.com). Website: [http://www.wolfevents.co.uk](http://www.wolfevents.co.uk). Address: Wolf Events, PO Box 1419, Slough PDO, SL2 5WJ. Tel: 01753 771 078. Site Address: Heathrow Park Hotel, Heathrow, London, England, UK. 11/3/00 - 11/5/00.
 
-<img alt="Change Lizard by Adam King" class="border-3" loading="lazy" src="/qo33.jpg"/>
+<img alt="Change Lizard by Adam King" class="border-3" loading="lazy" src="/qo33.jpg" width="444" height="339"/>
 
 ## Member News:
 
@@ -297,7 +297,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Golden Grove:** Membership is open to all. Send all questions to **Golden Grove, c/o Theresa Young, 2573 Blue Heron Dr., Hudson, OH 44236**. To query by e-mail, contact [minna@adelphia.net](mailto:minna@adelphia.net). Visit our website at [Golden Grove](/golden-grove/) for more information. (See ad below.)
 - **Pacific Northwest Collegium:** Newsletter: *Collegium Chronicles*. $8 per year/$4 for a half-year, $2 per issue. Website: [Collegium Chronicles](/pacific-northwest-collegium/). General inquiries to: [anjakiya@hotmail.com](mailto:anjakiya@hotmail.com). (See ad below for more details.) *Collegium Chronicles* Back Issues: The Danya Winterborn Saga: 4 B&W issues: $4.00 each, 2 Full color issues: $6.00. Please allow 2-4 week delivery. **PNWC Members:** Yes, indeed, Vol.9 issue 4 WILL be out in late August/early September, with another issue immediately following. Mundane worldly issues have gobbled up my time and energies these past few months, making it impossible to devote to other projects. Never fear--PNWC and the *Chronicles* are still alive and kicking! **Laura/Moonglade**, editor.
 
-<img alt="Crystal Wren by Caitlyn Wilkinson" class="border-3" loading="lazy" src="/qo36.jpg"/>
+<img alt="Crystal Wren by Caitlyn Wilkinson" class="border-3" loading="lazy" src="/qo36.jpg" width="211" height="365"/>
 
 ### Zines and Newsletters:
 
@@ -310,7 +310,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 
 ## Other Fandoms:
 
-<img alt="Bondbird by Caitlyn Wilkinson" class="border-5" loading="lazy" src="/qo37.jpg"/>
+<img alt="Bondbird by Caitlyn Wilkinson" class="border-5" loading="lazy" src="/qo37.jpg" width="388" height="376"/>
 
 - Lois Bujold: Lois Bujold can be reached at [lois@dendarii.com](mailto:lois@dendarii.com). "The Bujold Nexus" is at [http://www.dendarii.com](http://www.dendarii.com/). You can receive information about their newsletter, the "Dendarii Dispatch" by contacting Lyn Belzer, Editor, 25-16 18th St., #2 Long Island City, NY 11102.
 - Marion Zimmer Bradley: Marion Zimmer Bradley's *FANTASY Magazine.* is being discontinued. Please contact us if you have any additional information about the future of her fandom.
@@ -333,7 +333,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 - Welcome, **Tayledras Scout Skyfire k'Chona** and his bondbirds gray Gyrfalcon Krellin and brown Red-tailed Hawk Koten. Skyfire is gifted with Mindspeech with his bondbirds, humans and non-human races. **Adam King** wrote about Skyfire and his friends, drew a picture of Koten and created a new Peligirs race.
 
-<img alt="Companions and Bondbirds by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo39.jpg"/>
+<img alt="Companions and Bondbirds by Herald Alora" class="border-5 float-right" loading="lazy" src="/qo39.jpg" width="96" height="802"/>
 
 ### From Healer Adept Moonstar:
 
@@ -359,7 +359,7 @@ Moonstar
 
 ## Fan Messages:
 
-<img alt="Cleric and Star by Herald Alora" class="border-3 float-left" loading="lazy" src="/qo38.jpg"/>
+<img alt="Cleric and Star by Herald Alora" class="border-3 float-left" loading="lazy" src="/qo38.jpg" width="88" height="789"/>
 
 The newsletter is routinely posted to the Net. If you are concerned about your address falling into unfriendly hands, don't place a fan message! You may answer fan messages without ever placing one yourself. The editors reserve the right to edit--and shorten!--all messages. (Remember to tell your Post Office about your alternative name if you wish to receive mail addressed to your persona at an addressed where you receive mail under your real name.)
 

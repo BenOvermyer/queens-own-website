@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 4, No. 5 May 1, 2003
 
-<img alt="Unicorn 1 by Jennifer Williams" loading="lazy" src="/qo156.jpg"/>
+<img alt="Unicorn 1 by Jennifer Williams" loading="lazy" src="/qo156.jpg" width="316" height="225"/>
 
 Heyla, Misty fans!
 
@@ -48,7 +48,7 @@ Zhai'helleva,
 
 Herald-Mage Adept Danya Winterborn and Healer Adept Moonstar
 
-<img alt="Dragon by Jennifer Williams" class="border-5 float-right" loading="lazy" src="/qo157.jpg"/>
+<img alt="Dragon by Jennifer Williams" class="border-5 float-right" loading="lazy" src="/qo157.jpg" width="368" height="299"/>
 
 ## Ren Faires:
 
@@ -370,7 +370,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<img alt="Skydance k'Shira by Jennifer Williams" class="border-5 float-right" loading="lazy" src="/qo158.jpg"/>
+<img alt="Skydance k'Shira by Jennifer Williams" class="border-5 float-right" loading="lazy" src="/qo158.jpg" width="296" height="407"/>
 
 ## Member News:
 
@@ -406,7 +406,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - **Tales of the Southern Bard:** TOTSB needs members and submissions. TOTSB will be a quarterly, snail-mail zine and will feature short stories, poetry, reviews and artwork of fantasy, science fiction, and horror genres. Aimed specifically for the South all are welcome to join. If interested please contact Herald Valana/Rachel Valentine at [SouthernBard@eudoramail.com](mailto:SouthernBard@eudoramail.com) for submission guidelines and information on how to join or visit TOTSB's homepage: [http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm](http://www.angelfire.com/zine2/southernbard/Tales_of_the_Southern_Bard.htm).
 - ***Tales of the Unicorn*:** After a decade hiatus it's back … *Tales of the Unicorn*. Tales seeks fantasy fiction of all types, though we are most open to sword and sorcery, high fantasy, and magical fantasy. Tales will be published quarterly with the first issue coming in late April. Art and poetry are also welcome. Visit our website at [http://www.marymuse.com/HeartlandArrows/TotU.html](http://www.marymuse.com/HeartlandArrows/TotU.html) for more information. Submissions may be sent to [adeptstarfeather@marymuse.com](mailto:adeptstarfeather@marymuse.com) or by mail to Mary Wilson, PO Box 235, Mitchellville, IA, 50169.
 
-<img alt="Unicorn 2 by Jennifer Williams" class="border-5 float-right" loading="lazy" src="/qo159.jpg"/>
+<img alt="Unicorn 2 by Jennifer Williams" class="border-5 float-right" loading="lazy" src="/qo159.jpg" width="251" height="237"/>
 
 ## Other Fandoms:
 

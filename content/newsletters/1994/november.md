@@ -24,11 +24,11 @@ Mercedes Lackey Fan Club
 
 [Begin Excerpt]
 
-<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg"/>
+<img alt="QO Logo" class="float-left" loading="lazy" src="/qo180.jpg" width="133" height="103"/>
 
 Dear Misty Fans,
 
-<img alt="The Eagle and the Nightingales" class="float-right" loading="lazy" src="/ml25.gif"/> *Bardic Voices: The Eagle & the Nightingales* has a January/February release date: "Why is the High King of the Human kingdoms not doing his job - and thereby allowing the Church to fill the power vacuum in the human lands of Alanda? This is a matter of some concern to Nightingale and her friends; the Church is becoming ever more overtly hostile to non-human sentients (of which there are several species in Alanda) as well as to anything that it does not at least indirectly control, such as gypsies and Free Bards.
+<img alt="The Eagle and the Nightingales" class="float-right" loading="lazy" src="/ml25.gif" width="88" height="140"/> *Bardic Voices: The Eagle & the Nightingales* has a January/February release date: "Why is the High King of the Human kingdoms not doing his job - and thereby allowing the Church to fill the power vacuum in the human lands of Alanda? This is a matter of some concern to Nightingale and her friends; the Church is becoming ever more overtly hostile to non-human sentients (of which there are several species in Alanda) as well as to anything that it does not at least indirectly control, such as gypsies and Free Bards.
 
 "To discover just what is going on, Nightingale will join forces with T'tyrr, a birdman with the visage of a raptor and the voice of an angelic choir. And before the King - and through him the gypsies, Free Bards and non-humans of the twenty kingdoms - is saved, the Eagle and the Nightingale will have become if not quite lovers than far more than friends … "
 
@@ -72,7 +72,7 @@ Holly Lisle is having more than her share of problems. You can send her good wis
 
 Elizabeth Barrette's *Pros & Cons: an Introduction to Fandom* can be yours [Ed. note 2005: Out-of-date info withheld.]. Don't send a SASE because I have envelopes just the right size. This little booklet has definitions of most of the "fan jargon" used in the newsletter and at cons and is especially valuable for new members.
 
-<img alt="Border art" loading="lazy" src="/qo264.jpg"/>
+<img alt="Border art" loading="lazy" src="/qo264.jpg" width="1159" height="153"/>
 
 ## MEMBER NEWS:
 
@@ -120,7 +120,7 @@ For information on joining The Westerfield Club, the official fan club of *The A
 
 Star Trek Welcommittee is a service organization and central information center, not a club to join. Its volunteer workers answer fans' questions about ST and ST fandom. All they ask is a SASE. Questions about ST clubs, zines, conventions, merchandise? Ask the Welcommittee! Star Trek Welcommittee [Ed. note 2005: Out-of-date info withheld.].
 
-<img alt="Border art" class="float-right" loading="lazy" src="/qo265.jpg"/>
+<img alt="Border art" class="float-right" loading="lazy" src="/qo265.jpg" width="131" height="1388"/>
 
 ### From Herald Housemother:
 
