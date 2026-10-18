@@ -82,6 +82,12 @@ duplicates = {text: pages for text, pages in descriptions.items() if len(pages) 
 if duplicates:
     sample = '; '.join(f'{text[:40]!r} x{len(pages)}' for text, pages in list(duplicates.items())[:3])
     errors.append(f'{len(duplicates)} duplicated meta descriptions: {sample}')
+for path, soup in documents.items():
+    if path.name == '404.html':
+        continue
+    canonical = soup.find_all('link', attrs={'rel': 'canonical'})
+    if len(canonical) != 1 or not (canonical[0].get('href') or '').startswith('http'):
+        errors.append(f'{path.relative_to(output)}: expected exactly one absolute canonical link')
 if list(output.rglob('*.pdf')):
     errors.append('PDF files unexpectedly present in site output')
 (ROOT / 'data' / 'anchor-report.json').write_text(json.dumps(anchor_warnings, indent=2) + '\n')

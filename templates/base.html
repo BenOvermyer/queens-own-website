@@ -14,6 +14,37 @@
   {%- elif section %}{% set meta_description = section.title ~ " — " ~ config.extra.description_tagline %}
   {%- else %}{% set meta_description = config.description %}{% endif %}
   <meta name="description" content="{{ meta_description }}">
+  {%- if page %}{% set meta_title = page.title %}{% elif section %}{% set meta_title = section.title %}{% else %}{% set meta_title = config.title %}{% endif %}
+  {%- set social_image = get_url(path='images/social-card.png') %}
+  {%- if current_url %}
+  <link rel="canonical" href="{{ current_url | safe }}">
+  {%- endif %}
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ config.title }}">
+  <meta property="og:title" content="{{ meta_title }}">
+  <meta property="og:description" content="{{ meta_description }}">
+  {%- if current_url %}
+  <meta property="og:url" content="{{ current_url | safe }}">
+  {%- endif %}
+  <meta property="og:image" content="{{ social_image }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ meta_title }}">
+  <meta name="twitter:description" content="{{ meta_description }}">
+  <meta name="twitter:image" content="{{ social_image }}">
+  {%- if current_path is defined and current_path == "/" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Queen’s Own",
+    "alternateName": "The Official Mercedes Lackey and Larry Dixon Fan Club",
+    "url": "{{ config.base_url }}",
+    "logo": "{{ get_url(path='images/queens-own-crest.webp') }}"
+  }
+  </script>
+  {%- endif %}
   <link rel="icon" href="{{ get_url(path='favicon.ico') }}" sizes="any">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ get_url(path='icons/favicon-16x16.png') }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ get_url(path='icons/favicon-32x32.png') }}">
