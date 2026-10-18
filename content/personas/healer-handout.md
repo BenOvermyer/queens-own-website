@@ -88,9 +88,9 @@ Exception: If you work in the health care field you may automatically claim full
 ## Special Notes for Healers
 
 - Do *not* combine your Healer persona with Herald or Bard. Being a Healer is a full-time and valuable job.
-- For General Rules, click [here](/persona-handouts/#rules).
-- For Submission Instructions, click [here](/persona-handouts/#submit).
-- For Helpful Hints, click [here](/persona-handouts/#help).
+- See the [general rules for persona submissions](/persona-handouts/#rules).
+- See the [submission instructions for persona handouts](/persona-handouts/#submit).
+- See the [helpful hints for persona submissions](/persona-handouts/#help).
 
 If you have additional questions, check out the [Healers and Healing](/healers-faq/) FAQ.
 

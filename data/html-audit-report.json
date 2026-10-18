@@ -83,7 +83,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "ab1ae714670e2d841f313f81fd0413c8c7790920b366f2bc06d202bdb46a72d0",
+        "visible_text_sha256": "393e03d9682fa55790567e52df03d7cf464fa8d8d26b36c1e14872ceef2e65bd",
         "links": 17,
         "images": 1,
         "anchors": [
@@ -1813,7 +1813,7 @@
       "path": "content/newsletters/1998/january.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "1c991eacc0efdd4bd71150f07c5d4844084c85e3124227b85ad70d3f9fb084d2",
+        "visible_text_sha256": "9c5521238468619a4a4a31d5bc0fe8893fef58541e933b56a2794d9a87225f5a",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -2707,7 +2707,7 @@
       "path": "content/newsletters/2005/august.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "80a63adc90593deca725c9cf42ee917e04de28465b5b9d47cea517a866392296",
+        "visible_text_sha256": "8e5bc9cd38e88de6c4100cfea7e51b6ff8836dc6879c68d2ef53f89d4fbff591",
         "links": 0,
         "images": 3,
         "anchors": [],
@@ -2852,7 +2852,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "e6c0e1ecfce4aa28808ac99f7cd8db09c1c6604962cac6210f66de875f3edec3",
+        "visible_text_sha256": "a7e371184328d5f2ac23d14afc19b75772cf978cd8d25b8c636c39b98fc605f1",
         "links": 5,
         "images": 0,
         "anchors": [
@@ -2880,7 +2880,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "a0e0fe8d88f579b3011bce5821d77f66287089a6767bb0ab6d7b23bab6d057f0",
+        "visible_text_sha256": "6d00694a51a0e468a7dee66eb85c2d0b818b3d4279c001d617abb031ee0f4e7d",
         "links": 5,
         "images": 0,
         "anchors": [
@@ -2899,7 +2899,7 @@
       "path": "content/personas/guild-handout.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "462edf0be02bef1e6124e1abae6e08bff3870231b897ac5c18fafb3caf40dd49",
+        "visible_text_sha256": "7b3e2c1e3316f988008a5c57e1beebd19d03a5b41ead7a6a9cdbb0731d62a229",
         "links": 4,
         "images": 0,
         "anchors": [
@@ -2917,7 +2917,7 @@
       "path": "content/personas/healer-handout.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "1904aad3eefba749f99d4de6cdadae9e1ff281cc7c43c8cb6e7ddae7eb6cc514",
+        "visible_text_sha256": "79ef47ed385a8655b7b16f2ff022cb380173a45c29ddb904f8a668c9589bb829",
         "links": 5,
         "images": 0,
         "anchors": [
@@ -2936,7 +2936,7 @@
       "path": "content/personas/herald-handout.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7e5b50b44506c5dbb692c34887922f80b29d2782501a8d83ee8197805df8b83a",
+        "visible_text_sha256": "361ce756e0753dc9b9aa3b99e665f69196d5a22b424c4397fa2324cf917f056e",
         "links": 3,
         "images": 0,
         "anchors": [
@@ -2962,7 +2962,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "21e99c4c417653ed48953c912ad85553d36f36e3782f990f722d5fab2fc089f1",
+        "visible_text_sha256": "4d20050021020377d65ca3e80e4c9edc03472280738f5c9285f669ae8f6c9f4d",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -2984,7 +2984,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "ed59660c48e477fd04e73eaf34ea9736af03f483a2805859e94ac3bd8188e205",
+        "visible_text_sha256": "6019f970cc035a5009beb5e721a1c0338b0d04e5caf10b0b8e52a754372089fb",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -3006,7 +3006,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "41b33b858336c98ddeefaf88baafc21ea47b5fd18da99feb4bc5ade5ef252a48",
+        "visible_text_sha256": "a86f5490fcd68e5ef783d544401da98b9df38d149a4a2aa75c586408dfa3e72a",
         "links": 3,
         "images": 0,
         "anchors": [
@@ -3032,7 +3032,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "e009558eead19db45c3b4b017a71d87b4eb37c31e2e1b746b590ea05324991ac",
+        "visible_text_sha256": "a3648d8e369a9e8dd0bca048317e553a07ec6c4bf23bb9c220fa55e9013f9e1c",
         "links": 3,
         "images": 0,
         "anchors": [
@@ -3062,7 +3062,7 @@
       "path": "content/personas/persona-directory.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "7f080393e10d2559b8a839ac6bce72bef2cb8302f2bc7b38a29cf9d2e2a30fc2",
+        "visible_text_sha256": "1ef432211fe43b7ebe161cc228cd3dbf7ed0fbe708d721ed82803dc3a0f2d010",
         "links": 0,
         "images": 0,
         "anchors": [],
@@ -3110,7 +3110,7 @@
         }
       ],
       "baseline": {
-        "visible_text_sha256": "ef69e4c632397f7037eb112fadd2b4972895e50f35bf8840f5d79b28199030ba",
+        "visible_text_sha256": "0dff8d410f7eb2eccdd8697e9c2029f08f5993361abace36ebaefea06a3db28c",
         "links": 1,
         "images": 0,
         "anchors": [
@@ -3125,7 +3125,7 @@
       "path": "content/personas/shina-in-handout.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "13a7f4eade0f20cc6ee6d4c6fa0576b5fad62000e3bd9dd79579045ad7af5ed0",
+        "visible_text_sha256": "8321486fc4ff504fbd6c5b32f3da99b511c4dbc4584fc31497ab8e403126e6f9",
         "links": 3,
         "images": 0,
         "anchors": [
@@ -3142,7 +3142,7 @@
       "path": "content/personas/sorcerer-handout.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "535b092abdb82429efdd9b01083997ed5b87cfee55aadb595ec5b9cd2ab13310",
+        "visible_text_sha256": "46499a5c74d08fb3088009120ac9aebad4648d3d709eba77f5d2eb3163e41d7e",
         "links": 5,
         "images": 0,
         "anchors": [
@@ -3158,7 +3158,7 @@
       "path": "content/personas/tayledras-handout.md",
       "findings": [],
       "baseline": {
-        "visible_text_sha256": "3a8ff91c7e92cc4cc0746c0e7cf34786d4524e2f6b84f6b80deadc1ab6175794",
+        "visible_text_sha256": "a288bc09df679a39a14b1c7ebfc02dcf995e7612e5e6f240fe7cc78d0059071b",
         "links": 1,
         "images": 0,
         "anchors": [

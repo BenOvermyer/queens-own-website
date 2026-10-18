@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}Page not found · {{ config.title }}{% endblock title %}
+{% block content %}
+<div class="hero">
+    <h1>Page not found</h1>
+    <span class="subtitle">This page isn’t here</span>
+</div>
+
+<p>The page you asked for doesn’t exist. It may have moved when the site was
+reorganized, or the link that brought you here may be out of date.</p>
+
+<p>You can <a href="{{ get_url(path='/') }}">return to the home page</a> or browse
+the <a href="{{ get_url(path='archive/') }}">complete archive</a>. The main sections are:</p>
+
+<ul class="page-list">
+  <li><a href="{{ get_url(path='membership/') }}">Membership</a></li>
+  <li><a href="{{ get_url(path='personas/') }}">Personas</a></li>
+  <li><a href="{{ get_url(path='world/') }}">Velgarth Reference</a></li>
+  <li><a href="{{ get_url(path='community/') }}">Community</a></li>
+  <li><a href="{{ get_url(path='publications/') }}">Publications</a></li>
+  <li><a href="{{ get_url(path='archive/') }}">Complete archive</a></li>
+</ul>
+{% endblock content %}

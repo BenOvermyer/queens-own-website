@@ -78,9 +78,9 @@ After you have acquired 25 points, you may become a Guild Apprentice!
 
 ## Special Notes for Guild Members
 
-- For General Rules, click [here](/persona-handouts/#rules).
-- For Submission Instructions, click [here](/persona-handouts/#submit).
-- For Helpful Hints, click [here](/persona-handouts/#help).
+- See the [general rules for persona submissions](/persona-handouts/#rules).
+- See the [submission instructions for persona handouts](/persona-handouts/#submit).
+- See the [helpful hints for persona submissions](/persona-handouts/#help).
 
 If you have additional questions, check out the [Guild](/guilds-faq/) FAQ.
 

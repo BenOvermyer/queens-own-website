@@ -142,9 +142,9 @@ After you have acquired 25 points, you may become a full clan member!
 
 - Be sure to list the Clan and Position you rolled for in your submission.
 - Characters should stay within Herald-Talia's time-line.
-- For General Rules, click [here](/persona-handouts/#rules).
-- For Submission Instructions, click [here](/persona-handouts/#submit).
-- For Helpful Hints, click [here](/persona-handouts/#help).
+- See the [general rules for persona submissions](/persona-handouts/#rules).
+- See the [submission instructions for persona handouts](/persona-handouts/#submit).
+- See the [helpful hints for persona submissions](/persona-handouts/#help).
 
 If you have additional questions, check out [The Shin'a'in](/shina-in-faq/) FAQ.
 

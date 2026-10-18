@@ -64,9 +64,9 @@ After you have acquired 25 points, you may claim your Blues!
 
 - Remember, to be accepted as a Blue you must either be the child of someone who works in the Palace at Haven or of a noble who is required to be at the Palace, or you must have demonstrated aptitude in some elite skill, such as science, engineering, mathematics, or architecture.
 - People do not stay Blues forever. Blues grow up and become something: a politician, a diplomat, a teacher of Blues … something. Keep in mind what you want your character to become when you are creating him/her. (See [Advanced Rank](/blues-handout/#advance) below.)
-- For General Rules, click [here](/persona-handouts/#rules).
-- For Submission Instructions, click [here](/persona-handouts/#submit).
-- For Helpful Hints, click [here](/persona-handouts/#help).
+- See the [general rules for persona submissions](/persona-handouts/#rules).
+- See the [submission instructions for persona handouts](/persona-handouts/#submit).
+- See the [helpful hints for persona submissions](/persona-handouts/#help).
 
 If you have additional questions, check out the [Blues and Blue Bloods](/blues-and-blue-bloods-faq/) FAQ.
 

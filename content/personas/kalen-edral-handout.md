@@ -119,9 +119,9 @@ Remember, if Kal'enedral are rare, Leshya'e Kal'enedral are a hundred times rare
 - As proof of your qualifications, send a brief description of what each rank as a fighter required you to do to obtain it and a photo of you receiving the rank or a copy of the certificate granting you the rank. For the oral presentation, send a recording of you delivering the paper.
 - Send a copy of each 20-page paper and tell where and when it was published. (Finding a publisher is part of the challenge. If the piece is too long for any local publisher to accept, let me know. Queen's Own will publish such materials in its online nonfiction journal, [The Compass Rose](/compass-rose/about/). Published books count in place of papers if the book is on the same topic as the paper.)
 - Your persona may only be Sworn to the Warrior. Scroll Sworn (Kal'enedral Oathbound to the Crone) are Misty-only type characters and are not available for play.
-- For General Rules, click [here](/persona-handouts/#rules).
-- For Submission Instructions, click [here](/persona-handouts/#submit).
-- For Helpful Hints, click [here](/persona-handouts/#help).
+- See the [general rules for persona submissions](/persona-handouts/#rules).
+- See the [submission instructions for persona handouts](/persona-handouts/#submit).
+- See the [helpful hints for persona submissions](/persona-handouts/#help).
 
 If you have additional questions, check out the [Religion](/religions-faq/) and [Shin'a'in](/shina-in-faq/) FAQs.
 

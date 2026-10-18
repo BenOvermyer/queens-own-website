@@ -12,6 +12,6 @@ publication_period = "December 1998"
 date_precision = "month"
 +++
 
-# December 1998
+## December 1998
 
 This issue was linked from the archive, but its content was not present in the recovered files. It remains unavailable pending recovery.
