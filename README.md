@@ -165,6 +165,29 @@ Markdown, during deployment verification. Intentional
 exceptions are listed in `data/html-exceptions.json` and documented in
 [`docs/html-audit.md`](docs/html-audit.md).
 
+## Accessibility audit
+
+`scripts/audit_a11y.py` checks the built pages for accessibility problems, and
+`scripts/verify.py` runs it during deployment verification, so a regression fails
+the build. The rules are:
+
+| Rule | Checks |
+| --- | --- |
+| `html-has-lang` | `<html>` declares a language |
+| `document-title` | the page has a non-empty title |
+| `page-has-one-h1` | exactly one `<h1>` |
+| `heading-order` | no skipped heading levels |
+| `image-alt` | every `<img>` has an `alt` attribute |
+| `link-name` | every link has an accessible name |
+| `link-text` | link text is not "here" or "click here" |
+| `landmark-one-main` | exactly one `<main>` landmark |
+| `skip-link` | a skip link to `#main` is present |
+| `table-header` | data tables have header cells, or are marked `role="presentation"` |
+
+Run it directly with `python3 scripts/audit_a11y.py --check`. The machine-readable
+result is `data/a11y-report.json`, and `data/a11y-exceptions.json` lists any
+acknowledged exceptions (currently empty).
+
 ## Content on Dragonlords
 
 [`docs/dragonlords-migration-inventory.md`](docs/dragonlords-migration-inventory.md)

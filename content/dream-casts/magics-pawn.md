@@ -473,4 +473,4 @@ Original list compiled by Firestorm.
 
 The information on this page is intended solely for the enjoyment of fans of the Last Herald Mage series. It is not intended to infringe in any way upon the rights held by Mercedes Lackey.
 
-<a href="http://leader.linkexchange.com/16/X513002/clicklogo" target="_top"><img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/16/X513002/showlogo?" style="width:468px; height:16px"/></a>
+<img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/16/X513002/showlogo?" style="width:468px; height:16px"/>

@@ -95,6 +95,7 @@ Rendering on desktop and mobile is still a manual check against the built site.
 hosts, missing local links and anchors, unrendered Markdown, duplicate IDs,
 local `<img>` elements without intrinsic `width`/`height`, meta descriptions that
 are missing, duplicated, or longer than ~156 characters, and a canonical link on
-every page), and the audit
+every page), `scripts/audit_a11y.py` checks accessibility on the built pages (see
+the README), and the audit
 inspects source markup for structural, presentational, and semantic problems;
 the table classification (data vs. layout) is editorial.

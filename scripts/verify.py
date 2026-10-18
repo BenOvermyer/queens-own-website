@@ -5,11 +5,11 @@ from pathlib import Path
 import re
 from urllib.parse import unquote, urlsplit
 from bs4 import BeautifulSoup
+import audit_a11y
 import audit_html
 from audit_links import audit
 from sanitize_persona_directories import SOURCES, render_source
 from verify_routes import validate
-
 ROOT = Path(__file__).resolve().parents[1]
 output = ROOT / 'public'
 errors = []
@@ -101,5 +101,14 @@ if html_report['summary']['unresolved_errors']:
     raise SystemExit('Unresolved HTML structural errors: see data/html-audit-report.json')
 print(f"HTML audit: {html_report['summary']['files_scanned']} documents, "
       f"{html_report['summary']['acknowledged_findings']} acknowledged exceptions, no unresolved structural errors.")
+a11y_report = audit_a11y.audit(output, documents=documents)
+audit_a11y.write_report(a11y_report)
+unacknowledged = [f for f in a11y_report['findings'] if not f['acknowledged']]
+for finding in unacknowledged:
+    errors.append(f"{finding['file']}: {finding['rule']} ({finding['detail']})")
+if errors:
+    raise SystemExit('\n'.join(errors))
+print(f"Accessibility audit: {a11y_report['summary']['files_scanned']} documents, "
+      f"{a11y_report['summary']['acknowledged']} acknowledged, no unacknowledged findings.")
 if (ROOT / 'data/site-routes.json').exists():
     validate(ROOT)

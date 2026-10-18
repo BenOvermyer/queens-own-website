@@ -20,7 +20,7 @@ The Official Mercedes Lackey Fan Club
 
 ## Series 3, Vol. 2, No. 12 December 1, 2001
 
-<a href="http://www.amazon.com/exec/obidos/ASIN/0756400376/dragonlordsofdumA/"><img alt="" class="float-center" loading="lazy" src="/ml60.jpg" width="96" height="140"/></a>
+<img alt="" class="float-center" loading="lazy" src="/ml60.jpg" width="96" height="140"/>
 
 Heyla, Misty fans!
 
@@ -48,7 +48,7 @@ So, for the holidays, I wish all of you a better world than the one that ended S
 
 Mercedes Lackey
 
-<a href="http://www.amazon.com/exec/obidos/ASIN/0886773520/dragonlordsofdumA/"><img alt="" class="float-left" loading="lazy" src="/ml4.gif" width="84" height="140"/></a>
+<img alt="" class="float-left" loading="lazy" src="/ml4.gif" width="84" height="140"/>
 
 ## Ren Faires:
 
@@ -132,7 +132,7 @@ These are the upcoming cons we know about. Have any information about convention
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://go.to/conventions](http://go.to/conventions).
 
-<a href="http://www.amazon.com/exec/obidos/ASIN/0756400082/dragonlordsofdumA/"><img alt="" class="float-right" loading="lazy" src="/ml59.jpg" width="93" height="140"/></a>
+<img alt="" class="float-right" loading="lazy" src="/ml59.jpg" width="93" height="140"/>
 
 ## Member News:
 
@@ -158,7 +158,7 @@ For definitions of our fannish jargon, read the 12-page booklet "Pros & Cons: An
 - ***Golden Grove*:** Editor: Theresa Young. E-mail: [minna@adelphia.net](mailto:minna@adelphia.net). A subscription to the newsletter is $4 US or twelve stamps per year. Foreign subscriptions are nine IRCs a year. Send your subscription requests and all questions to Golden Grove, c/o Theresea Young, 2573 Blue Heron Dr., Hudson, OH 44236. Visit our website at [Golden Grove](/golden-grove/) for more information.
 - ***Herald's Companion*:** Editor: Karen Bertke, 5694 Scarborough Dr., Cincinnati, OH 45238, E-mail: [krbertke@bertke.com](mailto:krbertke@bertke.com).
 
-<a href="http://www.amazon.com/exec/obidos/ASIN/0886776430/dragonlordsofdumA/"><img alt="" class="float-center" loading="lazy" src="/ml1.gif" width="84" height="140"/></a>
+<img alt="" class="float-center" loading="lazy" src="/ml1.gif" width="84" height="140"/>
 
 ## Other Fandoms:
 
@@ -185,7 +185,7 @@ All personae materials should be sent to the QO address or submitted by e-mail t
 
 We have no new personae to announce at this time (although three people are very close to approval). Several former members, however, have returned. Check out [Persona directory](/persona-directory/) as well as our Delphi forum to see who has reappeared! (If you know any of the people listed who do not have active memberships, please tell them about us so they can contact us and we can activate their memberships.)
 
-<a href="http://www.amazon.com/exec/obidos/ASIN/0886779898/dragonlordsofdumA/"><img alt="" class="float-right" loading="lazy" src="/ml55.jpg" width="91" height="140"/></a>
+<img alt="" class="float-right" loading="lazy" src="/ml55.jpg" width="91" height="140"/>
 
 ### From Herald-Mage Master Danya Winterborn:
 

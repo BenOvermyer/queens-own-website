@@ -879,6 +879,6 @@ Melt remaining 1 tablespoon butter in small saucepan over low heat. Stir in crum
 
 Remove potatoes from oven. Sprinkle with reserved leeks. Sprinkle top with crumb mixture. Broil 2-3 minutes or until golden (same effect can be achieved by cooking in low-temperature oven for a longer time).
 
-<a href="http://leader.linkexchange.com/20/X513002/clicklogo" target="_top"> <img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/20/X513002/showlogo?" style="width:468px; height:16px"/></a>
+<img alt="" ismap="" loading="lazy" src="http://leader.linkexchange.com/20/X513002/showlogo?" style="width:468px; height:16px"/>
 
 [<img alt="" class="float-center" loading="lazy" src="/butback.gif" width="68" height="47"/>Return to Danya Winterborn's Page](https://dragonlords.fans/index.htm)

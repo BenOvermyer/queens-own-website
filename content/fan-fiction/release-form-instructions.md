@@ -15,7 +15,7 @@ canonical_path = "/release-form-instructions/"
 
 Every time you write a story based on Misty's stories, you need to file a release form with High Flight:
 
-<a href="/mercedes-lackey-release-form/"><img alt="" loading="lazy" src="/ball.gif" width="14" height="14"/></a>[Release Form (HTML version)](/mercedes-lackey-release-form/)
+<img alt="" loading="lazy" src="/ball.gif" width="14" height="14"/>[Release Form (HTML version)](/mercedes-lackey-release-form/)
 
 Print out the form, fill it out, and mail it to High Flight along with a copy of your story.
 

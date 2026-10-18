@@ -34,7 +34,7 @@ for more information. The first newsletter is scheduled to appear August 15th.
 
 Misty's latest,
 
-<a href="http://www.amazon.com/exec/obidos/ASIN/0312864566/dragonlordsofdumA/"><img alt="" class="float-center" loading="lazy" src="/ml69.jpg" width="55" height="90"/></a>
+<img alt="" class="float-center" loading="lazy" src="/ml69.jpg" width="55" height="90"/>
 
 *[Elvenborn](http://www.amazon.com/exec/obidos/ASIN/0312864566/dragonlordsofdumA/) (Norton, Andre. Halfblood Chronicles, Bk. 3.)* with Andre Norton), is now available! *Take a Thief* will be out in paperback in October, and *Exile's Honor*, the long awaited novel about Alberich, is scheduled for publication in hardback in October as well.
 
