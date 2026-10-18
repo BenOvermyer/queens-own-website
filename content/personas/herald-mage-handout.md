@@ -112,9 +112,9 @@ Lest you think I am being too hard on those who would be Herald-Mages, I would l
 
 - As proof of your qualifications, send a brief description of each magic trick and tell how you learned it (i.e., from a book, a magic shop, a friend … )
 - Send a copy of each 20-page paper and tell where and when it was published. (Finding a publisher is part of the challenge. If the piece is too long for any local publisher to accept, let me know. Queen's Own has an online nonfiction journal, [The Compass Rose](/compass-rose/about/) to take such materials. Published books count in place of papers if the book is on the same topic as the paper.)
-- For Submission Instructions, click [here](/persona-handouts/#submit).
-- For General Rules, click [here](/persona-handouts/#rules).
-- For Helpful Hints, click [here](/persona-handouts/#help).
+- See the [submission instructions for persona handouts](/persona-handouts/#submit).
+- See the [general rules for persona submissions](/persona-handouts/#rules).
+- See the [helpful hints for persona submissions](/persona-handouts/#help).
 
 If you have additional questions, check out [The Magic of Velgarth](/magic-of-velgarth/) FAQ.
 

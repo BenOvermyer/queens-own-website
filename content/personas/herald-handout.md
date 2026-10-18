@@ -185,9 +185,9 @@ After you have acquired 25 points, you may be Chosen.
 - Stay within the rules of the Books. For instance, White Companions only; No Grove-Born Companions.
 - Your Companion can be of either sex.
 - Be sure to list your Companion's name as well as the Gifts you rolled for!
-- For General Rules, click [here](/persona-handouts/#rules).
-- For Submission Instructions, click [here](/persona-handouts/#submit).
-- For Helpful Hints, click [here](/persona-handouts/#help).
+- See the [general rules for persona submissions](/persona-handouts/#rules).
+- See the [submission instructions for persona handouts](/persona-handouts/#submit).
+- See the [helpful hints for persona submissions](/persona-handouts/#help).
 
 If you have additional questions, check out [The Heralds of Valdemar](/heralds-faq/) FAQ.
 

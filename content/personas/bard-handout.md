@@ -117,9 +117,9 @@ After you have acquired 25 points, you may claim your scarlets or wear your ribb
 ## Special Notes for Bards
 
 - For those of you who wish to be Minstrels or gleemen, go right ahead. Minstrels and gleemen are important.
-- For General Rules, click [here](/persona-handouts/#rules).
-- For Submission Instructions, click [here](/persona-handouts/#submit).
-- For Helpful Hints, click [here](/persona-handouts/#help).
+- See the [general rules for persona submissions](/persona-handouts/#rules).
+- See the [submission instructions for persona handouts](/persona-handouts/#submit).
+- See the [helpful hints for persona submissions](/persona-handouts/#help).
 
 If you have additional questions, check out the [Bards](/bards-faq/) FAQ.
 

@@ -153,7 +153,7 @@ In my character's backstory, she grew up in an area that could grow very little 
 
 <a id="books"></a>
 
-[Click here](/valdemar-timeline/) to see the timeline for the order of the books.
+[See the Valdemar timeline](/valdemar-timeline/) for the order of the books.
 
  ## Misty Links
 

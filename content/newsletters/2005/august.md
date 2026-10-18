@@ -208,15 +208,15 @@ CreationCon: StarGate. Website: [http://www.creationent.com/cal/sgny.htm](http:/
 
 ### Ohio
 
-CreationCon: StarGate. Website: [](http://www.creationent.com/cal/sgohio.htm). Address: Creation Entertainment, 217 S. Kenwood St., Glendale, CA 91205. Site Address: Columbus Mariott North, 6500 Doubletree Ave., Columbus. Dates: 8/19/05 ' 8/21/05.
+CreationCon: StarGate. Website: [Creation Entertainment](http://www.creationent.com/cal/sgohio.htm). Address: Creation Entertainment, 217 S. Kenwood St., Glendale, CA 91205. Site Address: Columbus Mariott North, 6500 Doubletree Ave., Columbus. Dates: 8/19/05 ' 8/21/05.
 
 ### Canada
 
-Gatecon 2005. Website: [](http://www.gatecon.com/home.asp). Address: P.O. Box 76108, Colorado Springs, CO 80970. Site address: Best Western Vancouver Airport Hotel & Convention Centre, 7551 Westminster Highway, Richmond, British Columbia. Dates: 7/25/05-8/1/05.
+Gatecon 2005. Website: [Gatecon 2005](http://www.gatecon.com/home.asp). Address: P.O. Box 76108, Colorado Springs, CO 80970. Site address: Best Western Vancouver Airport Hotel & Convention Centre, 7551 Westminster Highway, Richmond, British Columbia. Dates: 7/25/05-8/1/05.
 
 ### United Kingdom
 
-Interaction/Worldcon 2005. E-mail: [](mailto:info@interaction.worldcon.org.uk). Website: [](http://www.interaction.worldcon.org.uk). Site Address: Scottish Exhibition and Conference Centre (SECC), Glasgow, Scotland. Dates: 8/4/05 ' 8/8/05.
+Interaction/Worldcon 2005. E-mail: [info@interaction.worldcon.org.uk](mailto:info@interaction.worldcon.org.uk). Website: [Interaction/Worldcon 2005](http://www.interaction.worldcon.org.uk). Site Address: Scottish Exhibition and Conference Centre (SECC), Glasgow, Scotland. Dates: 8/4/05 ' 8/8/05.
 
 For additional Convention information, visit Convention Outpost by Jenga at [http://www.geocities.com/jengacons/](http://www.geocities.com/jengacons/) or the Sci-Fi Guide at [http://scifi.about.com/blcon.htm](http://scifi.about.com/blcon.htm).
 

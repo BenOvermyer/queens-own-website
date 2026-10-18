@@ -1,5 +1,5 @@
 +++
-title = "Letter from the Editor"
+title = "Letter from the Editor — Spring 2002"
 path = "compass-rose/spring-2002/editorial"
 template = "page.html"
 [extra]

@@ -727,4 +727,4 @@ This list is for strange ranks that were approved in the past that we don't have
 2. &#42;Shadow Herald Gabrin ([April 1990](/newsletters/1990/april/)) (No Gifts Listed)
 <!-- persona-list:other:end -->
 
-[Click here](/npc-directory/) to see the list of additional personae that have been created by existing Queen's Own members.
+[See the NPC directory](/npc-directory/) for additional personae created by existing Queen's Own members.

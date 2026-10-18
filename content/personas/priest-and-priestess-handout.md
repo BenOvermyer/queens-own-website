@@ -62,9 +62,9 @@ After you have acquired 25 points, you may become a Hedge Priest of the religion
 - Stay within the rules of the Books--We are not allowed to create what Misty hasn't. You may not create new religions on Velgarth.
 - Characters should stay within Solaris's time, after she becomes the Son of the Sun.
 - No evil clerics will be approved.
-- For General Rules, click [here](/persona-handouts/#rules).
-- For Submission Instructions, click [here](/persona-handouts/#submit).
-- For Helpful Hints, click [here](/persona-handouts/#help).
+- See the [general rules for persona submissions](/persona-handouts/#rules).
+- See the [submission instructions for persona handouts](/persona-handouts/#submit).
+- See the [helpful hints for persona submissions](/persona-handouts/#help).
 
 If you have additional questions, check out the [Religion](/religions-faq/) FAQ.
 
